@@ -37,9 +37,11 @@ jobs:
         with:
           node-version: ${{ env.NODE_VERSION }}
 
-      # Step 1: Source monitoring
+      # Step 1: Source monitoring (RSS feeds + tip line)
       - name: Run source monitor
         if: ${{ github.event.inputs.skip_monitor != 'true' }}
+        env:
+          NETLIFY_TOKEN: ${{ secrets.LAWPEEPS_MMIKE }}
         run: node agents/monitor.mjs
 
       # Step 2: Run editorial agent
@@ -84,6 +86,16 @@ jobs:
           else
             echo "has_articles=false" >> $GITHUB_OUTPUT
             echo "No new articles this cycle."
+
+            # Even without articles, commit memory updates (e.g. processed tip IDs)
+            if git status --porcelain | grep -q "agents/memory/"; then
+              git config user.name "mm!ke"
+              git config user.email "mmike@lawpeeps.ai"
+              git add agents/memory/
+              git commit -m "memory: update editorial memory (no articles this cycle)"
+              git push origin main
+              echo "Memory updates committed to main."
+            fi
           fi
 
       # Step 4: Create branch and PR if articles were drafted

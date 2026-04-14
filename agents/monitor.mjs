@@ -161,6 +161,107 @@ function loadRecentDigests(digestDir, daysBack = 3) {
   return digests;
 }
 
+// ─── Tip Line Ingestion ───────────────────────────────────────────
+
+const NETLIFY_TOKEN = process.env.NETLIFY_TOKEN;
+const NETLIFY_SITE_ID = '4b89a2c5-dc10-4d5f-92c6-c9d2c6df9185';
+
+function loadProcessedTipIds() {
+  const memoryFile = join(__dirname, 'memory', 'processed-tips.json');
+  if (!existsSync(memoryFile)) return [];
+  try {
+    return JSON.parse(readFileSync(memoryFile, 'utf-8'));
+  } catch {
+    return [];
+  }
+}
+
+function saveProcessedTipIds(ids) {
+  const memoryDir = join(__dirname, 'memory');
+  mkdirSync(memoryDir, { recursive: true });
+  // Keep only the last 200 IDs to prevent unbounded growth
+  const trimmed = ids.slice(-200);
+  writeFileSync(join(memoryDir, 'processed-tips.json'), JSON.stringify(trimmed, null, 2));
+}
+
+async function fetchTipLineSubmissions() {
+  if (!NETLIFY_TOKEN) {
+    console.log('  No NETLIFY_TOKEN set, skipping tip line ingestion.');
+    return [];
+  }
+
+  try {
+    // First, get the form ID for 'tipline'
+    const formsRes = await fetch(
+      `https://api.netlify.com/api/v1/sites/${NETLIFY_SITE_ID}/forms`,
+      { headers: { Authorization: `Bearer ${NETLIFY_TOKEN}` } }
+    );
+
+    if (!formsRes.ok) {
+      throw new Error(`Forms API ${formsRes.status}: ${await formsRes.text()}`);
+    }
+
+    const forms = await formsRes.json();
+    const tipForm = forms.find(f => f.name === 'tipline');
+
+    if (!tipForm) {
+      console.log('  Tip line form not found (no submissions yet).');
+      return [];
+    }
+
+    // Fetch recent submissions
+    const subsRes = await fetch(
+      `https://api.netlify.com/api/v1/forms/${tipForm.id}/submissions?per_page=20`,
+      { headers: { Authorization: `Bearer ${NETLIFY_TOKEN}` } }
+    );
+
+    if (!subsRes.ok) {
+      throw new Error(`Submissions API ${subsRes.status}: ${await subsRes.text()}`);
+    }
+
+    const submissions = await subsRes.json();
+
+    // Filter to tips from the last 48 hours
+    const cutoff = new Date(Date.now() - 48 * 60 * 60 * 1000);
+    const recent = submissions.filter(s => new Date(s.created_at) >= cutoff);
+
+    // Filter out already-processed tips
+    const processedIds = loadProcessedTipIds();
+    const newTips = recent.filter(s => !processedIds.includes(s.id));
+
+    if (newTips.length === 0) {
+      console.log('  No new tip line submissions.');
+      return [];
+    }
+
+    console.log(`  Found ${newTips.length} new tip(s) from the tip line.`);
+
+    // Mark these tips as processed
+    const updatedIds = [...processedIds, ...newTips.map(s => s.id)];
+    saveProcessedTipIds(updatedIds);
+
+    // Convert to digest-compatible items
+    return newTips.map(s => ({
+      title: `[TIP] ${(s.data.content || '').slice(0, 80)}${(s.data.content || '').length > 80 ? '...' : ''}`,
+      link: s.data.links || '',
+      description: s.data.content || '',
+      pubDate: s.created_at,
+      source: 'Tip Line',
+      sourceCategory: 'tip',
+      sourcePriority: 'high',
+      relevanceScore: 10, // Tips always get high relevance
+      tipMeta: {
+        submittedBy: s.data.name || 'Anonymous',
+        email: s.data.email || null,
+        wantsCredit: s.data.credit === 'yes',
+      },
+    }));
+  } catch (err) {
+    console.error(`  Tip line fetch failed: ${err.message}`);
+    return [];
+  }
+}
+
 async function monitor() {
   console.log('lawpeeps.ai source monitor starting...');
 
@@ -199,6 +300,11 @@ async function monitor() {
       errors.push(msg);
     }
   }
+
+  // Fetch tip line submissions
+  console.log('\nFetching tip line submissions...');
+  const tips = await fetchTipLineSubmissions();
+  allItems.push(...tips);
 
   // Sort by relevance score descending
   allItems.sort((a, b) => b.relevanceScore - a.relevanceScore);

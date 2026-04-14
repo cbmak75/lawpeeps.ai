@@ -100,31 +100,62 @@ async function callClaude(systemPrompt, userMessage, maxTokens = 4096) {
 
 async function identifyStories(digest, memory, systemPrompt) {
   const existingArticles = loadExistingArticles();
-  const recentCoverage = memory.articles.slice(-20).map(a => a.title).join('\n');
+
+  // Build rich memory context
+  const recentArticles = memory.articles.slice(-30);
+  const coverageLog = recentArticles.map(a =>
+    `- "${a.title}" (${a.category}, ${a.publishDate}) [sources: ${(a.sources || []).join('; ')}]`
+  ).join('\n');
+
+  // Extract entities and topics already covered
+  const coveredEntities = new Set();
+  const coveredTopics = new Set();
+  for (const a of recentArticles) {
+    // Extract company/product names from titles and sources
+    for (const s of (a.sources || [])) {
+      coveredEntities.add(s.toLowerCase());
+    }
+    coveredTopics.add(`${a.title.toLowerCase()}`);
+  }
+
+  // Build tip context if tips are present in the digest
+  const tipItems = digest.items.filter(i => i.source === 'Tip Line');
+  const tipContext = tipItems.length > 0
+    ? `\n\nTIP LINE SUBMISSIONS (${tipItems.length}):\nThese are reader-submitted tips. They should be treated as leads, not verified facts. Each tip needs independent verification before coverage. Tips are marked with [TIP] prefix.\n`
+    : '';
 
   const prompt = `You are reviewing the latest source monitoring digest for lawpeeps.ai. Your job is to identify which items, if any, warrant coverage.
 
 Here is the digest:
 
 ${JSON.stringify(digest.items, null, 2)}
+${tipContext}
+YOUR EDITORIAL MEMORY — articles you have already published or drafted:
 
-Here are the titles of articles you have recently published or drafted (avoid duplicating these):
+${coverageLog || '(No recent articles yet. This is the very beginning of the publication.)'}
 
-${recentCoverage || '(No recent articles yet. This is the very beginning of the publication.)'}
-
-Existing article slugs in the repository:
+Existing article slugs in the repository (DO NOT create articles with these slugs):
 ${existingArticles.join(', ') || '(Only the launch article exists.)'}
 
+${memory.lastEditorialNotes ? `Your editorial notes from the previous cycle:\n${memory.lastEditorialNotes}\n` : ''}
+DUPLICATION RULES:
+- Do NOT cover a story if you have already published an article on the same topic, event, or announcement.
+- Do NOT cover a story just because a different source is reporting the same underlying news. One article per story is enough.
+- If a story is a significant UPDATE to something you previously covered, you may write a follow-up, but flag it as such and reference the earlier piece.
+- If a tip line submission covers something already published, skip it.
+
 Instructions:
-1. Review each item in the digest.
+1. Review each item in the digest against your editorial memory above.
 2. Identify items that meet your editorial criteria: genuine news value, relevance to legal AI, not a rehash of something already covered.
 3. Apply the 50% rule: favour smaller operators, independents, and practitioner-led innovation where possible.
-4. For each item you select, specify:
+4. For tip line items: verify there is enough substance to investigate. If a tip is vague or unverifiable, note it in editorialNotes for future cycles but do not draft an article.
+5. For each item you select, specify:
    - A proposed article title
    - The article category (news, feature, profile, analysis, post-mortem, community, regulatory, research)
    - The staging classification (green, amber, red) with a brief reason
    - A one-sentence pitch explaining why this story matters
    - The source items from the digest that inform this story (by title)
+   - Whether this originated from the tip line (fromTip: true/false)
 
 If nothing in the digest warrants coverage right now, say so. It is better to publish nothing than to publish filler.
 
@@ -138,7 +169,8 @@ Respond in JSON format:
       "stagingReason": "Factual news from public announcement",
       "pitch": "Why this matters in one sentence",
       "sourceItems": ["Digest item title 1"],
-      "estimatedLength": "short|medium|long"
+      "estimatedLength": "short|medium|long",
+      "fromTip": false
     }
   ],
   "skipped": "Brief note on why other items were skipped, if relevant",
@@ -161,6 +193,10 @@ async function draftArticle(story, digest, memory, systemPrompt) {
     story.sourceItems.some(s => item.title.toLowerCase().includes(s.toLowerCase().slice(0, 30)))
   );
 
+  const tipNote = story.fromTip
+    ? `\nIMPORTANT: This story originated from a reader tip. You must independently verify the claims using the source material provided. If you cannot verify key claims, say so explicitly in the article. If the tipster asked for credit, mention "reported to lawpeeps.ai by a reader" in the article.\n`
+    : '';
+
   const prompt = `Draft an article for lawpeeps.ai.
 
 Story brief:
@@ -169,7 +205,8 @@ Story brief:
 - Staging: ${story.staging} (${story.stagingReason})
 - Pitch: ${story.pitch}
 - Estimated length: ${story.estimatedLength}
-
+- From tip line: ${story.fromTip ? 'yes' : 'no'}
+${tipNote}
 Source material from the monitoring digest:
 ${JSON.stringify(relevantItems, null, 2)}
 
@@ -177,7 +214,7 @@ Today's date: ${new Date().toISOString().slice(0, 10)}
 
 Instructions:
 1. Write the complete article in markdown with the required frontmatter.
-2. The frontmatter MUST include: title, description, publishDate (today), author ("mm!ke"), tags (array), category, staging, sources (array of source descriptions), and editorNote.
+2. The frontmatter MUST start with --- on the very first line (no code fences, no backticks). The frontmatter MUST include: title, description, publishDate (today), author ("mm!ke"), tags (array), category, staging, sources (array of source descriptions), and editorNote.
 3. Write in your voice. Warm, direct, slightly dry. UK English throughout.
 4. NO em dashes. NO emojis. NO banned words or phrases.
 5. Every factual claim must reference its source material. If you cannot verify something from the provided sources, flag it explicitly.
