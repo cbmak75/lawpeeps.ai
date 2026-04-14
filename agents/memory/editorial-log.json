@@ -6,11 +6,33 @@
       "category": "community",
       "staging": "green",
       "publishDate": "2026-04-14",
-      "sources": ["Launch article, no external sources"]
+      "sources": [
+        "Launch article, no external sources"
+      ]
+    },
+    {
+      "title": "Orbital Launches Real Estate Law Firm as Legal Tech Consolidation Continues",
+      "slug": "orbital-launches-real-estate-law-firm-as-legal-tech-consolidation-continues",
+      "category": "news",
+      "staging": "green",
+      "publishDate": "2026-04-14",
+      "sources": [
+        "Orbital Launches Its Own Real Estate Law Firm"
+      ]
+    },
+    {
+      "title": "First UK Integration: Inspire Legal Group Connects Qanooni AI with Actionstep",
+      "slug": "first-uk-integration-inspire-legal-group-connects-qanooni-ai-with-actionstep",
+      "category": "news",
+      "staging": "green",
+      "publishDate": "2026-04-14",
+      "sources": [
+        "Inspire Legal Group becomes first UK firm to integrate Qanooni AI with Actionstep"
+      ]
     }
   ],
   "entities": {},
   "sourceNotes": {},
-  "lastEditorialNotes": null,
-  "lastEditorialNotesDate": null
+  "lastEditorialNotes": "Notable trend: legal tech companies moving into direct service provision (Orbital). Also seeing more practical AI implementations at smaller firms rather than just enterprise announcements. Watch for more vertical integration stories.",
+  "lastEditorialNotesDate": "2026-04-14T22:25:52.746Z"
 }
