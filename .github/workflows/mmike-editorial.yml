@@ -52,7 +52,7 @@ jobs:
       - name: Check for new articles
         id: check
         run: |
-          if git diff --name-only | grep -q "src/content/articles/"; then
+          if git status --porcelain | grep -q "src/content/articles/"; then
             echo "has_articles=true" >> $GITHUB_OUTPUT
 
             # Extract article info from last-run.json
