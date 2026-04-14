@@ -109,8 +109,10 @@ jobs:
           LABEL="staging:${STAGING}"
 
           # Build PR body from last-run summary
+          export STAGING
           BODY=$(node -e "
             const r = JSON.parse(require('fs').readFileSync('agents/last-run.json','utf-8'));
+            const staging = process.env.STAGING || 'green';
             const lines = ['## mm!ke editorial submission\n'];
             for (const a of (r.articles || [])) {
               lines.push('### ' + a.title);
@@ -124,9 +126,9 @@ jobs:
               lines.push('');
             }
             lines.push('---');
-            if (STAGING === 'green') {
+            if (staging === 'green') {
               lines.push('*GREEN: This will auto-merge after the 2-hour hold window unless you close the PR.*');
-            } else if (STAGING === 'amber') {
+            } else if (staging === 'amber') {
               lines.push('*AMBER: Requires your review. Will publish after 24 hours with a disclosure note if no action taken.*');
             } else {
               lines.push('*RED: Held indefinitely. Will not publish without your explicit approval.*');
