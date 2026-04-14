@@ -92,8 +92,7 @@ jobs:
           git config user.email "mmike@lawpeeps.ai"
           git add src/content/articles/
           git add agents/memory/
-          git add agents/digests/
-          git add agents/last-run.json
+          git add -f agents/last-run.json
           git commit -m "draft: ${{ steps.check.outputs.slug }}
 
           mm!ke editorial cycle: ${{ steps.check.outputs.article_count }} article(s) drafted.
