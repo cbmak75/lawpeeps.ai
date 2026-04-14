@@ -1,0 +1,65 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+import GlassesDivider from '../../components/GlassesDivider.astro';
+import { getCollection } from 'astro:content';
+
+const articles = (await getCollection('articles'))
+  .sort((a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf());
+
+const categories = [...new Set(articles.map(a => a.data.category))].sort();
+---
+<BaseLayout title="Articles" description="All articles published by lawpeeps.ai, covering legal AI news, features, profiles, analysis and more.">
+
+  <section class="articles-header container">
+    <h1>Articles</h1>
+    <p class="articles-intro">Everything published by lawpeeps.ai, newest first. News, features, profiles, post-mortems, and the occasional editorial rant.</p>
+  </section>
+
+  <section class="articles-section container">
+    <div class="articles-grid">
+      {articles.map(article => (
+        <ArticleCard
+          title={article.data.title}
+          description={article.data.description}
+          publishDate={article.data.publishDate}
+          category={article.data.category}
+          slug={article.id}
+          body={article.body || ''}
+        />
+      ))}
+    </div>
+  </section>
+
+  <div class="container">
+    <GlassesDivider />
+  </div>
+
+</BaseLayout>
+
+<style>
+  .articles-header {
+    padding-top: var(--space-3xl);
+    padding-bottom: var(--space-lg);
+  }
+
+  .articles-header h1 {
+    margin-bottom: var(--space-sm);
+  }
+
+  .articles-intro {
+    color: var(--caption-grey);
+    font-size: var(--text-lg);
+    max-width: 640px;
+  }
+
+  .articles-section {
+    padding-bottom: var(--space-3xl);
+  }
+
+  .articles-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: var(--space-xl);
+  }
+</style>
