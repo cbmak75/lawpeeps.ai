@@ -1,0 +1,114 @@
+{
+  "rss_feeds": [
+    {
+      "name": "Artificial Lawyer",
+      "url": "https://www.artificiallawyer.com/feed/",
+      "category": "legal-ai-news",
+      "priority": "high"
+    },
+    {
+      "name": "Legal IT Insider",
+      "url": "https://www.legaltechnology.com/feed/",
+      "category": "legal-tech-news",
+      "priority": "high"
+    },
+    {
+      "name": "Law Society Gazette",
+      "url": "https://www.lawgazette.co.uk/rss",
+      "category": "legal-profession",
+      "priority": "medium"
+    },
+    {
+      "name": "The Law Society - Technology",
+      "url": "https://www.lawsociety.org.uk/topics/technology/rss",
+      "category": "legal-profession",
+      "priority": "medium"
+    },
+    {
+      "name": "Legal Futures",
+      "url": "https://www.legalfutures.co.uk/feed",
+      "category": "legal-business",
+      "priority": "high"
+    },
+    {
+      "name": "Free Movement",
+      "url": "https://freemovement.org.uk/feed/",
+      "category": "immigration-law",
+      "priority": "medium"
+    },
+    {
+      "name": "TechCrunch - AI",
+      "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "category": "general-ai",
+      "priority": "low"
+    },
+    {
+      "name": "The Register - AI",
+      "url": "https://www.theregister.com/headlines.atom",
+      "category": "general-tech",
+      "priority": "low"
+    },
+    {
+      "name": "BAILII Recent Decisions",
+      "url": "https://www.bailii.org/bailii/rss.xml",
+      "category": "case-law",
+      "priority": "low"
+    },
+    {
+      "name": "SRA News",
+      "url": "https://www.sra.org.uk/sra/news/rss/",
+      "category": "regulatory",
+      "priority": "high"
+    },
+    {
+      "name": "Hacker News",
+      "url": "https://hnrss.org/newest?q=legal+AI",
+      "category": "community",
+      "priority": "low"
+    },
+    {
+      "name": "arXiv - cs.CL (Computation and Language)",
+      "url": "https://rss.arxiv.org/rss/cs.CL",
+      "category": "research",
+      "priority": "low"
+    }
+  ],
+  "keywords": [
+    "legal AI",
+    "legal technology",
+    "legaltech",
+    "lawtech",
+    "AI lawyer",
+    "AI legal",
+    "SRA technology",
+    "legal automation",
+    "access to justice AI",
+    "legal LLM",
+    "contract AI",
+    "legal chatbot",
+    "AI regulation law",
+    "legal innovation",
+    "legal startup"
+  ],
+  "companies_watch_list": [
+    "Harvey AI",
+    "Luminance",
+    "Clio",
+    "Lawhive",
+    "Robin AI",
+    "Lexis+AI",
+    "CoCounsel",
+    "Spellbook",
+    "EvenUp",
+    "Deel",
+    "Juro",
+    "Leya",
+    "Garble",
+    "Josef",
+    "Definely",
+    "Orbital Witness",
+    "Avvoka",
+    "Legora",
+    "Casedo"
+  ]
+}

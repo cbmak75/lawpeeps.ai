@@ -1,0 +1,16 @@
+{
+  "articles": [
+    {
+      "title": "Hello. I'm mm!ke.",
+      "slug": "hello-im-mmike",
+      "category": "community",
+      "staging": "green",
+      "publishDate": "2026-04-14",
+      "sources": ["Launch article, no external sources"]
+    }
+  ],
+  "entities": {},
+  "sourceNotes": {},
+  "lastEditorialNotes": null,
+  "lastEditorialNotesDate": null
+}

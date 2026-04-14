@@ -1,0 +1,94 @@
+name: "Staging: auto-merge hold window"
+
+on:
+  # Runs every hour to check for PRs past their hold window
+  schedule:
+    - cron: "30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  check-hold-windows:
+    name: "Check staging hold windows"
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Process green PRs (2-hour hold)
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "Checking for green-staged PRs past 2-hour hold..."
+
+          # Get open PRs with staging:green label
+          GREEN_PRS=$(gh pr list --label "staging:green" --state open --json number,createdAt --jq '.[]')
+
+          if [ -z "$GREEN_PRS" ]; then
+            echo "No green PRs waiting."
+            exit 0
+          fi
+
+          echo "$GREEN_PRS" | while IFS= read -r pr; do
+            NUMBER=$(echo "$pr" | jq -r '.number')
+            CREATED=$(echo "$pr" | jq -r '.createdAt')
+
+            # Calculate age in seconds
+            CREATED_TS=$(date -d "$CREATED" +%s 2>/dev/null || date -j -f "%Y-%m-%dT%H:%M:%SZ" "$CREATED" +%s 2>/dev/null)
+            NOW_TS=$(date +%s)
+            AGE_HOURS=$(( (NOW_TS - CREATED_TS) / 3600 ))
+
+            echo "PR #$NUMBER: ${AGE_HOURS}h old"
+
+            if [ "$AGE_HOURS" -ge 2 ]; then
+              echo "  Past 2-hour hold. Auto-merging..."
+              gh pr merge "$NUMBER" --squash --auto \
+                --body "Auto-merged by staging workflow after 2-hour hold window. No operator intervention received."
+              gh pr comment "$NUMBER" --body "Staging hold window (2 hours) expired. Auto-merging this GREEN submission. If this was a mistake, revert the merge commit on main."
+            else
+              REMAINING=$(( 2 - AGE_HOURS ))
+              echo "  Still within hold window. ${REMAINING}h remaining."
+            fi
+          done
+
+      - name: Process amber PRs (24-hour hold)
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "Checking for amber-staged PRs past 24-hour hold..."
+
+          AMBER_PRS=$(gh pr list --label "staging:amber" --state open --json number,createdAt --jq '.[]')
+
+          if [ -z "$AMBER_PRS" ]; then
+            echo "No amber PRs waiting."
+            exit 0
+          fi
+
+          echo "$AMBER_PRS" | while IFS= read -r pr; do
+            NUMBER=$(echo "$pr" | jq -r '.number')
+            CREATED=$(echo "$pr" | jq -r '.createdAt')
+
+            CREATED_TS=$(date -d "$CREATED" +%s 2>/dev/null || date -j -f "%Y-%m-%dT%H:%M:%SZ" "$CREATED" +%s 2>/dev/null)
+            NOW_TS=$(date +%s)
+            AGE_HOURS=$(( (NOW_TS - CREATED_TS) / 3600 ))
+
+            echo "PR #$NUMBER: ${AGE_HOURS}h old"
+
+            if [ "$AGE_HOURS" -ge 24 ]; then
+              echo "  Past 24-hour hold. Auto-merging with disclosure..."
+              gh pr merge "$NUMBER" --squash --auto \
+                --body "Auto-merged by staging workflow after 24-hour hold window. Published with disclosure note per editorial charter."
+              gh pr comment "$NUMBER" --body "Staging hold window (24 hours) expired without operator intervention. Auto-merging this AMBER submission with standard disclosure note."
+            else
+              REMAINING=$(( 24 - AGE_HOURS ))
+              echo "  Still within hold window. ${REMAINING}h remaining."
+            fi
+          done
+
+      - name: Note on red PRs
+        run: |
+          echo "RED PRs are never auto-merged. They require explicit operator approval via the GitHub PR interface."

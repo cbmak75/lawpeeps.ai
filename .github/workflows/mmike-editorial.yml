@@ -1,0 +1,160 @@
+name: "mm!ke editorial cycle"
+
+on:
+  schedule:
+    # Run every 6 hours: midnight, 6am, noon, 6pm UTC
+    - cron: "0 0,6,12,18 * * *"
+  workflow_dispatch:
+    # Allow manual trigger from GitHub Actions UI
+    inputs:
+      skip_monitor:
+        description: "Skip monitoring and use existing digest"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+env:
+  NODE_VERSION: "22"
+
+jobs:
+  editorial-cycle:
+    name: "mm!ke editorial cycle"
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+
+      # Step 1: Source monitoring
+      - name: Run source monitor
+        if: ${{ github.event.inputs.skip_monitor != 'true' }}
+        run: node agents/monitor.mjs
+
+      # Step 2: Run editorial agent
+      - name: Run editorial agent
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node agents/editor.mjs
+
+      # Step 3: Check if any articles were drafted
+      - name: Check for new articles
+        id: check
+        run: |
+          if git diff --name-only | grep -q "src/content/articles/"; then
+            echo "has_articles=true" >> $GITHUB_OUTPUT
+
+            # Extract article info from last-run.json
+            ARTICLE_COUNT=$(node -e "
+              const r = JSON.parse(require('fs').readFileSync('agents/last-run.json','utf-8'));
+              console.log(r.articlesDrafted || 0);
+            ")
+            echo "article_count=$ARTICLE_COUNT" >> $GITHUB_OUTPUT
+
+            # Get the staging level of the first article
+            STAGING=$(node -e "
+              const r = JSON.parse(require('fs').readFileSync('agents/last-run.json','utf-8'));
+              const a = r.articles && r.articles[0];
+              console.log(a ? a.staging : 'green');
+            ")
+            echo "staging=$STAGING" >> $GITHUB_OUTPUT
+
+            # Get the first article title for the branch name
+            TITLE=$(node -e "
+              const r = JSON.parse(require('fs').readFileSync('agents/last-run.json','utf-8'));
+              const a = r.articles && r.articles[0];
+              console.log(a ? a.slug : 'article');
+            ")
+            echo "slug=$TITLE" >> $GITHUB_OUTPUT
+          else
+            echo "has_articles=false" >> $GITHUB_OUTPUT
+            echo "No new articles this cycle."
+          fi
+
+      # Step 4: Create branch and PR if articles were drafted
+      - name: Create branch and commit
+        if: steps.check.outputs.has_articles == 'true'
+        run: |
+          BRANCH="mmike/${{ steps.check.outputs.slug }}"
+          git checkout -b "$BRANCH"
+          git config user.name "mm!ke"
+          git config user.email "mmike@lawpeeps.ai"
+          git add src/content/articles/
+          git add agents/memory/
+          git add agents/digests/
+          git add agents/last-run.json
+          git commit -m "draft: ${{ steps.check.outputs.slug }}
+
+          mm!ke editorial cycle: ${{ steps.check.outputs.article_count }} article(s) drafted.
+          Staging: ${{ steps.check.outputs.staging }}"
+          git push origin "$BRANCH"
+          echo "branch=$BRANCH" >> $GITHUB_ENV
+
+      - name: Create pull request
+        if: steps.check.outputs.has_articles == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          STAGING="${{ steps.check.outputs.staging }}"
+          LABEL="staging:${STAGING}"
+
+          # Build PR body from last-run summary
+          BODY=$(node -e "
+            const r = JSON.parse(require('fs').readFileSync('agents/last-run.json','utf-8'));
+            const lines = ['## mm!ke editorial submission\n'];
+            for (const a of (r.articles || [])) {
+              lines.push('### ' + a.title);
+              lines.push('- **Category:** ' + a.category);
+              lines.push('- **Staging:** ' + a.staging.toUpperCase() + ' (' + a.stagingReason + ')');
+              lines.push('');
+            }
+            if (r.editorialNotes) {
+              lines.push('### Editorial notes');
+              lines.push(r.editorialNotes);
+              lines.push('');
+            }
+            lines.push('---');
+            if (STAGING === 'green') {
+              lines.push('*GREEN: This will auto-merge after the 2-hour hold window unless you close the PR.*');
+            } else if (STAGING === 'amber') {
+              lines.push('*AMBER: Requires your review. Will publish after 24 hours with a disclosure note if no action taken.*');
+            } else {
+              lines.push('*RED: Held indefinitely. Will not publish without your explicit approval.*');
+            }
+            console.log(lines.join('\n'));
+          ")
+
+          # Create labels if they don't exist (ignore errors)
+          gh label create "staging:green" --color "2ea44f" --description "Auto-publish after 2h hold" 2>/dev/null || true
+          gh label create "staging:amber" --color "d29922" --description "Requires operator review" 2>/dev/null || true
+          gh label create "staging:red" --color "cf222e" --description "Held indefinitely" 2>/dev/null || true
+          gh label create "mmike" --color "ff69b4" --description "mm!ke editorial submission" 2>/dev/null || true
+
+          gh pr create \
+            --title "mm!ke: ${{ steps.check.outputs.slug }}" \
+            --body "$BODY" \
+            --label "$LABEL" \
+            --label "mmike" \
+            --base main \
+            --head "${{ env.branch }}"
+
+      # Step 5: Log the cycle result
+      - name: Log result
+        if: always()
+        run: |
+          if [ "${{ steps.check.outputs.has_articles }}" = "true" ]; then
+            echo "::notice::mm!ke drafted ${{ steps.check.outputs.article_count }} article(s). PR created with staging: ${{ steps.check.outputs.staging }}"
+          else
+            echo "::notice::mm!ke found nothing worth covering this cycle."
+          fi
