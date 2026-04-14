@@ -1,0 +1,130 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import EditorNote from '../components/EditorNote.astro';
+import GlassesDivider from '../components/GlassesDivider.astro';
+import { formatDate, readingTime } from '../lib/utils';
+
+interface Props {
+  title: string;
+  description: string;
+  publishDate: Date;
+  author: string;
+  tags: string[];
+  category: string;
+  editorNote: string;
+  correction?: { date: Date; detail: string };
+  body: string;
+}
+
+const {
+  title,
+  description,
+  publishDate,
+  author,
+  tags,
+  category,
+  editorNote,
+  correction,
+  body,
+} = Astro.props;
+---
+<BaseLayout title={title} description={description}>
+  <article class="article container">
+
+    {correction && (
+      <div class="correction">
+        <strong>Correction ({formatDate(correction.date)}):</strong> {correction.detail}
+      </div>
+    )}
+
+    <header class="article-header">
+      <span class={`tag ${['news', 'regulatory', 'research'].includes(category) ? 'tag-blue' : 'tag-pink'}`}>
+        {category}
+      </span>
+      <h1>{title}</h1>
+      <div class="article-meta">
+        <span class="author">By {author}</span>
+        <span class="separator">|</span>
+        <time datetime={publishDate.toISOString()}>{formatDate(publishDate)}</time>
+        <span class="separator">|</span>
+        <span class="reading-time">{readingTime(body)}</span>
+      </div>
+    </header>
+
+    <GlassesDivider />
+
+    <div class="article-body content-width">
+      <slot />
+    </div>
+
+    <GlassesDivider />
+
+    <EditorNote note={editorNote} />
+
+    <footer class="article-tags">
+      {tags.map((tag: string) => (
+        <a href={`/tags/${tag}`} class="tag tag-blue">{tag}</a>
+      ))}
+    </footer>
+
+  </article>
+</BaseLayout>
+
+<style>
+  .article {
+    padding-top: var(--space-3xl);
+    padding-bottom: var(--space-4xl);
+  }
+
+  .correction {
+    background: var(--tint-pink);
+    border: var(--border-chunky);
+    padding: var(--space-md) var(--space-lg);
+    margin-bottom: var(--space-2xl);
+    max-width: var(--max-width-content);
+  }
+
+  .article-header {
+    margin-bottom: var(--space-2xl);
+    max-width: var(--max-width-content);
+  }
+
+  .article-header h1 {
+    margin-top: var(--space-md);
+    margin-bottom: var(--space-md);
+  }
+
+  .article-meta {
+    font-size: var(--text-sm);
+    color: var(--colour-caption);
+    font-family: var(--font-mono);
+  }
+
+  .separator {
+    margin: 0 var(--space-sm);
+    opacity: 0.4;
+  }
+
+  .article-body {
+    margin-bottom: var(--space-2xl);
+  }
+
+  .article-body :global(h2) {
+    margin-top: var(--space-3xl);
+  }
+
+  .article-body :global(p) {
+    margin-bottom: var(--space-md);
+  }
+
+  .article-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-sm);
+    max-width: var(--max-width-content);
+  }
+
+  .article-tags a {
+    text-decoration: none;
+  }
+</style>

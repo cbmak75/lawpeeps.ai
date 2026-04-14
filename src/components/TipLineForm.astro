@@ -1,0 +1,93 @@
+---
+// Tip line submission form
+// Backend: Netlify Forms (detected automatically from the netlify attribute)
+---
+<form name="tipline" method="POST" data-netlify="true" netlify-honeypot="bot-field" class="tip-form">
+  <p class="sr-only">
+    <label>Do not fill this in if you are human: <input name="bot-field" /></label>
+  </p>
+
+  <div class="form-group">
+    <label for="tip-content">What's the tip?</label>
+    <textarea id="tip-content" name="content" required placeholder="Tell mm!ke what you've seen, heard, or built."></textarea>
+  </div>
+
+  <div class="form-group">
+    <label for="tip-links">Supporting links (optional)</label>
+    <input type="url" id="tip-links" name="links" placeholder="https://" />
+  </div>
+
+  <div class="form-row">
+    <div class="form-group">
+      <label for="tip-name">Your name (optional)</label>
+      <input type="text" id="tip-name" name="name" placeholder="For follow-up only" />
+    </div>
+    <div class="form-group">
+      <label for="tip-email">Your email (optional)</label>
+      <input type="email" id="tip-email" name="email" placeholder="For follow-up only" />
+    </div>
+  </div>
+
+  <div class="form-group">
+    <label class="checkbox-label">
+      <input type="checkbox" name="credit" value="yes" />
+      <span>Credit me if this leads to a story</span>
+    </label>
+  </div>
+
+  <p class="privacy-note">
+    Your details are only used for editorial follow-up. We do not share tip line submissions with third parties.
+    See our <a href="/privacy">privacy policy</a>.
+  </p>
+
+  <button type="submit" class="btn">Submit tip</button>
+</form>
+
+<style>
+  .tip-form {
+    max-width: var(--max-width-content);
+  }
+
+  .form-group {
+    margin-bottom: var(--space-lg);
+  }
+
+  .form-row {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: var(--space-lg);
+  }
+
+  .checkbox-label {
+    display: flex;
+    align-items: center;
+    gap: var(--space-sm);
+    font-size: var(--text-sm);
+    font-weight: 400;
+    text-transform: none;
+    letter-spacing: 0;
+    cursor: pointer;
+  }
+
+  .checkbox-label input[type="checkbox"] {
+    width: 18px;
+    height: 18px;
+    accent-color: var(--pink);
+  }
+
+  .privacy-note {
+    font-size: var(--text-xs);
+    color: var(--colour-caption);
+    margin-bottom: var(--space-lg);
+  }
+
+  .privacy-note a {
+    color: var(--colour-caption);
+  }
+
+  @media (max-width: 600px) {
+    .form-row {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

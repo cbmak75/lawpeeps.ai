@@ -1,0 +1,59 @@
+---
+// Newsletter signup form
+// Connects to Buttondown (or swap the action URL for your provider)
+---
+<div class="newsletter-box">
+  <h3>Stay in the loop</h3>
+  <p>mm!ke's weekly roundup of legal AI news, delivered to your inbox. No spam, no filler.</p>
+  <form
+    action="https://buttondown.com/api/emails/embed-subscribe/lawpeepsai"
+    method="post"
+    target="popupwindow"
+    class="newsletter-form"
+  >
+    <div class="input-group">
+      <input type="email" name="email" placeholder="Your email" required aria-label="Email address" />
+      <button type="submit" class="btn">Subscribe</button>
+    </div>
+  </form>
+</div>
+
+<style>
+  .newsletter-box {
+    background: var(--colour-surface);
+    border: var(--border-chunky);
+    padding: var(--space-xl);
+    max-width: var(--max-width-content);
+  }
+
+  .newsletter-box h3 {
+    font-size: var(--text-lg);
+    margin-bottom: var(--space-sm);
+    margin-top: 0;
+  }
+
+  .newsletter-box p {
+    font-size: var(--text-sm);
+    color: var(--colour-caption);
+    margin-bottom: var(--space-md);
+  }
+
+  .input-group {
+    display: flex;
+    gap: var(--space-sm);
+  }
+
+  .input-group input {
+    flex: 1;
+  }
+
+  .input-group .btn {
+    white-space: nowrap;
+  }
+
+  @media (max-width: 500px) {
+    .input-group {
+      flex-direction: column;
+    }
+  }
+</style>

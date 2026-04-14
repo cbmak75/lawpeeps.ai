@@ -1,0 +1,199 @@
+/* lawpeeps.ai retro 80s texture layer */
+
+/* ---- Scan lines ---- */
+.scanlines {
+  position: relative;
+}
+
+.scanlines::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: repeating-linear-gradient(
+    to bottom,
+    transparent,
+    transparent 2px,
+    rgba(0, 0, 0, 0.03) 2px,
+    rgba(0, 0, 0, 0.03) 4px
+  );
+  pointer-events: none;
+  z-index: 1;
+}
+
+/* Stronger scan lines for hero sections */
+.scanlines-strong::after {
+  background: repeating-linear-gradient(
+    to bottom,
+    transparent,
+    transparent 2px,
+    rgba(0, 0, 0, 0.06) 2px,
+    rgba(0, 0, 0, 0.06) 4px
+  );
+}
+
+/* ---- Halftone dots ---- */
+.halftone {
+  position: relative;
+}
+
+.halftone::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-image: radial-gradient(circle, rgba(0, 0, 0, 0.08) 1px, transparent 1px);
+  background-size: 6px 6px;
+  pointer-events: none;
+  z-index: 1;
+}
+
+.halftone-pink::before {
+  background-image: radial-gradient(circle, rgba(255, 105, 180, 0.1) 1px, transparent 1px);
+}
+
+.halftone-blue::before {
+  background-image: radial-gradient(circle, rgba(84, 160, 255, 0.1) 1px, transparent 1px);
+}
+
+/* ---- Pixel grid ---- */
+.pixel-grid {
+  position: relative;
+}
+
+.pixel-grid::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-image:
+    linear-gradient(rgba(0, 0, 0, 0.02) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(0, 0, 0, 0.02) 1px, transparent 1px);
+  background-size: 4px 4px;
+  pointer-events: none;
+  z-index: 1;
+}
+
+/* ---- Neon glow ---- */
+.glow-pink {
+  text-shadow:
+    0 0 10px rgba(255, 105, 180, 0.6),
+    0 0 30px rgba(255, 105, 180, 0.3);
+}
+
+.glow-blue {
+  text-shadow:
+    0 0 10px rgba(84, 160, 255, 0.6),
+    0 0 30px rgba(84, 160, 255, 0.3);
+}
+
+.box-glow-pink {
+  box-shadow: 0 0 20px rgba(255, 105, 180, 0.4);
+}
+
+.box-glow-blue {
+  box-shadow: 0 0 20px rgba(84, 160, 255, 0.4);
+}
+
+/* ---- Chunky card ---- */
+.card {
+  background: var(--colour-bg);
+  border: var(--border-chunky);
+  box-shadow: var(--shadow-chunky);
+  padding: var(--space-lg);
+  transition: transform 0.1s ease, box-shadow 0.1s ease;
+}
+
+.card:hover {
+  transform: translate(2px, 2px);
+  box-shadow: 2px 2px 0 var(--black);
+}
+
+/* ---- Stepped gradient backgrounds ---- */
+.gradient-band {
+  background: linear-gradient(
+    135deg,
+    var(--pink) 0%,
+    var(--pink) 20%,
+    #d55fbc 20%,
+    #d55fbc 40%,
+    #ab56c4 40%,
+    #ab56c4 60%,
+    #7f6cda 60%,
+    #7f6cda 80%,
+    var(--blue) 80%,
+    var(--blue) 100%
+  );
+}
+
+/* ---- CRT flicker animation (for loading states) ---- */
+@keyframes crt-on {
+  0% {
+    opacity: 0;
+    transform: scaleY(0.01);
+  }
+  40% {
+    opacity: 0.6;
+    transform: scaleY(0.01);
+  }
+  50% {
+    opacity: 1;
+    transform: scaleY(1.2);
+  }
+  60% {
+    transform: scaleY(0.9);
+  }
+  70% {
+    transform: scaleY(1.05);
+  }
+  80% {
+    transform: scaleY(0.98);
+  }
+  100% {
+    transform: scaleY(1);
+    opacity: 1;
+  }
+}
+
+.crt-on {
+  animation: crt-on 0.6s ease-out forwards;
+}
+
+/* ---- Retro colour blocks ---- */
+.bg-pink {
+  background-color: var(--pink);
+  color: var(--white);
+}
+
+.bg-blue {
+  background-color: var(--blue);
+  color: var(--white);
+}
+
+.bg-black {
+  background-color: var(--black);
+  color: var(--white);
+}
+
+.bg-surface {
+  background-color: var(--colour-surface);
+}
+
+.bg-tint-pink {
+  background-color: var(--tint-pink);
+}
+
+.bg-tint-blue {
+  background-color: var(--tint-blue);
+}
+
+/* ---- Retro divider (glasses silhouette) ---- */
+.divider-glasses {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: var(--space-3xl) 0;
+  opacity: 0.2;
+}
+
+.divider-glasses svg {
+  width: 80px;
+  height: auto;
+}

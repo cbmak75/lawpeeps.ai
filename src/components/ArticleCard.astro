@@ -1,0 +1,57 @@
+---
+import { formatDate, readingTime } from '../lib/utils';
+
+interface Props {
+  title: string;
+  description: string;
+  publishDate: Date;
+  category: string;
+  slug: string;
+  body: string;
+}
+
+const { title, description, publishDate, category, slug, body } = Astro.props;
+const isBlueCategory = ['news', 'regulatory', 'research'].includes(category);
+---
+<a href={`/articles/${slug}`} class="article-card card">
+  <span class={`tag ${isBlueCategory ? 'tag-blue' : 'tag-pink'}`}>{category}</span>
+  <h3 class="card-title">{title}</h3>
+  <p class="card-description">{description}</p>
+  <div class="card-meta">
+    <time datetime={publishDate.toISOString()}>{formatDate(publishDate)}</time>
+    <span class="separator">|</span>
+    <span>{readingTime(body)}</span>
+  </div>
+</a>
+
+<style>
+  .article-card {
+    display: block;
+    text-decoration: none;
+    color: var(--colour-text);
+  }
+
+  .card-title {
+    font-size: var(--text-xl);
+    margin: var(--space-sm) 0 var(--space-sm);
+    color: var(--colour-heading);
+    line-height: var(--leading-tight);
+  }
+
+  .card-description {
+    font-size: var(--text-sm);
+    margin-bottom: var(--space-md);
+    opacity: 0.8;
+  }
+
+  .card-meta {
+    font-family: var(--font-mono);
+    font-size: var(--text-xs);
+    color: var(--colour-caption);
+  }
+
+  .separator {
+    margin: 0 var(--space-xs);
+    opacity: 0.4;
+  }
+</style>

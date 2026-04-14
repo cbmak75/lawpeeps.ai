@@ -1,0 +1,109 @@
+---
+import { NAV_LINKS, SITE } from '../lib/constants';
+---
+<header class="site-header scanlines">
+  <div class="header-inner container">
+    <a href="/" class="logo" aria-label={SITE.title}>
+      <span class="logo-text">lawpeeps<span class="logo-dot">.ai</span></span>
+    </a>
+    <nav aria-label="Main navigation">
+      <ul class="nav-list">
+        {NAV_LINKS.map(link => (
+          <li><a href={link.href}>{link.label}</a></li>
+        ))}
+      </ul>
+    </nav>
+    <button id="theme-toggle" class="theme-toggle" aria-label="Toggle dark mode" type="button">
+      <span class="toggle-icon" aria-hidden="true"></span>
+    </button>
+  </div>
+</header>
+
+<style>
+  .site-header {
+    position: relative;
+    background: var(--black);
+    color: var(--white);
+    padding: var(--space-md) 0;
+    overflow: hidden;
+  }
+
+  .header-inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: var(--space-lg);
+    position: relative;
+    z-index: 2;
+  }
+
+  .logo {
+    text-decoration: none;
+    color: var(--white);
+  }
+
+  .logo-text {
+    font-family: var(--font-heading);
+    font-weight: 700;
+    font-size: var(--text-2xl);
+    letter-spacing: -0.02em;
+  }
+
+  .logo-dot {
+    color: var(--pink);
+  }
+
+  .nav-list {
+    display: flex;
+    list-style: none;
+    gap: var(--space-lg);
+  }
+
+  .nav-list a {
+    color: var(--white);
+    text-decoration: none;
+    font-size: var(--text-sm);
+    font-weight: 500;
+    text-transform: lowercase;
+    letter-spacing: 0.02em;
+    transition: color 0.15s ease;
+  }
+
+  .nav-list a:hover {
+    color: var(--pink);
+  }
+
+  .theme-toggle {
+    background: none;
+    border: 2px solid rgba(255, 255, 255, 0.3);
+    color: var(--white);
+    width: 36px;
+    height: 36px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: border-color 0.15s ease;
+  }
+
+  .theme-toggle:hover {
+    border-color: var(--pink);
+  }
+
+  .toggle-icon::before {
+    content: '\263C'; /* sun symbol */
+    font-size: 1.1rem;
+  }
+
+  /* Responsive */
+  @media (max-width: 768px) {
+    .header-inner {
+      flex-wrap: wrap;
+    }
+
+    .nav-list {
+      gap: var(--space-md);
+      font-size: var(--text-xs);
+    }
+  }
+</style>

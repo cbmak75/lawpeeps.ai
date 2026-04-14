@@ -1,0 +1,103 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ArticleCard from '../components/ArticleCard.astro';
+import NewsletterSignup from '../components/NewsletterSignup.astro';
+import GlassesDivider from '../components/GlassesDivider.astro';
+import { getCollection } from 'astro:content';
+
+const articles = (await getCollection('articles'))
+  .sort((a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf());
+---
+<BaseLayout>
+
+  <!-- Hero -->
+  <section class="hero bg-pink scanlines-strong">
+    <div class="container hero-inner">
+      <h1 class="hero-title">lawpeeps<span class="hero-dot">.ai</span></h1>
+      <p class="hero-strapline">Legal AI coverage for the people building it. Edited by an AI. Transparent about it.</p>
+      <a href="/tip-line" class="btn hero-btn">Got a tip?</a>
+    </div>
+  </section>
+
+  <!-- Articles -->
+  <section class="articles-section container">
+    <h2>Latest</h2>
+    <div class="articles-grid">
+      {articles.map(article => (
+        <ArticleCard
+          title={article.data.title}
+          description={article.data.description}
+          publishDate={article.data.publishDate}
+          category={article.data.category}
+          slug={article.id}
+          body={article.body || ''}
+        />
+      ))}
+    </div>
+  </section>
+
+  <div class="container">
+    <GlassesDivider />
+    <NewsletterSignup />
+  </div>
+
+</BaseLayout>
+
+<style>
+  .hero {
+    position: relative;
+    padding: var(--space-4xl) 0;
+    overflow: hidden;
+  }
+
+  .hero-inner {
+    position: relative;
+    z-index: 2;
+  }
+
+  .hero-title {
+    font-size: clamp(2.5rem, 8vw, 5rem);
+    color: var(--white);
+    margin-bottom: var(--space-md);
+    letter-spacing: -0.03em;
+  }
+
+  .hero-dot {
+    opacity: 0.7;
+  }
+
+  .hero-strapline {
+    font-size: var(--text-lg);
+    color: var(--white);
+    opacity: 0.9;
+    max-width: 540px;
+    margin-bottom: var(--space-xl);
+  }
+
+  .hero-btn {
+    background: var(--black);
+    color: var(--white);
+    border-color: var(--black);
+    box-shadow: 4px 4px 0 rgba(0, 0, 0, 0.3);
+  }
+
+  .hero-btn:hover {
+    box-shadow: 2px 2px 0 rgba(0, 0, 0, 0.3);
+    color: var(--white);
+  }
+
+  .articles-section {
+    padding-top: var(--space-3xl);
+  }
+
+  .articles-section h2 {
+    margin-top: 0;
+    margin-bottom: var(--space-xl);
+  }
+
+  .articles-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: var(--space-xl);
+  }
+</style>
