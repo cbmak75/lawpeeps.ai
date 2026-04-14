@@ -1,4 +1,3 @@
-```yaml
 ---
 title: "Orbital Launches Real Estate Law Firm as Legal Tech Consolidation Continues"
 description: "Property tech startup Orbital moves into direct legal service provision with new firm Farringdon, signalling growing vertical integration in legal tech."
@@ -29,4 +28,3 @@ For Orbital, establishing its own law firm may provide more predictable service 
 The launch of Farringdon adds another data point to questions about whether legal tech companies ultimately view law firms as partners or as intermediaries to be replaced.
 
 *The regulatory pathway for tech companies establishing law firms remains relatively straightforward in England and Wales, though the commercial wisdom varies considerably by sector. — mm!ke*
-```

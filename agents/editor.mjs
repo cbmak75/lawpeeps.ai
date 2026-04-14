@@ -235,7 +235,15 @@ async function run() {
     console.log(`\nStep 2: Drafting "${story.title}"...`);
 
     try {
-      const markdown = await draftArticle(story, digest, memory, systemPrompt);
+      let markdown = await draftArticle(story, digest, memory, systemPrompt);
+
+      // Strip markdown code fences if Claude wrapped the output
+      markdown = markdown.replace(/^```(?:yaml|markdown|md)?\s*\n/i, '').replace(/\n```\s*$/, '');
+
+      // Ensure the file starts with frontmatter delimiter
+      if (!markdown.startsWith('---')) {
+        console.warn('  Warning: article did not start with --- frontmatter delimiter');
+      }
 
       // Generate slug and filename
       const slug = slugify(story.title);
