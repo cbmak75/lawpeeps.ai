@@ -62,11 +62,15 @@ jobs:
             ")
             echo "article_count=$ARTICLE_COUNT" >> $GITHUB_OUTPUT
 
-            # Get the staging level of the first article
+            # Get the highest-risk staging level across all articles
             STAGING=$(node -e "
               const r = JSON.parse(require('fs').readFileSync('agents/last-run.json','utf-8'));
-              const a = r.articles && r.articles[0];
-              console.log(a ? a.staging : 'green');
+              const order = { red: 3, amber: 2, green: 1 };
+              let highest = 'green';
+              for (const a of (r.articles || [])) {
+                if ((order[a.staging] || 0) > (order[highest] || 0)) highest = a.staging;
+              }
+              console.log(highest);
             ")
             echo "staging=$STAGING" >> $GITHUB_OUTPUT
 
@@ -105,15 +109,25 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          STAGING="${{ steps.check.outputs.staging }}"
+          # Determine the highest-risk staging level across all articles
+          STAGING=$(node -e "
+            const r = JSON.parse(require('fs').readFileSync('agents/last-run.json','utf-8'));
+            const order = { red: 3, amber: 2, green: 1 };
+            let highest = 'green';
+            for (const a of (r.articles || [])) {
+              if ((order[a.staging] || 0) > (order[highest] || 0)) highest = a.staging;
+            }
+            console.log(highest);
+          ")
           LABEL="staging:${STAGING}"
 
-          # Build PR body from last-run summary
+          # Build PR body and write to file (avoids shell escaping issues)
           export STAGING
-          BODY=$(node -e "
-            const r = JSON.parse(require('fs').readFileSync('agents/last-run.json','utf-8'));
+          node -e "
+            const fs = require('fs');
+            const r = JSON.parse(fs.readFileSync('agents/last-run.json','utf-8'));
             const staging = process.env.STAGING || 'green';
-            const lines = ['## mm!ke editorial submission\n'];
+            const lines = ['## mm!ke editorial submission', ''];
             for (const a of (r.articles || [])) {
               lines.push('### ' + a.title);
               lines.push('- **Category:** ' + a.category);
@@ -133,8 +147,8 @@ jobs:
             } else {
               lines.push('*RED: Held indefinitely. Will not publish without your explicit approval.*');
             }
-            console.log(lines.join('\n'));
-          ")
+            fs.writeFileSync('/tmp/pr-body.md', lines.join('\n'));
+          "
 
           # Create labels if they don't exist (ignore errors)
           gh label create "staging:green" --color "2ea44f" --description "Auto-publish after 2h hold" 2>/dev/null || true
@@ -144,7 +158,7 @@ jobs:
 
           gh pr create \
             --title "mm!ke: ${{ steps.check.outputs.slug }}" \
-            --body "$BODY" \
+            --body-file /tmp/pr-body.md \
             --label "$LABEL" \
             --label "mmike" \
             --base main \
