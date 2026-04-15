@@ -39,10 +39,20 @@
       "sources": [
         "Battle of the brands: Legora signs Jude Law as Harvey & Legora PR deals grow"
       ]
+    },
+    {
+      "title": "Immigration Solicitor Argues AI Training, Not Bans, Key to Junior Development",
+      "slug": "immigration-solicitor-argues-ai-training-not-bans-key-to-junior-development",
+      "category": "analysis",
+      "staging": "amber",
+      "publishDate": "2026-04-15",
+      "sources": [
+        "[TIP] Chris Dias, immigration solicitor and founder of Lawyery, has published a piece ..."
+      ]
     }
   ],
   "entities": {},
   "sourceNotes": {},
-  "lastEditorialNotes": "Celebrity endorsements entering legal AI marketing suggests sector maturation and increased marketing budgets. Academic research increasingly focused on practical AI safety issues like hallucination. Worth watching for more mainstream brand campaigns and whether they translate to actual adoption.",
-  "lastEditorialNotesDate": "2026-04-14T22:52:29.904Z"
+  "lastEditorialNotes": "Strong tip from Chris Dias references the 'Hamid AI hallucinations case' (UK v SSHD [2026] UKUT 81 (IAC)) which could be significant legal development if verified. This Upper Tribunal decision appears to be new and potentially important for AI liability in legal practice. Worth investigating both the case itself and Dias's analysis of supervision frameworks. The combination of practitioner experience and legal AI tool development makes this a valuable voice in the sector.",
+  "lastEditorialNotesDate": "2026-04-15T08:29:43.969Z"
 }
