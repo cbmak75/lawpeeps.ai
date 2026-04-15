@@ -1,0 +1,58 @@
+name: "mm!ke revision"
+
+on:
+  pull_request_review:
+    types: [submitted]
+
+permissions:
+  contents: write
+  pull-requests: write
+
+env:
+  NODE_VERSION: "22"
+
+jobs:
+  revision:
+    name: "mm!ke revision cycle"
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    # Only run if:
+    # 1. The PR has the "mmike" label
+    # 2. The review action is "changes_requested"
+    if: |
+      contains(github.event.pull_request.labels.*.name, 'mmike') &&
+      github.event.review.state == 'CHANGES_REQUESTED'
+
+    steps:
+      - name: Checkout PR branch
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: ${{ github.event.pull_request.head.ref }}
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+
+      - name: Run revision agent
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          GITHUB_EVENT_PR_NUMBER: ${{ github.event.pull_request.number }}
+        run: node agents/revise.mjs
+
+      - name: Commit and push revisions
+        run: |
+          if git status --porcelain | grep -q "src/content/articles/"; then
+            git config user.name "mm!ke"
+            git config user.email "mmike@lawpeeps.ai"
+            git add src/content/articles/
+            git commit -m "revise: operator feedback applied"
+            git push origin ${{ github.event.pull_request.head.ref }}
+            echo "::notice::Article revisions committed and pushed"
+          else
+            echo "::notice::No article changes to commit"
+          fi
