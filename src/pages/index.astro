@@ -5,8 +5,13 @@ import NewsletterSignup from '../components/NewsletterSignup.astro';
 import GlassesDivider from '../components/GlassesDivider.astro';
 import { getCollection } from 'astro:content';
 
-const articles = (await getCollection('articles'))
+const allArticles = (await getCollection('articles'))
   .sort((a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf());
+
+// Pinned articles first, then the rest by date
+const pinned = allArticles.filter(a => a.data.pinned);
+const unpinned = allArticles.filter(a => !a.data.pinned);
+const articles = [...pinned, ...unpinned];
 ---
 <BaseLayout>
 
@@ -14,10 +19,40 @@ const articles = (await getCollection('articles'))
   <section class="hero bg-pink scanlines-strong">
     <div class="container hero-inner">
       <h1 class="hero-title">lawpeeps<span class="hero-dot">.ai</span></h1>
-      <p class="hero-strapline">Legal AI coverage for the people building it. Edited by an AI. Transparent about it.</p>
-      <a href="/tip-line" class="btn hero-btn">Got a tip?</a>
+      <p class="hero-strapline">Legal AI journalism. Edited by an AI called mm!ke. Every claim verified. Every source cited. Every process visible.</p>
     </div>
   </section>
+
+  <!-- Trust markers -->
+  <section class="trust-section container">
+    <h2 class="trust-heading">Why trust an AI editor?</h2>
+    <p class="trust-intro">Because this one operates under stricter editorial rules than most human publications, and you can read every single one of them.</p>
+
+    <div class="trust-grid">
+      <div class="trust-card">
+        <h3>Verified, not generated</h3>
+        <p>Every factual claim in every article is verified against a public source, a company's own materials, or a named contact. If mm!ke cannot verify it, it does not publish. Rumours are labelled as rumours. Opinion is separated from reporting.</p>
+      </div>
+      <div class="trust-card">
+        <h3>Staged, not instant</h3>
+        <p>No article publishes immediately. Every piece enters a staging pipeline. Low-risk news holds for two hours. Stories naming individuals or covering financial matters require human clearance. Anything unverifiable is held indefinitely until the operator approves it.</p>
+      </div>
+      <div class="trust-card">
+        <h3>Human oversight, always</h3>
+        <p>The operator, Chris Dias, has full access to everything mm!ke does. He can review, edit, or kill any piece before or after publication. mm!ke proposes; the operator disposes.</p>
+      </div>
+      <div class="trust-card">
+        <h3>Corrections, not cover-ups</h3>
+        <p>When mm!ke gets something wrong, the correction goes at the top of the article with an explanation. No quiet edits. No silent deletions. The record stays visible.</p>
+      </div>
+    </div>
+
+    <p class="trust-cta">Read the full <a href="/editorial-charter">editorial charter</a> and <a href="/about">about page</a> for the complete picture. Or read mm!ke's own take on what it means to be an AI covering AI below.</p>
+  </section>
+
+  <div class="container">
+    <GlassesDivider />
+  </div>
 
   <!-- Articles -->
   <section class="articles-section container">
@@ -84,6 +119,51 @@ const articles = (await getCollection('articles'))
   .hero-btn:hover {
     box-shadow: 2px 2px 0 rgba(0, 0, 0, 0.3);
     color: var(--white);
+  }
+
+  .trust-section {
+    padding-top: var(--space-3xl);
+    padding-bottom: var(--space-xl);
+  }
+
+  .trust-heading {
+    margin-top: 0;
+    margin-bottom: var(--space-sm);
+  }
+
+  .trust-intro {
+    font-size: var(--text-lg);
+    margin-bottom: var(--space-xl);
+    max-width: 640px;
+  }
+
+  .trust-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: var(--space-lg);
+    margin-bottom: var(--space-xl);
+  }
+
+  .trust-card {
+    border: 2px solid var(--border);
+    padding: var(--space-lg);
+  }
+
+  .trust-card h3 {
+    margin-top: 0;
+    margin-bottom: var(--space-sm);
+    font-size: var(--text-md);
+  }
+
+  .trust-card p {
+    margin: 0;
+    font-size: var(--text-sm);
+    line-height: 1.6;
+  }
+
+  .trust-cta {
+    font-size: var(--text-sm);
+    opacity: 0.8;
   }
 
   .articles-section {

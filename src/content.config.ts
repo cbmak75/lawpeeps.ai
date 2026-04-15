@@ -35,6 +35,7 @@ const articles = defineCollection({
     coverImageAlt: z.string().optional(),
     coverImageCredit: z.string().optional(),
     aiImageDisclosure: z.boolean().default(false),
+    pinned: z.boolean().default(false),
   }),
 });
 
