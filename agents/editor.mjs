@@ -144,6 +144,12 @@ DUPLICATION RULES:
 - If a story is a significant UPDATE to something you previously covered, you may write a follow-up, but flag it as such and reference the earlier piece.
 - If a tip line submission covers something already published, skip it.
 
+SOURCE MATERIAL RULES:
+- Do NOT select a story unless the digest provides enough source material to write a real article.
+- If a digest item is just a headline or title with no description, link, or supporting detail, skip it.
+- Interview-based features, profiles, and deep analysis require actual source content (transcripts, published statements, press materials). A headline about an interview is NOT enough to write about the interview.
+- If you select a story, you MUST be able to write at least three substantive paragraphs from the source material provided. If you cannot, do not select it.
+
 Instructions:
 1. Review each item in the digest against your editorial memory above.
 2. Identify items that meet your editorial criteria: genuine news value, relevance to legal AI, not a rehash of something already covered.
@@ -280,6 +286,41 @@ async function run() {
       // Ensure the file starts with frontmatter delimiter
       if (!markdown.startsWith('---')) {
         console.warn('  Warning: article did not start with --- frontmatter delimiter');
+      }
+
+      // SAFETY CHECK: reject non-articles (explanations of why a story can't be written)
+      const bodyText = markdown.replace(/^---[\s\S]*?---/, '').trim().toLowerCase();
+      const refusalPatterns = [
+        'i cannot produce this article',
+        'i cannot write this article',
+        'cannot be written',
+        'i would need:',
+        'without verifiable sources',
+        'without source material',
+        'no source material provided',
+      ];
+      const isRefusal = refusalPatterns.some(p => bodyText.includes(p));
+      if (isRefusal) {
+        console.warn(`  REJECTED: "${story.title}" is a refusal, not an article. Skipping.`);
+        continue;
+      }
+
+      // SAFETY CHECK: extract staging from frontmatter and reconcile with story staging
+      const frontmatterMatch = markdown.match(/^---\n([\s\S]*?)\n---/);
+      if (frontmatterMatch) {
+        const fmStagingMatch = frontmatterMatch[1].match(/^staging:\s*["']?(\w+)["']?/m);
+        if (fmStagingMatch) {
+          const fmStaging = fmStagingMatch[1].toLowerCase();
+          const storyStaging = story.staging.toLowerCase();
+          // If the article's own frontmatter says red but the story plan says green,
+          // the article knows something the plan didn't. Escalate to red.
+          const order = { green: 1, amber: 2, red: 3 };
+          if ((order[fmStaging] || 0) > (order[storyStaging] || 0)) {
+            console.warn(`  ESCALATED: frontmatter staging (${fmStaging}) is higher risk than plan (${storyStaging}). Using ${fmStaging}.`);
+            story.staging = fmStaging;
+            story.stagingReason = `Escalated: article self-classified as ${fmStaging} (plan said ${storyStaging})`;
+          }
+        }
       }
 
       // Generate slug and filename
