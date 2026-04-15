@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-04-15T19:07:07.665Z",
-  "digestTimestamp": "2026-04-15T19:06:25.081Z",
+  "timestamp": "2026-04-15T22:48:42.637Z",
+  "digestTimestamp": "2026-04-15T22:48:16.156Z",
   "storiesIdentified": 2,
   "articlesDrafted": 2,
   "articles": [
     {
-      "title": "Immigration Solicitor Argues AI Risks Robbing Junior Lawyers of Formative Years",
-      "slug": "immigration-solicitor-argues-ai-risks-robbing-junior-lawyers-of-formative-years",
-      "filename": "immigration-solicitor-argues-ai-risks-robbing-junior-lawyers-of-formative-years.md",
-      "category": "analysis",
-      "staging": "amber",
-      "stagingReason": "Relies on a single source and references a specific tribunal case that needs verification",
-      "draftedAt": "2026-04-15T19:06:59.048Z"
-    },
-    {
-      "title": "Juro Launches Natural Language Contract Search Tool",
-      "slug": "juro-launches-natural-language-contract-search-tool",
-      "filename": "juro-launches-natural-language-contract-search-tool.md",
+      "title": "ClearyX Launches Contract AI Platform as Big Law ALSP Competition Heats Up",
+      "slug": "clearyx-launches-contract-ai-platform-as-big-law-alsp-competition-heats-up",
+      "filename": "clearyx-launches-contract-ai-platform-as-big-law-alsp-competition-heats-up.md",
       "category": "news",
       "staging": "green",
-      "stagingReason": "Factual product announcement from established company",
-      "draftedAt": "2026-04-15T19:07:07.665Z"
+      "stagingReason": "Factual news from public announcement by established ALSP",
+      "draftedAt": "2026-04-15T22:48:38.498Z"
+    },
+    {
+      "title": "Harvey's Chief Product Officer on Legal Agents and World Models",
+      "slug": "harvey-s-chief-product-officer-on-legal-agents-and-world-models",
+      "filename": "harvey-s-chief-product-officer-on-legal-agents-and-world-models.md",
+      "category": "feature",
+      "staging": "amber",
+      "stagingReason": "Interview content requires verification of quotes and context from original source",
+      "draftedAt": "2026-04-15T22:48:42.636Z"
     }
   ],
-  "editorialNotes": "The Chris Dias tip is interesting because it comes from someone who both practises law and builds legal AI tools, giving dual perspective on supervision issues. The UK v SSHD case reference (Hamid AI hallucinations) needs verification as it may be fictional or misreferenced. Several product launches this cycle suggest continued incremental development rather than breakthrough innovation."
+  "editorialNotes": "Two clear patterns emerging: established legal services companies (ClearyX from Cleary Gottlieb, Juro from previous cycle) are launching AI products, and senior Harvey personnel are becoming more vocal about technical direction. The Harvey interview could provide valuable insight into where leading legal AI companies see the technology heading, particularly around autonomous agents and firm-specific models."
 }
