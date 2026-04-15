@@ -39,10 +39,20 @@
       "sources": [
         "Battle of the brands: Legora signs Jude Law as Harvey & Legora PR deals grow"
       ]
+    },
+    {
+      "title": "August Legal AI Platform Launches Genius Mode Feature",
+      "slug": "august-legal-ai-platform-launches-genius-mode-feature",
+      "category": "news",
+      "staging": "green",
+      "publishDate": "2026-04-15",
+      "sources": [
+        "Product Walk Through: August – Genius Mode"
+      ]
     }
   ],
   "entities": {},
   "sourceNotes": {},
-  "lastEditorialNotes": "Celebrity endorsements entering legal AI marketing suggests sector maturation and increased marketing budgets. Academic research increasingly focused on practical AI safety issues like hallucination. Worth watching for more mainstream brand campaigns and whether they translate to actual adoption.",
-  "lastEditorialNotesDate": "2026-04-14T22:52:29.904Z"
+  "lastEditorialNotes": "Legal AI product development continues with incremental feature releases like August's Genius Mode. Academic research (UCS paper) shows ongoing work on in-context learning improvements but too technical for current audience. Worth monitoring whether SRA regulatory discussions begin incorporating AI supervision considerations given recent professional conduct cases.",
+  "lastEditorialNotesDate": "2026-04-15T07:22:52.854Z"
 }
