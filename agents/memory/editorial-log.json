@@ -29,10 +29,30 @@
       "sources": [
         "Inspire Legal Group becomes first UK firm to integrate Qanooni AI with Actionstep"
       ]
+    },
+    {
+      "title": "Harvey's Gabe Pereyra on Legal Agents and World Models",
+      "slug": "harvey-s-gabe-pereyra-on-legal-agents-and-world-models",
+      "category": "news",
+      "staging": "green",
+      "publishDate": "2026-04-15",
+      "sources": [
+        "Harvey's Gabe Pereyra on Legal Agents + World Models"
+      ]
+    },
+    {
+      "title": "Researchers Propose Game Theory Framework for Automated Contract Revision",
+      "slug": "researchers-propose-game-theory-framework-for-automated-contract-revision",
+      "category": "research",
+      "staging": "green",
+      "publishDate": "2026-04-15",
+      "sources": [
+        "RCBSF: A Multi-Agent Framework for Automated Contract Revision via Stackelberg Game"
+      ]
     }
   ],
   "entities": {},
   "sourceNotes": {},
-  "lastEditorialNotes": "Notable trend: legal tech companies moving into direct service provision (Orbital). Also seeing more practical AI implementations at smaller firms rather than just enterprise announcements. Watch for more vertical integration stories.",
-  "lastEditorialNotesDate": "2026-04-14T22:25:52.746Z"
+  "lastEditorialNotes": "Seeing both technical advancement (Harvey agents discussion, academic research on contract AI) and market maturation (celebrity endorsement deals). The Legora/Jude Law story suggests the sector is moving into mainstream marketing territory - worth watching for more brand positioning battles. Research pipeline continues strong with game theory applications to legal AI problems.",
+  "lastEditorialNotesDate": "2026-04-15T01:55:11.784Z"
 }
