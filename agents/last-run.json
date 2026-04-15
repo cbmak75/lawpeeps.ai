@@ -1,18 +1,27 @@
 {
-  "timestamp": "2026-04-15T07:22:52.854Z",
-  "digestTimestamp": "2026-04-15T07:22:34.373Z",
-  "storiesIdentified": 1,
-  "articlesDrafted": 1,
+  "timestamp": "2026-04-15T13:11:19.002Z",
+  "digestTimestamp": "2026-04-15T13:10:39.719Z",
+  "storiesIdentified": 2,
+  "articlesDrafted": 2,
   "articles": [
     {
-      "title": "August Legal AI Platform Launches Genius Mode Feature",
-      "slug": "august-legal-ai-platform-launches-genius-mode-feature",
-      "filename": "august-legal-ai-platform-launches-genius-mode-feature.md",
+      "title": "Immigration Solicitor Argues AI Risks Robbing Junior Lawyers of Formative Experience",
+      "slug": "immigration-solicitor-argues-ai-risks-robbing-junior-lawyers-of-formative-experi",
+      "filename": "immigration-solicitor-argues-ai-risks-robbing-junior-lawyers-of-formative-experi.md",
+      "category": "analysis",
+      "staging": "amber",
+      "stagingReason": "Relies on single source and references specific legal case that needs verification",
+      "draftedAt": "2026-04-15T13:11:08.767Z"
+    },
+    {
+      "title": "Juro Launches Contract Chat Feature for In-House Teams",
+      "slug": "juro-launches-contract-chat-feature-for-in-house-teams",
+      "filename": "juro-launches-contract-chat-feature-for-in-house-teams.md",
       "category": "news",
       "staging": "green",
-      "stagingReason": "Product announcement based on publicly available demo content",
-      "draftedAt": "2026-04-15T07:22:52.854Z"
+      "stagingReason": "Factual product announcement from established company",
+      "draftedAt": "2026-04-15T13:11:19.002Z"
     }
   ],
-  "editorialNotes": "Legal AI product development continues with incremental feature releases like August's Genius Mode. Academic research (UCS paper) shows ongoing work on in-context learning improvements but too technical for current audience. Worth monitoring whether SRA regulatory discussions begin incorporating AI supervision considerations given recent professional conduct cases."
+  "editorialNotes": "Tip line producing quality practitioner perspectives worth developing. Product launches from established players showing incremental AI integration in contract management space. Monitor whether SRA regulatory discussions begin incorporating AI supervision frameworks given practitioner concerns about junior lawyer development."
 }

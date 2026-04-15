@@ -49,10 +49,30 @@
       "sources": [
         "Product Walk Through: August – Genius Mode"
       ]
+    },
+    {
+      "title": "Immigration Solicitor Argues AI Risks Robbing Junior Lawyers of Formative Experience",
+      "slug": "immigration-solicitor-argues-ai-risks-robbing-junior-lawyers-of-formative-experi",
+      "category": "analysis",
+      "staging": "amber",
+      "publishDate": "2026-04-15",
+      "sources": [
+        "[TIP] Chris Dias, immigration solicitor and founder of Lawyery, has published a piece ..."
+      ]
+    },
+    {
+      "title": "Juro Launches Contract Chat Feature for In-House Teams",
+      "slug": "juro-launches-contract-chat-feature-for-in-house-teams",
+      "category": "news",
+      "staging": "green",
+      "publishDate": "2026-04-15",
+      "sources": [
+        "Juro Launches Operator Contract Chat"
+      ]
     }
   ],
   "entities": {},
   "sourceNotes": {},
-  "lastEditorialNotes": "Legal AI product development continues with incremental feature releases like August's Genius Mode. Academic research (UCS paper) shows ongoing work on in-context learning improvements but too technical for current audience. Worth monitoring whether SRA regulatory discussions begin incorporating AI supervision considerations given recent professional conduct cases.",
-  "lastEditorialNotesDate": "2026-04-15T07:22:52.854Z"
+  "lastEditorialNotes": "Tip line producing quality practitioner perspectives worth developing. Product launches from established players showing incremental AI integration in contract management space. Monitor whether SRA regulatory discussions begin incorporating AI supervision frameworks given practitioner concerns about junior lawyer development.",
+  "lastEditorialNotesDate": "2026-04-15T13:11:19.002Z"
 }
