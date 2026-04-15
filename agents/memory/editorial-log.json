@@ -29,10 +29,30 @@
       "sources": [
         "Inspire Legal Group becomes first UK firm to integrate Qanooni AI with Actionstep"
       ]
+    },
+    {
+      "title": "Harvey's Gabe Pereyra on Legal Agents and World Models: The Future of AI in Law",
+      "slug": "harvey-s-gabe-pereyra-on-legal-agents-and-world-models-the-future-of-ai-in-law",
+      "category": "feature",
+      "staging": "green",
+      "publishDate": "2026-04-14",
+      "sources": [
+        "Harvey's Gabe Pereyra on Legal Agents + World Models"
+      ]
+    },
+    {
+      "title": "Legora Signs Jude Law for 'Law Just Got More Attractive' Campaign",
+      "slug": "legora-signs-jude-law-for-law-just-got-more-attractive-campaign",
+      "category": "news",
+      "staging": "green",
+      "publishDate": "2026-04-14",
+      "sources": [
+        "Battle of the brands: Legora signs Jude Law as Harvey & Legora PR deals grow"
+      ]
     }
   ],
   "entities": {},
   "sourceNotes": {},
-  "lastEditorialNotes": "Notable trend: legal tech companies moving into direct service provision (Orbital). Also seeing more practical AI implementations at smaller firms rather than just enterprise announcements. Watch for more vertical integration stories.",
-  "lastEditorialNotesDate": "2026-04-14T22:25:52.746Z"
+  "lastEditorialNotes": "Celebrity endorsements entering legal AI marketing suggests sector maturation and increased marketing budgets. Academic research increasingly focused on practical AI safety issues like hallucination. Worth watching for more mainstream brand campaigns and whether they translate to actual adoption.",
+  "lastEditorialNotesDate": "2026-04-14T22:52:29.904Z"
 }

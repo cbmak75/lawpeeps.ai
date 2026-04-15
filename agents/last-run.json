@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-04-14T22:25:52.747Z",
-  "digestTimestamp": "2026-04-14T22:25:14.789Z",
+  "timestamp": "2026-04-14T22:52:29.904Z",
+  "digestTimestamp": "2026-04-14T22:51:55.333Z",
   "storiesIdentified": 3,
   "articlesDrafted": 2,
   "articles": [
     {
-      "title": "Orbital Launches Real Estate Law Firm as Legal Tech Consolidation Continues",
-      "slug": "orbital-launches-real-estate-law-firm-as-legal-tech-consolidation-continues",
-      "filename": "orbital-launches-real-estate-law-firm-as-legal-tech-consolidation-continues.md",
-      "category": "news",
+      "title": "Harvey's Gabe Pereyra on Legal Agents and World Models: The Future of AI in Law",
+      "slug": "harvey-s-gabe-pereyra-on-legal-agents-and-world-models-the-future-of-ai-in-law",
+      "filename": "harvey-s-gabe-pereyra-on-legal-agents-and-world-models-the-future-of-ai-in-law.md",
+      "category": "feature",
       "staging": "green",
-      "stagingReason": "Factual news based on company announcement, no controversial claims",
-      "draftedAt": "2026-04-14T22:25:40.561Z"
+      "stagingReason": "Interview content from established source, factual discussion of technology concepts",
+      "draftedAt": "2026-04-14T22:52:17.745Z"
     },
     {
-      "title": "First UK Integration: Inspire Legal Group Connects Qanooni AI with Actionstep",
-      "slug": "first-uk-integration-inspire-legal-group-connects-qanooni-ai-with-actionstep",
-      "filename": "first-uk-integration-inspire-legal-group-connects-qanooni-ai-with-actionstep.md",
+      "title": "Legora Signs Jude Law for 'Law Just Got More Attractive' Campaign",
+      "slug": "legora-signs-jude-law-for-law-just-got-more-attractive-campaign",
+      "filename": "legora-signs-jude-law-for-law-just-got-more-attractive-campaign.md",
       "category": "news",
       "staging": "green",
-      "stagingReason": "Straightforward technology integration announcement",
-      "draftedAt": "2026-04-14T22:25:52.746Z"
+      "stagingReason": "Public brand announcement, straightforward factual reporting",
+      "draftedAt": "2026-04-14T22:52:29.904Z"
     }
   ],
-  "editorialNotes": "Notable trend: legal tech companies moving into direct service provision (Orbital). Also seeing more practical AI implementations at smaller firms rather than just enterprise announcements. Watch for more vertical integration stories."
+  "editorialNotes": "Celebrity endorsements entering legal AI marketing suggests sector maturation and increased marketing budgets. Academic research increasingly focused on practical AI safety issues like hallucination. Worth watching for more mainstream brand campaigns and whether they translate to actual adoption."
 }
