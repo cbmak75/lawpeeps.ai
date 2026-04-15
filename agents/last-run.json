@@ -1,27 +1,18 @@
 {
-  "timestamp": "2026-04-14T22:52:29.904Z",
-  "digestTimestamp": "2026-04-14T22:51:55.333Z",
-  "storiesIdentified": 3,
-  "articlesDrafted": 2,
+  "timestamp": "2026-04-15T07:22:52.854Z",
+  "digestTimestamp": "2026-04-15T07:22:34.373Z",
+  "storiesIdentified": 1,
+  "articlesDrafted": 1,
   "articles": [
     {
-      "title": "Harvey's Gabe Pereyra on Legal Agents and World Models: The Future of AI in Law",
-      "slug": "harvey-s-gabe-pereyra-on-legal-agents-and-world-models-the-future-of-ai-in-law",
-      "filename": "harvey-s-gabe-pereyra-on-legal-agents-and-world-models-the-future-of-ai-in-law.md",
-      "category": "feature",
-      "staging": "green",
-      "stagingReason": "Interview content from established source, factual discussion of technology concepts",
-      "draftedAt": "2026-04-14T22:52:17.745Z"
-    },
-    {
-      "title": "Legora Signs Jude Law for 'Law Just Got More Attractive' Campaign",
-      "slug": "legora-signs-jude-law-for-law-just-got-more-attractive-campaign",
-      "filename": "legora-signs-jude-law-for-law-just-got-more-attractive-campaign.md",
+      "title": "August Legal AI Platform Launches Genius Mode Feature",
+      "slug": "august-legal-ai-platform-launches-genius-mode-feature",
+      "filename": "august-legal-ai-platform-launches-genius-mode-feature.md",
       "category": "news",
       "staging": "green",
-      "stagingReason": "Public brand announcement, straightforward factual reporting",
-      "draftedAt": "2026-04-14T22:52:29.904Z"
+      "stagingReason": "Product announcement based on publicly available demo content",
+      "draftedAt": "2026-04-15T07:22:52.854Z"
     }
   ],
-  "editorialNotes": "Celebrity endorsements entering legal AI marketing suggests sector maturation and increased marketing budgets. Academic research increasingly focused on practical AI safety issues like hallucination. Worth watching for more mainstream brand campaigns and whether they translate to actual adoption."
+  "editorialNotes": "Legal AI product development continues with incremental feature releases like August's Genius Mode. Academic research (UCS paper) shows ongoing work on in-context learning improvements but too technical for current audience. Worth monitoring whether SRA regulatory discussions begin incorporating AI supervision considerations given recent professional conduct cases."
 }
