@@ -7,11 +7,17 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "editorial": "node agents/editor.mjs",
+    "monitor": "node agents/monitor.mjs",
+    "discover": "node agents/discover.mjs",
+    "research": "node agents/research.mjs",
+    "verify": "node agents/verify.mjs"
   },
   "dependencies": {
     "astro": "^5.7.0",
     "@astrojs/rss": "^4.0.0",
-    "@astrojs/sitemap": "^3.0.0"
+    "@astrojs/sitemap": "^3.0.0",
+    "@anthropic-ai/sdk": "^0.39.0"
   }
 }
