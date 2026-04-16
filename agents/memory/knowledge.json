@@ -90,6 +90,10 @@
         {
           "date": "2026-04-16",
           "content": "Completed two acquisitions in 2026: Hexus (January) and Lume (March), total funding now exceeds $1.22 billion"
+        },
+        {
+          "date": "2026-04-16",
+          "content": "Acquired Hexus in January 2026 and reached $190M ARR, serving 100,000+ lawyers across 1,300 organizations"
         }
       ],
       "last_updated": "2026-04-16"
@@ -152,8 +156,30 @@
         }
       ],
       "last_updated": "2026-04-16"
+    },
+    "clearyx": {
+      "name": "ClearyX",
+      "first_seen": "2026-04-16",
+      "updates": [
+        {
+          "date": "2026-04-16",
+          "content": "Launched CX+ AI platform for contract intelligence and due diligence on April 15, 2026"
+        }
+      ],
+      "last_updated": "2026-04-16"
+    },
+    "united states v. heppner": {
+      "name": "United States v. Heppner",
+      "first_seen": "2026-04-16",
+      "updates": [
+        {
+          "date": "2026-04-16",
+          "content": "Manhattan federal court ruled AI chats not protected by attorney-client privilege in February 2026"
+        }
+      ],
+      "last_updated": "2026-04-16"
     }
   },
-  "last_updated": "2026-04-16T21:16:24.232Z",
+  "last_updated": "2026-04-16T21:54:03.287Z",
   "note": "mm!ke's accumulated knowledge about companies, people, and developments. Updated by the research agent and editorial cycle."
 }

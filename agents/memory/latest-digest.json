@@ -1,11 +1,22 @@
 {
-  "generated": "2026-04-16T21:14:57.375Z",
+  "generated": "2026-04-16T21:52:51.435Z",
   "cycle_type": "monitoring",
   "item_count": 30,
   "total_scanned": 491,
   "sources_checked": 16,
   "sources_skipped": 10,
   "items": [
+    {
+      "title": "OpenAI starts offering a biology-tuned LLM",
+      "url": "https://arstechnica.com/science/2026/04/openai-starts-offering-a-biology-tuned-llm/",
+      "summary": "GPT-Rosalind is an LLM trained on biology workflows, available in closed access.",
+      "published": "2026-04-16T21:17:47.000Z",
+      "source_id": "ars-technica-ai",
+      "source_name": "Ars Technica AI",
+      "source_priority": "low",
+      "source_category": "General AI",
+      "relevance_score": 11
+    },
     {
       "title": "Evaluating LLM-Based Translation of a Low-Resource Technical Language: The Medical and Philosophical Greek of Galen",
       "url": "https://arxiv.org/abs/2602.24119",
@@ -126,17 +137,6 @@
       "source_priority": "low",
       "source_category": "Research",
       "relevance_score": 5
-    },
-    {
-      "title": "Serious Fraud Office outlines tech-driven roadmap for year ahead",
-      "url": "https://www.lawgazette.co.uk/news/serious-fraud-office-outlines-tech-driven-roadmap-for-year-ahead/5126499.article",
-      "summary": "Agency pledges to intervene earlier ‘and with greater precision’ as it publishes annual business plan.",
-      "published": "2026-04-16T15:32:00.000Z",
-      "source_id": "law-society-gazette",
-      "source_name": "Law Society Gazette",
-      "source_priority": "medium",
-      "source_category": "Legal profession",
-      "relevance_score": 4
     },
     {
       "title": "Mozilla launches Thunderbolt AI client with focus on self-hosted infrastructure",

@@ -401,7 +401,150 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "Federal Court Rules AI Chats Not Protected by Attorney-Client Privilege",
+      "slug": "ai-chats-attorney-client-privilege-manhattan-ruling-2026",
+      "score": 9,
+      "category": "Regulatory",
+      "story_type": "news",
+      "research_brief": "A Manhattan federal judge ruled that a former CEO's conversations with Anthropic's Claude chatbot were not protected by attorney-client privilege, setting a precedent that has prompted major law firms to warn clients about using consumer AI tools. The ruling in United States v. Heppner involved Bradley Heppner, former chair of bankrupt financial services company GWG Holdings, who used Claude to prepare reports about his securities fraud case to share with his attorneys. Prosecutors successfully argued that his AI exchanges should be discoverable, and Judge Rakoff issued a written opinion on February 17, 2026 ordering disclosure of the AI-generated materials.\n\nThe decision has sent shockwaves through the legal profession, with firms like Kobre & Kim, Debevoise & Plimpton, and Sher Tremonte issuing urgent warnings to clients. Many are now updating engagement letters and contracts to explicitly warn that sharing privileged communications with third-party AI platforms may constitute a waiver of attorney-client privilege. Some firms are recommending clients only use enterprise-level AI systems with contractual confidentiality protections, and document when AI work is done at a lawyer's direction.\n\nThis ruling represents the first major judicial precedent on AI and attorney-client privilege, likely influencing how lawyers and clients approach AI tools going forward. The decision highlights the tension between the convenience of consumer AI chatbots and the need to protect privileged communications in legal contexts. It also raises questions about whether enterprise AI tools with stronger privacy controls would receive different treatment from courts.",
+      "primary_source": "https://www.claimsjournal.com/news/national/2026/04/16/336937.htm",
+      "primary_source_verified": true,
+      "additional_sources": [
+        {
+          "url": "https://nationaltoday.com/us/ny/manhattan/news/2026/04/15/lawyers-warned-to-lock-down-ai-chats-after-manhattan-ruling/",
+          "description": "Provides additional context on law firm responses and client warnings"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "Manhattan federal judge ruled AI chats with Claude not protected by attorney-client privilege",
+          "source": "https://www.claimsjournal.com/news/national/2026/04/16/336937.htm",
+          "verified": true
+        },
+        {
+          "claim": "Judge Rakoff issued written opinion on February 17, 2026",
+          "source": "https://nationaltoday.com/us/ny/manhattan/news/2026/04/15/lawyers-warned-to-lock-down-ai-chats-after-manhattan-ruling/",
+          "verified": true
+        },
+        {
+          "claim": "Case involved Bradley Heppner, former chair of GWG Holdings, facing securities fraud charges",
+          "source": "https://www.claimsjournal.com/news/national/2026/04/16/336937.htm",
+          "verified": true
+        }
+      ],
+      "suggested_angle": "How this precedent will reshape legal AI adoption and force firms to choose between convenience and privilege protection",
+      "serves_50_percent_rule": true,
+      "fifty_percent_note": "This directly affects how legal professionals use AI tools and has immediate implications for attorney-client privilege doctrine",
+      "existing_coverage": "Reuters/Claims Journal broke the story yesterday, but limited analysis of broader implications for legal AI market",
+      "estimated_staging": "green",
+      "verification_notes": "Primary sources confirm the ruling exists and quotes are accurately attributed. Follow up needed on exact case citation.",
+      "tip_origin": false,
+      "tip_credit": "",
+      "queued_at": "2026-04-16T21:54:03.284Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
+    },
+    {
+      "title": "ClearyX Launches CX+ AI Platform for Contract Intelligence and Due Diligence",
+      "slug": "clearyx-cx-plus-contract-ai-platform-launch-2026",
+      "score": 7,
+      "category": "Legal AI",
+      "story_type": "news",
+      "research_brief": "ClearyX, the alternative legal services provider owned by white-shoe firm Cleary Gottlieb, launched CX+, a proprietary AI-powered platform for contract intelligence and due diligence. The platform comprises two products: CX+Insights for in-house legal teams managing contract portfolios, and CX+Transact for M&A due diligence and contract review. The launch represents a significant move by a top-tier law firm to commercialize AI technology developed through client work.\n\nCX+ was co-developed with senior in-house clients and legal operations professionals, with features designed around documented pain points. The platform offers tabular review systems, customizable AI prompt templates, real-time collaborative portals, and sophisticated workflow management. ClearyX claims consistent cost and time savings of 40-60% on due diligence across 150+ deals compared to manual review.\n\nThe launch is notable for several reasons: it represents traditional Big Law firms moving beyond consulting into product development, shows how ALSPs are evolving beyond service delivery into technology platforms, and demonstrates the productization of AI tools developed through actual client engagements. CEO Carla Swansburg emphasized that the platform was built to solve problems 'that generic tools simply aren't solving,' suggesting a critique of existing legal AI offerings.",
+      "primary_source": "https://www.prnewswire.com/news-releases/clearyx-launches-cx-an-ai-powered-platform-built-to-solve-legal-workflow-challenges-302742231.html",
+      "primary_source_verified": true,
+      "additional_sources": [
+        {
+          "url": "https://www.artificiallawyer.com/2026/04/15/clearyx-launches-cx-for-contract-ai-needs/",
+          "description": "Industry analysis and context on the significance of the launch"
+        },
+        {
+          "url": "https://clearyx.legal/cx/",
+          "description": "Official product pages with detailed feature descriptions"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "ClearyX is owned by Cleary Gottlieb law firm",
+          "source": "https://www.prnewswire.com/news-releases/clearyx-launches-cx-an-ai-powered-platform-built-to-solve-legal-workflow-challenges-302742231.html",
+          "verified": true
+        },
+        {
+          "claim": "Platform claims 40-60% cost and time savings across 150+ deals",
+          "source": "https://www.artificiallawyer.com/2026/04/15/clearyx-launches-cx-for-contract-ai-needs/",
+          "verified": true
+        },
+        {
+          "claim": "CX+ was co-developed with senior in-house clients",
+          "source": "https://www.prnewswire.com/news-releases/clearyx-launches-cx-an-ai-powered-platform-built-to-solve-legal-workflow-challenges-302742231.html",
+          "verified": true
+        }
+      ],
+      "suggested_angle": "How traditional law firms are monetizing AI beyond billable hours and competing with legal tech startups",
+      "serves_50_percent_rule": true,
+      "fifty_percent_note": "This shows how established firms are adapting to the AI transformation and creating new revenue streams beyond traditional legal services",
+      "existing_coverage": "Artificial Lawyer covered it but focused on product features rather than strategic implications for Big Law AI strategy",
+      "estimated_staging": "green",
+      "verification_notes": "All claims verified through primary sources. Product launch timing and features confirmed.",
+      "tip_origin": false,
+      "tip_credit": "",
+      "queued_at": "2026-04-16T21:54:03.285Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
+    },
+    {
+      "title": "Harvey's $200M Raise at $11B Valuation Underscores Legal AI Arms Race",
+      "slug": "harvey-200m-funding-11b-valuation-legal-ai-2026",
+      "score": 6,
+      "category": "Funding",
+      "story_type": "analysis",
+      "research_brief": "While Harvey's $200M Series funding at an $11B valuation was announced in March 2026, new analysis reveals the broader implications of the legal AI funding surge. The round, co-led by GIC and Sequoia Capital, brought Harvey's total funding to over $1 billion and represents part of a remarkable March where two legal AI companies (Harvey and Legora) raised a combined $750 million in just 15 days. This follows Harvey reaching $190 million in ARR by January 2026 and serving over 100,000 lawyers across 1,300 organizations.\n\nThe funding comes as Harvey deploys over 25,000 custom AI agents across use cases spanning M&A, due diligence, contract drafting, and document review. The company has partnerships with most of the AmLaw 100 firms and over 500 in-house legal teams. Recent enterprise wins include NBCUniversal, HSBC, DLA Piper International, and McCann Fitzgerald.\n\nWhat makes this story current is the context of a broader legal AI investment boom that's reshaping competitive dynamics. Harvey's pricing model starts at $1,200 per lawyer per month with 12-month commitments, raising questions about sustainable unit economics and whether VC-backed pricing models will ultimately inflate legal technology costs. The company recently acquired Hexus and is expanding internationally, suggesting aggressive growth plans supported by the new capital.",
+      "primary_source": "https://techstartups.com/2026/03/25/legal-ai-startup-harvey-hits-11b-valuation-with-200m-funding-as-investors-look-beyond-openai-and-anthropic/",
+      "primary_source_verified": true,
+      "additional_sources": [
+        {
+          "url": "https://blog.platinumids.com/blog/legal-ai-billion-dollar-arms-race-2026",
+          "description": "Comprehensive analysis of the legal AI funding surge and competitive implications"
+        },
+        {
+          "url": "https://sacra.com/c/harvey/",
+          "description": "Detailed financial and product information including pricing and metrics"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "Harvey raised $200M at $11B valuation co-led by GIC and Sequoia",
+          "source": "https://techstartups.com/2026/03/25/legal-ai-startup-harvey-hits-11b-valuation-with-200m-funding-as-investors-look-beyond-openai-and-anthropic/",
+          "verified": true
+        },
+        {
+          "claim": "Harvey reached $190M ARR by January 2026",
+          "source": "https://sacra.com/c/harvey/",
+          "verified": true
+        },
+        {
+          "claim": "Platform serves over 100,000 lawyers across 1,300 organizations",
+          "source": "https://techstartups.com/2026/03/25/legal-ai-startup-harvey-hits-11b-valuation-with-200m-funding-as-investors-look-beyond-openai-and-anthropic/",
+          "verified": true
+        }
+      ],
+      "suggested_angle": "Analysis of whether the legal AI funding boom creates sustainable businesses or inflates costs for law firms",
+      "serves_50_percent_rule": false,
+      "fifty_percent_note": "While significant, this funding round was announced 3+ weeks ago and has been extensively covered by tech and legal media",
+      "existing_coverage": "Extensively covered by TechCrunch, Bloomberg, and legal tech publications at time of announcement",
+      "estimated_staging": "amber",
+      "verification_notes": "All financial details confirmed across multiple sources. Focus on recent developments and competitive analysis rather than funding announcement itself.",
+      "tip_origin": false,
+      "tip_credit": "",
+      "queued_at": "2026-04-16T21:54:03.286Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-04-16T21:16:24.232Z"
+  "last_updated": "2026-04-16T21:54:03.286Z"
 }
