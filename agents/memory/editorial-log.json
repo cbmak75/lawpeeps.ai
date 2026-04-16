@@ -69,10 +69,20 @@
       "sources": [
         "Juro Launches Operator Contract Chat"
       ]
+    },
+    {
+      "title": "ClearyX Launches Contract AI Platform as Big Law Builds Tech Arsenal",
+      "slug": "clearyx-launches-contract-ai-platform-as-big-law-builds-tech-arsenal",
+      "category": "news",
+      "staging": "green",
+      "publishDate": "2026-04-16",
+      "sources": [
+        "ClearyX Launches CX+ For Contract AI Needs"
+      ]
     }
   ],
   "entities": {},
   "sourceNotes": {},
-  "lastEditorialNotes": "The Chris Dias tip is interesting because it comes from someone who both practises law and builds legal AI tools, giving dual perspective on supervision issues. The UK v SSHD case reference (Hamid AI hallucinations) needs verification as it may be fictional or misreferenced. Several product launches this cycle suggest continued incremental development rather than breakthrough innovation.",
-  "lastEditorialNotesDate": "2026-04-15T19:07:07.665Z"
+  "lastEditorialNotes": "Pattern emerging of established players (Cleary, Juro, August) releasing incremental AI features rather than breakthrough innovation. Harvey's focus on agents and world models worth monitoring for more substantial coverage when detailed technical content becomes available. Contract AI remains the dominant application area across multiple launches.",
+  "lastEditorialNotesDate": "2026-04-16T02:03:00.638Z"
 }

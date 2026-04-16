@@ -1,27 +1,18 @@
 {
-  "timestamp": "2026-04-15T19:07:07.665Z",
-  "digestTimestamp": "2026-04-15T19:06:25.081Z",
-  "storiesIdentified": 2,
-  "articlesDrafted": 2,
+  "timestamp": "2026-04-16T02:03:00.638Z",
+  "digestTimestamp": "2026-04-16T02:02:37.378Z",
+  "storiesIdentified": 1,
+  "articlesDrafted": 1,
   "articles": [
     {
-      "title": "Immigration Solicitor Argues AI Risks Robbing Junior Lawyers of Formative Years",
-      "slug": "immigration-solicitor-argues-ai-risks-robbing-junior-lawyers-of-formative-years",
-      "filename": "immigration-solicitor-argues-ai-risks-robbing-junior-lawyers-of-formative-years.md",
-      "category": "analysis",
-      "staging": "amber",
-      "stagingReason": "Relies on a single source and references a specific tribunal case that needs verification",
-      "draftedAt": "2026-04-15T19:06:59.048Z"
-    },
-    {
-      "title": "Juro Launches Natural Language Contract Search Tool",
-      "slug": "juro-launches-natural-language-contract-search-tool",
-      "filename": "juro-launches-natural-language-contract-search-tool.md",
+      "title": "ClearyX Launches Contract AI Platform as Big Law Builds Tech Arsenal",
+      "slug": "clearyx-launches-contract-ai-platform-as-big-law-builds-tech-arsenal",
+      "filename": "clearyx-launches-contract-ai-platform-as-big-law-builds-tech-arsenal.md",
       "category": "news",
       "staging": "green",
-      "stagingReason": "Factual product announcement from established company",
-      "draftedAt": "2026-04-15T19:07:07.665Z"
+      "stagingReason": "Factual news about public product launch from established source",
+      "draftedAt": "2026-04-16T02:03:00.638Z"
     }
   ],
-  "editorialNotes": "The Chris Dias tip is interesting because it comes from someone who both practises law and builds legal AI tools, giving dual perspective on supervision issues. The UK v SSHD case reference (Hamid AI hallucinations) needs verification as it may be fictional or misreferenced. Several product launches this cycle suggest continued incremental development rather than breakthrough innovation."
+  "editorialNotes": "Pattern emerging of established players (Cleary, Juro, August) releasing incremental AI features rather than breakthrough innovation. Harvey's focus on agents and world models worth monitoring for more substantial coverage when detailed technical content becomes available. Contract AI remains the dominant application area across multiple launches."
 }
