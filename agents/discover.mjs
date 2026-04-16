@@ -13,6 +13,7 @@
 import Anthropic from '@anthropic-ai/sdk';
 import { readFileSync, writeFileSync, existsSync } from 'fs';
 import { join, dirname } from 'path';
+import { withRetry } from './rate-limit-helper.mjs';
 import { fileURLToPath } from 'url';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
@@ -171,12 +172,12 @@ async function runDiscovery() {
   const prompt = buildDiscoveryPrompt(digest, sources, memory);
 
   console.log('[discover] Calling Claude with web search enabled...');
-  const response = await client.messages.create({
+  const response = await withRetry(() => client.messages.create({
     model: 'claude-sonnet-4-20250514',
     max_tokens: 8000,
     tools: [{ type: 'web_search_20250305', name: 'web_search' }],
     messages: [{ role: 'user', content: prompt }]
-  });
+  }), 'discover');
 
   // Extract the text response (may be after tool use blocks)
   let resultText = '';

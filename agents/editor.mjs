@@ -24,6 +24,7 @@ import { runMonitor } from './monitor.mjs';
 import { runDiscovery } from './discover.mjs';
 import { runResearch } from './research.mjs';
 import { verifyArticle } from './verify.mjs';
+import { withRetry } from './rate-limit-helper.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const AGENTS_DIR = __dirname;
@@ -483,12 +484,12 @@ async function runEditorialCycle() {
   const memory = loadMemoryContext();
   const writingPrompt = buildWritingPrompt(research, memory);
 
-  const writeResponse = await client.messages.create({
+  const writeResponse = await withRetry(() => client.messages.create({
     model: 'claude-sonnet-4-20250514',
     max_tokens: 16000,
     system: systemPrompt,
     messages: [{ role: 'user', content: writingPrompt }]
-  });
+  }), 'editor-write');
 
   let writeText = '';
   for (const block of writeResponse.content) {
@@ -607,12 +608,12 @@ Output:
 }
 ---REFLECTION_END---`;
 
-  const response = await client.messages.create({
+  const response = await withRetry(() => client.messages.create({
     model: 'claude-sonnet-4-20250514',
     max_tokens: 4000,
     system: systemPrompt,
     messages: [{ role: 'user', content: reflectionPrompt }]
-  });
+  }), 'editor-reflect');
 
   let responseText = '';
   for (const block of response.content) {

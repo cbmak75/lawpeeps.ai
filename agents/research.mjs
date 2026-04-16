@@ -13,6 +13,7 @@ import Anthropic from '@anthropic-ai/sdk';
 import { readFileSync, writeFileSync, existsSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
+import { withRetry } from './rate-limit-helper.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const MEMORY_DIR = join(__dirname, 'memory');
@@ -66,11 +67,12 @@ function mergeCandidates() {
     }
   }
 
-  // Sort by score, take top 5 for deep research.
-  // Capped at 5 (not 10) to stay within the 10k input tokens/min API rate limit.
-  // Each candidate requires 2-3 web searches, and search results are token-heavy.
+  // Sort by score, take the single best candidate for deep research.
+  // Processing one story at a time keeps each API call well within the
+  // 10k input tokens/min rate limit. The editorial cycle runs frequently
+  // enough that we cover multiple stories across cycles rather than batching.
   candidates.sort((a, b) => b.score - a.score);
-  return candidates.slice(0, 5);
+  return candidates.slice(0, 1);
 }
 
 // ── Build research prompt for a batch of candidates ──
@@ -209,12 +211,12 @@ async function runResearch() {
   console.log(`[research] Researching ${candidates.length} candidates...`);
   const prompt = buildResearchPrompt(candidates);
 
-  const response = await client.messages.create({
+  const response = await withRetry(() => client.messages.create({
     model: 'claude-sonnet-4-20250514',
     max_tokens: 12000,
     tools: [{ type: 'web_search_20250305', name: 'web_search' }],
     messages: [{ role: 'user', content: prompt }]
-  });
+  }), 'research');
 
   // Extract text response
   let resultText = '';

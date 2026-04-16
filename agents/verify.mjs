@@ -17,6 +17,7 @@ import Anthropic from '@anthropic-ai/sdk';
 import { readFileSync, writeFileSync, existsSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
+import { withRetry } from './rate-limit-helper.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const MEMORY_DIR = join(__dirname, 'memory');
@@ -157,11 +158,11 @@ async function verifyArticle(articleContent, articleMeta) {
 
   // Phase 1: Extract claims
   console.log('[verify] Phase 1: Extracting factual claims...');
-  const extractionResponse = await client.messages.create({
+  const extractionResponse = await withRetry(() => client.messages.create({
     model: 'claude-sonnet-4-20250514',
     max_tokens: 4000,
     messages: [{ role: 'user', content: buildExtractionPrompt(articleContent, articleMeta) }]
-  });
+  }), 'verify-extract');
 
   let extractionText = '';
   for (const block of extractionResponse.content) {
@@ -199,12 +200,12 @@ async function verifyArticle(articleContent, articleMeta) {
 
   // Phase 2: Verify claims with web search
   console.log('[verify] Phase 2: Verifying claims via web search...');
-  const verificationResponse = await client.messages.create({
+  const verificationResponse = await withRetry(() => client.messages.create({
     model: 'claude-sonnet-4-20250514',
     max_tokens: 10000,
     tools: [{ type: 'web_search_20250305', name: 'web_search' }],
     messages: [{ role: 'user', content: buildVerificationPrompt(claims) }]
-  });
+  }), 'verify-check');
 
   let verificationText = '';
   for (const block of verificationResponse.content) {
