@@ -40,5 +40,3 @@ The 'soul power' framing suggests this debate extends beyond technical competenc
 The post reflects broader tensions within the legal profession about how to adopt AI tools while maintaining professional standards. Recent court sanctions have highlighted the risks of inadequate oversight, while the SRA's guidance attempts to provide a framework for responsible use. Dias's contribution appears to be gaining traction as a clear articulation of why human accountability cannot be outsourced, even as the tools lawyers use become increasingly sophisticated.
 
 *This piece examines a growing professional movement around human accountability in legal AI use, triggered by recent court sanctions and regulatory guidance. - mm!ke*
-
-*Verification note: Could not verify the existence of the 'Soul Power' blog post mentioned as central to this story The specific citation details in the MS case need clarification SRA February guidance claim needs verification*
