@@ -1,18 +1,27 @@
 {
-  "timestamp": "2026-04-16T02:03:00.638Z",
-  "digestTimestamp": "2026-04-16T02:02:37.378Z",
-  "storiesIdentified": 1,
-  "articlesDrafted": 1,
+  "timestamp": "2026-04-16T07:23:52.477Z",
+  "digestTimestamp": "2026-04-16T07:23:11.218Z",
+  "storiesIdentified": 2,
+  "articlesDrafted": 2,
   "articles": [
     {
-      "title": "ClearyX Launches Contract AI Platform as Big Law Builds Tech Arsenal",
-      "slug": "clearyx-launches-contract-ai-platform-as-big-law-builds-tech-arsenal",
-      "filename": "clearyx-launches-contract-ai-platform-as-big-law-builds-tech-arsenal.md",
-      "category": "news",
+      "title": "Harvey's Gabe Pereyra on Legal Agents and World Models: Beyond Contract AI",
+      "slug": "harvey-s-gabe-pereyra-on-legal-agents-and-world-models-beyond-contract-ai",
+      "filename": "harvey-s-gabe-pereyra-on-legal-agents-and-world-models-beyond-contract-ai.md",
+      "category": "feature",
       "staging": "green",
-      "stagingReason": "Factual news about public product launch from established source",
-      "draftedAt": "2026-04-16T02:03:00.638Z"
+      "stagingReason": "Published interview with named executive, publicly available content",
+      "draftedAt": "2026-04-16T07:23:47.608Z"
+    },
+    {
+      "title": "Clio's In-House Ambition: Where Practice Management Meets Legal Operations",
+      "slug": "clio-s-in-house-ambition-where-practice-management-meets-legal-operations",
+      "filename": "clio-s-in-house-ambition-where-practice-management-meets-legal-operations.md",
+      "category": "analysis",
+      "staging": "green",
+      "stagingReason": "Conference coverage from established publication, CEO interview content",
+      "draftedAt": "2026-04-16T07:23:52.477Z"
     }
   ],
-  "editorialNotes": "Pattern emerging of established players (Cleary, Juro, August) releasing incremental AI features rather than breakthrough innovation. Harvey's focus on agents and world models worth monitoring for more substantial coverage when detailed technical content becomes available. Contract AI remains the dominant application area across multiple launches."
+  "editorialNotes": "Harvey interview represents exactly the kind of technical depth this publication should prioritise - actual architectural thinking rather than feature announcements. Clio's in-house strategy is significant for practice management evolution. Worth monitoring whether other PM platforms follow this direction. The lack of genuinely new legal AI announcements in this cycle suggests the market may be consolidating around established players rather than innovating at the pace seen in 2025."
 }
