@@ -143,29 +143,130 @@ Return a JSON object with this structure:
       "suggested_priority": "critical | high | medium | low",
       "reliability_assessment": "Initial reliability impression based on what you found"
     }
-  C, transformed into a single fother ( `...boatain"/ "/o.RSS feed URL if found, null if not",
-      "category": "Category",
-      "rationale": "Why this source is worth adding",
-      "suggested_priority": "critical | high | medium | low",
-      "reliability_assessment": "Initial reliability impression based on what you found"
+  ],
+  "coverage_gaps_identified": [
+    "Brief description of topics that seem underserved in recent coverage"
+  ],
+  "search_queries_run": [
+    "List of all search queries you executed"
+  ]
+}
+
+Return ONLY the JSON object, no other text.`;
+}
+
+// ── Run discovery ──
+
+async function runDiscovery() {
+  console.log('[discover] Starting web search discovery...');
+
+  // Load inputs
+  const sources = JSON.parse(readFileSync(SOURCES_PATH, 'utf-8'));
+  let digest = { items: [], item_count: 0, sources_checked: 0 };
+  if (existsSync(DIGEST_PATH)) {
+    digest = JSON.parse(readFileSync(DIGEST_PATH, 'utf-8'));
+  }
+  const memory = loadMemory();
+
+  const prompt = buildDiscoveryPrompt(digest, sources, memory);
+
+  console.log('[discover] Calling Claude with web search enabled...');
+  const response = await client.messages.create({
+    model: 'claude-sonnet-4-20250514',
+    max_tokens: 8000,
+    tools: [{ type: 'web_search_20250305', name: 'web_search' }],
+    messages: [{ role: 'user', content: prompt }]
+  });
+
+  // Extract the text response (may be after tool use blocks)
+  let resultText = '';
+  for (const block of response.content) {
+    if (block.type === 'text') {
+      resultText += block.text;
     }
-  C, transformed into a single fother ( `...boatain"/ "/o.RSS feed URL if found, null if not",
-      "category": "Category",
-      "rationale": "Why this source is worth adding",
-      "suggested_priority": "critical | high | medium | low",
-      "reliability_assessment": "Initial reliability impression based on what you found"
+  }
+
+  // Parse JSON from response
+  let discovery;
+  try {
+    // Handle potential markdown code fences
+    const jsonMatch = resultText.match(/```(?:json)?\s*([\s\S]*?)```/) || [null, resultText];
+    discovery = JSON.parse(jsonMatch[1].trim());
+  } catch (err) {
+    console.error('[discover] Failed to parse discovery response:', err.message);
+    console.error('[discover] Raw response:', resultText.slice(0, 500));
+    discovery = {
+      discoveries: [],
+      new_source_recommendations: [],
+      coverage_gaps_identified: [],
+      search_queries_run: [],
+      parse_error: true
+    };
+  }
+
+  // Add metadata
+  discovery.generated = new Date().toISOString();
+  discovery.cycle_type = 'discovery';
+  discovery.model = 'claude-sonnet-4-20250514';
+
+  // Auto-curate sources if recommendations exist
+  if (discovery.new_source_recommendations?.length > 0) {
+    await curateSourceList(sources, discovery.new_source_recommendations);
+  }
+
+  writeFileSync(DISCOVERY_PATH, JSON.stringify(discovery, null, 2));
+  console.log(`[discover] Discovery complete: ${discovery.discoveries?.length || 0} items found, ${discovery.new_source_recommendations?.length || 0} new source recommendations`);
+
+  return discovery;
+}
+
+// ── Source self-curation ──
+
+async function curateSourceList(currentSources, recommendations) {
+  const existingIds = new Set(currentSources.sources.map(s => s.id));
+
+  for (const rec of recommendations) {
+    // Generate a slug ID from the name
+    const id = rec.name.toLowerCase()
+      .replace(/[^a-z0-9]+/g, '-')
+      .replace(/^-|-$/g, '');
+
+    if (existingIds.has(id)) {
+      console.log(`[discover] Source already exists: ${id}`);
+      continue;
     }
-  C, transformed into a single fother ( `...boatain"/ "/o.RSS feed URL if found, null if not",
-      "category": "Category",
-      "rationale": "Why this source is worth adding",
-      "suggested_priority": "critical | high | medium | low",
-      "reliability_assessment": "Initial reliability impression based on what you found"
-    }
-  C, transformed into a single fother ( `...boatain"/ "/o.RSS feed URL if found, null if not",
-      "category": "Category",
-      "rationale": "Why this source is worth adding",
-      "suggested_priority": "critical | high | medium | low",
-      "reliability_assessment": "Initial reliability impression based on what you found"
-    }
-  C,/ * ANTHROPIC_API_KEY  
- /* */C
+
+    const newSource = {
+      id,
+      name: rec.name,
+      url: rec.url,
+      feed: rec.feed_url || null,
+      feed_fallback: rec.feed_url ? null : 'scrape',
+      category: rec.category,
+      priority: rec.suggested_priority || 'low',
+      added_by: 'discovery-agent',
+      added_date: new Date().toISOString().split('T')[0],
+      reliability: 'probationary',
+      reliability_score: 0,
+      notes: `Auto-discovered. ${rec.rationale}. Initial assessment: ${rec.reliability_assessment || 'unrated'}.`
+    };
+
+    currentSources.sources.push(newSource);
+    existingIds.add(id);
+    console.log(`[discover] Added new source: ${rec.name} (${id}) at probationary reliability`);
+  }
+
+  // Update the sources file
+  currentSources.meta.updated = new Date().toISOString().split('T')[0];
+  currentSources.meta.notes += ` Discovery agent auto-curation run ${new Date().toISOString().split('T')[0]}.`;
+  writeFileSync(SOURCES_PATH, JSON.stringify(currentSources, null, 2));
+}
+
+export { runDiscovery };
+
+if (process.argv[1] && process.argv[1].endsWith('discover.mjs')) {
+  runDiscovery().catch(err => {
+    console.error('[discover] Fatal error:', err);
+    process.exit(1);
+  });
+}
