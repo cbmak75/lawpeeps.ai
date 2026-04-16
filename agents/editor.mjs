@@ -141,6 +141,9 @@ ${story.existing_coverage || 'Unknown'}
 ### Verification notes from the scout
 ${story.verification_notes || 'No special notes'}
 
+### Tip line origin
+${story.tip_origin ? `This story originated from a reader tip. Tipster credit preference: ${story.tip_credit || 'anonymous'}. If credit was requested, include a line like "This story was prompted by a reader tip from [name]" in your editor's note. If anonymous, do not mention the tip line.` : 'This story did not originate from the tip line.'}
+
 ## 50% weighting status
 ${weightingContext}
 

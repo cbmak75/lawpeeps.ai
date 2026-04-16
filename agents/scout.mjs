@@ -111,6 +111,10 @@ ${ctx.trackedThemes || 'None yet.'}
 Keywords: ${ctx.keywords}
 Watch list companies: ${ctx.watchList}
 
+## Reader tips
+
+Some items in the RSS digest above may be tagged [TIP] -- these are submissions from readers via the lawpeeps.ai tip line. Tips deserve extra attention: someone took the time to write in, so investigate them seriously. If a tip leads to a viable story, include "tip_origin": true in the story brief so mm!ke knows to credit the tipster (if they requested credit). Tips are not automatically good stories -- they still need to meet our editorial standards -- but they should not be dismissed without investigation.
+
 ## Your task
 
 Do two things:
@@ -161,7 +165,9 @@ Return a JSON object with this structure:
       "fifty_percent_note": "Why or why not",
       "existing_coverage": "Whether other outlets have covered this and how",
       "estimated_staging": "green | amber | red",
-      "verification_notes": "Anything the verification agent should pay special attention to"
+      "verification_notes": "Anything the verification agent should pay special attention to",
+      "tip_origin": false,
+      "tip_credit": "anonymous or name if tipster requested credit"
     }
   ],
   "knowledge_updates": [
