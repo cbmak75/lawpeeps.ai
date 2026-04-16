@@ -15,7 +15,10 @@
 
 export const handler = async (event) => {
   try {
-    const payload = JSON.parse(event.body);
+    const body = JSON.parse(event.body);
+
+    // Netlify wraps submission data inside a "payload" property
+    const payload = body.payload || body;
 
     // Only act on tipline form submissions
     if (payload.form_name !== 'tipline') {
