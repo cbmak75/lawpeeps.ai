@@ -1,8 +1,16 @@
 name: Staging Auto-Merge
 
+# Checks open mm!ke PRs and auto-merges based on staging level:
+#   GREEN  -> merge after 2-hour hold
+#   AMBER  -> merge after 24-hour hold (with disclosure)
+#   RED    -> never auto-merge, report only
+#
+# PRs are identified by title pattern: [GREEN], [AMBER], [RED]
+# Operator can close any PR manually to reject it.
+
 on:
   schedule:
-    # Run every hour at :30 to check for PRs ready to auto-merge
+    # Run every hour at :30
     - cron: '30 * * * *'
   workflow_dispatch:
 
@@ -32,18 +40,13 @@ jobs:
         run: |
           echo "Checking GREEN PRs..."
 
-          # Find open PRs with staging-green label
-          gh pr list --label "staging-green" --state open --json number,createdAt,labels --jq '.[]' | while read -r pr_json; do
+          # Find open PRs with [GREEN] in the title
+          gh pr list --state open --json number,title,createdAt --jq '.[] | select(.title | test("^\\[GREEN\\]")) | @json' | while read -r pr_json; do
             PR_NUM=$(echo "$pr_json" | jq -r '.number')
+            PR_TITLE=$(echo "$pr_json" | jq -r '.title')
             CREATED=$(echo "$pr_json" | jq -r '.createdAt')
 
-            # Check if PR has a reject label
-            HAS_REJECT=$(echo "$pr_json" | jq -r '.labels[] | select(.name == "reject") | .name')
-            if [ "$HAS_REJECT" = "reject" ]; then
-              echo "PR #$PR_NUM has reject label. Closing."
-              gh pr close "$PR_NUM" --comment "Rejected by operator."
-              continue
-            fi
+            echo "Found GREEN PR #$PR_NUM: $PR_TITLE"
 
             # Calculate age in seconds
             CREATED_EPOCH=$(date -d "$CREATED" +%s 2>/dev/null || date -j -f "%Y-%m-%dT%H:%M:%SZ" "$CREATED" +%s 2>/dev/null)
@@ -65,25 +68,12 @@ jobs:
         run: |
           echo "Checking AMBER PRs..."
 
-          gh pr list --label "staging-amber" --state open --json number,createdAt,labels --jq '.[]' | while read -r pr_json; do
+          gh pr list --state open --json number,title,createdAt --jq '.[] | select(.title | test("^\\[AMBER\\]")) | @json' | while read -r pr_json; do
             PR_NUM=$(echo "$pr_json" | jq -r '.number')
+            PR_TITLE=$(echo "$pr_json" | jq -r '.title')
             CREATED=$(echo "$pr_json" | jq -r '.createdAt')
 
-            # Check for reject or approved labels
-            HAS_REJECT=$(echo "$pr_json" | jq -r '.labels[] | select(.name == "reject") | .name')
-            HAS_APPROVED=$(echo "$pr_json" | jq -r '.labels[] | select(.name == "approved") | .name')
-
-            if [ "$HAS_REJECT" = "reject" ]; then
-              echo "PR #$PR_NUM has reject label. Closing."
-              gh pr close "$PR_NUM" --comment "Rejected by operator."
-              continue
-            fi
-
-            if [ "$HAS_APPROVED" = "approved" ]; then
-              echo "PR #$PR_NUM explicitly approved. Merging."
-              gh pr merge "$PR_NUM" --merge --body "Merged: AMBER staging, explicitly approved by operator."
-              continue
-            fi
+            echo "Found AMBER PR #$PR_NUM: $PR_TITLE"
 
             # Calculate age
             CREATED_EPOCH=$(date -d "$CREATED" +%s 2>/dev/null || date -j -f "%Y-%m-%dT%H:%M:%SZ" "$CREATED" +%s 2>/dev/null)
@@ -106,10 +96,10 @@ jobs:
         run: |
           echo "Checking RED PRs (report only, no auto-merge)..."
 
-          RED_COUNT=$(gh pr list --label "staging-red" --state open --json number --jq 'length')
-          if [ "$RED_COUNT" -gt 0 ]; then
-            echo "WARNING: $RED_COUNT RED PR(s) awaiting operator review:"
-            gh pr list --label "staging-red" --state open --json number,title --jq '.[] | "#\(.number): \(.title)"'
+          RED_PRS=$(gh pr list --state open --json number,title --jq '.[] | select(.title | test("^\\[RED\\]")) | "#\(.number): \(.title)"')
+          if [ -n "$RED_PRS" ]; then
+            echo "WARNING: RED PR(s) awaiting operator review:"
+            echo "$RED_PRS"
           else
             echo "No RED PRs pending."
           fi
