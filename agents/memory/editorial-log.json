@@ -79,10 +79,20 @@
       "sources": [
         "ClearyX Launches CX+ For Contract AI Needs"
       ]
+    },
+    {
+      "title": "Clio CEO Signals Push into In-House Legal Market as Data Context Becomes Strategic Battleground",
+      "slug": "clio-ceo-signals-push-into-in-house-legal-market-as-data-context-becomes-strateg",
+      "category": "analysis",
+      "staging": "red",
+      "publishDate": "2026-04-16",
+      "sources": [
+        "ClioCon Briefings: In-house ambition and why data context matters more than ever"
+      ]
     }
   ],
   "entities": {},
   "sourceNotes": {},
-  "lastEditorialNotes": "Notable trend: contract AI platforms are all launching conversational interfaces within weeks of each other (Juro's Operator, ClearyX's CX+, August's Genius Mode). This suggests either competitive pressure or shared technical breakthrough worth exploring in a future trend piece. Clio's in-house pivot is significant strategic news that deserves deeper coverage than typical product launches. The Legal IT Insider interview with Jack Newton provides substantive material about market positioning and data strategy that goes beyond surface-level feature announcements.",
-  "lastEditorialNotesDate": "2026-04-16T08:04:13.929Z"
+  "lastEditorialNotes": "The Clio story represents a major strategic development worth deeper analysis - their move into in-house legal could reshape the practice management landscape. This differs from the recent product launches because it's about market positioning and business strategy rather than feature announcements. Worth monitoring how other practice management vendors respond to this competitive pressure.",
+  "lastEditorialNotesDate": "2026-04-16T08:21:16.917Z"
 }
