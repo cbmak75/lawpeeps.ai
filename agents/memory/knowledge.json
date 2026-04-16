@@ -11,6 +11,10 @@
         {
           "date": "2026-04-16",
           "content": "Raised $550M at $5.55B valuation in March 2026, acquired Canadian startup Walter"
+        },
+        {
+          "date": "2026-04-16",
+          "content": "Raised $550M Series D at $5.55B valuation in March 2026, acquired Walter AI"
         }
       ],
       "last_updated": "2026-04-16"
@@ -48,6 +52,10 @@
         {
           "date": "2026-04-16",
           "content": "MoJ's in-house AI transcription system being tested to replace commercial court transcription providers"
+        },
+        {
+          "date": "2026-04-16",
+          "content": "UK MoJ's in-house AI transcription system being tested against commercial providers for Crown Court accuracy"
         }
       ],
       "last_updated": "2026-04-16"
@@ -70,6 +78,10 @@
         {
           "date": "2026-04-16",
           "content": "Raised $200M at $11B valuation in March 2026, total lifetime funding now exceeds $1.22 billion"
+        },
+        {
+          "date": "2026-04-16",
+          "content": "Completed two acquisitions in 2026: Hexus (January) and Lume (March), total funding now exceeds $1.22 billion"
         }
       ],
       "last_updated": "2026-04-16"
@@ -106,8 +118,19 @@
         }
       ],
       "last_updated": "2026-04-16"
+    },
+    "sra ai guidance": {
+      "name": "SRA AI guidance",
+      "first_seen": "2026-04-16",
+      "updates": [
+        {
+          "date": "2026-04-16",
+          "content": "Delivered February 2026 webinar but no concrete requirements; research on public GenAI use due April 2026"
+        }
+      ],
+      "last_updated": "2026-04-16"
     }
   },
-  "last_updated": "2026-04-16T19:26:50.877Z",
+  "last_updated": "2026-04-16T20:55:18.865Z",
   "note": "mm!ke's accumulated knowledge about companies, people, and developments. Updated by the research agent and editorial cycle."
 }
