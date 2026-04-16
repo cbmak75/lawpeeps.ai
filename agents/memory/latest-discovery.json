@@ -1,160 +1,137 @@
 {
-  "scout_run": "2026-04-16T20:54:06.194Z",
+  "scout_run": "2026-04-16T21:14:57.376Z",
   "stories": [
     {
-      "title": "UK Government Tests AI Transcripts Against Commercial Providers as Legal Services Face Disruption",
-      "slug": "uk-government-ai-transcripts-commercial-providers-disruption",
+      "title": "SRA Research Reveals Third of Public Using GenAI for Legal Issues",
+      "slug": "sra-research-public-using-genai-legal-issues-april-2026",
       "score": 8,
-      "category": "Legal AI",
-      "story_type": "news",
-      "research_brief": "HM Courts & Tribunals Service has launched a study of its in-house AI system, Justice Transcribe, to determine whether it can match commercial provider accuracy while reducing Crown Court transcript costs. The move signals a broader shift toward government-developed AI solutions over commercial alternatives for sensitive legal workflows. Current victims pay hundreds or thousands of pounds for court transcripts, with the MoJ promising free sentencing transcripts from spring 2027 if the pilot succeeds. This represents a direct threat to existing commercial transcription contracts across Crown Court proceedings. The initiative mirrors the Department for Transport's Consultation Analysis Tool, suggesting UK departments are increasingly building bespoke AI rather than buying off-the-shelf solutions. For legal services businesses, the procurement signal is clear: successful Justice Transcribe deployment would reduce government spend on transcription services. The study explicitly benchmarks against commercial vendors on accuracy and cost, with findings feeding 'nationwide plans to upgrade, modernise and open up the court system.' Firms serving MoJ technology contracts should monitor accuracy thresholds and whether scope expands beyond sentencing remarks to full trial transcripts.",
-      "primary_source": "https://www.resultsense.com/news/2026-04-14-hmcts-justice-transcribe-ai-court-transcripts/",
-      "primary_source_verified": true,
-      "additional_sources": [
-        {
-          "url": "https://www.digit.fyi/ai-court-transcripts/",
-          "description": "Official government announcement details"
-        },
-        {
-          "url": "https://www.irishlegal.com/articles/english-courts-to-pilot-ai-for-court-transcripts",
-          "description": "Legal industry coverage of the announcement"
-        }
-      ],
-      "key_facts": [
-        {
-          "claim": "HMCTS will test Justice Transcribe against commercial providers for Crown Court transcript accuracy",
-          "source": "https://www.resultsense.com/news/2026-04-14-hmcts-justice-transcribe-ai-court-transcripts/",
-          "verified": true
-        },
-        {
-          "claim": "Free sentencing transcripts for victims planned from spring 2027",
-          "source": "https://www.digit.fyi/ai-court-transcripts/",
-          "verified": true
-        },
-        {
-          "claim": "Current transcript costs run into hundreds or thousands of pounds for victims",
-          "source": "https://www.irishlegal.com/articles/english-courts-to-pilot-ai-for-court-transcripts",
-          "verified": true
-        }
-      ],
-      "suggested_angle": "Government vs commercial AI solutions - the first major test of whether UK departments will build rather than buy legal AI",
-      "serves_50_percent_rule": true,
-      "fifty_percent_note": "This directly affects procurement patterns for legal AI services and signals potential disruption to commercial transcription providers",
-      "existing_coverage": "Limited coverage in legal trade press, mainstream tech coverage minimal",
-      "estimated_staging": "green",
-      "verification_notes": "Multiple government sources confirm the pilot timeline and scope"
-    },
-    {
-      "title": "Legal AI Funding Arms Race: $2.3B in Q1 as Harvey and Legora Dominate Market",
-      "slug": "legal-ai-funding-arms-race-harvey-legora-dominate",
-      "score": 7,
-      "category": "Funding",
-      "story_type": "analysis",
-      "research_brief": "Q1 2026 legal tech funding reached $2.34 billion across 103 deals, but three companies—Relativity ($720M debt), Harvey ($200M), and Legora ($550M)—captured 63% of total capital. This concentration represents unprecedented market consolidation, with Harvey now valued at $11 billion and Legora at $5.55 billion. The median round was just $1 million, creating a stark divide between mega-funded platforms and smaller startups. Harvey's total funding now exceeds $1.22 billion in roughly three years, while Legora approaches $816 million total raised. The funding surge coincides with aggressive acquisition activity: Harvey acquired Hexus and Lume, while Legora acquired Walter AI, signaling a shift from build-everything-in-house to strategic consolidation. Seed deals (46) overtook growth deals (44) for the first time since Q1 2024, suggesting market maturation challenges. The concentration raises questions about sustainable competition, though the legal market's complexity and size may support multiple large platforms. Traditional legal software vendors face pressure to respond to this venture-backed competition, potentially forcing pricing strategy adjustments and feature acceleration.",
-      "primary_source": "https://www.artificiallawyer.com/2026/04/13/legal-tech-raised-2-3b-in-q1-26-but-3-companies-dominate/",
-      "primary_source_verified": true,
-      "additional_sources": [
-        {
-          "url": "https://newmarketpitch.com/blogs/news/legaltech-funding-news",
-          "description": "Detailed breakdown of pure-play legal tech deals"
-        },
-        {
-          "url": "https://aifundingtracker.com/ai-startup-funding-news-today/",
-          "description": "Context on broader AI funding trends"
-        }
-      ],
-      "key_facts": [
-        {
-          "claim": "Q1 2026 legal tech funding totaled $2.34 billion across 103 deals",
-          "source": "https://www.artificiallawyer.com/2026/04/13/legal-tech-raised-2-3b-in-q1-26-but-3-companies-dominate/",
-          "verified": true
-        },
-        {
-          "claim": "Three companies captured 63% of total funding",
-          "source": "https://www.artificiallawyer.com/2026/04/13/legal-tech-raised-2-3b-in-q1-26-but-3-companies-dominate/",
-          "verified": true
-        },
-        {
-          "claim": "Harvey raised $200 million at $11 billion valuation in March",
-          "source": "https://www.cnbc.com/2026/03/25/legal-ai-startup-harvey-raises-200-million-at-11-billion-valuation.html",
-          "verified": true
-        }
-      ],
-      "suggested_angle": "Market concentration analysis: whether legal AI is becoming a winner-take-all market and implications for traditional vendors",
-      "serves_50_percent_rule": true,
-      "fifty_percent_note": "Directly relevant to legal professionals making technology investment decisions and understanding competitive landscape shifts",
-      "existing_coverage": "Covered in legal trade publications, limited mainstream business coverage",
-      "estimated_staging": "green",
-      "verification_notes": "Multiple sources confirm funding figures and deal counts"
-    },
-    {
-      "title": "SRA Faces Pressure for Concrete AI Guidance as Regulatory Silence Becomes 'Unsustainable'",
-      "slug": "sra-pressure-concrete-ai-guidance-regulatory-silence",
-      "score": 6,
       "category": "Regulatory",
-      "story_type": "analysis",
-      "research_brief": "The Solicitors Regulation Authority faces mounting criticism for failing to provide substantive guidance on AI use in legal practice, despite widespread adoption of AI tools across law firms. Legal professionals argue the SRA's current 'outcome-based' approach creates dangerous regulatory uncertainty around competence obligations when using AI systems. The regulator delivered a February 2026 webinar outlining its developing framework but offered no concrete requirements beyond existing principles. Critics highlight practical gaps: solicitors lack clarity on verification requirements for AI outputs, supervision standards for AI-assisted work, and liability frameworks for AI errors. Research commissioned by the SRA, due for publication in April 2026, reveals roughly one-third of the public has used generative AI for legal issues, often alongside solicitor advice. This creates confidentiality risks when privileged information enters public AI systems. The regulatory vacuum becomes more problematic as AI becomes embedded in standard legal software, with some arguing labeling requirements will become meaningless as AI integration deepens. The SRA's silence contrasts with more prescriptive approaches in other jurisdictions and sectors, raising questions about whether principles-based regulation can adequately address AI's specific risks in legal practice.",
-      "primary_source": "https://www.legalfutures.co.uk/blog/ai-and-the-solicitors-duty-of-competence-time-for-sra-guidance",
+      "story_type": "news",
+      "research_brief": "<cite index=\"11-2,11-12,11-13\">The Solicitors Regulation Authority is set to publish research in April 2026 showing that roughly a third of the public has used Generative AI to help identify legal issues, with many individuals using a hybrid approach where they seek advice from both a solicitor and a GenAI model.</cite> This comes from SRA-commissioned research that was referenced during a February 2026 webinar hosted by the Society of Asian Lawyers.\n\n<cite index=\"11-14\">While this enhanced access has potentially reduced costs, the SRA noted concerns about accuracy and confidentiality risks.</cite> <cite index=\"11-15,11-16\">GenAI models are prone to \"hallucinations\" and have been known to produce fake cases and incorrect information which has found its way into court bundles and client advice, representing a step backwards for public trust and highlighting that human oversight is imperative when using AI tools.</cite>\n\n<cite index=\"11-25,11-26,11-27\">To address these risks, the SRA has adopted an outcome-based regulatory approach, meaning firms are not required to adhere to prescriptive rules but must meet the specific professional standards that have always been expected of them. The SRA highlights key principles in their guidance including explainability - firms must be transparent in their AI usage, demonstrating what data has been used, what oversight measures are in place and why they have used AI for the tasks.</cite>\n\nThis research provides the first concrete data on how widespread public use of AI for legal matters has become, suggesting the legal AI market's impact extends far beyond law firms to direct consumer behavior. It also reinforces ongoing regulatory concerns about AI accuracy in legal contexts.",
+      "primary_source": "https://www.societyofasianlawyers.co.uk/2026/02/navigating-the-future-with-the-sras-regulatory-approach/",
       "primary_source_verified": true,
       "additional_sources": [
-        {
-          "url": "https://www.societyofasianlawyers.co.uk/2026/02/navigating-the-future-with-the-sras-regulatory-approach/",
-          "description": "SRA webinar coverage on AI policy development"
-        },
         {
           "url": "https://communities.lawsociety.org.uk/risk-and-compliance/compliance-and-the-use-of-ai-in-law-firms/6003325.article",
-          "description": "Law Society guidance on AI compliance frameworks"
+          "description": "Law Society guidance on AI compliance framework"
         }
       ],
       "key_facts": [
         {
-          "claim": "SRA research shows roughly one-third of public has used GenAI for legal issues",
+          "claim": "SRA research due April 2026 shows roughly a third of the public has used GenAI for legal issues",
           "source": "https://www.societyofasianlawyers.co.uk/2026/02/navigating-the-future-with-the-sras-regulatory-approach/",
           "verified": true
         },
         {
-          "claim": "SRA delivered AI policy webinar in February 2026 but provided no concrete requirements",
-          "source": "https://www.societyofasianlawyers.co.uk/2026/02/navigating-the-future-with-the-sras-regulatory-approach/",
-          "verified": true
-        },
-        {
-          "claim": "GenAI models prone to 'hallucinations' producing fake cases that have appeared in court bundles",
+          "claim": "Many use hybrid approach seeking advice from both solicitors and GenAI models",
           "source": "https://www.societyofasianlawyers.co.uk/2026/02/navigating-the-future-with-the-sras-regulatory-approach/",
           "verified": true
         }
       ],
-      "suggested_angle": "Regulatory gap analysis: How principles-based regulation struggles with AI's specific risks and the pressure for concrete guidance",
+      "suggested_angle": "First regulatory data revealing widespread consumer AI adoption in legal matters - implications for access to justice and professional services model",
       "serves_50_percent_rule": true,
-      "fifty_percent_note": "Directly affects how solicitors can safely use AI tools and their professional obligations",
-      "existing_coverage": "Legal press covering the webinar and guidance gaps, limited mainstream coverage",
+      "fifty_percent_note": "This is original regulatory research that hasn't been published yet, providing new data on consumer behavior that affects the entire legal services market",
+      "existing_coverage": "No coverage found of this specific research - the webinar was covered but not the research findings",
+      "estimated_staging": "green",
+      "verification_notes": "The research is due to be published in April 2026 according to the source - verify publication date and full findings when available"
+    },
+    {
+      "title": "Civil Justice Council Consults on AI Disclosure Requirements Until April 14",
+      "slug": "civil-justice-council-ai-disclosure-requirements-consultation-april-2026",
+      "score": 7,
+      "category": "Regulatory",
+      "story_type": "news",
+      "research_brief": "<cite index=\"32-7,32-8,32-9\">In February 2026, the Civil Justice Council launched a consultation paper considering potential requirements to govern legal representatives' use of AI to prepare court documents, specifically whether AI-use declarations should apply to specific categories of litigation documents. The CJC's proposals include requirements for statements of case, skeleton arguments, and other advocacy documents, though the CJC noted it would favour no new rules for these types of documents, provided that they bear the name of the legal representative taking professional responsibility for them.</cite>\n\n<cite index=\"32-1,32-11\">The CJC's proposals will remain open for consultation until 14 April 2026, so the final scope of any new requirements remains to be seen.</cite> This follows a series of court cases where AI has generated problematic content. <cite index=\"32-17,32-18,32-19\">The recent decision in Elden v Revenue and Customs Commissioners addressed inaccuracies in court documents because of the use of AI, specifically in relation to case summaries included in the appellant's skeleton argument. In Elden, the court imposed specific requirements including the need to annex full judgments of any cases referenced, use direct quotations from the judgments, and include in the statement of truth that each statement of fact, case summary, or reference has been checked.</cite>\n\n<cite index=\"32-2,32-12\">Appropriate oversight and verification in relation to the use of AI in litigation remain important considerations, and, as demonstrated by recent decisions, the potential sanctions for improper AI usage may be severe.</cite> <cite index=\"32-3,32-4,32-5,32-6\">The courts of England and Wales are not alone in considering the need for new rules around the use of AI in preparing court documents, with other jurisdictions including arbitral bodies considering similar requirements. Even subtle variations in approach across jurisdictions may give rise to differing outcomes, and going forward, a party's choice of jurisdiction may be influenced by how AI may or may not be used before the relevant court or tribunal.</cite>\n\nThis consultation represents a critical juncture in establishing formal AI governance rules for court proceedings in England and Wales.",
+      "primary_source": "https://www.gtlaw.com/en/insights/2026/4/ai-in-the-courtroom-key-takeaways-from-recent-decisions-in-the-courts-of-england-and-wales",
+      "primary_source_verified": true,
+      "additional_sources": [
+        {
+          "url": "https://natlawreview.com/article/ai-courtroom-key-takeaways-recent-decisions-courts-england-and-wales",
+          "description": "Additional coverage of the same consultation and court decisions"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "CJC consultation on AI disclosure requirements closes April 14, 2026",
+          "source": "https://www.gtlaw.com/en/insights/2026/4/ai-in-the-courtroom-key-takeaways-from-recent-decisions-in-the-courts-of-england-and-wales",
+          "verified": true
+        },
+        {
+          "claim": "CJC favours no new rules for advocacy documents if they bear legal representative's name",
+          "source": "https://www.gtlaw.com/en/insights/2026/4/ai-in-the-courtroom-key-takeaways-from-recent-decisions-in-the-courts-of-england-and-wales",
+          "verified": true
+        }
+      ],
+      "suggested_angle": "Critical deadline approaching for UK court AI rules - could shape litigation practice across jurisdictions",
+      "serves_50_percent_rule": true,
+      "fifty_percent_note": "The April 14 deadline makes this timely news about active regulatory development that will affect legal practice",
+      "existing_coverage": "Limited coverage found - mainly in specialized legal publications",
+      "estimated_staging": "green",
+      "verification_notes": "Verify exact consultation deadline and current status with CJC directly"
+    },
+    {
+      "title": "Harvey AI and Paris Saint-Germain Partnership Signals Sports Industry Legal AI Adoption",
+      "slug": "harvey-ai-psg-partnership-sports-legal-ai-march-2026",
+      "score": 6,
+      "category": "Adoption",
+      "story_type": "news",
+      "research_brief": "<cite index=\"21-1\">Paris Saint-Germain has partnered with Harvey as its Official Legal AI Platform, as announced on March 31, 2026.</cite> This represents a significant expansion of Harvey's reach beyond traditional law firms into the sports industry, following the company's recent $200 million funding round that valued it at $11 billion.\n\n<cite index=\"22-1,22-2,22-3\">HSBC has also announced a strategic AI partnership with Harvey AI as part of a shift towards embedding AI across the bank's operations. The pilot brings a cutting-edge legal AI platform into HSBC's Global Legal function as part of the Bank's commitment to innovation and operational excellence.</cite> <cite index=\"22-4\">Harvey's platform is purpose-built for legal teams who can leverage AI to accelerate responding to business needs while also supporting enterprise-grade controls and security aligned to regulatory expectations.</cite>\n\n<cite index=\"23-8\">Also this month, CMS announced that it would extend a pilot rollout of Harvey AI software to more than 7,000 lawyers in more than 50 countries.</cite> These partnerships demonstrate Harvey's strategy of expanding beyond law firms into corporate legal departments and now sports organizations.\n\n<cite index=\"22-5,22-6,22-7\">Harvey AI CEO Winston Weinberg commented that HSBC has a customer-centric mindset and a clear plan to become an AI fluent organisation, with the Legal team moving towards a more AI-enabled operating model that will help them deliver for the business by becoming more data-driven, efficient and effective.</cite> The PSG partnership suggests similar dynamics may be driving adoption in the sports industry, where complex commercial arrangements and regulatory compliance create substantial legal workloads.",
+      "primary_source": "https://tracxn.com/d/companies/harvey/__wv3Ir3KF1kZj1Zll1_0BJ3nIHx8uKPnDrx2Z1k7aQkU",
+      "primary_source_verified": true,
+      "additional_sources": [
+        {
+          "url": "https://www.hsbc.com/news-and-views/news/media-releases/2026/hsbc-announces-harvey-ai-for-their-legal-platform",
+          "description": "HSBC partnership announcement showing enterprise adoption pattern"
+        },
+        {
+          "url": "https://www.globallegalpost.com/news/legaltech-suppliers-harvey-and-aderant-agree-marketing-partnership-822711516",
+          "description": "Context on Harvey's broader partnership strategy"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "Paris Saint-Germain partners with Harvey as Official Legal AI Platform on March 31, 2026",
+          "source": "https://tracxn.com/d/companies/harvey/__wv3Ir3KF1kZj1Zll1_0BJ3nIHx8uKPnDrx2Z1k7aQkU",
+          "verified": true
+        },
+        {
+          "claim": "CMS extended Harvey AI pilot to 7,000+ lawyers in 50+ countries",
+          "source": "https://www.globallegalpost.com/news/legaltech-suppliers-harvey-and-aderant-agree-marketing-partnership-822711516",
+          "verified": true
+        }
+      ],
+      "suggested_angle": "Sports industry legal AI adoption - new market vertical for legal tech as Harvey expands beyond law firms",
+      "serves_50_percent_rule": false,
+      "fifty_percent_note": "While the PSG partnership is interesting, it's primarily a customer win announcement rather than a significant legal AI development affecting the broader market",
+      "existing_coverage": "Limited coverage of PSG partnership specifically - mostly mentioned in Harvey funding round coverage",
       "estimated_staging": "amber",
-      "verification_notes": "SRA research publication timing should be confirmed - stated as 'due April 2026'"
+      "verification_notes": "Verify details of PSG partnership scope and whether this represents broader sports industry trend"
     }
   ],
   "knowledge_updates": [
     {
-      "entity": "Justice Transcribe",
-      "update": "UK MoJ's in-house AI transcription system being tested against commercial providers for Crown Court accuracy"
+      "entity": "SRA",
+      "update": "Publishing research in April 2026 showing 1/3 of public uses GenAI for legal issues, adopting outcome-based regulatory approach for AI"
     },
     {
-      "entity": "Harvey",
-      "update": "Completed two acquisitions in 2026: Hexus (January) and Lume (March), total funding now exceeds $1.22 billion"
+      "entity": "Civil Justice Council",
+      "update": "Consulting on AI disclosure requirements for court documents until April 14, 2026"
     },
     {
-      "entity": "Legora",
-      "update": "Raised $550M Series D at $5.55B valuation in March 2026, acquired Walter AI"
+      "entity": "Harvey AI",
+      "update": "New partnerships with PSG (March 31) and HSBC, expanding beyond law firms into corporate and sports sectors"
     },
     {
-      "entity": "SRA AI guidance",
-      "update": "Delivered February 2026 webinar but no concrete requirements; research on public GenAI use due April 2026"
+      "entity": "Legal AI Market",
+      "update": "Q1 2026 saw $2.34B raised across 103 deals, with Harvey and Legora capturing 77% of total funding"
     }
   ],
   "search_queries_used": [
-    "legal AI funding rounds April 2026",
-    "SRA AI regulation solicitors April 2026",
-    "court AI decisions legal transcription April 2026",
-    "Harvey legal AI acquisition merger news 2026"
+    "legal AI funding news April 2026",
+    "legal AI regulatory SRA Law Society April 2026",
+    "\"Harvey AI\" PSG legal partner announcement April 2026",
+    "legal AI court decisions UK AI Mazur ruling April 2026"
   ],
-  "generated": "2026-04-16T20:55:18.865Z",
+  "generated": "2026-04-16T21:16:24.232Z",
   "cycle_type": "scout"
 }

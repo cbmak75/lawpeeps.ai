@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-16T20:54:06.193Z",
+  "generated": "2026-04-16T21:14:57.375Z",
   "cycle_type": "monitoring",
   "item_count": 30,
-  "total_scanned": 477,
+  "total_scanned": 491,
   "sources_checked": 16,
   "sources_skipped": 10,
   "items": [
@@ -70,6 +70,50 @@
       "source_name": "Ars Technica AI",
       "source_priority": "low",
       "source_category": "General AI",
+      "relevance_score": 5
+    },
+    {
+      "title": "Paris Saint-Germain Names Harvey The Official Legal AI Partner",
+      "url": "https://www.harvey.ai/blog/paris-saint-germain-names-harvey-the-official-legal-ai-partner",
+      "summary": "Article URL: https://www.harvey.ai/blog/paris-saint-germain-names-harvey-the-official-legal-ai-partner Comments URL: https://news.ycombinator.com/item?id=47584330 Points: 2 # Comments: 0",
+      "published": "2026-03-31T08:33:26.000Z",
+      "source_id": "hacker-news",
+      "source_name": "Hacker News (filtered)",
+      "source_priority": "low",
+      "source_category": "Community",
+      "relevance_score": 5
+    },
+    {
+      "title": "Legal AI startup Harvey raises $200M at $11B led by Sequoia, up from $8B in 2025",
+      "url": "https://www.cnbc.com/2026/03/25/legal-ai-startup-harvey-raises-200-million-at-11-billion-valuation.html",
+      "summary": "Article URL: https://www.cnbc.com/2026/03/25/legal-ai-startup-harvey-raises-200-million-at-11-billion-valuation.html Comments URL: https://news.ycombinator.com/item?id=47524570 Points: 2 # Comments: 2",
+      "published": "2026-03-25T23:17:21.000Z",
+      "source_id": "hacker-news",
+      "source_name": "Hacker News (filtered)",
+      "source_priority": "low",
+      "source_category": "Community",
+      "relevance_score": 5
+    },
+    {
+      "title": "Remote Code Execution on a $1B Legal AI Tool",
+      "url": "https://www.promptarmor.com/resources/casebreak-ai-phishing-and-rce-in-vlex",
+      "summary": "Article URL: https://www.promptarmor.com/resources/casebreak-ai-phishing-and-rce-in-vlex Comments URL: https://news.ycombinator.com/item?id=46248873 Points: 6 # Comments: 0",
+      "published": "2025-12-12T20:59:22.000Z",
+      "source_id": "hacker-news",
+      "source_name": "Hacker News (filtered)",
+      "source_priority": "low",
+      "source_category": "Community",
+      "relevance_score": 5
+    },
+    {
+      "title": "Spellbook: Legal AI",
+      "url": "https://www.spellbook.legal",
+      "summary": "Article URL: https://www.spellbook.legal Comments URL: https://news.ycombinator.com/item?id=44334209 Points: 2 # Comments: 0",
+      "published": "2025-06-21T03:15:50.000Z",
+      "source_id": "hacker-news",
+      "source_name": "Hacker News (filtered)",
+      "source_priority": "low",
+      "source_category": "Community",
       "relevance_score": 5
     },
     {
@@ -285,50 +329,6 @@
       "title": "WebXSkill: Skill Learning for Autonomous Web Agents",
       "url": "https://arxiv.org/abs/2604.13318",
       "summary": "arXiv:2604.13318v1 Announce Type: new Abstract: Autonomous web agents powered by large language models (LLMs) have shown promise in completing complex browser tasks, yet they still struggle with long-horizon workflows. A key bottleneck is the grounding gap in existing skill formulations: textual workflow skills provide natural language guidance but cannot be directly executed, while code-based skills are executable but opaque to the agent, offering no step-level understanding for error recovery ",
-      "published": "2026-04-16T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI",
-      "source_priority": "low",
-      "source_category": "Research",
-      "relevance_score": 3
-    },
-    {
-      "title": "ReSS: Learning Reasoning Models for Tabular Data Prediction via Symbolic Scaffold",
-      "url": "https://arxiv.org/abs/2604.13392",
-      "summary": "arXiv:2604.13392v1 Announce Type: new Abstract: Tabular data remains prevalent in high-stakes domains such as healthcare and finance, where predictive models are expected to provide both high accuracy and faithful, human-understandable reasoning. While symbolic models offer verifiable logic, they lack semantic expressiveness. Meanwhile, general-purpose LLMs often require specialized fine-tuning to master domain-specific tabular reasoning. To address the dual challenges of scalable data curation ",
-      "published": "2026-04-16T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI",
-      "source_priority": "low",
-      "source_category": "Research",
-      "relevance_score": 3
-    },
-    {
-      "title": "Towards Scalable Lightweight GUI Agents via Multi-role Orchestration",
-      "url": "https://arxiv.org/abs/2604.13488",
-      "summary": "arXiv:2604.13488v1 Announce Type: new Abstract: Autonomous Graphical User Interface (GUI) agents powered by Multimodal Large Language Models (MLLMs) enable digital automation on end-user devices. While scaling both parameters and data has yielded substantial gains, advanced methods still suffer from prohibitive deployment costs on resource-constrained devices. When facing complex in-the-wild scenarios, lightweight GUI agents are bottlenecked by limited capacity and poor task scalability under en",
-      "published": "2026-04-16T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI",
-      "source_priority": "low",
-      "source_category": "Research",
-      "relevance_score": 3
-    },
-    {
-      "title": "Weight Patching: Toward Source-Level Mechanistic Localization in LLMs",
-      "url": "https://arxiv.org/abs/2604.13694",
-      "summary": "arXiv:2604.13694v1 Announce Type: new Abstract: Mechanistic interpretability seeks to localize model behavior to the internal components that causally realize it. Prior work has advanced activation-space localization and causal tracing, but modules that appear important in activation space may merely aggregate or amplify upstream signals rather than encode the target capability in their own parameters. To address this gap, we propose Weight Patching, a parameter-space intervention method for sou",
-      "published": "2026-04-16T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI",
-      "source_priority": "low",
-      "source_category": "Research",
-      "relevance_score": 3
-    },
-    {
-      "title": "The cognitive companion: a lightweight parallel monitoring architecture for detecting and recovering from reasoning degradation in LLM agents",
-      "url": "https://arxiv.org/abs/2604.13759",
-      "summary": "arXiv:2604.13759v1 Announce Type: new Abstract: Large language model (LLM) agents on multi-step tasks suffer reasoning degradation, looping, drift, stuck states, at rates up to 30% on hard tasks. Current solutions include hard step limits (abrupt) or LLM-as-judge monitoring (10-15% overhead per step). This paper introduces the Cognitive Companion, a parallel monitoring architecture with two implementations: an LLM-based Companion and a novel zero-overhead Probe-based Companion. We report a three",
       "published": "2026-04-16T04:00:00.000Z",
       "source_id": "arxiv-cs-ai",
       "source_name": "arXiv cs.AI",

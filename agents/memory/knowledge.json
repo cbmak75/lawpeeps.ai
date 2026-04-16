@@ -26,6 +26,10 @@
         {
           "date": "2026-04-16",
           "content": "Raised $200M at $11B valuation (March 2026), serving 100,000+ lawyers across 1,300 organizations, focusing on AI agents and legal engineering teams"
+        },
+        {
+          "date": "2026-04-16",
+          "content": "New partnerships with PSG (March 31) and HSBC, expanding beyond law firms into corporate and sports sectors"
         }
       ],
       "last_updated": "2026-04-16"
@@ -37,6 +41,10 @@
         {
           "date": "2026-04-16",
           "content": "Market valued at $5.59B in 2026 but Harvey+Legora alone represent $16B+ in enterprise value, indicating significant overvaluation or explosive growth expectations. Q1 2026 saw $242B in AI funding overall."
+        },
+        {
+          "date": "2026-04-16",
+          "content": "Q1 2026 saw $2.34B raised across 103 deals, with Harvey and Legora capturing 77% of total funding"
         }
       ],
       "last_updated": "2026-04-16"
@@ -104,6 +112,10 @@
         {
           "date": "2026-04-16",
           "content": "Published AI Policy and Regulation webinar February 2026, taking outcome-based approach to AI regulation"
+        },
+        {
+          "date": "2026-04-16",
+          "content": "Publishing research in April 2026 showing 1/3 of public uses GenAI for legal issues, adopting outcome-based regulatory approach for AI"
         }
       ],
       "last_updated": "2026-04-16"
@@ -129,8 +141,19 @@
         }
       ],
       "last_updated": "2026-04-16"
+    },
+    "civil justice council": {
+      "name": "Civil Justice Council",
+      "first_seen": "2026-04-16",
+      "updates": [
+        {
+          "date": "2026-04-16",
+          "content": "Consulting on AI disclosure requirements for court documents until April 14, 2026"
+        }
+      ],
+      "last_updated": "2026-04-16"
     }
   },
-  "last_updated": "2026-04-16T20:55:18.865Z",
+  "last_updated": "2026-04-16T21:16:24.232Z",
   "note": "mm!ke's accumulated knowledge about companies, people, and developments. Updated by the research agent and editorial cycle."
 }
