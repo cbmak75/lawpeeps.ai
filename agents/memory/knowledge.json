@@ -7,6 +7,10 @@
         {
           "date": "2026-04-16",
           "content": "Raised $550M Series D at $5.55B valuation (March 2026), tripling valuation in 5 months, serving 800+ customers across 50+ markets, expanding aggressively in U.S. with offices in Houston and Chicago"
+        },
+        {
+          "date": "2026-04-16",
+          "content": "Raised $550M at $5.55B valuation in March 2026, acquired Canadian startup Walter"
         }
       ],
       "last_updated": "2026-04-16"
@@ -40,6 +44,10 @@
         {
           "date": "2026-04-16",
           "content": "UK Ministry of Justice's in-house AI transcription tool being tested against commercial providers for Crown Court transcripts, with previous successful pilots in Immigration and Asylum Chamber"
+        },
+        {
+          "date": "2026-04-16",
+          "content": "MoJ's in-house AI transcription system being tested to replace commercial court transcription providers"
         }
       ],
       "last_updated": "2026-04-16"
@@ -54,8 +62,52 @@
         }
       ],
       "last_updated": "2026-04-16"
+    },
+    "harvey": {
+      "name": "Harvey",
+      "first_seen": "2026-04-16",
+      "updates": [
+        {
+          "date": "2026-04-16",
+          "content": "Raised $200M at $11B valuation in March 2026, total lifetime funding now exceeds $1.22 billion"
+        }
+      ],
+      "last_updated": "2026-04-16"
+    },
+    "lawfairy": {
+      "name": "LawFairy",
+      "first_seen": "2026-04-16",
+      "updates": [
+        {
+          "date": "2026-04-16",
+          "content": "First deterministic (non-AI) technology-only law firm authorized by SRA, focuses on immigration law"
+        }
+      ],
+      "last_updated": "2026-04-16"
+    },
+    "sra": {
+      "name": "SRA",
+      "first_seen": "2026-04-16",
+      "updates": [
+        {
+          "date": "2026-04-16",
+          "content": "Published AI Policy and Regulation webinar February 2026, taking outcome-based approach to AI regulation"
+        }
+      ],
+      "last_updated": "2026-04-16"
+    },
+    "anthropic": {
+      "name": "Anthropic",
+      "first_seen": "2026-04-16",
+      "updates": [
+        {
+          "date": "2026-04-16",
+          "content": "Launched Claude Partner Network with $100M investment in March 2026"
+        }
+      ],
+      "last_updated": "2026-04-16"
     }
   },
-  "last_updated": "2026-04-16T19:11:16.481Z",
+  "last_updated": "2026-04-16T19:26:50.877Z",
   "note": "mm!ke's accumulated knowledge about companies, people, and developments. Updated by the research agent and editorial cycle."
 }

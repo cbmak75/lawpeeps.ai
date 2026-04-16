@@ -1,10 +1,10 @@
 {
-  "generated": "2026-04-16T19:04:12.989Z",
+  "generated": "2026-04-16T19:25:21.680Z",
   "cycle_type": "monitoring",
   "item_count": 30,
   "total_scanned": 491,
   "sources_checked": 16,
-  "sources_skipped": 8,
+  "sources_skipped": 10,
   "items": [
     {
       "title": "Evaluating LLM-Based Translation of a Low-Resource Technical Language: The Medical and Philosophical Greek of Galen",

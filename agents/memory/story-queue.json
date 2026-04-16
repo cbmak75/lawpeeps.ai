@@ -1,5 +1,4 @@
 {
-  "scout_run": "2026-04-16T19:25:21.681Z",
   "stories": [
     {
       "title": "Harvey Hits $11B Valuation After $200M Round as Legal AI Funding Explodes",
@@ -42,7 +41,11 @@
       "fifty_percent_note": "Harvey's valuation trajectory and the broader legal AI funding explosion directly impacts how law firms evaluate and price technology investments",
       "existing_coverage": "Widespread coverage in mainstream business media (CNBC, Fortune) and specialized legal tech publications, but most focus on deal metrics rather than strategic implications",
       "estimated_staging": "green",
-      "verification_notes": "Multiple consistent sources confirm valuation and funding details. Worth monitoring Harvey's actual deployment metrics vs. valuation growth."
+      "verification_notes": "Multiple consistent sources confirm valuation and funding details. Worth monitoring Harvey's actual deployment metrics vs. valuation growth.",
+      "queued_at": "2026-04-16T19:26:50.875Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     },
     {
       "title": "Ministry of Justice Tests AI Transcription to Cut £1000+ Court Record Fees for Victims",
@@ -85,7 +88,11 @@
       "fifty_percent_note": "Government building in-house legal AI tools directly challenges commercial legal tech vendors and could reshape procurement patterns across the justice system",
       "existing_coverage": "Government press release widely republished but limited analysis of commercial impact or technical implementation challenges",
       "estimated_staging": "amber",
-      "verification_notes": "Press release confirmed by multiple sources. Need to monitor actual accuracy benchmarks when study results are published and watch for commercial vendor responses."
+      "verification_notes": "Press release confirmed by multiple sources. Need to monitor actual accuracy benchmarks when study results are published and watch for commercial vendor responses.",
+      "queued_at": "2026-04-16T19:26:50.876Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     },
     {
       "title": "SRA Authorizes First Non-AI 'Technology-Only' Law Firm Using Deterministic Legal Logic",
@@ -128,41 +135,12 @@
       "fifty_percent_note": "SRA's willingness to authorize deterministic vs. generative AI systems sets important precedent for how legal regulators evaluate different AI approaches and professional liability standards",
       "existing_coverage": "Limited to legal trade publications with minimal mainstream coverage despite regulatory significance",
       "estimated_staging": "green",
-      "verification_notes": "SRA authorization confirmed by multiple legal publications. Worth following LawFairy's performance metrics and whether other firms adopt similar deterministic approaches."
+      "verification_notes": "SRA authorization confirmed by multiple legal publications. Worth following LawFairy's performance metrics and whether other firms adopt similar deterministic approaches.",
+      "queued_at": "2026-04-16T19:26:50.876Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "knowledge_updates": [
-    {
-      "entity": "Harvey",
-      "update": "Raised $200M at $11B valuation in March 2026, total lifetime funding now exceeds $1.22 billion"
-    },
-    {
-      "entity": "Legora",
-      "update": "Raised $550M at $5.55B valuation in March 2026, acquired Canadian startup Walter"
-    },
-    {
-      "entity": "Justice Transcribe",
-      "update": "MoJ's in-house AI transcription system being tested to replace commercial court transcription providers"
-    },
-    {
-      "entity": "LawFairy",
-      "update": "First deterministic (non-AI) technology-only law firm authorized by SRA, focuses on immigration law"
-    },
-    {
-      "entity": "SRA",
-      "update": "Published AI Policy and Regulation webinar February 2026, taking outcome-based approach to AI regulation"
-    },
-    {
-      "entity": "Anthropic",
-      "update": "Launched Claude Partner Network with $100M investment in March 2026"
-    }
-  ],
-  "search_queries_used": [
-    "legal AI funding rounds 2026",
-    "UK SRA solicitor regulation AI 2026",
-    "Ministry of Justice Justice Transcribe AI court",
-    "Anthropic Claude Partner Network $100 million investment"
-  ],
-  "generated": "2026-04-16T19:26:50.877Z",
-  "cycle_type": "scout"
+  "last_updated": "2026-04-16T19:26:50.876Z"
 }
