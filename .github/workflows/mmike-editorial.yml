@@ -44,50 +44,35 @@ jobs:
           NETLIFY_TOKEN: ${{ secrets.LAWPEEPS_MMIKE }}
         run: node agents/monitor.mjs
 
-      # Step 2: Run editorial agent
+      # Step 2: Run editorial agent (drafts all articles to disk)
       - name: Run editorial agent
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: node agents/editor.mjs
 
-      # Step 3: Check if any articles were drafted
+      # Step 3: Check what was drafted
       - name: Check for new articles
         id: check
         run: |
           if git status --porcelain | grep -q "src/content/articles/"; then
             echo "has_articles=true" >> $GITHUB_OUTPUT
 
-            # Extract article info from last-run.json
-            ARTICLE_COUNT=$(node -e "
+            # Output article list as JSON for the next step
+            node -e "
               const r = JSON.parse(require('fs').readFileSync('agents/last-run.json','utf-8'));
-              console.log(r.articlesDrafted || 0);
+              console.log(JSON.stringify(r.articles || []));
+            " > /tmp/articles.json
+
+            ARTICLE_COUNT=$(node -e "
+              const a = JSON.parse(require('fs').readFileSync('/tmp/articles.json','utf-8'));
+              console.log(a.length);
             ")
             echo "article_count=$ARTICLE_COUNT" >> $GITHUB_OUTPUT
-
-            # Get the highest-risk staging level across all articles
-            STAGING=$(node -e "
-              const r = JSON.parse(require('fs').readFileSync('agents/last-run.json','utf-8'));
-              const order = { red: 3, amber: 2, green: 1 };
-              let highest = 'green';
-              for (const a of (r.articles || [])) {
-                if ((order[a.staging] || 0) > (order[highest] || 0)) highest = a.staging;
-              }
-              console.log(highest);
-            ")
-            echo "staging=$STAGING" >> $GITHUB_OUTPUT
-
-            # Get the first article title for the branch name
-            TITLE=$(node -e "
-              const r = JSON.parse(require('fs').readFileSync('agents/last-run.json','utf-8'));
-              const a = r.articles && r.articles[0];
-              console.log(a ? a.slug : 'article');
-            ")
-            echo "slug=$TITLE" >> $GITHUB_OUTPUT
           else
             echo "has_articles=false" >> $GITHUB_OUTPUT
             echo "No new articles this cycle."
 
-            # Even without articles, commit memory updates (e.g. processed tip IDs)
+            # Even without articles, commit memory updates
             if git status --porcelain | grep -q "agents/memory/"; then
               git config user.name "mm!ke"
               git config user.email "mmike@lawpeeps.ai"
@@ -98,69 +83,14 @@ jobs:
             fi
           fi
 
-      # Step 4: Create branch and PR if articles were drafted
-      - name: Create branch and commit
-        if: steps.check.outputs.has_articles == 'true'
-        run: |
-          BRANCH="mmike/${{ steps.check.outputs.slug }}"
-          git checkout -b "$BRANCH"
-          git config user.name "mm!ke"
-          git config user.email "mmike@lawpeeps.ai"
-          git add src/content/articles/
-          git add agents/memory/
-          git add -f agents/last-run.json
-          git commit -m "draft: ${{ steps.check.outputs.slug }}
-
-          mm!ke editorial cycle: ${{ steps.check.outputs.article_count }} article(s) drafted.
-          Staging: ${{ steps.check.outputs.staging }}"
-          git push origin "$BRANCH"
-          echo "branch=$BRANCH" >> $GITHUB_ENV
-
-      - name: Create pull request
+      # Step 4: Create one branch and one PR per article
+      - name: Create per-article PRs
         if: steps.check.outputs.has_articles == 'true'
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          # Determine the highest-risk staging level across all articles
-          STAGING=$(node -e "
-            const r = JSON.parse(require('fs').readFileSync('agents/last-run.json','utf-8'));
-            const order = { red: 3, amber: 2, green: 1 };
-            let highest = 'green';
-            for (const a of (r.articles || [])) {
-              if ((order[a.staging] || 0) > (order[highest] || 0)) highest = a.staging;
-            }
-            console.log(highest);
-          ")
-          LABEL="staging:${STAGING}"
-
-          # Build PR body and write to file (avoids shell escaping issues)
-          export STAGING
-          node -e "
-            const fs = require('fs');
-            const r = JSON.parse(fs.readFileSync('agents/last-run.json','utf-8'));
-            const staging = process.env.STAGING || 'green';
-            const lines = ['## mm!ke editorial submission', ''];
-            for (const a of (r.articles || [])) {
-              lines.push('### ' + a.title);
-              lines.push('- **Category:** ' + a.category);
-              lines.push('- **Staging:** ' + a.staging.toUpperCase() + ' (' + a.stagingReason + ')');
-              lines.push('');
-            }
-            if (r.editorialNotes) {
-              lines.push('### Editorial notes');
-              lines.push(r.editorialNotes);
-              lines.push('');
-            }
-            lines.push('---');
-            if (staging === 'green') {
-              lines.push('*GREEN: This will auto-merge after the 2-hour hold window unless you close the PR.*');
-            } else if (staging === 'amber') {
-              lines.push('*AMBER: Requires your review. Will publish after 24 hours with a disclosure note if no action taken.*');
-            } else {
-              lines.push('*RED: Held indefinitely. Will not publish without your explicit approval.*');
-            }
-            fs.writeFileSync('/tmp/pr-body.md', lines.join('\n'));
-          "
+          git config user.name "mm!ke"
+          git config user.email "mmike@lawpeeps.ai"
 
           # Create labels if they don't exist (ignore errors)
           gh label create "staging:green" --color "2ea44f" --description "Auto-publish after 2h hold" 2>/dev/null || true
@@ -168,20 +98,86 @@ jobs:
           gh label create "staging:red" --color "cf222e" --description "Held indefinitely" 2>/dev/null || true
           gh label create "mmike" --color "ff69b4" --description "mm!ke editorial submission" 2>/dev/null || true
 
-          gh pr create \
-            --title "mm!ke: ${{ steps.check.outputs.slug }}" \
-            --body-file /tmp/pr-body.md \
-            --label "$LABEL" \
-            --label "mmike" \
-            --base main \
-            --head "${{ env.branch }}"
+          # Read articles array
+          ARTICLES=$(cat /tmp/articles.json)
+          COUNT=$(echo "$ARTICLES" | node -e "const a=JSON.parse(require('fs').readFileSync('/dev/stdin','utf-8')); console.log(a.length);")
+
+          echo "Creating $COUNT separate PRs..."
+
+          for i in $(seq 0 $(($COUNT - 1))); do
+            # Extract this article's metadata
+            SLUG=$(echo "$ARTICLES" | node -e "const a=JSON.parse(require('fs').readFileSync('/dev/stdin','utf-8')); console.log(a[$i].slug);")
+            TITLE=$(echo "$ARTICLES" | node -e "const a=JSON.parse(require('fs').readFileSync('/dev/stdin','utf-8')); console.log(a[$i].title);")
+            CATEGORY=$(echo "$ARTICLES" | node -e "const a=JSON.parse(require('fs').readFileSync('/dev/stdin','utf-8')); console.log(a[$i].category);")
+            STAGING=$(echo "$ARTICLES" | node -e "const a=JSON.parse(require('fs').readFileSync('/dev/stdin','utf-8')); console.log(a[$i].staging);")
+            STAGING_REASON=$(echo "$ARTICLES" | node -e "const a=JSON.parse(require('fs').readFileSync('/dev/stdin','utf-8')); console.log(a[$i].stagingReason);")
+            FILENAME=$(echo "$ARTICLES" | node -e "const a=JSON.parse(require('fs').readFileSync('/dev/stdin','utf-8')); console.log(a[$i].filename);")
+
+            BRANCH="mmike/${SLUG}"
+            LABEL="staging:${STAGING}"
+
+            echo ""
+            echo "--- Article $(($i + 1))/$COUNT: $TITLE ---"
+            echo "  Branch: $BRANCH"
+            echo "  Staging: $STAGING"
+
+            # Start from main for each article
+            git checkout main
+            git checkout -b "$BRANCH"
+
+            # Stage only this article's file + memory + last-run
+            git add "src/content/articles/${FILENAME}"
+            git add agents/memory/
+            git add -f agents/last-run.json
+
+            git commit -m "draft: ${SLUG}
+
+          mm!ke editorial submission.
+          Category: ${CATEGORY}
+          Staging: ${STAGING}"
+
+            git push origin "$BRANCH"
+
+            # Build PR body
+            cat > /tmp/pr-body-${i}.md << PREOF
+          ## mm!ke editorial submission
+
+          ### ${TITLE}
+          - **Category:** ${CATEGORY}
+          - **Staging:** $(echo "$STAGING" | tr '[:lower:]' '[:upper:]') (${STAGING_REASON})
+
+          ---
+          PREOF
+
+            if [ "$STAGING" = "green" ]; then
+              echo '*GREEN: This will auto-merge after the 2-hour hold window unless you close the PR.*' >> /tmp/pr-body-${i}.md
+            elif [ "$STAGING" = "amber" ]; then
+              echo '*AMBER: Requires your review. Will publish after 24 hours with a disclosure note if no action taken.*' >> /tmp/pr-body-${i}.md
+            else
+              echo '*RED: Held indefinitely. Will not publish without your explicit approval.*' >> /tmp/pr-body-${i}.md
+            fi
+
+            # Create the PR
+            gh pr create \
+              --title "mm!ke: ${SLUG}" \
+              --body-file "/tmp/pr-body-${i}.md" \
+              --label "$LABEL" \
+              --label "mmike" \
+              --base main \
+              --head "$BRANCH"
+
+            echo "  PR created for: $TITLE"
+          done
+
+          # Return to main
+          git checkout main
 
       # Step 5: Log the cycle result
       - name: Log result
         if: always()
         run: |
           if [ "${{ steps.check.outputs.has_articles }}" = "true" ]; then
-            echo "::notice::mm!ke drafted ${{ steps.check.outputs.article_count }} article(s). PR created with staging: ${{ steps.check.outputs.staging }}"
+            echo "::notice::mm!ke drafted ${{ steps.check.outputs.article_count }} article(s). One PR created per article."
           else
             echo "::notice::mm!ke found nothing worth covering this cycle."
           fi
