@@ -29,8 +29,18 @@
       "publishDate": "2026-04-16",
       "sources": "",
       "serves_50_percent": false
+    },
+    {
+      "title": "MoJ AI transcripts family court safeguards concerns",
+      "slug": "moj-ai-transcripts-family-court-safeguards-concerns",
+      "category": "policy",
+      "staging": "green",
+      "summary": "Justice Transcribe pilot could disrupt established court transcription market as government builds AI capabilities internally rather than buying them",
+      "publishDate": "2026-04-16",
+      "sources": "",
+      "serves_50_percent": false
     }
   ],
-  "last_updated": "2026-04-16T19:50:40.744Z",
+  "last_updated": "2026-04-16T20:44:57.884Z",
   "note": "Populated automatically by the editorial cycle. Each entry records a story drafted, published, or killed."
 }

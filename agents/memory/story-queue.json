@@ -91,9 +91,10 @@
       "estimated_staging": "amber",
       "verification_notes": "Press release confirmed by multiple sources. Need to monitor actual accuracy benchmarks when study results are published and watch for commercial vendor responses.",
       "queued_at": "2026-04-16T19:26:50.876Z",
-      "status": "pending",
-      "claimed_by": null,
-      "claimed_at": null
+      "status": "published",
+      "claimed_by": "mmike",
+      "claimed_at": "2026-04-16T20:43:37.581Z",
+      "published_at": "2026-04-16T20:44:57.883Z"
     },
     {
       "title": "SRA Authorizes First Non-AI 'Technology-Only' Law Firm Using Deterministic Legal Logic",
@@ -143,5 +144,5 @@
       "claimed_at": null
     }
   ],
-  "last_updated": "2026-04-16T19:50:40.743Z"
+  "last_updated": "2026-04-16T20:44:57.883Z"
 }

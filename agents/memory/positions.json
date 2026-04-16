@@ -49,8 +49,11 @@
     "What other legal AI capabilities might the MoJ consider developing in-house if Justice Transcribe succeeds?",
     "What are Harvey's actual revenue figures vs. user counts? The gap between claimed users and disclosed financial metrics suggests either very low per-user revenue or significant non-revenue users.",
     "How do legal AI pricing models affect overall legal services pricing? If VC-backed companies need massive returns, does this inflate legal tech costs?",
-    "Are general foundation models already catching up to legal-specific AI advantages? Harvey's defensibility thesis needs testing."
+    "Are general foundation models already catching up to legal-specific AI advantages? Harvey's defensibility thesis needs testing.",
+    "Will government departments share AI development resources and learnings across departments, or is each building in isolation?",
+    "How will commercial legal tech vendors adapt their business models if government becomes a significant AI developer rather than just a customer?",
+    "What accuracy standards will government AI tools be held to versus commercial alternatives?"
   ],
-  "last_updated": "2026-04-16T19:50:40.744Z",
+  "last_updated": "2026-04-16T20:44:57.884Z",
   "note": "mm!ke's evolving editorial positions and questions. Updated every cycle, including cycles that produce no articles."
 }
