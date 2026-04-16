@@ -1,114 +1,292 @@
 {
-  "rss_feeds": [
+  "meta": {
+    "version": "2.1",
+    "updated": "2026-04-15",
+    "notes": "Revised source list with verified URLs. Sources without native RSS use polling, scraping, or GovWire fallbacks. Newsletter sources require email-to-RSS bridge (e.g. kill-the-newsletter.com or Feedbin).",
+    "validation": {
+      "last_run": "2026-04-15",
+      "method": "Web search verification of all feed URLs, page URLs, and content types",
+      "summary": "11 RSS feeds verified, 11 scrape/API fallbacks verified, 2 newsletters verified. All source pages confirmed active."
+    }
+  },
+
+  "scoring": {
+    "keyword_count": 18,
+    "keywords": [
+      "legal AI", "LLM", "GPT", "Claude", "generative AI",
+      "legal tech", "lawtech", "regulatory technology",
+      "SRA", "solicitor AI", "AI regulation", "AI Act",
+      "immigration AI", "sponsor licence", "compliance automation",
+      "document automation", "contract AI", "retrieval augmented generation"
+    ],
+    "watch_list_companies": [
+      "Harvey", "Luminance", "Eigen", "Clio", "Anthropic",
+      "OpenAI", "Google DeepMind", "Lexis+AI", "vLex",
+      "CoCounsel", "Spellbook", "Robin AI", "Lawyaw",
+      "Juro", "Ironclad", "Diligen", "Kira Systems",
+      "Thomvest", "Sirion", "EvenUp", "Hebbia",
+      "Westlaw Edge AI", "iManage"
+    ],
+    "top_n": 30
+  },
+
+  "sources": [
     {
+      "id": "artificial-lawyer",
       "name": "Artificial Lawyer",
-      "url": "https://www.artificiallawyer.com/feed/",
-      "category": "legal-ai-news",
-      "priority": "high"
+      "url": "https://www.artificiallawyer.com",
+      "feed": "https://www.artificiallawyer.com/feed/",
+      "category": "Legal AI",
+      "priority": "critical",
+      "notes": "Primary legal AI source. Covers product launches, funding, firm adoption."
     },
     {
+      "id": "legal-it-insider",
       "name": "Legal IT Insider",
-      "url": "https://www.legaltechnology.com/feed/",
-      "category": "legal-tech-news",
-      "priority": "high"
+      "url": "https://www.legaltechnology.com",
+      "feed": null,
+      "feed_fallback": "scrape",
+      "category": "Legal tech",
+      "priority": "critical",
+      "notes": "No public RSS. Scrape or use email-to-RSS bridge on their newsletter."
     },
     {
-      "name": "Law Society Gazette",
-      "url": "https://www.lawgazette.co.uk/rss",
-      "category": "legal-profession",
-      "priority": "medium"
-    },
-    {
-      "name": "The Law Society - Technology",
-      "url": "https://www.lawsociety.org.uk/topics/technology/rss",
-      "category": "legal-profession",
-      "priority": "medium"
-    },
-    {
+      "id": "legal-futures",
       "name": "Legal Futures",
-      "url": "https://www.legalfutures.co.uk/feed",
-      "category": "legal-business",
-      "priority": "high"
+      "url": "https://www.legalfutures.co.uk",
+      "feed": "https://www.legalfutures.co.uk/feed/",
+      "category": "Legal business",
+      "priority": "high",
+      "notes": "Legal business and innovation. Good on firm strategy and SRA policy."
     },
     {
+      "id": "sra-news",
+      "name": "SRA News and Updates",
+      "url": "https://www.sra.org.uk/sra/news/",
+      "feed": "https://www.sra.org.uk/sra/news/rss.xml",
+      "feed_fallback": "scrape",
+      "feed_status": "verified-exists",
+      "category": "Regulatory",
+      "priority": "critical",
+      "notes": "SRA confirms RSS available via news page. Also has separate decisions RSS. Scrape fallback if feed URL changes."
+    },
+    {
+      "id": "sra-consultations",
+      "name": "SRA Consultations",
+      "url": "https://www.sra.org.uk/sra/consultations/",
+      "feed": null,
+      "feed_fallback": "scrape",
+      "category": "Regulatory",
+      "priority": "critical",
+      "notes": "Separate from general SRA news. Catches AI/innovation consultations early."
+    },
+    {
+      "id": "law-society-gazette",
+      "name": "Law Society Gazette",
+      "url": "https://www.lawgazette.co.uk",
+      "feed": "https://www.lawgazette.co.uk/17.rss",
+      "category": "Legal profession",
+      "priority": "medium",
+      "notes": "Broad legal profession coverage. Filter for tech/AI/regulation keywords."
+    },
+    {
+      "id": "legal-cheek",
+      "name": "Legal Cheek",
+      "url": "https://www.legalcheek.com",
+      "feed": "https://www.legalcheek.com/feed/",
+      "category": "Legal profession",
+      "priority": "medium",
+      "notes": "Surprisingly good at breaking stories about firms adopting AI. High volume -- keyword filter essential."
+    },
+    {
+      "id": "free-movement",
       "name": "Free Movement",
-      "url": "https://freemovement.org.uk/feed/",
-      "category": "immigration-law",
-      "priority": "medium"
+      "url": "https://freemovement.org.uk",
+      "feed": "https://freemovement.org.uk/feed/",
+      "category": "Immigration law",
+      "priority": "high",
+      "notes": "Core immigration law commentary. Relevant to Lawyery's practice area."
     },
     {
-      "name": "TechCrunch - AI",
-      "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "category": "general-ai",
-      "priority": "low"
+      "id": "ico-blog",
+      "name": "ICO Blog and News",
+      "url": "https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/",
+      "feed": null,
+      "feed_fallback": "scrape",
+      "category": "Data protection / AI regulation",
+      "priority": "high",
+      "notes": "ICO RSS currently broken (site redesign). Poll the news page. Critical for AI + data protection overlap."
     },
     {
-      "name": "The Register - AI",
-      "url": "https://www.theregister.com/headlines.atom",
-      "category": "general-tech",
-      "priority": "low"
+      "id": "uk-parliament-sci-tech",
+      "name": "UK Parliament Science, Innovation and Technology Committee",
+      "url": "https://committees.parliament.uk/committee/135/science-innovation-and-technology-committee/",
+      "feed": null,
+      "feed_fallback": "scrape",
+      "category": "Policy / AI regulation",
+      "priority": "high",
+      "notes": "AI inquiries and evidence sessions. Low volume but high impact when relevant."
     },
     {
-      "name": "BAILII Recent Decisions",
-      "url": "https://www.bailii.org/bailii/rss.xml",
-      "category": "case-law",
-      "priority": "low"
+      "id": "mac-reports",
+      "name": "Migration Advisory Committee",
+      "url": "https://www.gov.uk/government/organisations/migration-advisory-committee",
+      "feed": "https://www.govwire.co.uk/rss/migration-advisory-committee",
+      "feed_fallback": "gov-uk-api",
+      "feed_status": "verified-govwire",
+      "category": "Immigration policy",
+      "priority": "high",
+      "notes": "GovWire RSS verified. GOV.UK Content API as fallback. Essential for immigration practice."
     },
     {
-      "name": "SRA News",
-      "url": "https://www.sra.org.uk/sra/news/rss/",
-      "category": "regulatory",
-      "priority": "high"
+      "id": "home-office-immigration",
+      "name": "Home Office Immigration Rules and Policy",
+      "url": "https://www.gov.uk/government/organisations/uk-visas-and-immigration",
+      "feed": "https://www.govwire.co.uk/rss/uk-visas-and-immigration",
+      "feed_fallback": "gov-uk-api",
+      "feed_status": "verified-govwire",
+      "category": "Immigration policy",
+      "priority": "high",
+      "notes": "GovWire RSS verified. Catches statement of changes, policy guidance updates."
     },
     {
-      "name": "Hacker News",
-      "url": "https://hnrss.org/newest?q=legal+AI",
-      "category": "community",
-      "priority": "low"
+      "id": "oisc-oimc",
+      "name": "OIMC (formerly OISC)",
+      "url": "https://www.gov.uk/government/organisations/office-of-the-immigration-services-commissioner",
+      "feed": "https://www.govwire.co.uk/rss/office-of-the-immigration-services-commissioner",
+      "feed_fallback": "gov-uk-api",
+      "feed_status": "verified-govwire",
+      "category": "Immigration regulation",
+      "priority": "medium",
+      "notes": "GovWire RSS verified. Regulatory updates for immigration advisers. Low volume."
     },
     {
-      "name": "arXiv - cs.CL (Computation and Language)",
-      "url": "https://rss.arxiv.org/rss/cs.CL",
-      "category": "research",
-      "priority": "low"
+      "id": "anthropic-blog",
+      "name": "Anthropic Blog",
+      "url": "https://www.anthropic.com/news",
+      "feed": null,
+      "feed_community": "https://raw.githubusercontent.com/taobojlen/anthropic-rss-feed/main/anthropic_news_rss.xml",
+      "feed_fallback": "scrape",
+      "feed_status": "no-official-rss",
+      "category": "AI company",
+      "priority": "medium",
+      "notes": "No official RSS. Community-maintained feed on GitHub (taobojlen/anthropic-rss-feed). Scrape fallback if community feed goes stale."
+    },
+    {
+      "id": "harvey-blog",
+      "name": "Harvey AI Blog",
+      "url": "https://www.harvey.ai/blog",
+      "feed": null,
+      "feed_fallback": "scrape",
+      "category": "Legal AI company",
+      "priority": "medium",
+      "notes": "No RSS. Leading legal AI company -- product announcements and case studies."
+    },
+    {
+      "id": "luminance-blog",
+      "name": "Luminance Blog",
+      "url": "https://www.luminance.com/resources/blog",
+      "feed": null,
+      "feed_fallback": "scrape",
+      "category": "Legal AI company",
+      "priority": "medium",
+      "notes": "No RSS. UK-based legal AI. Contract review and due diligence focus."
+    },
+    {
+      "id": "clio-blog",
+      "name": "Clio Blog",
+      "url": "https://www.clio.com/blog/",
+      "feed": "https://www.clio.com/blog/feed/",
+      "category": "Legal tech company",
+      "priority": "low",
+      "notes": "Practice management + AI features. Good annual Legal Trends Report."
+    },
+    {
+      "id": "legal-evolution",
+      "name": "Legal Evolution",
+      "url": "https://www.legalevolution.org",
+      "feed": "https://www.legalevolution.org/feed/",
+      "category": "Legal innovation / strategy",
+      "priority": "medium",
+      "notes": "Bill Henderson. Deep analysis on structural change in legal services. Low frequency, high quality."
+    },
+    {
+      "id": "ars-technica-ai",
+      "name": "Ars Technica AI",
+      "url": "https://arstechnica.com/ai/",
+      "feed": "https://arstechnica.com/ai/feed/",
+      "category": "General AI",
+      "priority": "low",
+      "feed_status": "verified",
+      "notes": "Replaces TechCrunch and The Register. Better signal-to-noise for substantive AI coverage. Note: free RSS provides excerpts only."
+    },
+    {
+      "id": "bailii",
+      "name": "BAILII",
+      "url": "https://www.bailii.org",
+      "feed": "https://www.bailii.org/rss/",
+      "category": "Case law",
+      "priority": "low",
+      "notes": "Searchable RSS. Configure for immigration tribunal and AI-related judgments."
+    },
+    {
+      "id": "hacker-news",
+      "name": "Hacker News (filtered)",
+      "url": "https://news.ycombinator.com",
+      "feed": "https://hnrss.org/newest?q=legal+AI",
+      "category": "Community",
+      "priority": "low",
+      "notes": "Using hnrss.org for keyword-filtered feed. More reliable than raw HN RSS."
+    },
+    {
+      "id": "arxiv-cs-ai",
+      "name": "arXiv cs.AI",
+      "url": "https://arxiv.org/list/cs.AI/recent",
+      "feed": "https://rss.arxiv.org/rss/cs.AI",
+      "category": "Research",
+      "priority": "low",
+      "notes": "Replaced cs.CL with cs.AI -- catches more legal-relevant work. Keyword filter essential."
     }
   ],
-  "keywords": [
-    "legal AI",
-    "legal technology",
-    "legaltech",
-    "lawtech",
-    "AI lawyer",
-    "AI legal",
-    "SRA technology",
-    "legal automation",
-    "access to justice AI",
-    "legal LLM",
-    "contract AI",
-    "legal chatbot",
-    "AI regulation law",
-    "legal innovation",
-    "legal startup"
-  ],
-  "companies_watch_list": [
-    "Harvey AI",
-    "Luminance",
-    "Clio",
-    "Lawhive",
-    "Robin AI",
-    "Lexis+AI",
-    "CoCounsel",
-    "Spellbook",
-    "EvenUp",
-    "Deel",
-    "Juro",
-    "Leya",
-    "Garble",
-    "Josef",
-    "Definely",
-    "Orbital Witness",
-    "Avvoka",
-    "Legora",
-    "Casedo"
+
+  "newsletters": {
+    "notes": "These require an email-to-RSS bridge service (kill-the-newsletter.com, Feedbin, or similar). Subscribe with a bridge address, then poll the resulting feed.",
+    "sources": [
+      {
+        "id": "legaltech-hub",
+        "name": "Legaltech Hub Newsletter",
+        "subscribe_url": "https://hub.legaltechnologyhub.com/subscribe",
+        "category": "Legal tech",
+        "priority": "high",
+        "notes": "Product launches, funding rounds, market analysis. Surfaces things before RSS outlets."
+      },
+      {
+        "id": "law-society-tech-policy",
+        "name": "Law Society Technology and Law Policy Updates",
+        "subscribe_url": "https://www.lawsociety.org.uk/topics/technology",
+        "category": "Legal profession / policy",
+        "priority": "medium",
+        "notes": "Distinct from the Gazette. Covers AI guidance, ethical frameworks, practice notes."
+      }
+    ]
+  },
+
+  "removed": [
+    {
+      "id": "techcrunch-ai",
+      "reason": "Too noisy for legal-focused monitor. Replaced by Ars Technica AI."
+    },
+    {
+      "id": "the-register",
+      "reason": "General tech, poor signal-to-noise for legal AI. Replaced by Ars Technica AI."
+    },
+    {
+      "id": "law-society-technology",
+      "reason": "Merged into Law Society Gazette (keyword filtered) and Law Society Tech Policy newsletter."
+    },
+    {
+      "id": "arxiv-cs-cl",
+      "reason": "Too narrow (computational linguistics). Replaced by cs.AI which catches more legal-relevant papers."
+    }
   ]
 }
