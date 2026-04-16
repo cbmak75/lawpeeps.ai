@@ -388,8 +388,7 @@ Claims unverified: ${verificationReport?.overall_assessment?.unverified || 'n/a'
     // Push branch
     execSync(`git push origin ${branch}`, { cwd: join(__dirname, '..'), stdio: 'pipe' });
 
-    // Create PR
-    const labels = `staging-${staging}`;
+    // Create PR (no --label flag; staging level is in the title)
     const prTitle = `[${staging.toUpperCase()}] ${article.meta.title || slug}`;
 
     let prBody = `## Editorial cycle output\n\n`;
@@ -414,7 +413,7 @@ Claims unverified: ${verificationReport?.overall_assessment?.unverified || 'n/a'
     prBody += `### mm!ke's editorial notes\n\n${article.meta.editorNote || 'No notes.'}\n`;
 
     execSync(
-      `gh pr create --title "${prTitle.replace(/"/g, '\\"')}" --body "${prBody.replace(/"/g, '\\"')}" --label "${labels}"`,
+      `gh pr create --title "${prTitle.replace(/"/g, '\\"')}" --body "${prBody.replace(/"/g, '\\"')}"`,
       { cwd: join(__dirname, '..'), stdio: 'pipe' }
     );
 
@@ -448,7 +447,11 @@ async function runEditorialCycle() {
   console.log('\n--- PHASE 2: DISCOVERY ---\n');
   const discovery = await runDiscovery();
 
-  // No cooldown -- withRetry() handles any 429s automatically.
+  // Short cooldown after Discovery to let the token budget recover.
+  // Discovery's web searches consume most of the 10k tokens/min budget.
+  // 30s is enough to avoid the 330s retry-after penalty on Research.
+  console.log('[editor] Cooling down 30s after Discovery to avoid rate-limit on Research...');
+  await new Promise(resolve => setTimeout(resolve, 30000));
 
   // Phase 3: Research (web search -- heavy token usage)
   console.log('\n--- PHASE 3: RESEARCH ---\n');
