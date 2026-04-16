@@ -203,7 +203,7 @@ async function runResearch() {
   const response = await client.messages.create({
     model: 'claude-sonnet-4-20250514',
     max_tokens: 12000,
-    tools: [{ type: 'web_search_20250305' }],
+    tools: [{ type: 'web_search_20250305', name: 'web_search' }],
     messages: [{ role: 'user', content: prompt }]
   });
 
