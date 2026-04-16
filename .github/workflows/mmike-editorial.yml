@@ -1,185 +1,64 @@
-name: "mm!ke editorial cycle"
+name: mm!ke Editorial Cycle
 
 on:
   schedule:
     # Run every 6 hours: midnight, 6am, noon, 6pm UTC
-    - cron: "0 0,6,12,18 * * *"
+    - cron: '0 0,6,12,18 * * *'
   workflow_dispatch:
     # Allow manual trigger from GitHub Actions UI
     inputs:
-      skip_monitor:
-        description: "Skip monitoring and use existing digest"
-        type: boolean
-        default: false
+      reason:
+        description: 'Reason for manual trigger'
+        required: false
+        default: 'Operator-initiated cycle'
 
 permissions:
   contents: write
   pull-requests: write
   issues: write
 
-env:
-  NODE_VERSION: "22"
-
 jobs:
   editorial-cycle:
-    name: "mm!ke editorial cycle"
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 30
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
+          token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
 
-      - name: Set up Node.js
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: ${{ env.NODE_VERSION }}
+          node-version: '20'
 
-      # Step 1: Source monitoring (RSS feeds + tip line)
-      - name: Run source monitor
-        if: ${{ github.event.inputs.skip_monitor != 'true' }}
-        env:
-          NETLIFY_TOKEN: ${{ secrets.LAWPEEPS_MMIKE }}
-        run: node agents/monitor.mjs
-
-      # Step 2: Run editorial agent (identifies stories, verifies via web search, drafts articles)
-      - name: Run editorial agent
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          BRAVE_SEARCH_API_KEY: ${{ secrets.BRAVE_SEARCH_API_KEY }}
-        run: node agents/editor.mjs
-
-      # Step 3: Check what was drafted
-      - name: Check for new articles
-        id: check
+      - name: Install dependencies
         run: |
-          if git status --porcelain | grep -q "src/content/articles/"; then
-            echo "has_articles=true" >> $GITHUB_OUTPUT
+          npm install @anthropic-ai/sdk
+          npm install
 
-            # Output article list as JSON for the next step
-            node -e "
-              const r = JSON.parse(require('fs').readFileSync('agents/last-run.json','utf-8'));
-              console.log(JSON.stringify(r.articles || []));
-            " > /tmp/articles.json
-
-            ARTICLE_COUNT=$(node -e "
-              const a = JSON.parse(require('fs').readFileSync('/tmp/articles.json','utf-8'));
-              console.log(a.length);
-            ")
-            echo "article_count=$ARTICLE_COUNT" >> $GITHUB_OUTPUT
-          else
-            echo "has_articles=false" >> $GITHUB_OUTPUT
-            echo "No new articles this cycle."
-
-            # Even without articles, commit memory updates
-            if git status --porcelain | grep -q "agents/memory/"; then
-              git config user.name "mm!ke"
-              git config user.email "mmike@lawpeeps.ai"
-              git add agents/memory/
-              git commit -m "memory: update editorial memory (no articles this cycle)"
-              git push origin main
-              echo "Memory updates committed to main."
-            fi
-          fi
-
-      # Step 4: Create one branch and one PR per article
-      - name: Create per-article PRs
-        if: steps.check.outputs.has_articles == 'true'
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Configure Git identity
         run: |
           git config user.name "mm!ke"
           git config user.email "mmike@lawpeeps.ai"
 
-          # Create labels if they don't exist (ignore errors)
-          gh label create "staging:green" --color "2ea44f" --description "Auto-publish after 2h hold" 2>/dev/null || true
-          gh label create "staging:amber" --color "d29922" --description "Requires operator review" 2>/dev/null || true
-          gh label create "staging:red" --color "cf222e" --description "Held indefinitely" 2>/dev/null || true
-          gh label create "mmike" --color "ff69b4" --description "mm!ke editorial submission" 2>/dev/null || true
-          gh label create "reject" --color "000000" --description "Operator rejects this story" 2>/dev/null || true
+      - name: Run editorial cycle
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NETLIFY_FORMS_TOKEN: ${{ secrets.NETLIFY_FORMS_TOKEN }}
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+        run: node agents/editor.mjs
 
-          # Read articles array
-          ARTICLES=$(cat /tmp/articles.json)
-          COUNT=$(echo "$ARTICLES" | node -e "const a=JSON.parse(require('fs').readFileSync('/dev/stdin','utf-8')); console.log(a.length);")
-
-          echo "Creating $COUNT separate PRs..."
-
-          for i in $(seq 0 $(($COUNT - 1))); do
-            # Extract this article's metadata
-            SLUG=$(echo "$ARTICLES" | node -e "const a=JSON.parse(require('fs').readFileSync('/dev/stdin','utf-8')); console.log(a[$i].slug);")
-            TITLE=$(echo "$ARTICLES" | node -e "const a=JSON.parse(require('fs').readFileSync('/dev/stdin','utf-8')); console.log(a[$i].title);")
-            CATEGORY=$(echo "$ARTICLES" | node -e "const a=JSON.parse(require('fs').readFileSync('/dev/stdin','utf-8')); console.log(a[$i].category);")
-            STAGING=$(echo "$ARTICLES" | node -e "const a=JSON.parse(require('fs').readFileSync('/dev/stdin','utf-8')); console.log(a[$i].staging);")
-            STAGING_REASON=$(echo "$ARTICLES" | node -e "const a=JSON.parse(require('fs').readFileSync('/dev/stdin','utf-8')); console.log(a[$i].stagingReason);")
-            FILENAME=$(echo "$ARTICLES" | node -e "const a=JSON.parse(require('fs').readFileSync('/dev/stdin','utf-8')); console.log(a[$i].filename);")
-
-            BRANCH="mmike/${SLUG}"
-            LABEL="staging:${STAGING}"
-
-            echo ""
-            echo "--- Article $(($i + 1))/$COUNT: $TITLE ---"
-            echo "  Branch: $BRANCH"
-            echo "  Staging: $STAGING"
-
-            # Start from main for each article
-            git checkout main
-            git checkout -b "$BRANCH"
-
-            # Stage only this article's file + memory + last-run
-            git add "src/content/articles/${FILENAME}"
-            git add agents/memory/
-            git add -f agents/last-run.json
-
-            git commit -m "draft: ${SLUG}
-
-          mm!ke editorial submission.
-          Category: ${CATEGORY}
-          Staging: ${STAGING}"
-
-            git push origin "$BRANCH"
-
-            # Build PR body
-            cat > /tmp/pr-body-${i}.md << PREOF
-          ## mm!ke editorial submission
-
-          ### ${TITLE}
-          - **Category:** ${CATEGORY}
-          - **Staging:** $(echo "$STAGING" | tr '[:lower:]' '[:upper:]') (${STAGING_REASON})
-
-          ---
-          PREOF
-
-            if [ "$STAGING" = "green" ]; then
-              echo '*GREEN: This will auto-merge after the 2-hour hold window unless you close the PR.*' >> /tmp/pr-body-${i}.md
-            elif [ "$STAGING" = "amber" ]; then
-              echo '*AMBER: Requires your review. Will publish after 24 hours with a disclosure note if no action taken.*' >> /tmp/pr-body-${i}.md
-            else
-              echo '*RED: Held indefinitely. Will not publish without your explicit approval.*' >> /tmp/pr-body-${i}.md
-            fi
-
-            # Create the PR
-            gh pr create \
-              --title "mm!ke: ${SLUG}" \
-              --body-file "/tmp/pr-body-${i}.md" \
-              --label "$LABEL" \
-              --label "mmike" \
-              --base main \
-              --head "$BRANCH"
-
-            echo "  PR created for: $TITLE"
-          done
-
-          # Return to main
-          git checkout main
-
-      # Step 5: Log the cycle result
-      - name: Log result
+      - name: Upload cycle artifacts
         if: always()
-        run: |
-          if [ "${{ steps.check.outputs.has_articles }}" = "true" ]; then
-            echo "::notice::mm!ke drafted ${{ steps.check.outputs.article_count }} article(s). One PR created per article."
-          else
-            echo "::notice::mm!ke found nothing worth covering this cycle."
-          fi
+        uses: actions/upload-artifact@v4
+        with:
+          name: editorial-cycle-${{ github.run_number }}
+          path: |
+            agents/memory/latest-digest.json
+            agents/memory/latest-discovery.json
+            agents/memory/latest-research.json
+          retention-days: 30
