@@ -1,5 +1,39 @@
 {
-  "entities": {},
-  "last_updated": null,
+  "entities": {
+    "legora": {
+      "name": "Legora",
+      "first_seen": "2026-04-16",
+      "updates": [
+        {
+          "date": "2026-04-16",
+          "content": "Raised $550M Series D at $5.55B valuation (March 2026), tripling valuation in 5 months, serving 800+ customers across 50+ markets, expanding aggressively in U.S. with offices in Houston and Chicago"
+        }
+      ],
+      "last_updated": "2026-04-16"
+    },
+    "harvey ai": {
+      "name": "Harvey AI",
+      "first_seen": "2026-04-16",
+      "updates": [
+        {
+          "date": "2026-04-16",
+          "content": "Raised $200M at $11B valuation (March 2026), serving 100,000+ lawyers across 1,300 organizations, focusing on AI agents and legal engineering teams"
+        }
+      ],
+      "last_updated": "2026-04-16"
+    },
+    "legal ai market": {
+      "name": "Legal AI Market",
+      "first_seen": "2026-04-16",
+      "updates": [
+        {
+          "date": "2026-04-16",
+          "content": "Market valued at $5.59B in 2026 but Harvey+Legora alone represent $16B+ in enterprise value, indicating significant overvaluation or explosive growth expectations. Q1 2026 saw $242B in AI funding overall."
+        }
+      ],
+      "last_updated": "2026-04-16"
+    }
+  },
+  "last_updated": "2026-04-16T18:46:51.655Z",
   "note": "mm!ke's accumulated knowledge about companies, people, and developments. Updated by the research agent and editorial cycle."
 }

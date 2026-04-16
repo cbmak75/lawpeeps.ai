@@ -1,6 +1,12 @@
 {
-  "entries": [],
+  "entries": [
+    {
+      "date": "2026-04-16",
+      "slug": "legal-ai-billion-dollar-arms-race-2026",
+      "serves_underrepresented": false
+    }
+  ],
   "underrepresented_percentage": 0,
-  "last_updated": null,
+  "last_updated": "2026-04-16T18:49:39.171Z",
   "note": "Tracks the 50% rule: at least half of published output must cover underrepresented voices (small firms, solo practitioners, early-stage startups, academic researchers, regional developments)."
 }

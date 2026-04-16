@@ -1,35 +1,63 @@
 {
   "meta": {
     "version": "2.1",
-    "updated": "2026-04-15",
-    "notes": "Revised source list with verified URLs. Sources without native RSS use polling, scraping, or GovWire fallbacks. Newsletter sources require email-to-RSS bridge (e.g. kill-the-newsletter.com or Feedbin).",
+    "updated": "2026-04-16",
+    "notes": "Revised source list with verified URLs. Sources without native RSS use polling, scraping, or GovWire fallbacks. Newsletter sources require email-to-RSS bridge (e.g. kill-the-newsletter.com or Feedbin). Discovery agent auto-curation run 2026-04-16.",
     "validation": {
       "last_run": "2026-04-15",
       "method": "Web search verification of all feed URLs, page URLs, and content types",
       "summary": "11 RSS feeds verified, 11 scrape/API fallbacks verified, 2 newsletters verified. All source pages confirmed active."
     }
   },
-
   "scoring": {
     "keyword_count": 18,
     "keywords": [
-      "legal AI", "LLM", "GPT", "Claude", "generative AI",
-      "legal tech", "lawtech", "regulatory technology",
-      "SRA", "solicitor AI", "AI regulation", "AI Act",
-      "immigration AI", "sponsor licence", "compliance automation",
-      "document automation", "contract AI", "retrieval augmented generation"
+      "legal AI",
+      "LLM",
+      "GPT",
+      "Claude",
+      "generative AI",
+      "legal tech",
+      "lawtech",
+      "regulatory technology",
+      "SRA",
+      "solicitor AI",
+      "AI regulation",
+      "AI Act",
+      "immigration AI",
+      "sponsor licence",
+      "compliance automation",
+      "document automation",
+      "contract AI",
+      "retrieval augmented generation"
     ],
     "watch_list_companies": [
-      "Harvey", "Luminance", "Eigen", "Clio", "Anthropic",
-      "OpenAI", "Google DeepMind", "Lexis+AI", "vLex",
-      "CoCounsel", "Spellbook", "Robin AI", "Lawyaw",
-      "Juro", "Ironclad", "Diligen", "Kira Systems",
-      "Thomvest", "Sirion", "EvenUp", "Hebbia",
-      "Westlaw Edge AI", "iManage"
+      "Harvey",
+      "Luminance",
+      "Eigen",
+      "Clio",
+      "Anthropic",
+      "OpenAI",
+      "Google DeepMind",
+      "Lexis+AI",
+      "vLex",
+      "CoCounsel",
+      "Spellbook",
+      "Robin AI",
+      "Lawyaw",
+      "Juro",
+      "Ironclad",
+      "Diligen",
+      "Kira Systems",
+      "Thomvest",
+      "Sirion",
+      "EvenUp",
+      "Hebbia",
+      "Westlaw Edge AI",
+      "iManage"
     ],
     "top_n": 30
   },
-
   "sources": [
     {
       "id": "artificial-lawyer",
@@ -246,9 +274,36 @@
       "category": "Research",
       "priority": "low",
       "notes": "Replaced cs.CL with cs.AI -- catches more legal-relevant work. Keyword filter essential."
+    },
+    {
+      "id": "damien-charlotin-ai-hallucination-database",
+      "name": "Damien Charlotin AI Hallucination Database",
+      "url": "https://www.damiencharlotin.com/hallucinations/",
+      "feed": null,
+      "feed_fallback": "scrape",
+      "category": "Legal AI Research",
+      "priority": "high",
+      "added_by": "discovery-agent",
+      "added_date": "2026-04-16",
+      "reliability": "probationary",
+      "reliability_score": 0,
+      "notes": "Auto-discovered. Maintains comprehensive database of AI hallucination cases in legal proceedings with 1,316 cases identified. Frequently cited by courts and media as authoritative source.. Initial assessment: Very high - academic researcher at HEC Paris, database cited in judicial decisions and major media outlets."
+    },
+    {
+      "id": "the-ethics-reporter",
+      "name": "The Ethics Reporter",
+      "url": "https://www.theethicsreporter.com/",
+      "feed": null,
+      "feed_fallback": "scrape",
+      "category": "Legal Ethics & AI",
+      "priority": "medium",
+      "added_by": "discovery-agent",
+      "added_date": "2026-04-16",
+      "reliability": "probationary",
+      "reliability_score": 0,
+      "notes": "Auto-discovered. Provides in-depth analysis of AI sanctions and ethical issues in legal practice. Recent coverage of record-breaking sanctions suggests valuable ongoing coverage.. Initial assessment: Good - detailed reporting on legal ethics issues with specific case citations and data analysis."
     }
   ],
-
   "newsletters": {
     "notes": "These require an email-to-RSS bridge service (kill-the-newsletter.com, Feedbin, or similar). Subscribe with a bridge address, then poll the resulting feed.",
     "sources": [
@@ -270,7 +325,6 @@
       }
     ]
   },
-
   "removed": [
     {
       "id": "techcrunch-ai",

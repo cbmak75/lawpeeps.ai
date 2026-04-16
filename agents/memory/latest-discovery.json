@@ -1,0 +1,98 @@
+{
+  "discoveries": [
+    {
+      "title": "Legora Raises $550M at $5.55B Valuation in Landmark Legal AI Funding Round",
+      "url": "https://blog.platinumids.com/blog/legal-ai-billion-dollar-arms-race-2026",
+      "summary": "<cite index=\"4-30,4-31\">On March 10, Stockholm-based Legora announced a $550 million Series D led by Accel, with participation from Benchmark, Bessemer Venture Partners, General Catalyst, Iconiq, Redpoint Ventures, and Y Combinator. The round valued the company at $5.55 billion -- tripling its valuation from an October 2025 round just five months earlier.</cite> The funding wave comes alongside Harvey's $200M raise, creating combined $16 billion in legal AI enterprise value.",
+      "discovery_method": "standing_search",
+      "search_query": "legal AI funding news January 2026",
+      "relevance": "high",
+      "suggested_category": "Funding",
+      "related_digest_items": [
+        "hacker-news-harvey-200m"
+      ],
+      "verification_needed": "Confirm Legora's actual funding status and valuation - this appears to be a major funding round not covered in RSS feeds"
+    },
+    {
+      "title": "AI Hallucinations in Legal Filings Reach Crisis Point with $145,000 in Q1 2026 Sanctions",
+      "url": "https://www.theethicsreporter.com/article/judges-use-ai-lawyers-face-record-sanctions-double-standard-2026",
+      "summary": "<cite index=\"27-6,27-12\">March exploded to over $139,000 — the Sixth Circuit record, the Oregon record, and multiple state-level penalties all arrived within weeks. In sanctioning Portland attorney Gabriel A. Watson $2,000 for AI-fabricated citations, the court set a per-infraction rate: $500 per fabricated citation, $1,000 per fabricated quotation.</cite> Courts are now using formalized penalty structures for AI misconduct, with over 1,200 cases tracked globally.",
+      "discovery_method": "standing_search",
+      "search_query": "legal AI court cases hallucination January 2026",
+      "relevance": "high",
+      "suggested_category": "Regulatory",
+      "related_digest_items": [],
+      "verification_needed": "Verify specific sanction amounts and court cases cited - these represent significant escalation in AI-related legal penalties"
+    },
+    {
+      "title": "SRA Authorizes Second Technology-Only Law Firm with Non-AI Deterministic System",
+      "url": "https://www.legalfutures.co.uk/latest-news/non-ai-technology-only-law-firm-authorised-by-sra",
+      "summary": "<cite index=\"18-24,18-25\">A technology-only law firm built around a \"fully deterministic legal model\" has been authorised by the Solicitors Regulation Authority (SRA), the first of its kind. LawFairy's system encodes the law into structured decision pathways to reach an auditable output, in contrast to generative AI, which generates responses by predicting statistically likely text.</cite> This follows Garfield AI as the second SRA-authorized tech-only firm, but explicitly avoids AI in favor of rule-based systems.",
+      "discovery_method": "thread_follow",
+      "search_query": "Garfield AI law firm SRA authorization 2026",
+      "relevance": "high",
+      "suggested_category": "Regulatory",
+      "related_digest_items": [],
+      "verification_needed": "Confirm LawFairy authorization date and operational status - this represents significant regulatory development distinct from AI approaches"
+    },
+    {
+      "title": "Law Society of Scotland Makes AI in Legal Sector Key Project for 2026",
+      "url": "https://www.lawscot.org.uk/members/journal-hub/articles/risk-management-for-law-firms-in-the-age-of-ai-and-legal-tech/",
+      "summary": "<cite index=\"13-12\">The Society has made AI in the legal sector a key project for 2026.</cite> The project comes alongside new guidance warning that <cite index=\"13-20,13-21\">the regulatory framework has not yet taken AI's presence into account. Current regulation is principles-based, requiring compliance with existing professional standards.</cite> This represents a major regulatory development for Scottish legal practice.",
+      "discovery_method": "standing_search",
+      "search_query": "UK SRA AI regulation legal profession January 2026",
+      "relevance": "medium",
+      "suggested_category": "Regulatory",
+      "related_digest_items": [],
+      "verification_needed": "Confirm scope and timeline of Law Society of Scotland's 2026 AI project and any specific initiatives announced"
+    },
+    {
+      "title": "USCIS Deploys PAiTH Internal AI Assistant for Immigration Processing",
+      "url": "https://www.dhs.gov/ai/use-case-inventory/uscis",
+      "summary": "<cite index=\"49-9,49-10,49-11\">PAiTH (Private AI Tech Hub) will serve as USCIS's internal AI workforce assistant, deployed in the USCIS Private Cloud development zero environment. The system will provide role-specific AI assistance to USCIS staff across six functional areas: contracts/acquisition, legal research, language translation, software development, security compliance, and financial operations. PAiTH will enable USCIS employees to interact with an AI assistant tailored to their job function.</cite> This represents significant government adoption of AI in immigration processing.",
+      "discovery_method": "standing_search",
+      "search_query": "legal tech immigration AI January 2026",
+      "relevance": "medium",
+      "suggested_category": "Immigration AI",
+      "related_digest_items": [],
+      "verification_needed": "Verify PAiTH deployment status and operational timeline - this is significant government AI adoption that may have broader policy implications"
+    }
+  ],
+  "new_source_recommendations": [
+    {
+      "name": "Damien Charlotin AI Hallucination Database",
+      "url": "https://www.damiencharlotin.com/hallucinations/",
+      "feed_url": null,
+      "category": "Legal AI Research",
+      "rationale": "Maintains comprehensive database of AI hallucination cases in legal proceedings with 1,316 cases identified. Frequently cited by courts and media as authoritative source.",
+      "suggested_priority": "high",
+      "reliability_assessment": "Very high - academic researcher at HEC Paris, database cited in judicial decisions and major media outlets"
+    },
+    {
+      "name": "The Ethics Reporter",
+      "url": "https://www.theethicsreporter.com/",
+      "feed_url": null,
+      "category": "Legal Ethics & AI",
+      "rationale": "Provides in-depth analysis of AI sanctions and ethical issues in legal practice. Recent coverage of record-breaking sanctions suggests valuable ongoing coverage.",
+      "suggested_priority": "medium",
+      "reliability_assessment": "Good - detailed reporting on legal ethics issues with specific case citations and data analysis"
+    }
+  ],
+  "coverage_gaps_identified": [
+    "Major legal AI funding rounds (Legora $550M appears to be unreported in current feeds)",
+    "Escalation of court sanctions for AI hallucinations (significant penalty increases not captured)",
+    "SRA regulatory developments beyond Garfield AI authorization",
+    "Government AI adoption in legal/immigration processing (USCIS developments)",
+    "International legal AI regulatory developments (Law Society of Scotland project)"
+  ],
+  "search_queries_run": [
+    "legal AI funding news January 2026",
+    "UK SRA AI regulation legal profession January 2026",
+    "legal AI court cases hallucination January 2026",
+    "Garfield AI law firm SRA authorization 2026",
+    "legal tech immigration AI January 2026"
+  ],
+  "generated": "2026-04-16T18:40:28.488Z",
+  "cycle_type": "discovery",
+  "model": "claude-sonnet-4-20250514"
+}

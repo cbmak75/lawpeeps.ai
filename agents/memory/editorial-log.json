@@ -1,5 +1,16 @@
 {
-  "entries": [],
-  "last_updated": null,
+  "entries": [
+    {
+      "title": "Legal AI billion dollar arms race 2026",
+      "slug": "legal-ai-billion-dollar-arms-race-2026",
+      "category": "analysis",
+      "staging": "green",
+      "summary": "The Stockholm startup's massive Series D, following Harvey's $200M round, creates a $16B+ funding concentration that could lock out smaller firms from competitive legal technology.",
+      "publishDate": "2026-04-16",
+      "sources": "",
+      "serves_50_percent": false
+    }
+  ],
+  "last_updated": "2026-04-16T18:49:39.171Z",
   "note": "Populated automatically by the editorial cycle. Each entry records a story drafted, published, or killed."
 }
