@@ -10,6 +10,7 @@
 import { readFileSync, writeFileSync, mkdirSync, existsSync, readdirSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
+import { verifyStories } from './verify.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const REPO_ROOT = join(__dirname, '..');
@@ -145,10 +146,11 @@ DUPLICATION RULES:
 - If a tip line submission covers something already published, skip it.
 
 SOURCE MATERIAL RULES:
-- Do NOT select a story unless the digest provides enough source material to write a real article.
-- If a digest item is just a headline or title with no description, link, or supporting detail, skip it.
-- Interview-based features, profiles, and deep analysis require actual source content (transcripts, published statements, press materials). A headline about an interview is NOT enough to write about the interview.
-- If you select a story, you MUST be able to write at least three substantive paragraphs from the source material provided. If you cannot, do not select it.
+- Do NOT reject a story just because the digest alone lacks detail. A verification agent will actively search the web and fetch primary sources BEFORE you draft the article. Your job here is to identify stories worth investigating, not to pre-judge whether enough material exists.
+- If a digest item has a headline and a link, that is enough to select it for investigation. The verification step will fetch the full content.
+- If a tip line submission mentions a specific company, person, product, or event, select it. The verification step will search for confirmation.
+- Interview-based features still require actual source content, but if the digest links to a published interview, select it and let verification fetch the full text.
+- Only skip a story if it is genuinely not newsworthy, is a duplicate of something already covered, or is clearly spam/malicious.
 
 Instructions:
 1. Review each item in the digest against your editorial memory above.
@@ -194,7 +196,7 @@ Respond in JSON format:
   return JSON.parse(jsonMatch[0]);
 }
 
-async function draftArticle(story, digest, memory, systemPrompt) {
+async function draftArticle(story, digest, memory, systemPrompt, verificationDossier) {
   const relevantItems = digest.items.filter(item =>
     story.sourceItems.some(s => item.title.toLowerCase().includes(s.toLowerCase().slice(0, 30)))
   );
@@ -202,6 +204,26 @@ async function draftArticle(story, digest, memory, systemPrompt) {
   const tipNote = story.fromTip
     ? `\nIMPORTANT: This story originated from a reader tip. You must independently verify the claims using the source material provided. If you cannot verify key claims, say so explicitly in the article. If the tipster asked for credit, mention "reported to lawpeeps.ai by a reader" in the article.\n`
     : '';
+
+  // Build verification context
+  let verificationContext = '';
+  if (verificationDossier) {
+    verificationContext = `\n\nVERIFICATION RESEARCH (conducted before drafting):
+The verification agent searched the web and fetched primary sources for this story. Here is what it found:
+
+Summary: ${verificationDossier.verificationSummary}
+
+Search results found: ${verificationDossier.searchResultCount}
+${verificationDossier.searchResults.map(r => `- "${r.title}" (${r.url}): ${r.snippet}`).join('\n')}
+
+Fetched source pages (${verificationDossier.fetchedPages.length}):
+${verificationDossier.fetchedPages.map(p => `--- ${p.url} ---\n${p.excerpt}\n---`).join('\n\n')}
+
+Claims flagged for verification:
+${(verificationDossier.keyClaimsToVerify || []).map(c => `- ${c}`).join('\n')}
+
+USE THIS VERIFICATION MATERIAL. Reference the sources you can confirm. State clearly which claims you verified independently and which rely on a single source. If the verification found contradictory information, report that. Your sources array in frontmatter must include the actual URLs you used.\n`;
+  }
 
   const prompt = `Draft an article for lawpeeps.ai.
 
@@ -215,17 +237,18 @@ Story brief:
 ${tipNote}
 Source material from the monitoring digest:
 ${JSON.stringify(relevantItems, null, 2)}
-
+${verificationContext}
 Today's date: ${new Date().toISOString().slice(0, 10)}
 
 Instructions:
 1. Write the complete article in markdown with the required frontmatter.
-2. The frontmatter MUST start with --- on the very first line (no code fences, no backticks). The frontmatter MUST include: title, description, publishDate (today), author ("mm!ke"), tags (array), category, staging, sources (array of source descriptions), and editorNote.
+2. The frontmatter MUST start with --- on the very first line (no code fences, no backticks). The frontmatter MUST include: title, description, publishDate (today), author ("mm!ke"), tags (array), category, staging, sources (array of source descriptions with URLs), and editorNote.
 3. Write in your voice. Warm, direct, slightly dry. UK English throughout.
 4. NO em dashes. NO emojis. NO banned words or phrases.
-5. Every factual claim must reference its source material. If you cannot verify something from the provided sources, flag it explicitly.
-6. End with your editor's note.
-7. Keep the slug-friendly: no special characters in the title.
+5. Every factual claim must reference its source material. Name the source in the body text. State which claims you verified against primary sources and which rely on a single report.
+6. The sources array in frontmatter must list actual URLs where the reader can check your claims.
+7. End with your editor's note.
+8. Keep the slug-friendly: no special characters in the title.
 
 Output the complete markdown file content, starting with the --- frontmatter delimiter. Nothing else before or after the markdown.`;
 
@@ -270,15 +293,37 @@ async function run() {
     console.log(`Skipped: ${editorial.skipped}`);
   }
 
-  // Step 2: Draft articles (limit to 2 per cycle to manage API costs)
-  const toDraft = editorial.stories.slice(0, 2);
+  // Step 2: Verify stories (active web research)
+  const toDraft = editorial.stories.slice(0, 3);
+  console.log(`\nStep 2: Verifying ${toDraft.length} story/stories...`);
+
+  let verificationResults = [];
+  try {
+    verificationResults = await verifyStories(toDraft, digest);
+  } catch (err) {
+    console.warn(`Verification step failed (continuing without): ${err.message}`);
+    // Create empty dossiers so drafting can proceed
+    verificationResults = toDraft.map(s => ({
+      story: s.title,
+      searchResultCount: 0,
+      searchResults: [],
+      fetchedPages: [],
+      keyClaimsToVerify: [],
+      verificationSummary: 'Verification unavailable this cycle. Article must note all claims are unverified beyond the original source.',
+    }));
+  }
+
+  // Step 3: Draft articles with verification data
   const drafted = [];
 
-  for (const story of toDraft) {
-    console.log(`\nStep 2: Drafting "${story.title}"...`);
+  for (let i = 0; i < toDraft.length; i++) {
+    const story = toDraft[i];
+    const dossier = verificationResults[i] || null;
+
+    console.log(`\nStep 3: Drafting "${story.title}"...`);
 
     try {
-      let markdown = await draftArticle(story, digest, memory, systemPrompt);
+      let markdown = await draftArticle(story, digest, memory, systemPrompt, dossier);
 
       // Strip markdown code fences if Claude wrapped the output
       markdown = markdown.replace(/^```(?:yaml|markdown|md)?\s*\n/i, '').replace(/\n```\s*$/, '');

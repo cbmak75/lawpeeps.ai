@@ -44,10 +44,11 @@ jobs:
           NETLIFY_TOKEN: ${{ secrets.LAWPEEPS_MMIKE }}
         run: node agents/monitor.mjs
 
-      # Step 2: Run editorial agent (drafts all articles to disk)
+      # Step 2: Run editorial agent (identifies stories, verifies via web search, drafts articles)
       - name: Run editorial agent
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          BRAVE_SEARCH_API_KEY: ${{ secrets.BRAVE_SEARCH_API_KEY }}
         run: node agents/editor.mjs
 
       # Step 3: Check what was drafted
