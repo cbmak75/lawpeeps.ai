@@ -89,6 +89,26 @@ jobs:
             fi
           done
 
+      - name: Process rejected PRs
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "Checking for PRs with reject label..."
+
+          REJECTED_PRS=$(gh pr list --label "reject" --state open --json number --jq '.[].number')
+
+          if [ -z "$REJECTED_PRS" ]; then
+            echo "No rejected PRs."
+            exit 0
+          fi
+
+          for NUMBER in $REJECTED_PRS; do
+            echo "PR #$NUMBER has reject label. Closing..."
+            gh pr comment "$NUMBER" --body "Story rejected by operator via label. Closing without merge. *-- mm!ke*"
+            gh pr close "$NUMBER" --delete-branch
+            echo "  PR #$NUMBER closed."
+          done
+
       - name: Note on red PRs
         run: |
           echo "RED PRs are never auto-merged. They require explicit operator approval via the GitHub PR interface."

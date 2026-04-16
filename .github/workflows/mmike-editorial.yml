@@ -98,6 +98,7 @@ jobs:
           gh label create "staging:amber" --color "d29922" --description "Requires operator review" 2>/dev/null || true
           gh label create "staging:red" --color "cf222e" --description "Held indefinitely" 2>/dev/null || true
           gh label create "mmike" --color "ff69b4" --description "mm!ke editorial submission" 2>/dev/null || true
+          gh label create "reject" --color "000000" --description "Operator rejects this story" 2>/dev/null || true
 
           # Read articles array
           ARTICLES=$(cat /tmp/articles.json)

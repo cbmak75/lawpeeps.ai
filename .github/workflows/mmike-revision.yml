@@ -7,11 +7,53 @@ on:
 permissions:
   contents: write
   pull-requests: write
+  issues: write
 
 env:
   NODE_VERSION: "22"
 
 jobs:
+  # ─── Reject: operator kills the story ─────────────────────────────
+  reject:
+    name: "mm!ke rejection"
+    runs-on: ubuntu-latest
+    if: |
+      contains(github.event.pull_request.labels.*.name, 'mmike') &&
+      github.event.review.state == 'CHANGES_REQUESTED' &&
+      (
+        contains(github.event.review.body, 'KILL') ||
+        contains(github.event.review.body, 'REJECT') ||
+        contains(github.event.review.body, 'kill') ||
+        contains(github.event.review.body, 'reject')
+      )
+
+    steps:
+      - name: Close PR and comment
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          PR_NUMBER=${{ github.event.pull_request.number }}
+          REVIEW_BODY="${{ github.event.review.body }}"
+
+          # Post a comment explaining the rejection
+          gh pr comment "$PR_NUMBER" \
+            --repo "${{ github.repository }}" \
+            --body "## mm!ke: story rejected
+
+          The operator has killed this story. Closing without merge.
+
+          *Operator's note: ${REVIEW_BODY}*
+
+          *-- mm!ke*"
+
+          # Close the PR
+          gh pr close "$PR_NUMBER" \
+            --repo "${{ github.repository }}" \
+            --delete-branch
+
+          echo "::notice::PR #${PR_NUMBER} rejected and closed by operator."
+
+  # ─── Revise: operator requests changes ─────────────────────────────
   revision:
     name: "mm!ke revision cycle"
     runs-on: ubuntu-latest
@@ -20,9 +62,14 @@ jobs:
     # Only run if:
     # 1. The PR has the "mmike" label
     # 2. The review action is "changes_requested"
+    # 3. The review does NOT contain KILL or REJECT
     if: |
       contains(github.event.pull_request.labels.*.name, 'mmike') &&
-      github.event.review.state == 'CHANGES_REQUESTED'
+      github.event.review.state == 'CHANGES_REQUESTED' &&
+      !contains(github.event.review.body, 'KILL') &&
+      !contains(github.event.review.body, 'REJECT') &&
+      !contains(github.event.review.body, 'kill') &&
+      !contains(github.event.review.body, 'reject')
 
     steps:
       - name: Checkout PR branch
