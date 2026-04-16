@@ -42,17 +42,11 @@ const RESEARCH_PATH = join(MEMORY_DIR, 'latest-research.json');
 
 const client = new Anthropic();
 
-// ── Rate-limit configuration ──
-// The Anthropic API plan currently allows 10,000 input tokens per minute.
-// Web search calls are token-heavy (search results are injected as context),
-// so we pause between phases to let the token budget reset.
-const PHASE_COOLDOWN_SECONDS = 65;
-const TOKEN_BUDGET_PER_MINUTE = 10_000;
-
-function phaseCooldown(fromPhase, toPhase) {
-  console.log(`[editor] Waiting ${PHASE_COOLDOWN_SECONDS}s between ${fromPhase} and ${toPhase} (rate-limit cooldown)...`);
-  return new Promise(resolve => setTimeout(resolve, PHASE_COOLDOWN_SECONDS * 1000));
-}
+// ── Rate-limit strategy ──
+// No fixed cooldowns between phases. Instead, every API call is wrapped
+// in withRetry() which catches 429s, reads the retry-after header, and
+// waits only when actually rate-limited. This avoids burning minutes on
+// preventative waits while still recovering gracefully from token limits.
 
 // ── Ensure memory directory exists ──
 
@@ -454,9 +448,7 @@ async function runEditorialCycle() {
   console.log('\n--- PHASE 2: DISCOVERY ---\n');
   const discovery = await runDiscovery();
 
-  // Cooldown: Discovery uses web search which burns through the token budget.
-  // Wait for the per-minute limit to reset before Research makes its own calls.
-  await phaseCooldown('Discovery', 'Research');
+  // No cooldown -- withRetry() handles any 429s automatically.
 
   // Phase 3: Research (web search -- heavy token usage)
   console.log('\n--- PHASE 3: RESEARCH ---\n');
@@ -475,8 +467,7 @@ async function runEditorialCycle() {
     return;
   }
 
-  // Cooldown: Research uses web search extensively. Let the budget reset before writing.
-  await phaseCooldown('Research', 'Writing');
+  // No cooldown -- withRetry() handles any 429s automatically.
 
   // Phase 4: Write
   console.log(`\n--- PHASE 4: WRITING (${coverCandidates.length} stories) ---\n`);
@@ -506,8 +497,7 @@ async function runEditorialCycle() {
 
   console.log(`[editor] Drafted ${articles.length} article(s)`);
 
-  // Cooldown: Writing may have used a large prompt. Let the budget reset before verification.
-  await phaseCooldown('Writing', 'Verification');
+  // No cooldown -- withRetry() handles any 429s automatically.
 
   // Phase 5: Verify each article
   console.log('\n--- PHASE 5: VERIFICATION ---\n');
