@@ -1,308 +1,316 @@
 /**
- * mm!ke Verification Agent for lawpeeps.ai
+ * verify.mjs -- Verification Agent
  *
- * Given a list of identified stories, actively searches the web and fetches
- * primary sources to cross-reference claims before articles are drafted.
+ * Structured claim extraction and validation pipeline. Takes
+ * drafted articles and systematically verifies every factual
+ * claim, producing a verification report that drives staging
+ * classification.
  *
- * This is the step that turns mm!ke from a passive digest reader into an
- * active journalist. If a story mentions a company, we check the company's
- * own site. If a claim comes from a single source, we search for independent
- * confirmation. If a tip comes in, we go looking for evidence.
+ * This is NOT the same as the research phase. Research builds
+ * context for writing. Verification audits the finished draft.
  *
- * Requires: BRAVE_SEARCH_API_KEY environment variable (optional but recommended)
+ * Run: node agents/verify.mjs [article-path]
+ * Expects: ANTHROPIC_API_KEY
  */
 
-import { readFileSync } from 'fs';
+import Anthropic from '@anthropic-ai/sdk';
+import { readFileSync, writeFileSync, existsSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
+const MEMORY_DIR = join(__dirname, 'memory');
 
-const BRAVE_SEARCH_API_KEY = process.env.BRAVE_SEARCH_API_KEY;
-const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY;
+const client = new Anthropic();
 
-// ─── Web Search ───────────────────────────────────────────────────
+// ── Claim extraction prompt ──
 
-async function braveSearch(query, count = 5) {
-  if (!BRAVE_SEARCH_API_KEY) {
-    console.log(`  [search] No BRAVE_SEARCH_API_KEY, skipping search for: "${query}"`);
-    return [];
-  }
+function buildExtractionPrompt(articleContent, articleMeta) {
+  return `You are a fact-checking editor. Read this draft article and extract every factual claim that can be independently verified. Do NOT extract opinions, analysis, or editorial commentary -- only checkable assertions of fact.
 
-  try {
-    const params = new URLSearchParams({
-      q: query,
-      count: String(count),
-      text_decorations: 'false',
-      search_lang: 'en',
-    });
+## Article metadata
+Title: ${articleMeta.title}
+Category: ${articleMeta.category || 'unknown'}
+Suggested staging: ${articleMeta.staging || 'unclassified'}
 
-    const response = await fetch(`https://api.search.brave.com/res/v1/web/search?${params}`, {
-      headers: {
-        'Accept': 'application/json',
-        'Accept-Encoding': 'gzip',
-        'X-Subscription-Token': BRAVE_SEARCH_API_KEY,
-      },
-    });
+## Article content
 
-    if (!response.ok) {
-      console.warn(`  [search] Brave API ${response.status}: ${await response.text()}`);
-      return [];
-    }
+${articleContent}
 
-    const data = await response.json();
-    const results = (data.web?.results || []).map(r => ({
-      title: r.title,
-      url: r.url,
-      description: r.description || '',
-      age: r.age || '',
-    }));
+## Your task
 
-    console.log(`  [search] "${query}" → ${results.length} results`);
-    return results;
-  } catch (err) {
-    console.warn(`  [search] Failed: ${err.message}`);
-    return [];
-  }
-}
+Extract each discrete factual claim. For each, identify:
+- The exact claim as stated
+- What type of claim it is (financial, regulatory, product, personnel, legal, statistical, date/timeline)
+- How critical it is to the article (core -- the story falls apart without it; supporting -- adds context; peripheral -- nice to have)
+- What source would definitively verify or refute it
 
-// ─── URL Fetching ─────────────────────────────────────────────────
-
-async function fetchPageText(url, maxChars = 3000) {
-  try {
-    const controller = new AbortController();
-    const timer = setTimeout(() => controller.abort(), 10000);
-
-    const response = await fetch(url, {
-      signal: controller.signal,
-      headers: {
-        'User-Agent': 'lawpeeps.ai/1.0 (editorial verification)',
-        'Accept': 'text/html,application/xhtml+xml',
-      },
-      redirect: 'follow',
-    });
-    clearTimeout(timer);
-
-    if (!response.ok) {
-      return { url, error: `HTTP ${response.status}`, text: '' };
-    }
-
-    const html = await response.text();
-
-    // Extract text content, stripping HTML
-    const text = html
-      .replace(/<script[\s\S]*?<\/script>/gi, '')
-      .replace(/<style[\s\S]*?<\/style>/gi, '')
-      .replace(/<nav[\s\S]*?<\/nav>/gi, '')
-      .replace(/<footer[\s\S]*?<\/footer>/gi, '')
-      .replace(/<header[\s\S]*?<\/header>/gi, '')
-      .replace(/<[^>]+>/g, ' ')
-      .replace(/&[a-z]+;/gi, ' ')
-      .replace(/\s+/g, ' ')
-      .trim()
-      .slice(0, maxChars);
-
-    console.log(`  [fetch] ${url} → ${text.length} chars`);
-    return { url, text, error: null };
-  } catch (err) {
-    console.log(`  [fetch] ${url} → failed: ${err.message}`);
-    return { url, error: err.message, text: '' };
-  }
-}
-
-// ─── Claude for Search Query Generation ───────────────────────────
-
-async function generateSearchQueries(story, digestItems) {
-  if (!ANTHROPIC_API_KEY) {
-    // Fallback: generate basic queries without Claude
-    return generateBasicQueries(story, digestItems);
-  }
-
-  try {
-    const response = await fetch('https://api.anthropic.com/v1/messages', {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-        'x-api-key': ANTHROPIC_API_KEY,
-        'anthropic-version': '2023-06-01',
-      },
-      body: JSON.stringify({
-        model: 'claude-sonnet-4-20250514',
-        max_tokens: 1024,
-        messages: [{
-          role: 'user',
-          content: `You are a verification researcher for a legal AI news publication. Given this story lead, generate search queries and URLs to check for cross-referencing.
-
-STORY: ${story.title}
-PITCH: ${story.pitch}
-SOURCE ITEMS:
-${digestItems.map(d => `- ${d.title}: ${d.description || '(no description)'} [${d.link || 'no link'}]`).join('\n')}
-
-Generate:
-1. 3-5 web search queries that would find independent confirmation or additional detail about this story
-2. Specific URLs to check directly (company websites, blog pages, LinkedIn company pages, press pages, regulatory registers, Companies House, etc.)
-
-Respond in JSON:
+Return a JSON array:
 {
-  "searchQueries": ["query 1", "query 2", ...],
-  "directUrls": ["https://...", ...],
-  "keyClaimsToVerify": ["claim 1 that needs checking", ...]
-}`,
-        }],
-      }),
-    });
-
-    if (!response.ok) {
-      console.warn(`  [queries] Claude API error: ${response.status}`);
-      return generateBasicQueries(story, digestItems);
+  "claims": [
+    {
+      "id": 1,
+      "claim": "The exact factual assertion",
+      "type": "financial | regulatory | product | personnel | legal | statistical | timeline | other",
+      "criticality": "core | supporting | peripheral",
+      "verification_source": "Where to check this (e.g., Companies House filing, company website, court records, SRA register)",
+      "verification_query": "A specific web search query that would help verify this"
     }
+  ],
+  "article_risk_factors": [
+    "Any risk factors identified in the article (names individuals critically, single source, financial claims, etc.)"
+  ]
+}
 
-    const data = await response.json();
-    const text = data.content[0].text;
-    const jsonMatch = text.match(/\{[\s\S]*\}/);
-    if (jsonMatch) {
-      return JSON.parse(jsonMatch[0]);
+Return ONLY the JSON, no other text.`;
+}
+
+// ── Verification prompt (run after extraction, with web search) ──
+
+function buildVerificationPrompt(claims) {
+  const claimList = claims
+    .map(c => `### Claim ${c.id} [${c.criticality.toUpperCase()}]
+- Assertion: "${c.claim}"
+- Type: ${c.type}
+- Suggested check: ${c.verification_source}
+- Search query: ${c.verification_query}`)
+    .join('\n\n');
+
+  return `You are a verification agent. You have ${claims.length} factual claims extracted from a draft article. Your job is to attempt to verify each one using web search.
+
+## Claims to verify
+
+${claimList}
+
+## Instructions
+
+For each claim:
+1. Search for corroborating evidence using the suggested query and any other queries you think would help
+2. Look for the PRIMARY source (the original announcement, filing, ruling, etc.) not just secondary coverage
+3. Check for CONTRADICTORY information -- if another credible source says something different, flag it
+4. If you cannot find corroboration, say so plainly. Do not fabricate verification.
+
+## Verification standards
+
+- VERIFIED: Found primary source or two independent credible secondary sources confirming the claim
+- PARTIALLY VERIFIED: Found secondary coverage but not the primary source, or found partial confirmation
+- UNVERIFIED: Could not find corroboration. This does not mean the claim is false -- it means it could not be checked
+- CONTRADICTED: Found credible evidence that contradicts the claim
+- OUTDATED: The claim was once true but circumstances have changed
+
+## Output format
+
+{
+  "verifications": [
+    {
+      "claim_id": 1,
+      "status": "verified | partially_verified | unverified | contradicted | outdated",
+      "evidence": "What you found, with specific URLs",
+      "primary_source_found": true/false,
+      "primary_source_url": "URL or null",
+      "corroborating_sources": [
+        { "url": "...", "what_it_confirms": "..." }
+      ],
+      "contradictions": [
+        { "url": "...", "what_it_contradicts": "..." }
+      ],
+      "confidence": "high | medium | low",
+      "note": "Any caveats or context about this verification"
     }
+  ],
+  "overall_assessment": {
+    "total_claims": ${claims.length},
+    "verified": 0,
+    "partially_verified": 0,
+    "unverified": 0,
+    "contradicted": 0,
+    "outdated": 0,
+    "core_claims_verified": "X of Y core claims verified",
+    "recommended_staging": "green | amber | red",
+    "staging_rationale": "Explanation of why this staging level",
+    "disclosure_needed": [
+      "List of specific disclosures that should appear in the article"
+    ],
+    "claims_to_remove": [
+      "Any claims that should be removed from the article (contradicted or dangerously unverifiable)"
+    ],
+    "claims_to_flag": [
+      "Claims that should remain but with explicit disclosure of verification status"
+    ]
+  },
+  "search_queries_used": ["All queries run during verification"]
+}
+
+Return ONLY the JSON, no other text.`;
+}
+
+// ── Run verification on a single article ──
+
+async function verifyArticle(articleContent, articleMeta) {
+  console.log(`[verify] Starting verification for: ${articleMeta.title}`);
+
+  // Phase 1: Extract claims
+  console.log('[verify] Phase 1: Extracting factual claims...');
+  const extractionResponse = await client.messages.create({
+    model: 'claude-sonnet-4-20250514',
+    max_tokens: 4000,
+    messages: [{ role: 'user', content: buildExtractionPrompt(articleContent, articleMeta) }]
+  });
+
+  let extractionText = '';
+  for (const block of extractionResponse.content) {
+    if (block.type === 'text') extractionText += block.text;
+  }
+
+  let extraction;
+  try {
+    const jsonMatch = extractionText.match(/```(?:json)?\s*([\s\S]*?)```/) || [null, extractionText];
+    extraction = JSON.parse(jsonMatch[1].trim());
   } catch (err) {
-    console.warn(`  [queries] Failed to generate queries: ${err.message}`);
+    console.error('[verify] Failed to parse claim extraction:', err.message);
+    return {
+      error: 'claim_extraction_failed',
+      recommended_staging: 'red',
+      staging_rationale: 'Verification could not be completed: claim extraction failed'
+    };
   }
 
-  return generateBasicQueries(story, digestItems);
-}
+  const claims = extraction.claims || [];
+  console.log(`[verify] Extracted ${claims.length} factual claims (${claims.filter(c => c.criticality === 'core').length} core)`);
 
-function generateBasicQueries(story, digestItems) {
-  const queries = [];
-
-  // Basic search from the title
-  queries.push(story.title);
-
-  // Extract company/product names and search for them
-  const words = story.title.split(/\s+/);
-  const capitalised = words.filter(w => /^[A-Z][a-z]/.test(w) && w.length > 3);
-  if (capitalised.length > 0) {
-    queries.push(`${capitalised.join(' ')} legal AI 2026`);
-    queries.push(`${capitalised.join(' ')} announcement`);
+  if (claims.length === 0) {
+    return {
+      generated: new Date().toISOString(),
+      article_title: articleMeta.title,
+      claims_extracted: 0,
+      note: 'No verifiable factual claims found in article. This may be pure commentary/opinion.',
+      recommended_staging: 'green',
+      staging_rationale: 'No factual claims to verify -- pure editorial/opinion piece',
+      verifications: [],
+      overall_assessment: { recommended_staging: 'green' }
+    };
   }
 
-  // Direct URLs from digest items
-  const directUrls = digestItems
-    .filter(d => d.link)
-    .map(d => d.link);
+  // Phase 2: Verify claims with web search
+  console.log('[verify] Phase 2: Verifying claims via web search...');
+  const verificationResponse = await client.messages.create({
+    model: 'claude-sonnet-4-20250514',
+    max_tokens: 10000,
+    tools: [{ type: 'web_search_20250305' }],
+    messages: [{ role: 'user', content: buildVerificationPrompt(claims) }]
+  });
 
-  return {
-    searchQueries: queries,
-    directUrls,
-    keyClaimsToVerify: [`Verify the core claims in: ${story.title}`],
+  let verificationText = '';
+  for (const block of verificationResponse.content) {
+    if (block.type === 'text') verificationText += block.text;
+  }
+
+  let verification;
+  try {
+    const jsonMatch = verificationText.match(/```(?:json)?\s*([\s\S]*?)```/) || [null, verificationText];
+    verification = JSON.parse(jsonMatch[1].trim());
+  } catch (err) {
+    console.error('[verify] Failed to parse verification response:', err.message);
+    return {
+      error: 'verification_failed',
+      claims_extracted: claims.length,
+      extraction,
+      recommended_staging: 'red',
+      staging_rationale: 'Verification could not be completed: verification parsing failed'
+    };
+  }
+
+  // Build the full verification report
+  const report = {
+    generated: new Date().toISOString(),
+    article_title: articleMeta.title,
+    article_category: articleMeta.category,
+    claims_extracted: claims.length,
+    extraction,
+    verification: verification.verifications || [],
+    overall_assessment: verification.overall_assessment || {},
+    risk_factors: extraction.article_risk_factors || [],
+    recommended_staging: verification.overall_assessment?.recommended_staging || 'amber',
+    staging_rationale: verification.overall_assessment?.staging_rationale || 'Assessment incomplete',
+    disclosure_text: buildDisclosureText(verification),
+    search_queries_used: verification.search_queries_used || []
   };
+
+  console.log(`[verify] Verification complete: ${report.recommended_staging.toUpperCase()} staging recommended`);
+
+  const stats = verification.overall_assessment || {};
+  console.log(`[verify] Results: ${stats.verified || 0} verified, ${stats.partially_verified || 0} partial, ${stats.unverified || 0} unverified, ${stats.contradicted || 0} contradicted`);
+
+  return report;
 }
 
-// ─── Main Verification Pipeline ───────────────────────────────────
+// ── Build disclosure text from verification results ──
 
-export async function verifyStories(stories, digest) {
-  console.log(`\nVerification agent: checking ${stories.length} story/stories...\n`);
+function buildDisclosureText(verification) {
+  const disclosures = verification.overall_assessment?.disclosure_needed || [];
+  const flagged = verification.overall_assessment?.claims_to_flag || [];
 
-  const verificationResults = [];
+  if (disclosures.length === 0 && flagged.length === 0) {
+    return null;
+  }
 
-  for (const story of stories) {
-    console.log(`\n--- Verifying: "${story.title}" ---`);
+  let text = '';
+  if (disclosures.length > 0) {
+    text += disclosures.join(' ');
+  }
+  if (flagged.length > 0) {
+    if (text) text += ' ';
+    text += flagged.join(' ');
+  }
 
-    // Find the digest items for this story
-    const relevantItems = digest.items.filter(item =>
-      story.sourceItems.some(s =>
-        item.title.toLowerCase().includes(s.toLowerCase().slice(0, 30))
-      )
-    );
+  return text;
+}
 
-    // Step 1: Generate search queries and URLs to check
-    const queries = await generateSearchQueries(story, relevantItems);
-    console.log(`  Generated ${queries.searchQueries.length} search queries, ${queries.directUrls.length} direct URLs`);
+// ── Batch verification (called by editor after drafting) ──
 
-    // Step 2: Run web searches
-    const searchResults = [];
-    for (const query of queries.searchQueries.slice(0, 5)) {
-      const results = await braveSearch(query, 5);
-      searchResults.push(...results);
+async function verifyBatch(articles) {
+  const reports = [];
+  for (const article of articles) {
+    const report = await verifyArticle(article.content, article.meta);
+    reports.push(report);
+  }
+  return reports;
+}
 
-      // Rate limit: small delay between searches
-      await new Promise(r => setTimeout(r, 300));
-    }
+export { verifyArticle, verifyBatch };
 
-    // Deduplicate search results by URL
-    const seenUrls = new Set();
-    const uniqueSearchResults = searchResults.filter(r => {
-      if (seenUrls.has(r.url)) return false;
-      seenUrls.add(r.url);
-      return true;
-    });
+// Standalone mode: verify a single markdown file
+if (process.argv[1] && process.argv[1].endsWith('verify.mjs') && process.argv[2]) {
+  const filePath = process.argv[2];
+  if (!existsSync(filePath)) {
+    console.error(`[verify] File not found: ${filePath}`);
+    process.exit(1);
+  }
 
-    // Step 3: Fetch primary source pages
-    const pagesToFetch = [
-      ...queries.directUrls.slice(0, 5),
-      ...uniqueSearchResults.slice(0, 5).map(r => r.url),
-    ];
+  const content = readFileSync(filePath, 'utf-8');
 
-    // Deduplicate
-    const uniquePages = [...new Set(pagesToFetch)].slice(0, 8);
-
-    const fetchedPages = [];
-    for (const url of uniquePages) {
-      const page = await fetchPageText(url);
-      if (page.text.length > 50) {
-        fetchedPages.push(page);
+  // Extract frontmatter
+  const fmMatch = content.match(/^---\s*\n([\s\S]*?)\n---/);
+  const meta = {};
+  if (fmMatch) {
+    for (const line of fmMatch[1].split('\n')) {
+      const [key, ...rest] = line.split(':');
+      if (key && rest.length > 0) {
+        meta[key.trim()] = rest.join(':').trim().replace(/^["']|["']$/g, '');
       }
     }
-
-    // Step 4: Compile verification dossier
-    const dossier = {
-      story: story.title,
-      searchResultCount: uniqueSearchResults.length,
-      searchResults: uniqueSearchResults.slice(0, 10).map(r => ({
-        title: r.title,
-        url: r.url,
-        snippet: r.description.slice(0, 200),
-      })),
-      fetchedPages: fetchedPages.map(p => ({
-        url: p.url,
-        excerpt: p.text.slice(0, 2000),
-      })),
-      keyClaimsToVerify: queries.keyClaimsToVerify,
-      verificationSummary: summariseVerification(story, uniqueSearchResults, fetchedPages),
-    };
-
-    verificationResults.push(dossier);
-
-    console.log(`  Verification complete: ${uniqueSearchResults.length} search results, ${fetchedPages.length} pages fetched`);
   }
 
-  return verificationResults;
-}
+  const articleContent = fmMatch ? content.slice(fmMatch[0].length).trim() : content;
 
-function summariseVerification(story, searchResults, fetchedPages) {
-  const lines = [];
-
-  if (searchResults.length === 0 && fetchedPages.length === 0) {
-    lines.push('NO INDEPENDENT VERIFICATION FOUND. Could not find any web results or fetch any source pages for this story. The article must clearly state this limitation.');
-    return lines.join(' ');
-  }
-
-  if (searchResults.length > 0) {
-    lines.push(`Found ${searchResults.length} web result(s) related to this story.`);
-
-    // Check for multiple independent sources
-    const domains = new Set(searchResults.map(r => {
-      try { return new URL(r.url).hostname; } catch { return ''; }
-    }).filter(Boolean));
-    lines.push(`Results span ${domains.size} distinct domain(s): ${[...domains].slice(0, 5).join(', ')}.`);
-  }
-
-  if (fetchedPages.length > 0) {
-    lines.push(`Successfully fetched ${fetchedPages.length} primary source page(s).`);
-  }
-
-  return lines.join(' ');
-}
-
-// Allow running standalone for testing
-if (process.argv[1] && process.argv[1].includes('verify.mjs')) {
-  console.log('Verification agent: standalone mode not yet supported. Use via editor.mjs.');
+  verifyArticle(articleContent, meta)
+    .then(report => {
+      const outputPath = filePath.replace(/\.md$/, '.verification.json');
+      writeFileSync(outputPath, JSON.stringify(report, null, 2));
+      console.log(`[verify] Report written to: ${outputPath}`);
+    })
+    .catch(err => {
+      console.error('[verify] Fatal error:', err);
+      process.exit(1);
+    });
 }
