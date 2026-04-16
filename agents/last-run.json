@@ -1,18 +1,18 @@
 {
-  "timestamp": "2026-04-16T02:03:00.638Z",
-  "digestTimestamp": "2026-04-16T02:02:37.378Z",
+  "timestamp": "2026-04-16T08:21:16.918Z",
+  "digestTimestamp": "2026-04-16T08:20:29.809Z",
   "storiesIdentified": 1,
   "articlesDrafted": 1,
   "articles": [
     {
-      "title": "ClearyX Launches Contract AI Platform as Big Law Builds Tech Arsenal",
-      "slug": "clearyx-launches-contract-ai-platform-as-big-law-builds-tech-arsenal",
-      "filename": "clearyx-launches-contract-ai-platform-as-big-law-builds-tech-arsenal.md",
-      "category": "news",
-      "staging": "green",
-      "stagingReason": "Factual news about public product launch from established source",
-      "draftedAt": "2026-04-16T02:03:00.638Z"
+      "title": "Clio CEO Signals Push into In-House Legal Market as Data Context Becomes Strategic Battleground",
+      "slug": "clio-ceo-signals-push-into-in-house-legal-market-as-data-context-becomes-strateg",
+      "filename": "clio-ceo-signals-push-into-in-house-legal-market-as-data-context-becomes-strateg.md",
+      "category": "analysis",
+      "staging": "red",
+      "stagingReason": "Escalated: article self-classified as red (plan said green)",
+      "draftedAt": "2026-04-16T08:21:16.917Z"
     }
   ],
-  "editorialNotes": "Pattern emerging of established players (Cleary, Juro, August) releasing incremental AI features rather than breakthrough innovation. Harvey's focus on agents and world models worth monitoring for more substantial coverage when detailed technical content becomes available. Contract AI remains the dominant application area across multiple launches."
+  "editorialNotes": "The Clio story represents a major strategic development worth deeper analysis - their move into in-house legal could reshape the practice management landscape. This differs from the recent product launches because it's about market positioning and business strategy rather than feature announcements. Worth monitoring how other practice management vendors respond to this competitive pressure."
 }
