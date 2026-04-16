@@ -19,8 +19,18 @@
       "publishDate": "2026-04-16",
       "sources": "",
       "serves_50_percent": false
+    },
+    {
+      "title": "Legal Tech Raised $2.3B in Q1 26, But 3 Companies Dominate",
+      "slug": "legal-tech-raised-2-3b-in-q1-26-but-3-companies-dominate",
+      "category": "funding",
+      "staging": "red",
+      "summary": "The legal AI startup raised £160m at an £11bn valuation, but the breathtaking numbers raise questions about whether venture capital has lost sight of actual legal market dynamics.",
+      "publishDate": "2026-04-16",
+      "sources": "",
+      "serves_50_percent": false
     }
   ],
-  "last_updated": "2026-04-16T19:14:52.301Z",
+  "last_updated": "2026-04-16T19:50:40.744Z",
   "note": "Populated automatically by the editorial cycle. Each entry records a story drafted, published, or killed."
 }
