@@ -4,3 +4,11 @@
 
 [build.environment]
   NODE_VERSION = "22"
+
+[functions]
+  directory = "netlify/functions"
+
+# When a tip line form is submitted, fire the tip-received function
+# which dispatches a GitHub Actions workflow to investigate it.
+[[plugins]]
+  package = "@netlify/plugin-functions-install-core"

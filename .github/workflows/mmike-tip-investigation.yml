@@ -1,0 +1,54 @@
+name: "mm!ke Tip Investigation"
+
+# Triggered when a reader submits a tip via the tip line.
+# The Netlify function fires a repository_dispatch event,
+# which triggers this workflow to investigate the tip,
+# write an article if it holds up, and stage a PR.
+
+on:
+  repository_dispatch:
+    types: [tip-received]
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  investigate-tip:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: |
+          npm install @anthropic-ai/sdk
+          npm install
+
+      - name: Configure Git identity
+        run: |
+          git config user.name "mm!ke"
+          git config user.email "mmike@lawpeeps.ai"
+
+      - name: Investigate tip
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TIP_PAYLOAD: ${{ toJson(github.event.client_payload) }}
+        run: node agents/tip-scout.mjs
+
+      - name: Commit queue updates
+        run: |
+          git add agents/memory/ || true
+          git diff --cached --quiet || git commit -m "tip-scout: investigated reader tip $(date -u +%Y-%m-%dT%H:%M)"
+          git push origin main || true
