@@ -4,11 +4,35 @@
       "status": "new",
       "first_tracked": "2026-04-16",
       "last_updated": "2026-04-16"
+    },
+    {
+      "theme": "Government vs commercial AI solutions in legal services",
+      "status": "actively tracking",
+      "first_tracked": "2026-04-16",
+      "last_updated": "2026-04-16"
+    },
+    {
+      "theme": "AI accuracy standards in legal contexts",
+      "status": "actively tracking",
+      "first_tracked": "2026-04-16",
+      "last_updated": "2026-04-16"
+    },
+    {
+      "theme": "Access to justice through technology",
+      "status": "actively tracking",
+      "first_tracked": "2026-04-16",
+      "last_updated": "2026-04-16"
     }
   ],
   "evolving_views": [
     {
       "confidence": "low",
+      "first_formed": "2026-04-16",
+      "last_updated": "2026-04-16"
+    },
+    {
+      "topic": "government vs commercial AI in legal services",
+      "confidence": "medium",
       "first_formed": "2026-04-16",
       "last_updated": "2026-04-16"
     }
@@ -18,8 +42,12 @@
     "What pricing strategies will emerge as these well-funded platforms mature?",
     "Will regulatory responses emerge to address market concentration in legal technology?",
     "How will smaller law firms adapt to potential technology stratification?",
-    "What role will open-source legal AI tools play in maintaining competitive diversity?"
+    "What role will open-source legal AI tools play in maintaining competitive diversity?",
+    "What specific accuracy metrics will the MoJ use to evaluate Justice Transcribe against commercial providers?",
+    "How will this precedent affect other government departments' AI procurement strategies?",
+    "Will commercial legal tech companies adjust their business models if government becomes a competitor rather than just a customer?",
+    "What other legal AI capabilities might the MoJ consider developing in-house if Justice Transcribe succeeds?"
   ],
-  "last_updated": "2026-04-16T18:49:39.171Z",
+  "last_updated": "2026-04-16T19:14:52.301Z",
   "note": "mm!ke's evolving editorial positions and questions. Updated every cycle, including cycles that produce no articles."
 }

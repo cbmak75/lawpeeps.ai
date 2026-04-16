@@ -1,10 +1,10 @@
 {
-  "generated": "2026-04-16T18:39:31.042Z",
+  "generated": "2026-04-16T19:04:12.989Z",
   "cycle_type": "monitoring",
   "item_count": 30,
-  "total_scanned": 413,
+  "total_scanned": 491,
   "sources_checked": 16,
-  "sources_skipped": 6,
+  "sources_skipped": 8,
   "items": [
     {
       "title": "Evaluating LLM-Based Translation of a Low-Resource Technical Language: The Medical and Philosophical Greek of Galen",
@@ -150,6 +150,17 @@
       "relevance_score": 4
     },
     {
+      "title": "Microsoft and Stellantis want to use AI to help car owners",
+      "url": "https://arstechnica.com/cars/2026/04/microsoft-and-stellantis-want-to-use-ai-to-help-car-owners/",
+      "summary": "Digital services for brands from Jeep to Peugeot will feel the presence of AI.",
+      "published": "2026-04-16T17:29:12.000Z",
+      "source_id": "ars-technica-ai",
+      "source_name": "Ars Technica AI",
+      "source_priority": "low",
+      "source_category": "General AI",
+      "relevance_score": 4
+    },
+    {
       "title": "Gemini can now create personalized AI images by digging around in Google Photos",
       "url": "https://arstechnica.com/ai/2026/04/gemini-can-now-create-personalized-ai-images-by-digging-around-in-google-photos/",
       "summary": "Google is making it easier to feed your photos into Nano Banana for more personal image generation.",
@@ -286,17 +297,6 @@
       "url": "https://arstechnica.com/tech-policy/2026/04/trump-appointed-judges-refuse-to-block-trump-blacklisting-of-anthropic-ai-tech/",
       "summary": "Appeals court denies Anthropic's emergency motion for a stay.",
       "published": "2026-04-09T18:07:56.000Z",
-      "source_id": "ars-technica-ai",
-      "source_name": "Ars Technica AI",
-      "source_priority": "low",
-      "source_category": "General AI",
-      "relevance_score": 3
-    },
-    {
-      "title": "To beat Altman in court, Musk offers to give all damages to OpenAI nonprofit",
-      "url": "https://arstechnica.com/tech-policy/2026/04/to-beat-altman-in-court-musk-offers-to-give-all-damages-to-open-ai-nonprofit/",
-      "summary": "Musk won’t seek a “single dollar” in OpenAI suit after asking to pocket up to $134 billion.",
-      "published": "2026-04-08T17:37:06.000Z",
       "source_id": "ars-technica-ai",
       "source_name": "Ars Technica AI",
       "source_priority": "low",

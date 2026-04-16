@@ -2,7 +2,7 @@
   "meta": {
     "version": "2.1",
     "updated": "2026-04-16",
-    "notes": "Revised source list with verified URLs. Sources without native RSS use polling, scraping, or GovWire fallbacks. Newsletter sources require email-to-RSS bridge (e.g. kill-the-newsletter.com or Feedbin). Discovery agent auto-curation run 2026-04-16.",
+    "notes": "Revised source list with verified URLs. Sources without native RSS use polling, scraping, or GovWire fallbacks. Newsletter sources require email-to-RSS bridge (e.g. kill-the-newsletter.com or Feedbin). Discovery agent auto-curation run 2026-04-16. Discovery agent auto-curation run 2026-04-16.",
     "validation": {
       "last_run": "2026-04-15",
       "method": "Web search verification of all feed URLs, page URLs, and content types",
@@ -302,6 +302,34 @@
       "reliability": "probationary",
       "reliability_score": 0,
       "notes": "Auto-discovered. Provides in-depth analysis of AI sanctions and ethical issues in legal practice. Recent coverage of record-breaking sanctions suggests valuable ongoing coverage.. Initial assessment: Good - detailed reporting on legal ethics issues with specific case citations and data analysis."
+    },
+    {
+      "id": "solicitor-news",
+      "name": "Solicitor News",
+      "url": "https://solicitornews.co.uk",
+      "feed": null,
+      "feed_fallback": "scrape",
+      "category": "Legal news",
+      "priority": "high",
+      "added_by": "discovery-agent",
+      "added_date": "2026-04-16",
+      "reliability": "probationary",
+      "reliability_score": 0,
+      "notes": "Auto-discovered. UK-focused legal publication covering regulatory developments and technology adoption in English legal market, particularly strong on SRA and Ministry of Justice developments. Initial assessment: Professional legal publication with good sourcing and regular updates on regulatory developments."
+    },
+    {
+      "id": "ai-funding-tracker",
+      "name": "AI Funding Tracker",
+      "url": "https://aifundingtracker.com",
+      "feed": null,
+      "feed_fallback": "scrape",
+      "category": "Legal tech funding",
+      "priority": "medium",
+      "added_by": "discovery-agent",
+      "added_date": "2026-04-16",
+      "reliability": "probationary",
+      "reliability_score": 0,
+      "notes": "Auto-discovered. Comprehensive tracking of AI startup funding with detailed coverage of legal AI sector, including funding amounts, valuations and strategic context. Initial assessment: Specialized data source with detailed funding information, appears to have good industry connections."
     }
   ],
   "newsletters": {
