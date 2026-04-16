@@ -78,7 +78,15 @@ function buildScoutPrompt(digest, ctx) {
     .map(i => `- [${i.source_id}] ${i.title} (score: ${i.relevance_score})`)
     .join('\n');
 
+  const today = new Date().toISOString().split('T')[0];
+
   return `You are a news scout for lawpeeps.ai, a legal AI publication. Your job is to find and research stories, then return structured briefs for the editor.
+
+## IMPORTANT: Recency requirement
+
+Today's date is ${today}. You are looking for stories from the LAST 48 HOURS ONLY. Do not file briefs about older stories, historical events, or developments from weeks or months ago. lawpeeps.ai is a news publication -- we cover what is happening now, not what happened last month. If a story is more than 48 hours old, skip it unless it is a genuinely breaking development that nobody has covered yet.
+
+When searching, include date qualifiers (e.g. "legal AI news this week", "legal AI April 2026") to ensure you find current stories.
 
 ## What the RSS feeds found
 
@@ -109,7 +117,7 @@ Do two things:
 
 ### 1. Discover stories the feeds missed
 
-Search the web for recent legal AI developments. Focus on:
+Search the web for legal AI developments FROM THE LAST 48 HOURS. Focus on:
 - Product launches, funding rounds, acquisitions in legal AI
 - Regulatory developments (SRA, Law Society, EU AI Act, international)
 - Court decisions involving AI

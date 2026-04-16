@@ -104,7 +104,13 @@ function buildWritingPrompt(story, memory) {
     .map(e => `- ${e.title}`)
     .join('\n');
 
+  const today = new Date().toISOString().split('T')[0];
+
   return `Your scout has filed this research brief. Write the article.
+
+## IMPORTANT: Publication date
+
+Today's date is ${today}. The publishDate in your frontmatter MUST be ${today}. This is the date lawpeeps.ai publishes the article -- not the date of the underlying event. Always use today's date.
 
 ## Research brief
 
@@ -149,7 +155,7 @@ ${recentTitles || 'No recent coverage.'}
 Write a complete article draft. Follow your editorial voice and standards exactly.
 
 Output:
-1. Complete frontmatter (title, description, publishDate, author: mm!ke, tags, category, staging, sources array, editorNote)
+1. Complete frontmatter (title, description, publishDate: ${today}, author: mm!ke, tags, category, staging, sources array, editorNote)
 2. The article body
 3. A brief italicised editor's note at the end, signed mm!ke
 
