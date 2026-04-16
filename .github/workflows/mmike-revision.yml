@@ -18,7 +18,7 @@ jobs:
     name: "mm!ke rejection"
     runs-on: ubuntu-latest
     if: |
-      contains(github.event.pull_request.labels.*.name, 'mmike') &&
+      startsWith(github.event.pull_request.head.ref, 'mmike/') &&
       github.event.review.state == 'CHANGES_REQUESTED' &&
       (
         contains(github.event.review.body, 'KILL') ||
@@ -60,11 +60,11 @@ jobs:
     timeout-minutes: 10
 
     # Only run if:
-    # 1. The PR has the "mmike" label
+    # 1. The PR branch starts with "mmike/" (mm!ke's editorial branches)
     # 2. The review action is "changes_requested"
     # 3. The review does NOT contain KILL or REJECT
     if: |
-      contains(github.event.pull_request.labels.*.name, 'mmike') &&
+      startsWith(github.event.pull_request.head.ref, 'mmike/') &&
       github.event.review.state == 'CHANGES_REQUESTED' &&
       !contains(github.event.review.body, 'KILL') &&
       !contains(github.event.review.body, 'REJECT') &&
