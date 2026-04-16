@@ -1,24 +1,26 @@
 /**
- * tip-received.mjs -- Netlify Function
+ * submission-created.mjs -- Netlify Event-Triggered Function
  *
- * Fires when a tip line form is submitted. Dispatches a GitHub
+ * Netlify automatically calls this function whenever a form is
+ * submitted. No webhook configuration needed -- the function name
+ * "submission-created" is a Netlify convention.
+ *
+ * When a tipline form is submitted, this dispatches a GitHub
  * Actions workflow to investigate the tip immediately.
  *
- * Netlify triggers this automatically via the submission-created
- * event when the form name matches "tipline".
- *
- * Requires environment variables:
+ * Requires environment variables (set in Netlify UI):
  *   GITHUB_DISPATCH_TOKEN  -- GitHub PAT with repo scope
  *   GITHUB_REPO            -- e.g. "cbmak75/lawpeeps.ai"
  */
 
-export default async (req) => {
+export const handler = async (event) => {
   try {
-    const payload = await req.json();
+    const payload = JSON.parse(event.body);
 
     // Only act on tipline form submissions
     if (payload.form_name !== 'tipline') {
-      return new Response('Not a tipline submission, ignoring.', { status: 200 });
+      console.log(`[submission-created] Ignoring form: ${payload.form_name}`);
+      return { statusCode: 200, body: 'Not a tipline submission.' };
     }
 
     const tipData = payload.data || {};
@@ -26,8 +28,8 @@ export default async (req) => {
     const repo = process.env.GITHUB_REPO || 'cbmak75/lawpeeps.ai';
 
     if (!token) {
-      console.error('[tip-received] GITHUB_DISPATCH_TOKEN not set');
-      return new Response('Missing dispatch token', { status: 500 });
+      console.error('[submission-created] GITHUB_DISPATCH_TOKEN not set');
+      return { statusCode: 500, body: 'Missing dispatch token.' };
     }
 
     // Fire repository_dispatch to trigger the tip investigation workflow
@@ -58,19 +60,15 @@ export default async (req) => {
 
     if (!response.ok) {
       const error = await response.text();
-      console.error(`[tip-received] GitHub dispatch failed: ${response.status} ${error}`);
-      return new Response(`Dispatch failed: ${response.status}`, { status: 500 });
+      console.error(`[submission-created] GitHub dispatch failed: ${response.status} ${error}`);
+      return { statusCode: 500, body: `Dispatch failed: ${response.status}` };
     }
 
-    console.log(`[tip-received] Dispatched investigation for tip: ${tipData.subject || 'untitled'}`);
-    return new Response('Tip dispatched for investigation.', { status: 200 });
+    console.log(`[submission-created] Dispatched tip investigation: ${tipData.subject || 'untitled'}`);
+    return { statusCode: 200, body: 'Tip dispatched for investigation.' };
 
   } catch (err) {
-    console.error('[tip-received] Error:', err);
-    return new Response('Internal error', { status: 500 });
+    console.error('[submission-created] Error:', err);
+    return { statusCode: 500, body: 'Internal error.' };
   }
-};
-
-export const config = {
-  path: '/.netlify/functions/tip-received',
 };
