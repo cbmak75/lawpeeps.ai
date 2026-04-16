@@ -18,9 +18,23 @@ const articles = defineCollection({
       'community',
       'regulatory',
       'research',
+      'policy',
+      'funding',
+      'commentary',
     ]),
     staging: z.enum(['green', 'amber', 'red']),
-    sources: z.array(z.string()).optional(),
+    sources: z.array(
+      z.union([
+        z.string(),
+        z.object({
+          url: z.string(),
+          title: z.string().optional(),
+          type: z.string().optional(),
+          reliability: z.string().optional(),
+          verified: z.boolean().optional(),
+        }),
+      ])
+    ).optional(),
     rightOfResponse: z.object({
       offered: z.boolean(),
       respondedBy: z.string().optional(),
