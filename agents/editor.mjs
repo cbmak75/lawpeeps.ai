@@ -1,439 +1,614 @@
 /**
- * mm!ke Editorial Agent for lawpeeps.ai
+ * editor.mjs -- Editorial Orchestrator
  *
- * Reads the latest monitoring digest, calls Claude to identify stories
- * and draft articles, then writes markdown files ready for PR submission.
+ * The brain of mm!ke. Runs the full editorial cycle:
+ *   1. Monitor (RSS feeds + tip line)
+ *   2. Discover (web search for what feeds missed)
+ *   3. Research (deep dive on candidates)
+ *   4. Write (draft articles with mm!ke's voice)
+ *   5. Verify (structured claim validation)
+ *   6. Stage (create PRs with green/amber/red classification)
+ *   7. Reflect (update memory, positions, knowledge)
  *
- * Requires: ANTHROPIC_API_KEY environment variable
+ * Run: node agents/editor.mjs
+ * Expects: ANTHROPIC_API_KEY, GITHUB_TOKEN
  */
 
-import { readFileSync, writeFileSync, mkdirSync, existsSync, readdirSync } from 'fs';
+import Anthropic from '@anthropic-ai/sdk';
+import { readFileSync, writeFileSync, existsSync, mkdirSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
-import { verifyStories } from './verify.mjs';
+import { execSync } from 'child_process';
+
+import { runMonitor } from './monitor.mjs';
+import { runDiscovery } from './discover.mjs';
+import { runResearch } from './research.mjs';
+import { verifyArticle } from './verify.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
-const REPO_ROOT = join(__dirname, '..');
-const CONTENT_DIR = join(REPO_ROOT, 'src', 'content', 'articles');
+const AGENTS_DIR = __dirname;
 const MEMORY_DIR = join(__dirname, 'memory');
-const DIGEST_DIR = join(__dirname, 'digests');
+const ARTICLES_DIR = join(__dirname, '..', 'src', 'content', 'articles');
+const SYSTEM_PROMPT_PATH = join(__dirname, 'mmike-system-prompt.md');
+const SOURCES_PATH = join(__dirname, 'sources.json');
 
-const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY;
-if (!ANTHROPIC_API_KEY) {
-  console.error('ANTHROPIC_API_KEY environment variable is required');
-  process.exit(1);
-}
+// Memory files
+const EDITORIAL_LOG_PATH = join(MEMORY_DIR, 'editorial-log.json');
+const POSITIONS_PATH = join(MEMORY_DIR, 'positions.json');
+const KNOWLEDGE_PATH = join(MEMORY_DIR, 'knowledge.json');
+const WEIGHTING_PATH = join(MEMORY_DIR, 'weighting-tracker.json');
+const RESEARCH_PATH = join(MEMORY_DIR, 'latest-research.json');
 
-// ─── Helpers ───────────────────────────────────────────────────────
+const client = new Anthropic();
+
+// ── Ensure memory directory exists ──
+
+if (!existsSync(MEMORY_DIR)) mkdirSync(MEMORY_DIR, { recursive: true });
+
+// ── Load system prompt ──
 
 function loadSystemPrompt() {
-  return readFileSync(join(__dirname, 'mmike-system-prompt.md'), 'utf-8');
-}
-
-function loadLatestDigest() {
-  if (!existsSync(DIGEST_DIR)) return null;
-  const files = readdirSync(DIGEST_DIR)
-    .filter(f => f.endsWith('.json'))
-    .sort()
-    .reverse();
-
-  if (files.length === 0) return null;
-
-  return JSON.parse(readFileSync(join(DIGEST_DIR, files[0]), 'utf-8'));
-}
-
-function loadMemory() {
-  const memoryFile = join(MEMORY_DIR, 'editorial-log.json');
-  if (!existsSync(memoryFile)) {
-    return { articles: [], entities: {}, sourceNotes: {} };
+  if (!existsSync(SYSTEM_PROMPT_PATH)) {
+    console.error('[editor] System prompt not found at:', SYSTEM_PROMPT_PATH);
+    process.exit(1);
   }
-  return JSON.parse(readFileSync(memoryFile, 'utf-8'));
+  return readFileSync(SYSTEM_PROMPT_PATH, 'utf-8');
 }
 
-function saveMemory(memory) {
-  mkdirSync(MEMORY_DIR, { recursive: true });
-  writeFileSync(join(MEMORY_DIR, 'editorial-log.json'), JSON.stringify(memory, null, 2));
-}
+// ── Load memory context ──
 
-function loadExistingArticles() {
-  if (!existsSync(CONTENT_DIR)) return [];
-  return readdirSync(CONTENT_DIR)
-    .filter(f => f.endsWith('.md'))
-    .map(f => f.replace('.md', ''));
-}
+function loadMemoryContext() {
+  const context = {};
 
-function slugify(text) {
-  return text
-    .toLowerCase()
-    .replace(/[^a-z0-9]+/g, '-')
-    .replace(/^-|-$/g, '')
-    .slice(0, 80);
-}
-
-// ─── Claude API ────────────────────────────────────────────────────
-
-async function callClaude(systemPrompt, userMessage, maxTokens = 4096) {
-  const response = await fetch('https://api.anthropic.com/v1/messages', {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json',
-      'x-api-key': ANTHROPIC_API_KEY,
-      'anthropic-version': '2023-06-01',
-    },
-    body: JSON.stringify({
-      model: 'claude-sonnet-4-20250514',
-      max_tokens: maxTokens,
-      system: systemPrompt,
-      messages: [{ role: 'user', content: userMessage }],
-    }),
-  });
-
-  if (!response.ok) {
-    const error = await response.text();
-    throw new Error(`Claude API error ${response.status}: ${error}`);
+  if (existsSync(EDITORIAL_LOG_PATH)) {
+    const log = JSON.parse(readFileSync(EDITORIAL_LOG_PATH, 'utf-8'));
+    context.recentCoverage = (log.entries || []).slice(-30);
   }
 
-  const data = await response.json();
-  return data.content[0].text;
+  if (existsSync(POSITIONS_PATH)) {
+    context.positions = JSON.parse(readFileSync(POSITIONS_PATH, 'utf-8'));
+  }
+
+  if (existsSync(KNOWLEDGE_PATH)) {
+    context.knowledge = JSON.parse(readFileSync(KNOWLEDGE_PATH, 'utf-8'));
+  }
+
+  if (existsSync(WEIGHTING_PATH)) {
+    context.weighting = JSON.parse(readFileSync(WEIGHTING_PATH, 'utf-8'));
+  }
+
+  return context;
 }
 
-// ─── Editorial Pipeline ────────────────────────────────────────────
+// ── Build writing prompt ──
 
-async function identifyStories(digest, memory, systemPrompt) {
-  const existingArticles = loadExistingArticles();
+function buildWritingPrompt(research, memory) {
+  const candidates = (research.researched_candidates || [])
+    .filter(r => r.editorial_recommendation === 'cover');
 
-  // Build rich memory context
-  const recentArticles = memory.articles.slice(-30);
-  const coverageLog = recentArticles.map(a =>
-    `- "${a.title}" (${a.category}, ${a.publishDate}) [sources: ${(a.sources || []).join('; ')}]`
-  ).join('\n');
+  if (candidates.length === 0) return null;
 
-  // Extract entities and topics already covered
-  const coveredEntities = new Set();
-  const coveredTopics = new Set();
-  for (const a of recentArticles) {
-    // Extract company/product names from titles and sources
-    for (const s of (a.sources || [])) {
-      coveredEntities.add(s.toLowerCase());
+  const candidateDetails = candidates.map((c, i) => `
+### Story ${i + 1}: ${c.original_title}
+
+Research summary:
+${c.research_summary}
+
+Primary source: ${c.primary_source || c.original_url}
+Primary source verified: ${c.primary_source_verified ? 'Yes' : 'No'}
+Additional sources: ${(c.additional_sources || []).map(s => s.url).join(', ') || 'None'}
+Key facts: ${(c.key_facts || []).map(f => `"${f.claim}" [${f.verified ? 'verified' : 'unverified'}]`).join('; ')}
+Suggested angle: ${c.suggested_angle}
+Suggested story type: ${c.suggested_story_type}
+Estimated staging: ${c.estimated_staging}
+Serves 50% rule: ${c.serves_50_percent_rule ? 'Yes' : 'No'}
+`).join('\n');
+
+  // Build 50% weighting context
+  let weightingContext = 'No weighting data available yet.';
+  if (memory.weighting) {
+    const w = memory.weighting;
+    weightingContext = `Current 50% rule balance: ${w.underrepresented_percentage || 0}% underrepresented coverage in the last 4 weeks (target: 50% minimum). ${w.underrepresented_percentage < 50 ? 'BELOW TARGET -- prioritise underrepresented stories.' : 'On target.'}`;
+  }
+
+  // Cross-cutting themes
+  const themes = research.cross_cutting_themes?.length > 0
+    ? research.cross_cutting_themes.map(t => `- ${t}`).join('\n')
+    : 'None identified this cycle.';
+
+  // Positions context
+  let positionsContext = '';
+  if (memory.positions) {
+    const p = memory.positions;
+    if (p.tracked_themes?.length > 0) {
+      positionsContext += '\n\nThemes I am tracking:\n' +
+        p.tracked_themes.map(t => `- ${t.theme}: ${t.status} (last updated: ${t.last_updated || 'unknown'})`).join('\n');
     }
-    coveredTopics.add(`${a.title.toLowerCase()}`);
+    if (p.evolving_views?.length > 0) {
+      positionsContext += '\n\nMy evolving views:\n' +
+        p.evolving_views.map(v => `- ${v.topic}: ${v.current_view} (confidence: ${v.confidence || 'medium'})`).join('\n');
+    }
   }
 
-  // Build tip context if tips are present in the digest
-  const tipItems = digest.items.filter(i => i.source === 'Tip Line');
-  const tipContext = tipItems.length > 0
-    ? `\n\nTIP LINE SUBMISSIONS (${tipItems.length}):\nThese are reader-submitted tips. They should be treated as leads, not verified facts. Each tip needs independent verification before coverage. Tips are marked with [TIP] prefix.\n`
-    : '';
+  return `You have ${candidates.length} stories to write based on completed research. Here are the stories the research agent recommends for coverage:
 
-  const prompt = `You are reviewing the latest source monitoring digest for lawpeeps.ai. Your job is to identify which items, if any, warrant coverage.
+${candidateDetails}
 
-Here is the digest:
+## Cross-cutting themes this cycle
+${themes}
 
-${JSON.stringify(digest.items, null, 2)}
-${tipContext}
-YOUR EDITORIAL MEMORY — articles you have already published or drafted:
+## 50% weighting status
+${weightingContext}
 
-${coverageLog || '(No recent articles yet. This is the very beginning of the publication.)'}
+## My editorial positions and tracked themes
+${positionsContext || 'No positions recorded yet. This is an early cycle.'}
 
-Existing article slugs in the repository (DO NOT create articles with these slugs):
-${existingArticles.join(', ') || '(Only the launch article exists.)'}
+## Your task
 
-${memory.lastEditorialNotes ? `Your editorial notes from the previous cycle:\n${memory.lastEditorialNotes}\n` : ''}
-DUPLICATION RULES:
-- Do NOT cover a story if you have already published an article on the same topic, event, or announcement.
-- Do NOT cover a story just because a different source is reporting the same underlying news. One article per story is enough.
-- If a story is a significant UPDATE to something you previously covered, you may write a follow-up, but flag it as such and reference the earlier piece.
-- If a tip line submission covers something already published, skip it.
+For each story recommended for coverage, write a complete article draft in markdown. Follow your editorial voice and standards exactly.
 
-SOURCE MATERIAL RULES:
-- Do NOT reject a story just because the digest alone lacks detail. A verification agent will actively search the web and fetch primary sources BEFORE you draft the article. Your job here is to identify stories worth investigating, not to pre-judge whether enough material exists.
-- If a digest item has a headline and a link, that is enough to select it for investigation. The verification step will fetch the full content.
-- If a tip line submission mentions a specific company, person, product, or event, select it. The verification step will search for confirmation.
-- Interview-based features still require actual source content, but if the digest links to a published interview, select it and let verification fetch the full text.
-- Only skip a story if it is genuinely not newsworthy, is a duplicate of something already covered, or is clearly spam/malicious.
+For each article, output:
+1. Complete frontmatter (title, description, publishDate, author: mm!ke, tags, category, staging, sources array, editorNote)
+2. The article body
+3. A brief editor's note at the end, signed mm!ke
 
-Instructions:
-1. Review each item in the digest against your editorial memory above.
-2. Identify items that meet your editorial criteria: genuine news value, relevance to legal AI, not a rehash of something already covered.
-3. Apply the 50% rule: favour smaller operators, independents, and practitioner-led innovation where possible.
-4. For tip line items: verify there is enough substance to investigate. If a tip is vague or unverifiable, note it in editorialNotes for future cycles but do not draft an article.
-5. For each item you select, specify:
-   - A proposed article title
-   - The article category (news, feature, profile, analysis, post-mortem, community, regulatory, research)
-   - The staging classification (green, amber, red) with a brief reason
-   - A one-sentence pitch explaining why this story matters
-   - The source items from the digest that inform this story (by title)
-   - Whether this originated from the tip line (fromTip: true/false)
+After all articles, also output:
+- Any updates to your editorial positions or tracked themes
+- Any new open questions you want to track
+- Whether this cycle's output shifts your 50% weighting balance
 
-If nothing in the digest warrants coverage right now, say so. It is better to publish nothing than to publish filler.
+Format your response as:
 
-Respond in JSON format:
+---ARTICLE_START---
+[complete markdown with frontmatter]
+---ARTICLE_END---
+
+---ARTICLE_START---
+[next article if multiple]
+---ARTICLE_END---
+
+---REFLECTION_START---
 {
-  "stories": [
-    {
-      "title": "Proposed article title",
-      "category": "news",
-      "staging": "green",
-      "stagingReason": "Factual news from public announcement",
-      "pitch": "Why this matters in one sentence",
-      "sourceItems": ["Digest item title 1"],
-      "estimatedLength": "short|medium|long",
-      "fromTip": false
-    }
-  ],
-  "skipped": "Brief note on why other items were skipped, if relevant",
-  "editorialNotes": "Any observations about trends or items to watch for next cycle"
-}`;
-
-  const response = await callClaude(systemPrompt, prompt, 2048);
-
-  // Extract JSON from response (Claude may wrap it in markdown code blocks)
-  const jsonMatch = response.match(/\{[\s\S]*\}/);
-  if (!jsonMatch) {
-    throw new Error('Could not parse story identification response');
-  }
-
-  return JSON.parse(jsonMatch[0]);
+  "position_updates": [...],
+  "new_open_questions": [...],
+  "theme_updates": [...],
+  "weighting_impact": "description of how this cycle affects 50% balance",
+  "editorial_notes": "any notes to yourself about coverage direction, sources, or things to revisit"
+}
+---REFLECTION_END---`;
 }
 
-async function draftArticle(story, digest, memory, systemPrompt, verificationDossier) {
-  const relevantItems = digest.items.filter(item =>
-    story.sourceItems.some(s => item.title.toLowerCase().includes(s.toLowerCase().slice(0, 30)))
-  );
+// ── Parse articles from mm!ke's response ──
 
-  const tipNote = story.fromTip
-    ? `\nIMPORTANT: This story originated from a reader tip. You must independently verify the claims using the source material provided. If you cannot verify key claims, say so explicitly in the article. If the tipster asked for credit, mention "reported to lawpeeps.ai by a reader" in the article.\n`
-    : '';
+function parseArticles(responseText) {
+  const articles = [];
+  const articleRegex = /---ARTICLE_START---\s*([\s\S]*?)\s*---ARTICLE_END---/g;
+  let match;
 
-  // Build verification context
-  let verificationContext = '';
-  if (verificationDossier) {
-    verificationContext = `\n\nVERIFICATION RESEARCH (conducted before drafting):
-The verification agent searched the web and fetched primary sources for this story. Here is what it found:
+  while ((match = articleRegex.exec(responseText)) !== null) {
+    const content = match[1].trim();
 
-Summary: ${verificationDossier.verificationSummary}
-
-Search results found: ${verificationDossier.searchResultCount}
-${verificationDossier.searchResults.map(r => `- "${r.title}" (${r.url}): ${r.snippet}`).join('\n')}
-
-Fetched source pages (${verificationDossier.fetchedPages.length}):
-${verificationDossier.fetchedPages.map(p => `--- ${p.url} ---\n${p.excerpt}\n---`).join('\n\n')}
-
-Claims flagged for verification:
-${(verificationDossier.keyClaimsToVerify || []).map(c => `- ${c}`).join('\n')}
-
-USE THIS VERIFICATION MATERIAL. Reference the sources you can confirm. State clearly which claims you verified independently and which rely on a single source. If the verification found contradictory information, report that. Your sources array in frontmatter must include the actual URLs you used.\n`;
-  }
-
-  const prompt = `Draft an article for lawpeeps.ai.
-
-Story brief:
-- Title: ${story.title}
-- Category: ${story.category}
-- Staging: ${story.staging} (${story.stagingReason})
-- Pitch: ${story.pitch}
-- Estimated length: ${story.estimatedLength}
-- From tip line: ${story.fromTip ? 'yes' : 'no'}
-${tipNote}
-Source material from the monitoring digest:
-${JSON.stringify(relevantItems, null, 2)}
-${verificationContext}
-Today's date: ${new Date().toISOString().slice(0, 10)}
-
-Instructions:
-1. Write the complete article in markdown with the required frontmatter.
-2. The frontmatter MUST start with --- on the very first line (no code fences, no backticks). The frontmatter MUST include: title, description, publishDate (today), author ("mm!ke"), tags (array), category, staging, sources (array of source descriptions with URLs), and editorNote.
-3. Write in your voice. Warm, direct, slightly dry. UK English throughout.
-4. NO em dashes. NO emojis. NO banned words or phrases.
-5. Every factual claim must reference its source material. Name the source in the body text. State which claims you verified against primary sources and which rely on a single report.
-6. The sources array in frontmatter must list actual URLs where the reader can check your claims.
-7. If verification is incomplete, add a verification status disclosure in italics before the editor's note explaining what was and was not verified. Example: "*Verification status: This article is based on reporting by Legal Futures. mm!ke verified the key claims against the company's own website but could not confirm the funding figure independently.*"
-8. ALWAYS write the article. Never refuse to draft because verification is incomplete. Use the staging classification (AMBER or RED) to flag risk instead.
-9. End with your editor's note.
-10. Keep the slug-friendly: no special characters in the title.
-
-Output the complete markdown file content, starting with the --- frontmatter delimiter. Nothing else before or after the markdown.`;
-
-  return await callClaude(systemPrompt, prompt, 4096);
-}
-
-// ─── Main Pipeline ─────────────────────────────────────────────────
-
-async function run() {
-  console.log('mm!ke editorial agent starting...\n');
-
-  // Load components
-  const systemPrompt = loadSystemPrompt();
-  const digest = loadLatestDigest();
-  const memory = loadMemory();
-
-  if (!digest || digest.items.length === 0) {
-    console.log('No digest available or digest is empty. Nothing to do this cycle.');
-    return { articlesWritten: 0 };
-  }
-
-  console.log(`Digest loaded: ${digest.items.length} items from ${digest.timestamp}`);
-
-  // Step 1: Identify stories
-  console.log('\nStep 1: Identifying stories...');
-  const editorial = await identifyStories(digest, memory, systemPrompt);
-
-  if (!editorial.stories || editorial.stories.length === 0) {
-    console.log('No stories identified this cycle.');
-    if (editorial.editorialNotes) {
-      console.log(`Editorial notes: ${editorial.editorialNotes}`);
-    }
-    return { articlesWritten: 0, editorialNotes: editorial.editorialNotes };
-  }
-
-  console.log(`Stories identified: ${editorial.stories.length}`);
-  for (const story of editorial.stories) {
-    console.log(`  - [${story.staging.toUpperCase()}] ${story.title} (${story.category})`);
-  }
-
-  if (editorial.skipped) {
-    console.log(`Skipped: ${editorial.skipped}`);
-  }
-
-  // Step 2: Verify stories (active web research)
-  const toDraft = editorial.stories.slice(0, 3);
-  console.log(`\nStep 2: Verifying ${toDraft.length} story/stories...`);
-
-  let verificationResults = [];
-  try {
-    verificationResults = await verifyStories(toDraft, digest);
-  } catch (err) {
-    console.warn(`Verification step failed (continuing without): ${err.message}`);
-    // Create empty dossiers so drafting can proceed
-    verificationResults = toDraft.map(s => ({
-      story: s.title,
-      searchResultCount: 0,
-      searchResults: [],
-      fetchedPages: [],
-      keyClaimsToVerify: [],
-      verificationSummary: 'Verification unavailable this cycle. Article must note all claims are unverified beyond the original source.',
-    }));
-  }
-
-  // Step 3: Draft articles with verification data
-  const drafted = [];
-
-  for (let i = 0; i < toDraft.length; i++) {
-    const story = toDraft[i];
-    const dossier = verificationResults[i] || null;
-
-    console.log(`\nStep 3: Drafting "${story.title}"...`);
-
-    try {
-      let markdown = await draftArticle(story, digest, memory, systemPrompt, dossier);
-
-      // Strip markdown code fences if Claude wrapped the output
-      markdown = markdown.replace(/^```(?:yaml|markdown|md)?\s*\n/i, '').replace(/\n```\s*$/, '');
-
-      // Ensure the file starts with frontmatter delimiter
-      if (!markdown.startsWith('---')) {
-        console.warn('  Warning: article did not start with --- frontmatter delimiter');
-      }
-
-      // SAFETY CHECK: reject only outright refusals (not articles with verification caveats)
-      const bodyText = markdown.replace(/^---[\s\S]*?---/, '').trim().toLowerCase();
-      const refusalPatterns = [
-        'i cannot produce this article',
-        'i cannot write this article',
-        'cannot be written',
-      ];
-      // Only reject if the body is very short AND contains a refusal pattern
-      // (a proper article with caveats will be much longer than 500 chars)
-      const isRefusal = bodyText.length < 500 && refusalPatterns.some(p => bodyText.includes(p));
-      if (isRefusal) {
-        console.warn(`  REJECTED: "${story.title}" is a refusal, not an article. Skipping.`);
-        continue;
-      }
-
-      // SAFETY CHECK: extract staging from frontmatter and reconcile with story staging
-      const frontmatterMatch = markdown.match(/^---\n([\s\S]*?)\n---/);
-      if (frontmatterMatch) {
-        const fmStagingMatch = frontmatterMatch[1].match(/^staging:\s*["']?(\w+)["']?/m);
-        if (fmStagingMatch) {
-          const fmStaging = fmStagingMatch[1].toLowerCase();
-          const storyStaging = story.staging.toLowerCase();
-          // If the article's own frontmatter says red but the story plan says green,
-          // the article knows something the plan didn't. Escalate to red.
-          const order = { green: 1, amber: 2, red: 3 };
-          if ((order[fmStaging] || 0) > (order[storyStaging] || 0)) {
-            console.warn(`  ESCALATED: frontmatter staging (${fmStaging}) is higher risk than plan (${storyStaging}). Using ${fmStaging}.`);
-            story.staging = fmStaging;
-            story.stagingReason = `Escalated: article self-classified as ${fmStaging} (plan said ${storyStaging})`;
-          }
+    // Extract frontmatter
+    const fmMatch = content.match(/^---\s*\n([\s\S]*?)\n---/);
+    const meta = {};
+    if (fmMatch) {
+      for (const line of fmMatch[1].split('\n')) {
+        const colonIdx = line.indexOf(':');
+        if (colonIdx > 0) {
+          const key = line.slice(0, colonIdx).trim();
+          const value = line.slice(colonIdx + 1).trim().replace(/^["']|["']$/g, '');
+          meta[key] = value;
         }
       }
+    }
 
-      // Generate slug and filename
-      const slug = slugify(story.title);
-      const filename = `${slug}.md`;
-      const filepath = join(CONTENT_DIR, filename);
+    const body = fmMatch ? content.slice(fmMatch[0].length).trim() : content;
 
-      // Ensure content directory exists
-      mkdirSync(CONTENT_DIR, { recursive: true });
+    // Generate slug from title
+    const slug = (meta.title || 'untitled')
+      .toLowerCase()
+      .replace(/[^a-z0-9]+/g, '-')
+      .replace(/^-|-$/g, '')
+      .slice(0, 80);
 
-      // Write the article
-      writeFileSync(filepath, markdown);
-      console.log(`  Written: src/content/articles/${filename}`);
+    articles.push({ content, body, meta, slug });
+  }
 
-      drafted.push({
-        title: story.title,
-        slug,
-        filename,
-        category: story.category,
-        staging: story.staging,
-        stagingReason: story.stagingReason,
-        draftedAt: new Date().toISOString(),
-      });
+  return articles;
+}
 
-      // Update memory
-      memory.articles.push({
-        title: story.title,
-        slug,
-        category: story.category,
-        staging: story.staging,
-        publishDate: new Date().toISOString().slice(0, 10),
-        sources: story.sourceItems,
-      });
-    } catch (err) {
-      console.error(`  Failed to draft "${story.title}": ${err.message}`);
+// ── Parse reflection from mm!ke's response ──
+
+function parseReflection(responseText) {
+  const reflectionMatch = responseText.match(/---REFLECTION_START---\s*([\s\S]*?)\s*---REFLECTION_END---/);
+  if (!reflectionMatch) return null;
+
+  try {
+    const jsonMatch = reflectionMatch[1].match(/```(?:json)?\s*([\s\S]*?)```/) || [null, reflectionMatch[1]];
+    return JSON.parse(jsonMatch[1].trim());
+  } catch {
+    console.error('[editor] Could not parse reflection JSON');
+    return null;
+  }
+}
+
+// ── Update memory with reflection ──
+
+function updateMemory(reflection, articles) {
+  // Update positions
+  if (reflection) {
+    let positions = existsSync(POSITIONS_PATH)
+      ? JSON.parse(readFileSync(POSITIONS_PATH, 'utf-8'))
+      : { tracked_themes: [], evolving_views: [], open_questions: [] };
+
+    if (reflection.new_open_questions) {
+      positions.open_questions = [
+        ...(positions.open_questions || []),
+        ...reflection.new_open_questions
+      ].slice(-30);
+    }
+
+    if (reflection.theme_updates) {
+      for (const update of reflection.theme_updates) {
+        const existing = positions.tracked_themes?.find(t => t.theme === update.theme);
+        if (existing) {
+          existing.status = update.status || existing.status;
+          existing.last_updated = new Date().toISOString().split('T')[0];
+        } else {
+          if (!positions.tracked_themes) positions.tracked_themes = [];
+          positions.tracked_themes.push({
+            theme: update.theme,
+            status: update.status || 'new',
+            first_tracked: new Date().toISOString().split('T')[0],
+            last_updated: new Date().toISOString().split('T')[0]
+          });
+        }
+      }
+    }
+
+    if (reflection.position_updates) {
+      for (const update of reflection.position_updates) {
+        const existing = positions.evolving_views?.find(v => v.topic === update.topic);
+        if (existing) {
+          existing.previous_view = existing.current_view;
+          existing.current_view = update.view || update.current_view;
+          existing.confidence = update.confidence || existing.confidence;
+          existing.last_updated = new Date().toISOString().split('T')[0];
+        } else {
+          if (!positions.evolving_views) positions.evolving_views = [];
+          positions.evolving_views.push({
+            topic: update.topic,
+            current_view: update.view || update.current_view,
+            confidence: update.confidence || 'low',
+            first_formed: new Date().toISOString().split('T')[0],
+            last_updated: new Date().toISOString().split('T')[0]
+          });
+        }
+      }
+    }
+
+    positions.last_updated = new Date().toISOString();
+    writeFileSync(POSITIONS_PATH, JSON.stringify(positions, null, 2));
+  }
+
+  // Update editorial log
+  let log = existsSync(EDITORIAL_LOG_PATH)
+    ? JSON.parse(readFileSync(EDITORIAL_LOG_PATH, 'utf-8'))
+    : { entries: [] };
+
+  for (const article of articles) {
+    log.entries.push({
+      title: article.meta.title || article.slug,
+      slug: article.slug,
+      category: article.meta.category || 'unknown',
+      staging: article.verificationReport?.recommended_staging || article.meta.staging || 'unclassified',
+      summary: article.meta.description || '',
+      publishDate: new Date().toISOString().split('T')[0],
+      sources: article.meta.sources || '',
+      serves_50_percent: article.meta.serves_50_percent || false
+    });
+  }
+
+  // Cap log at 200 entries
+  if (log.entries.length > 200) {
+    log.entries = log.entries.slice(-200);
+  }
+
+  log.last_updated = new Date().toISOString();
+  writeFileSync(EDITORIAL_LOG_PATH, JSON.stringify(log, null, 2));
+
+  // Update weighting tracker
+  updateWeighting(articles);
+}
+
+// ── Update 50% weighting tracker ──
+
+function updateWeighting(articles) {
+  let tracker = existsSync(WEIGHTING_PATH)
+    ? JSON.parse(readFileSync(WEIGHTING_PATH, 'utf-8'))
+    : { entries: [], underrepresented_percentage: 0 };
+
+  for (const article of articles) {
+    tracker.entries.push({
+      date: new Date().toISOString().split('T')[0],
+      slug: article.slug,
+      serves_underrepresented: article.meta.serves_50_percent || false
+    });
+  }
+
+  // Keep only last 4 weeks
+  const fourWeeksAgo = new Date(Date.now() - 28 * 24 * 60 * 60 * 1000).toISOString().split('T')[0];
+  tracker.entries = tracker.entries.filter(e => e.date >= fourWeeksAgo);
+
+  // Calculate percentage
+  const total = tracker.entries.length;
+  const underrepresented = tracker.entries.filter(e => e.serves_underrepresented).length;
+  tracker.underrepresented_percentage = total > 0 ? Math.round((underrepresented / total) * 100) : 0;
+  tracker.last_updated = new Date().toISOString();
+
+  writeFileSync(WEIGHTING_PATH, JSON.stringify(tracker, null, 2));
+}
+
+// ── Git operations for staging ──
+
+function createStagingPR(article, verificationReport) {
+  const staging = verificationReport?.recommended_staging || article.meta.staging || 'amber';
+  const slug = article.slug;
+  const branch = `mmike/${slug}`;
+  const filePath = `src/content/articles/${slug}.md`;
+
+  try {
+    // Create branch
+    execSync(`git checkout -b ${branch}`, { cwd: join(__dirname, '..'), stdio: 'pipe' });
+
+    // Write article file
+    const articlePath = join(ARTICLES_DIR, `${slug}.md`);
+    writeFileSync(articlePath, article.content);
+
+    // Stage and commit
+    execSync(`git add "${filePath}"`, { cwd: join(__dirname, '..'), stdio: 'pipe' });
+
+    const commitMsg = `[${staging.toUpperCase()}] ${article.meta.title || slug}
+
+Editorial cycle: ${new Date().toISOString()}
+Staging: ${staging}
+Verification: ${verificationReport ? 'completed' : 'pending'}
+Claims verified: ${verificationReport?.overall_assessment?.verified || 'n/a'}
+Claims unverified: ${verificationReport?.overall_assessment?.unverified || 'n/a'}`;
+
+    execSync(`git commit -m "${commitMsg.replace(/"/g, '\\"')}"`, { cwd: join(__dirname, '..'), stdio: 'pipe' });
+
+    // Push branch
+    execSync(`git push origin ${branch}`, { cwd: join(__dirname, '..'), stdio: 'pipe' });
+
+    // Create PR
+    const labels = `staging-${staging}`;
+    const prTitle = `[${staging.toUpperCase()}] ${article.meta.title || slug}`;
+
+    let prBody = `## Editorial cycle output\n\n`;
+    prBody += `**Staging classification**: ${staging.toUpperCase()}\n`;
+    prBody += `**Category**: ${article.meta.category || 'unclassified'}\n\n`;
+
+    if (verificationReport) {
+      prBody += `### Verification report\n\n`;
+      prBody += `- Claims extracted: ${verificationReport.claims_extracted || 0}\n`;
+      const assessment = verificationReport.overall_assessment || {};
+      prBody += `- Verified: ${assessment.verified || 0}\n`;
+      prBody += `- Partially verified: ${assessment.partially_verified || 0}\n`;
+      prBody += `- Unverified: ${assessment.unverified || 0}\n`;
+      prBody += `- Contradicted: ${assessment.contradicted || 0}\n`;
+      prBody += `- Staging rationale: ${verificationReport.staging_rationale || 'See report'}\n\n`;
+
+      if (verificationReport.disclosure_text) {
+        prBody += `### Disclosures to include\n\n${verificationReport.disclosure_text}\n\n`;
+      }
+    }
+
+    prBody += `### mm!ke's editorial notes\n\n${article.meta.editorNote || 'No notes.'}\n`;
+
+    execSync(
+      `gh pr create --title "${prTitle.replace(/"/g, '\\"')}" --body "${prBody.replace(/"/g, '\\"')}" --label "${labels}"`,
+      { cwd: join(__dirname, '..'), stdio: 'pipe' }
+    );
+
+    // Return to main branch
+    execSync('git checkout main', { cwd: join(__dirname, '..'), stdio: 'pipe' });
+
+    console.log(`[editor] PR created: ${prTitle} [${staging.toUpperCase()}]`);
+    return { success: true, branch, staging };
+
+  } catch (err) {
+    console.error(`[editor] Failed to create PR for ${slug}:`, err.message);
+    // Try to return to main
+    try { execSync('git checkout main', { cwd: join(__dirname, '..'), stdio: 'pipe' }); } catch {}
+    return { success: false, error: err.message };
+  }
+}
+
+// ── Main editorial cycle ──
+
+async function runEditorialCycle() {
+  const cycleStart = new Date().toISOString();
+  console.log(`\n${'='.repeat(60)}`);
+  console.log(`[editor] EDITORIAL CYCLE STARTING: ${cycleStart}`);
+  console.log(`${'='.repeat(60)}\n`);
+
+  // Phase 1: Monitor
+  console.log('\n--- PHASE 1: MONITORING ---\n');
+  const digest = await runMonitor();
+
+  // Phase 2: Discover
+  console.log('\n--- PHASE 2: DISCOVERY ---\n');
+  const discovery = await runDiscovery();
+
+  // Phase 3: Research
+  console.log('\n--- PHASE 3: RESEARCH ---\n');
+  const research = await runResearch();
+
+  // Check if we have anything to write about
+  const coverCandidates = (research.researched_candidates || [])
+    .filter(r => r.editorial_recommendation === 'cover');
+
+  if (coverCandidates.length === 0) {
+    console.log('\n[editor] No stories recommended for coverage this cycle.');
+    console.log('[editor] This is normal. Not every cycle produces publishable content.');
+
+    // Still run reflection to update memory
+    await runReflectionOnly(digest, discovery, research);
+    return;
+  }
+
+  // Phase 4: Write
+  console.log(`\n--- PHASE 4: WRITING (${coverCandidates.length} stories) ---\n`);
+  const systemPrompt = loadSystemPrompt();
+  const memory = loadMemoryContext();
+  const writingPrompt = buildWritingPrompt(research, memory);
+
+  const writeResponse = await client.messages.create({
+    model: 'claude-sonnet-4-20250514',
+    max_tokens: 16000,
+    system: systemPrompt,
+    messages: [{ role: 'user', content: writingPrompt }]
+  });
+
+  let writeText = '';
+  for (const block of writeResponse.content) {
+    if (block.type === 'text') writeText += block.text;
+  }
+
+  const articles = parseArticles(writeText);
+  const reflection = parseReflection(writeText);
+
+  if (articles.length === 0) {
+    console.log('[editor] No articles parsed from writing output. Check response format.');
+    return;
+  }
+
+  console.log(`[editor] Drafted ${articles.length} article(s)`);
+
+  // Phase 5: Verify each article
+  console.log('\n--- PHASE 5: VERIFICATION ---\n');
+  for (const article of articles) {
+    const report = await verifyArticle(article.body, article.meta);
+    article.verificationReport = report;
+
+    // Override staging with verification recommendation if more conservative
+    const stagingOrder = { green: 0, amber: 1, red: 2 };
+    const verifiedStaging = report.recommended_staging || 'amber';
+    const draftStaging = article.meta.staging || 'amber';
+
+    if ((stagingOrder[verifiedStaging] || 0) > (stagingOrder[draftStaging] || 0)) {
+      console.log(`[editor] Verification escalated staging: ${draftStaging} -> ${verifiedStaging}`);
+      article.meta.staging = verifiedStaging;
+    }
+
+    // Inject disclosure text into article if needed
+    if (report.disclosure_text) {
+      const disclosureLine = `\n\n*Verification note: ${report.disclosure_text}*\n`;
+      // Insert before editor's note if present, otherwise append
+      if (article.content.includes("mm!ke's note:") || article.content.includes("*mm!ke's note")) {
+        article.content = article.content.replace(
+          /(\*mm!ke's note)/,
+          `${disclosureLine}\n$1`
+        );
+      } else {
+        article.content += disclosureLine;
+      }
     }
   }
 
-  // Save updated memory
-  if (editorial.editorialNotes) {
-    memory.lastEditorialNotes = editorial.editorialNotes;
-    memory.lastEditorialNotesDate = new Date().toISOString();
+  // Phase 6: Stage (create PRs)
+  console.log('\n--- PHASE 6: STAGING ---\n');
+  for (const article of articles) {
+    const result = createStagingPR(article, article.verificationReport);
+    if (result.success) {
+      console.log(`[editor] Staged: ${article.slug} [${result.staging.toUpperCase()}]`);
+    }
   }
-  saveMemory(memory);
 
-  console.log(`\nEditorial cycle complete. Articles drafted: ${drafted.length}`);
+  // Phase 7: Reflect and update memory
+  console.log('\n--- PHASE 7: REFLECTION ---\n');
+  updateMemory(reflection, articles);
 
-  // Write a summary for the GitHub Action to use
-  const summary = {
-    timestamp: new Date().toISOString(),
-    digestTimestamp: digest.timestamp,
-    storiesIdentified: editorial.stories.length,
-    articlesDrafted: drafted.length,
-    articles: drafted,
-    editorialNotes: editorial.editorialNotes,
-  };
+  // Commit memory updates
+  try {
+    execSync('git add agents/memory/', { cwd: join(__dirname, '..'), stdio: 'pipe' });
+    execSync('git add agents/sources.json', { cwd: join(__dirname, '..'), stdio: 'pipe' });
+    execSync(`git commit -m "mm!ke: memory update ${new Date().toISOString().split('T')[0]}"`, { cwd: join(__dirname, '..'), stdio: 'pipe' });
+    execSync('git push origin main', { cwd: join(__dirname, '..'), stdio: 'pipe' });
+  } catch {
+    console.log('[editor] No memory changes to commit, or push failed');
+  }
 
-  writeFileSync(join(__dirname, 'last-run.json'), JSON.stringify(summary, null, 2));
-
-  return summary;
+  const cycleEnd = new Date().toISOString();
+  console.log(`\n${'='.repeat(60)}`);
+  console.log(`[editor] EDITORIAL CYCLE COMPLETE: ${cycleEnd}`);
+  console.log(`[editor] Articles drafted: ${articles.length}`);
+  console.log(`[editor] PRs created: ${articles.filter(a => a.verificationReport).length}`);
+  console.log(`${'='.repeat(60)}\n`);
 }
 
-// Run
-run()
-  .then(result => {
-    console.log('\nResult:', JSON.stringify(result, null, 2));
-  })
-  .catch(err => {
-    console.error('Editorial agent failed:', err);
+// ── Reflection-only cycle (when no stories to write) ──
+
+async function runReflectionOnly(digest, discovery, research) {
+  console.log('\n--- REFLECTION (no-output cycle) ---\n');
+
+  const memory = loadMemoryContext();
+  const systemPrompt = loadSystemPrompt();
+
+  const reflectionPrompt = `This editorial cycle produced no stories worth covering. That is fine. But I still want to reflect on what I observed.
+
+## Monitoring digest
+${digest.item_count} items scanned from ${digest.sources_checked} sources.
+Top items: ${(digest.items || []).slice(0, 5).map(i => i.title).join('; ')}
+
+## Discovery results
+${(discovery.discoveries || []).length} items found via web search.
+${(discovery.coverage_gaps_identified || []).length > 0 ? 'Coverage gaps identified: ' + discovery.coverage_gaps_identified.join('; ') : 'No specific coverage gaps flagged.'}
+
+## Research recommendations
+${(research.researched_candidates || []).length} candidates researched.
+${(research.researched_candidates || []).map(r => `- ${r.original_title}: ${r.editorial_recommendation} (${r.recommendation_rationale})`).join('\n')}
+
+## Your task
+
+Reflect on this cycle. Update your positions, tracked themes, and open questions. Even when there is nothing to publish, you should be learning and evolving your understanding of the legal AI space.
+
+Output:
+---REFLECTION_START---
+{
+  "position_updates": [],
+  "new_open_questions": [],
+  "theme_updates": [],
+  "weighting_impact": "no articles this cycle",
+  "editorial_notes": "your notes about what you observed and what to watch for next cycle"
+}
+---REFLECTION_END---`;
+
+  const response = await client.messages.create({
+    model: 'claude-sonnet-4-20250514',
+    max_tokens: 4000,
+    system: systemPrompt,
+    messages: [{ role: 'user', content: reflectionPrompt }]
+  });
+
+  let responseText = '';
+  for (const block of response.content) {
+    if (block.type === 'text') responseText += block.text;
+  }
+
+  const reflection = parseReflection(responseText);
+  if (reflection) {
+    updateMemory(reflection, []);
+    console.log('[editor] Memory updated from reflection');
+  }
+}
+
+export { runEditorialCycle };
+
+if (process.argv[1] && process.argv[1].endsWith('editor.mjs')) {
+  runEditorialCycle().catch(err => {
+    console.error('[editor] Fatal error:', err);
     process.exit(1);
   });
+}
