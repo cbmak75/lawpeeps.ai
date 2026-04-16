@@ -247,8 +247,10 @@ Instructions:
 4. NO em dashes. NO emojis. NO banned words or phrases.
 5. Every factual claim must reference its source material. Name the source in the body text. State which claims you verified against primary sources and which rely on a single report.
 6. The sources array in frontmatter must list actual URLs where the reader can check your claims.
-7. End with your editor's note.
-8. Keep the slug-friendly: no special characters in the title.
+7. If verification is incomplete, add a verification status disclosure in italics before the editor's note explaining what was and was not verified. Example: "*Verification status: This article is based on reporting by Legal Futures. mm!ke verified the key claims against the company's own website but could not confirm the funding figure independently.*"
+8. ALWAYS write the article. Never refuse to draft because verification is incomplete. Use the staging classification (AMBER or RED) to flag risk instead.
+9. End with your editor's note.
+10. Keep the slug-friendly: no special characters in the title.
 
 Output the complete markdown file content, starting with the --- frontmatter delimiter. Nothing else before or after the markdown.`;
 
@@ -333,18 +335,16 @@ async function run() {
         console.warn('  Warning: article did not start with --- frontmatter delimiter');
       }
 
-      // SAFETY CHECK: reject non-articles (explanations of why a story can't be written)
+      // SAFETY CHECK: reject only outright refusals (not articles with verification caveats)
       const bodyText = markdown.replace(/^---[\s\S]*?---/, '').trim().toLowerCase();
       const refusalPatterns = [
         'i cannot produce this article',
         'i cannot write this article',
         'cannot be written',
-        'i would need:',
-        'without verifiable sources',
-        'without source material',
-        'no source material provided',
       ];
-      const isRefusal = refusalPatterns.some(p => bodyText.includes(p));
+      // Only reject if the body is very short AND contains a refusal pattern
+      // (a proper article with caveats will be much longer than 500 chars)
+      const isRefusal = bodyText.length < 500 && refusalPatterns.some(p => bodyText.includes(p));
       if (isRefusal) {
         console.warn(`  REJECTED: "${story.title}" is a refusal, not an article. Skipping.`);
         continue;
