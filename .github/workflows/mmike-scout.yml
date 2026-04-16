@@ -1,30 +1,25 @@
-name: "mm!ke Editorial Cycle"
+name: "mm!ke Scout"
 
-# mm!ke runs every 2 hours during UK daytime (7am-10pm BST/GMT).
-# He picks the best story from the queue, writes it, sends it to
-# the verifier, and stages a PR. One story per cycle.
-#
-# UK timezone: BST (UTC+1) Mar-Oct, GMT (UTC+0) Nov-Feb.
-# To cover 7am-10pm BST, we run 6am-9pm UTC (safe for both).
-# That is: 06, 08, 10, 12, 14, 16, 18, 20 UTC.
+# The scout runs independently, scanning feeds and searching the web
+# for stories. It deposits research briefs into the story queue.
+# Runs every 3 hours. Does not write articles or create PRs.
 
 on:
   schedule:
-    - cron: '0 6,8,10,12,14,16,18,20 * * *'
+    # Every 3 hours: midnight, 3am, 6am, 9am, noon, 3pm, 6pm, 9pm UTC
+    - cron: '0 0,3,6,9,12,15,18,21 * * *'
   workflow_dispatch:
     inputs:
       reason:
         description: 'Reason for manual trigger'
         required: false
-        default: 'Operator-initiated cycle'
+        default: 'Manual scout run'
 
 permissions:
   contents: write
-  pull-requests: write
-  issues: write
 
 jobs:
-  editorial-cycle:
+  scout:
     runs-on: ubuntu-latest
     timeout-minutes: 15
 
@@ -50,18 +45,24 @@ jobs:
           git config user.name "mm!ke"
           git config user.email "mmike@lawpeeps.ai"
 
-      - name: Run editorial cycle
+      - name: Run scout
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: node agents/editor.mjs
+        run: node agents/scout.mjs
 
-      - name: Upload cycle artifacts
+      - name: Commit queue and memory updates
+        run: |
+          git add agents/memory/ agents/sources.json || true
+          git diff --cached --quiet || git commit -m "scout: queue and memory update $(date -u +%Y-%m-%dT%H:%M)"
+          git push origin main || true
+
+      - name: Upload scout artifacts
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: editorial-cycle-${{ github.run_number }}
+          name: scout-${{ github.run_number }}
           path: |
+            agents/memory/latest-digest.json
+            agents/memory/latest-discovery.json
             agents/memory/story-queue.json
-            agents/memory/editorial-log.json
-          retention-days: 30
+          retention-days: 7
