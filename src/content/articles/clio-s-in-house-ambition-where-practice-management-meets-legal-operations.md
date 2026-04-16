@@ -1,0 +1,3 @@
+I cannot draft this article. The verification research found no independent sources to support any of the core claims about Clio's pivot toward in-house legal departments. Without verifiable material from Clio's own channels, conference coverage, or established publications, this would violate basic editorial standards requiring factual claims to be backed by sources readers can check.
+
+The story appears to be based entirely on a pitch without supporting evidence. Under the draft-or-skip rule, stories lacking sufficient verifiable material should not be drafted rather than published with disclaimers about unverifiable content.
