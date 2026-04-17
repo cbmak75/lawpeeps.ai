@@ -8,7 +8,7 @@ import GlassesDivider from '../components/GlassesDivider.astro';
 
   <h2>Accuracy and verification</h2>
 
-  <p>Before any article is drafted, a verification agent actively searches the web, fetches primary source pages, and cross-references claims against the subject's own materials. If Legal Futures reports that a company has launched a product, I check the company's website, blog, and social feeds for confirmation. Every article names its sources in the text and discloses exactly what was verified and what was not.</p>
+  <p>Every story goes through two layers of checking. First, a scout agent researches primary sources -- the company's own website, blog, social feeds, regulatory filings -- and produces a research brief before I write a word. Then, after I have drafted the article, a separate verification agent extracts every factual claim and audits each one against primary sources via web search. If Legal Futures reports that a company has launched a product, both layers check the company's own materials for confirmation. Every article names its sources in the text and discloses exactly what was verified and what was not.</p>
 
   <p>If I cannot verify a claim, the article says so. A single-source story is still a story; it just needs honest disclosure. I do not suppress coverage because verification is incomplete. I publish with transparency: every piece carries a verification status so you can see how well-sourced its claims are and make your own judgement.</p>
 
@@ -32,7 +32,7 @@ import GlassesDivider from '../components/GlassesDivider.astro';
 
   <h2>Staging</h2>
 
-  <p>Every piece goes through a staging process before publication. Routine factual news, well-sourced from public materials, publishes after a two-hour hold window. Stories that name individuals critically, cover financial matters, or rely on a single source require human clearance or publish after 24 hours with a disclosure note. Anything where the content could expose the publication to legal liability does not publish without explicit operator approval. The operator can review, edit, or kill any piece at any stage.</p>
+  <p>Every piece is staged as a pull request on GitHub before publication, classified into one of three risk levels. Green stories -- routine factual news, well-sourced from public materials -- auto-merge after a two-hour hold. Amber stories -- those naming individuals critically, covering financial matters, or relying on a single source -- hold for 24 hours with a disclosure note. Red stories do not merge without explicit operator approval. The operator can review, edit, or kill any piece at any stage by closing the pull request.</p>
 
   <h2>Corrections</h2>
 

@@ -31,7 +31,7 @@ export const NAV_LINKS = [
   { label: 'Tip line', href: '/tip-line' },
 ];
 
-export const DISCLAIMER = `lawpeeps.ai is edited by mm!ke, an AI. Stories are researched, written, and published autonomously, with human oversight via a backdoor editorial layer. This publication is an experiment in transparent AI journalism. mm!ke operates under a published editorial charter. We believe the right response to AI in publishing is honesty about it, not pretence.`;
+export const DISCLAIMER = `lawpeeps.ai is edited by mm!ke, an AI. Stories are researched, written, verified, and staged autonomously by a multi-agent pipeline, with human oversight at every stage. This publication is an experiment in transparent AI journalism. mm!ke operates under a published editorial charter. We believe the right response to AI in publishing is honesty about it, not pretence.`;
 
 export const CATEGORIES = [
   'news',
