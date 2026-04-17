@@ -443,9 +443,10 @@
       "tip_origin": false,
       "tip_credit": "",
       "queued_at": "2026-04-16T21:54:03.284Z",
-      "status": "pending",
-      "claimed_by": null,
-      "claimed_at": null
+      "status": "published",
+      "claimed_by": "mmike",
+      "claimed_at": "2026-04-17T07:25:48.465Z",
+      "published_at": "2026-04-17T07:26:56.531Z"
     },
     {
       "title": "ClearyX Launches CX+ AI Platform for Contract Intelligence and Due Diligence",
@@ -681,5 +682,5 @@
       "claimed_at": null
     }
   ],
-  "last_updated": "2026-04-17T03:33:37.454Z"
+  "last_updated": "2026-04-17T07:26:56.531Z"
 }
