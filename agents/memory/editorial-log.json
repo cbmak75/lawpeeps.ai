@@ -103,8 +103,19 @@
       "sources": "[",
       "serves_50_percent": false,
       "fingerprint": null
+    },
+    {
+      "title": "Clio Launches Vincent by Clio Mobile App",
+      "slug": "clio-launches-vincent-by-clio-mobile-app",
+      "category": "Legal AI",
+      "staging": "amber",
+      "summary": "Clio's Vincent AI mobile app connects legal analysis directly to case files, potentially shifting how lawyers work outside the office",
+      "publishDate": "2026-04-17",
+      "sources": "",
+      "serves_50_percent": false,
+      "fingerprint": null
     }
   ],
-  "last_updated": "2026-04-17T14:53:42.817Z",
+  "last_updated": "2026-04-17T16:53:17.342Z",
   "note": "Populated automatically by the editorial cycle. Each entry records a story drafted, published, or killed."
 }

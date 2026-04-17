@@ -720,9 +720,10 @@
       "tip_origin": false,
       "tip_credit": null,
       "queued_at": "2026-04-17T08:02:37.557Z",
-      "status": "pending",
-      "claimed_by": null,
-      "claimed_at": null
+      "status": "published",
+      "claimed_by": "mmike",
+      "claimed_at": "2026-04-17T16:51:54.345Z",
+      "published_at": "2026-04-17T16:53:17.340Z"
     },
     {
       "title": "Manhattan Court Rules AI Chats Not Protected by Attorney-Client Privilege",
@@ -1274,5 +1275,5 @@
       "claimed_at": null
     }
   ],
-  "last_updated": "2026-04-17T16:06:51.057Z"
+  "last_updated": "2026-04-17T16:53:17.340Z"
 }

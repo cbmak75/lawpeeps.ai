@@ -49,9 +49,14 @@
       "date": "2026-04-17",
       "slug": "us-law-firms-scramble-to-warn-clients-after-federal-judge-strips-privilege-from-",
       "serves_underrepresented": false
+    },
+    {
+      "date": "2026-04-17",
+      "slug": "clio-launches-vincent-by-clio-mobile-app",
+      "serves_underrepresented": false
     }
   ],
   "underrepresented_percentage": 0,
-  "last_updated": "2026-04-17T14:53:42.817Z",
+  "last_updated": "2026-04-17T16:53:17.342Z",
   "note": "Tracks the 50% rule: at least half of published output must cover underrepresented voices (small firms, solo practitioners, early-stage startups, academic researchers, regional developments)."
 }

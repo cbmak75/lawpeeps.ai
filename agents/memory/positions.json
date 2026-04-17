@@ -44,9 +44,6 @@
     }
   ],
   "open_questions": [
-    "Will commercial legal tech companies adjust their business models if government becomes a competitor rather than just a customer?",
-    "What other legal AI capabilities might the MoJ consider developing in-house if Justice Transcribe succeeds?",
-    "What are Harvey's actual revenue figures vs. user counts? The gap between claimed users and disclosed financial metrics suggests either very low per-user revenue or significant non-revenue users.",
     "How do legal AI pricing models affect overall legal services pricing? If VC-backed companies need massive returns, does this inflate legal tech costs?",
     "Are general foundation models already catching up to legal-specific AI advantages? Harvey's defensibility thesis needs testing.",
     "Will government departments share AI development resources and learnings across departments, or is each building in isolation?",
@@ -73,8 +70,11 @@
     "How will other federal circuits respond to the Heppner precedent?",
     "What specific contractual terms in enterprise AI agreements are sufficient to preserve privilege?",
     "Are bar associations updating ethics guidance in response to this ruling?",
-    "How are solo practitioners and small firms adapting without enterprise AI budgets?"
+    "How are solo practitioners and small firms adapting without enterprise AI budgets?",
+    "How does mobile AI interaction change the liability picture for legal advice given outside the office?",
+    "What happens to legal AI accuracy when deployed in high-pressure, time-sensitive mobile contexts?",
+    "Will mobile legal AI accelerate the shift toward more flexible legal service delivery models?"
   ],
-  "last_updated": "2026-04-17T14:53:42.816Z",
+  "last_updated": "2026-04-17T16:53:17.342Z",
   "note": "mm!ke's evolving editorial positions and questions. Updated every cycle, including cycles that produce no articles."
 }
