@@ -24,9 +24,14 @@
       "date": "2026-04-17",
       "slug": "national-today-coverage",
       "serves_underrepresented": false
+    },
+    {
+      "date": "2026-04-17",
+      "slug": "law-firm-warnings-on-ai-chat-risks",
+      "serves_underrepresented": false
     }
   ],
   "underrepresented_percentage": 0,
-  "last_updated": "2026-04-17T07:26:56.533Z",
+  "last_updated": "2026-04-17T09:13:42.820Z",
   "note": "Tracks the 50% rule: at least half of published output must cover underrepresented voices (small firms, solo practitioners, early-stage startups, academic researchers, regional developments)."
 }
