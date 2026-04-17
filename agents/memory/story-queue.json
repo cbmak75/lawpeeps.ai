@@ -983,7 +983,182 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "Anthropic’s Legal Plugin for Claude Cowork May Be the Opening Salvo In A Competition Between Foundation Models and Legal Tech Incumbents",
+      "slug": "anthropic-s-legal-plugin-for-claude-cowork-may-be-the-opening-salvo-in-a-competi",
+      "score": 8,
+      "category": "Legal AI",
+      "story_type": "news",
+      "research_brief": "To read today&#8217;s news, you&#8217;d think it was the shot heard &#8217;round the world — or around the legal tech world, at least. &#8220;Legal software companies have suffered sharp declines in their share prices,&#8221; reports The Guardian. &#8220;Anthropic&#8217;s Move Into Legal, Data Services Sinks Software Stocks,&#8221; says Bloomberg. &#8220;A selloff in &#8230; stocks deepened on [&#8230;]",
+      "primary_source": "https://www.lawnext.com/2026/02/anthropics-legal-plugin-for-claude-cowork-may-be-the-opening-salvo-in-a-competition-between-foundation-models-and-legal-tech-incumbents.html",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "Anthropic's Claude legal plugin threatens incumbent legal software vendors",
+      "why_now": "Watch-list company (Anthropic) entering legal market directly; aligns with open editorial thread on vendor response; primary source analysis from critical LawSites",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "LawSites (Bob Ambrogi)",
+      "source_tier": "B",
+      "prefilter_score": 14,
+      "matched_terms": [
+        "Claude",
+        "legal tech",
+        "Anthropic"
+      ],
+      "fingerprint": {
+        "entities": [
+          "anthropic"
+        ],
+        "numerics": [
+          "8k"
+        ],
+        "keywords": [
+          "claude",
+          "legal tech"
+        ],
+        "title_tokens": [
+          "anthropic",
+          "legal",
+          "plugin",
+          "claude",
+          "cowork",
+          "opening",
+          "salvo",
+          "competition",
+          "between",
+          "foundation",
+          "models",
+          "tech",
+          "incumbents"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-04-17T13:49:07.968Z",
+      "queued_at": "2026-04-17T13:49:07.974Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
+    },
+    {
+      "title": "Alexi Fires Back at Fastcase Lawsuit with Counterclaims Alleging Anticompetitive Conduct Following Clio&#8217;s $1B Acquisition",
+      "slug": "alexi-fires-back-at-fastcase-lawsuit-with-counterclaims-alleging-anticompetitive",
+      "score": 8,
+      "category": "Legal Tech",
+      "story_type": "news",
+      "research_brief": "Alexi Technologies has filed its answer and counterclaim against Fastcase, vLex, and Clio, accusing the newly merged legal technology giant of manufacturing breach-of-contract allegations as a pretext to eliminate a competitor in the AI legal research market. In December, Fastcase, now owned by Clio, sued Alexi in the U.S. District Court for the District of Columbia, [&#8230;]",
+      "primary_source": "https://www.lawnext.com/2026/01/alexi-fires-back-at-fastcase-lawsuit-with-counterclaims-alleging-anticompetitive-conduct-following-clios-1b-acquisition.html",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "Alexi countersues Clio/vLex for anticompetitive conduct following $1B acquisition",
+      "why_now": "Watch-list company (vLex/Clio) involved; major market consolidation story; aligns with editorial thread on vendor consolidation and market concentration concerns",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "LawSites (Bob Ambrogi)",
+      "source_tier": "B",
+      "prefilter_score": 11,
+      "matched_terms": [
+        "legal tech",
+        "Clio",
+        "vLex"
+      ],
+      "fingerprint": {
+        "entities": [
+          "clio",
+          "vlex"
+        ],
+        "numerics": [
+          "8k",
+          "1bn"
+        ],
+        "keywords": [
+          "legal tech"
+        ],
+        "title_tokens": [
+          "alexi",
+          "fires",
+          "back",
+          "fastcase",
+          "lawsuit",
+          "counterclaims",
+          "alleging",
+          "anticompetitive",
+          "conduct",
+          "following",
+          "clio",
+          "acquisition"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-04-17T13:49:07.977Z",
+      "queued_at": "2026-04-17T13:49:07.982Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
+    },
+    {
+      "title": "Juro Goes Direct to ChatGPT For Contract AI - Artificial Lawyer",
+      "slug": "juro-goes-direct-to-chatgpt-for-contract-ai-artificial-lawyer",
+      "score": 7,
+      "category": "Legal AI",
+      "story_type": "news",
+      "research_brief": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQWTB4VVlWclpYMExWSFdxaWpHaXdNYXQ3UnQyWGJKemgtOGtoanNPVWZrVHRuVWdma00xUnhaTlF5TXl4SjQycDFLZjNwb0xMTHljWm9Lc3I4V0NvTnY2RXVFeGJfUHV3MzhTNnJPeGdEdmNqcUQza0ZpU3hmUFBHc3ZqUEF2dUNnVW8yN2NETHBMZw?oc=5\" target=\"_blank\"&gt;Juro Goes Direct to ChatGPT For Contract AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
+      "primary_source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWTB4VVlWclpYMExWSFdxaWpHaXdNYXQ3UnQyWGJKemgtOGtoanNPVWZrVHRuVWdma00xUnhaTlF5TXl4SjQycDFLZjNwb0xMTHljWm9Lc3I4V0NvTnY2RXVFeGJfUHV3MzhTNnJPeGdEdmNqcUQza0ZpU3hmUFBHc3ZqUEF2dUNnVW8yN2NETHBMZw?oc=5",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "Juro integrates ChatGPT natively into contract AI platform",
+      "why_now": "Watch-list company (Juro) moving on foundation model integration; signals shift in contract AI architecture",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Google News: contract AI",
+      "source_tier": "A",
+      "prefilter_score": 14,
+      "matched_terms": [
+        "GPT",
+        "contract AI",
+        "Juro"
+      ],
+      "fingerprint": {
+        "entities": [
+          "juro"
+        ],
+        "numerics": [
+          "3m"
+        ],
+        "keywords": [
+          "gpt",
+          "contract ai"
+        ],
+        "title_tokens": [
+          "juro",
+          "goes",
+          "direct",
+          "chatgpt",
+          "contract",
+          "ai",
+          "artificial",
+          "lawyer"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-04-17T13:49:07.983Z",
+      "queued_at": "2026-04-17T13:49:07.988Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-04-17T13:09:53.709Z"
+  "last_updated": "2026-04-17T13:49:07.988Z"
 }
