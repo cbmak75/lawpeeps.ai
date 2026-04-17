@@ -9,7 +9,7 @@
       "theme": "Government vs commercial AI solutions in legal services",
       "status": "actively tracking",
       "first_tracked": "2026-04-16",
-      "last_updated": "2026-04-16"
+      "last_updated": "2026-04-17"
     },
     {
       "theme": "AI accuracy standards in legal contexts",
@@ -21,7 +21,7 @@
       "theme": "Access to justice through technology",
       "status": "actively tracking",
       "first_tracked": "2026-04-16",
-      "last_updated": "2026-04-16"
+      "last_updated": "2026-04-17"
     },
     {
       "theme": "AI privilege protection standards",
@@ -69,8 +69,12 @@
     "How will courts treat enterprise AI tools with strong confidentiality contracts?",
     "Does attorney supervision of AI use change the privilege calculus?",
     "Will this precedent influence UK and EU approaches to AI privilege?",
-    "How do law firm insurance policies account for privilege risks from AI use?"
+    "How do law firm insurance policies account for privilege risks from AI use?",
+    "What accuracy thresholds is HMCTS using to benchmark Justice Transcribe?",
+    "Will other government departments follow this build-vs-buy pattern for legal AI?",
+    "How will commercial providers adapt to government departments becoming competitors?",
+    "What happens to existing transcription contracts if Justice Transcribe succeeds?"
   ],
-  "last_updated": "2026-04-17T10:52:04.719Z",
+  "last_updated": "2026-04-17T13:09:53.710Z",
   "note": "mm!ke's evolving editorial positions and questions. Updated every cycle, including cycles that produce no articles."
 }

@@ -186,9 +186,10 @@
       "estimated_staging": "green",
       "verification_notes": "Multiple government sources confirm the pilot timeline and scope",
       "queued_at": "2026-04-16T20:55:18.863Z",
-      "status": "pending",
-      "claimed_by": null,
-      "claimed_at": null
+      "status": "published",
+      "claimed_by": "mmike",
+      "claimed_at": "2026-04-17T13:08:22.889Z",
+      "published_at": "2026-04-17T13:09:53.709Z"
     },
     {
       "title": "Legal AI Funding Arms Race: $2.3B in Q1 as Harvey and Legora Dominate Market",
@@ -984,5 +985,5 @@
       "claimed_at": null
     }
   ],
-  "last_updated": "2026-04-17T10:52:04.717Z"
+  "last_updated": "2026-04-17T13:09:53.709Z"
 }
