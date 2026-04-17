@@ -46,6 +46,18 @@ function loadScoutContext() {
       .join('\n');
   }
 
+  // Also load story queue so scout knows what's already been filed
+  const QUEUE_PATH = join(MEMORY_DIR, '..', 'memory', 'story-queue.json');
+  const queuePath = join(MEMORY_DIR, 'story-queue.json');
+  if (existsSync(queuePath)) {
+    const q = JSON.parse(readFileSync(queuePath, 'utf-8'));
+    const queuedTitles = (q.stories || [])
+      .filter(s => s.status !== 'killed')
+      .map(s => `- ${s.title} [${s.status}]`)
+      .join('\n');
+    ctx.recentCoverage = (ctx.recentCoverage || '') + '\n\nAlready in the story queue:\n' + queuedTitles;
+  }
+
   if (existsSync(POSITIONS_PATH)) {
     const p = JSON.parse(readFileSync(POSITIONS_PATH, 'utf-8'));
     ctx.openQuestions = (p.open_questions || []).map(q => `- ${q}`).join('\n');
@@ -94,7 +106,9 @@ The monitoring agent scanned ${digest.sources_checked || 0} feeds and found ${di
 
 ${digestSummary || 'No items from feeds this cycle.'}
 
-## Recent coverage (avoid duplicating)
+## Recent coverage -- DO NOT DUPLICATE
+
+The following stories have already been covered or queued. Do NOT file a brief about the same underlying story, even if you find a different angle or framing. If the core facts (same company, same ruling, same policy announcement, same event) overlap with anything below, SKIP IT. A different headline or angle on the same news is still a duplicate.
 
 ${ctx.recentCoverage || 'No recent coverage recorded.'}
 
