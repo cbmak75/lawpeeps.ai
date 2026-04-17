@@ -94,9 +94,13 @@
         {
           "date": "2026-04-16",
           "content": "Acquired Hexus in January 2026 and reached $190M ARR, serving 100,000+ lawyers across 1,300 organizations"
+        },
+        {
+          "date": "2026-04-17",
+          "content": "Funding information from searches appears outdated (March 2026), but RSS indicates continued growth and client expansion"
         }
       ],
-      "last_updated": "2026-04-16"
+      "last_updated": "2026-04-17"
     },
     "lawfairy": {
       "name": "LawFairy",
@@ -164,9 +168,13 @@
         {
           "date": "2026-04-16",
           "content": "Launched CX+ AI platform for contract intelligence and due diligence on April 15, 2026"
+        },
+        {
+          "date": "2026-04-17",
+          "content": "Launched CX+ contract AI platform on April 15, 2026, claiming 40-60% due diligence savings across 150+ deals"
         }
       ],
-      "last_updated": "2026-04-16"
+      "last_updated": "2026-04-17"
     },
     "united states v. heppner": {
       "name": "United States v. Heppner",
@@ -178,8 +186,19 @@
         }
       ],
       "last_updated": "2026-04-16"
+    },
+    "judge jed s. rakoff": {
+      "name": "Judge Jed S. Rakoff",
+      "first_seen": "2026-04-17",
+      "updates": [
+        {
+          "date": "2026-04-17",
+          "content": "Issued landmark ruling in US v. Heppner that consumer AI chatbot interactions are not protected by attorney-client privilege, sparking widespread law firm warnings to clients"
+        }
+      ],
+      "last_updated": "2026-04-17"
     }
   },
-  "last_updated": "2026-04-16T21:54:03.287Z",
+  "last_updated": "2026-04-17T03:33:37.455Z",
   "note": "mm!ke's accumulated knowledge about companies, people, and developments. Updated by the research agent and editorial cycle."
 }
