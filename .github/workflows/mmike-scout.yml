@@ -1,12 +1,15 @@
 name: "mm!ke Scout"
 
-# The scout runs independently, scanning feeds and searching the web
-# for stories. It deposits research briefs into the story queue.
-# Runs every 3 hours. Does not write articles or create PRs.
+# Pipeline v3: monitor fetches feeds and writes a digest; triage runs
+# a deterministic pre-filter (with topic-fingerprint dedupe) and a
+# cheap Haiku batch pass, then enqueues surviving stories. Only the
+# editorial workflow, running on a separate cron, picks up from the
+# queue and writes articles.
+#
+# Runs every 3 hours.
 
 on:
   schedule:
-    # Every 3 hours: midnight, 3am, 6am, 9am, noon, 3pm, 6pm, 9pm UTC
     - cron: '0 0,3,6,9,12,15,18,21 * * *'
   workflow_dispatch:
     inputs:
@@ -14,6 +17,10 @@ on:
         description: 'Reason for manual trigger'
         required: false
         default: 'Manual scout run'
+      tier:
+        description: 'Source tier filter (A, B, or blank for all)'
+        required: false
+        default: ''
 
 permissions:
   contents: write
@@ -45,14 +52,23 @@ jobs:
           git config user.name "mm!ke"
           git config user.email "mmike@lawpeeps.ai"
 
-      - name: Run scout
+      - name: Run monitor (fetch feeds, write digest)
+        run: node agents/monitor.mjs
+
+      - name: Run triage (pre-filter + Haiku + enqueue)
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: node agents/scout.mjs
+        run: |
+          TIER="${{ github.event.inputs.tier }}"
+          if [ -n "$TIER" ]; then
+            node agents/triage.mjs --tier "$TIER"
+          else
+            node agents/triage.mjs
+          fi
 
       - name: Commit queue and memory updates
         run: |
-          git add agents/memory/ agents/sources.json || true
+          git add agents/memory/ || true
           git diff --cached --quiet || git commit -m "scout: queue and memory update $(date -u +%Y-%m-%dT%H:%M)"
           git push origin main || true
 
@@ -63,6 +79,5 @@ jobs:
           name: scout-${{ github.run_number }}
           path: |
             agents/memory/latest-digest.json
-            agents/memory/latest-discovery.json
             agents/memory/story-queue.json
           retention-days: 7
