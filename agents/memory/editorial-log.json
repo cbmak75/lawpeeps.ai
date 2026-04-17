@@ -44,9 +44,11 @@
       "title": "National Today coverage",
       "slug": "national-today-coverage",
       "category": "regulatory",
-      "staging": "green",
+      "staging": "removed",
       "summary": "Manhattan ruling on Claude conversations sets precedent that has firms scrambling to update client warnings about consumer AI tools",
       "publishDate": "2026-04-17",
+      "removed_at": "2026-04-17",
+      "removed_reason": "duplicate of law-firm-warnings-on-ai-chat-risks (same Heppner ruling, same Manhattan court, published same day under a different category)",
       "sources": "",
       "serves_50_percent": false
     },
