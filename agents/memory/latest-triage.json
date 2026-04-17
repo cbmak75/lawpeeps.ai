@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-17T16:06:51.058Z",
+  "generated": "2026-04-17T19:23:32.769Z",
   "cycle_type": "triage",
   "tier_filter": null,
   "shortlist_size": 9,
@@ -17,26 +17,26 @@
       "id": "lawsites-0",
       "score": 6,
       "category": "Legal Tech",
-      "suggested_angle": "Universal Migrator expands DMS migration capability with new scripts; market consolidation signal",
-      "why_now": "Established legal tech player expanding tool suite, but incremental product news rather than strategic shift",
+      "suggested_angle": "Universal Migrator expands migration script library to cover three new legacy platforms",
+      "why_now": "Incremental product release from established legal tech vendor; tier-B source but narrow audience value",
       "verdict": "watch",
-      "duplicate_of": "lawsites-1"
+      "duplicate_of": null
     },
     {
       "id": "lawsites-1",
-      "score": 5,
+      "score": 4,
       "category": "Legal Tech",
-      "suggested_angle": "Universal Migrator cuts migration tool pricing; commoditization of DMS transitions",
-      "why_now": "Pricing announcement is marketing puff with limited independent news hook",
+      "suggested_angle": "Universal Migrator cuts pricing on migration tools",
+      "why_now": "Pricing announcement is marketing puff with no independent news hook; watch for dedup against lawsites-0 as both are Universal Migrator product moves within weeks",
       "verdict": "drop",
-      "duplicate_of": null
+      "duplicate_of": "lawsites-0"
     },
     {
       "id": "ars-technica-ai-2",
       "score": 2,
       "category": "Research",
-      "suggested_angle": "OpenAI launches domain-tuned LLM for biology; not legal AI",
-      "why_now": "Entirely outside legal AI and legal tech editorial scope; biology domain irrelevant to lawpeeps.ai mandate",
+      "suggested_angle": "OpenAI releases biology-tuned LLM variant",
+      "why_now": "Outside editorial focus (not legal AI, legal tech, or regulation); general AI infrastructure announcement with no legal application angle",
       "verdict": "drop",
       "duplicate_of": null
     },
@@ -44,8 +44,8 @@
       "id": "arxiv-cs-ai-3",
       "score": 2,
       "category": "Research",
-      "suggested_angle": "Academic paper on hallucination evaluation in medical SOAP notes; tangential to legal AI",
-      "why_now": "Healthcare-focused research; weak keyword match (Litera, Eve mentioned only in context filtering, not actually covered)",
+      "suggested_angle": "arXiv paper on LLM hallucination evaluation in medical SOAP notes",
+      "why_now": "Medical/clinical domain; keyword match to Litera and Eve is too loose; no legal angle or named legal AI vendor involvement",
       "verdict": "drop",
       "duplicate_of": null
     },
@@ -53,64 +53,64 @@
       "id": "arxiv-cs-ai-4",
       "score": 1,
       "category": "Research",
-      "suggested_angle": "Hong Kong primary healthcare RAG system; not legal AI",
-      "why_now": "Healthcare application in Hong Kong; no legal AI relevance despite keyword filtering noise",
+      "suggested_angle": "Hong Kong primary healthcare RAG framework paper",
+      "why_now": "Medical/healthcare domain in Hong Kong; no legal AI, legal tech, or regulation angle; keyword match too loose",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
-      "id": "lawsites-5",
-      "score": 7,
-      "category": "Legal AI",
-      "suggested_angle": "Everlaw CEO on e-discovery AI future; insider perspective on AI strategy from major vendor",
-      "why_now": "Primary source interview with founder/CEO of established legal AI player; direct insight into company direction",
-      "verdict": "enqueue",
+      "id": "crunchbase-news-5",
+      "score": 2,
+      "category": "Funding",
+      "suggested_angle": "Weekly funding round roundup; multiple sectors",
+      "why_now": "Generic venture capital aggregation; no watch-list company named; no legal vertical focus",
+      "verdict": "drop",
       "duplicate_of": null
     },
     {
-      "id": "hacker-news-6",
+      "id": "ars-technica-ai-6",
+      "score": 1,
+      "category": "Policy",
+      "suggested_angle": "US data center construction delays impact AI infrastructure",
+      "why_now": "Infrastructure/energy story; no legal AI or legal tech angle; tangential to legal publication scope",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-7",
       "score": 2,
       "category": "Research",
-      "suggested_angle": "AI developer tooling discussion; no legal AI hook visible",
-      "why_now": "Hacker News aggregation with zero context; keyword match appears spurious",
+      "suggested_angle": "arXiv paper on causal ML in clinical decision support systems",
+      "why_now": "Medical/clinical domain; no legal AI, legal tech, or regulation angle; keyword match to Litera and Eve is too loose",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
-      "id": "hacker-news-7",
+      "id": "hacker-news-8",
       "score": 1,
       "category": "Social",
-      "suggested_angle": "Solo developer builds SaaS with agentic AI; not legal tech",
-      "why_now": "Charitable giving platform unrelated to legal AI; keyword filtering false positive",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-8",
-      "score": 1,
-      "category": "Research",
-      "suggested_angle": "Causal ML in clinical decision support; healthcare not legal",
-      "why_now": "Academic research on medical CDSSs; no legal AI application or relevance",
+      "suggested_angle": "HN discussion: user AI exhaust and personal data monetization",
+      "why_now": "Generic tech discussion with no legal AI, legal tech, or regulation focus; no primary source or actionable news",
       "verdict": "drop",
       "duplicate_of": null
     }
   ],
   "summary": {
-    "enqueue_count": 1,
+    "enqueue_count": 0,
     "watch_count": 1,
-    "drop_count": 7,
-    "notes": "Shortlist dominated by keyword-filtered noise (healthcare papers, developer tooling, biology LLMs). Only Everlaw CEO interview meets editorial bar. Universal Migrator items are duplicates of same DMS migration story; neither merits coverage (pricing cut = marketing puff, new scripts = incremental product update)."
+    "drop_count": 8,
+    "notes": "Shortlist heavily skewed toward off-topic medical AI papers, generic tech infrastructure, and venture roundups. Only lawsites-0 (Universal Migrator script release) has legal tech relevance but is incremental vendor news; flagged as watch pending dedup check against lawsites-1. All arXiv papers are medical/clinical domain. No funding rounds at named watch-list companies. No regulatory statements. No immigration AI. No new legal AI coverage."
   },
-  "enqueued": 1,
+  "enqueued": 0,
   "usage": {
-    "input_tokens": 2987,
+    "input_tokens": 2940,
     "cache_creation_input_tokens": 0,
     "cache_read_input_tokens": 0,
     "cache_creation": {
       "ephemeral_5m_input_tokens": 0,
       "ephemeral_1h_input_tokens": 0
     },
-    "output_tokens": 1061,
+    "output_tokens": 1121,
     "service_tier": "standard",
     "inference_geo": "not_available"
   }

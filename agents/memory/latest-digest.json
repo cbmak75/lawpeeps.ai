@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-17T16:06:41.410Z",
+  "generated": "2026-04-17T19:13:14.389Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 1363,
+  "total_scanned": 1362,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -127,6 +127,18 @@
       "relevance_score": 8
     },
     {
+      "title": "Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook partners with CBA; DeepIP raises $25m - Legal IT Insider",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPNVJJREhTZDUwWGlQd3hwTm84Q08xekZJSktTWTJaamNWellIZVhUajRjVFNLMnIwd3dMcGNKMjA3N090TWFBMWdoRWtXQUx0VW1OcGlMc3c2a0lITVpFajVLREdrYlJLME55bGc1RV9zZF9ITjVoUWZYcGp4akZIYlNWNEVpQkdfek1BWWR1bXFXNHowWTlXaUZvZlZuQmV0VXRtTW9rRmYzTUNXVWgxVGcxbnkta0NOdDIzU2VieUpQTnY0SVNBZUwxNXVTZllRWVFHY0M4dDhHcjAzUTI1ZVlKci1ZZ1dXVGlzQXZtSzFNWHhY?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPNVJJREhTZDUwWGlQd3hwTm84Q08xekZJSktTWTJaamNWellIZVhUajRjVFNLMnIwd3dMcGNKMjA3N090TWFBMWdoRWtXQUx0VW1OcGlMc3c2a0lITVpFajVLREdrYlJLME55bGc1RV9zZF9ITjVoUWZYcGp4akZIYlNWNEVpQkdfek1BWWR1bXFXNHowWTlXaUZvZlZuQmV0VXRtTW9rRmYzTUNXVWgxVGcxbnkta0NOdDIzU2VieUpQTnY0SVNBZUwxNXVTZllRWVFHY0M4dDhHcjAzUTI1ZVlKci1ZZ1dXVGlzQXZtSzFNWHhY?oc=5\" target=\"_blank\"&gt;Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook par",
+      "published": "2026-03-04T08:00:00.000Z",
+      "source_id": "google-news-legal-tech-funding",
+      "source_name": "Google News: legal tech funding",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 8
+    },
+    {
       "title": "Why legal tech giant Harvey is raising cash like OpenAI - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaDhOaTN1RzVmZmxWa1U2TTZyTW9ucXRjZjU2RHUzT0RoMTJQb1BvZ1hpbUgwTUFZS3U5UHV1R21abHdrRDR3cFlWTC1SY3J2WUN1YWlwSlY0Y0VpVjVYSXV2dk93YjhuU0NXYTE5QnBiVHF5bHVLRHdWbzMxdVB3MU0zMFh1TzF0U1JmOA?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQaDhOaTN1RzVmZmxWa1U2TTZyTW9ucXRjZjU2RHUzT0RoMTJQb1BvZ1hpbUgwTUFZS3U5UHV1R21abHdrRDR3cFlWTC1SY3J2WUN1YWlwSlY0Y0VpVjVYSXV2dk93YjhuU0NXYTE5QnBiVHF5bHVLRHdWbzMxdVB3MU0zMFh1TzF0U1JmOA?oc=5\" target=\"_blank\"&gt;Why legal tech giant Harvey is raising cash like OpenAI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Business Insider&lt;/font&gt;",
@@ -146,30 +158,6 @@
       "source_id": "google-news-legal-tech-funding",
       "source_name": "Google News: legal tech funding",
       "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 8
-    },
-    {
-      "title": "EvenUp, AI Software For Personal Injury Law, Doubles Valuation To $2B As Legal Tech Funding Hits Record High - Crunchbase News",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY2p6WWxfeE1ZZDJxQXJPOWtrR2VZdkxlSkFtck03QWJtOU1YcGtHUFBlZllXMXkxeXRlcHhfZU9vR0VMU1JUS0FYMGNUSXZ0UnVRSU5YRVZuWERkU29MVFYzYjNtdHN6OUZGU3JlNWpLcDI3eTRwam5fVkhUSzU2WFdtX0daQUNseG50YzRpTQ?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQY2p6WWxfeE1ZZDJxQXJPOWtrR2VZdkxlSkFtck03QWJtOU1YcGtHUFBlZllXMXkxeXRlcHhfZU9vR0VMU1JUS0FYMGNUSXZ0UnVRSU5YRVZuWERkU29MVFYzYjNtdHN6OUZGU3JlNWpLcDI3eTRwam5fVkhUSzU2WFdtX0daQUNseG50YzRpTQ?oc=5\" target=\"_blank\"&gt;EvenUp, AI Software For Personal Injury Law, Doubles Valuation To $2B As Legal Tech Funding Hits Record High&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Crunchbase News&lt;/font&gt;",
-      "published": "2025-10-07T07:00:00.000Z",
-      "source_id": "google-news-legal-tech-funding",
-      "source_name": "Google News: legal tech funding",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 8
-    },
-    {
-      "title": "Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook partners with CBA; DeepIP raises $25m - Legal IT Insider",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPNVJJREhTZDUwWGlQd3hwTm84Q08xekZJSktTWTJaamNWellIZVhUajRjVFNLMnIwd3dMcGNKMjA3N090TWFBMWdoRWtXQUx0VW1OcGlMc3c2a0lITVpFajVLREdrYlJLME55bGc1RV9zZF9ITjVoUWZYcGp4akZIYlNWNEVpQkdfek1BWWR1bXFXNHowWTlXaUZvZlZuQmV0VXRtTW9rRmYzTUNXVWgxVGcxbnkta0NOdDIzU2VieUpQTnY0SVNBZUwxNXVTZllRWVFHY0M4dDhHcjAzUTI1ZVlKci1ZZ1dXVGlzQXZtSzFNWHhY?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPNVJJREhTZDUwWGlQd3hwTm84Q08xekZJSktTWTJaamNWellIZVhUajRjVFNLMnIwd3dMcGNKMjA3N090TWFBMWdoRWtXQUx0VW1OcGlMc3c2a0lITVpFajVLREdrYlJLME55bGc1RV9zZF9ITjVoUWZYcGp4akZIYlNWNEVpQkdfek1BWWR1bXFXNHowWTlXaUZvZlZuQmV0VXRtTW9rRmYzTUNXVWgxVGcxbnkta0NOdDIzU2VieUpQTnY0SVNBZUwxNXVTZllRWVFHY0M4dDhHcjAzUTI1ZVlKci1ZZ1dXVGlzQXZtSzFNWHhY?oc=5\" target=\"_blank\"&gt;Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook par",
-      "published": "2026-03-04T08:00:00.000Z",
-      "source_id": "google-news-contract-ai",
-      "source_name": "Google News: contract AI",
-      "source_priority": "medium",
       "source_tier": "A",
       "source_category": "Aggregator",
       "relevance_score": 8
@@ -319,18 +307,6 @@
       "relevance_score": 7
     },
     {
-      "title": "Will Anthropic’s Claude Partner Network Impact Legal Tech? - Artificial Lawyer",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONDdmbkh3ZmpkZXNfS1BOMXZwRXBQTkpNVHJOMWZzMnp4UFZ3WEQ5RXZKMHo0VlVuV2laSUJVYXFLOWNiallfcGpGX19CQ01wQ3FoWXYtc3pmeVZZb0R0MW1WemZtMklIUW00enlfYXptOWZuMmNGa2JTSGRLSEZnSDlDWk9weGszLW1FSHVkRnJWc1RNdEFwSGdnMXhiLWFtWVZB?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxONDdmbkh3ZmpkZXNfS1BOMXZwRXBQTkpNVHJOMWZzMnp4UFZ3WEQ5RXZKMHo0VlVuV2laSUJVYXFLOWNiallfcGpGX19CQ01wQ3FoWXYtc3pmeVZZb0R0MW1WemZtMklIUW00enlfYXptOWZuMmNGa2JTSGRLSEZnSDlDWk9weGszLW1FSHVkRnJWc1RNdEFwSGdnMXhiLWFtWVZB?oc=5\" target=\"_blank\"&gt;Will Anthropic’s Claude Partner Network Impact Legal Tech?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
-      "published": "2026-03-17T07:00:00.000Z",
-      "source_id": "google-news-legal-tech-funding",
-      "source_name": "Google News: legal tech funding",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 7
-    },
-    {
       "title": "Legal AI giant Harvey acquires Hexus as competition heats up in legal tech - TechCrunch",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWtsRnRNeWxYZWEwaERMRVJaRWVfQm41MzVDeDJBM1ZIOEstUW5DaTB5UUhjUXE5Sml2QU40RzdZaWlqeUpid3dELUpLTHlKbVNRNmRObWtrZ1dSSXd3R20wSDY3TkVUOHVwRzlZOTh1b1FraXZlNGpuUnBPcXdIU2oxbVZzMTZDVzVNMDRDcGR0NC1oQ2pfMGlUY25YSHBZaHJUTEljdzU5LWREa0E?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWtsRnRNeWxYZWEwaERMRVJaRWVfQm41MzVDeDJBM1ZIOEstUW5DaTB5UUhjUXE5Sml2QU40RzdZaWlqeUpid3dELUpLTHlKbVNRNmRObWtrZ1dSSXd3R20wSDY3TkVUOHVwRzlZOTh1b1FraXZlNGpuUnBPcXdIU2oxbVZzMTZDVzVNMDRDcGR0NC1oQ2pfMGlUY25YSHBZaHJUTEljdzU5LWREa0E?oc=5\" target=\"_blank\"&gt;Legal AI giant Harvey acquires Hexus as competition heats up in legal tech&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;TechCrunch&lt;/font&gt;",
@@ -355,10 +331,22 @@
       "relevance_score": 7
     },
     {
-      "title": "Sector Snapshot: Autonomous Vehicle Funding More Than Triples In 2026 To Hit Record Amount",
-      "url": "https://news.crunchbase.com/venture/record-funding-autonomous-vehicles-q1-2026/",
-      "summary": "Several multibillion-dollar megadeals drove a spike in first-quarter investment in autonomous vehicles, signaling that investors aren't just paying for research, but betting on companies that are ready to scale up and put their AI technology into actual cars people can buy or hail.",
-      "published": "2026-04-17T11:00:42.000Z",
+      "title": "Meet Spellbook the GPT-3 Generative AI Word Add-In For Contracts - Artificial Lawyer",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORGNXbjRyVWRDZ01OLXlaM21tTjY5eUdNYktBdmsyTEhyUmxWUFc2T0QyWUUyX0lEZFZFWk9LeS1seXRyOTdBMkhSYzZyeWEwTnhDcks2ZmVyQm9GYV9EQ2RGUDBaXzFDUkZFclFvMmV1YkJ3UlY3QU0yY1A3NXJHeTAzakxKSF82aTZoRWdSaEFaQ1duMEtRb2lQcTRqVTJhTklvdy1wR00wSlBacGc?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxORGNXbjRyVWRDZ01OLXlaM21tTjY5eUdNYktBdmsyTEhyUmxWUFc2T0QyWUUyX0lEZFZFWk9LeS1seXRyOTdBMkhSYzZyeWEwTnhDcks2ZmVyQm9GYV9EQ2RGUDBaXzFDUkZFclFvMmV1YkJ3UlY3QU0yY1A3NXJHeTAzakxKSF82aTZoRWdSaEFaQ1duMEtRb2lQcTRqVTJhTklvdy1wR00wSlBacGc?oc=5\" target=\"_blank\"&gt;Meet Spellbook the GPT-3 Generative AI Word Add-In For Contracts&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
+      "published": "2022-11-09T08:00:00.000Z",
+      "source_id": "google-news-contract-ai",
+      "source_name": "Google News: contract AI",
+      "source_priority": "medium",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 7
+    },
+    {
+      "title": "The Week’s 10 Biggest Funding Rounds: Transportation And Biotech Take The Lead",
+      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ev-transportation-biotech-slate/",
+      "summary": "The week’s largest round was a $650 million financing for electric pickup truck maker Slate Auto. Other sizable investments went to spaces including drug development, autonomous public transit and software engineering.",
+      "published": "2026-04-17T19:06:41.000Z",
       "source_id": "crunchbase-news",
       "source_name": "Crunchbase News",
       "source_priority": "high",
@@ -403,6 +391,18 @@
       "relevance_score": 7
     },
     {
+      "title": "Trump PAC Deep In Debt&#8230; And Owes Lawyers Over A Million",
+      "url": "https://abovethelaw.com/2026/04/trump-pac-deep-in-debt-and-owes-lawyers-over-a-million/",
+      "summary": "Susan Necheles finding out the hard way that Trump never pays his lawyers. The post Trump PAC Deep In Debt&#8230; And Owes Lawyers Over A Million appeared first on Above the Law .",
+      "published": "2026-04-17T17:01:00.000Z",
+      "source_id": "above-the-law-legaltech",
+      "source_name": "Above the Law (Legal Tech)",
+      "source_priority": "high",
+      "source_tier": "B",
+      "source_category": "Legal profession",
+      "relevance_score": 7
+    },
+    {
       "title": "Anthropic’s Matt Samuels and Den Delimarsky &#8211; Claude &#038; MCP: Building the USB-C for the Legal Tech Stack",
       "url": "https://www.geeklawblog.com/2026/03/anthropics-matt-samuels-and-den-delimarsky-claude-mcp-building-the-usb-c-for-the-legal-tech-stack.html",
       "summary": "This week, we sit down with two guests from Anthropic, Matt Samuels, Senior Product Counsel, and Den Delimarsky, a core maintainer of the Model Context Protocol, or MCP. Together, they unpack why MCP is drawing so much attention across the legal industry and why some are calling it the USB-C for AI. For law firms... Continue Reading",
@@ -415,10 +415,22 @@
       "relevance_score": 7
     },
     {
-      "title": "A new direction for AI developer tooling featuring creator of Tidewave",
-      "url": "https://changelog.com/friends/112",
-      "summary": "Article URL: https://changelog.com/friends/112 Comments URL: https://news.ycombinator.com/item?id=47806930 Points: 1 # Comments: 0",
-      "published": "2026-04-17T15:23:59.000Z",
+      "title": "Satellite and drone images reveal big delays in US data center construction",
+      "url": "https://arstechnica.com/ai/2026/04/construction-delays-hit-40-of-us-data-centers-planned-for-2026/",
+      "summary": "Data centers face construction delays and energy bottleneck as resistance grows.",
+      "published": "2026-04-17T18:08:25.000Z",
+      "source_id": "ars-technica-ai",
+      "source_name": "Ars Technica AI",
+      "source_priority": "low",
+      "source_tier": "B",
+      "source_category": "General AI",
+      "relevance_score": 7
+    },
+    {
+      "title": "Playdate won't have games using AI-generated assets",
+      "url": "https://www.gamedeveloper.com/production/panic-won-t-release-playdate-titles-that-use-some-forms-of-generative-ai",
+      "summary": "Article URL: https://www.gamedeveloper.com/production/panic-won-t-release-playdate-titles-that-use-some-forms-of-generative-ai Comments URL: https://news.ycombinator.com/item?id=47808497 Points: 3 # Comments: 0",
+      "published": "2026-04-17T17:41:05.000Z",
       "source_id": "hacker-news",
       "source_name": "Hacker News (filtered)",
       "source_priority": "low",
@@ -427,10 +439,10 @@
       "relevance_score": 7
     },
     {
-      "title": "Built a full-stack charitable giving SaaS as a solo developer with agentic AI",
-      "url": "https://www.pifster.org/",
-      "summary": "Article URL: https://www.pifster.org/ Comments URL: https://news.ycombinator.com/item?id=47806204 Points: 2 # Comments: 0",
-      "published": "2026-04-17T14:17:19.000Z",
+      "title": "Ask HN: AI exhaust is probably worth something to you or someone else",
+      "url": "https://news.ycombinator.com/item?id=47808264",
+      "summary": "Every prompt, chat, and newsletter I burn through says a lot about how I think and work, but right now it's just sitting in 10 different tools doing nothing. Been wondering if people would pool theirs, either to get something useful back like a model that actually knows you, or to sell it to whoever's paying for this kind of data. Dumb idea or is there something here? Comments URL: https://news.ycombinator.com/item?id=47808264 Points: 2 # Comments: 2",
+      "published": "2026-04-17T17:18:36.000Z",
       "source_id": "hacker-news",
       "source_name": "Hacker News (filtered)",
       "source_priority": "low",
@@ -469,18 +481,6 @@
       "published": "2026-04-15T14:45:37.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
-    },
-    {
-      "title": "Harvey's CEO says the $1 trillion legal market is too big for any one player — even the $8 billion startup — to dominate - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQei1KaGtYRVNweGZQenRhUW1rWWkxNmxTUFQ2ZkFyTThubDhYUmVCbUNIZE9yT2FPWnotYXNweUdxal9QdEZab3dyWTNmM01mQm1KSmY5S2w5c0VCa2s1bmtOVXhwdjdmNUVsbE1rTldvbUdrVG14RWFmb0p0UUE5cUF4d0lVNURwVk9iQk1vS2hOTzZGcjQ0?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQei1KaGtYRVNweGZQenRhUW1rWWkxNmxTUFQ2ZkFyTThubDhYUmVCbUNIZE9yT2FPWnotYXNweUdxal9QdEZab3dyWTNmM01mQm1KSmY5S2w5c0VCa2s1bmtOVXhwdjdmNUVsbE1rTldvbUdrVG14RWFmb0p0UUE5cUF4d0lVNURwVk9iQk1vS2hOTzZGcjQ0?oc=5\" target=\"_blank\"&gt;Harvey's CEO says the $1 trillion legal market is too big for any one player — even the $8 billion startup — to dominate&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Business Insider&lt;/font&gt;",
-      "published": "2025-12-10T08:00:00.000Z",
-      "source_id": "google-news-legal-tech-funding",
-      "source_name": "Google News: legal tech funding",
       "source_priority": "critical",
       "source_tier": "A",
       "source_category": "Aggregator",
