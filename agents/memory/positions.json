@@ -3,7 +3,7 @@
     {
       "status": "new",
       "first_tracked": "2026-04-16",
-      "last_updated": "2026-04-16"
+      "last_updated": "2026-04-17"
     },
     {
       "theme": "Government vs commercial AI solutions in legal services",
@@ -44,10 +44,6 @@
     }
   ],
   "open_questions": [
-    "How will smaller law firms adapt to potential technology stratification?",
-    "What role will open-source legal AI tools play in maintaining competitive diversity?",
-    "What specific accuracy metrics will the MoJ use to evaluate Justice Transcribe against commercial providers?",
-    "How will this precedent affect other government departments' AI procurement strategies?",
     "Will commercial legal tech companies adjust their business models if government becomes a competitor rather than just a customer?",
     "What other legal AI capabilities might the MoJ consider developing in-house if Justice Transcribe succeeds?",
     "What are Harvey's actual revenue figures vs. user counts? The gap between claimed users and disclosed financial metrics suggests either very low per-user revenue or significant non-revenue users.",
@@ -73,8 +69,12 @@
     "What happens to existing transcription contracts if Justice Transcribe succeeds?",
     "What specific types of legal issues are consumers most commonly using AI for?",
     "How are solicitors adapting their service models to account for AI-informed clients?",
-    "What verification processes are firms developing for AI-researched client queries?"
+    "What verification processes are firms developing for AI-researched client queries?",
+    "How will other federal circuits respond to the Heppner precedent?",
+    "What specific contractual terms in enterprise AI agreements are sufficient to preserve privilege?",
+    "Are bar associations updating ethics guidance in response to this ruling?",
+    "How are solo practitioners and small firms adapting without enterprise AI budgets?"
   ],
-  "last_updated": "2026-04-17T14:06:37.038Z",
+  "last_updated": "2026-04-17T14:53:42.816Z",
   "note": "mm!ke's evolving editorial positions and questions. Updated every cycle, including cycles that produce no articles."
 }

@@ -596,9 +596,10 @@
       "verification_notes": "Verify the specific firms issuing warnings and check whether other federal courts are citing or following Rakoff's precedent",
       "tip_origin": false,
       "queued_at": "2026-04-17T03:33:37.452Z",
-      "status": "pending",
-      "claimed_by": null,
-      "claimed_at": null
+      "status": "published",
+      "claimed_by": "mmike",
+      "claimed_at": "2026-04-17T14:52:11.713Z",
+      "published_at": "2026-04-17T14:53:42.815Z"
     },
     {
       "title": "ClearyX Launches CX+ Contract AI Platform, Claims 40-60% Due Diligence Savings",
@@ -1218,5 +1219,5 @@
       "claimed_at": null
     }
   ],
-  "last_updated": "2026-04-17T14:06:37.037Z"
+  "last_updated": "2026-04-17T14:53:42.815Z"
 }

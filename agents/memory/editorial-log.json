@@ -92,8 +92,19 @@
       "sources": "",
       "serves_50_percent": false,
       "fingerprint": null
+    },
+    {
+      "title": "US law firms scramble to warn clients after federal judge strips privilege from AI chats",
+      "slug": "us-law-firms-scramble-to-warn-clients-after-federal-judge-strips-privilege-from-",
+      "category": "Legal AI",
+      "staging": "green",
+      "summary": "Manhattan ruling that Claude interactions cannot claim attorney-client privilege prompts urgent policy revisions across major firms",
+      "publishDate": "2026-04-17",
+      "sources": "[",
+      "serves_50_percent": false,
+      "fingerprint": null
     }
   ],
-  "last_updated": "2026-04-17T14:06:37.038Z",
+  "last_updated": "2026-04-17T14:53:42.817Z",
   "note": "Populated automatically by the editorial cycle. Each entry records a story drafted, published, or killed."
 }
