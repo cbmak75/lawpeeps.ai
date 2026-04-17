@@ -114,8 +114,19 @@
       "sources": "",
       "serves_50_percent": false,
       "fingerprint": null
+    },
+    {
+      "title": "Law360 Coverage",
+      "slug": "law360-coverage",
+      "category": "funding",
+      "staging": "amber",
+      "summary": "The AI-native law firm secures Series B funding while criticising traditional firms for spending zero on R&D despite £55bn in combined profits",
+      "publishDate": "2026-04-17",
+      "sources": "",
+      "serves_50_percent": false,
+      "fingerprint": null
     }
   ],
-  "last_updated": "2026-04-17T16:53:17.342Z",
+  "last_updated": "2026-04-17T18:55:39.263Z",
   "note": "Populated automatically by the editorial cycle. Each entry records a story drafted, published, or killed."
 }

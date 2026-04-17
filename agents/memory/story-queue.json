@@ -931,9 +931,10 @@
       "verification_notes": "Multiple sources confirm funding details. Crosby's own blog confirms the R&D criticism quotes. Founded in 2024 by Ryan Daniels (ex-Cooley) and John Sarihan (ex-Ramp).",
       "tip_origin": false,
       "queued_at": "2026-04-17T10:21:08.172Z",
-      "status": "pending",
-      "claimed_by": null,
-      "claimed_at": null
+      "status": "published",
+      "claimed_by": "mmike",
+      "claimed_at": "2026-04-17T18:53:59.708Z",
+      "published_at": "2026-04-17T18:55:39.261Z"
     },
     {
       "title": "Legal AI Analytics Platform 9fin Hits Unicorn Status with $170M Series C",
@@ -1275,5 +1276,5 @@
       "claimed_at": null
     }
   ],
-  "last_updated": "2026-04-17T16:53:17.340Z"
+  "last_updated": "2026-04-17T18:55:39.261Z"
 }

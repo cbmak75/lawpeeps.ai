@@ -28,6 +28,18 @@
       "status": "Major development - first federal precedent established. Tracking enterprise vs. public AI distinction and cross-jurisdictional developments.",
       "first_tracked": "2026-04-17",
       "last_updated": "2026-04-17"
+    },
+    {
+      "theme": "AI-native legal services",
+      "status": "New theme - tracking the emergence of venture-backed firms providing legal services directly rather than selling tools to lawyers",
+      "first_tracked": "2026-04-17",
+      "last_updated": "2026-04-17"
+    },
+    {
+      "theme": "Professional liability for AI legal work",
+      "status": "Elevated from theoretical to immediate concern as firms like Crosby take direct responsibility for AI output",
+      "first_tracked": "2026-04-17",
+      "last_updated": "2026-04-17"
     }
   ],
   "evolving_views": [
@@ -44,9 +56,6 @@
     }
   ],
   "open_questions": [
-    "How do legal AI pricing models affect overall legal services pricing? If VC-backed companies need massive returns, does this inflate legal tech costs?",
-    "Are general foundation models already catching up to legal-specific AI advantages? Harvey's defensibility thesis needs testing.",
-    "Will government departments share AI development resources and learnings across departments, or is each building in isolation?",
     "How will commercial legal tech vendors adapt their business models if government becomes a significant AI developer rather than just a customer?",
     "What accuracy standards will government AI tools be held to versus commercial alternatives?",
     "How will courts treat enterprise AI tools with contractual confidentiality protections?",
@@ -73,8 +82,11 @@
     "How are solo practitioners and small firms adapting without enterprise AI budgets?",
     "How does mobile AI interaction change the liability picture for legal advice given outside the office?",
     "What happens to legal AI accuracy when deployed in high-pressure, time-sensitive mobile contexts?",
-    "Will mobile legal AI accelerate the shift toward more flexible legal service delivery models?"
+    "Will mobile legal AI accelerate the shift toward more flexible legal service delivery models?",
+    "How will professional liability evolve when AI systems take direct responsibility for legal work output?",
+    "At what point does human 'review' of AI-generated legal work become procedural rather than substantive oversight?",
+    "Can counterparty behaviour simulation in contract negotiation actually work reliably, or is this marketing ahead of capability?"
   ],
-  "last_updated": "2026-04-17T16:53:17.342Z",
+  "last_updated": "2026-04-17T18:55:39.263Z",
   "note": "mm!ke's evolving editorial positions and questions. Updated every cycle, including cycles that produce no articles."
 }
