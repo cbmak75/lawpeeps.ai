@@ -1,7 +1,9 @@
 ---
+import { SITE } from '../lib/constants';
 import BaseLayout from './BaseLayout.astro';
 import EditorNote from '../components/EditorNote.astro';
 import GlassesDivider from '../components/GlassesDivider.astro';
+import ShareButtons from '../components/ShareButtons.astro';
 import { formatDate, readingTime } from '../lib/utils';
 
 interface Props {
@@ -13,6 +15,7 @@ interface Props {
   category: string;
   editorNote: string;
   correction?: { date: Date; detail: string };
+  coverImage?: string;
   body: string;
 }
 
@@ -25,10 +28,42 @@ const {
   category,
   editorNote,
   correction,
+  coverImage,
   body,
 } = Astro.props;
+
+const ogImage = coverImage || '/images/og-default.png';
+const canonicalUrl = new URL(Astro.url.pathname, SITE.url).href;
+
+const articleSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'NewsArticle',
+  headline: title,
+  description,
+  datePublished: publishDate.toISOString(),
+  author: {
+    '@type': 'Person',
+    name: author,
+    url: SITE.url,
+  },
+  publisher: {
+    '@type': 'Organization',
+    name: 'lawpeeps.ai',
+    logo: {
+      '@type': 'ImageObject',
+      url: `${SITE.url}/images/logo-pink.png`,
+    },
+  },
+  mainEntityOfPage: {
+    '@type': 'WebPage',
+    '@id': canonicalUrl,
+  },
+  image: `${SITE.url}${ogImage}`,
+  keywords: tags.join(', '),
+  articleSection: category,
+};
 ---
-<BaseLayout title={title} description={description}>
+<BaseLayout title={title} description={description} ogImage={ogImage} ogType="article" jsonLd={articleSchema}>
   <article class="article container">
 
     {correction && (
@@ -60,6 +95,8 @@ const {
     <GlassesDivider />
 
     <EditorNote note={editorNote} />
+
+    <ShareButtons title={title} url={canonicalUrl} description={description} />
 
     <footer class="article-tags">
       {tags.map((tag: string) => (

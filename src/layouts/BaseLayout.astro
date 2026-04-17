@@ -1,5 +1,5 @@
 ---
-import { SITE } from '../lib/constants';
+import { SITE, SOCIAL } from '../lib/constants';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import '../styles/global.css';
@@ -9,15 +9,44 @@ interface Props {
   title?: string;
   description?: string;
   ogImage?: string;
+  ogType?: string;
+  jsonLd?: Record<string, any>;
 }
 
 const {
   title = SITE.title,
   description = SITE.description,
   ogImage = '/images/og-default.png',
+  ogType = 'website',
+  jsonLd,
 } = Astro.props;
 
 const pageTitle = title === SITE.title ? title : `${title} | ${SITE.title}`;
+const canonicalUrl = new URL(Astro.url.pathname, SITE.url).href;
+const ogImageUrl = ogImage.startsWith('http') ? ogImage : `${SITE.url}${ogImage}`;
+
+const orgSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Organization',
+  name: 'lawpeeps.ai',
+  url: SITE.url,
+  logo: `${SITE.url}/images/logo-pink.png`,
+  description: SITE.description,
+  sameAs: [SOCIAL.twitter, SOCIAL.linkedin, SOCIAL.bluesky],
+  founder: {
+    '@type': 'Person',
+    name: 'Chris Dias',
+  },
+};
+
+const siteSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: SITE.title,
+  url: SITE.url,
+  description: SITE.description,
+  publisher: { '@type': 'Organization', name: 'lawpeeps.ai' },
+};
 ---
 <!DOCTYPE html>
 <html lang="en-GB">
@@ -27,23 +56,35 @@ const pageTitle = title === SITE.title ? title : `${title} | ${SITE.title}`;
   <title>{pageTitle}</title>
   <meta name="description" content={description} />
   <meta name="author" content={SITE.author} />
+  <link rel="canonical" href={canonicalUrl} />
   <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
   <link rel="sitemap" href="/sitemap-index.xml" />
   <link rel="alternate" type="application/rss+xml" title={SITE.title} href="/rss.xml" />
 
   <!-- Open Graph -->
-  <meta property="og:type" content="website" />
+  <meta property="og:type" content={ogType} />
   <meta property="og:title" content={pageTitle} />
   <meta property="og:description" content={description} />
-  <meta property="og:image" content={`${SITE.url}${ogImage}`} />
-  <meta property="og:url" content={Astro.url.href} />
+  <meta property="og:image" content={ogImageUrl} />
+  <meta property="og:image:width" content="1456" />
+  <meta property="og:image:height" content="816" />
+  <meta property="og:image:alt" content={`${SITE.title} - ${title}`} />
+  <meta property="og:url" content={canonicalUrl} />
   <meta property="og:site_name" content={SITE.title} />
+  <meta property="og:locale" content="en_GB" />
 
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="@lawpeepsai" />
   <meta name="twitter:title" content={pageTitle} />
   <meta name="twitter:description" content={description} />
-  <meta name="twitter:image" content={`${SITE.url}${ogImage}`} />
+  <meta name="twitter:image" content={ogImageUrl} />
+  <meta name="twitter:image:alt" content={`${SITE.title} - ${title}`} />
+
+  <!-- Structured data -->
+  <script type="application/ld+json" set:html={JSON.stringify(orgSchema)} />
+  <script type="application/ld+json" set:html={JSON.stringify(siteSchema)} />
+  {jsonLd && <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />}
 </head>
 <body>
   <Header />

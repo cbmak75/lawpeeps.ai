@@ -1,0 +1,90 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+import GlassesDivider from '../../components/GlassesDivider.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const allArticles = await getCollection('articles');
+
+  // Collect all unique tags
+  const tagSet = new Set<string>();
+  allArticles.forEach(article => {
+    (article.data.tags || []).forEach((tag: string) => tagSet.add(tag));
+  });
+
+  return Array.from(tagSet).map(tag => ({
+    params: { tag },
+    props: {
+      tag,
+      articles: allArticles
+        .filter(a => (a.data.tags || []).includes(tag))
+        .sort((a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf()),
+    },
+  }));
+}
+
+const { tag, articles } = Astro.props;
+---
+<BaseLayout title={`#${tag}`} description={`All lawpeeps.ai articles tagged "${tag}".`}>
+  <section class="tag-page container">
+    <header class="tag-header">
+      <span class="tag-label">Tag</span>
+      <h1>#{tag}</h1>
+      <p class="tag-count">{articles.length} {articles.length === 1 ? 'article' : 'articles'}</p>
+    </header>
+
+    <GlassesDivider />
+
+    <div class="articles-grid">
+      {articles.map((article: any) => (
+        <ArticleCard
+          title={article.data.title}
+          description={article.data.description}
+          publishDate={article.data.publishDate}
+          category={article.data.category}
+          slug={article.id}
+          body={article.body || ''}
+        />
+      ))}
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .tag-page {
+    padding-top: var(--space-3xl);
+    padding-bottom: var(--space-4xl);
+  }
+
+  .tag-header {
+    margin-bottom: var(--space-2xl);
+  }
+
+  .tag-label {
+    font-family: var(--font-mono);
+    font-size: var(--text-sm);
+    color: var(--colour-caption);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  .tag-header h1 {
+    margin-top: var(--space-xs);
+    margin-bottom: var(--space-xs);
+    color: var(--colour-pink);
+  }
+
+  .tag-count {
+    font-size: var(--text-sm);
+    color: var(--colour-caption);
+    font-family: var(--font-mono);
+  }
+
+  .articles-grid {
+    margin-top: var(--space-2xl);
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: var(--space-xl);
+  }
+</style>

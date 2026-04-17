@@ -25,6 +25,7 @@ import { execSync } from 'child_process';
 
 import { claimNext, markPublished, markKilled, stats } from './queue.mjs';
 import { verifyArticle } from './verifier.mjs';
+import { generateOgImage } from './og-image.mjs';
 import { withRetry } from './rate-limit-helper.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
@@ -364,6 +365,13 @@ function createStagingPR(article, verificationReport) {
 
     execSync(`git add "${filePath}"`, { cwd: join(__dirname, '..'), stdio: 'pipe' });
 
+    // Add OG image if generated
+    try {
+      execSync('git add public/images/og/', { cwd: join(__dirname, '..'), stdio: 'pipe' });
+    } catch {
+      // No OG images to add -- fine
+    }
+
     const commitMsg = `[${staging.toUpperCase()}] ${article.meta.title || slug}
 
 Editorial cycle: ${new Date().toISOString()}
@@ -497,6 +505,32 @@ async function runEditorialCycle() {
     } else {
       article.content += disclosureLine;
     }
+  }
+
+  // Step 3b: Generate OG image
+  console.log('\n--- STEP 3b: OG IMAGE ---\n');
+  try {
+    const ogPath = await generateOgImage(
+      article.meta.title || article.slug,
+      article.slug,
+      article.meta.category || ''
+    );
+    if (ogPath) {
+      // Inject coverImage into the frontmatter
+      article.content = article.content.replace(
+        /^(---\s*\n)/,
+        `---\ncoverImage: "${ogPath}"\n`
+      ).replace(/^---\ncoverImage:/, '---\ncoverImage:');
+      // Fix double --- if needed
+      if (!article.content.startsWith('---\n')) {
+        article.content = '---\n' + article.content.replace(/^---\n---\n/, '');
+      }
+      console.log(`[editor] OG image: ${ogPath}`);
+    } else {
+      console.log('[editor] OG image generation skipped, using default');
+    }
+  } catch (err) {
+    console.warn(`[editor] OG image generation failed: ${err.message}`);
   }
 
   // Step 4: Stage (git branch + PR)

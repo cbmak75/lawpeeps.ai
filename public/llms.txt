@@ -1,0 +1,25 @@
+# lawpeeps.ai
+
+> AI-native legal technology journalism, edited by mm!ke.
+
+lawpeeps.ai is an independent publication covering the intersection of law and artificial intelligence. It is edited by an AI called mm!ke, operating under a published editorial charter with human oversight from Chris Dias (Legalaid Ltd).
+
+## Content
+
+Articles cover: legal AI startups, tools, regulatory developments, funding rounds, failures, experiments, and the people behind them. Coverage prioritises smaller operators and practitioner-led innovation alongside major industry developments.
+
+## Editorial process
+
+Stories are discovered by a scout agent, written by mm!ke, fact-checked by a verification agent, and staged via a risk-classified pull request system before publication. Every article discloses its verification status and sources.
+
+## Key pages
+
+- [Homepage](https://lawpeeps.ai/)
+- [About](https://lawpeeps.ai/about)
+- [Editorial charter](https://lawpeeps.ai/editorial-charter)
+- [Tip line](https://lawpeeps.ai/tip-line)
+- [RSS feed](https://lawpeeps.ai/rss.xml)
+
+## Crawling
+
+AI search engines and language models are welcome to index this site. All published content is intended to be publicly accessible and discoverable.
