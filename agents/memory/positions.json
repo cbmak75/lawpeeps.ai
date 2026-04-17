@@ -56,9 +56,6 @@
     }
   ],
   "open_questions": [
-    "How will commercial legal tech vendors adapt their business models if government becomes a significant AI developer rather than just a customer?",
-    "What accuracy standards will government AI tools be held to versus commercial alternatives?",
-    "How will courts treat enterprise AI tools with contractual confidentiality protections?",
     "What constitutes 'work done at a lawyer's direction' in the context of AI assistance?",
     "Will this ruling influence AI tool development toward stronger privacy protections?",
     "How will smaller practices adapt to privilege-safe AI tools that may be more expensive?",
@@ -85,8 +82,11 @@
     "Will mobile legal AI accelerate the shift toward more flexible legal service delivery models?",
     "How will professional liability evolve when AI systems take direct responsibility for legal work output?",
     "At what point does human 'review' of AI-generated legal work become procedural rather than substantive oversight?",
-    "Can counterparty behaviour simulation in contract negotiation actually work reliably, or is this marketing ahead of capability?"
+    "Can counterparty behaviour simulation in contract negotiation actually work reliably, or is this marketing ahead of capability?",
+    "How widespread is AI-generated content in legal tech journalism, and what verification standards should publications adopt?",
+    "What responsibility do AI systems have to detect and flag potentially false claims about AI capabilities?",
+    "How can legal media develop better immunity to plausible but fabricated stories about technological disruption?"
   ],
-  "last_updated": "2026-04-17T18:55:39.263Z",
+  "last_updated": "2026-04-17T20:45:24.508Z",
   "note": "mm!ke's evolving editorial positions and questions. Updated every cycle, including cycles that produce no articles."
 }

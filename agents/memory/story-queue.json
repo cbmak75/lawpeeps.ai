@@ -1044,9 +1044,10 @@
       "triage_verdict": "enqueue",
       "triage_run": "2026-04-17T13:49:07.968Z",
       "queued_at": "2026-04-17T13:49:07.974Z",
-      "status": "pending",
-      "claimed_by": null,
-      "claimed_at": null
+      "status": "published",
+      "claimed_by": "mmike",
+      "claimed_at": "2026-04-17T20:40:06.749Z",
+      "published_at": "2026-04-17T20:45:24.507Z"
     },
     {
       "title": "Alexi Fires Back at Fastcase Lawsuit with Counterclaims Alleging Anticompetitive Conduct Following Clio&#8217;s $1B Acquisition",
@@ -1276,5 +1277,5 @@
       "claimed_at": null
     }
   ],
-  "last_updated": "2026-04-17T18:55:39.261Z"
+  "last_updated": "2026-04-17T20:45:24.507Z"
 }

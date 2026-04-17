@@ -125,8 +125,45 @@
       "sources": "",
       "serves_50_percent": false,
       "fingerprint": null
+    },
+    {
+      "title": "Anthropic's Legal Plugin for Claude Cowork May Be the Opening Salvo In A Competition Between Foundation Models and Legal Tech Incumbents",
+      "slug": "anthropic-s-legal-plugin-for-claude-cowork-may-be-the-opening-salvo-in-a-competi",
+      "category": "Legal AI",
+      "staging": "red",
+      "summary": "Reports of Claude's legal plugin and resulting market selloffs appear to stem from a single unverifiable source, raising questions about how AI-generated content spreads through legal media.",
+      "publishDate": "2026-04-17",
+      "sources": "",
+      "serves_50_percent": false,
+      "fingerprint": {
+        "entities": [
+          "anthropic"
+        ],
+        "numerics": [
+          "8k"
+        ],
+        "keywords": [
+          "claude",
+          "legal tech"
+        ],
+        "title_tokens": [
+          "anthropic",
+          "legal",
+          "plugin",
+          "claude",
+          "cowork",
+          "opening",
+          "salvo",
+          "competition",
+          "between",
+          "foundation",
+          "models",
+          "tech",
+          "incumbents"
+        ]
+      }
     }
   ],
-  "last_updated": "2026-04-17T18:55:39.263Z",
+  "last_updated": "2026-04-17T20:45:24.508Z",
   "note": "Populated automatically by the editorial cycle. Each entry records a story drafted, published, or killed."
 }
