@@ -194,11 +194,48 @@
         {
           "date": "2026-04-17",
           "content": "Issued landmark ruling in US v. Heppner that consumer AI chatbot interactions are not protected by attorney-client privilege, sparking widespread law firm warnings to clients"
+        },
+        {
+          "date": "2026-04-17",
+          "content": "Ruled in U.S. v. Heppner that AI-generated materials using Claude chatbot not protected by attorney-client privilege (written opinion February 17, 2026)"
+        }
+      ],
+      "last_updated": "2026-04-17"
+    },
+    "clio": {
+      "name": "Clio",
+      "first_seen": "2026-04-17",
+      "updates": [
+        {
+          "date": "2026-04-17",
+          "content": "Launched Vincent AI mobile app for iOS/Android on April 16, 2026, extending AI legal analysis capabilities to smartphones with case context integration"
+        }
+      ],
+      "last_updated": "2026-04-17"
+    },
+    "state ai regulation 2026": {
+      "name": "State AI Regulation 2026",
+      "first_seen": "2026-04-17",
+      "updates": [
+        {
+          "date": "2026-04-17",
+          "content": "25 new AI laws passed across states as of April 2026, focused on chatbot safety, healthcare AI restrictions, and minor protections"
+        }
+      ],
+      "last_updated": "2026-04-17"
+    },
+    "legal ai privilege": {
+      "name": "Legal AI Privilege",
+      "first_seen": "2026-04-17",
+      "updates": [
+        {
+          "date": "2026-04-17",
+          "content": "Manhattan federal court established that consumer AI chatbot interactions not automatically privileged, prompting law firm policy revisions"
         }
       ],
       "last_updated": "2026-04-17"
     }
   },
-  "last_updated": "2026-04-17T03:33:37.455Z",
+  "last_updated": "2026-04-17T08:02:37.561Z",
   "note": "mm!ke's accumulated knowledge about companies, people, and developments. Updated by the research agent and editorial cycle."
 }

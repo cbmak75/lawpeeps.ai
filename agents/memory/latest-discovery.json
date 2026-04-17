@@ -1,150 +1,163 @@
 {
-  "scout_run": "2026-04-17T15:32:15.219Z",
+  "scout_run": "2026-04-17T08:01:07.096Z",
   "stories": [
     {
-      "title": "Federal Judge's AI Privilege Ruling Sparks Law Firm Warnings to Clients",
-      "slug": "ai-privilege-ruling-law-firm-warnings-client-discovery",
+      "title": "Clio Launches Vincent AI Mobile App, Extends Legal AI to Smartphones",
+      "slug": "clio-launches-vincent-ai-mobile-app-legal-ai-smartphones",
       "score": 8,
       "category": "Legal AI",
       "story_type": "news",
-      "research_brief": "<cite index=\"6-9,7-20\">On February 17, 2026, U.S. District Judge Jed S. Rakoff in Manhattan ruled in United States v. Heppner that 31 documents created with Anthropic's Claude AI chatbot were not protected by attorney-client privilege</cite>. The case involved a criminal defendant who used the consumer version of Claude to generate legal analysis after receiving a grand jury subpoena, then included the AI-generated materials on his privilege log. <cite index=\"7-3,7-7\">The ruling has prompted urgent warnings from more than a dozen major U.S. law firms to their clients about the discovery risks of using consumer AI chatbots</cite>.\n\n<cite index=\"21-9,21-11,21-12,21-13\">Judge Rakoff methodically dismantled the privilege claim on three grounds: Claude is \"plainly not an attorney\" so no lawyer-client communication existed; the defendant had no reasonable expectation of privacy given Anthropic's privacy policy warning that user information might be shared with third parties including in legal disputes; and Claude explicitly disclaims providing legal advice</cite>. <cite index=\"7-11,7-13\">In the wake of the ruling, major law firms have been revising client contracts and posting advisories warning that sharing lawyer communications with chatbots could erase attorney-client privilege protections</cite>.\n\nThe decision appears to be the first federal court ruling directly addressing whether consumer AI chatbot interactions can claim privilege protection. <cite index=\"25-15,25-16\">Judge Rakoff left open whether enterprise AI tools with contractual confidentiality guarantees might fare differently, noting that enterprise AI tools which typically don't train on user data \"may present a different analysis\"</cite>. However, the ruling establishes a clear precedent that consumer-grade AI tools cannot be treated as confidential channels for client communications.\n\nThe timing of widespread law firm warnings suggests this is creating immediate operational changes across the legal industry, with firms scrambling to update policies and educate clients about AI-related discovery risks.",
-      "primary_source": "https://www.claimsjournal.com/news/national/2026/04/16/336937.htm",
-      "primary_source_verified": true,
-      "additional_sources": [
-        {
-          "url": "https://nationaltoday.com/us/ny/manhattan/news/2026/04/15/lawyers-warned-to-lock-down-ai-chats-after-manhattan-ruling/",
-          "description": "Details the immediate law firm response and client warnings following the ruling"
-        },
-        {
-          "url": "https://www.debevoisedatablog.com/2026/02/17/update-judge-rakoff-issues-written-opinion-that-ai-generated-documents-are-not-protected-by-privilege/",
-          "description": "Legal analysis of Judge Rakoff's written opinion with case citations"
-        },
-        {
-          "url": "https://www.dorsey.com/newsresources/publications/client-alerts/2026/2/ai-attorney-client-privilege",
-          "description": "Law firm alert explaining the ruling's implications for practitioners"
-        }
-      ],
-      "key_facts": [
-        {
-          "claim": "Judge Rakoff ruled on February 17, 2026 that AI-generated documents using Claude were not privileged",
-          "source": "https://www.claimsjournal.com/news/national/2026/04/16/336937.htm",
-          "verified": true
-        },
-        {
-          "claim": "More than a dozen major U.S. law firms have issued client warnings about AI discovery risks",
-          "source": "https://www.claimsjournal.com/news/national/2026/04/16/336937.htm",
-          "verified": true
-        },
-        {
-          "claim": "The ruling is the first federal court decision addressing consumer AI chatbot privilege claims",
-          "source": "https://www.harrisbeachmurtha.com/insights/in-a-first-court-finds-using-ai-tools-ends-attorney-client-privilege/",
-          "verified": true
-        }
-      ],
-      "suggested_angle": "Focus on the immediate industry response - how law firms are scrambling to revise policies and warn clients, creating a new category of legal malpractice risk",
-      "serves_50_percent_rule": true,
-      "fifty_percent_note": "This directly impacts how lawyers and their clients can use AI tools, creating immediate compliance obligations and malpractice risks",
-      "existing_coverage": "Multiple legal publications covered the February ruling itself, but the April wave of law firm warnings and operational changes appears to be breaking news",
-      "estimated_staging": "green",
-      "verification_notes": "Verify the specific firms issuing warnings and check whether other federal courts are citing or following Rakoff's precedent",
-      "tip_origin": false
-    },
-    {
-      "title": "ClearyX Launches CX+ Contract AI Platform, Claims 40-60% Due Diligence Savings",
-      "slug": "clearyx-cx-plus-contract-ai-platform-launch-savings",
-      "score": 6,
-      "category": "Legal AI",
-      "story_type": "news",
-      "research_brief": "<cite index=\"19-11,19-12\">ClearyX, the ALSP created by top New York firm Cleary Gottlieb, launched CX+ on April 15, 2026, a contract insights and due diligence platform comprising CX+Insights and CX+Transact to address operational and transactional legal needs</cite>. <cite index=\"19-1,19-23\">Across 150+ deals, ClearyX has documented consistent cost and time savings of 40-60% on due diligence compared to manual review</cite>.\n\n<cite index=\"19-15,19-16,19-17\">CX+Insights is designed for in-house legal teams to extract systematic intelligence from contract portfolios, allowing teams to load contracts, query documents using AI question bundles, and surface actionable insights. CX+Transact is purpose-built for contract review and M&A due diligence</cite>. <cite index=\"19-14\">The platform is model-agnostic</cite>, allowing flexibility in AI provider choices.\n\n<cite index=\"19-19,19-20,19-21\">CEO Carla Swansburg said the product was shaped by years of client conversations about problems that generic tools weren't solving, built to address challenges that matter most to in-house legal and deal teams. Senior Partner Michael Gerstenzang noted that \"increasingly, delivering excellence to clients requires embedding AI into your work\"</cite>.\n\nThe launch represents a significant bet by a top-tier law firm's ALSP on contract AI, with specific efficiency claims that could pressure competitors. The 40-60% savings claim, if verified across real deals, suggests material cost reductions that could reshape due diligence pricing models.",
-      "primary_source": "https://www.artificiallawyer.com/2026/04/15/clearyx-launches-cx-for-contract-ai-needs/",
+      "research_brief": "<cite index=\"4-2,4-3,4-4,4-5\">Clio, a leader in legal AI, today announced the launch of the Vincent by Clio mobile app, extending Vincent's legal AI capabilities to iOS and Android OS for the first time. Vincent has become a core tool for lawyers analyzing legal issues, reviewing documents, and developing legal arguments. With the launch of the Vincent by Clio mobile App, those capabilities are no longer limited to the desktop. Lawyers can now ask questions, analyze documents, and get grounded answers backed by authority directly from their phones, allowing legal work to begin the moment a question or document surfaces.</cite>\n\n<cite index=\"4-6,4-7,4-8\">For Clio Work users, the Vincent by Clio mobile app can also draw on the full context of a matter, including client communications, deadlines, and case activity, so analysis reflects what's actually happening in the case. Lawyers can ask questions, review new developments, and explore strategy with that context already in place, helping ensure continuity across their work. This connection allows legal teams to move seamlessly between case management and legal analysis, making it easier to respond to new filings, prepare for what's next, and keep work moving from anywhere.</cite>\n\nThe mobile launch represents Clio's strategic expansion of its AI capabilities beyond traditional desktop environments. As one of the watch list companies in the legal AI space, Clio continues to build on its legal practice management foundation by adding AI-powered legal analysis tools. The mobile app allows lawyers to access AI assistance while on-the-go, potentially changing how legal work is conducted outside the office.\n\nThis launch comes as legal AI adoption accelerates across firms of all sizes. The integration with Clio's existing practice management platform provides context that standalone AI tools cannot offer, potentially giving Clio a competitive advantage in the increasingly crowded legal AI market.",
+      "primary_source": "https://www.bctechnology.com/news/2026/4/16/Clio-Launches-Vincent-by-Clio-Mobile-App-Bringing-Legal-AI-to-Lawyers-Wherever-They-Work.cfm?id=50284",
       "primary_source_verified": true,
       "additional_sources": [],
       "key_facts": [
         {
-          "claim": "ClearyX launched CX+ on April 15, 2026",
-          "source": "https://www.artificiallawyer.com/2026/04/15/clearyx-launches-cx-for-contract-ai-needs/",
+          "claim": "Vincent by Clio mobile app launched April 16, 2026 for iOS and Android",
+          "source": "https://www.bctechnology.com/news/2026/4/16/Clio-Launches-Vincent-by-Clio-Mobile-App-Bringing-Legal-AI-to-Lawyers-Wherever-They-Work.cfm?id=50284",
           "verified": true
         },
         {
-          "claim": "Platform claims 40-60% cost and time savings on due diligence across 150+ deals",
-          "source": "https://www.artificiallawyer.com/2026/04/15/clearyx-launches-cx-for-contract-ai-needs/",
+          "claim": "App provides AI-powered document analysis and instant legal answers with cited authority",
+          "source": "https://www.bctechnology.com/news/2026/4/16/Clio-Launches-Vincent-by-Clio-Mobile-App-Bringing-Legal-AI-to-Lawyers-Wherever-They-Work.cfm?id=50284",
           "verified": true
         },
         {
-          "claim": "ClearyX is the ALSP created by Cleary Gottlieb",
-          "source": "https://www.artificiallawyer.com/2026/04/15/clearyx-launches-cx-for-contract-ai-needs/",
+          "claim": "For Clio Work users, app integrates with full case context including communications and deadlines",
+          "source": "https://www.bctechnology.com/news/2026/4/16/Clio-Launches-Vincent-by-Clio-Mobile-App-Bringing-Legal-AI-to-Lawyers-Wherever-They-Work.cfm?id=50284",
           "verified": true
         }
       ],
-      "suggested_angle": "How elite law firms are monetizing AI efficiency gains rather than passing all savings to clients - a shift from traditional billing models",
+      "suggested_angle": "How mobile AI changes legal work patterns and whether integrated AI tools like Clio's have advantages over standalone solutions",
       "serves_50_percent_rule": true,
-      "fifty_percent_note": "Shows how AI is forcing changes in legal service delivery models and pricing structures",
-      "existing_coverage": "Only covered by Artificial Lawyer so far, indicating this is fresh news",
-      "estimated_staging": "amber",
-      "verification_notes": "Need to verify the 150+ deals claim and the specific 40-60% savings figures - these are key differentiators from other contract AI platforms",
-      "tip_origin": false
+      "fifty_percent_note": "Directly relevant to legal AI practitioners - mobile access to AI legal analysis affects how lawyers work day-to-day",
+      "existing_coverage": "Minimal coverage found - appears to be a fresh announcement",
+      "estimated_staging": "green",
+      "verification_notes": "Source is official T-Net press release dated April 16, 2026 - confirms this is within 48-hour window",
+      "tip_origin": false,
+      "tip_credit": null
     },
     {
-      "title": "US Federal Judges Warn AI's Speed Outpacing Courts' Ability to Regulate",
-      "slug": "federal-judges-ai-speed-outpacing-court-regulation",
-      "score": 7,
+      "title": "Manhattan Court Rules AI Chats Not Protected by Attorney-Client Privilege",
+      "slug": "manhattan-court-ai-chats-not-protected-attorney-client-privilege",
+      "score": 9,
       "category": "Legal AI",
       "story_type": "news",
-      "research_brief": "<cite index=\"4-3,4-4,4-6,4-7\">At the IAPP Global Summit 2026 on April 6, U.S. District Court Chief Judge James Boasberg and District Judge Allison Burroughs acknowledged that the speed of technological advancement is outpacing society's ability to effectively regulate it, discussing how their digital-related caseloads are becoming more complex as nuanced arguments emerge over alleged personal harms caused by technology</cite>.\n\n<cite index=\"4-10,4-11,4-13\">Judge Boasberg presided over a case where lawyers made filings containing hallucinatory information from AI use, requiring that side to pay attorney's fees as a sanction. He noted that AI hallucinations in legal briefs are happening \"a lot more on the state level,\" with some federal judges having their own opinions include hallucinatory citations, which was \"obviously embarrassing\"</cite>. <cite index=\"4-14,4-15,4-16\">Both LexisNexis and Westlaw have AI integrated into their tools, but for versions used by judges, the AI features have been \"blacked out.\" Several First Circuit judges are participating in a pilot program to experiment with AI features</cite>.\n\n<cite index=\"4-17,4-18,4-19\">Judge Burroughs sees a place for AI to assist with repetitive tasks but thinks it will never make human judgment calls required in presiding over cases. She suggested AI might play a role in administrative hearings like Social Security or immigration appeals within government entities with enormous case backlogs</cite>.\n\nThis represents a rare public acknowledgment from federal judges about the challenges AI poses to the judicial system, including their own struggles with AI-generated errors in legal practice.",
-      "primary_source": "https://iapp.org/news/a/us-federal-judges-discuss-the-intersection-of-emerging-technology-ai-with-the-legal-system",
+      "research_brief": "<cite index=\"21-1,21-2\">In the case of United States v. Heppner, U.S. District Judge Jed S. Rakoff ordered a defendant to hand over 31 documents created with Anthropic's Claude AI chatbot, ruling that the AI-generated materials were not protected by privilege. The court found the exchanges failed to meet basic privilege requirements, as they were not communications with a lawyer, the user could not reasonably expect confidentiality, and the work was not performed at the direction of counsel.</cite> <cite index=\"21-3\">On February 17, 2026, Judge Rakoff issued a written opinion on the case.</cite>\n\n<cite index=\"21-4,21-10,21-11,21-12\">In the wake of the ruling, law firms began revising engagement letters and circulating AI warnings to clients. A recent Manhattan federal court ruling has prompted major law firms to warn clients that anything shared with consumer AI chatbots can be subject to legal discovery, leading lawyers to recommend using only enterprise-level AI tools with contractual confidentiality guarantees when handling sensitive information. This ruling highlights the legal risks of using consumer-facing AI chatbots for anything related to active or potential litigation, as courts may not recognize attorney-client privilege or work product protections for content shared with these public platforms. Law firms are now scrambling to revise client contracts and internal policies to mitigate these new legal liabilities.</cite>\n\n<cite index=\"8-12,8-13,8-14\">Some firms said AI legal research is more likely to be protected by attorney-client privilege when it is conducted at the direction of a lawyer. If a lawyer does advise the use of AI, a person should say so in the chatbot prompt, New York-headquartered law firm Debevoise & Plimpton said in a notice on its website. \"I am doing this research at the direction of counsel for X litigation,\" the firm suggested people write.</cite>\n\nThis ruling has significant implications for how lawyers and clients can safely use AI tools. The case involved Bradley Heppner, former chair of bankrupt financial services company GWG Holdings, who used Claude to prepare reports about his case. The court's decision establishes that simply using AI for legal work does not automatically create privilege protection, potentially exposing sensitive information in litigation.",
+      "primary_source": "https://nationaltoday.com/us/ny/manhattan/news/2026/04/15/lawyers-warned-to-lock-down-ai-chats-after-manhattan-ruling/",
       "primary_source_verified": true,
       "additional_sources": [
         {
-          "url": "https://www.npr.org/2026/04/03/nx-s1-5761454/penalties-stack-up-ai-spreads-through-legal-system",
-          "description": "Additional context on AI sanctions and legal profession adoption challenges"
+          "url": "https://www.claimsjournal.com/news/national/2026/04/16/336937.htm",
+          "description": "Additional details on law firm warnings and contract revisions"
         }
       ],
       "key_facts": [
         {
-          "claim": "Judges spoke at IAPP Global Summit 2026 on April 6, 2026",
-          "source": "https://iapp.org/news/a/us-federal-judges-discuss-the-intersection-of-emerging-technology-ai-with-the-legal-system",
+          "claim": "U.S. District Judge Jed S. Rakoff ruled AI-generated materials not protected by privilege in U.S. v. Heppner",
+          "source": "https://nationaltoday.com/us/ny/manhattan/news/2026/04/15/lawyers-warned-to-lock-down-ai-chats-after-manhattan-ruling/",
           "verified": true
         },
         {
-          "claim": "AI features in judicial versions of LexisNexis and Westlaw have been 'blacked out'",
-          "source": "https://iapp.org/news/a/us-federal-judges-discuss-the-intersection-of-emerging-technology-ai-with-the-legal-system",
+          "claim": "Court ordered defendant to hand over 31 documents created with Anthropic's Claude",
+          "source": "https://nationaltoday.com/us/ny/manhattan/news/2026/04/15/lawyers-warned-to-lock-down-ai-chats-after-manhattan-ruling/",
           "verified": true
         },
         {
-          "claim": "First Circuit judges participating in pilot program to test AI features",
-          "source": "https://iapp.org/news/a/us-federal-judges-discuss-the-intersection-of-emerging-technology-ai-with-the-legal-system",
+          "claim": "Judge Rakoff issued written opinion on February 17, 2026",
+          "source": "https://nationaltoday.com/us/ny/manhattan/news/2026/04/15/lawyers-warned-to-lock-down-ai-chats-after-Manhattan-ruling/",
+          "verified": true
+        },
+        {
+          "claim": "Law firms revising engagement letters and warning clients about AI chat risks",
+          "source": "https://www.claimsjournal.com/news/national/2026/04/16/336937.htm",
           "verified": true
         }
       ],
-      "suggested_angle": "The judicial system's institutional response to AI - why courts are disabling AI features while lawyers increasingly adopt them",
+      "suggested_angle": "This creates new compliance requirements for law firms using AI and may drive adoption of enterprise AI tools with better privacy protections",
       "serves_50_percent_rule": true,
-      "fifty_percent_note": "Shows tension between AI adoption in legal practice versus judicial caution, with implications for court procedures",
-      "existing_coverage": "Limited coverage, appears to be breaking from the IAPP summit",
+      "fifty_percent_note": "Critical ruling affecting how legal practitioners can use AI tools - directly impacts legal AI adoption and risk management",
+      "existing_coverage": "Story appears to be breaking/developing based on timing - firms are still responding to the February ruling",
       "estimated_staging": "green",
-      "verification_notes": "Confirm the pilot program details and whether other circuits are considering similar AI experiments",
-      "tip_origin": false
+      "verification_notes": "Multiple sources confirm the ruling and law firm responses. Written opinion issued February 17, 2026 with ongoing industry response",
+      "tip_origin": false,
+      "tip_credit": null
+    },
+    {
+      "title": "State AI Bill Wave: Nebraska, Maryland, Maine Pass New Chatbot and AI Laws",
+      "slug": "state-ai-bill-wave-nebraska-maryland-maine-pass-chatbot-ai-laws",
+      "score": 7,
+      "category": "Regulatory",
+      "story_type": "news",
+      "research_brief": "<cite index=\"24-8,24-14,24-15,24-16,24-17\">Legislatures in Nebraska (chatbot bill), Maryland (pricing), and Maine (health) passed AI bills last week. Legislatures in three states passed bills last week. Nebraska's unicameral legislature passed a chatbot bill. Maryland's legislature passed a pricing bill. Maine's legislature passed a bill that prohibits any person from providing, advertising or otherwise offering therapy or psychotherapy services, including through the use of AI, to the public unless the services are provided by</cite> licensed professionals.\n\n<cite index=\"24-2,24-3,24-4,24-5,24-6,24-7\">Nebraska's unicameral legislature passed LB 525. The first portion of the bill is the Agricultural Data Privacy Act while the second portion of the bill is the Conversational AI Safety Act. The chatbot portion of the bill regulates minors' interaction with conversational AI services, including requiring the service to disclose to minors that it is AI. The bill also requires operators of conversational AI services to disclose to persons that the service is not human if a reasonable person would not understand the service is not human. Among other things, the service also cannot represent or state that it is designed to provide professional mental or behavioral health care. If signed into law, the bill would be enforceable by the state attorney general.</cite>\n\nThis represents part of a broader state-level regulatory push on AI. <cite index=\"25-3,25-4\">Since we last posted in mid-March, we have gone from 6 new AI laws passed in 2026 to 25! Another 27 bills have passed both chambers in their legislative process and could be on their way to becoming law soon.</cite> The focus appears to be on chatbot safety, particularly protections for minors, and restrictions on AI in healthcare settings.\n\n<cite index=\"29-1,29-7\">AI companions and chatbot safety continued to be a focus of state lawmakers this quarter, with new laws enacted in Washington (HB 2225), Oregon (SB 1546), and Idaho (Conversational AI Safety Act (SB 1297)).</cite> This trend reflects growing concerns about AI chatbots' interactions with vulnerable populations, especially children, and their potential misuse in professional services like therapy.",
+      "primary_source": "https://www.troutmanprivacy.com/2026/04/proposed-state-ai-law-update-april-13-2026/",
+      "primary_source_verified": true,
+      "additional_sources": [
+        {
+          "url": "https://pluralpolicy.com/blog/the-ai-governance-watch-april-2026-nineteen-new-ai-bills-passed-into-law/",
+          "description": "Broader context on 19 new AI laws passed recently"
+        },
+        {
+          "url": "https://www.insideglobaltech.com/2026/04/06/u-s-tech-legislative-regulatory-update-first-quarter-2026/",
+          "description": "First quarter overview of chatbot safety legislation"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "Nebraska passed LB 525 including Conversational AI Safety Act requiring disclosure to minors",
+          "source": "https://www.troutmanprivacy.com/2026/04/proposed-state-ai-law-update-april-13-2026/",
+          "verified": true
+        },
+        {
+          "claim": "Maryland passed AI pricing bill",
+          "source": "https://www.troutmanprivacy.com/2026/04/proposed-state-ai-law-update-april-13-2026/",
+          "verified": true
+        },
+        {
+          "claim": "Maine passed health AI bill restricting AI therapy services to licensed professionals",
+          "source": "https://www.troutmanprivacy.com/2026/04/proposed-state-ai-law-update-april-13-2026/",
+          "verified": true
+        },
+        {
+          "claim": "25 total new AI laws passed in 2026 as of mid-April",
+          "source": "https://pluralpolicy.com/blog/the-ai-governance-watch-april-2026-nineteen-new-ai-bills-passed-into-law/",
+          "verified": true
+        }
+      ],
+      "suggested_angle": "State-level AI regulation is accelerating rapidly, creating compliance patchwork that may pressure federal preemption efforts",
+      "serves_50_percent_rule": true,
+      "fifty_percent_note": "Regulatory developments affect legal AI practitioners who need to understand compliance requirements across states",
+      "existing_coverage": "Tracking by legal/regulatory publications but limited mainstream coverage of the broader wave",
+      "estimated_staging": "green",
+      "verification_notes": "Multiple legal tracking sources confirm recent passage of bills. April 13 update confirms timing within 48-hour window",
+      "tip_origin": false,
+      "tip_credit": null
     }
   ],
   "knowledge_updates": [
     {
-      "entity": "ClearyX",
-      "update": "Launched CX+ contract AI platform on April 15, 2026, claiming 40-60% due diligence savings across 150+ deals"
+      "entity": "Clio",
+      "update": "Launched Vincent AI mobile app for iOS/Android on April 16, 2026, extending AI legal analysis capabilities to smartphones with case context integration"
     },
     {
       "entity": "Judge Jed S. Rakoff",
-      "update": "Issued landmark ruling in US v. Heppner that consumer AI chatbot interactions are not protected by attorney-client privilege, sparking widespread law firm warnings to clients"
+      "update": "Ruled in U.S. v. Heppner that AI-generated materials using Claude chatbot not protected by attorney-client privilege (written opinion February 17, 2026)"
     },
     {
-      "entity": "Harvey",
-      "update": "Funding information from searches appears outdated (March 2026), but RSS indicates continued growth and client expansion"
+      "entity": "State AI Regulation 2026",
+      "update": "25 new AI laws passed across states as of April 2026, focused on chatbot safety, healthcare AI restrictions, and minor protections"
+    },
+    {
+      "entity": "Legal AI Privilege",
+      "update": "Manhattan federal court established that consumer AI chatbot interactions not automatically privileged, prompting law firm policy revisions"
     }
   ],
   "search_queries_used": [
-    "legal AI news April 2026",
-    "legal AI funding April 2026 Harvey ClearyX",
-    "\"April 16 2026\" OR \"April 17 2026\" legal AI chatbot privilege ruling Manhattan",
-    "Rakoff Claude AI privilege ruling legal discovery 2026"
+    "legal AI news April 2026 this week",
+    "OpenAI biology AI legal AI models April 2026",
+    "\"Manhattan federal court\" AI privilege ruling lawyers April 2026",
+    "legal AI regulatory state bills passed April 2026 chatbot bills"
   ],
-  "generated": "2026-04-17T03:33:37.455Z",
+  "generated": "2026-04-17T08:02:37.561Z",
   "cycle_type": "scout"
 }
