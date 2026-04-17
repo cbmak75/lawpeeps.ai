@@ -1,11 +1,23 @@
 {
-  "generated": "2026-04-17T13:51:23.247Z",
+  "generated": "2026-04-17T16:06:41.410Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 1364,
+  "total_scanned": 1363,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
+    {
+      "title": "A Public Service Announcement: Legal Tech Companies, Here Are Your Celebrity Endorsers",
+      "url": "https://www.lawnext.com/2026/04/a-public-service-announcement-legal-tech-companies-here-are-your-celebrity-endorsers.html",
+      "summary": "It started with Harvey, the legal AI company that signed Gabriel Macht – the actor who played Harvey Specter on Suits – as a brand ambassador. Then Legora one-upped everyone by signing the actor Jude Law, building a whole campaign around the tagline, &#8220;Law just got more attractive,&#8221; and shooting the thing with an Oscar-winning [&#8230;]",
+      "published": "2026-04-17T14:06:45.000Z",
+      "source_id": "lawsites",
+      "source_name": "LawSites (Bob Ambrogi)",
+      "source_priority": "critical",
+      "source_tier": "B",
+      "source_category": "Legal tech commentary",
+      "relevance_score": 14
+    },
     {
       "title": "The Latest AI Revolution Just Showed Up in Your Word Doc.",
       "url": "https://www.geeklawblog.com/2026/04/the-latest-ai-revolution-just-showed-up-in-your-word-doc.html",
@@ -67,18 +79,6 @@
       "relevance_score": 10
     },
     {
-      "title": "Beyond Literal Summarization: Redefining Hallucination for Medical SOAP Note Evaluation",
-      "url": "https://arxiv.org/abs/2604.14829",
-      "summary": "arXiv:2604.14829v1 Announce Type: new Abstract: Evaluating large language models (LLMs) for clinical documentation tasks such as SOAP note generation remains challenging. Unlike standard summarization, these tasks require clinical abstraction, normalization of colloquial language, and medically grounded inference. However, prevailing evaluation methods including automated metrics and LLM as judge frameworks rely on lexical faithfulness, often labeling any information not explicitly present in th",
-      "published": "2026-04-17T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI (keyword-filtered)",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "Research",
-      "relevance_score": 10
-    },
-    {
       "title": "Harvey Forum + Shared Spaces, Clio, Spellbook, Legal Innovators - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWDZZRVZBVWx3ckRDeE96a1ZYWTJxVldZUHNwYWl2eHdrUDZKc2xXSmRYVHRheXlISnI5SVpKdmlYTHdOWVRwb3VneFBHMlZhcnlyOWNiZHJuUkNTLXhINlgwRnJzZlNCU0JYQ2k2R2RrUFN3dlRoT3k0ckM5NDRZRHZ2UjAzQWVfQXNRcm9lM2w2LVdmRUxvMmwyVXkzS2Y2XzlnTTNn?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNWDZZRVZBVWx3ckRDeE96a1ZYWTJxVldZUHNwYWl2eHdrUDZKc2xXSmRYVHRheXlISnI5SVpKdmlYTHdOWVRwb3VneFBHMlZhcnlyOWNiZHJuUkNTLXhINlgwRnJzZlNCU0JYQ2k2R2RrUFN3dlRoT3k0ckM5NDRZRHZ2UjAzQWVfQXNRcm9lM2w2LVdmRUxvMmwyVXkzS2Y2XzlnTTNn?oc=5\" target=\"_blank\"&gt;Harvey Forum + Shared Spaces, Clio, Spellbook, Legal Innovators&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
@@ -103,21 +103,9 @@
       "relevance_score": 9
     },
     {
-      "title": "OPC Workflow – Three Markdown files that enforce discipline on AI coding tools",
-      "url": "https://news.ycombinator.com/item?id=47804867",
-      "summary": "I've been using Claude Code and Cursor for several months on a real project. The tools are impressive, but I kept running into the same failure modes: 1. Long sessions cause context drift — the AI gradually ignores the original design 2. The AI writes fake tests — empty assertions, mocking the thing being tested 3. No research phase — the AI guesses how a framework works instead of reading the docs OPC Workflow is my fix: three markdown files you put in your project and trigger as slash commands",
-      "published": "2026-04-17T11:45:43.000Z",
-      "source_id": "hacker-news",
-      "source_name": "Hacker News (filtered)",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "Community",
-      "relevance_score": 9
-    },
-    {
-      "title": "PriHA: A RAG-Enhanced LLM Framework for Primary Healthcare Assistant in Hong Kong",
-      "url": "https://arxiv.org/abs/2604.14215",
-      "summary": "arXiv:2604.14215v1 Announce Type: cross Abstract: To address the unsustainable rise in public health expenditures, the Hong Kong SAR Government is shifting its strategic focus to primary healthcare and encouraging citizens to use community resources to self-manage their health. However, official clinical guidelines are fragmented across disparate departments and formats, creating significant access barriers. While general-purpose Large Language Models (LLMs) such as ChatGPT and DeepSeek offer po",
+      "title": "Beyond Literal Summarization: Redefining Hallucination for Medical SOAP Note Evaluation",
+      "url": "https://arxiv.org/abs/2604.14829",
+      "summary": "arXiv:2604.14829v1 Announce Type: new Abstract: Evaluating large language models (LLMs) for clinical documentation tasks such as SOAP note generation remains challenging. Unlike standard summarization, these tasks require clinical abstraction, normalization of colloquial language, and medically grounded inference. However, prevailing evaluation methods including automated metrics and LLM as judge frameworks rely on lexical faithfulness, often labeling any information not explicitly present in th",
       "published": "2026-04-17T04:00:00.000Z",
       "source_id": "arxiv-cs-ai",
       "source_name": "arXiv cs.AI (keyword-filtered)",
@@ -155,6 +143,18 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZDZQTjk5RERxN0wzYzNka1d4bXhBTzR5RWdfai1qRjBlaEpzVVhSaUdPRkZVeld4ai1mOXpwcTZnZFZ2eVp2ajd0RXBjMGUwcGlVaEhtR01fTU1KUF82cFQ1Z3VrQWV2N1dzWTViTHNPTFB6N08xZjNJbkhkbXBUMkZlWlNwQ3ZpOGFEakJ0cFhON0NDZ1c0dGI0RndUdTBtaFh0b1hNWk1mQWg2SVV1aVdrcw?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOZDZQTjk5RERxN0wzYzNka1d4bXhBTzR5RWdfai1qRjBlaEpzVVhSaUdPRkZVeld4ai1mOXpwcTZnZFZ2eVp2ajd0RXBjMGUwcGlVaEhtR01fTU1KUF82cFQ1Z3VrQWV2N1dzWTViTHNPTFB6N08xZjNJbkhkbXBUMkZlWlNwQ3ZpOGFEakJ0cFhON0NDZ1c0dGI0RndUdTBtaFh0b1hNWk1mQWg2SVV1aVdrcw?oc=5\" target=\"_blank\"&gt;Vancouver, B.C.-based legal tech company Clio hits $5B valuation after acquiring vLex&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;GeekWire&lt;/font&gt;",
       "published": "2025-11-10T08:00:00.000Z",
+      "source_id": "google-news-legal-tech-funding",
+      "source_name": "Google News: legal tech funding",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 8
+    },
+    {
+      "title": "EvenUp, AI Software For Personal Injury Law, Doubles Valuation To $2B As Legal Tech Funding Hits Record High - Crunchbase News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY2p6WWxfeE1ZZDJxQXJPOWtrR2VZdkxlSkFtck03QWJtOU1YcGtHUFBlZllXMXkxeXRlcHhfZU9vR0VMU1JUS0FYMGNUSXZ0UnVRSU5YRVZuWERkU29MVFYzYjNtdHN6OUZGU3JlNWpLcDI3eTRwam5fVkhUSzU2WFdtX0daQUNseG50YzRpTQ?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQY2p6WWxfeE1ZZDJxQXJPOWtrR2VZdkxlSkFtck03QWJtOU1YcGtHUFBlZllXMXkxeXRlcHhfZU9vR0VMU1JUS0FYMGNUSXZ0UnVRSU5YRVZuWERkU29MVFYzYjNtdHN6OUZGU3JlNWpLcDI3eTRwam5fVkhUSzU2WFdtX0daQUNseG50YzRpTQ?oc=5\" target=\"_blank\"&gt;EvenUp, AI Software For Personal Injury Law, Doubles Valuation To $2B As Legal Tech Funding Hits Record High&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Crunchbase News&lt;/font&gt;",
+      "published": "2025-10-07T07:00:00.000Z",
       "source_id": "google-news-legal-tech-funding",
       "source_name": "Google News: legal tech funding",
       "source_priority": "critical",
@@ -295,21 +295,9 @@
       "relevance_score": 8
     },
     {
-      "title": "Benchmarks for Trajectory Safety Evaluation and Diagnosis in OpenClaw and Codex: ATBench-Claw and ATBench-CodeX",
-      "url": "https://arxiv.org/abs/2604.14858",
-      "summary": "arXiv:2604.14858v1 Announce Type: new Abstract: As agent systems move into increasingly diverse execution settings, trajectory-level safety evaluation and diagnosis require benchmarks that evolve with them. ATBench is a diverse and realistic agent trajectory benchmark for safety evaluation and diagnosis. This report presents ATBench-Claw and ATBench-CodeX, two domain-customized extensions that carry ATBench into the OpenClaw and OpenAI Codex / Codex-runtime settings. The key adaptation mechanism",
-      "published": "2026-04-17T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI (keyword-filtered)",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "Research",
-      "relevance_score": 8
-    },
-    {
-      "title": "Integrating Causal Machine Learning into Clinical Decision Support Systems: Insights from Literature and Practice",
-      "url": "https://arxiv.org/abs/2603.24448",
-      "summary": "arXiv:2603.24448v2 Announce Type: replace-cross Abstract: Current clinical decision support systems (CDSSs) typically base their predictions on correlation, not causation. In recent years, causal machine learning (ML) has emerged as a promising way to improve decision-making with CDSSs by offering interpretable, treatment-specific reasoning. However, existing research often emphasizes model development rather than designing clinician-facing interfaces. To address this gap, we investigated how CD",
+      "title": "PriHA: A RAG-Enhanced LLM Framework for Primary Healthcare Assistant in Hong Kong",
+      "url": "https://arxiv.org/abs/2604.14215",
+      "summary": "arXiv:2604.14215v1 Announce Type: cross Abstract: To address the unsustainable rise in public health expenditures, the Hong Kong SAR Government is shifting its strategic focus to primary healthcare and encouraging citizens to use community resources to self-manage their health. However, official clinical guidelines are fragmented across disparate departments and formats, creating significant access barriers. While general-purpose Large Language Models (LLMs) such as ChatGPT and DeepSeek offer po",
       "published": "2026-04-17T04:00:00.000Z",
       "source_id": "arxiv-cs-ai",
       "source_name": "arXiv cs.AI (keyword-filtered)",
@@ -325,6 +313,18 @@
       "published": "2026-04-14T10:34:49.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 7
+    },
+    {
+      "title": "Will Anthropic’s Claude Partner Network Impact Legal Tech? - Artificial Lawyer",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONDdmbkh3ZmpkZXNfS1BOMXZwRXBQTkpNVHJOMWZzMnp4UFZ3WEQ5RXZKMHo0VlVuV2laSUJVYXFLOWNiallfcGpGX19CQ01wQ3FoWXYtc3pmeVZZb0R0MW1WemZtMklIUW00enlfYXptOWZuMmNGa2JTSGRLSEZnSDlDWk9weGszLW1FSHVkRnJWc1RNdEFwSGdnMXhiLWFtWVZB?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxONDdmbkh3ZmpkZXNfS1BOMXZwRXBQTkpNVHJOMWZzMnp4UFZ3WEQ5RXZKMHo0VlVuV2laSUJVYXFLOWNiallfcGpGX19CQ01wQ3FoWXYtc3pmeVZZb0R0MW1WemZtMklIUW00enlfYXptOWZuMmNGa2JTSGRLSEZnSDlDWk9weGszLW1FSHVkRnJWc1RNdEFwSGdnMXhiLWFtWVZB?oc=5\" target=\"_blank\"&gt;Will Anthropic’s Claude Partner Network Impact Legal Tech?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
+      "published": "2026-03-17T07:00:00.000Z",
+      "source_id": "google-news-legal-tech-funding",
+      "source_name": "Google News: legal tech funding",
       "source_priority": "critical",
       "source_tier": "A",
       "source_category": "Aggregator",
@@ -415,22 +415,10 @@
       "relevance_score": 7
     },
     {
-      "title": "&#8216;We&#8217;ve got the building blocks in place to grow&#8217; &#8211; Harbottle closes in on £60m",
-      "url": "https://www.legalbusiness.co.uk/law-firms/weve-got-the-building-blocks-in-place-to-grow-harbottle-closes-in-on-60m/",
-      "summary": "Harbottle &#38; Lewis has posted record financial results for its most recent financial year, with turnover up 8.3% to £58.3m, from £53.8m last year. This figure caps a decade of sustained expansion for the West End firm, with revenue increasing by 131% since the 2015-16 financial year, when it stood at £25.2m. The firm does not &#8230; Continue reading \"&#8216;We&#8217;ve got the building blocks in place to grow&#8217; &#8211; Harbottle closes in on £60m\"",
-      "published": "2026-04-17T08:34:45.000Z",
-      "source_id": "legal-business",
-      "source_name": "Legal Business",
-      "source_priority": "medium",
-      "source_tier": "B",
-      "source_category": "Legal profession",
-      "relevance_score": 7
-    },
-    {
-      "title": "Anthropic chief Dario Amodei: 'I don't want AI turned on our own people'",
-      "url": "https://www.ft.com/content/9e0e0fc6-ab7d-4b69-a8b1-5a972b82fb06",
-      "summary": "Article URL: https://www.ft.com/content/9e0e0fc6-ab7d-4b69-a8b1-5a972b82fb06 Comments URL: https://news.ycombinator.com/item?id=47805296 Points: 3 # Comments: 1",
-      "published": "2026-04-17T12:39:32.000Z",
+      "title": "A new direction for AI developer tooling featuring creator of Tidewave",
+      "url": "https://changelog.com/friends/112",
+      "summary": "Article URL: https://changelog.com/friends/112 Comments URL: https://news.ycombinator.com/item?id=47806930 Points: 1 # Comments: 0",
+      "published": "2026-04-17T15:23:59.000Z",
       "source_id": "hacker-news",
       "source_name": "Hacker News (filtered)",
       "source_priority": "low",
@@ -439,10 +427,10 @@
       "relevance_score": 7
     },
     {
-      "title": "FortyOne OS – an SMS-first open-source multi user AI assistant OS",
-      "url": "https://news.ycombinator.com/item?id=47804891",
-      "summary": "Hi HN, I guess I'm too new to post on Show HN but I wanted to share about FortyOne, an AGPL-licensed, self-hostable, multi user AI assistant OS designed around SMS as the primary end-user interface. If you ever wanted to share/setup OpenClaw or similar with friends and family but hindered by the setup costs. Check this out! https://github.com/glitchnsec/fortyone-oss/ End users text their own named assistant. The operator manages the infrastructure, OAuth setup, secrets, dashboard, and integratio",
-      "published": "2026-04-17T11:49:11.000Z",
+      "title": "Built a full-stack charitable giving SaaS as a solo developer with agentic AI",
+      "url": "https://www.pifster.org/",
+      "summary": "Article URL: https://www.pifster.org/ Comments URL: https://news.ycombinator.com/item?id=47806204 Points: 2 # Comments: 0",
+      "published": "2026-04-17T14:17:19.000Z",
       "source_id": "hacker-news",
       "source_name": "Hacker News (filtered)",
       "source_priority": "low",
@@ -451,9 +439,9 @@
       "relevance_score": 7
     },
     {
-      "title": "Credo: Declarative Control of LLM Pipelines via Beliefs and Policies",
-      "url": "https://arxiv.org/abs/2604.14401",
-      "summary": "arXiv:2604.14401v1 Announce Type: new Abstract: Agentic AI systems are becoming commonplace in domains that require long-lived, stateful decision-making in continuously evolving conditions. As such, correctness depends not only on the output of individual model calls, but also on how to best adapt when incorporating new evidence or revising prior conclusions. However, existing frameworks rely on imperative control loops, ephemeral memory, and prompt-embedded logic, making agent behavior opaque, ",
+      "title": "Benchmarks for Trajectory Safety Evaluation and Diagnosis in OpenClaw and Codex: ATBench-Claw and ATBench-CodeX",
+      "url": "https://arxiv.org/abs/2604.14858",
+      "summary": "arXiv:2604.14858v1 Announce Type: new Abstract: As agent systems move into increasingly diverse execution settings, trajectory-level safety evaluation and diagnosis require benchmarks that evolve with them. ATBench is a diverse and realistic agent trajectory benchmark for safety evaluation and diagnosis. This report presents ATBench-Claw and ATBench-CodeX, two domain-customized extensions that carry ATBench into the OpenClaw and OpenAI Codex / Codex-runtime settings. The key adaptation mechanism",
       "published": "2026-04-17T04:00:00.000Z",
       "source_id": "arxiv-cs-ai",
       "source_name": "arXiv cs.AI (keyword-filtered)",
@@ -463,9 +451,9 @@
       "relevance_score": 7
     },
     {
-      "title": "Evo-MedAgent: Beyond One-Shot Diagnosis with Agents That Remember, Reflect, and Improve",
-      "url": "https://arxiv.org/abs/2604.14475",
-      "summary": "arXiv:2604.14475v1 Announce Type: new Abstract: Tool-augmented large language model (LLM) agents can orchestrate specialist classifiers, segmentation models, and visual question-answering modules to interpret chest X-rays. However, these agents still solve each case in isolation: they fail to accumulate experience across cases, correct recurrent reasoning mistakes, or adapt their tool-use behavior without expensive reinforcement learning. While a radiologist naturally improves with every case, c",
+      "title": "Integrating Causal Machine Learning into Clinical Decision Support Systems: Insights from Literature and Practice",
+      "url": "https://arxiv.org/abs/2603.24448",
+      "summary": "arXiv:2603.24448v2 Announce Type: replace-cross Abstract: Current clinical decision support systems (CDSSs) typically base their predictions on correlation, not causation. In recent years, causal machine learning (ML) has emerged as a promising way to improve decision-making with CDSSs by offering interpretable, treatment-specific reasoning. However, existing research often emphasizes model development rather than designing clinician-facing interfaces. To address this gap, we investigated how CD",
       "published": "2026-04-17T04:00:00.000Z",
       "source_id": "arxiv-cs-ai",
       "source_name": "arXiv cs.AI (keyword-filtered)",
@@ -475,16 +463,28 @@
       "relevance_score": 7
     },
     {
-      "title": "Quantifying Cross-Query Contradictions in Multi-Query LLM Reasoning",
-      "url": "https://arxiv.org/abs/2604.14525",
-      "summary": "arXiv:2604.14525v1 Announce Type: new Abstract: Large language models frequently produce mutually inconsistent answers when reasoning over multiple related queries. We study case-file logical consistency: maintaining a globally satisfiable belief state across interdependent queries. We introduce a benchmark of 390 multi-query reasoning instances with entailment/contradiction/unknown labels and propose set-level metrics including Case Satisfiability Rate, Contradiction Density and Revision Cost. ",
-      "published": "2026-04-17T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI (keyword-filtered)",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "Research",
-      "relevance_score": 7
+      "title": "ClioCon Briefings: In-house ambition and why data context matters more than ever - Legal IT Insider",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeFN4UjBVSVlaZWVrWWdxd3hZalZzRUtNQkVkNklHcjliTmIzaHRKUHpJTW5aUFdPZVZxVlZqTWtuTkxyeElSNXp1RkNxSUZDR05SYjdTbmo5R2QydTVPNGZ0Nnc5WUJldnpJSDhuV0N2SFZ0bmVET0xaNl9XM191dWRwbXdYRFVsOEMwakdncHloR1lncTVWekFBQmdPaUF1YmpyQVRXTG5iQm5mTzJEVXpFV2pOcFFVTVVj?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeFN4UjBVSVlaZWVrWWdxd3hZalZzRUtNQkVkNklHcjliTmIzaHRKUHpJTW5aUFdPZVZxVlZqTWtuTkxyeElSNXp1RkNxSUZDR05SYjdTbmo5R2QydTVPNGZ0Nnc5WUJldnpJSDhuV0N2SFZ0bmVET0xaNl9XM191dWRwbXdYRFVsOEMwakdncHloR1lncTVWekFBQmdPaUF1YmpyQVRXTG5iQm5mTzJEVXpFV2pOcFFVTVVj?oc=5\" target=\"_blank\"&gt;ClioCon Briefings: In-house ambition and why data context matters more than ever&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Legal IT Insider&lt;/font&gt;",
+      "published": "2026-04-15T14:45:37.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
+    },
+    {
+      "title": "Harvey's CEO says the $1 trillion legal market is too big for any one player — even the $8 billion startup — to dominate - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQei1KaGtYRVNweGZQenRhUW1rWWkxNmxTUFQ2ZkFyTThubDhYUmVCbUNIZE9yT2FPWnotYXNweUdxal9QdEZab3dyWTNmM01mQm1KSmY5S2w5c0VCa2s1bmtOVXhwdjdmNUVsbE1rTldvbUdrVG14RWFmb0p0UUE5cUF4d0lVNURwVk9iQk1vS2hOTzZGcjQ0?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQei1KaGtYRVNweGZQenRhUW1rWWkxNmxTUFQ2ZkFyTThubDhYUmVCbUNIZE9yT2FPWnotYXNweUdxal9QdEZab3dyWTNmM01mQm1KSmY5S2w5c0VCa2s1bmtOVXhwdjdmNUVsbE1rTldvbUdrVG14RWFmb0p0UUE5cUF4d0lVNURwVk9iQk1vS2hOTzZGcjQ0?oc=5\" target=\"_blank\"&gt;Harvey's CEO says the $1 trillion legal market is too big for any one player — even the $8 billion startup — to dominate&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Business Insider&lt;/font&gt;",
+      "published": "2025-12-10T08:00:00.000Z",
+      "source_id": "google-news-legal-tech-funding",
+      "source_name": "Google News: legal tech funding",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
     }
   ]
 }

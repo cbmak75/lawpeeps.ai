@@ -1217,7 +1217,62 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "LawNext on Location: Visiting Everlaw’s Headquarters For A Conversation with AJ Shankar, Founder and CEO",
+      "slug": "lawnext-on-location-visiting-everlaw-s-headquarters-for-a-conversation-with-aj-s",
+      "score": 7,
+      "category": "Legal AI",
+      "story_type": "news",
+      "research_brief": "For the final installment of our LawNext on Location series, all recorded during my trip to San Francisco, I head across the bay to Oakland, to the headquarters of e-discovery company Everlaw, where I sit down with founder and CEO AJ Shankar for a conversation about technology, AI and being in it for the long [&#8230;]",
+      "primary_source": "https://www.lawnext.com/2026/03/lawnext-on-location-visiting-everlaws-headquarters-for-a-conversation-with-aj-shankar-founder-and-ceo.html",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "Everlaw CEO on e-discovery AI future; insider perspective on AI strategy from major vendor",
+      "why_now": "Primary source interview with founder/CEO of established legal AI player; direct insight into company direction",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "LawSites (Bob Ambrogi)",
+      "source_tier": "B",
+      "prefilter_score": 10,
+      "matched_terms": [
+        "LLM",
+        "e-discovery",
+        "Eve"
+      ],
+      "fingerprint": {
+        "entities": [
+          "eve"
+        ],
+        "numerics": [
+          "8k"
+        ],
+        "keywords": [
+          "llm",
+          "e-discovery"
+        ],
+        "title_tokens": [
+          "lawnext",
+          "location",
+          "visiting",
+          "everlaw",
+          "headquarters",
+          "conversation",
+          "shankar",
+          "founder"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-04-17T16:06:51.051Z",
+      "queued_at": "2026-04-17T16:06:51.057Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-04-17T14:53:42.815Z"
+  "last_updated": "2026-04-17T16:06:51.057Z"
 }
