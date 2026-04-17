@@ -59,8 +59,18 @@
       "publishDate": "2026-04-17",
       "sources": "",
       "serves_50_percent": false
+    },
+    {
+      "title": "DLA Piper comparative analysis",
+      "slug": "dla-piper-comparative-analysis",
+      "category": "Legal AI",
+      "staging": "green",
+      "summary": "First federal ruling on AI privilege protection sets important precedent, distinguishing between public and enterprise AI tools for legal work.",
+      "publishDate": "2026-04-17",
+      "sources": "",
+      "serves_50_percent": false
     }
   ],
-  "last_updated": "2026-04-17T09:13:42.819Z",
+  "last_updated": "2026-04-17T10:52:04.719Z",
   "note": "Populated automatically by the editorial cycle. Each entry records a story drafted, published, or killed."
 }

@@ -874,9 +874,10 @@
       "verification_notes": "Multiple authoritative legal sources confirm the ruling details. The case citation is verified: United States v. Heppner, No. 25-cr-00503-JSR (S.D.N.Y. Feb. 17, 2026).",
       "tip_origin": false,
       "queued_at": "2026-04-17T10:21:08.170Z",
-      "status": "pending",
-      "claimed_by": null,
-      "claimed_at": null
+      "status": "published",
+      "claimed_by": "mmike",
+      "claimed_at": "2026-04-17T10:50:43.186Z",
+      "published_at": "2026-04-17T10:52:04.717Z"
     },
     {
       "title": "AI Law Firm Crosby Raises $60M Series B as New Models Challenge Big Law",
@@ -983,5 +984,5 @@
       "claimed_at": null
     }
   ],
-  "last_updated": "2026-04-17T10:21:08.174Z"
+  "last_updated": "2026-04-17T10:52:04.717Z"
 }

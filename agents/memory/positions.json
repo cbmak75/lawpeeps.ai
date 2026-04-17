@@ -25,7 +25,7 @@
     },
     {
       "theme": "AI privilege protection standards",
-      "status": "actively tracking",
+      "status": "Major development - first federal precedent established. Tracking enterprise vs. public AI distinction and cross-jurisdictional developments.",
       "first_tracked": "2026-04-17",
       "last_updated": "2026-04-17"
     }
@@ -65,8 +65,12 @@
     "How will smaller practices adapt to privilege-safe AI tools that may be more expensive?",
     "Will UK courts follow similar reasoning on AI and privilege?",
     "Are enterprise AI contracts actually sufficient to maintain privilege protection?",
-    "How will this affect solo practitioners and small firms who cannot access enterprise tools?"
+    "How will this affect solo practitioners and small firms who cannot access enterprise tools?",
+    "How will courts treat enterprise AI tools with strong confidentiality contracts?",
+    "Does attorney supervision of AI use change the privilege calculus?",
+    "Will this precedent influence UK and EU approaches to AI privilege?",
+    "How do law firm insurance policies account for privilege risks from AI use?"
   ],
-  "last_updated": "2026-04-17T09:13:42.819Z",
+  "last_updated": "2026-04-17T10:52:04.719Z",
   "note": "mm!ke's evolving editorial positions and questions. Updated every cycle, including cycles that produce no articles."
 }
