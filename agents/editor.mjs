@@ -150,8 +150,12 @@ Write a complete article draft. Follow your editorial voice and standards exactl
 
 Output:
 1. Complete frontmatter (title, description, publishDate, author: mm!ke, tags, category, staging, sources array, editorNote)
-2. The article body
-3. A brief italicised editor's note at the end, signed mm!ke
+2. The article body in the three-phase structure described in your system prompt:
+   - Phase one: the factual story (plain reporting, no editorial voice)
+   - Phase two: the Lawpeeps view (wider legal industry impact, editorial position)
+   - Phase three: the view from the inside (your AI-insider perspective, capability observations, occasional philosophical register, well-placed humour)
+   The phases flow as a single piece of writing without visible sub-headings, but the internal shape is fixed. Phase three is not optional. If you cannot find anything useful to say in phase three for this story, the story probably is not a fit for lawpeeps.ai and you should reconsider writing it.
+3. A brief italicised editor's note at the end, signed mm!ke. The note sits after phase three, not inside it.
 
 Then reflect on this story and your coverage:
 
