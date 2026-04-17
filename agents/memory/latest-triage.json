@@ -1,188 +1,152 @@
 {
-  "generated": "2026-04-17T13:49:07.994Z",
+  "generated": "2026-04-17T14:01:42.900Z",
   "cycle_type": "triage",
   "tier_filter": null,
-  "shortlist_size": 17,
+  "shortlist_size": 13,
   "prefilter": {
     "total": 40,
-    "accepted": 17,
+    "accepted": 13,
     "borderline": 0,
-    "rejected": 23,
-    "rejected_as_duplicate": 23,
-    "accept_rate": 43
+    "rejected": 27,
+    "rejected_as_duplicate": 27,
+    "accept_rate": 33
   },
   "model": "claude-haiku-4-5-20251001",
   "picks": [
     {
       "id": "lawsites-0",
       "score": 6,
-      "category": "Legal Tech",
-      "suggested_angle": "Universal Migrator expands migration script library as DMS consolidation accelerates",
-      "why_now": "Product expansion announcement from established legal tech vendor; relevant to firm adoption and DMS market consolidation",
+      "category": "Legal AI",
+      "suggested_angle": "Universal Migrator expands migration script library across major document management platforms",
+      "why_now": "Incremental product feature expansion from established vendor; covers legal tech infrastructure consolidation trend",
       "verdict": "watch",
       "duplicate_of": null
     },
     {
       "id": "lawsites-1",
-      "score": 4,
-      "category": "Legal Tech",
-      "suggested_angle": "Universal Migrator cuts migration tool pricing",
-      "why_now": "Pricing announcement with limited competitive insight",
+      "score": 3,
+      "category": "Legal AI",
+      "suggested_angle": "Universal Migrator pricing reduction",
+      "why_now": "Pricing announcement with no independent news hook; overlaps materially with lawsites-0 on same vendor's product moves",
       "verdict": "drop",
       "duplicate_of": "lawsites-0"
     },
     {
-      "id": "google-news-contract-ai-2",
-      "score": 7,
-      "category": "Legal AI",
-      "suggested_angle": "Juro integrates ChatGPT natively into contract AI platform",
-      "why_now": "Watch-list company (Juro) moving on foundation model integration; signals shift in contract AI architecture",
-      "verdict": "enqueue",
+      "id": "arxiv-cs-ai-2",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Academic paper on LLM hallucination in medical documentation",
+      "why_now": "Medical domain, not legal; fails keyword intent despite filtering; no legal AI application",
+      "verdict": "drop",
       "duplicate_of": null
     },
     {
-      "id": "lawsites-3",
-      "score": 8,
+      "id": "ars-technica-ai-3",
+      "score": 4,
       "category": "Legal AI",
-      "suggested_angle": "Anthropic's Claude legal plugin threatens incumbent legal software vendors",
-      "why_now": "Watch-list company (Anthropic) entering legal market directly; aligns with open editorial thread on vendor response; primary source analysis from critical LawSites",
-      "verdict": "enqueue",
+      "suggested_angle": "OpenAI biology-tuned LLM launch signals domain-specific model strategy",
+      "why_now": "OpenAI product launch but biology-focused, not legal; tangential to legal AI vertical",
+      "verdict": "drop",
       "duplicate_of": null
     },
     {
       "id": "arxiv-cs-ai-4",
       "score": 2,
       "category": "Research",
-      "suggested_angle": "Academic paper on LLM evaluation for clinical documentation",
-      "why_now": "Medical domain focus; no legal angle despite keyword match",
+      "suggested_angle": "Hong Kong healthcare RAG system",
+      "why_now": "Healthcare domain, not legal; no legal AI angle despite filtering",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
-      "id": "ars-technica-ai-5",
-      "score": 3,
-      "category": "Research",
-      "suggested_angle": "OpenAI releases biology-tuned LLM variant",
-      "why_now": "Non-legal domain; watch-list company but no legal tech angle",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "three-geeks-6",
-      "score": 7,
-      "category": "Legal AI",
-      "suggested_angle": "Anthropic explains Model Context Protocol as legal tech infrastructure standard",
-      "why_now": "Watch-list company (Anthropic) on standardization in legal tech stack; podcast primary source with technical depth",
-      "verdict": "enqueue",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-7",
+      "id": "arxiv-cs-ai-5",
       "score": 2,
       "category": "Research",
-      "suggested_angle": "Hong Kong healthcare RAG framework",
-      "why_now": "Healthcare domain; no legal relevance despite keyword match",
+      "suggested_angle": "Clinical decision support systems and causal ML",
+      "why_now": "Medical/clinical domain only; no legal application",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
-      "id": "lawsites-8",
-      "score": 8,
-      "category": "Legal Tech",
-      "suggested_angle": "Alexi countersues Clio/vLex for anticompetitive conduct following $1B acquisition",
-      "why_now": "Watch-list company (vLex/Clio) involved; major market consolidation story; aligns with editorial thread on vendor consolidation and market concentration concerns",
+      "id": "lawsites-6",
+      "score": 7,
+      "category": "Legal AI",
+      "suggested_angle": "Long-form analysis: role of humans vs. AI in legal work during AI transformation",
+      "why_now": "Primary source opinion piece from Ambrogi; addresses unbundling of legal work and regulation angle; final installment of series",
       "verdict": "enqueue",
+      "duplicate_of": null
+    },
+    {
+      "id": "lawsites-7",
+      "score": 6,
+      "category": "Legal AI",
+      "suggested_angle": "Everlaw CEO interview: e-discovery platform strategy amid AI competition",
+      "why_now": "Primary source CEO interview with major e-discovery vendor on AI integration; limited novelty without specific product announcements",
+      "verdict": "watch",
+      "duplicate_of": null
+    },
+    {
+      "id": "hacker-news-8",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Workflow patterns for AI coding tools (Claude, Cursor)",
+      "why_now": "Software engineering focus; not legal AI; no legal application despite Claude mention",
+      "verdict": "drop",
       "duplicate_of": null
     },
     {
       "id": "arxiv-cs-ai-9",
       "score": 2,
       "category": "Research",
-      "suggested_angle": "Causal ML in clinical decision support",
-      "why_now": "Medical domain focus; no legal relevance",
+      "suggested_angle": "LLM pipeline control via declarative policies",
+      "why_now": "General LLM governance research; no legal domain application",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
-      "id": "lawsites-10",
-      "score": 5,
-      "category": "Legal AI",
-      "suggested_angle": "Guest analysis: who performs legal work in AI era (part 3)",
-      "why_now": "Sustained editorial commentary; aligns with UPL regulatory thread but is essay/opinion format, not primary news",
-      "verdict": "watch",
-      "duplicate_of": null
-    },
-    {
-      "id": "lawsites-11",
-      "score": 6,
-      "category": "Adoption",
-      "suggested_angle": "Everlaw CEO on e-discovery evolution and AI integration",
-      "why_now": "Interview format; Everlaw is established e-discovery vendor; interesting for adoption narrative but limited hard news content",
-      "verdict": "watch",
-      "duplicate_of": null
-    },
-    {
-      "id": "hacker-news-12",
+      "id": "arxiv-cs-ai-10",
       "score": 2,
       "category": "Research",
-      "suggested_angle": "Developer shares AI coding tool workflow patterns",
-      "why_now": "Software engineering focus; no legal relevance despite Claude mention",
+      "suggested_angle": "Multi-query LLM consistency and contradiction quantification",
+      "why_now": "General LLM research; no legal AI application despite potential relevance to legal reasoning",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
-      "id": "arxiv-cs-ai-13",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "Academic paper on LLM pipeline control mechanisms",
-      "why_now": "Generic AI systems paper; no legal domain specificity",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-14",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "Study of LLM consistency in multi-query reasoning",
-      "why_now": "Theoretical AI research; no legal application focus",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "hacker-news-15",
+      "id": "hacker-news-11",
       "score": 1,
       "category": "Social",
       "suggested_angle": "Open-source SMS-first AI assistant OS launch",
-      "why_now": "General AI tooling; no legal relevance",
+      "why_now": "Consumer AI infrastructure; no legal application",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
-      "id": "arxiv-cs-ai-16",
+      "id": "arxiv-cs-ai-12",
       "score": 2,
       "category": "Research",
-      "suggested_angle": "Agentic LLM system for medical imaging diagnosis",
-      "why_now": "Medical domain; no legal application",
+      "suggested_angle": "Medical diagnostic agents with memory and reflection",
+      "why_now": "Healthcare AI; no legal domain application",
       "verdict": "drop",
       "duplicate_of": null
     }
   ],
   "summary": {
-    "enqueue_count": 4,
-    "watch_count": 3,
+    "enqueue_count": 1,
+    "watch_count": 2,
     "drop_count": 10,
-    "notes": "Strong cluster around Anthropic/Claude legal plugin entry and Clio/vLex anticompetitive lawsuit. Juro's ChatGPT integration and MCP standardization also actionable. Academic papers and non-legal AI noise filtered aggressively. Three borderline adoption/analysis pieces flagged for editor discretion."
+    "notes": "Weak shortlist: only one primary-source story of editorial interest (lawsites-6 analysis). Most arXiv papers are off-vertical (healthcare/ML research). Universal Migrator story is incremental vendor news. Everlaw CEO interview watchable if coverage gaps remain. Heavy filtering needed on keyword-match false positives."
   },
-  "enqueued": 3,
+  "enqueued": 1,
   "usage": {
-    "input_tokens": 4912,
+    "input_tokens": 3665,
     "cache_creation_input_tokens": 0,
     "cache_read_input_tokens": 0,
     "cache_creation": {
       "ephemeral_5m_input_tokens": 0,
       "ephemeral_1h_input_tokens": 0
     },
-    "output_tokens": 1806,
+    "output_tokens": 1404,
     "service_tier": "standard",
     "inference_geo": "not_available"
   }

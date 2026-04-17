@@ -1158,7 +1158,64 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "Guest Post: The New Physics of Legal Tech: Who Performs Legal Work in the AI Era? (Part 3 of 3)",
+      "slug": "guest-post-the-new-physics-of-legal-tech-who-performs-legal-work-in-the-ai-era-p",
+      "score": 7,
+      "category": "Legal AI",
+      "story_type": "news",
+      "research_brief": "This is the final installment in a three-part series examining the forces reshaping the legal industry. Part One and Part Two covered the macro dynamics of the AI industrial revolution and also the bending of UPL as consumers turn to AI products such as ChatGPT, Claude and Perplexity for legal advice. Consumer behavior will lead, [&#8230;]",
+      "primary_source": "https://www.lawnext.com/2026/03/guest-post-the-new-physics-of-legal-tech-who-performs-legal-work-in-the-ai-era-part-3-of-3.html",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "Long-form analysis: role of humans vs. AI in legal work during AI transformation",
+      "why_now": "Primary source opinion piece from Ambrogi; addresses unbundling of legal work and regulation angle; final installment of series",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "LawSites (Bob Ambrogi)",
+      "source_tier": "B",
+      "prefilter_score": 10,
+      "matched_terms": [
+        "LLM",
+        "GPT",
+        "Claude",
+        "legal tech"
+      ],
+      "fingerprint": {
+        "entities": [],
+        "numerics": [
+          "8k"
+        ],
+        "keywords": [
+          "llm",
+          "gpt",
+          "claude",
+          "legal tech"
+        ],
+        "title_tokens": [
+          "guest",
+          "post",
+          "physics",
+          "legal",
+          "tech",
+          "performs",
+          "work",
+          "ai",
+          "part"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-04-17T14:01:42.893Z",
+      "queued_at": "2026-04-17T14:01:42.899Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-04-17T13:49:07.988Z"
+  "last_updated": "2026-04-17T14:01:42.899Z"
 }
