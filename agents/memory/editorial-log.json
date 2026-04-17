@@ -81,8 +81,19 @@
       "publishDate": "2026-04-17",
       "sources": "",
       "serves_50_percent": false
+    },
+    {
+      "title": "Society of Asian Lawyers webinar coverage",
+      "slug": "society-of-asian-lawyers-webinar-coverage",
+      "category": "regulatory",
+      "staging": "green",
+      "summary": "First regulatory data reveals widespread consumer adoption of AI for legal matters, with many using hybrid approach combining solicitor advice and AI models.",
+      "publishDate": "2026-04-17",
+      "sources": "",
+      "serves_50_percent": false,
+      "fingerprint": null
     }
   ],
-  "last_updated": "2026-04-17T13:09:53.710Z",
+  "last_updated": "2026-04-17T14:06:37.038Z",
   "note": "Populated automatically by the editorial cycle. Each entry records a story drafted, published, or killed."
 }

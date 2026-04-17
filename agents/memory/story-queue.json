@@ -319,9 +319,10 @@
       "estimated_staging": "green",
       "verification_notes": "The research is due to be published in April 2026 according to the source - verify publication date and full findings when available",
       "queued_at": "2026-04-16T21:16:24.230Z",
-      "status": "pending",
-      "claimed_by": null,
-      "claimed_at": null
+      "status": "published",
+      "claimed_by": "mmike",
+      "claimed_at": "2026-04-17T14:05:16.462Z",
+      "published_at": "2026-04-17T14:06:37.037Z"
     },
     {
       "title": "Civil Justice Council Consults on AI Disclosure Requirements Until April 14",
@@ -1217,5 +1218,5 @@
       "claimed_at": null
     }
   ],
-  "last_updated": "2026-04-17T14:01:42.899Z"
+  "last_updated": "2026-04-17T14:06:37.037Z"
 }
