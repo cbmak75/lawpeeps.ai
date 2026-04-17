@@ -1,15 +1,15 @@
 {
-  "generated": "2026-04-17T19:23:32.769Z",
+  "generated": "2026-04-17T21:53:42.593Z",
   "cycle_type": "triage",
   "tier_filter": null,
-  "shortlist_size": 9,
+  "shortlist_size": 10,
   "prefilter": {
     "total": 40,
-    "accepted": 9,
+    "accepted": 10,
     "borderline": 0,
-    "rejected": 31,
-    "rejected_as_duplicate": 31,
-    "accept_rate": 23
+    "rejected": 30,
+    "rejected_as_duplicate": 30,
+    "accept_rate": 25
   },
   "model": "claude-haiku-4-5-20251001",
   "picks": [
@@ -17,8 +17,8 @@
       "id": "lawsites-0",
       "score": 6,
       "category": "Legal Tech",
-      "suggested_angle": "Universal Migrator expands migration script library to cover three new legacy platforms",
-      "why_now": "Incremental product release from established legal tech vendor; tier-B source but narrow audience value",
+      "suggested_angle": "Universal Migrator expands migration script library with DocuWare, Legal Server, Alfresco support",
+      "why_now": "Product expansion from a legal tech vendor; incremental but solid coverage for the legal tech community",
       "verdict": "watch",
       "duplicate_of": null
     },
@@ -27,25 +27,25 @@
       "score": 4,
       "category": "Legal Tech",
       "suggested_angle": "Universal Migrator cuts pricing on migration tools",
-      "why_now": "Pricing announcement is marketing puff with no independent news hook; watch for dedup against lawsites-0 as both are Universal Migrator product moves within weeks",
-      "verdict": "drop",
-      "duplicate_of": "lawsites-0"
-    },
-    {
-      "id": "ars-technica-ai-2",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "OpenAI releases biology-tuned LLM variant",
-      "why_now": "Outside editorial focus (not legal AI, legal tech, or regulation); general AI infrastructure announcement with no legal application angle",
+      "why_now": "Pricing announcement; insufficient editorial news value without firm adoption or market impact data",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
-      "id": "arxiv-cs-ai-3",
+      "id": "arxiv-cs-ai-2",
       "score": 2,
       "category": "Research",
-      "suggested_angle": "arXiv paper on LLM hallucination evaluation in medical SOAP notes",
-      "why_now": "Medical/clinical domain; keyword match to Litera and Eve is too loose; no legal angle or named legal AI vendor involvement",
+      "suggested_angle": "arXiv paper on LLM hallucination in medical SOAP notes",
+      "why_now": "Medical/clinical research; no legal AI connection despite keyword match on Litera/Eve",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "ars-technica-ai-3",
+      "score": 3,
+      "category": "Legal AI",
+      "suggested_angle": "OpenAI releases biology-tuned LLM (GPT-Rosalind)",
+      "why_now": "OpenAI product launch but biology-specific; no legal angle and likely covered generically elsewhere",
       "verdict": "drop",
       "duplicate_of": null
     },
@@ -53,8 +53,8 @@
       "id": "arxiv-cs-ai-4",
       "score": 1,
       "category": "Research",
-      "suggested_angle": "Hong Kong primary healthcare RAG framework paper",
-      "why_now": "Medical/healthcare domain in Hong Kong; no legal AI, legal tech, or regulation angle; keyword match too loose",
+      "suggested_angle": "Hong Kong primary healthcare RAG-enhanced LLM framework",
+      "why_now": "Healthcare policy paper; no legal AI or legal tech relevance",
       "verdict": "drop",
       "duplicate_of": null
     },
@@ -62,17 +62,17 @@
       "id": "crunchbase-news-5",
       "score": 2,
       "category": "Funding",
-      "suggested_angle": "Weekly funding round roundup; multiple sectors",
-      "why_now": "Generic venture capital aggregation; no watch-list company named; no legal vertical focus",
+      "suggested_angle": "Weekly funding roundup: transportation and biotech lead",
+      "why_now": "Generic aggregation; no legal AI company named and no watch-list company identified",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
       "id": "ars-technica-ai-6",
       "score": 1,
-      "category": "Policy",
-      "suggested_angle": "US data center construction delays impact AI infrastructure",
-      "why_now": "Infrastructure/energy story; no legal AI or legal tech angle; tangential to legal publication scope",
+      "category": "Social",
+      "suggested_angle": "US data center construction delays amid AI infrastructure demand",
+      "why_now": "Infrastructure issue; tangential to legal AI and no direct relevance to publication scope",
       "verdict": "drop",
       "duplicate_of": null
     },
@@ -80,17 +80,26 @@
       "id": "arxiv-cs-ai-7",
       "score": 2,
       "category": "Research",
-      "suggested_angle": "arXiv paper on causal ML in clinical decision support systems",
-      "why_now": "Medical/clinical domain; no legal AI, legal tech, or regulation angle; keyword match to Litera and Eve is too loose",
+      "suggested_angle": "Causal machine learning in clinical decision support systems",
+      "why_now": "Clinical/medical ML research; no legal application despite keyword filtering on Litera/Eve",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
-      "id": "hacker-news-8",
+      "id": "above-the-law-legaltech-8",
       "score": 1,
       "category": "Social",
-      "suggested_angle": "HN discussion: user AI exhaust and personal data monetization",
-      "why_now": "Generic tech discussion with no legal AI, legal tech, or regulation focus; no primary source or actionable news",
+      "suggested_angle": "Biglaw associate donates kidney to partner",
+      "why_now": "Human interest story; zero relevance to legal AI, legal tech, or regulation",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "hacker-news-9",
+      "score": 1,
+      "category": "Social",
+      "suggested_angle": "HN discussion: what does 'great' look like in AI development?",
+      "why_now": "Generic discussion thread; no news hook and no legal sector relevance",
       "verdict": "drop",
       "duplicate_of": null
     }
@@ -98,19 +107,19 @@
   "summary": {
     "enqueue_count": 0,
     "watch_count": 1,
-    "drop_count": 8,
-    "notes": "Shortlist heavily skewed toward off-topic medical AI papers, generic tech infrastructure, and venture roundups. Only lawsites-0 (Universal Migrator script release) has legal tech relevance but is incremental vendor news; flagged as watch pending dedup check against lawsites-1. All arXiv papers are medical/clinical domain. No funding rounds at named watch-list companies. No regulatory statements. No immigration AI. No new legal AI coverage."
+    "drop_count": 9,
+    "notes": "Weak shortlist. Only lawsites-0 merits editorial review but insufficient news value to enqueue; rest is medical research, biotech, generic funding, or off-topic social content. No watch-list company funding, no regulator statements, no immigration AI angle."
   },
   "enqueued": 0,
   "usage": {
-    "input_tokens": 2940,
+    "input_tokens": 3200,
     "cache_creation_input_tokens": 0,
     "cache_read_input_tokens": 0,
     "cache_creation": {
       "ephemeral_5m_input_tokens": 0,
       "ephemeral_1h_input_tokens": 0
     },
-    "output_tokens": 1121,
+    "output_tokens": 1129,
     "service_tier": "standard",
     "inference_geo": "not_available"
   }

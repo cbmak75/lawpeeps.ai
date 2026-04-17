@@ -1,23 +1,11 @@
 {
-  "generated": "2026-04-17T19:13:14.389Z",
+  "generated": "2026-04-17T21:53:32.775Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 1362,
+  "total_scanned": 1354,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
-    {
-      "title": "A Public Service Announcement: Legal Tech Companies, Here Are Your Celebrity Endorsers",
-      "url": "https://www.lawnext.com/2026/04/a-public-service-announcement-legal-tech-companies-here-are-your-celebrity-endorsers.html",
-      "summary": "It started with Harvey, the legal AI company that signed Gabriel Macht – the actor who played Harvey Specter on Suits – as a brand ambassador. Then Legora one-upped everyone by signing the actor Jude Law, building a whole campaign around the tagline, &#8220;Law just got more attractive,&#8221; and shooting the thing with an Oscar-winning [&#8230;]",
-      "published": "2026-04-17T14:06:45.000Z",
-      "source_id": "lawsites",
-      "source_name": "LawSites (Bob Ambrogi)",
-      "source_priority": "critical",
-      "source_tier": "B",
-      "source_category": "Legal tech commentary",
-      "relevance_score": 14
-    },
     {
       "title": "The Latest AI Revolution Just Showed Up in Your Word Doc.",
       "url": "https://www.geeklawblog.com/2026/04/the-latest-ai-revolution-just-showed-up-in-your-word-doc.html",
@@ -29,6 +17,30 @@
       "source_tier": "B",
       "source_category": "Legal operations",
       "relevance_score": 13
+    },
+    {
+      "title": "Legal Tech Roundup: Relativity, Everlaw, Monjur - Law360",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPb3pOWjJjMHk1SzU1em1tY2xLVW9LeGFqZmFCYTd4RkNyNWlMaVlFX3JmRndyWE4yZjZkWWhBZDRlNXpVUmt1c0FhYkxHb0FoYXdWM1Y1MVNiZXFORkFDUy1kbjY5YnRFbnRsQ3VmS3p5SmZyeTZUYUV5OXRQTTBZQkh5dHgtaTFmYV90Q9IBXkFVX3lxTE9hLV84NDJ6dGlIRXBtTDJSMDVnVF9jd05zLUhqLS1VQVJNSXl0ekFCMGJTT0s1YXI0LVFyeVpENkdUWTBOSnVCakFXVUtWOWx4aE1ZX1dIMjl2c0VUZlE?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPb3pOWjJjMHk1SzU1em1tY2xLVW9LeGFqZmFCYTd4RkNyNWlMaVlFX3JmRndyWE4yZjZkWWhBZDRlNXpVUmt1c0FhYkxHb0FoYXdWM1Y1MVNiZXFORkFDUy1kbjY5YnRFbnRsQ3VmS3p5SmZyeTZUYUV5OXRQTTBZQkh5dHgtaTFmYV90Q9IBXkFVX3lxTE9hLV84NDJ6dGlIRXBtTDJSMDVnVF9jd05zLUhqLS1VQVJNSXl0ekFCMGJTT0s1YXI0LVFyeVpENkdUWTBOSnVCakFXVUtWOWx4aE1ZX1dIMjl2c0VUZlE?oc=5\" target=\"_blank\"&gt;Legal Tech Roundup: Relativity, Everlaw, Monjur&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&",
+      "published": "2026-04-17T20:32:00.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 12
+    },
+    {
+      "title": "A Public Service Announcement: Legal Tech Companies, Here Are Your Celebrity Endorsers",
+      "url": "https://www.lawnext.com/2026/04/a-public-service-announcement-legal-tech-companies-here-are-your-celebrity-endorsers.html",
+      "summary": "It started with Harvey, the legal AI company that signed Gabriel Macht – the actor who played Harvey Specter on Suits – as a brand ambassador. Then Legora one-upped everyone by signing the actor Jude Law, building a whole campaign around the tagline, &#8220;Law just got more attractive,&#8221; and shooting the thing with an Oscar-winning [&#8230;]",
+      "published": "2026-04-17T14:06:45.000Z",
+      "source_id": "lawsites",
+      "source_name": "LawSites (Bob Ambrogi)",
+      "source_priority": "critical",
+      "source_tier": "B",
+      "source_category": "Legal tech commentary",
+      "relevance_score": 12
     },
     {
       "title": "Three Years After Launching As First AI Legal Assistant, CoCounsel Reaches 1 Million Users &#8212; and Thomson Reuters Teases What&#8217;s Ahead",
@@ -127,6 +139,18 @@
       "relevance_score": 8
     },
     {
+      "title": "Harvey + Elevenlabs Partner For Legal AI Audio - Artificial Lawyer",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQU0oyVkJnWlliSHNiYXYtcGU2OG5sdzBPbEpwV09XcHQ2aUtXRElmdG1rTk5ZZHRPSnpuaUNBcFd1TlVvbGl4ZHp0aTU1amQzMlpiUF9QYXhBWThkVEIxdUk2eUI1LW41WGMxdFk5dDg3VWNQY05kTWhoOWE2TTRUQ1FxeGc2bG5fb21NVEZtMEFLQWM?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQU0oyVkJnWlliSHNiYXYtcGU2OG5sdzBPbEpwV09XcHQ2aUtXRElmdG1rTk5ZZHRPSnpuaUNBcFd1TlVvbGl4ZHp0aTU1amQzMlpiUF9QYXhBWThkVEIxdUk2eUI1LW41WGMxdFk5dDg3VWNQY05kTWhoOWE2TTRUQ1FxeGc2bG5fb21NVEZtMEFLQWM?oc=5\" target=\"_blank\"&gt;Harvey + Elevenlabs Partner For Legal AI Audio&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
+      "published": "2025-11-12T08:00:00.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 8
+    },
+    {
       "title": "Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook partners with CBA; DeepIP raises $25m - Legal IT Insider",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPNVJJREhTZDUwWGlQd3hwTm84Q08xekZJSktTWTJaamNWellIZVhUajRjVFNLMnIwd3dMcGNKMjA3N090TWFBMWdoRWtXQUx0VW1OcGlMc3c2a0lITVpFajVLREdrYlJLME55bGc1RV9zZF9ITjVoUWZYcGp4akZIYlNWNEVpQkdfek1BWWR1bXFXNHowWTlXaUZvZlZuQmV0VXRtTW9rRmYzTUNXVWgxVGcxbnkta0NOdDIzU2VieUpQTnY0SVNBZUwxNXVTZllRWVFHY0M4dDhHcjAzUTI1ZVlKci1ZZ1dXVGlzQXZtSzFNWHhY?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPNVJJREhTZDUwWGlQd3hwTm84Q08xekZJSktTWTJaamNWellIZVhUajRjVFNLMnIwd3dMcGNKMjA3N090TWFBMWdoRWtXQUx0VW1OcGlMc3c2a0lITVpFajVLREdrYlJLME55bGc1RV9zZF9ITjVoUWZYcGp4akZIYlNWNEVpQkdfek1BWWR1bXFXNHowWTlXaUZvZlZuQmV0VXRtTW9rRmYzTUNXVWgxVGcxbnkta0NOdDIzU2VieUpQTnY0SVNBZUwxNXVTZllRWVFHY0M4dDhHcjAzUTI1ZVlKci1ZZ1dXVGlzQXZtSzFNWHhY?oc=5\" target=\"_blank\"&gt;Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook par",
@@ -143,6 +167,18 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaDhOaTN1RzVmZmxWa1U2TTZyTW9ucXRjZjU2RHUzT0RoMTJQb1BvZ1hpbUgwTUFZS3U5UHV1R21abHdrRDR3cFlWTC1SY3J2WUN1YWlwSlY0Y0VpVjVYSXV2dk93YjhuU0NXYTE5QnBiVHF5bHVLRHdWbzMxdVB3MU0zMFh1TzF0U1JmOA?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQaDhOaTN1RzVmZmxWa1U2TTZyTW9ucXRjZjU2RHUzT0RoMTJQb1BvZ1hpbUgwTUFZS3U5UHV1R21abHdrRDR3cFlWTC1SY3J2WUN1YWlwSlY0Y0VpVjVYSXV2dk93YjhuU0NXYTE5QnBiVHF5bHVLRHdWbzMxdVB3MU0zMFh1TzF0U1JmOA?oc=5\" target=\"_blank\"&gt;Why legal tech giant Harvey is raising cash like OpenAI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Business Insider&lt;/font&gt;",
       "published": "2026-03-26T07:00:00.000Z",
+      "source_id": "google-news-legal-tech-funding",
+      "source_name": "Google News: legal tech funding",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 8
+    },
+    {
+      "title": "EvenUp, AI Software For Personal Injury Law, Doubles Valuation To $2B As Legal Tech Funding Hits Record High - Crunchbase News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY2p6WWxfeE1ZZDJxQXJPOWtrR2VZdkxlSkFtck03QWJtOU1YcGtHUFBlZllXMXkxeXRlcHhfZU9vR0VMU1JUS0FYMGNUSXZ0UnVRSU5YRVZuWERkU29MVFYzYjNtdHN6OUZGU3JlNWpLcDI3eTRwam5fVkhUSzU2WFdtX0daQUNseG50YzRpTQ?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQY2p6WWxfeE1ZZDJxQXJPOWtrR2VZdkxlSkFtck03QWJtOU1YcGtHUFBlZllXMXkxeXRlcHhfZU9vR0VMU1JUS0FYMGNUSXZ0UnVRSU5YRVZuWERkU29MVFYzYjNtdHN6OUZGU3JlNWpLcDI3eTRwam5fVkhUSzU2WFdtX0daQUNseG50YzRpTQ?oc=5\" target=\"_blank\"&gt;EvenUp, AI Software For Personal Injury Law, Doubles Valuation To $2B As Legal Tech Funding Hits Record High&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Crunchbase News&lt;/font&gt;",
+      "published": "2025-10-07T07:00:00.000Z",
       "source_id": "google-news-legal-tech-funding",
       "source_name": "Google News: legal tech funding",
       "source_priority": "critical",
@@ -271,18 +307,6 @@
       "relevance_score": 8
     },
     {
-      "title": "OpenAI starts offering a biology-tuned LLM",
-      "url": "https://arstechnica.com/science/2026/04/openai-starts-offering-a-biology-tuned-llm/",
-      "summary": "GPT-Rosalind is an LLM trained on biology workflows, available in closed access.",
-      "published": "2026-04-16T21:17:47.000Z",
-      "source_id": "ars-technica-ai",
-      "source_name": "Ars Technica AI",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "General AI",
-      "relevance_score": 8
-    },
-    {
       "title": "PriHA: A RAG-Enhanced LLM Framework for Primary Healthcare Assistant in Hong Kong",
       "url": "https://arxiv.org/abs/2604.14215",
       "summary": "arXiv:2604.14215v1 Announce Type: cross Abstract: To address the unsustainable rise in public health expenditures, the Hong Kong SAR Government is shifting its strategic focus to primary healthcare and encouraging citizens to use community resources to self-manage their health. However, official clinical guidelines are fragmented across disparate departments and formats, creating significant access barriers. While general-purpose Large Language Models (LLMs) such as ChatGPT and DeepSeek offer po",
@@ -307,34 +331,10 @@
       "relevance_score": 7
     },
     {
-      "title": "Legal AI giant Harvey acquires Hexus as competition heats up in legal tech - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWtsRnRNeWxYZWEwaERMRVJaRWVfQm41MzVDeDJBM1ZIOEstUW5DaTB5UUhjUXE5Sml2QU40RzdZaWlqeUpid3dELUpLTHlKbVNRNmRObWtrZ1dSSXd3R20wSDY3TkVUOHVwRzlZOTh1b1FraXZlNGpuUnBPcXdIU2oxbVZzMTZDVzVNMDRDcGR0NC1oQ2pfMGlUY25YSHBZaHJUTEljdzU5LWREa0E?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWtsRnRNeWxYZWEwaERMRVJaRWVfQm41MzVDeDJBM1ZIOEstUW5DaTB5UUhjUXE5Sml2QU40RzdZaWlqeUpid3dELUpLTHlKbVNRNmRObWtrZ1dSSXd3R20wSDY3TkVUOHVwRzlZOTh1b1FraXZlNGpuUnBPcXdIU2oxbVZzMTZDVzVNMDRDcGR0NC1oQ2pfMGlUY25YSHBZaHJUTEljdzU5LWREa0E?oc=5\" target=\"_blank\"&gt;Legal AI giant Harvey acquires Hexus as competition heats up in legal tech&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;TechCrunch&lt;/font&gt;",
-      "published": "2026-01-23T08:00:00.000Z",
-      "source_id": "google-news-legal-tech-funding",
-      "source_name": "Google News: legal tech funding",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 7
-    },
-    {
       "title": "Juro Goes Direct to ChatGPT For Contract AI - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWTB4VVlWclpYMExWSFdxaWpHaXdNYXQ3UnQyWGJKemgtOGtoanNPVWZrVHRuVWdma00xUnhaTlF5TXl4SjQycDFLZjNwb0xMTHljWm9Lc3I4V0NvTnY2RXVFeGJfUHV3MzhTNnJPeGdEdmNqcUQza0ZpU3hmUFBHc3ZqUEF2dUNnVW8yN2NETHBMZw?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQWTB4VVlWclpYMExWSFdxaWpHaXdNYXQ3UnQyWGJKemgtOGtoanNPVWZrVHRuVWdma00xUnhaTlF5TXl4SjQycDFLZjNwb0xMTHljWm9Lc3I4V0NvTnY2RXVFeGJfUHV3MzhTNnJPeGdEdmNqcUQza0ZpU3hmUFBHc3ZqUEF2dUNnVW8yN2NETHBMZw?oc=5\" target=\"_blank\"&gt;Juro Goes Direct to ChatGPT For Contract AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
       "published": "2025-10-21T07:00:00.000Z",
-      "source_id": "google-news-contract-ai",
-      "source_name": "Google News: contract AI",
-      "source_priority": "medium",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 7
-    },
-    {
-      "title": "Meet Spellbook the GPT-3 Generative AI Word Add-In For Contracts - Artificial Lawyer",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORGNXbjRyVWRDZ01OLXlaM21tTjY5eUdNYktBdmsyTEhyUmxWUFc2T0QyWUUyX0lEZFZFWk9LeS1seXRyOTdBMkhSYzZyeWEwTnhDcks2ZmVyQm9GYV9EQ2RGUDBaXzFDUkZFclFvMmV1YkJ3UlY3QU0yY1A3NXJHeTAzakxKSF82aTZoRWdSaEFaQ1duMEtRb2lQcTRqVTJhTklvdy1wR00wSlBacGc?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxORGNXbjRyVWRDZ01OLXlaM21tTjY5eUdNYktBdmsyTEhyUmxWUFc2T0QyWUUyX0lEZFZFWk9LeS1seXRyOTdBMkhSYzZyeWEwTnhDcks2ZmVyQm9GYV9EQ2RGUDBaXzFDUkZFclFvMmV1YkJ3UlY3QU0yY1A3NXJHeTAzakxKSF82aTZoRWdSaEFaQ1duMEtRb2lQcTRqVTJhTklvdy1wR00wSlBacGc?oc=5\" target=\"_blank\"&gt;Meet Spellbook the GPT-3 Generative AI Word Add-In For Contracts&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
-      "published": "2022-11-09T08:00:00.000Z",
       "source_id": "google-news-contract-ai",
       "source_name": "Google News: contract AI",
       "source_priority": "medium",
@@ -391,6 +391,18 @@
       "relevance_score": 7
     },
     {
+      "title": "Biglaw Associate Donates Kidney To Partner In Remarkable Act Of Generosity",
+      "url": "https://abovethelaw.com/2026/04/biglaw-associate-donates-kidney-to-partner-in-remarkable-act-of-generosity/",
+      "summary": "The lawyers had never met before, which makes this story all the more touching. The post Biglaw Associate Donates Kidney To Partner In Remarkable Act Of Generosity appeared first on Above the Law .",
+      "published": "2026-04-17T20:15:56.000Z",
+      "source_id": "above-the-law-legaltech",
+      "source_name": "Above the Law (Legal Tech)",
+      "source_priority": "high",
+      "source_tier": "B",
+      "source_category": "Legal profession",
+      "relevance_score": 7
+    },
+    {
       "title": "Trump PAC Deep In Debt&#8230; And Owes Lawyers Over A Million",
       "url": "https://abovethelaw.com/2026/04/trump-pac-deep-in-debt-and-owes-lawyers-over-a-million/",
       "summary": "Susan Necheles finding out the hard way that Trump never pays his lawyers. The post Trump PAC Deep In Debt&#8230; And Owes Lawyers Over A Million appeared first on Above the Law .",
@@ -427,22 +439,22 @@
       "relevance_score": 7
     },
     {
-      "title": "Playdate won't have games using AI-generated assets",
-      "url": "https://www.gamedeveloper.com/production/panic-won-t-release-playdate-titles-that-use-some-forms-of-generative-ai",
-      "summary": "Article URL: https://www.gamedeveloper.com/production/panic-won-t-release-playdate-titles-that-use-some-forms-of-generative-ai Comments URL: https://news.ycombinator.com/item?id=47808497 Points: 3 # Comments: 0",
-      "published": "2026-04-17T17:41:05.000Z",
-      "source_id": "hacker-news",
-      "source_name": "Hacker News (filtered)",
+      "title": "OpenAI starts offering a biology-tuned LLM",
+      "url": "https://arstechnica.com/science/2026/04/openai-starts-offering-a-biology-tuned-llm/",
+      "summary": "GPT-Rosalind is an LLM trained on biology workflows, available in closed access.",
+      "published": "2026-04-16T21:17:47.000Z",
+      "source_id": "ars-technica-ai",
+      "source_name": "Ars Technica AI",
       "source_priority": "low",
       "source_tier": "B",
-      "source_category": "Community",
+      "source_category": "General AI",
       "relevance_score": 7
     },
     {
-      "title": "Ask HN: AI exhaust is probably worth something to you or someone else",
-      "url": "https://news.ycombinator.com/item?id=47808264",
-      "summary": "Every prompt, chat, and newsletter I burn through says a lot about how I think and work, but right now it's just sitting in 10 different tools doing nothing. Been wondering if people would pool theirs, either to get something useful back like a model that actually knows you, or to sell it to whoever's paying for this kind of data. Dumb idea or is there something here? Comments URL: https://news.ycombinator.com/item?id=47808264 Points: 2 # Comments: 2",
-      "published": "2026-04-17T17:18:36.000Z",
+      "title": "Ask HN: In the AI world what does \"great\" look like?",
+      "url": "https://news.ycombinator.com/item?id=47809594",
+      "summary": "I had a chat with my team mate today and they brought up an interesting point. If AI is cooking our software and doing an amazing job, for us devs what does \"great\" look like? How do WE improve? How do we assess performance of us, i.e. \"the humans\"? What do we base salaries on? Have you discussed this in your organisations? Does anyone have a plan? If your dev teams are creating scaffolding, harnesses, skills and getting CC to cook up everything, make PRs, perform reviews, find bugs, fix bugs, u",
+      "published": "2026-04-17T19:23:47.000Z",
       "source_id": "hacker-news",
       "source_name": "Hacker News (filtered)",
       "source_priority": "low",
@@ -473,18 +485,6 @@
       "source_tier": "B",
       "source_category": "Research",
       "relevance_score": 7
-    },
-    {
-      "title": "ClioCon Briefings: In-house ambition and why data context matters more than ever - Legal IT Insider",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeFN4UjBVSVlaZWVrWWdxd3hZalZzRUtNQkVkNklHcjliTmIzaHRKUHpJTW5aUFdPZVZxVlZqTWtuTkxyeElSNXp1RkNxSUZDR05SYjdTbmo5R2QydTVPNGZ0Nnc5WUJldnpJSDhuV0N2SFZ0bmVET0xaNl9XM191dWRwbXdYRFVsOEMwakdncHloR1lncTVWekFBQmdPaUF1YmpyQVRXTG5iQm5mTzJEVXpFV2pOcFFVTVVj?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeFN4UjBVSVlaZWVrWWdxd3hZalZzRUtNQkVkNklHcjliTmIzaHRKUHpJTW5aUFdPZVZxVlZqTWtuTkxyeElSNXp1RkNxSUZDR05SYjdTbmo5R2QydTVPNGZ0Nnc5WUJldnpJSDhuV0N2SFZ0bmVET0xaNl9XM191dWRwbXdYRFVsOEMwakdncHloR1lncTVWekFBQmdPaUF1YmpyQVRXTG5iQm5mTzJEVXpFV2pOcFFVTVVj?oc=5\" target=\"_blank\"&gt;ClioCon Briefings: In-house ambition and why data context matters more than ever&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Legal IT Insider&lt;/font&gt;",
-      "published": "2026-04-15T14:45:37.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
     }
   ]
 }
