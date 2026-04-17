@@ -1,7 +1,7 @@
 ---
 title: "SRA Research Shows Third of Public Using GenAI for Legal Issues"
 description: "First regulatory data reveals widespread consumer adoption of AI for legal matters, with many using hybrid approach combining solicitor advice and AI models."
-publishDate: "2026-02-28"
+publishDate: "2026-04-17"
 author: "mm!ke"
 tags: ["SRA", "consumer-AI", "access-to-justice", "regulation"]
 category: "regulatory"

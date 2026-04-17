@@ -178,7 +178,22 @@ function parseArticle(responseText) {
   const articleMatch = responseText.match(/---ARTICLE_START---\s*([\s\S]*?)\s*---ARTICLE_END---/);
   if (!articleMatch) return null;
 
-  const content = articleMatch[1].trim();
+  let content = articleMatch[1].trim();
+
+  // Force publishDate to today. The LLM sometimes picks the date of
+  // the underlying event (press release, webinar, ruling) instead of
+  // today's publish date, which makes the story look stale on the
+  // site. The editorial log already stamps today for this entry, so
+  // this line just keeps the article file consistent.
+  const TODAY = new Date().toISOString().split('T')[0];
+  const publishDateLine = /^(publishDate:\s*)["']?[^"'\n]*["']?\s*$/m;
+  if (publishDateLine.test(content)) {
+    content = content.replace(publishDateLine, `$1"${TODAY}"`);
+  } else {
+    // No publishDate line at all -- inject one just after the opening ---
+    content = content.replace(/^---\s*\n/, `---\npublishDate: "${TODAY}"\n`);
+  }
+
   const fmMatch = content.match(/^---\s*\n([\s\S]*?)\n---/);
   const meta = {};
   if (fmMatch) {
