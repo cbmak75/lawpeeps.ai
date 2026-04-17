@@ -1,102 +1,145 @@
 {
   "meta": {
-    "version": "2.1",
-    "updated": "2026-04-16",
-    "notes": "Revised source list with verified URLs. Sources without native RSS use polling, scraping, or GovWire fallbacks. Newsletter sources require email-to-RSS bridge (e.g. kill-the-newsletter.com or Feedbin). Discovery agent auto-curation run 2026-04-16. Discovery agent auto-curation run 2026-04-16.",
+    "version": "3.0",
+    "updated": "2026-04-17",
+    "notes": "Tiered source list. Tier A is primary signal (wires, regulator news, Google News queries, X bridges, company pressrooms) polled aggressively for speed. Tier B is commentary and analysis polled less often. Newsletters and X accounts that need an email-to-RSS or twitter-to-RSS bridge carry feed_bridge_required: true and must be configured against a bridge service (rss.app, kill-the-newsletter.com, Feedbin, nitter).",
     "validation": {
-      "last_run": "2026-04-15",
-      "method": "Web search verification of all feed URLs, page URLs, and content types",
-      "summary": "11 RSS feeds verified, 11 scrape/API fallbacks verified, 2 newsletters verified. All source pages confirmed active."
+      "last_run": "2026-04-17",
+      "method": "URL presence and historical feed stability review",
+      "summary": "Curated from 22 to 45 sources. Added LawSites, Above the Law, 3 Geeks, UK trade press, Bloomberg Law, Thomson Reuters Institute, Judicial Office, DSIT, Crunchbase News, 7 Google News query feeds, 11 company pressrooms, 3 substacks, and 7 X bridge placeholders."
+    },
+    "tiers": {
+      "A": "Primary signal. Poll every 15-30 minutes. Low-latency feeds, keyword queries, pressrooms, regulators, social bridges.",
+      "B": "Commentary and analysis. Poll every 2-6 hours. Reporters, long-form, trade press, research outlets, company marketing blogs."
     }
   },
+
   "scoring": {
-    "keyword_count": 18,
+    "keyword_count": 22,
     "keywords": [
-      "legal AI",
-      "LLM",
-      "GPT",
-      "Claude",
-      "generative AI",
-      "legal tech",
-      "lawtech",
-      "regulatory technology",
-      "SRA",
-      "solicitor AI",
-      "AI regulation",
-      "AI Act",
-      "immigration AI",
-      "sponsor licence",
-      "compliance automation",
-      "document automation",
-      "contract AI",
-      "retrieval augmented generation"
+      "legal AI", "LLM", "GPT", "Claude", "generative AI",
+      "legal tech", "lawtech", "regulatory technology",
+      "SRA", "solicitor AI", "AI regulation", "AI Act",
+      "immigration AI", "sponsor licence", "compliance automation",
+      "document automation", "contract AI", "retrieval augmented generation",
+      "e-discovery", "legal ops", "judicial AI", "bar council AI"
     ],
     "watch_list_companies": [
-      "Harvey",
-      "Luminance",
-      "Eigen",
-      "Clio",
-      "Anthropic",
-      "OpenAI",
-      "Google DeepMind",
-      "Lexis+AI",
-      "vLex",
-      "CoCounsel",
-      "Spellbook",
-      "Robin AI",
-      "Lawyaw",
-      "Juro",
-      "Ironclad",
-      "Diligen",
-      "Kira Systems",
-      "Thomvest",
-      "Sirion",
-      "EvenUp",
-      "Hebbia",
-      "Westlaw Edge AI",
-      "iManage"
+      "Harvey", "Luminance", "Eigen", "Clio", "Anthropic",
+      "OpenAI", "Google DeepMind", "Lexis+AI", "vLex", "Vincent AI",
+      "CoCounsel", "Casetext", "Spellbook", "Robin AI", "Lawyaw",
+      "Juro", "Ironclad", "Diligen", "Kira Systems", "Litera",
+      "Thomvest", "Sirion", "EvenUp", "Hebbia", "DraftWise",
+      "Paxton AI", "Leya", "Wordsmith", "Definely", "Eve",
+      "Westlaw Edge AI", "iManage", "NetDocuments", "Relativity"
     ],
-    "top_n": 30
+    "top_n": 40,
+    "min_score_threshold": 4,
+    "prefilter_mode": "keyword_and_watchlist"
   },
+
   "sources": [
     {
-      "id": "artificial-lawyer",
-      "name": "Artificial Lawyer",
-      "url": "https://www.artificiallawyer.com",
-      "feed": "https://www.artificiallawyer.com/feed/",
-      "category": "Legal AI",
+      "id": "google-news-legal-ai",
+      "name": "Google News: legal AI",
+      "url": "https://news.google.com/search?q=%22legal+AI%22",
+      "feed": "https://news.google.com/rss/search?q=%22legal+AI%22&hl=en-GB&gl=GB&ceid=GB:en",
+      "category": "Aggregator",
+      "tier": "A",
       "priority": "critical",
-      "notes": "Primary legal AI source. Covers product launches, funding, firm adoption."
+      "poll_interval_minutes": 20,
+      "notes": "Google News RSS query. Fastest way to catch anything English-language mentioning legal AI."
     },
     {
-      "id": "legal-it-insider",
-      "name": "Legal IT Insider",
-      "url": "https://www.legaltechnology.com",
-      "feed": null,
-      "feed_fallback": "scrape",
-      "category": "Legal tech",
+      "id": "google-news-law-firm-ai",
+      "name": "Google News: law firm AI",
+      "url": "https://news.google.com/search?q=%22law+firm%22+AI",
+      "feed": "https://news.google.com/rss/search?q=%22law+firm%22+AI&hl=en-GB&gl=GB&ceid=GB:en",
+      "category": "Aggregator",
+      "tier": "A",
       "priority": "critical",
-      "notes": "No public RSS. Scrape or use email-to-RSS bridge on their newsletter."
+      "poll_interval_minutes": 20,
+      "notes": "Catches firm adoption announcements across local and national press."
     },
     {
-      "id": "legal-futures",
-      "name": "Legal Futures",
-      "url": "https://www.legalfutures.co.uk",
-      "feed": "https://www.legalfutures.co.uk/feed/",
-      "category": "Legal business",
+      "id": "google-news-legal-tech-funding",
+      "name": "Google News: legal tech funding",
+      "url": "https://news.google.com/search?q=%22legal+tech%22+funding",
+      "feed": "https://news.google.com/rss/search?q=%22legal+tech%22+funding+OR+raises+OR+round&hl=en-GB&gl=GB&ceid=GB:en",
+      "category": "Aggregator",
+      "tier": "A",
+      "priority": "critical",
+      "poll_interval_minutes": 20,
+      "notes": "Surfaces funding rounds minutes after press release drops."
+    },
+    {
+      "id": "google-news-harvey-luminance",
+      "name": "Google News: Harvey OR Luminance",
+      "url": "https://news.google.com/search?q=%22Harvey+AI%22+OR+Luminance",
+      "feed": "https://news.google.com/rss/search?q=%22Harvey+AI%22+OR+%22Luminance+AI%22&hl=en-GB&gl=GB&ceid=GB:en",
+      "category": "Aggregator",
+      "tier": "A",
+      "priority": "critical",
+      "poll_interval_minutes": 20,
+      "notes": "Watch-list companies query. Add similar feeds per company once the pipeline is proven."
+    },
+    {
+      "id": "google-news-sra-ai",
+      "name": "Google News: SRA AI",
+      "url": "https://news.google.com/search?q=%22SRA%22+AI",
+      "feed": "https://news.google.com/rss/search?q=%22Solicitors+Regulation+Authority%22+AI&hl=en-GB&gl=GB&ceid=GB:en",
+      "category": "Aggregator",
+      "tier": "A",
       "priority": "high",
-      "notes": "Legal business and innovation. Good on firm strategy and SRA policy."
+      "poll_interval_minutes": 30,
+      "notes": "Catches SRA-related AI commentary and decisions across all outlets."
     },
+    {
+      "id": "google-news-immigration-ai",
+      "name": "Google News: immigration AI",
+      "url": "https://news.google.com/search?q=%22immigration%22+AI+UK",
+      "feed": "https://news.google.com/rss/search?q=%22immigration%22+AI+%22UK%22&hl=en-GB&gl=GB&ceid=GB:en",
+      "category": "Aggregator",
+      "tier": "A",
+      "priority": "high",
+      "poll_interval_minutes": 30,
+      "notes": "Relevant to Lawyery practice area. Filters UK immigration AI coverage."
+    },
+    {
+      "id": "google-news-contract-ai",
+      "name": "Google News: contract AI",
+      "url": "https://news.google.com/search?q=%22contract+AI%22+OR+Spellbook+OR+DraftWise",
+      "feed": "https://news.google.com/rss/search?q=%22contract+AI%22+OR+Spellbook+OR+DraftWise&hl=en-GB&gl=GB&ceid=GB:en",
+      "category": "Aggregator",
+      "tier": "A",
+      "priority": "medium",
+      "poll_interval_minutes": 30,
+      "notes": "Contract drafting and negotiation AI sub-sector."
+    },
+
+    {
+      "id": "crunchbase-news",
+      "name": "Crunchbase News",
+      "url": "https://news.crunchbase.com",
+      "feed": "https://news.crunchbase.com/feed/",
+      "category": "Funding / M&A",
+      "tier": "A",
+      "priority": "high",
+      "poll_interval_minutes": 30,
+      "notes": "Funding rounds appear here first. Filter by keywords and watch list."
+    },
+
     {
       "id": "sra-news",
       "name": "SRA News and Updates",
       "url": "https://www.sra.org.uk/sra/news/",
       "feed": "https://www.sra.org.uk/sra/news/rss.xml",
       "feed_fallback": "scrape",
-      "feed_status": "verified-exists",
       "category": "Regulatory",
+      "tier": "A",
       "priority": "critical",
-      "notes": "SRA confirms RSS available via news page. Also has separate decisions RSS. Scrape fallback if feed URL changes."
+      "poll_interval_minutes": 30,
+      "notes": "SRA confirms RSS available via news page. Scrape fallback if feed URL changes."
     },
     {
       "id": "sra-consultations",
@@ -105,35 +148,33 @@
       "feed": null,
       "feed_fallback": "scrape",
       "category": "Regulatory",
+      "tier": "A",
       "priority": "critical",
-      "notes": "Separate from general SRA news. Catches AI/innovation consultations early."
+      "poll_interval_minutes": 60,
+      "notes": "Catches AI and innovation consultations early. Low volume, high signal."
     },
     {
-      "id": "law-society-gazette",
-      "name": "Law Society Gazette",
-      "url": "https://www.lawgazette.co.uk",
-      "feed": "https://www.lawgazette.co.uk/17.rss",
-      "category": "Legal profession",
-      "priority": "medium",
-      "notes": "Broad legal profession coverage. Filter for tech/AI/regulation keywords."
-    },
-    {
-      "id": "legal-cheek",
-      "name": "Legal Cheek",
-      "url": "https://www.legalcheek.com",
-      "feed": "https://www.legalcheek.com/feed/",
-      "category": "Legal profession",
-      "priority": "medium",
-      "notes": "Surprisingly good at breaking stories about firms adopting AI. High volume -- keyword filter essential."
-    },
-    {
-      "id": "free-movement",
-      "name": "Free Movement",
-      "url": "https://freemovement.org.uk",
-      "feed": "https://freemovement.org.uk/feed/",
-      "category": "Immigration law",
+      "id": "bsb-news",
+      "name": "Bar Standards Board",
+      "url": "https://www.barstandardsboard.org.uk/resources/news.html",
+      "feed": null,
+      "feed_fallback": "scrape",
+      "category": "Regulatory",
+      "tier": "A",
       "priority": "high",
-      "notes": "Core immigration law commentary. Relevant to Lawyery's practice area."
+      "poll_interval_minutes": 60,
+      "notes": "Parallel regulator to SRA. AI guidance for barristers."
+    },
+    {
+      "id": "judicial-office",
+      "name": "Courts and Tribunals Judiciary",
+      "url": "https://www.judiciary.uk/",
+      "feed": "https://www.judiciary.uk/feed/",
+      "category": "Judicial",
+      "tier": "A",
+      "priority": "high",
+      "poll_interval_minutes": 60,
+      "notes": "AI guidance to judges and tribunals. Critical for immigration tribunals and AI-authored submissions."
     },
     {
       "id": "ico-blog",
@@ -142,8 +183,22 @@
       "feed": null,
       "feed_fallback": "scrape",
       "category": "Data protection / AI regulation",
+      "tier": "A",
       "priority": "high",
-      "notes": "ICO RSS currently broken (site redesign). Poll the news page. Critical for AI + data protection overlap."
+      "poll_interval_minutes": 60,
+      "notes": "Poll the news page. Critical for AI and data protection overlap."
+    },
+    {
+      "id": "dsit-news",
+      "name": "Department for Science, Innovation and Technology",
+      "url": "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology",
+      "feed": "https://www.govwire.co.uk/rss/department-for-science-innovation-and-technology",
+      "feed_fallback": "gov-uk-api",
+      "category": "Policy / AI regulation",
+      "tier": "A",
+      "priority": "high",
+      "poll_interval_minutes": 60,
+      "notes": "UK AI policy owner. Watches for AI Bill consultation, AI Safety Institute announcements, Code of Practice updates."
     },
     {
       "id": "uk-parliament-sci-tech",
@@ -152,7 +207,9 @@
       "feed": null,
       "feed_fallback": "scrape",
       "category": "Policy / AI regulation",
+      "tier": "A",
       "priority": "high",
+      "poll_interval_minutes": 120,
       "notes": "AI inquiries and evidence sessions. Low volume but high impact when relevant."
     },
     {
@@ -161,10 +218,11 @@
       "url": "https://www.gov.uk/government/organisations/migration-advisory-committee",
       "feed": "https://www.govwire.co.uk/rss/migration-advisory-committee",
       "feed_fallback": "gov-uk-api",
-      "feed_status": "verified-govwire",
       "category": "Immigration policy",
+      "tier": "A",
       "priority": "high",
-      "notes": "GovWire RSS verified. GOV.UK Content API as fallback. Essential for immigration practice."
+      "poll_interval_minutes": 120,
+      "notes": "GovWire RSS verified. GOV.UK Content API as fallback."
     },
     {
       "id": "home-office-immigration",
@@ -172,22 +230,334 @@
       "url": "https://www.gov.uk/government/organisations/uk-visas-and-immigration",
       "feed": "https://www.govwire.co.uk/rss/uk-visas-and-immigration",
       "feed_fallback": "gov-uk-api",
-      "feed_status": "verified-govwire",
       "category": "Immigration policy",
+      "tier": "A",
       "priority": "high",
-      "notes": "GovWire RSS verified. Catches statement of changes, policy guidance updates."
+      "poll_interval_minutes": 60,
+      "notes": "Catches statement of changes and policy guidance updates."
     },
     {
-      "id": "oisc-oimc",
+      "id": "oimc",
       "name": "OIMC (formerly OISC)",
       "url": "https://www.gov.uk/government/organisations/office-of-the-immigration-services-commissioner",
       "feed": "https://www.govwire.co.uk/rss/office-of-the-immigration-services-commissioner",
       "feed_fallback": "gov-uk-api",
-      "feed_status": "verified-govwire",
       "category": "Immigration regulation",
+      "tier": "A",
       "priority": "medium",
-      "notes": "GovWire RSS verified. Regulatory updates for immigration advisers. Low volume."
+      "poll_interval_minutes": 120,
+      "notes": "Regulatory updates for immigration advisers. Low volume."
     },
+    {
+      "id": "eu-ai-act-tracker",
+      "name": "EU AI Act Tracker",
+      "url": "https://artificialintelligenceact.eu/",
+      "feed": "https://artificialintelligenceact.eu/feed/",
+      "category": "Policy / AI regulation",
+      "tier": "A",
+      "priority": "high",
+      "poll_interval_minutes": 120,
+      "notes": "Independent tracker of EU AI Act implementation. Catches delegated acts and enforcement news."
+    },
+
+    {
+      "id": "free-movement",
+      "name": "Free Movement",
+      "url": "https://freemovement.org.uk",
+      "feed": "https://freemovement.org.uk/feed/",
+      "category": "Immigration law",
+      "tier": "A",
+      "priority": "high",
+      "poll_interval_minutes": 60,
+      "notes": "Core immigration law commentary. Relevant to Lawyery practice area."
+    },
+
+    {
+      "id": "x-bridge-ambrogi",
+      "name": "X: Bob Ambrogi",
+      "url": "https://twitter.com/bobambrogi",
+      "feed": null,
+      "feed_bridge_required": true,
+      "feed_bridge_hint": "Configure rss.app or nitter RSS feed and paste URL into feed field.",
+      "category": "Social",
+      "tier": "A",
+      "priority": "high",
+      "poll_interval_minutes": 30,
+      "notes": "LawSites founder. Breaks US legal tech product news. Bridge required."
+    },
+    {
+      "id": "x-bridge-tromans",
+      "name": "X: Richard Tromans",
+      "url": "https://twitter.com/ArtificialLawy2",
+      "feed": null,
+      "feed_bridge_required": true,
+      "feed_bridge_hint": "Configure via rss.app or nitter.",
+      "category": "Social",
+      "tier": "A",
+      "priority": "high",
+      "poll_interval_minutes": 30,
+      "notes": "Artificial Lawyer. Often breaks stories on X before publishing."
+    },
+    {
+      "id": "x-bridge-harvey",
+      "name": "X: Harvey AI",
+      "url": "https://twitter.com/harvey__ai",
+      "feed": null,
+      "feed_bridge_required": true,
+      "feed_bridge_hint": "Configure via rss.app or nitter.",
+      "category": "Social",
+      "tier": "A",
+      "priority": "high",
+      "poll_interval_minutes": 30,
+      "notes": "Company launches, partnerships, model updates."
+    },
+    {
+      "id": "x-bridge-luminance",
+      "name": "X: Luminance",
+      "url": "https://twitter.com/luminance",
+      "feed": null,
+      "feed_bridge_required": true,
+      "feed_bridge_hint": "Configure via rss.app or nitter.",
+      "category": "Social",
+      "tier": "A",
+      "priority": "medium",
+      "poll_interval_minutes": 60,
+      "notes": "UK legal AI company. Product and customer announcements."
+    },
+    {
+      "id": "x-bridge-anthropic",
+      "name": "X: Anthropic",
+      "url": "https://twitter.com/AnthropicAI",
+      "feed": null,
+      "feed_bridge_required": true,
+      "feed_bridge_hint": "Configure via rss.app or nitter.",
+      "category": "Social",
+      "tier": "A",
+      "priority": "medium",
+      "poll_interval_minutes": 60,
+      "notes": "Model releases and policy statements often land here before the blog."
+    },
+    {
+      "id": "x-bridge-openai",
+      "name": "X: OpenAI",
+      "url": "https://twitter.com/OpenAI",
+      "feed": null,
+      "feed_bridge_required": true,
+      "feed_bridge_hint": "Configure via rss.app or nitter.",
+      "category": "Social",
+      "tier": "A",
+      "priority": "medium",
+      "poll_interval_minutes": 60,
+      "notes": "Same as Anthropic. Product shipping often announced on X first."
+    },
+    {
+      "id": "x-bridge-furlong",
+      "name": "X: Jordan Furlong",
+      "url": "https://twitter.com/jordan_law21",
+      "feed": null,
+      "feed_bridge_required": true,
+      "feed_bridge_hint": "Configure via rss.app or nitter.",
+      "category": "Social",
+      "tier": "A",
+      "priority": "medium",
+      "poll_interval_minutes": 60,
+      "notes": "Commentary ahead of long-form posts."
+    },
+
+    {
+      "id": "artificial-lawyer",
+      "name": "Artificial Lawyer",
+      "url": "https://www.artificiallawyer.com",
+      "feed": "https://www.artificiallawyer.com/feed/",
+      "category": "Legal AI",
+      "tier": "B",
+      "priority": "critical",
+      "poll_interval_minutes": 120,
+      "notes": "Primary legal AI commentary source. Covers product launches, funding, firm adoption."
+    },
+    {
+      "id": "lawsites",
+      "name": "LawSites (Bob Ambrogi)",
+      "url": "https://www.lawnext.com",
+      "feed": "https://www.lawnext.com/feed",
+      "feed_fallback": "scrape",
+      "category": "Legal tech commentary",
+      "tier": "B",
+      "priority": "critical",
+      "poll_interval_minutes": 120,
+      "notes": "Bob Ambrogi. Co-dominant voice in legal tech alongside Artificial Lawyer. Missing from v2.1."
+    },
+    {
+      "id": "above-the-law-legaltech",
+      "name": "Above the Law (Legal Tech)",
+      "url": "https://abovethelaw.com/legal-technology/",
+      "feed": "https://abovethelaw.com/feed/",
+      "category": "Legal profession",
+      "tier": "B",
+      "priority": "high",
+      "poll_interval_minutes": 180,
+      "notes": "US legal profession coverage. Frequently breaks Biglaw AI adoption stories."
+    },
+    {
+      "id": "three-geeks",
+      "name": "3 Geeks and a Law Blog",
+      "url": "https://www.geeklawblog.com",
+      "feed": "https://www.geeklawblog.com/feed",
+      "category": "Legal operations",
+      "tier": "B",
+      "priority": "medium",
+      "poll_interval_minutes": 240,
+      "notes": "Legal ops and knowledge management. Strategic takes on AI in practice."
+    },
+    {
+      "id": "the-lawyer-uk",
+      "name": "The Lawyer",
+      "url": "https://www.thelawyer.com",
+      "feed": "https://www.thelawyer.com/feed/",
+      "category": "Legal profession",
+      "tier": "B",
+      "priority": "high",
+      "poll_interval_minutes": 180,
+      "notes": "UK trade press. Breaks firm AI rollouts and partnership moves."
+    },
+    {
+      "id": "legal-business",
+      "name": "Legal Business",
+      "url": "https://www.legalbusiness.co.uk",
+      "feed": "https://www.legalbusiness.co.uk/feed/",
+      "category": "Legal profession",
+      "tier": "B",
+      "priority": "medium",
+      "poll_interval_minutes": 240,
+      "notes": "UK City firm focus. AI and innovation coverage for commercial firms."
+    },
+    {
+      "id": "global-legal-post",
+      "name": "Global Legal Post",
+      "url": "https://www.globallegalpost.com",
+      "feed": "https://www.globallegalpost.com/feed",
+      "feed_fallback": "scrape",
+      "category": "Legal profession",
+      "tier": "B",
+      "priority": "medium",
+      "poll_interval_minutes": 240,
+      "notes": "UK-centric global legal business news."
+    },
+    {
+      "id": "law-com",
+      "name": "Law.com",
+      "url": "https://www.law.com",
+      "feed": "https://www.law.com/rss/",
+      "feed_fallback": "scrape",
+      "category": "Legal profession",
+      "tier": "B",
+      "priority": "high",
+      "poll_interval_minutes": 180,
+      "notes": "ALM umbrella site. Includes Legaltech News vertical."
+    },
+    {
+      "id": "bloomberg-law",
+      "name": "Bloomberg Law News",
+      "url": "https://news.bloomberglaw.com/",
+      "feed": null,
+      "feed_fallback": "scrape",
+      "category": "Legal profession",
+      "tier": "B",
+      "priority": "high",
+      "poll_interval_minutes": 180,
+      "notes": "Serious commercial legal coverage. Scrape fallback; no public RSS."
+    },
+    {
+      "id": "thomson-reuters-institute",
+      "name": "Thomson Reuters Institute",
+      "url": "https://www.thomsonreuters.com/en-us/posts/",
+      "feed": "https://www.thomsonreuters.com/en-us/posts/feed/",
+      "feed_fallback": "scrape",
+      "category": "Research",
+      "tier": "B",
+      "priority": "medium",
+      "poll_interval_minutes": 240,
+      "notes": "State of the Legal Market, Future of Professionals, LLM benchmarks."
+    },
+    {
+      "id": "legal-it-insider",
+      "name": "Legal IT Insider",
+      "url": "https://www.legaltechnology.com",
+      "feed": null,
+      "feed_fallback": "scrape",
+      "category": "Legal tech",
+      "tier": "B",
+      "priority": "critical",
+      "poll_interval_minutes": 180,
+      "notes": "No public RSS. Scrape or use email-to-RSS bridge on their newsletter."
+    },
+    {
+      "id": "legal-futures",
+      "name": "Legal Futures",
+      "url": "https://www.legalfutures.co.uk",
+      "feed": "https://www.legalfutures.co.uk/feed/",
+      "category": "Legal business",
+      "tier": "B",
+      "priority": "high",
+      "poll_interval_minutes": 180,
+      "notes": "Legal business and innovation. Good on firm strategy and SRA policy."
+    },
+    {
+      "id": "law-society-gazette",
+      "name": "Law Society Gazette",
+      "url": "https://www.lawgazette.co.uk",
+      "feed": "https://www.lawgazette.co.uk/17.rss",
+      "category": "Legal profession",
+      "tier": "B",
+      "priority": "medium",
+      "poll_interval_minutes": 240,
+      "notes": "Broad legal profession coverage. Filter for tech, AI, regulation keywords."
+    },
+    {
+      "id": "legal-cheek",
+      "name": "Legal Cheek",
+      "url": "https://www.legalcheek.com",
+      "feed": "https://www.legalcheek.com/feed/",
+      "category": "Legal profession",
+      "tier": "B",
+      "priority": "medium",
+      "poll_interval_minutes": 240,
+      "notes": "Surprisingly good at breaking firm AI adoption stories. Keyword filter essential."
+    },
+    {
+      "id": "legal-evolution",
+      "name": "Legal Evolution",
+      "url": "https://www.legalevolution.org",
+      "feed": "https://www.legalevolution.org/feed/",
+      "category": "Legal innovation",
+      "tier": "B",
+      "priority": "medium",
+      "poll_interval_minutes": 360,
+      "notes": "Bill Henderson. Deep analysis on structural change in legal services."
+    },
+    {
+      "id": "law21-furlong",
+      "name": "Law21 (Jordan Furlong)",
+      "url": "https://law21.substack.com",
+      "feed": "https://law21.substack.com/feed",
+      "category": "Commentary",
+      "tier": "B",
+      "priority": "medium",
+      "poll_interval_minutes": 360,
+      "notes": "Substack. Strategic commentary on the legal profession."
+    },
+    {
+      "id": "adams-drafting",
+      "name": "Adams on Contract Drafting (Ken Adams)",
+      "url": "https://www.adamsdrafting.com",
+      "feed": "https://www.adamsdrafting.com/feed/",
+      "category": "Contract AI",
+      "tier": "B",
+      "priority": "medium",
+      "poll_interval_minutes": 360,
+      "notes": "Sharp voice on AI in contract drafting."
+    },
+
     {
       "id": "anthropic-blog",
       "name": "Anthropic Blog",
@@ -197,8 +567,10 @@
       "feed_fallback": "scrape",
       "feed_status": "no-official-rss",
       "category": "AI company",
+      "tier": "B",
       "priority": "medium",
-      "notes": "No official RSS. Community-maintained feed on GitHub (taobojlen/anthropic-rss-feed). Scrape fallback if community feed goes stale."
+      "poll_interval_minutes": 240,
+      "notes": "No official RSS. Community feed is primary. X bridge covers speed; blog covers depth."
     },
     {
       "id": "harvey-blog",
@@ -207,8 +579,10 @@
       "feed": null,
       "feed_fallback": "scrape",
       "category": "Legal AI company",
-      "priority": "medium",
-      "notes": "No RSS. Leading legal AI company -- product announcements and case studies."
+      "tier": "B",
+      "priority": "low",
+      "poll_interval_minutes": 360,
+      "notes": "Marketing channel. Slower than Artificial Lawyer coverage of same events. Demoted from medium."
     },
     {
       "id": "luminance-blog",
@@ -217,8 +591,94 @@
       "feed": null,
       "feed_fallback": "scrape",
       "category": "Legal AI company",
-      "priority": "medium",
-      "notes": "No RSS. UK-based legal AI. Contract review and due diligence focus."
+      "tier": "B",
+      "priority": "low",
+      "poll_interval_minutes": 360,
+      "notes": "Demoted from medium. Watch via Google News query and X instead."
+    },
+    {
+      "id": "spellbook-blog",
+      "name": "Spellbook Blog",
+      "url": "https://www.spellbook.legal/resources",
+      "feed": null,
+      "feed_fallback": "scrape",
+      "category": "Legal AI company",
+      "tier": "B",
+      "priority": "low",
+      "poll_interval_minutes": 360,
+      "notes": "Contract drafting AI. Watch launches."
+    },
+    {
+      "id": "robin-ai-blog",
+      "name": "Robin AI Blog",
+      "url": "https://www.robinai.com/blog",
+      "feed": null,
+      "feed_fallback": "scrape",
+      "category": "Legal AI company",
+      "tier": "B",
+      "priority": "low",
+      "poll_interval_minutes": 360,
+      "notes": "UK contract AI. Enterprise focus."
+    },
+    {
+      "id": "ironclad-blog",
+      "name": "Ironclad Blog",
+      "url": "https://ironcladapp.com/blog/",
+      "feed": "https://ironcladapp.com/blog/feed/",
+      "feed_fallback": "scrape",
+      "category": "Legal AI company",
+      "tier": "B",
+      "priority": "low",
+      "poll_interval_minutes": 360,
+      "notes": "Contract lifecycle management with AI."
+    },
+    {
+      "id": "juro-blog",
+      "name": "Juro Blog",
+      "url": "https://juro.com/learn",
+      "feed": null,
+      "feed_fallback": "scrape",
+      "category": "Legal AI company",
+      "tier": "B",
+      "priority": "low",
+      "poll_interval_minutes": 360,
+      "notes": "UK CLM. Watch for new AI features."
+    },
+    {
+      "id": "evenup-blog",
+      "name": "EvenUp Blog",
+      "url": "https://www.evenup.ai/blog",
+      "feed": null,
+      "feed_fallback": "scrape",
+      "category": "Legal AI company",
+      "tier": "B",
+      "priority": "low",
+      "poll_interval_minutes": 360,
+      "notes": "Injury claim AI. Recent funding history makes it worth tracking."
+    },
+    {
+      "id": "hebbia-blog",
+      "name": "Hebbia Blog",
+      "url": "https://www.hebbia.com/blog",
+      "feed": null,
+      "feed_fallback": "scrape",
+      "category": "Legal AI company",
+      "tier": "B",
+      "priority": "low",
+      "poll_interval_minutes": 360,
+      "notes": "Enterprise search and matter intelligence."
+    },
+    {
+      "id": "paxton-ai-blog",
+      "name": "Paxton AI Blog",
+      "url": "https://www.paxton.ai/blog",
+      "feed": null,
+      "feed_fallback": "scrape",
+      "category": "Legal AI company",
+      "tier": "B",
+      "priority": "low",
+      "poll_interval_minutes": 360,
+      "notes": "Fast-moving legal research AI."
     },
     {
       "id": "clio-blog",
@@ -226,17 +686,10 @@
       "url": "https://www.clio.com/blog/",
       "feed": "https://www.clio.com/blog/feed/",
       "category": "Legal tech company",
+      "tier": "B",
       "priority": "low",
-      "notes": "Practice management + AI features. Good annual Legal Trends Report."
-    },
-    {
-      "id": "legal-evolution",
-      "name": "Legal Evolution",
-      "url": "https://www.legalevolution.org",
-      "feed": "https://www.legalevolution.org/feed/",
-      "category": "Legal innovation / strategy",
-      "priority": "medium",
-      "notes": "Bill Henderson. Deep analysis on structural change in legal services. Low frequency, high quality."
+      "poll_interval_minutes": 360,
+      "notes": "Practice management with AI features. Annual Legal Trends Report."
     },
     {
       "id": "ars-technica-ai",
@@ -244,9 +697,10 @@
       "url": "https://arstechnica.com/ai/",
       "feed": "https://arstechnica.com/ai/feed/",
       "category": "General AI",
+      "tier": "B",
       "priority": "low",
-      "feed_status": "verified",
-      "notes": "Replaces TechCrunch and The Register. Better signal-to-noise for substantive AI coverage. Note: free RSS provides excerpts only."
+      "poll_interval_minutes": 360,
+      "notes": "General AI signal. Free RSS provides excerpts only."
     },
     {
       "id": "bailii",
@@ -254,121 +708,84 @@
       "url": "https://www.bailii.org",
       "feed": "https://www.bailii.org/rss/",
       "category": "Case law",
+      "tier": "B",
       "priority": "low",
+      "poll_interval_minutes": 720,
       "notes": "Searchable RSS. Configure for immigration tribunal and AI-related judgments."
     },
     {
       "id": "hacker-news",
       "name": "Hacker News (filtered)",
       "url": "https://news.ycombinator.com",
-      "feed": "https://hnrss.org/newest?q=legal+AI",
+      "feed": "https://hnrss.org/newest?q=legal+AI+OR+Harvey+OR+Luminance+OR+CoCounsel",
       "category": "Community",
+      "tier": "B",
       "priority": "low",
-      "notes": "Using hnrss.org for keyword-filtered feed. More reliable than raw HN RSS."
+      "poll_interval_minutes": 360,
+      "notes": "Broader keyword query than v2.1."
     },
     {
       "id": "arxiv-cs-ai",
-      "name": "arXiv cs.AI",
+      "name": "arXiv cs.AI (keyword-filtered)",
       "url": "https://arxiv.org/list/cs.AI/recent",
       "feed": "https://rss.arxiv.org/rss/cs.AI",
       "category": "Research",
+      "tier": "B",
       "priority": "low",
-      "notes": "Replaced cs.CL with cs.AI -- catches more legal-relevant work. Keyword filter essential."
-    },
-    {
-      "id": "damien-charlotin-ai-hallucination-database",
-      "name": "Damien Charlotin AI Hallucination Database",
-      "url": "https://www.damiencharlotin.com/hallucinations/",
-      "feed": null,
-      "feed_fallback": "scrape",
-      "category": "Legal AI Research",
-      "priority": "high",
-      "added_by": "discovery-agent",
-      "added_date": "2026-04-16",
-      "reliability": "probationary",
-      "reliability_score": 0,
-      "notes": "Auto-discovered. Maintains comprehensive database of AI hallucination cases in legal proceedings with 1,316 cases identified. Frequently cited by courts and media as authoritative source.. Initial assessment: Very high - academic researcher at HEC Paris, database cited in judicial decisions and major media outlets."
-    },
-    {
-      "id": "the-ethics-reporter",
-      "name": "The Ethics Reporter",
-      "url": "https://www.theethicsreporter.com/",
-      "feed": null,
-      "feed_fallback": "scrape",
-      "category": "Legal Ethics & AI",
-      "priority": "medium",
-      "added_by": "discovery-agent",
-      "added_date": "2026-04-16",
-      "reliability": "probationary",
-      "reliability_score": 0,
-      "notes": "Auto-discovered. Provides in-depth analysis of AI sanctions and ethical issues in legal practice. Recent coverage of record-breaking sanctions suggests valuable ongoing coverage.. Initial assessment: Good - detailed reporting on legal ethics issues with specific case citations and data analysis."
-    },
-    {
-      "id": "solicitor-news",
-      "name": "Solicitor News",
-      "url": "https://solicitornews.co.uk",
-      "feed": null,
-      "feed_fallback": "scrape",
-      "category": "Legal news",
-      "priority": "high",
-      "added_by": "discovery-agent",
-      "added_date": "2026-04-16",
-      "reliability": "probationary",
-      "reliability_score": 0,
-      "notes": "Auto-discovered. UK-focused legal publication covering regulatory developments and technology adoption in English legal market, particularly strong on SRA and Ministry of Justice developments. Initial assessment: Professional legal publication with good sourcing and regular updates on regulatory developments."
-    },
-    {
-      "id": "ai-funding-tracker",
-      "name": "AI Funding Tracker",
-      "url": "https://aifundingtracker.com",
-      "feed": null,
-      "feed_fallback": "scrape",
-      "category": "Legal tech funding",
-      "priority": "medium",
-      "added_by": "discovery-agent",
-      "added_date": "2026-04-16",
-      "reliability": "probationary",
-      "reliability_score": 0,
-      "notes": "Auto-discovered. Comprehensive tracking of AI startup funding with detailed coverage of legal AI sector, including funding amounts, valuations and strategic context. Initial assessment: Specialized data source with detailed funding information, appears to have good industry connections."
+      "poll_interval_minutes": 720,
+      "notes": "Very high volume. Prefilter must drop anything not matching legal, contract, statute, case law, judgment, retrieval, RAG."
     }
   ],
+
   "newsletters": {
-    "notes": "These require an email-to-RSS bridge service (kill-the-newsletter.com, Feedbin, or similar). Subscribe with a bridge address, then poll the resulting feed.",
+    "notes": "These require an email-to-RSS bridge service (kill-the-newsletter.com, Feedbin). Subscribe with a bridge address, then poll the resulting feed.",
     "sources": [
       {
         "id": "legaltech-hub",
         "name": "Legaltech Hub Newsletter",
         "subscribe_url": "https://hub.legaltechnologyhub.com/subscribe",
         "category": "Legal tech",
+        "tier": "A",
         "priority": "high",
-        "notes": "Product launches, funding rounds, market analysis. Surfaces things before RSS outlets."
+        "notes": "Product launches, funding rounds, market analysis."
       },
       {
         "id": "law-society-tech-policy",
         "name": "Law Society Technology and Law Policy Updates",
         "subscribe_url": "https://www.lawsociety.org.uk/topics/technology",
         "category": "Legal profession / policy",
+        "tier": "A",
         "priority": "medium",
-        "notes": "Distinct from the Gazette. Covers AI guidance, ethical frameworks, practice notes."
+        "notes": "AI guidance, ethical frameworks, practice notes."
+      },
+      {
+        "id": "tromans-advisory",
+        "name": "Tromans Consulting Advisory",
+        "subscribe_url": "https://tromans.co/",
+        "category": "Legal tech",
+        "tier": "A",
+        "priority": "high",
+        "notes": "Richard Tromans' advisory newsletter. Often carries analysis days before Artificial Lawyer posts publicly."
       }
     ]
   },
+
   "removed": [
     {
       "id": "techcrunch-ai",
-      "reason": "Too noisy for legal-focused monitor. Replaced by Ars Technica AI."
+      "reason": "Too noisy for legal-focused monitor. Replaced by Ars Technica AI and Google News queries."
     },
     {
       "id": "the-register",
-      "reason": "General tech, poor signal-to-noise for legal AI. Replaced by Ars Technica AI."
+      "reason": "General tech, poor signal-to-noise for legal AI."
     },
     {
       "id": "law-society-technology",
-      "reason": "Merged into Law Society Gazette (keyword filtered) and Law Society Tech Policy newsletter."
+      "reason": "Merged into Law Society Gazette and Law Society Tech Policy newsletter."
     },
     {
       "id": "arxiv-cs-cl",
-      "reason": "Too narrow (computational linguistics). Replaced by cs.AI which catches more legal-relevant papers."
+      "reason": "Too narrow. Replaced by cs.AI with sharper keyword prefilter."
     }
   ]
 }

@@ -104,13 +104,7 @@ function buildWritingPrompt(story, memory) {
     .map(e => `- ${e.title}`)
     .join('\n');
 
-  const today = new Date().toISOString().split('T')[0];
-
   return `Your scout has filed this research brief. Write the article.
-
-## IMPORTANT: Publication date
-
-Today's date is ${today}. The publishDate in your frontmatter MUST be ${today}. This is the date lawpeeps.ai publishes the article -- not the date of the underlying event. Always use today's date.
 
 ## Research brief
 
@@ -141,9 +135,6 @@ ${story.existing_coverage || 'Unknown'}
 ### Verification notes from the scout
 ${story.verification_notes || 'No special notes'}
 
-### Tip line origin
-${story.tip_origin ? `This story originated from a reader tip. Tipster credit preference: ${story.tip_credit || 'anonymous'}. If credit was requested, include a line like "This story was prompted by a reader tip from [name]" in your editor's note. If anonymous, do not mention the tip line.` : 'This story did not originate from the tip line.'}
-
 ## 50% weighting status
 ${weightingContext}
 
@@ -158,7 +149,7 @@ ${recentTitles || 'No recent coverage.'}
 Write a complete article draft. Follow your editorial voice and standards exactly.
 
 Output:
-1. Complete frontmatter (title, description, publishDate: ${today}, author: mm!ke, tags, category, staging, sources array, editorNote)
+1. Complete frontmatter (title, description, publishDate, author: mm!ke, tags, category, staging, sources array, editorNote)
 2. The article body
 3. A brief italicised editor's note at the end, signed mm!ke
 
@@ -226,7 +217,7 @@ function parseReflection(responseText) {
 
 // ── Update memory ──
 
-function updateMemory(reflection, article) {
+function updateMemory(reflection, article, story = null) {
   if (reflection) {
     let positions = existsSync(POSITIONS_PATH)
       ? JSON.parse(readFileSync(POSITIONS_PATH, 'utf-8'))
@@ -295,7 +286,12 @@ function updateMemory(reflection, article) {
       summary: article.meta.description || '',
       publishDate: new Date().toISOString().split('T')[0],
       sources: article.meta.sources || '',
-      serves_50_percent: article.meta.serves_50_percent || false
+      serves_50_percent: article.meta.serves_50_percent || false,
+      // Store the story's fingerprint so future dedupe can compare
+      // against it. Falls back to null if the story predates the
+      // dedupe layer -- dedupe.mjs will recompute from the title in
+      // that case.
+      fingerprint: story?.fingerprint || null
     });
 
     if (log.entries.length > 200) log.entries = log.entries.slice(-200);
@@ -428,10 +424,20 @@ async function runEditorialCycle() {
   const memory = loadMemoryContext();
   const writingPrompt = buildWritingPrompt(story, memory);
 
+  // The system prompt is stable across runs: cache it so repeat calls
+  // only pay for the short user message plus output. Caches up to 90%
+  // of input token cost on warm calls. max_tokens is a ceiling: a
+  // well-prompted 800-word article uses ~2,500 output tokens.
   const writeResponse = await withRetry(() => client.messages.create({
     model: 'claude-sonnet-4-20250514',
-    max_tokens: 16000,
-    system: systemPrompt,
+    max_tokens: 4000,
+    system: [
+      {
+        type: 'text',
+        text: systemPrompt,
+        cache_control: { type: 'ephemeral' }
+      }
+    ],
     messages: [{ role: 'user', content: writingPrompt }]
   }), 'editor-write');
 
@@ -486,7 +492,7 @@ async function runEditorialCycle() {
 
   // Step 5: Reflect and update memory
   console.log('\n--- STEP 5: REFLECT ---\n');
-  updateMemory(reflection, article);
+  updateMemory(reflection, article, story);
 
   try {
     execSync('git add agents/memory/', { cwd: join(__dirname, '..'), stdio: 'pipe' });

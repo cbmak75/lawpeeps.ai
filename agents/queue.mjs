@@ -11,9 +11,12 @@
 import { readFileSync, writeFileSync, existsSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
+import { fingerprint, findDuplicate, loadPriorFingerprints } from './dedupe.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const QUEUE_PATH = join(__dirname, 'memory', 'story-queue.json');
+
+const DEDUPE_THRESHOLD = 0.5;
 
 function loadQueue() {
   if (!existsSync(QUEUE_PATH)) {
@@ -28,21 +31,41 @@ function saveQueue(queue) {
 }
 
 /**
- * Add a story to the queue. The scout deposits stories here.
- * Each story has a unique ID based on its slug.
+ * Add a story to the queue. The scout deposits stories here. Each
+ * story has a unique ID based on its slug. We also dedupe by
+ * fingerprint against (a) other queue entries in any non-killed
+ * state and (b) the last 100 published stories in the editorial log.
+ * This is the last-chance gate after Haiku.
  */
 function enqueue(story) {
   const queue = loadQueue();
 
-  // Deduplicate by slug
+  // Slug-level dedupe (fast path, catches exact repeats)
   const existing = queue.stories.find(s => s.slug === story.slug);
   if (existing) {
     console.log(`[queue] Story already queued: ${story.slug}`);
     return false;
   }
 
+  // Fingerprint-level dedupe: attach if missing, compare against priors
+  const fp = story.fingerprint || fingerprint({
+    title: story.title || '',
+    summary: story.research_brief || story.suggested_angle || ''
+  });
+
+  const priors = loadPriorFingerprints({ logLimit: 100, includeQueue: true });
+  const dupe = findDuplicate(fp, priors, DEDUPE_THRESHOLD);
+  if (dupe) {
+    console.log(
+      `[queue] Rejected as duplicate: "${story.title}" matches ${dupe.source}:${dupe.slug || dupe.id} `
+      + `(sim=${dupe.similarity.toFixed(2)})`
+    );
+    return false;
+  }
+
   queue.stories.push({
     ...story,
+    fingerprint: fp,
     queued_at: new Date().toISOString(),
     status: 'pending',       // pending | claimed | published | killed
     claimed_by: null,

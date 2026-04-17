@@ -9,15 +9,21 @@
     "preview": "astro preview",
     "astro": "astro",
     "editorial": "node agents/editor.mjs",
+    "scout": "node agents/scout.mjs",
+    "scout:a": "node agents/scout.mjs --tier A",
+    "scout:b": "node agents/scout.mjs --tier B",
     "monitor": "node agents/monitor.mjs",
+    "triage": "node agents/triage.mjs",
     "discover": "node agents/discover.mjs",
+    "discover:apply": "node agents/discover.mjs --apply",
     "research": "node agents/research.mjs",
-    "verify": "node agents/verify.mjs"
+    "verify": "node agents/verify.mjs",
+    "dedupe:scan": "node agents/dedupe.mjs --scan"
   },
   "dependencies": {
-    "astro": "^5.7.0",
+    "@anthropic-ai/sdk": "^0.39.0",
     "@astrojs/rss": "^4.0.0",
     "@astrojs/sitemap": "^3.0.0",
-    "@anthropic-ai/sdk": "^0.39.0"
+    "astro": "^5.7.0"
   }
 }
