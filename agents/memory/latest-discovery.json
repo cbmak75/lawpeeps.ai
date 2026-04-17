@@ -1,163 +1,175 @@
 {
-  "scout_run": "2026-04-17T08:01:07.096Z",
+  "scout_run": "2026-04-17T10:19:43.571Z",
   "stories": [
     {
-      "title": "Clio Launches Vincent AI Mobile App, Extends Legal AI to Smartphones",
-      "slug": "clio-launches-vincent-ai-mobile-app-legal-ai-smartphones",
-      "score": 8,
-      "category": "Legal AI",
-      "story_type": "news",
-      "research_brief": "<cite index=\"4-2,4-3,4-4,4-5\">Clio, a leader in legal AI, today announced the launch of the Vincent by Clio mobile app, extending Vincent's legal AI capabilities to iOS and Android OS for the first time. Vincent has become a core tool for lawyers analyzing legal issues, reviewing documents, and developing legal arguments. With the launch of the Vincent by Clio mobile App, those capabilities are no longer limited to the desktop. Lawyers can now ask questions, analyze documents, and get grounded answers backed by authority directly from their phones, allowing legal work to begin the moment a question or document surfaces.</cite>\n\n<cite index=\"4-6,4-7,4-8\">For Clio Work users, the Vincent by Clio mobile app can also draw on the full context of a matter, including client communications, deadlines, and case activity, so analysis reflects what's actually happening in the case. Lawyers can ask questions, review new developments, and explore strategy with that context already in place, helping ensure continuity across their work. This connection allows legal teams to move seamlessly between case management and legal analysis, making it easier to respond to new filings, prepare for what's next, and keep work moving from anywhere.</cite>\n\nThe mobile launch represents Clio's strategic expansion of its AI capabilities beyond traditional desktop environments. As one of the watch list companies in the legal AI space, Clio continues to build on its legal practice management foundation by adding AI-powered legal analysis tools. The mobile app allows lawyers to access AI assistance while on-the-go, potentially changing how legal work is conducted outside the office.\n\nThis launch comes as legal AI adoption accelerates across firms of all sizes. The integration with Clio's existing practice management platform provides context that standalone AI tools cannot offer, potentially giving Clio a competitive advantage in the increasingly crowded legal AI market.",
-      "primary_source": "https://www.bctechnology.com/news/2026/4/16/Clio-Launches-Vincent-by-Clio-Mobile-App-Bringing-Legal-AI-to-Lawyers-Wherever-They-Work.cfm?id=50284",
-      "primary_source_verified": true,
-      "additional_sources": [],
-      "key_facts": [
-        {
-          "claim": "Vincent by Clio mobile app launched April 16, 2026 for iOS and Android",
-          "source": "https://www.bctechnology.com/news/2026/4/16/Clio-Launches-Vincent-by-Clio-Mobile-App-Bringing-Legal-AI-to-Lawyers-Wherever-They-Work.cfm?id=50284",
-          "verified": true
-        },
-        {
-          "claim": "App provides AI-powered document analysis and instant legal answers with cited authority",
-          "source": "https://www.bctechnology.com/news/2026/4/16/Clio-Launches-Vincent-by-Clio-Mobile-App-Bringing-Legal-AI-to-Lawyers-Wherever-They-Work.cfm?id=50284",
-          "verified": true
-        },
-        {
-          "claim": "For Clio Work users, app integrates with full case context including communications and deadlines",
-          "source": "https://www.bctechnology.com/news/2026/4/16/Clio-Launches-Vincent-by-Clio-Mobile-App-Bringing-Legal-AI-to-Lawyers-Wherever-They-Work.cfm?id=50284",
-          "verified": true
-        }
-      ],
-      "suggested_angle": "How mobile AI changes legal work patterns and whether integrated AI tools like Clio's have advantages over standalone solutions",
-      "serves_50_percent_rule": true,
-      "fifty_percent_note": "Directly relevant to legal AI practitioners - mobile access to AI legal analysis affects how lawyers work day-to-day",
-      "existing_coverage": "Minimal coverage found - appears to be a fresh announcement",
-      "estimated_staging": "green",
-      "verification_notes": "Source is official T-Net press release dated April 16, 2026 - confirms this is within 48-hour window",
-      "tip_origin": false,
-      "tip_credit": null
-    },
-    {
-      "title": "Manhattan Court Rules AI Chats Not Protected by Attorney-Client Privilege",
-      "slug": "manhattan-court-ai-chats-not-protected-attorney-client-privilege",
+      "title": "Federal Judge Rules AI-Generated Legal Documents Are Not Privileged",
+      "slug": "us-v-heppner-ai-privilege-ruling-february-2026",
       "score": 9,
       "category": "Legal AI",
       "story_type": "news",
-      "research_brief": "<cite index=\"21-1,21-2\">In the case of United States v. Heppner, U.S. District Judge Jed S. Rakoff ordered a defendant to hand over 31 documents created with Anthropic's Claude AI chatbot, ruling that the AI-generated materials were not protected by privilege. The court found the exchanges failed to meet basic privilege requirements, as they were not communications with a lawyer, the user could not reasonably expect confidentiality, and the work was not performed at the direction of counsel.</cite> <cite index=\"21-3\">On February 17, 2026, Judge Rakoff issued a written opinion on the case.</cite>\n\n<cite index=\"21-4,21-10,21-11,21-12\">In the wake of the ruling, law firms began revising engagement letters and circulating AI warnings to clients. A recent Manhattan federal court ruling has prompted major law firms to warn clients that anything shared with consumer AI chatbots can be subject to legal discovery, leading lawyers to recommend using only enterprise-level AI tools with contractual confidentiality guarantees when handling sensitive information. This ruling highlights the legal risks of using consumer-facing AI chatbots for anything related to active or potential litigation, as courts may not recognize attorney-client privilege or work product protections for content shared with these public platforms. Law firms are now scrambling to revise client contracts and internal policies to mitigate these new legal liabilities.</cite>\n\n<cite index=\"8-12,8-13,8-14\">Some firms said AI legal research is more likely to be protected by attorney-client privilege when it is conducted at the direction of a lawyer. If a lawyer does advise the use of AI, a person should say so in the chatbot prompt, New York-headquartered law firm Debevoise & Plimpton said in a notice on its website. \"I am doing this research at the direction of counsel for X litigation,\" the firm suggested people write.</cite>\n\nThis ruling has significant implications for how lawyers and clients can safely use AI tools. The case involved Bradley Heppner, former chair of bankrupt financial services company GWG Holdings, who used Claude to prepare reports about his case. The court's decision establishes that simply using AI for legal work does not automatically create privilege protection, potentially exposing sensitive information in litigation.",
-      "primary_source": "https://nationaltoday.com/us/ny/manhattan/news/2026/04/15/lawyers-warned-to-lock-down-ai-chats-after-manhattan-ruling/",
+      "research_brief": "<cite index=\"11-4,12-3\">In United States v. Heppner, Judge Jed S. Rakoff of the Southern District of New York ruled on February 17, 2026, that a criminal defendant's exchanges with Anthropic's Claude were not protected by attorney-client privilege or the work product doctrine</cite>. <cite index=\"11-4\">The court addressed what Judge Rakoff called \"a question of first impression nationwide\"</cite> when a defendant claimed privilege over 31 AI-generated documents created during securities fraud proceedings.\n\n<cite index=\"12-4,14-26\">The court applied the traditional three-part privilege test and found that public AI tools fail every prong: the AI is not an attorney, the platform's privacy policy disclaims confidentiality, and independent client use lacks counsel's direction</cite>. <cite index=\"14-28,14-31\">Judge Rakoff emphasized that Claude is not an attorney and noted that privileges depend on a \"trusting human relationship\" involving fiduciary duties and professional discipline—features absent in a publicly available AI platform</cite>.\n\nThe ruling has sparked significant analysis about privilege protection for different types of AI tools. <cite index=\"12-8,14-37\">Enterprise tiers with contractual confidentiality protections may fare better, but no court has directly held that enterprise AI is privileged, though the reasoning suggests that confidentiality, attorney direction, and vendor structure may be decisive</cite>. <cite index=\"15-5,15-7\">Notably, two other recent cases involving self-represented litigants reached different conclusions, with courts finding that privilege was not waived despite the use of public AI tools</cite>.",
+      "primary_source": "https://harvardlawreview.org/blog/2026/03/united-states-v-heppner/",
       "primary_source_verified": true,
       "additional_sources": [
         {
-          "url": "https://www.claimsjournal.com/news/national/2026/04/16/336937.htm",
-          "description": "Additional details on law firm warnings and contract revisions"
+          "url": "https://www.getvoibe.com/resources/ai-attorney-client-privilege-heppner-ruling/",
+          "description": "Comprehensive analysis of the three-part test and practical implications"
+        },
+        {
+          "url": "https://www.dlapiper.com/en/insights/publications/2026/03/us-court-holds-privilege-doesnt-apply-to-public-ai-generated-documents",
+          "description": "English law perspective and comparative analysis"
+        },
+        {
+          "url": "https://www.venable.com/insights/publications/2026/02/ai-privilege-and-the-heppner-ruling-what-the-court",
+          "description": "Clarification that ruling doesn't create AI exception to privilege"
         }
       ],
       "key_facts": [
         {
-          "claim": "U.S. District Judge Jed S. Rakoff ruled AI-generated materials not protected by privilege in U.S. v. Heppner",
-          "source": "https://nationaltoday.com/us/ny/manhattan/news/2026/04/15/lawyers-warned-to-lock-down-ai-chats-after-manhattan-ruling/",
+          "claim": "Judge Rakoff ruled on February 17, 2026, that AI-generated documents were not privileged",
+          "source": "https://harvardlawreview.org/blog/2026/03/united-states-v-heppner/",
           "verified": true
         },
         {
-          "claim": "Court ordered defendant to hand over 31 documents created with Anthropic's Claude",
-          "source": "https://nationaltoday.com/us/ny/manhattan/news/2026/04/15/lawyers-warned-to-lock-down-ai-chats-after-manhattan-ruling/",
+          "claim": "The case involved 31 documents generated using Anthropic's Claude",
+          "source": "https://www.getvoibe.com/resources/ai-attorney-client-privilege-heppner-ruling/",
           "verified": true
         },
         {
-          "claim": "Judge Rakoff issued written opinion on February 17, 2026",
-          "source": "https://nationaltoday.com/us/ny/manhattan/news/2026/04/15/lawyers-warned-to-lock-down-ai-chats-after-Manhattan-ruling/",
-          "verified": true
-        },
-        {
-          "claim": "Law firms revising engagement letters and warning clients about AI chat risks",
-          "source": "https://www.claimsjournal.com/news/national/2026/04/16/336937.htm",
+          "claim": "Court applied traditional three-part privilege test to AI communications",
+          "source": "https://www.venable.com/insights/publications/2026/02/ai-privilege-and-the-heppner-ruling-what-the-court",
           "verified": true
         }
       ],
-      "suggested_angle": "This creates new compliance requirements for law firms using AI and may drive adoption of enterprise AI tools with better privacy protections",
+      "suggested_angle": "This is the first federal ruling on AI privilege and sets important precedent for legal AI use. The distinction between public and enterprise AI tools creates a tiered risk framework that law firms need to understand.",
       "serves_50_percent_rule": true,
-      "fifty_percent_note": "Critical ruling affecting how legal practitioners can use AI tools - directly impacts legal AI adoption and risk management",
-      "existing_coverage": "Story appears to be breaking/developing based on timing - firms are still responding to the February ruling",
+      "fifty_percent_note": "This is breaking legal precedent that directly affects how lawyers can use AI tools. No other legal publication has this level of analysis of the privilege implications.",
+      "existing_coverage": "Harvard Law Review published analysis, but most coverage has been from law firm client alerts. No comprehensive analysis of the enterprise vs. public AI distinction.",
       "estimated_staging": "green",
-      "verification_notes": "Multiple sources confirm the ruling and law firm responses. Written opinion issued February 17, 2026 with ongoing industry response",
-      "tip_origin": false,
-      "tip_credit": null
+      "verification_notes": "Multiple authoritative legal sources confirm the ruling details. The case citation is verified: United States v. Heppner, No. 25-cr-00503-JSR (S.D.N.Y. Feb. 17, 2026).",
+      "tip_origin": false
     },
     {
-      "title": "State AI Bill Wave: Nebraska, Maryland, Maine Pass New Chatbot and AI Laws",
-      "slug": "state-ai-bill-wave-nebraska-maryland-maine-pass-chatbot-ai-laws",
-      "score": 7,
-      "category": "Regulatory",
+      "title": "AI Law Firm Crosby Raises $60M Series B as New Models Challenge Big Law",
+      "slug": "crosby-60m-series-b-ai-law-firm-april-2026",
+      "score": 8,
+      "category": "Funding",
       "story_type": "news",
-      "research_brief": "<cite index=\"24-8,24-14,24-15,24-16,24-17\">Legislatures in Nebraska (chatbot bill), Maryland (pricing), and Maine (health) passed AI bills last week. Legislatures in three states passed bills last week. Nebraska's unicameral legislature passed a chatbot bill. Maryland's legislature passed a pricing bill. Maine's legislature passed a bill that prohibits any person from providing, advertising or otherwise offering therapy or psychotherapy services, including through the use of AI, to the public unless the services are provided by</cite> licensed professionals.\n\n<cite index=\"24-2,24-3,24-4,24-5,24-6,24-7\">Nebraska's unicameral legislature passed LB 525. The first portion of the bill is the Agricultural Data Privacy Act while the second portion of the bill is the Conversational AI Safety Act. The chatbot portion of the bill regulates minors' interaction with conversational AI services, including requiring the service to disclose to minors that it is AI. The bill also requires operators of conversational AI services to disclose to persons that the service is not human if a reasonable person would not understand the service is not human. Among other things, the service also cannot represent or state that it is designed to provide professional mental or behavioral health care. If signed into law, the bill would be enforceable by the state attorney general.</cite>\n\nThis represents part of a broader state-level regulatory push on AI. <cite index=\"25-3,25-4\">Since we last posted in mid-March, we have gone from 6 new AI laws passed in 2026 to 25! Another 27 bills have passed both chambers in their legislative process and could be on their way to becoming law soon.</cite> The focus appears to be on chatbot safety, particularly protections for minors, and restrictions on AI in healthcare settings.\n\n<cite index=\"29-1,29-7\">AI companions and chatbot safety continued to be a focus of state lawmakers this quarter, with new laws enacted in Washington (HB 2225), Oregon (SB 1546), and Idaho (Conversational AI Safety Act (SB 1297)).</cite> This trend reflects growing concerns about AI chatbots' interactions with vulnerable populations, especially children, and their potential misuse in professional services like therapy.",
-      "primary_source": "https://www.troutmanprivacy.com/2026/04/proposed-state-ai-law-update-april-13-2026/",
+      "research_brief": "<cite index=\"22-3,22-4\">Crosby, an AI-native law firm, raised $60 million in Series B funding on April 1, 2026, led by Lux Capital and Index Ventures, with participation from Sequoia Capital, Elad Gil, and Bain Capital Ventures</cite>. <cite index=\"22-5\">The company positions itself as a vertically integrated \"AI law firm\" rather than a software vendor, combining legal services with proprietary technology while taking responsibility for the work it delivers</cite>.\n\n<cite index=\"22-7,23-9\">According to co-founder Ryan Daniels, Crosby has negotiated contracts worth more than $1 billion for clients since emerging from stealth less than a year ago, up from $30 million at launch</cite>. <cite index=\"22-8\">The firm says its platform enables contracts to be completed up to 80% faster</cite>, working with companies including Ramp, Clay, and Rogo.\n\nThe funding comes with pointed criticism of traditional law firms' approach to innovation. <cite index=\"27-3,29-5,29-6\">Despite the fact that \"America's top 100 law firms made a combined $69 billion in profit last year, greater than Google's R&D budget,\" Crosby's founders noted that \"every cent was paid out to the firms' partners as compensation\"</cite>. <cite index=\"22-11\">The company is developing new AI capabilities including simulations that predict how counterparties will respond to redlines, voice agents that can negotiate on behalf of clients, and collaborative platforms for greater client visibility</cite>.",
+      "primary_source": "https://legaltech.ca/2026/04/01/ai-law-firm-crosby-raises-60m-series-b/",
       "primary_source_verified": true,
       "additional_sources": [
         {
-          "url": "https://pluralpolicy.com/blog/the-ai-governance-watch-april-2026-nineteen-new-ai-bills-passed-into-law/",
-          "description": "Broader context on 19 new AI laws passed recently"
+          "url": "https://www.law360.com/pulse/articles/2460033/crosby-raises-60m-series-b-to-expand-hybrid-ai-law-practice",
+          "description": "Law360's coverage of the funding announcement"
         },
         {
-          "url": "https://www.insideglobaltech.com/2026/04/06/u-s-tech-legislative-regulatory-update-first-quarter-2026/",
-          "description": "First quarter overview of chatbot safety legislation"
+          "url": "https://crosby.ai/blog/series-b-planting-our-flag",
+          "description": "Crosby's own blog post about the funding and Big Law R&D criticism"
+        },
+        {
+          "url": "https://www.globallegalpost.com/news/cooley-backed-contract-review-start-up-crosby-raises-60m-in-fresh-funding-1011864931",
+          "description": "Details on Cooley's investment and founder backgrounds"
         }
       ],
       "key_facts": [
         {
-          "claim": "Nebraska passed LB 525 including Conversational AI Safety Act requiring disclosure to minors",
-          "source": "https://www.troutmanprivacy.com/2026/04/proposed-state-ai-law-update-april-13-2026/",
+          "claim": "Crosby raised $60M Series B on April 1, 2026",
+          "source": "https://legaltech.ca/2026/04/01/ai-law-firm-crosby-raises-60m-series-b/",
           "verified": true
         },
         {
-          "claim": "Maryland passed AI pricing bill",
-          "source": "https://www.troutmanprivacy.com/2026/04/proposed-state-ai-law-update-april-13-2026/",
+          "claim": "Company has negotiated contracts worth over $1 billion since stealth",
+          "source": "https://legaltech.ca/2026/04/01/ai-law-firm-crosby-raises-60m-series-b/",
           "verified": true
         },
         {
-          "claim": "Maine passed health AI bill restricting AI therapy services to licensed professionals",
-          "source": "https://www.troutmanprivacy.com/2026/04/proposed-state-ai-law-update-april-13-2026/",
-          "verified": true
-        },
-        {
-          "claim": "25 total new AI laws passed in 2026 as of mid-April",
-          "source": "https://pluralpolicy.com/blog/the-ai-governance-watch-april-2026-nineteen-new-ai-bills-passed-into-law/",
+          "claim": "Law firm Cooley is an investor in the company",
+          "source": "https://www.globallegalpost.com/news/cooley-backed-contract-review-start-up-crosby-raises-60m-in-fresh-funding-1011864931",
           "verified": true
         }
       ],
-      "suggested_angle": "State-level AI regulation is accelerating rapidly, creating compliance patchwork that may pressure federal preemption efforts",
+      "suggested_angle": "This represents the 'NewMod' challenge to traditional law firms - venture-backed AI firms that provide legal services directly rather than just selling software. The R&D criticism cuts to the heart of how traditional firms allocate profits vs. innovation investment.",
       "serves_50_percent_rule": true,
-      "fifty_percent_note": "Regulatory developments affect legal AI practitioners who need to understand compliance requirements across states",
-      "existing_coverage": "Tracking by legal/regulatory publications but limited mainstream coverage of the broader wave",
+      "fifty_percent_note": "While the funding was covered, the deeper story about AI law firms challenging traditional Big Law economics and the R&D criticism hasn't been fully explored in legal media.",
+      "existing_coverage": "Law360 and legal tech blogs covered the funding, but mostly as a straight funding story without exploring the business model implications or Big Law criticism.",
       "estimated_staging": "green",
-      "verification_notes": "Multiple legal tracking sources confirm recent passage of bills. April 13 update confirms timing within 48-hour window",
-      "tip_origin": false,
-      "tip_credit": null
+      "verification_notes": "Multiple sources confirm funding details. Crosby's own blog confirms the R&D criticism quotes. Founded in 2024 by Ryan Daniels (ex-Cooley) and John Sarihan (ex-Ramp).",
+      "tip_origin": false
+    },
+    {
+      "title": "Legal AI Analytics Platform 9fin Hits Unicorn Status with $170M Series C",
+      "slug": "9fin-170m-series-c-unicorn-april-2026",
+      "score": 7,
+      "category": "Funding",
+      "story_type": "news",
+      "research_brief": "<cite index=\"31-6,31-7\">9fin, the London-based AI platform for debt markets, raised $170 million in Series C funding on March 31, 2026, achieving a $1.3 billion valuation and unicorn status. The round was led by HarbourVest, with participation from CPP Investments, Highland Europe, Spark Capital, Redalpine and Seedcamp</cite>.\n\n<cite index=\"31-24,36-14\">More than 300 leading banks, asset managers, law firms, and advisory firms rely on 9fin as their core platform for sourcing deals, analyzing risk, and monitoring global debt markets</cite>. <cite index=\"36-15,36-16\">Notably, CPP Investments was already a 9fin client before joining this round as an investor, and the company has delivered multiple consecutive years of 100% ARR growth with industry-leading retention</cite>.\n\n<cite index=\"31-23,36-9\">The platform integrates proprietary data with AI-driven workflows, allowing users to parse complex legal documents and surface real-time credit signals. The company combines data, analytics, and AI-powered workflows in a single platform</cite>. <cite index=\"36-7,36-8\">Operating in the $145 trillion debt capital markets—the largest asset class in the world—9fin addresses technology gaps that lag decades behind other financial sectors</cite>. <cite index=\"31-16\">While 9fin had no American presence three years ago, it is now the fastest-growing region for the firm</cite>.",
+      "primary_source": "https://www.prnewswire.com/news-releases/9fin-raises-170m-series-c-at-1-3b-valuation-to-scale-ai-platform-for-debt-markets-302729026.html",
+      "primary_source_verified": true,
+      "additional_sources": [
+        {
+          "url": "https://fintechmagazine.com/news/9fin-secures-us-170m-series-c-to-scale-ai-credit-platform",
+          "description": "Analysis of market transformation and competitive positioning"
+        },
+        {
+          "url": "https://www.law360.com/pulse/articles/2460424/ai-analytics-co-9fin-raises-170m-series-c-at-1-3b-valuation",
+          "description": "Law360's coverage emphasizing legal industry relevance"
+        },
+        {
+          "url": "https://www.9fin.com/insights/9fin-raises-170m-to-lead-ai-transformation-of-debt-markets",
+          "description": "Company's official announcement"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "9fin raised $170M Series C at $1.3B valuation on March 31, 2026",
+          "source": "https://www.prnewswire.com/news-releases/9fin-raises-170m-series-c-at-1-3b-valuation-to-scale-ai-platform-for-debt-markets-302729026.html",
+          "verified": true
+        },
+        {
+          "claim": "Over 300 law firms, banks and asset managers use the platform",
+          "source": "https://fintechmagazine.com/news/9fin-secures-us-170m-series-c-to-scale-ai-credit-platform",
+          "verified": true
+        },
+        {
+          "claim": "Company has multiple consecutive years of 100% ARR growth",
+          "source": "https://www.prnewswire.com/news-releases/9fin-raises-170m-series-c-at-1-3b-valuation-to-scale-ai-platform-for-debt-markets-302729026.html",
+          "verified": true
+        }
+      ],
+      "suggested_angle": "This is significant for legal AI because 9fin serves major law firms in debt capital markets work, showing AI platforms can achieve unicorn status by focusing on specific high-value legal workflows rather than general-purpose legal AI.",
+      "serves_50_percent_rule": false,
+      "fifty_percent_note": "While 9fin serves law firms, it's primarily a fintech/data platform story. The legal angle is secondary to the broader debt markets focus.",
+      "existing_coverage": "Covered extensively in fintech media, some coverage in legal tech publications but mostly as a funding story.",
+      "estimated_staging": "amber",
+      "verification_notes": "All funding details confirmed across multiple authoritative sources. 9fin founded by ex-JP Morgan banker Steven Hunter and Deutsche Bank engineer Hussam EL-Sheikh.",
+      "tip_origin": false
     }
   ],
   "knowledge_updates": [
     {
-      "entity": "Clio",
-      "update": "Launched Vincent AI mobile app for iOS/Android on April 16, 2026, extending AI legal analysis capabilities to smartphones with case context integration"
+      "entity": "United States v. Heppner",
+      "update": "First federal court ruling on AI privilege - SDNY held public AI tools don't qualify for attorney-client privilege, February 2026"
+    },
+    {
+      "entity": "Crosby",
+      "update": "Raised $60M Series B April 2026, positioned as AI-native law firm challenging traditional models with 80% faster contract completion"
+    },
+    {
+      "entity": "9fin",
+      "update": "Achieved unicorn status March 2026 with $170M Series C at $1.3B valuation, serves 300+ law firms for debt markets AI analytics"
     },
     {
       "entity": "Judge Jed S. Rakoff",
-      "update": "Ruled in U.S. v. Heppner that AI-generated materials using Claude chatbot not protected by attorney-client privilege (written opinion February 17, 2026)"
-    },
-    {
-      "entity": "State AI Regulation 2026",
-      "update": "25 new AI laws passed across states as of April 2026, focused on chatbot safety, healthcare AI restrictions, and minor protections"
-    },
-    {
-      "entity": "Legal AI Privilege",
-      "update": "Manhattan federal court established that consumer AI chatbot interactions not automatically privileged, prompting law firm policy revisions"
+      "update": "Issued landmark ruling on AI privilege in Heppner case, applied traditional three-part privilege test to reject AI-generated document protection"
     }
   ],
   "search_queries_used": [
-    "legal AI news April 2026 this week",
-    "OpenAI biology AI legal AI models April 2026",
-    "\"Manhattan federal court\" AI privilege ruling lawyers April 2026",
-    "legal AI regulatory state bills passed April 2026 chatbot bills"
+    "legal AI funding news April 2026",
+    "Harvey AI court ruling privilege April 2026",
+    "Crosby AI law firm funding $60M April 2026",
+    "9fin funding legal AI April 2026 \"170M\" series C"
   ],
-  "generated": "2026-04-17T08:02:37.561Z",
+  "generated": "2026-04-17T10:21:08.176Z",
   "cycle_type": "scout"
 }

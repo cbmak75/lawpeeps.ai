@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-17T08:01:07.095Z",
+  "generated": "2026-04-17T10:19:43.570Z",
   "cycle_type": "monitoring",
   "item_count": 30,
-  "total_scanned": 559,
+  "total_scanned": 573,
   "sources_checked": 16,
   "sources_skipped": 10,
   "items": [
@@ -15,62 +15,7 @@
       "source_name": "Ars Technica AI",
       "source_priority": "low",
       "source_category": "General AI",
-      "relevance_score": 9
-    },
-    {
-      "title": "PriHA: A RAG-Enhanced LLM Framework for Primary Healthcare Assistant in Hong Kong",
-      "url": "https://arxiv.org/abs/2604.14215",
-      "summary": "arXiv:2604.14215v1 Announce Type: cross Abstract: To address the unsustainable rise in public health expenditures, the Hong Kong SAR Government is shifting its strategic focus to primary healthcare and encouraging citizens to use community resources to self-manage their health. However, official clinical guidelines are fragmented across disparate departments and formats, creating significant access barriers. While general-purpose Large Language Models (LLMs) such as ChatGPT and DeepSeek offer po",
-      "published": "2026-04-17T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI",
-      "source_priority": "low",
-      "source_category": "Research",
       "relevance_score": 8
-    },
-    {
-      "title": "In Context Learning and Reasoning for Symbolic Regression with Large Language Models",
-      "url": "https://arxiv.org/abs/2410.17448",
-      "summary": "arXiv:2410.17448v3 Announce Type: replace-cross Abstract: Large Language Models (LLMs) are transformer-based machine learning models that have shown remarkable performance in tasks for which they were not explicitly trained. Here, we explore the potential of LLMs to perform symbolic regression -- a machine-learning method for finding simple and accurate equations from datasets. We prompt GPT-4 and GPT-4o models to suggest expressions from data, which are then optimized and evaluated using extern",
-      "published": "2026-04-17T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI",
-      "source_priority": "low",
-      "source_category": "Research",
-      "relevance_score": 8
-    },
-    {
-      "title": "Beyond LLMs, Sparse Distributed Memory, and Neuromorphics &lt;A Hyper-Dimensional SRAM-CAM \"VaCoAl\" for Ultra-High Speed, Ultra-Low Power, and Low Cost&gt;",
-      "url": "https://arxiv.org/abs/2604.11665",
-      "summary": "arXiv:2604.11665v3 Announce Type: replace-cross Abstract: This paper reports an unexpected finding: in a deterministic hyperdimensional computing (HDC) architecture based on Galois-field algebra, a path-dependent semantic selection mechanism emerges, equivalent to spike-timing-dependent plasticity (STDP), with magnitude predictable a priori by a closed-form expression matching large-scale measurements. This addresses limitations of modern AI including catastrophic forgetting, learning stagnation",
-      "published": "2026-04-17T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI",
-      "source_priority": "low",
-      "source_category": "Research",
-      "relevance_score": 8
-    },
-    {
-      "title": "Benchmarks for Trajectory Safety Evaluation and Diagnosis in OpenClaw and Codex: ATBench-Claw and ATBench-CodeX",
-      "url": "https://arxiv.org/abs/2604.14858",
-      "summary": "arXiv:2604.14858v1 Announce Type: new Abstract: As agent systems move into increasingly diverse execution settings, trajectory-level safety evaluation and diagnosis require benchmarks that evolve with them. ATBench is a diverse and realistic agent trajectory benchmark for safety evaluation and diagnosis. This report presents ATBench-Claw and ATBench-CodeX, two domain-customized extensions that carry ATBench into the OpenClaw and OpenAI Codex / Codex-runtime settings. The key adaptation mechanism",
-      "published": "2026-04-17T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI",
-      "source_priority": "low",
-      "source_category": "Research",
-      "relevance_score": 7
-    },
-    {
-      "title": "Multi-Frequency Local Plasticity for Visual Representation Learning",
-      "url": "https://arxiv.org/abs/2604.09734",
-      "summary": "arXiv:2604.09734v2 Announce Type: replace-cross Abstract: We study how far structured architectural bias can compensate for the absence of end-to-end gradient-based representation learning in visual recognition. Building on the VisNet tradition, we introduce a modular hierarchical framework combining: (i) fixed multi-frequency Gabor decomposition into F=7 parallel streams; (ii) within-stream competitive learning with Hebbian and Oja updates and anti-Hebbian decorrelation; (iii) an associative me",
-      "published": "2026-04-17T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI",
-      "source_priority": "low",
-      "source_category": "Research",
-      "relevance_score": 7
     },
     {
       "title": "AI models are terrible at betting on soccer—especially xAI Grok",
@@ -84,6 +29,237 @@
       "relevance_score": 6
     },
     {
+      "title": "PriHA: A RAG-Enhanced LLM Framework for Primary Healthcare Assistant in Hong Kong",
+      "url": "https://arxiv.org/abs/2604.14215",
+      "summary": "arXiv:2604.14215v1 Announce Type: cross Abstract: To address the unsustainable rise in public health expenditures, the Hong Kong SAR Government is shifting its strategic focus to primary healthcare and encouraging citizens to use community resources to self-manage their health. However, official clinical guidelines are fragmented across disparate departments and formats, creating significant access barriers. While general-purpose Large Language Models (LLMs) such as ChatGPT and DeepSeek offer po",
+      "published": "2026-04-17T04:00:00.000Z",
+      "source_id": "arxiv-cs-ai",
+      "source_name": "arXiv cs.AI",
+      "source_priority": "low",
+      "source_category": "Research",
+      "relevance_score": 6
+    },
+    {
+      "title": "In Context Learning and Reasoning for Symbolic Regression with Large Language Models",
+      "url": "https://arxiv.org/abs/2410.17448",
+      "summary": "arXiv:2410.17448v3 Announce Type: replace-cross Abstract: Large Language Models (LLMs) are transformer-based machine learning models that have shown remarkable performance in tasks for which they were not explicitly trained. Here, we explore the potential of LLMs to perform symbolic regression -- a machine-learning method for finding simple and accurate equations from datasets. We prompt GPT-4 and GPT-4o models to suggest expressions from data, which are then optimized and evaluated using extern",
+      "published": "2026-04-17T04:00:00.000Z",
+      "source_id": "arxiv-cs-ai",
+      "source_name": "arXiv cs.AI",
+      "source_priority": "low",
+      "source_category": "Research",
+      "relevance_score": 6
+    },
+    {
+      "title": "Beyond LLMs, Sparse Distributed Memory, and Neuromorphics &lt;A Hyper-Dimensional SRAM-CAM \"VaCoAl\" for Ultra-High Speed, Ultra-Low Power, and Low Cost&gt;",
+      "url": "https://arxiv.org/abs/2604.11665",
+      "summary": "arXiv:2604.11665v3 Announce Type: replace-cross Abstract: This paper reports an unexpected finding: in a deterministic hyperdimensional computing (HDC) architecture based on Galois-field algebra, a path-dependent semantic selection mechanism emerges, equivalent to spike-timing-dependent plasticity (STDP), with magnitude predictable a priori by a closed-form expression matching large-scale measurements. This addresses limitations of modern AI including catastrophic forgetting, learning stagnation",
+      "published": "2026-04-17T04:00:00.000Z",
+      "source_id": "arxiv-cs-ai",
+      "source_name": "arXiv cs.AI",
+      "source_priority": "low",
+      "source_category": "Research",
+      "relevance_score": 6
+    },
+    {
+      "title": "ClearyX Launches CX+ For Contract AI Needs",
+      "url": "https://www.artificiallawyer.com/2026/04/15/clearyx-launches-cx-for-contract-ai-needs/",
+      "summary": "ClearyX, the ALSP created by top New York firm Cleary Gottlieb, has launched CX+, a contract insights and due diligence platform. They added that it ...",
+      "published": "2026-04-15T14:11:16.000Z",
+      "source_id": "artificial-lawyer",
+      "source_name": "Artificial Lawyer",
+      "source_priority": "critical",
+      "source_category": "Legal AI",
+      "relevance_score": 5
+    },
+    {
+      "title": "Harvey’s Gabe Pereyra on Legal Agents + World Models",
+      "url": "https://www.artificiallawyer.com/2026/04/14/harveys-gabe-pereyra-on-legal-agents-world-models/",
+      "summary": "Agents are the future of legal AI, but how will they really work at scale, and what is a law firm world model? Plus, how ...",
+      "published": "2026-04-14T07:34:57.000Z",
+      "source_id": "artificial-lawyer",
+      "source_name": "Artificial Lawyer",
+      "source_priority": "critical",
+      "source_category": "Legal AI",
+      "relevance_score": 5
+    },
+    {
+      "title": "Anthropic invests $100 million into the Claude Partner Network",
+      "url": "https://www.anthropic.com/news/claude-partner-network",
+      "summary": "Anthropic invests $100 million into the Claude Partner Network",
+      "published": "2026-03-12T00:00:00.000Z",
+      "source_id": "anthropic-blog",
+      "source_name": "Anthropic Blog",
+      "source_priority": "medium",
+      "source_category": "AI company",
+      "relevance_score": 5
+    },
+    {
+      "title": "AI on the couch: Anthropic gives Claude 20 hours of psychiatry",
+      "url": "https://arstechnica.com/ai/2026/04/why-anthropic-sent-its-claude-ai-to-an-actual-psychiatrist/",
+      "summary": "Mythos is \"the most psychologically settled model we have trained to date.\"",
+      "published": "2026-04-09T21:20:31.000Z",
+      "source_id": "ars-technica-ai",
+      "source_name": "Ars Technica AI",
+      "source_priority": "low",
+      "source_category": "General AI",
+      "relevance_score": 5
+    },
+    {
+      "title": "Paris Saint-Germain Names Harvey The Official Legal AI Partner",
+      "url": "https://www.harvey.ai/blog/paris-saint-germain-names-harvey-the-official-legal-ai-partner",
+      "summary": "Article URL: https://www.harvey.ai/blog/paris-saint-germain-names-harvey-the-official-legal-ai-partner Comments URL: https://news.ycombinator.com/item?id=47584330 Points: 2 # Comments: 0",
+      "published": "2026-03-31T08:33:26.000Z",
+      "source_id": "hacker-news",
+      "source_name": "Hacker News (filtered)",
+      "source_priority": "low",
+      "source_category": "Community",
+      "relevance_score": 5
+    },
+    {
+      "title": "Legal AI startup Harvey raises $200M at $11B led by Sequoia, up from $8B in 2025",
+      "url": "https://www.cnbc.com/2026/03/25/legal-ai-startup-harvey-raises-200-million-at-11-billion-valuation.html",
+      "summary": "Article URL: https://www.cnbc.com/2026/03/25/legal-ai-startup-harvey-raises-200-million-at-11-billion-valuation.html Comments URL: https://news.ycombinator.com/item?id=47524570 Points: 2 # Comments: 2",
+      "published": "2026-03-25T23:17:21.000Z",
+      "source_id": "hacker-news",
+      "source_name": "Hacker News (filtered)",
+      "source_priority": "low",
+      "source_category": "Community",
+      "relevance_score": 5
+    },
+    {
+      "title": "Remote Code Execution on a $1B Legal AI Tool",
+      "url": "https://www.promptarmor.com/resources/casebreak-ai-phishing-and-rce-in-vlex",
+      "summary": "Article URL: https://www.promptarmor.com/resources/casebreak-ai-phishing-and-rce-in-vlex Comments URL: https://news.ycombinator.com/item?id=46248873 Points: 6 # Comments: 0",
+      "published": "2025-12-12T20:59:22.000Z",
+      "source_id": "hacker-news",
+      "source_name": "Hacker News (filtered)",
+      "source_priority": "low",
+      "source_category": "Community",
+      "relevance_score": 5
+    },
+    {
+      "title": "Spellbook: Legal AI",
+      "url": "https://www.spellbook.legal",
+      "summary": "Article URL: https://www.spellbook.legal Comments URL: https://news.ycombinator.com/item?id=44334209 Points: 2 # Comments: 0",
+      "published": "2025-06-21T03:15:50.000Z",
+      "source_id": "hacker-news",
+      "source_name": "Hacker News (filtered)",
+      "source_priority": "low",
+      "source_category": "Community",
+      "relevance_score": 5
+    },
+    {
+      "title": "Benchmarks for Trajectory Safety Evaluation and Diagnosis in OpenClaw and Codex: ATBench-Claw and ATBench-CodeX",
+      "url": "https://arxiv.org/abs/2604.14858",
+      "summary": "arXiv:2604.14858v1 Announce Type: new Abstract: As agent systems move into increasingly diverse execution settings, trajectory-level safety evaluation and diagnosis require benchmarks that evolve with them. ATBench is a diverse and realistic agent trajectory benchmark for safety evaluation and diagnosis. This report presents ATBench-Claw and ATBench-CodeX, two domain-customized extensions that carry ATBench into the OpenClaw and OpenAI Codex / Codex-runtime settings. The key adaptation mechanism",
+      "published": "2026-04-17T04:00:00.000Z",
+      "source_id": "arxiv-cs-ai",
+      "source_name": "arXiv cs.AI",
+      "source_priority": "low",
+      "source_category": "Research",
+      "relevance_score": 5
+    },
+    {
+      "title": "Multi-Frequency Local Plasticity for Visual Representation Learning",
+      "url": "https://arxiv.org/abs/2604.09734",
+      "summary": "arXiv:2604.09734v2 Announce Type: replace-cross Abstract: We study how far structured architectural bias can compensate for the absence of end-to-end gradient-based representation learning in visual recognition. Building on the VisNet tradition, we introduce a modular hierarchical framework combining: (i) fixed multi-frequency Gabor decomposition into F=7 parallel streams; (ii) within-stream competitive learning with Hebbian and Oja updates and anti-Hebbian decorrelation; (iii) an associative me",
+      "published": "2026-04-17T04:00:00.000Z",
+      "source_id": "arxiv-cs-ai",
+      "source_name": "arXiv cs.AI",
+      "source_priority": "low",
+      "source_category": "Research",
+      "relevance_score": 5
+    },
+    {
+      "title": "In depth: On the money - Law Society financial benchmarking survey",
+      "url": "https://www.lawgazette.co.uk/news-focus/in-depth-on-the-money-law-society-financial-benchmarking-survey/5126515.article",
+      "summary": "Fee income and profits continue to soar, this year’s benchmarking survey shows. Solicitors are clearly getting better at running their businesses.",
+      "published": "2026-04-17T09:15:00.000Z",
+      "source_id": "law-society-gazette",
+      "source_name": "Law Society Gazette",
+      "source_priority": "medium",
+      "source_category": "Legal profession",
+      "relevance_score": 4
+    },
+    {
+      "title": "Battle to water down jury trial reforms continues",
+      "url": "https://www.lawgazette.co.uk/news/battle-to-water-down-jury-trial-reforms-continues/5126516.article",
+      "summary": "Courts and Tribunals Bill committee has yet to vote on important amendment on specialist rape courts - a Labour manifesto commitment.",
+      "published": "2026-04-17T09:00:00.000Z",
+      "source_id": "law-society-gazette",
+      "source_name": "Law Society Gazette",
+      "source_priority": "medium",
+      "source_category": "Legal profession",
+      "relevance_score": 4
+    },
+    {
+      "title": "Machine age law is already changing practice, says master of rolls",
+      "url": "https://www.lawgazette.co.uk/news/machine-age-law-is-already-changing-practice-says-master-of-rolls/5126513.article",
+      "summary": "TikTok generation will still consult human lawyers - but in a different way, Sir Geoffrey Vos predicts.",
+      "published": "2026-04-17T08:15:00.000Z",
+      "source_id": "law-society-gazette",
+      "source_name": "Law Society Gazette",
+      "source_priority": "medium",
+      "source_category": "Legal profession",
+      "relevance_score": 4
+    },
+    {
+      "title": "High-volume litigation funder placed into administration",
+      "url": "https://www.lawgazette.co.uk/news/high-volume-litigation-funder-placed-into-administration/5126514.article",
+      "summary": "Fenchurch Legal has been a key figure in the emergence of firms running thousands of housing disrepair, financial mis-selling and Plevin PPI claims.",
+      "published": "2026-04-17T08:01:00.000Z",
+      "source_id": "law-society-gazette",
+      "source_name": "Law Society Gazette",
+      "source_priority": "medium",
+      "source_category": "Legal profession",
+      "relevance_score": 4
+    },
+    {
+      "title": "Aspiring lawyers will still need to cover core law modules in the AI age, says Master of the Rolls",
+      "url": "https://www.legalcheek.com/2026/04/aspiring-lawyers-will-still-need-to-cover-core-law-modules-in-the-ai-age-says-master-of-the-rolls/",
+      "summary": "Don't ditch those textbooks just yet The post Aspiring lawyers will still need to cover core law modules in the AI age, says Master of the Rolls appeared first on Legal Cheek .",
+      "published": "2026-04-17T08:29:13.000Z",
+      "source_id": "legal-cheek",
+      "source_name": "Legal Cheek",
+      "source_priority": "medium",
+      "source_category": "Legal profession",
+      "relevance_score": 4
+    },
+    {
+      "title": "Hogan Lovells retains 14 of 21 spring qualifying trainees",
+      "url": "https://www.legalcheek.com/2026/04/hogan-lovells-retains-14-of-21-spring-qualifying-trainees/",
+      "summary": "Two NQs on fixed term contracts The post Hogan Lovells retains 14 of 21 spring qualifying trainees appeared first on Legal Cheek .",
+      "published": "2026-04-17T07:29:08.000Z",
+      "source_id": "legal-cheek",
+      "source_name": "Legal Cheek",
+      "source_priority": "medium",
+      "source_category": "Legal profession",
+      "relevance_score": 4
+    },
+    {
+      "title": "High Court warns Home Office against imposing unrealistic evidence standards in trafficking cases",
+      "url": "https://freemovement.org.uk/unrealistic-standards-in-trafficking-cases/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=unrealistic-standards-in-trafficking-cases",
+      "summary": "The High Court has quashed a negative conclusive grounds decision made against a man rescued by police from a cannabis house he was forced to tend. The judgment confirms that there is no minimum standard of detail required for a positive conclusive grounds decision for a potential victim of trafficking. It also makes it clear [&#8230;]",
+      "published": "2026-04-17T07:00:00.000Z",
+      "source_id": "free-movement",
+      "source_name": "Free Movement",
+      "source_priority": "high",
+      "source_category": "Immigration law",
+      "relevance_score": 4
+    },
+    {
+      "title": "To teach in the time of ChatGPT is to know pain",
+      "url": "https://arstechnica.com/science/2026/04/to-teach-in-the-time-of-chatgpt-is-to-know-pain/",
+      "summary": "LLM use is the most demoralizing problem I’ve faced as a college instructor.",
+      "published": "2026-04-13T11:00:32.000Z",
+      "source_id": "ars-technica-ai",
+      "source_name": "Ars Technica AI",
+      "source_priority": "low",
+      "source_category": "General AI",
+      "relevance_score": 4
+    },
+    {
       "title": "Simulating Human Cognition: Heartbeat-Driven Autonomous Thinking Activity Scheduling for LLM-based AI systems",
       "url": "https://arxiv.org/abs/2604.14178",
       "summary": "arXiv:2604.14178v1 Announce Type: new Abstract: Large Language Model (LLM) agents have demonstrated remarkable capabilities in reasoning and tool use, yet they often suffer from rigid, reactive control flows that limit their adaptability and efficiency. Most existing frameworks rely on fixed pipelines or failure-triggered reflection, causing agents to act impulsively or correct errors only after they occur. In this paper, we introduce Heartbeat-Driven Autonomous Thinking Activity Scheduling, a m",
@@ -92,7 +268,7 @@
       "source_name": "arXiv cs.AI",
       "source_priority": "low",
       "source_category": "Research",
-      "relevance_score": 6
+      "relevance_score": 4
     },
     {
       "title": "Credo: Declarative Control of LLM Pipelines via Beliefs and Policies",
@@ -103,7 +279,7 @@
       "source_name": "arXiv cs.AI",
       "source_priority": "low",
       "source_category": "Research",
-      "relevance_score": 6
+      "relevance_score": 4
     },
     {
       "title": "Response-Aware User Memory Selection for LLM Personalization",
@@ -114,7 +290,7 @@
       "source_name": "arXiv cs.AI",
       "source_priority": "low",
       "source_category": "Research",
-      "relevance_score": 6
+      "relevance_score": 4
     },
     {
       "title": "Evo-MedAgent: Beyond One-Shot Diagnosis with Agents That Remember, Reflect, and Improve",
@@ -125,7 +301,7 @@
       "source_name": "arXiv cs.AI",
       "source_priority": "low",
       "source_category": "Research",
-      "relevance_score": 6
+      "relevance_score": 4
     },
     {
       "title": "Pushing the Limits of On-Device Streaming ASR: A Compact, High-Accuracy English Model for Low-Latency Inference",
@@ -136,7 +312,7 @@
       "source_name": "arXiv cs.AI",
       "source_priority": "low",
       "source_category": "Research",
-      "relevance_score": 6
+      "relevance_score": 4
     },
     {
       "title": "Quantifying Cross-Query Contradictions in Multi-Query LLM Reasoning",
@@ -147,7 +323,7 @@
       "source_name": "arXiv cs.AI",
       "source_priority": "low",
       "source_category": "Research",
-      "relevance_score": 6
+      "relevance_score": 4
     },
     {
       "title": "Dissecting Failure Dynamics in Large Language Model Reasoning",
@@ -158,183 +334,7 @@
       "source_name": "arXiv cs.AI",
       "source_priority": "low",
       "source_category": "Research",
-      "relevance_score": 6
-    },
-    {
-      "title": "TRACER: Trace-Based Adaptive Cost-Efficient Routing for LLM Classification",
-      "url": "https://arxiv.org/abs/2604.14531",
-      "summary": "arXiv:2604.14531v1 Announce Type: new Abstract: Every call to an LLM classification endpoint produces a labeled input-output pair already retained in production logs. These pairs constitute a free, growing training set: a lightweight surrogate trained on them can absorb a significant portion of future traffic at near-zero marginal inference cost. The open questions are when the surrogate is reliable enough to deploy, what it handles versus defers, and how that boundary evolves as data accumulate",
-      "published": "2026-04-17T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI",
-      "source_priority": "low",
-      "source_category": "Research",
-      "relevance_score": 6
-    },
-    {
-      "title": "Enhancing Mental Health Counseling Support in Bangladesh using Culturally-Grounded Knowledge",
-      "url": "https://arxiv.org/abs/2604.14576",
-      "summary": "arXiv:2604.14576v1 Announce Type: new Abstract: Large language models (LLMs) show promise in generating supportive responses for mental health and counseling applications. However, their responses often lack cultural sensitivity, contextual grounding, and clinically appropriate guidance. This work addresses the gap of how to systematically incorporate domain-specific, clinically validated knowledge into LLMs to improve counseling quality. We utilize and compare two approaches, retrieval-augmente",
-      "published": "2026-04-17T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI",
-      "source_priority": "low",
-      "source_category": "Research",
-      "relevance_score": 6
-    },
-    {
-      "title": "Prompt Optimization Is a Coin Flip: Diagnosing When It Helps in Compound AI Systems",
-      "url": "https://arxiv.org/abs/2604.14585",
-      "summary": "arXiv:2604.14585v1 Announce Type: new Abstract: Prompt optimization in compound AI systems is statistically indistinguishable from a coin flip: across 72 optimization runs on Claude Haiku (6 methods $\\times$ 4 tasks $\\times$ 3 repeats), 49% score below zero-shot; on Amazon Nova Lite, the failure rate is even higher. Yet on one task, all six methods improve over zero-shot by up to $+6.8$ points. What distinguishes success from failure? We investigate with 18,000 grid evaluations and 144 optimizat",
-      "published": "2026-04-17T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI",
-      "source_priority": "low",
-      "source_category": "Research",
-      "relevance_score": 6
-    },
-    {
-      "title": "GDPR Auto-Formalization with AI Agents and Human Verification",
-      "url": "https://arxiv.org/abs/2604.14607",
-      "summary": "arXiv:2604.14607v1 Announce Type: new Abstract: We study the overall process of automatic formalization of GDPR provisions using large language models, within a human-in-the-loop verification framework. Rather than aiming for full autonomy, we adopt a role-specialized workflow in which LLM-based AI components, operating in a multi-agent setting with iterative feedback, generate legal scenarios, formal rules, and atomic facts. This is coupled with independent verification modules which include hu",
-      "published": "2026-04-17T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI",
-      "source_priority": "low",
-      "source_category": "Research",
-      "relevance_score": 6
-    },
-    {
-      "title": "El Agente Forjador: Task-Driven Agent Generation for Quantum Simulation",
-      "url": "https://arxiv.org/abs/2604.14609",
-      "summary": "arXiv:2604.14609v1 Announce Type: new Abstract: AI for science promises to accelerate the discovery process. The advent of large language models (LLMs) and agentic workflows enables the expediting of a growing range of scientific tasks. However, most of the current generation of agentic systems depend on static, hand-curated toolsets that hinder adaptation to new domains and evolving libraries. We present El Agente Forjador, a multi-agent framework in which universal coding agents autonomously f",
-      "published": "2026-04-17T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI",
-      "source_priority": "low",
-      "source_category": "Research",
-      "relevance_score": 6
-    },
-    {
-      "title": "Learning to Draw ASCII Improves Spatial Reasoning in Language Models",
-      "url": "https://arxiv.org/abs/2604.14641",
-      "summary": "arXiv:2604.14641v1 Announce Type: new Abstract: When faced with complex spatial problems, humans naturally sketch layouts to organize their thinking, and the act of drawing further sharpens their understanding. In this work, we ask whether a similar principle holds for Large Language Models (LLMs): can learning to construct explicit visual layouts from spatial descriptions instill genuine spatial understanding? We introduce Text2Space, a dataset that pairs natural language descriptions with grou",
-      "published": "2026-04-17T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI",
-      "source_priority": "low",
-      "source_category": "Research",
-      "relevance_score": 6
-    },
-    {
-      "title": "Targeted Exploration via Unified Entropy Control for Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2604.14646",
-      "summary": "arXiv:2604.14646v1 Announce Type: new Abstract: Recent advances in reinforcement learning (RL) have improved the reasoning capabilities of large language models (LLMs) and vision-language models (VLMs). However, the widely used Group Relative Policy Optimization (GRPO) consistently suffers from entropy collapse, causing the policy to converge prematurely and lose diversity. Existing exploration methods introduce additional bias or variance during exploration, making it difficult to maintain opti",
-      "published": "2026-04-17T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI",
-      "source_priority": "low",
-      "source_category": "Research",
-      "relevance_score": 6
-    },
-    {
-      "title": "Acceptance Dynamics Across Cognitive Domains in Speculative Decoding",
-      "url": "https://arxiv.org/abs/2604.14682",
-      "summary": "arXiv:2604.14682v1 Announce Type: new Abstract: Speculative decoding accelerates large language model (LLM) inference. It uses a small draft model to propose a tree of future tokens. A larger target model then verifies these tokens in a single batched forward pass. Despite the growing body of work on speculative methods, the degree to which the cognitive characteristics of a task affect acceptance probability remains largely unexplored. We present an empirical study of tree-based speculative dec",
-      "published": "2026-04-17T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI",
-      "source_priority": "low",
-      "source_category": "Research",
-      "relevance_score": 6
-    },
-    {
-      "title": "M2-PALE: A Framework for Explaining Multi-Agent MCTS--Minimax Hybrids via Process Mining and LLMs",
-      "url": "https://arxiv.org/abs/2604.14687",
-      "summary": "arXiv:2604.14687v1 Announce Type: new Abstract: Monte-Carlo Tree Search (MCTS) is a fundamental sampling-based search algorithm widely used for online planning in sequential decision-making domains. Despite its success in driving recent advances in artificial intelligence, understanding the behavior of MCTS agents remains a challenge for both developers and users. This difficulty stems from the complex search trees produced through the simulation of numerous future states and their intricate rel",
-      "published": "2026-04-17T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI",
-      "source_priority": "low",
-      "source_category": "Research",
-      "relevance_score": 6
-    },
-    {
-      "title": "CAMO: An Agentic Framework for Automated Causal Discovery from Micro Behaviors to Macro Emergence in LLM Agent Simulations",
-      "url": "https://arxiv.org/abs/2604.14691",
-      "summary": "arXiv:2604.14691v1 Announce Type: new Abstract: LLM-empowered agent simulations are increasingly used to study social emergence, yet the micro-to-macro causal mechanisms behind macro outcomes often remain unclear. This is challenging because emergence arises from intertwined agent interactions and meso-level feedback and nonlinearity, making generative mechanisms hard to disentangle. To this end, we introduce \\textbf{\\textsc{CAMO}}, an automated \\textbf{Ca}usal discovery framework from \\textbf{M",
-      "published": "2026-04-17T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI",
-      "source_priority": "low",
-      "source_category": "Research",
-      "relevance_score": 6
-    },
-    {
-      "title": "SynHAT: A Two-stage Coarse-to-Fine Diffusion Framework for Synthesizing Human Activity Traces",
-      "url": "https://arxiv.org/abs/2604.14705",
-      "summary": "arXiv:2604.14705v1 Announce Type: new Abstract: Human activity traces (HATs) are critical for many applications, including human mobility modeling and point-of-interest (POI) recommendation. However, growing privacy concerns have severely limited access to authentic large-scale HAT datasets. Recent advances in generative AI provide new opportunities to synthesize realistic and privacy-preserving HATs for such applications. Yet two major challenges remain: (i) HATs are highly irregular and dynami",
-      "published": "2026-04-17T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI",
-      "source_priority": "low",
-      "source_category": "Research",
-      "relevance_score": 6
-    },
-    {
-      "title": "HWE-Bench: Benchmarking LLM Agents on Real-World Hardware Bug Repair Tasks",
-      "url": "https://arxiv.org/abs/2604.14709",
-      "summary": "arXiv:2604.14709v1 Announce Type: new Abstract: Existing benchmarks for hardware design primarily evaluate Large Language Models (LLMs) on isolated, component-level tasks such as generating HDL modules from specifications, leaving repository-scale evaluation unaddressed. We introduce HWE-Bench, the first large-scale, repository-level benchmark for evaluating LLM agents on real-world hardware bug repair tasks. HWE-Bench comprises 417 task instances derived from real historical bug-fix pull reques",
-      "published": "2026-04-17T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI",
-      "source_priority": "low",
-      "source_category": "Research",
-      "relevance_score": 6
-    },
-    {
-      "title": "SGA-MCTS: Decoupling Planning from Execution via Training-Free Atomic Experience Retrieval",
-      "url": "https://arxiv.org/abs/2604.14712",
-      "summary": "arXiv:2604.14712v1 Announce Type: new Abstract: LLM-powered systems require complex multi-step decision-making abilities to solve real-world tasks, yet current planning approaches face a trade-off between the high latency of inference-time search and the limited generalization of supervised fine-tuning. To address this limitation, we introduce \\textbf{SGA-MCTS}, a framework that casts LLM planning as non-parametric retrieval. Offline, we leverage Monte Carlo Tree Search (MCTS) to explore the sol",
-      "published": "2026-04-17T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI",
-      "source_priority": "low",
-      "source_category": "Research",
-      "relevance_score": 6
-    },
-    {
-      "title": "Disentangle-then-Refine: LLM-Guided Decoupling and Structure-Aware Refinement for Graph Contrastive Learning",
-      "url": "https://arxiv.org/abs/2604.14746",
-      "summary": "arXiv:2604.14746v1 Announce Type: new Abstract: Conventional Graph Contrastive Learning (GCL) on Text-Attributed Graphs (TAGs) relies on blind stochastic augmentations, inadvertently entangling task-relevant signals with noise. We propose SDM-SCR, a robust framework anchored in Approximate Orthogonal Decomposition. First, the Semantic Decoupling Module (SDM) leverages the instruction-following capability of Large Language Models (LLMs) to actively parse raw attributes into asymmetric, task-orien",
-      "published": "2026-04-17T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI",
-      "source_priority": "low",
-      "source_category": "Research",
-      "relevance_score": 6
-    },
-    {
-      "title": "CoTEvol: Self-Evolving Chain-of-Thoughts for Data Synthesis in Mathematical Reasoning",
-      "url": "https://arxiv.org/abs/2604.14768",
-      "summary": "arXiv:2604.14768v1 Announce Type: new Abstract: Large Language Models (LLMs) exhibit strong mathematical reasoning when trained on high-quality Chain-of-Thought (CoT) that articulates intermediate steps, yet costly CoT curation hinders further progress. While existing remedies such as distillation from stronger LLMs and self-synthesis based on test-time search alleviate this issue, they often suffer from diminishing returns or high computing overhead.In this work, we propose CoTEvol, a genetic e",
-      "published": "2026-04-17T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI",
-      "source_priority": "low",
-      "source_category": "Research",
-      "relevance_score": 6
-    },
-    {
-      "title": "MirrorBench: Evaluating Self-centric Intelligence in MLLMs by Introducing a Mirror",
-      "url": "https://arxiv.org/abs/2604.14785",
-      "summary": "arXiv:2604.14785v1 Announce Type: new Abstract: Recent progress in Multimodal Large Language Models (MLLMs) has demonstrated remarkable advances in perception and reasoning, suggesting their potential for embodied intelligence. While recent studies have evaluated embodied MLLMs in interactive settings, current benchmarks mainly target capabilities to perceive, understand, and interact with external objects, lacking a systematic evaluation of self-centric intelligence. To address this, we introdu",
-      "published": "2026-04-17T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI",
-      "source_priority": "low",
-      "source_category": "Research",
-      "relevance_score": 6
+      "relevance_score": 4
     }
   ]
 }

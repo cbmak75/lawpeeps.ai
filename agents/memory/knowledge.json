@@ -183,9 +183,13 @@
         {
           "date": "2026-04-16",
           "content": "Manhattan federal court ruled AI chats not protected by attorney-client privilege in February 2026"
+        },
+        {
+          "date": "2026-04-17",
+          "content": "First federal court ruling on AI privilege - SDNY held public AI tools don't qualify for attorney-client privilege, February 2026"
         }
       ],
-      "last_updated": "2026-04-16"
+      "last_updated": "2026-04-17"
     },
     "judge jed s. rakoff": {
       "name": "Judge Jed S. Rakoff",
@@ -198,6 +202,10 @@
         {
           "date": "2026-04-17",
           "content": "Ruled in U.S. v. Heppner that AI-generated materials using Claude chatbot not protected by attorney-client privilege (written opinion February 17, 2026)"
+        },
+        {
+          "date": "2026-04-17",
+          "content": "Issued landmark ruling on AI privilege in Heppner case, applied traditional three-part privilege test to reject AI-generated document protection"
         }
       ],
       "last_updated": "2026-04-17"
@@ -234,8 +242,30 @@
         }
       ],
       "last_updated": "2026-04-17"
+    },
+    "crosby": {
+      "name": "Crosby",
+      "first_seen": "2026-04-17",
+      "updates": [
+        {
+          "date": "2026-04-17",
+          "content": "Raised $60M Series B April 2026, positioned as AI-native law firm challenging traditional models with 80% faster contract completion"
+        }
+      ],
+      "last_updated": "2026-04-17"
+    },
+    "9fin": {
+      "name": "9fin",
+      "first_seen": "2026-04-17",
+      "updates": [
+        {
+          "date": "2026-04-17",
+          "content": "Achieved unicorn status March 2026 with $170M Series C at $1.3B valuation, serves 300+ law firms for debt markets AI analytics"
+        }
+      ],
+      "last_updated": "2026-04-17"
     }
   },
-  "last_updated": "2026-04-17T08:02:37.561Z",
+  "last_updated": "2026-04-17T10:21:08.176Z",
   "note": "mm!ke's accumulated knowledge about companies, people, and developments. Updated by the research agent and editorial cycle."
 }
