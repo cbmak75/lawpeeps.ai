@@ -210,8 +210,19 @@
       "sources": "[",
       "serves_50_percent": false,
       "fingerprint": null
+    },
+    {
+      "title": "Three Companies Capture 63% of Legal AI's $2.3B Quarter as Funding Consolidates",
+      "slug": "three-companies-capture-63-of-legal-ai-s-2-3b-quarter-as-funding-consolidates",
+      "category": "funding",
+      "staging": "green",
+      "summary": "Harvey and Legora's mega-rounds dominate Q1 funding, creating unprecedented market concentration while smaller startups fight for scraps",
+      "publishDate": "2026-04-18",
+      "sources": "[",
+      "serves_50_percent": false,
+      "fingerprint": null
     }
   ],
-  "last_updated": "2026-04-18T08:43:35.879Z",
+  "last_updated": "2026-04-18T10:37:21.522Z",
   "note": "Populated automatically by the editorial cycle. Each entry records a story drafted, published, or killed."
 }

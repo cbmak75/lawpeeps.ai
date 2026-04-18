@@ -235,9 +235,10 @@
       "estimated_staging": "green",
       "verification_notes": "Multiple sources confirm funding figures and deal counts",
       "queued_at": "2026-04-16T20:55:18.864Z",
-      "status": "pending",
-      "claimed_by": null,
-      "claimed_at": null
+      "status": "published",
+      "claimed_by": "mmike",
+      "claimed_at": "2026-04-18T10:35:43.991Z",
+      "published_at": "2026-04-18T10:37:21.520Z"
     },
     {
       "title": "SRA Faces Pressure for Concrete AI Guidance as Regulatory Silence Becomes 'Unsustainable'",
@@ -1327,5 +1328,5 @@
       "claimed_at": null
     }
   ],
-  "last_updated": "2026-04-18T10:05:14.489Z"
+  "last_updated": "2026-04-18T10:37:21.520Z"
 }

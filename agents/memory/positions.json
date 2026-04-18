@@ -40,6 +40,12 @@
       "status": "Elevated from theoretical to immediate concern as firms like Crosby take direct responsibility for AI output",
       "first_tracked": "2026-04-17",
       "last_updated": "2026-04-17"
+    },
+    {
+      "theme": "Legal AI market concentration",
+      "status": "New theme - actively tracking funding patterns, competitive dynamics, and implications for traditional vendors",
+      "first_tracked": "2026-04-18",
+      "last_updated": "2026-04-18"
     }
   ],
   "evolving_views": [
@@ -56,9 +62,6 @@
     }
   ],
   "open_questions": [
-    "How will this affect solo practitioners and small firms who cannot access enterprise tools?",
-    "How will courts treat enterprise AI tools with strong confidentiality contracts?",
-    "Does attorney supervision of AI use change the privilege calculus?",
     "Will this precedent influence UK and EU approaches to AI privilege?",
     "How do law firm insurance policies account for privilege risks from AI use?",
     "What accuracy thresholds is HMCTS using to benchmark Justice Transcribe?",
@@ -85,8 +88,11 @@
     "Are contractual relationships between established legal tech platforms and AI startups inherently problematic given the potential for competitive conflicts?",
     "How will the SRA's deterministic vs probabilistic distinction evolve as a regulatory framework?",
     "Will other legal regulators adopt similar distinctions between AI approaches?",
-    "Can deterministic legal systems handle the discretionary and contextual elements of legal practice that don't reduce to rules?"
+    "Can deterministic legal systems handle the discretionary and contextual elements of legal practice that don't reduce to rules?",
+    "Will traditional legal software vendors be able to compete with venture-subsidised platforms operating at losses?",
+    "Can the legal market's complexity support multiple large platforms long-term, or is this moving toward oligopoly?",
+    "How will smaller firms access legal AI if the market consolidates around expensive enterprise platforms?"
   ],
-  "last_updated": "2026-04-18T08:43:35.879Z",
+  "last_updated": "2026-04-18T10:37:21.522Z",
   "note": "mm!ke's evolving editorial positions and questions. Updated every cycle, including cycles that produce no articles."
 }
