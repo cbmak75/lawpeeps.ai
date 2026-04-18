@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-18T07:21:41.082Z",
+  "generated": "2026-04-18T09:55:10.201Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 982,
+  "total_scanned": 984,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -55,18 +55,6 @@
       "relevance_score": 11
     },
     {
-      "title": "Legal Tech Roundup: Relativity, Everlaw, Monjur - Law360",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPb3pOWjJjMHk1SzU1em1tY2xLVW9LeGFqZmFCYTd4RkNyNWlMaVlFX3JmRndyWE4yZjZkWWhBZDRlNXpVUmt1c0FhYkxHb0FoYXdWM1Y1MVNiZXFORkFDUy1kbjY5YnRFbnRsQ3VmS3p5SmZyeTZUYUV5OXRQTTBZQkh5dHgtaTFmYV90Q9IBXkFVX3lxTE9hLV84NDJ6dGlIRXBtTDJSMDVnVF9jd05zLUhqLS1VQVJNSXl0ekFCMGJTT0s1YXI0LVFyeVpENkdUWTBOSnVCakFXVUtWOWx4aE1ZX1dIMjl2c0VUZlE?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPb3pOWjJjMHk1SzU1em1tY2xLVW9LeGFqZmFCYTd4RkNyNWlMaVlFX3JmRndyWE4yZjZkWWhBZDRlNXpVUmt1c0FhYkxHb0FoYXdWM1Y1MVNiZXFORkFDUy1kbjY5YnRFbnRsQ3VmS3p5SmZyeTZUYUV5OXRQTTBZQkh5dHgtaTFmYV90Q9IBXkFVX3lxTE9hLV84NDJ6dGlIRXBtTDJSMDVnVF9jd05zLUhqLS1VQVJNSXl0ekFCMGJTT0s1YXI0LVFyeVpENkdUWTBOSnVCakFXVUtWOWx4aE1ZX1dIMjl2c0VUZlE?oc=5\" target=\"_blank\"&gt;Legal Tech Roundup: Relativity, Everlaw, Monjur&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&",
-      "published": "2026-04-17T20:32:00.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 10
-    },
-    {
       "title": "Legal Tech Vendors Roll Out Wave of Announcements Ahead of Legalweek; News From DISCO, Advocacy, iManage, Monjur, Reveal and ChronoTracer and ALIGN",
       "url": "https://www.lawnext.com/2026/03/legal-tech-vendors-roll-out-wave-of-announcements-ahead-of-legalweek-news-from-disco-advocacy-imanage-monjur-reveal-and-chronotracer-and-align.html",
       "summary": "With Legalweek 2026 set to open Monday in New York City, legal technology companies have been rolling out a string of product announcements and company news in the days leading up to the conference. The pre-conference wave covers a range of developments, from new AI platforms and funding rounds to enhancements in e-discovery tools and [&#8230;]",
@@ -89,6 +77,18 @@
       "source_tier": "B",
       "source_category": "Legal tech commentary",
       "relevance_score": 10
+    },
+    {
+      "title": "Legal Tech Roundup: Relativity, Everlaw, Monjur - Law360",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPb3pOWjJjMHk1SzU1em1tY2xLVW9LeGFqZmFCYTd4RkNyNWlMaVlFX3JmRndyWE4yZjZkWWhBZDRlNXpVUmt1c0FhYkxHb0FoYXdWM1Y1MVNiZXFORkFDUy1kbjY5YnRFbnRsQ3VmS3p5SmZyeTZUYUV5OXRQTTBZQkh5dHgtaTFmYV90Q9IBXkFVX3lxTE9hLV84NDJ6dGlIRXBtTDJSMDVnVF9jd05zLUhqLS1VQVJNSXl0ekFCMGJTT0s1YXI0LVFyeVpENkdUWTBOSnVCakFXVUtWOWx4aE1ZX1dIMjl2c0VUZlE?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPb3pOWjJjMHk1SzU1em1tY2xLVW9LeGFqZmFCYTd4RkNyNWlMaVlFX3JmRndyWE4yZjZkWWhBZDRlNXpVUmt1c0FhYkxHb0FoYXdWM1Y1MVNiZXFORkFDUy1kbjY5YnRFbnRsQ3VmS3p5SmZyeTZUYUV5OXRQTTBZQkh5dHgtaTFmYV90Q9IBXkFVX3lxTE9hLV84NDJ6dGlIRXBtTDJSMDVnVF9jd05zLUhqLS1VQVJNSXl0ekFCMGJTT0s1YXI0LVFyeVpENkdUWTBOSnVCakFXVUtWOWx4aE1ZX1dIMjl2c0VUZlE?oc=5\" target=\"_blank\"&gt;Legal Tech Roundup: Relativity, Everlaw, Monjur&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&",
+      "published": "2026-04-17T20:32:00.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 9
     },
     {
       "title": "Harvey Forum + Shared Spaces, Clio, Spellbook, Legal Innovators - Artificial Lawyer",
@@ -115,10 +115,22 @@
       "relevance_score": 9
     },
     {
-      "title": "Why legal tech giant Harvey is raising cash like OpenAI - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaDhOaTN1RzVmZmxWa1U2TTZyTW9ucXRjZjU2RHUzT0RoMTJQb1BvZ1hpbUgwTUFZS3U5UHV1R21abHdrRDR3cFlWTC1SY3J2WUN1YWlwSlY0Y0VpVjVYSXV2dk93YjhuU0NXYTE5QnBiVHF5bHVLRHdWbzMxdVB3MU0zMFh1TzF0U1JmOA?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQaDhOaTN1RzVmZmxWa1U2TTZyTW9ucXRjZjU2RHUzT0RoMTJQb1BvZ1hpbUgwTUFZS3U5UHV1R21abHdrRDR3cFlWTC1SY3J2WUN1YWlwSlY0Y0VpVjVYSXV2dk93YjhuU0NXYTE5QnBiVHF5bHVLRHdWbzMxdVB3MU0zMFh1TzF0U1JmOA?oc=5\" target=\"_blank\"&gt;Why legal tech giant Harvey is raising cash like OpenAI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Business Insider&lt;/font&gt;",
-      "published": "2026-03-26T07:00:00.000Z",
+      "title": "Harvey + Elevenlabs Partner For Legal AI Audio - Artificial Lawyer",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQU0oyVkJnWlliSHNiYXYtcGU2OG5sdzBPbEpwV09XcHQ2aUtXRElmdG1rTk5ZZHRPSnpuaUNBcFd1TlVvbGl4ZHp0aTU1amQzMlpiUF9QYXhBWThkVEIxdUk2eUI1LW41WGMxdFk5dDg3VWNQY05kTWhoOWE2TTRUQ1FxeGc2bG5fb21NVEZtMEFLQWM?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQU0oyVkJnWlliSHNiYXYtcGU2OG5sdzBPbEpwV09XcHQ2aUtXRElmdG1rTk5ZZHRPSnpuaUNBcFd1TlVvbGl4ZHp0aTU1amQzMlpiUF9QYXhBWThkVEIxdUk2eUI1LW41WGMxdFk5dDg3VWNQY05kTWhoOWE2TTRUQ1FxeGc2bG5fb21NVEZtMEFLQWM?oc=5\" target=\"_blank\"&gt;Harvey + Elevenlabs Partner For Legal AI Audio&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
+      "published": "2025-11-12T08:00:00.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 8
+    },
+    {
+      "title": "Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook partners with CBA; DeepIP raises $25m - Legal IT Insider",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPNVJJREhTZDUwWGlQd3hwTm84Q08xekZJSktTWTJaamNWellIZVhUajRjVFNLMnIwd3dMcGNKMjA3N090TWFBMWdoRWtXQUx0VW1OcGlMc3c2a0lITVpFajVLREdrYlJLME55bGc1RV9zZF9ITjVoUWZYcGp4akZIYlNWNEVpQkdfek1BWWR1bXFXNHowWTlXaUZvZlZuQmV0VXRtTW9rRmYzTUNXVWgxVGcxbnkta0NOdDIzU2VieUpQTnY0SVNBZUwxNXVTZllRWVFHY0M4dDhHcjAzUTI1ZVlKci1ZZ1dXVGlzQXZtSzFNWHhY?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPNVJJREhTZDUwWGlQd3hwTm84Q08xekZJSktTWTJaamNWellIZVhUajRjVFNLMnIwd3dMcGNKMjA3N090TWFBMWdoRWtXQUx0VW1OcGlMc3c2a0lITVpFajVLREdrYlJLME55bGc1RV9zZF9ITjVoUWZYcGp4akZIYlNWNEVpQkdfek1BWWR1bXFXNHowWTlXaUZvZlZuQmV0VXRtTW9rRmYzTUNXVWgxVGcxbnkta0NOdDIzU2VieUpQTnY0SVNBZUwxNXVTZllRWVFHY0M4dDhHcjAzUTI1ZVlKci1ZZ1dXVGlzQXZtSzFNWHhY?oc=5\" target=\"_blank\"&gt;Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook par",
+      "published": "2026-03-04T08:00:00.000Z",
       "source_id": "google-news-legal-tech-funding",
       "source_name": "Google News: legal tech funding",
       "source_priority": "critical",
@@ -127,10 +139,10 @@
       "relevance_score": 8
     },
     {
-      "title": "Vancouver, B.C.-based legal tech company Clio hits $5B valuation after acquiring vLex - GeekWire",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZDZQTjk5RERxN0wzYzNka1d4bXhBTzR5RWdfai1qRjBlaEpzVVhSaUdPRkZVeld4ai1mOXpwcTZnZFZ2eVp2ajd0RXBjMGUwcGlVaEhtR01fTU1KUF82cFQ1Z3VrQWV2N1dzWTViTHNPTFB6N08xZjNJbkhkbXBUMkZlWlNwQ3ZpOGFEakJ0cFhON0NDZ1c0dGI0RndUdTBtaFh0b1hNWk1mQWg2SVV1aVdrcw?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOZDZQTjk5RERxN0wzYzNka1d4bXhBTzR5RWdfai1qRjBlaEpzVVhSaUdPRkZVeld4ai1mOXpwcTZnZFZ2eVp2ajd0RXBjMGUwcGlVaEhtR01fTU1KUF82cFQ1Z3VrQWV2N1dzWTViTHNPTFB6N08xZjNJbkhkbXBUMkZlWlNwQ3ZpOGFEakJ0cFhON0NDZ1c0dGI0RndUdTBtaFh0b1hNWk1mQWg2SVV1aVdrcw?oc=5\" target=\"_blank\"&gt;Vancouver, B.C.-based legal tech company Clio hits $5B valuation after acquiring vLex&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;GeekWire&lt;/font&gt;",
-      "published": "2025-11-10T08:00:00.000Z",
+      "title": "Why legal tech giant Harvey is raising cash like OpenAI - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaDhOaTN1RzVmZmxWa1U2TTZyTW9ucXRjZjU2RHUzT0RoMTJQb1BvZ1hpbUgwTUFZS3U5UHV1R21abHdrRDR3cFlWTC1SY3J2WUN1YWlwSlY0Y0VpVjVYSXV2dk93YjhuU0NXYTE5QnBiVHF5bHVLRHdWbzMxdVB3MU0zMFh1TzF0U1JmOA?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQaDhOaTN1RzVmZmxWa1U2TTZyTW9ucXRjZjU2RHUzT0RoMTJQb1BvZ1hpbUgwTUFZS3U5UHV1R21abHdrRDR3cFlWTC1SY3J2WUN1YWlwSlY0Y0VpVjVYSXV2dk93YjhuU0NXYTE5QnBiVHF5bHVLRHdWbzMxdVB3MU0zMFh1TzF0U1JmOA?oc=5\" target=\"_blank\"&gt;Why legal tech giant Harvey is raising cash like OpenAI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Business Insider&lt;/font&gt;",
+      "published": "2026-03-26T07:00:00.000Z",
       "source_id": "google-news-legal-tech-funding",
       "source_name": "Google News: legal tech funding",
       "source_priority": "critical",
@@ -151,13 +163,13 @@
       "relevance_score": 8
     },
     {
-      "title": "Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook partners with CBA; DeepIP raises $25m - Legal IT Insider",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPNVJJREhTZDUwWGlQd3hwTm84Q08xekZJSktTWTJaamNWellIZVhUajRjVFNLMnIwd3dMcGNKMjA3N090TWFBMWdoRWtXQUx0VW1OcGlMc3c2a0lITVpFajVLREdrYlJLME55bGc1RV9zZF9ITjVoUWZYcGp4akZIYlNWNEVpQkdfek1BWWR1bXFXNHowWTlXaUZvZlZuQmV0VXRtTW9rRmYzTUNXVWgxVGcxbnkta0NOdDIzU2VieUpQTnY0SVNBZUwxNXVTZllRWVFHY0M4dDhHcjAzUTI1ZVlKci1ZZ1dXVGlzQXZtSzFNWHhY?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPNVJJREhTZDUwWGlQd3hwTm84Q08xekZJSktTWTJaamNWellIZVhUajRjVFNLMnIwd3dMcGNKMjA3N090TWFBMWdoRWtXQUx0VW1OcGlMc3c2a0lITVpFajVLREdrYlJLME55bGc1RV9zZF9ITjVoUWZYcGp4akZIYlNWNEVpQkdfek1BWWR1bXFXNHowWTlXaUZvZlZuQmV0VXRtTW9rRmYzTUNXVWgxVGcxbnkta0NOdDIzU2VieUpQTnY0SVNBZUwxNXVTZllRWVFHY0M4dDhHcjAzUTI1ZVlKci1ZZ1dXVGlzQXZtSzFNWHhY?oc=5\" target=\"_blank\"&gt;Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook par",
-      "published": "2026-03-04T08:00:00.000Z",
-      "source_id": "google-news-contract-ai",
-      "source_name": "Google News: contract AI",
-      "source_priority": "medium",
+      "title": "OpenAI-backed legal tech startup Harvey AI raises $300m series E - Tech in Asia",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOTFYSUl3ekI0QXV1RzJGeE4zcEJtMWZnTmwyeW51cmtHQWszUE5EOHNqdjVxUE9paXYyQXBlSGxfQUpXX1FlVGd1TzNTTGl6Mkp5TTdRcmdTaDNWc0t4b1Z5cDh1MTRFTS1lOVlvU0NmTVJ2cmtOMWlpYWxyeVJ1eTAtYXhhQmxDV0xLczRlN3d0c2psZ0pN?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQOTFYSUl3ekI0QXV1RzJGeE4zcEJtMWZnTmwyeW51cmtHQWszUE5EOHNqdjVxUE9paXYyQXBlSGxfQUpXX1FlVGd1TzNTTGl6Mkp5TTdRcmdTaDNWc0t4b1Z5cDh1MTRFTS1lOVlvU0NmTVJ2cmtOMWlpYWxyeVJ1eTAtYXhhQmxDV0xLczRlN3d0c2psZ0pN?oc=5\" target=\"_blank\"&gt;OpenAI-backed legal tech startup Harvey AI raises $300m series E&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Tech in Asia&lt;/font&gt;",
+      "published": "2025-06-24T07:00:00.000Z",
+      "source_id": "google-news-legal-tech-funding",
+      "source_name": "Google News: legal tech funding",
+      "source_priority": "critical",
       "source_tier": "A",
       "source_category": "Aggregator",
       "relevance_score": 8
@@ -277,6 +289,18 @@
       "published": "2026-04-14T10:34:49.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 7
+    },
+    {
+      "title": "Legal AI giant Harvey acquires Hexus as competition heats up in legal tech - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWtsRnRNeWxYZWEwaERMRVJaRWVfQm41MzVDeDJBM1ZIOEstUW5DaTB5UUhjUXE5Sml2QU40RzdZaWlqeUpid3dELUpLTHlKbVNRNmRObWtrZ1dSSXd3R20wSDY3TkVUOHVwRzlZOTh1b1FraXZlNGpuUnBPcXdIU2oxbVZzMTZDVzVNMDRDcGR0NC1oQ2pfMGlUY25YSHBZaHJUTEljdzU5LWREa0E?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWtsRnRNeWxYZWEwaERMRVJaRWVfQm41MzVDeDJBM1ZIOEstUW5DaTB5UUhjUXE5Sml2QU40RzdZaWlqeUpid3dELUpLTHlKbVNRNmRObWtrZ1dSSXd3R20wSDY3TkVUOHVwRzlZOTh1b1FraXZlNGpuUnBPcXdIU2oxbVZzMTZDVzVNMDRDcGR0NC1oQ2pfMGlUY25YSHBZaHJUTEljdzU5LWREa0E?oc=5\" target=\"_blank\"&gt;Legal AI giant Harvey acquires Hexus as competition heats up in legal tech&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;TechCrunch&lt;/font&gt;",
+      "published": "2026-01-23T08:00:00.000Z",
+      "source_id": "google-news-legal-tech-funding",
+      "source_name": "Google News: legal tech funding",
       "source_priority": "critical",
       "source_tier": "A",
       "source_category": "Aggregator",
@@ -415,6 +439,18 @@
       "relevance_score": 6
     },
     {
+      "title": "How Steve Johns is Embedding AI Into Everyday Legal Practice - Harvey",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPLTd5eS1NY3NLdkgydVRMLTF5cGdBcWh2aElxVEpsX0ppZVFEbWV5Z0owWXd4TjNwd1dROGx2c29mUjl3YVpWeTU3LTlyMmhxNjdQRy1sUFc4RXRGUkxYNm1Ybk90a1d1X3hrNUE0N2VhWUNhYmFSTGl3bkNLTkFPa0lCYjFQelVGVUx2aWJ3SGg?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPLTd5eS1NY3NLdkgydVRMLTF5cGdBcWh2aElxVEpsX0ppZVFEbWV5Z0owWXd4TjNwd1dROGx2c29mUjl3YVpWeTU3LTlyMmhxNjdQRy1sUFc4RXRGUkxYNm1Ybk90a1d1X3hrNUE0N2VhWUNhYmFSTGl3bkNLTkFPa0lCYjFQelVGVUx2aWJ3SGg?oc=5\" target=\"_blank\"&gt;How Steve Johns is Embedding AI Into Everyday Legal Practice&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
+      "published": "2026-03-05T08:00:00.000Z",
+      "source_id": "google-news-harvey-luminance",
+      "source_name": "Google News: Harvey OR Luminance",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
+    },
+    {
       "title": ":Harvey: In Practice: How to Speed up Diligence Review - Harvey",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE15TkU1MEdvSHZ5UENpVWhGenNFbF9zeEJ1VHlPNWF3S0k4SVpNNjZqcllwVk56cThNTnNSWGctSlA1bXRFLUJTM1VmR2thZmVrdkh5aV90d0hGQkhMVDdXaDZvZlpwdEZrSkY2dHB5aHhfNVV4ZWRFbGRIOA?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE15TkU1MEdvSHZ5UENpVWhGenNFbF9zeEJ1VHlPNWF3S0k4SVpNNjZqcllwVk56cThNTnNSWGctSlA1bXRFLUJTM1VmR2thZmVrdkh5aV90d0hGQkhMVDdXaDZvZlpwdEZrSkY2dHB5aHhfNVV4ZWRFbGRIOA?oc=5\" target=\"_blank\"&gt;:Harvey: In Practice: How to Speed up Diligence Review&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
@@ -427,58 +463,22 @@
       "relevance_score": 6
     },
     {
+      "title": ":Harvey:’s Integration With NetDocuments Intelligent DMS - Harvey",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzWmM0UV9RWmpWclpyUjJ6TC0zV0JZYm9ZMlR0SUNscG5QWEp5Y1FfSEhjVlNnSHl1eTZKcnNuaXlVNm9QMkRRWE5EaC1RV185X2h3MTBYMERJaXpCSjdMdW1PdVVzM016VGc?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBzWmM0UV9RWmpWclpyUjJ6TC0zV0JZYm9ZMlR0SUNscG5QWEp5Y1FfSEhjVlNnSHl1eTZKcnNuaXlVNm9QMkRRWE5EaC1RV185X2h3MTBYMERJaXpCSjdMdW1PdVVzM016VGc?oc=5\" target=\"_blank\"&gt;:Harvey:’s Integration With NetDocuments Intelligent DMS&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
+      "published": "2025-12-08T08:00:00.000Z",
+      "source_id": "google-news-harvey-luminance",
+      "source_name": "Google News: Harvey OR Luminance",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
+    },
+    {
       "title": "Preview: Access :Harvey:, Wherever You’re Working - Harvey",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0djUyLXFEbzcwVDBaN3k4T0FOX0pBTzRyLXBka01pN2VhYlFqTEdaVkxsYUM1aUVsb0FMUm9pVElZUUNVdXE3SU1vd3Z5RlVURFhmR0RMVFlJQmtZMW5Oa0VB?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0djUyLXFEbzcwVDBaN3k4T0FOX0pBTzRyLXBka01pN2VhYlFqTEdaVkxsYUM1aUVsb0FMUm9pVElZUUNVdXE3SU1vd3Z5RlVURFhmR0RMVFlJQmtZMW5Oa0VB?oc=5\" target=\"_blank\"&gt;Preview: Access :Harvey:, Wherever You’re Working&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
       "published": "2025-09-10T07:00:00.000Z",
-      "source_id": "google-news-harvey-luminance",
-      "source_name": "Google News: Harvey OR Luminance",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
-    },
-    {
-      "title": ":Harvey: and ElevenLabs Partner to Give Lawyers a Global Voice - Harvey",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxON1U5aHpIdnkyQk5fWEN4WVZnU0E5eWVqR0I3RWI2RkdFMjlrZ2RETmhFNzdnLXhET2sydHkwdm5HYnFQTmxIT3RRbXI4WmxzTWhHbGdYbXoteFZ3OUlVdFh5REdUdE93M2paejNvVjcyaXIta2swSHJ1UWIxMXF2a0M2SEhsd0dnNmVlNUNfczE?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxON1U5aHpIdnkyQk5fWEN4WVZnU0E5eWVqR0I3RWI2RkdFMjlrZ2RETmhFNzdnLXhET2sydHkwdm5HYnFQTmxIT3RRbXI4WmxzTWhHbGdYbXoteFZ3OUlVdFh5REdUdE93M2paejNvVjcyaXIta2swSHJ1UWIxMXF2a0M2SEhsd0dnNmVlNUNfczE?oc=5\" target=\"_blank\"&gt;:Harvey: and ElevenLabs Partner to Give Lawyers a Global Voice&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
-      "published": "2025-11-12T08:00:00.000Z",
-      "source_id": "google-news-harvey-luminance",
-      "source_name": "Google News: Harvey OR Luminance",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
-    },
-    {
-      "title": ":Harvey:’s iManage Integration - Harvey",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NWWt2LTZETkl6M2txVzBjWUd6SUJnYWZwN2NKYmJpXy1GS2pDUlc4Y2lNazJFRTYyYWc3MGhXQU1STHVDa2hLWE9rV000a0dkQUQzaXRpdEZ5UlVDTFhDSTEwMGM?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NWWt2LTZETkl6M2txVzBjWUd6SUJnYWZwN2NKYmJpXy1GS2pDUlc4Y2lNazJFRTYyYWc3MGhXQU1STHVDa2hLWE9rV000a0dkQUQzaXRpdEZ5UlVDTFhDSTEwMGM?oc=5\" target=\"_blank\"&gt;:Harvey:’s iManage Integration&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
-      "published": "2025-08-11T07:00:00.000Z",
-      "source_id": "google-news-harvey-luminance",
-      "source_name": "Google News: Harvey OR Luminance",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
-    },
-    {
-      "title": "Introducing Shared Spaces - Harvey",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYm5WZTdFWDdoY0Y3eF90eTFlU0wzTTJJSmRiSjB1dkhMUXlNQ2pHRUpDTE1Bdy1pdmVneTZWTWUxNEE0VWJBc2Rpa0NQQTNFcEd1elk2THF1amhxc0M4dU1ES19JaTZ5Wm5oMk5JY053dDlwYnJGbzlxWnNNZUY1WlgzMXQ3RDVTeVE?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQYm5WZTdFWDdoY0Y3eF90eTFlU0wzTTJJSmRiSjB1dkhMUXlNQ2pHRUpDTE1Bdy1pdmVneTZWTWUxNEE0VWJBc2Rpa0NQQTNFcEd1elk2THF1amhxc0M4dU1ES19JaTZ5Wm5oMk5JY053dDlwYnJGbzlxWnNNZUY1WlgzMXQ3RDVTeVE?oc=5\" target=\"_blank\"&gt;Introducing Shared Spaces&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
-      "published": "2025-12-06T06:57:13.000Z",
-      "source_id": "google-news-harvey-luminance",
-      "source_name": "Google News: Harvey OR Luminance",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
-    },
-    {
-      "title": "Eversheds Sutherland’s global co-CEO Keith Froud talks Harvey, AI adoption and ROI - Legal IT Insider",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWTd1Wk8xNW8wMDA4M3E1TFBJdTRtaDEtTm9VVXBBS1B2bTlzLVZvTWtBV2M2OTFOT2VJaC1yMGl3a3U4MXhZUm50dUJfQlZBZlI4c0JSQU5lNXpmVWkwUUpjbWROUlhmcmRkeGVXb045eUNJSzZpUEh1ZHBYRURMaVJibzluaFVJdkt6Tld0eURWaXVSdnZ1VWNONDdGZk96dkZ3QVcyVjJ1YlRuRWRRVW1NcC1LcWRiZ1k2bw?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNWTd1Wk8xNW8wMDA4M3E1TFBJdTRtaDEtTm9VVXBBS1B2bTlzLVZvTWtBV2M2OTFOT2VJaC1yMGl3a3U4MXhZUm50dUJfQlZBZlI4c0JSQU5lNXpmVWkwUUpjbWROUlhmcmRkeGVXb045eUNJSzZpUEh1ZHBYRURMaVJibzluaFVJdkt6Tld0eURWaXVSdnZ1VWNONDdGZk96dkZ3QVcyVjJ1YlRuRWRRVW1NcC1LcWRiZ1k2bw?oc=5\" target=\"_blank\"&gt;Eversheds Sutherland’s global co-CEO Keith Froud talks Harvey, AI adoption and ROI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Legal IT Insider&lt;/font&g",
-      "published": "2026-02-11T08:00:00.000Z",
       "source_id": "google-news-harvey-luminance",
       "source_name": "Google News: Harvey OR Luminance",
       "source_priority": "critical",

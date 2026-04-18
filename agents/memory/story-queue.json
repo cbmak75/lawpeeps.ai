@@ -1277,7 +1277,55 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": ":Harvey:’s Integration With NetDocuments Intelligent DMS - Harvey",
+      "slug": "harvey-s-integration-with-netdocuments-intelligent-dms-harvey",
+      "score": 7,
+      "category": "Adoption",
+      "story_type": "news",
+      "research_brief": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBzWmM0UV9RWmpWclpyUjJ6TC0zV0JZYm9ZMlR0SUNscG5QWEp5Y1FfSEhjVlNnSHl1eTZKcnNuaXlVNm9QMkRRWE5EaC1RV185X2h3MTBYMERJaXpCSjdMdW1PdVVzM016VGc?oc=5\" target=\"_blank\"&gt;:Harvey:’s Integration With NetDocuments Intelligent DMS&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
+      "primary_source": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzWmM0UV9RWmpWclpyUjJ6TC0zV0JZYm9ZMlR0SUNscG5QWEp5Y1FfSEhjVlNnSHl1eTZKcnNuaXlVNm9QMkRRWE5EaC1RV185X2h3MTBYMERJaXpCSjdMdW1PdVVzM016VGc?oc=5",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "Harvey integrates with NetDocuments Intelligent DMS—watch-list company product adoption",
+      "why_now": "Harvey is a named watch-list company; integration with major DMS is a concrete adoption signal",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Google News: Harvey OR Luminance",
+      "source_tier": "A",
+      "prefilter_score": 14,
+      "matched_terms": [
+        "Harvey",
+        "NetDocuments"
+      ],
+      "fingerprint": {
+        "entities": [
+          "harvey",
+          "netdocuments"
+        ],
+        "numerics": [
+          "3m"
+        ],
+        "keywords": [],
+        "title_tokens": [
+          "harvey",
+          "integration",
+          "netdocuments",
+          "intelligent"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-04-18T10:05:14.484Z",
+      "queued_at": "2026-04-18T10:05:14.489Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-04-18T08:43:35.877Z"
+  "last_updated": "2026-04-18T10:05:14.489Z"
 }
