@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-17T21:53:32.775Z",
+  "generated": "2026-04-18T03:19:55.206Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 1354,
+  "total_scanned": 1359,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -19,18 +19,6 @@
       "relevance_score": 13
     },
     {
-      "title": "Legal Tech Roundup: Relativity, Everlaw, Monjur - Law360",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPb3pOWjJjMHk1SzU1em1tY2xLVW9LeGFqZmFCYTd4RkNyNWlMaVlFX3JmRndyWE4yZjZkWWhBZDRlNXpVUmt1c0FhYkxHb0FoYXdWM1Y1MVNiZXFORkFDUy1kbjY5YnRFbnRsQ3VmS3p5SmZyeTZUYUV5OXRQTTBZQkh5dHgtaTFmYV90Q9IBXkFVX3lxTE9hLV84NDJ6dGlIRXBtTDJSMDVnVF9jd05zLUhqLS1VQVJNSXl0ekFCMGJTT0s1YXI0LVFyeVpENkdUWTBOSnVCakFXVUtWOWx4aE1ZX1dIMjl2c0VUZlE?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPb3pOWjJjMHk1SzU1em1tY2xLVW9LeGFqZmFCYTd4RkNyNWlMaVlFX3JmRndyWE4yZjZkWWhBZDRlNXpVUmt1c0FhYkxHb0FoYXdWM1Y1MVNiZXFORkFDUy1kbjY5YnRFbnRsQ3VmS3p5SmZyeTZUYUV5OXRQTTBZQkh5dHgtaTFmYV90Q9IBXkFVX3lxTE9hLV84NDJ6dGlIRXBtTDJSMDVnVF9jd05zLUhqLS1VQVJNSXl0ekFCMGJTT0s1YXI0LVFyeVpENkdUWTBOSnVCakFXVUtWOWx4aE1ZX1dIMjl2c0VUZlE?oc=5\" target=\"_blank\"&gt;Legal Tech Roundup: Relativity, Everlaw, Monjur&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&",
-      "published": "2026-04-17T20:32:00.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 12
-    },
-    {
       "title": "A Public Service Announcement: Legal Tech Companies, Here Are Your Celebrity Endorsers",
       "url": "https://www.lawnext.com/2026/04/a-public-service-announcement-legal-tech-companies-here-are-your-celebrity-endorsers.html",
       "summary": "It started with Harvey, the legal AI company that signed Gabriel Macht – the actor who played Harvey Specter on Suits – as a brand ambassador. Then Legora one-upped everyone by signing the actor Jude Law, building a whole campaign around the tagline, &#8220;Law just got more attractive,&#8221; and shooting the thing with an Oscar-winning [&#8230;]",
@@ -40,7 +28,7 @@
       "source_priority": "critical",
       "source_tier": "B",
       "source_category": "Legal tech commentary",
-      "relevance_score": 12
+      "relevance_score": 11
     },
     {
       "title": "Three Years After Launching As First AI Legal Assistant, CoCounsel Reaches 1 Million Users &#8212; and Thomson Reuters Teases What&#8217;s Ahead",
@@ -65,6 +53,18 @@
       "source_tier": "B",
       "source_category": "Legal tech commentary",
       "relevance_score": 11
+    },
+    {
+      "title": "Legal Tech Roundup: Relativity, Everlaw, Monjur - Law360",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPb3pOWjJjMHk1SzU1em1tY2xLVW9LeGFqZmFCYTd4RkNyNWlMaVlFX3JmRndyWE4yZjZkWWhBZDRlNXpVUmt1c0FhYkxHb0FoYXdWM1Y1MVNiZXFORkFDUy1kbjY5YnRFbnRsQ3VmS3p5SmZyeTZUYUV5OXRQTTBZQkh5dHgtaTFmYV90Q9IBXkFVX3lxTE9hLV84NDJ6dGlIRXBtTDJSMDVnVF9jd05zLUhqLS1VQVJNSXl0ekFCMGJTT0s1YXI0LVFyeVpENkdUWTBOSnVCakFXVUtWOWx4aE1ZX1dIMjl2c0VUZlE?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPb3pOWjJjMHk1SzU1em1tY2xLVW9LeGFqZmFCYTd4RkNyNWlMaVlFX3JmRndyWE4yZjZkWWhBZDRlNXpVUmt1c0FhYkxHb0FoYXdWM1Y1MVNiZXFORkFDUy1kbjY5YnRFbnRsQ3VmS3p5SmZyeTZUYUV5OXRQTTBZQkh5dHgtaTFmYV90Q9IBXkFVX3lxTE9hLV84NDJ6dGlIRXBtTDJSMDVnVF9jd05zLUhqLS1VQVJNSXl0ekFCMGJTT0s1YXI0LVFyeVpENkdUWTBOSnVCakFXVUtWOWx4aE1ZX1dIMjl2c0VUZlE?oc=5\" target=\"_blank\"&gt;Legal Tech Roundup: Relativity, Everlaw, Monjur&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&",
+      "published": "2026-04-17T20:32:00.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 10
     },
     {
       "title": "Legal Tech Vendors Roll Out Wave of Announcements Ahead of Legalweek; News From DISCO, Advocacy, iManage, Monjur, Reveal and ChronoTracer and ALIGN",
@@ -127,48 +127,12 @@
       "relevance_score": 9
     },
     {
-      "title": ":Harvey: Academy: Shaping the Future of Legal AI Literacy - Harvey",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1heGRrSE96TWduUXpSV1VncFJMSEhVVjczY0pLZFNHNkpqRnhzWGp5YmNWUVRDRjN4aU8ydkpDdU14Z3dBbHdZd09janQ1YmRSVDBvbGx0SS1vbzZkNTBZVFNQdw?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1heGRrSE96TWduUXpSV1VncFJMSEhVVjczY0pLZFNHNkpqRnhzWGp5YmNWUVRDRjN4aU8ydkpDdU14Z3dBbHdZd09janQ1YmRSVDBvbGx0SS1vbzZkNTBZVFNQdw?oc=5\" target=\"_blank\"&gt;:Harvey: Academy: Shaping the Future of Legal AI Literacy&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
-      "published": "2026-01-27T08:00:00.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 8
-    },
-    {
       "title": "Harvey + Elevenlabs Partner For Legal AI Audio - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQU0oyVkJnWlliSHNiYXYtcGU2OG5sdzBPbEpwV09XcHQ2aUtXRElmdG1rTk5ZZHRPSnpuaUNBcFd1TlVvbGl4ZHp0aTU1amQzMlpiUF9QYXhBWThkVEIxdUk2eUI1LW41WGMxdFk5dDg3VWNQY05kTWhoOWE2TTRUQ1FxeGc2bG5fb21NVEZtMEFLQWM?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQU0oyVkJnWlliSHNiYXYtcGU2OG5sdzBPbEpwV09XcHQ2aUtXRElmdG1rTk5ZZHRPSnpuaUNBcFd1TlVvbGl4ZHp0aTU1amQzMlpiUF9QYXhBWThkVEIxdUk2eUI1LW41WGMxdFk5dDg3VWNQY05kTWhoOWE2TTRUQ1FxeGc2bG5fb21NVEZtMEFLQWM?oc=5\" target=\"_blank\"&gt;Harvey + Elevenlabs Partner For Legal AI Audio&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
       "published": "2025-11-12T08:00:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 8
-    },
-    {
-      "title": "Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook partners with CBA; DeepIP raises $25m - Legal IT Insider",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPNVJJREhTZDUwWGlQd3hwTm84Q08xekZJSktTWTJaamNWellIZVhUajRjVFNLMnIwd3dMcGNKMjA3N090TWFBMWdoRWtXQUx0VW1OcGlMc3c2a0lITVpFajVLREdrYlJLME55bGc1RV9zZF9ITjVoUWZYcGp4akZIYlNWNEVpQkdfek1BWWR1bXFXNHowWTlXaUZvZlZuQmV0VXRtTW9rRmYzTUNXVWgxVGcxbnkta0NOdDIzU2VieUpQTnY0SVNBZUwxNXVTZllRWVFHY0M4dDhHcjAzUTI1ZVlKci1ZZ1dXVGlzQXZtSzFNWHhY?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPNVJJREhTZDUwWGlQd3hwTm84Q08xekZJSktTWTJaamNWellIZVhUajRjVFNLMnIwd3dMcGNKMjA3N090TWFBMWdoRWtXQUx0VW1OcGlMc3c2a0lITVpFajVLREdrYlJLME55bGc1RV9zZF9ITjVoUWZYcGp4akZIYlNWNEVpQkdfek1BWWR1bXFXNHowWTlXaUZvZlZuQmV0VXRtTW9rRmYzTUNXVWgxVGcxbnkta0NOdDIzU2VieUpQTnY0SVNBZUwxNXVTZllRWVFHY0M4dDhHcjAzUTI1ZVlKci1ZZ1dXVGlzQXZtSzFNWHhY?oc=5\" target=\"_blank\"&gt;Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook par",
-      "published": "2026-03-04T08:00:00.000Z",
-      "source_id": "google-news-legal-tech-funding",
-      "source_name": "Google News: legal tech funding",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 8
-    },
-    {
-      "title": "Why legal tech giant Harvey is raising cash like OpenAI - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaDhOaTN1RzVmZmxWa1U2TTZyTW9ucXRjZjU2RHUzT0RoMTJQb1BvZ1hpbUgwTUFZS3U5UHV1R21abHdrRDR3cFlWTC1SY3J2WUN1YWlwSlY0Y0VpVjVYSXV2dk93YjhuU0NXYTE5QnBiVHF5bHVLRHdWbzMxdVB3MU0zMFh1TzF0U1JmOA?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQaDhOaTN1RzVmZmxWa1U2TTZyTW9ucXRjZjU2RHUzT0RoMTJQb1BvZ1hpbUgwTUFZS3U5UHV1R21abHdrRDR3cFlWTC1SY3J2WUN1YWlwSlY0Y0VpVjVYSXV2dk93YjhuU0NXYTE5QnBiVHF5bHVLRHdWbzMxdVB3MU0zMFh1TzF0U1JmOA?oc=5\" target=\"_blank\"&gt;Why legal tech giant Harvey is raising cash like OpenAI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Business Insider&lt;/font&gt;",
-      "published": "2026-03-26T07:00:00.000Z",
-      "source_id": "google-news-legal-tech-funding",
-      "source_name": "Google News: legal tech funding",
       "source_priority": "critical",
       "source_tier": "A",
       "source_category": "Aggregator",
@@ -194,6 +158,30 @@
       "source_id": "google-news-legal-tech-funding",
       "source_name": "Google News: legal tech funding",
       "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 8
+    },
+    {
+      "title": "Why legal tech giant Harvey is raising cash like OpenAI - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaDhOaTN1RzVmZmxWa1U2TTZyTW9ucXRjZjU2RHUzT0RoMTJQb1BvZ1hpbUgwTUFZS3U5UHV1R21abHdrRDR3cFlWTC1SY3J2WUN1YWlwSlY0Y0VpVjVYSXV2dk93YjhuU0NXYTE5QnBiVHF5bHVLRHdWbzMxdVB3MU0zMFh1TzF0U1JmOA?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQaDhOaTN1RzVmZmxWa1U2TTZyTW9ucXRjZjU2RHUzT0RoMTJQb1BvZ1hpbUgwTUFZS3U5UHV1R21abHdrRDR3cFlWTC1SY3J2WUN1YWlwSlY0Y0VpVjVYSXV2dk93YjhuU0NXYTE5QnBiVHF5bHVLRHdWbzMxdVB3MU0zMFh1TzF0U1JmOA?oc=5\" target=\"_blank\"&gt;Why legal tech giant Harvey is raising cash like OpenAI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Business Insider&lt;/font&gt;",
+      "published": "2026-03-26T07:00:00.000Z",
+      "source_id": "google-news-legal-tech-funding",
+      "source_name": "Google News: legal tech funding",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 8
+    },
+    {
+      "title": "Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook partners with CBA; DeepIP raises $25m - Legal IT Insider",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPNVJJREhTZDUwWGlQd3hwTm84Q08xekZJSktTWTJaamNWellIZVhUajRjVFNLMnIwd3dMcGNKMjA3N090TWFBMWdoRWtXQUx0VW1OcGlMc3c2a0lITVpFajVLREdrYlJLME55bGc1RV9zZF9ITjVoUWZYcGp4akZIYlNWNEVpQkdfek1BWWR1bXFXNHowWTlXaUZvZlZuQmV0VXRtTW9rRmYzTUNXVWgxVGcxbnkta0NOdDIzU2VieUpQTnY0SVNBZUwxNXVTZllRWVFHY0M4dDhHcjAzUTI1ZVlKci1ZZ1dXVGlzQXZtSzFNWHhY?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPNVJJREhTZDUwWGlQd3hwTm84Q08xekZJSktTWTJaamNWellIZVhUajRjVFNLMnIwd3dMcGNKMjA3N090TWFBMWdoRWtXQUx0VW1OcGlMc3c2a0lITVpFajVLREdrYlJLME55bGc1RV9zZF9ITjVoUWZYcGp4akZIYlNWNEVpQkdfek1BWWR1bXFXNHowWTlXaUZvZlZuQmV0VXRtTW9rRmYzTUNXVWgxVGcxbnkta0NOdDIzU2VieUpQTnY0SVNBZUwxNXVTZllRWVFHY0M4dDhHcjAzUTI1ZVlKci1ZZ1dXVGlzQXZtSzFNWHhY?oc=5\" target=\"_blank\"&gt;Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook par",
+      "published": "2026-03-04T08:00:00.000Z",
+      "source_id": "google-news-contract-ai",
+      "source_name": "Google News: contract AI",
+      "source_priority": "medium",
       "source_tier": "A",
       "source_category": "Aggregator",
       "relevance_score": 8
@@ -331,6 +319,18 @@
       "relevance_score": 7
     },
     {
+      "title": "Legal AI giant Harvey acquires Hexus as competition heats up in legal tech - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWtsRnRNeWxYZWEwaERMRVJaRWVfQm41MzVDeDJBM1ZIOEstUW5DaTB5UUhjUXE5Sml2QU40RzdZaWlqeUpid3dELUpLTHlKbVNRNmRObWtrZ1dSSXd3R20wSDY3TkVUOHVwRzlZOTh1b1FraXZlNGpuUnBPcXdIU2oxbVZzMTZDVzVNMDRDcGR0NC1oQ2pfMGlUY25YSHBZaHJUTEljdzU5LWREa0E?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWtsRnRNeWxYZWEwaERMRVJaRWVfQm41MzVDeDJBM1ZIOEstUW5DaTB5UUhjUXE5Sml2QU40RzdZaWlqeUpid3dELUpLTHlKbVNRNmRObWtrZ1dSSXd3R20wSDY3TkVUOHVwRzlZOTh1b1FraXZlNGpuUnBPcXdIU2oxbVZzMTZDVzVNMDRDcGR0NC1oQ2pfMGlUY25YSHBZaHJUTEljdzU5LWREa0E?oc=5\" target=\"_blank\"&gt;Legal AI giant Harvey acquires Hexus as competition heats up in legal tech&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;TechCrunch&lt;/font&gt;",
+      "published": "2026-01-23T08:00:00.000Z",
+      "source_id": "google-news-legal-tech-funding",
+      "source_name": "Google News: legal tech funding",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 7
+    },
+    {
       "title": "Juro Goes Direct to ChatGPT For Contract AI - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWTB4VVlWclpYMExWSFdxaWpHaXdNYXQ3UnQyWGJKemgtOGtoanNPVWZrVHRuVWdma00xUnhaTlF5TXl4SjQycDFLZjNwb0xMTHljWm9Lc3I4V0NvTnY2RXVFeGJfUHV3MzhTNnJPeGdEdmNqcUQza0ZpU3hmUFBHc3ZqUEF2dUNnVW8yN2NETHBMZw?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQWTB4VVlWclpYMExWSFdxaWpHaXdNYXQ3UnQyWGJKemgtOGtoanNPVWZrVHRuVWdma00xUnhaTlF5TXl4SjQycDFLZjNwb0xMTHljWm9Lc3I4V0NvTnY2RXVFeGJfUHV3MzhTNnJPeGdEdmNqcUQza0ZpU3hmUFBHc3ZqUEF2dUNnVW8yN2NETHBMZw?oc=5\" target=\"_blank\"&gt;Juro Goes Direct to ChatGPT For Contract AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
@@ -340,18 +340,6 @@
       "source_priority": "medium",
       "source_tier": "A",
       "source_category": "Aggregator",
-      "relevance_score": 7
-    },
-    {
-      "title": "The Week’s 10 Biggest Funding Rounds: Transportation And Biotech Take The Lead",
-      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ev-transportation-biotech-slate/",
-      "summary": "The week’s largest round was a $650 million financing for electric pickup truck maker Slate Auto. Other sizable investments went to spaces including drug development, autonomous public transit and software engineering.",
-      "published": "2026-04-17T19:06:41.000Z",
-      "source_id": "crunchbase-news",
-      "source_name": "Crunchbase News",
-      "source_priority": "high",
-      "source_tier": "A",
-      "source_category": "Funding / M&A",
       "relevance_score": 7
     },
     {
@@ -391,30 +379,6 @@
       "relevance_score": 7
     },
     {
-      "title": "Biglaw Associate Donates Kidney To Partner In Remarkable Act Of Generosity",
-      "url": "https://abovethelaw.com/2026/04/biglaw-associate-donates-kidney-to-partner-in-remarkable-act-of-generosity/",
-      "summary": "The lawyers had never met before, which makes this story all the more touching. The post Biglaw Associate Donates Kidney To Partner In Remarkable Act Of Generosity appeared first on Above the Law .",
-      "published": "2026-04-17T20:15:56.000Z",
-      "source_id": "above-the-law-legaltech",
-      "source_name": "Above the Law (Legal Tech)",
-      "source_priority": "high",
-      "source_tier": "B",
-      "source_category": "Legal profession",
-      "relevance_score": 7
-    },
-    {
-      "title": "Trump PAC Deep In Debt&#8230; And Owes Lawyers Over A Million",
-      "url": "https://abovethelaw.com/2026/04/trump-pac-deep-in-debt-and-owes-lawyers-over-a-million/",
-      "summary": "Susan Necheles finding out the hard way that Trump never pays his lawyers. The post Trump PAC Deep In Debt&#8230; And Owes Lawyers Over A Million appeared first on Above the Law .",
-      "published": "2026-04-17T17:01:00.000Z",
-      "source_id": "above-the-law-legaltech",
-      "source_name": "Above the Law (Legal Tech)",
-      "source_priority": "high",
-      "source_tier": "B",
-      "source_category": "Legal profession",
-      "relevance_score": 7
-    },
-    {
       "title": "Anthropic’s Matt Samuels and Den Delimarsky &#8211; Claude &#038; MCP: Building the USB-C for the Legal Tech Stack",
       "url": "https://www.geeklawblog.com/2026/03/anthropics-matt-samuels-and-den-delimarsky-claude-mcp-building-the-usb-c-for-the-legal-tech-stack.html",
       "summary": "This week, we sit down with two guests from Anthropic, Matt Samuels, Senior Product Counsel, and Den Delimarsky, a core maintainer of the Model Context Protocol, or MCP. Together, they unpack why MCP is drawing so much attention across the legal industry and why some are calling it the USB-C for AI. For law firms... Continue Reading",
@@ -424,18 +388,6 @@
       "source_priority": "medium",
       "source_tier": "B",
       "source_category": "Legal operations",
-      "relevance_score": 7
-    },
-    {
-      "title": "Satellite and drone images reveal big delays in US data center construction",
-      "url": "https://arstechnica.com/ai/2026/04/construction-delays-hit-40-of-us-data-centers-planned-for-2026/",
-      "summary": "Data centers face construction delays and energy bottleneck as resistance grows.",
-      "published": "2026-04-17T18:08:25.000Z",
-      "source_id": "ars-technica-ai",
-      "source_name": "Ars Technica AI",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "General AI",
       "relevance_score": 7
     },
     {
@@ -451,10 +403,34 @@
       "relevance_score": 7
     },
     {
-      "title": "Ask HN: In the AI world what does \"great\" look like?",
-      "url": "https://news.ycombinator.com/item?id=47809594",
-      "summary": "I had a chat with my team mate today and they brought up an interesting point. If AI is cooking our software and doing an amazing job, for us devs what does \"great\" look like? How do WE improve? How do we assess performance of us, i.e. \"the humans\"? What do we base salaries on? Have you discussed this in your organisations? Does anyone have a plan? If your dev teams are creating scaffolding, harnesses, skills and getting CC to cook up everything, make PRs, perform reviews, find bugs, fix bugs, u",
-      "published": "2026-04-17T19:23:47.000Z",
+      "title": "OpenAI's Vision for the AI Economy",
+      "url": "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/",
+      "summary": "Article URL: https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/ Comments URL: https://news.ycombinator.com/item?id=47812845 Points: 2 # Comments: 0",
+      "published": "2026-04-18T03:11:45.000Z",
+      "source_id": "hacker-news",
+      "source_name": "Hacker News (filtered)",
+      "source_priority": "low",
+      "source_tier": "B",
+      "source_category": "Community",
+      "relevance_score": 7
+    },
+    {
+      "title": "Show HN: devnexus – shared AI brain across repos, sessions, and engineers",
+      "url": "https://github.com/JoshBong/devnexus",
+      "summary": "This started as my personal workspace, but after a few people asked me to set it up for them I turned it into a script. However updating it was a pain and required completely remaking the workspace everytime so I turned it into a npm package with CLI. Setting up this workspace gives the agent a shared brain across repos, sessions, and engineers by using a shared obsidian vault. It uses a code graph to see what is impacted when changing code and links past decisions to the code they touched to ma",
+      "published": "2026-04-18T03:09:05.000Z",
+      "source_id": "hacker-news",
+      "source_name": "Hacker News (filtered)",
+      "source_priority": "low",
+      "source_tier": "B",
+      "source_category": "Community",
+      "relevance_score": 7
+    },
+    {
+      "title": "Stop using naive RAG – adding relationships to AI context",
+      "url": "https://news.ycombinator.com/item?id=47811753",
+      "summary": "I’ve been working a lot with RAG systems recently, and kept running into the same issue: they retrieve relevant chunks, but lose the relationships between them. This becomes a problem pretty quickly when dealing with real systems (docs, APIs, infra), where understanding how things connect matters more than just finding similar text. So I built Mindex: https://usemindex.dev/ It combines semantic search with a knowledge graph layer, so instead of returning isolated chunks, it can connect documents",
+      "published": "2026-04-17T23:35:02.000Z",
       "source_id": "hacker-news",
       "source_name": "Hacker News (filtered)",
       "source_priority": "low",
@@ -485,6 +461,30 @@
       "source_tier": "B",
       "source_category": "Research",
       "relevance_score": 7
+    },
+    {
+      "title": "ClioCon Briefings: In-house ambition and why data context matters more than ever - Legal IT Insider",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeFN4UjBVSVlaZWVrWWdxd3hZalZzRUtNQkVkNklHcjliTmIzaHRKUHpJTW5aUFdPZVZxVlZqTWtuTkxyeElSNXp1RkNxSUZDR05SYjdTbmo5R2QydTVPNGZ0Nnc5WUJldnpJSDhuV0N2SFZ0bmVET0xaNl9XM191dWRwbXdYRFVsOEMwakdncHloR1lncTVWekFBQmdPaUF1YmpyQVRXTG5iQm5mTzJEVXpFV2pOcFFVTVVj?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeFN4UjBVSVlaZWVrWWdxd3hZalZzRUtNQkVkNklHcjliTmIzaHRKUHpJTW5aUFdPZVZxVlZqTWtuTkxyeElSNXp1RkNxSUZDR05SYjdTbmo5R2QydTVPNGZ0Nnc5WUJldnpJSDhuV0N2SFZ0bmVET0xaNl9XM191dWRwbXdYRFVsOEMwakdncHloR1lncTVWekFBQmdPaUF1YmpyQVRXTG5iQm5mTzJEVXpFV2pOcFFVTVVj?oc=5\" target=\"_blank\"&gt;ClioCon Briefings: In-house ambition and why data context matters more than ever&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Legal IT Insider&lt;/font&gt;",
+      "published": "2026-04-15T14:45:37.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
+    },
+    {
+      "title": "What AI Adoption Reveals About the Future of Legal Work - Harvey",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQR3N1TWcyUmtvOW1EUjVPMVJJM3BORGpNWl95ZkZnTnFCNElCcUFMb09vXzcwWmdFa1o2RDh2OFFDUmxZeFpaU1hVcEhyandNejBGT0xvR0lDamFlaVZLb1YwLVJuQVZQWkVKLTYtVEU3RUlRaUpab0lFams5NUhjS3FVTmZJYXMwaEE?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQR3N1TWcyUmtvOW1EUjVPMVJJM3BORGpNWl95ZkZnTnFCNElCcUFMb09vXzcwWmdFa1o2RDh2OFFDUmxZeFpaU1hVcEhyandNejBGT0xvR0lDamFlaVZLb1YwLVJuQVZQWkVKLTYtVEU3RUlRaUpab0lFams5NUhjS3FVTmZJYXMwaEE?oc=5\" target=\"_blank\"&gt;What AI Adoption Reveals About the Future of Legal Work&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
+      "published": "2026-01-07T08:00:00.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
     }
   ]
 }
