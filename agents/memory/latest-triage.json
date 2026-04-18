@@ -1,15 +1,15 @@
 {
-  "generated": "2026-04-18T13:19:08.991Z",
+  "generated": "2026-04-18T15:56:55.705Z",
   "cycle_type": "triage",
   "tier_filter": null,
-  "shortlist_size": 4,
+  "shortlist_size": 3,
   "prefilter": {
     "total": 40,
-    "accepted": 4,
+    "accepted": 3,
     "borderline": 0,
-    "rejected": 36,
-    "rejected_as_duplicate": 36,
-    "accept_rate": 10
+    "rejected": 37,
+    "rejected_as_duplicate": 37,
+    "accept_rate": 8
   },
   "model": "claude-haiku-4-5-20251001",
   "picks": [
@@ -17,35 +17,26 @@
       "id": "lawsites-0",
       "score": 5,
       "category": "Legal Tech",
-      "suggested_angle": "Universal Migrator expands migration script library to cover more legacy systems and targets.",
-      "why_now": "Product feature expansion from a recognized legal tech vendor, but incremental rather than breaking news.",
+      "suggested_angle": "Universal Migrator expands migration library with new DMS connectors",
+      "why_now": "Product release from established legal tech vendor; incremental feature expansion",
       "verdict": "watch",
       "duplicate_of": "lawsites-1"
     },
     {
       "id": "lawsites-1",
-      "score": 5,
+      "score": 4,
       "category": "Legal Tech",
-      "suggested_angle": "Universal Migrator cuts pricing on document migration tools to reduce friction for law firm tech transitions.",
-      "why_now": "Pricing move from a legal tech vendor, but lacks independent news hook—reads as vendor announcement.",
+      "suggested_angle": "Universal Migrator cuts migration tool pricing to lower friction",
+      "why_now": "Pricing announcement; primarily marketing-driven news with limited independent news hook",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
       "id": "ars-technica-ai-2",
-      "score": 3,
-      "category": "Legal AI",
-      "suggested_angle": "OpenAI releases biology-tuned LLM; not legal-specific and outside editorial mandate.",
-      "why_now": "Out of scope: general AI news, not legal AI, legal tech, or regulation.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "hacker-news-3",
       "score": 2,
-      "category": "Social",
-      "suggested_angle": "Hacker News discussion on AI-generated code and assembler—not legal sector relevant.",
-      "why_now": "Generic programming discussion; no legal angle, no relevance to editorial focus.",
+      "category": "Legal AI",
+      "suggested_angle": "OpenAI launches biology-specific LLM; no legal vertical application noted",
+      "why_now": "Out of scope—biology application has no legal relevance; watch-list company (OpenAI) but not in legal vertical",
       "verdict": "drop",
       "duplicate_of": null
     }
@@ -53,19 +44,19 @@
   "summary": {
     "enqueue_count": 0,
     "watch_count": 1,
-    "drop_count": 3,
-    "notes": "lawsites-0 and lawsites-1 are the same underlying news (Universal Migrator product/pricing updates); kept -0 on watch pending clarification of whether expansion of script library is genuinely new. -2 and -3 are out of scope."
+    "drop_count": 2,
+    "notes": "Universal Migrator releases are incremental product updates with weak news hooks; OpenAI biology LLM is outside legal scope. No tier-1 stories in this shortlist."
   },
   "enqueued": 0,
   "usage": {
-    "input_tokens": 2462,
+    "input_tokens": 2389,
     "cache_creation_input_tokens": 0,
     "cache_read_input_tokens": 0,
     "cache_creation": {
       "ephemeral_5m_input_tokens": 0,
       "ephemeral_1h_input_tokens": 0
     },
-    "output_tokens": 551,
+    "output_tokens": 414,
     "service_tier": "standard",
     "inference_geo": "not_available"
   }

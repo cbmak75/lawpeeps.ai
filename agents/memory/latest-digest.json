@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-18T13:19:03.079Z",
+  "generated": "2026-04-18T15:46:46.874Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 1009,
+  "total_scanned": 995,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -17,18 +17,6 @@
       "source_tier": "B",
       "source_category": "Legal operations",
       "relevance_score": 13
-    },
-    {
-      "title": "A Public Service Announcement: Legal Tech Companies, Here Are Your Celebrity Endorsers",
-      "url": "https://www.lawnext.com/2026/04/a-public-service-announcement-legal-tech-companies-here-are-your-celebrity-endorsers.html",
-      "summary": "It started with Harvey, the legal AI company that signed Gabriel Macht – the actor who played Harvey Specter on Suits – as a brand ambassador. Then Legora one-upped everyone by signing the actor Jude Law, building a whole campaign around the tagline, &#8220;Law just got more attractive,&#8221; and shooting the thing with an Oscar-winning [&#8230;]",
-      "published": "2026-04-17T14:06:45.000Z",
-      "source_id": "lawsites",
-      "source_name": "LawSites (Bob Ambrogi)",
-      "source_priority": "critical",
-      "source_tier": "B",
-      "source_category": "Legal tech commentary",
-      "relevance_score": 11
     },
     {
       "title": "Three Years After Launching As First AI Legal Assistant, CoCounsel Reaches 1 Million Users &#8212; and Thomson Reuters Teases What&#8217;s Ahead",
@@ -53,6 +41,18 @@
       "source_tier": "B",
       "source_category": "Legal tech commentary",
       "relevance_score": 11
+    },
+    {
+      "title": "A Public Service Announcement: Legal Tech Companies, Here Are Your Celebrity Endorsers",
+      "url": "https://www.lawnext.com/2026/04/a-public-service-announcement-legal-tech-companies-here-are-your-celebrity-endorsers.html",
+      "summary": "It started with Harvey, the legal AI company that signed Gabriel Macht – the actor who played Harvey Specter on Suits – as a brand ambassador. Then Legora one-upped everyone by signing the actor Jude Law, building a whole campaign around the tagline, &#8220;Law just got more attractive,&#8221; and shooting the thing with an Oscar-winning [&#8230;]",
+      "published": "2026-04-17T14:06:45.000Z",
+      "source_id": "lawsites",
+      "source_name": "LawSites (Bob Ambrogi)",
+      "source_priority": "critical",
+      "source_tier": "B",
+      "source_category": "Legal tech commentary",
+      "relevance_score": 10
     },
     {
       "title": "Legal Tech Vendors Roll Out Wave of Announcements Ahead of Legalweek; News From DISCO, Advocacy, iManage, Monjur, Reveal and ChronoTracer and ALIGN",
@@ -115,6 +115,18 @@
       "relevance_score": 9
     },
     {
+      "title": "Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook partners with CBA; DeepIP raises $25m - Legal IT Insider",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPNVJJREhTZDUwWGlQd3hwTm84Q08xekZJSktTWTJaamNWellIZVhUajRjVFNLMnIwd3dMcGNKMjA3N090TWFBMWdoRWtXQUx0VW1OcGlMc3c2a0lITVpFajVLREdrYlJLME55bGc1RV9zZF9ITjVoUWZYcGp4akZIYlNWNEVpQkdfek1BWWR1bXFXNHowWTlXaUZvZlZuQmV0VXRtTW9rRmYzTUNXVWgxVGcxbnkta0NOdDIzU2VieUpQTnY0SVNBZUwxNXVTZllRWVFHY0M4dDhHcjAzUTI1ZVlKci1ZZ1dXVGlzQXZtSzFNWHhY?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPNVJJREhTZDUwWGlQd3hwTm84Q08xekZJSktTWTJaamNWellIZVhUajRjVFNLMnIwd3dMcGNKMjA3N090TWFBMWdoRWtXQUx0VW1OcGlMc3c2a0lITVpFajVLREdrYlJLME55bGc1RV9zZF9ITjVoUWZYcGp4akZIYlNWNEVpQkdfek1BWWR1bXFXNHowWTlXaUZvZlZuQmV0VXRtTW9rRmYzTUNXVWgxVGcxbnkta0NOdDIzU2VieUpQTnY0SVNBZUwxNXVTZllRWVFHY0M4dDhHcjAzUTI1ZVlKci1ZZ1dXVGlzQXZtSzFNWHhY?oc=5\" target=\"_blank\"&gt;Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook par",
+      "published": "2026-03-04T08:00:00.000Z",
+      "source_id": "google-news-legal-tech-funding",
+      "source_name": "Google News: legal tech funding",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 8
+    },
+    {
       "title": "Why legal tech giant Harvey is raising cash like OpenAI - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaDhOaTN1RzVmZmxWa1U2TTZyTW9ucXRjZjU2RHUzT0RoMTJQb1BvZ1hpbUgwTUFZS3U5UHV1R21abHdrRDR3cFlWTC1SY3J2WUN1YWlwSlY0Y0VpVjVYSXV2dk93YjhuU0NXYTE5QnBiVHF5bHVLRHdWbzMxdVB3MU0zMFh1TzF0U1JmOA?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQaDhOaTN1RzVmZmxWa1U2TTZyTW9ucXRjZjU2RHUzT0RoMTJQb1BvZ1hpbUgwTUFZS3U5UHV1R21abHdrRDR3cFlWTC1SY3J2WUN1YWlwSlY0Y0VpVjVYSXV2dk93YjhuU0NXYTE5QnBiVHF5bHVLRHdWbzMxdVB3MU0zMFh1TzF0U1JmOA?oc=5\" target=\"_blank\"&gt;Why legal tech giant Harvey is raising cash like OpenAI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Business Insider&lt;/font&gt;",
@@ -146,18 +158,6 @@
       "source_id": "google-news-legal-tech-funding",
       "source_name": "Google News: legal tech funding",
       "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 8
-    },
-    {
-      "title": "Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook partners with CBA; DeepIP raises $25m - Legal IT Insider",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPNVJJREhTZDUwWGlQd3hwTm84Q08xekZJSktTWTJaamNWellIZVhUajRjVFNLMnIwd3dMcGNKMjA3N090TWFBMWdoRWtXQUx0VW1OcGlMc3c2a0lITVpFajVLREdrYlJLME55bGc1RV9zZF9ITjVoUWZYcGp4akZIYlNWNEVpQkdfek1BWWR1bXFXNHowWTlXaUZvZlZuQmV0VXRtTW9rRmYzTUNXVWgxVGcxbnkta0NOdDIzU2VieUpQTnY0SVNBZUwxNXVTZllRWVFHY0M4dDhHcjAzUTI1ZVlKci1ZZ1dXVGlzQXZtSzFNWHhY?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPNVJJREhTZDUwWGlQd3hwTm84Q08xekZJSktTWTJaamNWellIZVhUajRjVFNLMnIwd3dMcGNKMjA3N090TWFBMWdoRWtXQUx0VW1OcGlMc3c2a0lITVpFajVLREdrYlJLME55bGc1RV9zZF9ITjVoUWZYcGp4akZIYlNWNEVpQkdfek1BWWR1bXFXNHowWTlXaUZvZlZuQmV0VXRtTW9rRmYzTUNXVWgxVGcxbnkta0NOdDIzU2VieUpQTnY0SVNBZUwxNXVTZllRWVFHY0M4dDhHcjAzUTI1ZVlKci1ZZ1dXVGlzQXZtSzFNWHhY?oc=5\" target=\"_blank\"&gt;Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook par",
-      "published": "2026-03-04T08:00:00.000Z",
-      "source_id": "google-news-contract-ai",
-      "source_name": "Google News: contract AI",
-      "source_priority": "medium",
       "source_tier": "A",
       "source_category": "Aggregator",
       "relevance_score": 8
@@ -283,18 +283,6 @@
       "relevance_score": 7
     },
     {
-      "title": "Legal AI giant Harvey acquires Hexus as competition heats up in legal tech - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWtsRnRNeWxYZWEwaERMRVJaRWVfQm41MzVDeDJBM1ZIOEstUW5DaTB5UUhjUXE5Sml2QU40RzdZaWlqeUpid3dELUpLTHlKbVNRNmRObWtrZ1dSSXd3R20wSDY3TkVUOHVwRzlZOTh1b1FraXZlNGpuUnBPcXdIU2oxbVZzMTZDVzVNMDRDcGR0NC1oQ2pfMGlUY25YSHBZaHJUTEljdzU5LWREa0E?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWtsRnRNeWxYZWEwaERMRVJaRWVfQm41MzVDeDJBM1ZIOEstUW5DaTB5UUhjUXE5Sml2QU40RzdZaWlqeUpid3dELUpLTHlKbVNRNmRObWtrZ1dSSXd3R20wSDY3TkVUOHVwRzlZOTh1b1FraXZlNGpuUnBPcXdIU2oxbVZzMTZDVzVNMDRDcGR0NC1oQ2pfMGlUY25YSHBZaHJUTEljdzU5LWREa0E?oc=5\" target=\"_blank\"&gt;Legal AI giant Harvey acquires Hexus as competition heats up in legal tech&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;TechCrunch&lt;/font&gt;",
-      "published": "2026-01-23T08:00:00.000Z",
-      "source_id": "google-news-legal-tech-funding",
-      "source_name": "Google News: legal tech funding",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 7
-    },
-    {
       "title": "Juro Goes Direct to ChatGPT For Contract AI - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWTB4VVlWclpYMExWSFdxaWpHaXdNYXQ3UnQyWGJKemgtOGtoanNPVWZrVHRuVWdma00xUnhaTlF5TXl4SjQycDFLZjNwb0xMTHljWm9Lc3I4V0NvTnY2RXVFeGJfUHV3MzhTNnJPeGdEdmNqcUQza0ZpU3hmUFBHc3ZqUEF2dUNnVW8yN2NETHBMZw?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQWTB4VVlWclpYMExWSFdxaWpHaXdNYXQ3UnQyWGJKemgtOGtoanNPVWZrVHRuVWdma00xUnhaTlF5TXl4SjQycDFLZjNwb0xMTHljWm9Lc3I4V0NvTnY2RXVFeGJfUHV3MzhTNnJPeGdEdmNqcUQza0ZpU3hmUFBHc3ZqUEF2dUNnVW8yN2NETHBMZw?oc=5\" target=\"_blank\"&gt;Juro Goes Direct to ChatGPT For Contract AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
@@ -365,42 +353,6 @@
       "source_tier": "B",
       "source_category": "General AI",
       "relevance_score": 7
-    },
-    {
-      "title": "AI Is Finding More Bugs Than Open-Source Teams Can Fight Off",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-17/anthropic-s-mythos-adds-strain-on-cybersecurity-teams-facing-ai-threats",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-04-17/anthropic-s-mythos-adds-strain-on-cybersecurity-teams-facing-ai-threats Comments URL: https://news.ycombinator.com/item?id=47815166 Points: 3 # Comments: 2",
-      "published": "2026-04-18T11:50:52.000Z",
-      "source_id": "hacker-news",
-      "source_name": "Hacker News (filtered)",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "Community",
-      "relevance_score": 7
-    },
-    {
-      "title": "Why don't we just ask AI to write assembler?",
-      "url": "https://news.ycombinator.com/item?id=47813874",
-      "summary": "Programming languages, frameworks etc are just there for developer ergonomics, code reuse and human understanding. If we generate so much code using AI that no one is really looking or reading the code anymore, just verifying end functionality, we can really just skip all that and go straight to assembler, no? Sure, we could reuse some basic building blocks like implementations of the tcp/ip protocol, http, sockets etc but server frameworks like fastapi are just human friendly abstractions over ",
-      "published": "2026-04-18T07:22:44.000Z",
-      "source_id": "hacker-news",
-      "source_name": "Hacker News (filtered)",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "Community",
-      "relevance_score": 7
-    },
-    {
-      "title": "ClioCon Briefings: In-house ambition and why data context matters more than ever - Legal IT Insider",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeFN4UjBVSVlaZWVrWWdxd3hZalZzRUtNQkVkNklHcjliTmIzaHRKUHpJTW5aUFdPZVZxVlZqTWtuTkxyeElSNXp1RkNxSUZDR05SYjdTbmo5R2QydTVPNGZ0Nnc5WUJldnpJSDhuV0N2SFZ0bmVET0xaNl9XM191dWRwbXdYRFVsOEMwakdncHloR1lncTVWekFBQmdPaUF1YmpyQVRXTG5iQm5mTzJEVXpFV2pOcFFVTVVj?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeFN4UjBVSVlaZWVrWWdxd3hZalZzRUtNQkVkNklHcjliTmIzaHRKUHpJTW5aUFdPZVZxVlZqTWtuTkxyeElSNXp1RkNxSUZDR05SYjdTbmo5R2QydTVPNGZ0Nnc5WUJldnpJSDhuV0N2SFZ0bmVET0xaNl9XM191dWRwbXdYRFVsOEMwakdncHloR1lncTVWekFBQmdPaUF1YmpyQVRXTG5iQm5mTzJEVXpFV2pOcFFVTVVj?oc=5\" target=\"_blank\"&gt;ClioCon Briefings: In-house ambition and why data context matters more than ever&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Legal IT Insider&lt;/font&gt;",
-      "published": "2026-04-15T14:45:37.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
     },
     {
       "title": "What AI Adoption Reveals About the Future of Legal Work - Harvey",
@@ -479,6 +431,54 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzWmM0UV9RWmpWclpyUjJ6TC0zV0JZYm9ZMlR0SUNscG5QWEp5Y1FfSEhjVlNnSHl1eTZKcnNuaXlVNm9QMkRRWE5EaC1RV185X2h3MTBYMERJaXpCSjdMdW1PdVVzM016VGc?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBzWmM0UV9RWmpWclpyUjJ6TC0zV0JZYm9ZMlR0SUNscG5QWEp5Y1FfSEhjVlNnSHl1eTZKcnNuaXlVNm9QMkRRWE5EaC1RV185X2h3MTBYMERJaXpCSjdMdW1PdVVzM016VGc?oc=5\" target=\"_blank\"&gt;:Harvey:’s Integration With NetDocuments Intelligent DMS&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
       "published": "2025-12-08T08:00:00.000Z",
+      "source_id": "google-news-harvey-luminance",
+      "source_name": "Google News: Harvey OR Luminance",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
+    },
+    {
+      "title": "Preview: Access :Harvey:, Wherever You’re Working - Harvey",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0djUyLXFEbzcwVDBaN3k4T0FOX0pBTzRyLXBka01pN2VhYlFqTEdaVkxsYUM1aUVsb0FMUm9pVElZUUNVdXE3SU1vd3Z5RlVURFhmR0RMVFlJQmtZMW5Oa0VB?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0djUyLXFEbzcwVDBaN3k4T0FOX0pBTzRyLXBka01pN2VhYlFqTEdaVkxsYUM1aUVsb0FMUm9pVElZUUNVdXE3SU1vd3Z5RlVURFhmR0RMVFlJQmtZMW5Oa0VB?oc=5\" target=\"_blank\"&gt;Preview: Access :Harvey:, Wherever You’re Working&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
+      "published": "2025-09-10T07:00:00.000Z",
+      "source_id": "google-news-harvey-luminance",
+      "source_name": "Google News: Harvey OR Luminance",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
+    },
+    {
+      "title": ":Harvey: and ElevenLabs Partner to Give Lawyers a Global Voice - Harvey",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxON1U5aHpIdnkyQk5fWEN4WVZnU0E5eWVqR0I3RWI2RkdFMjlrZ2RETmhFNzdnLXhET2sydHkwdm5HYnFQTmxIT3RRbXI4WmxzTWhHbGdYbXoteFZ3OUlVdFh5REdUdE93M2paejNvVjcyaXIta2swSHJ1UWIxMXF2a0M2SEhsd0dnNmVlNUNfczE?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxON1U5aHpIdnkyQk5fWEN4WVZnU0E5eWVqR0I3RWI2RkdFMjlrZ2RETmhFNzdnLXhET2sydHkwdm5HYnFQTmxIT3RRbXI4WmxzTWhHbGdYbXoteFZ3OUlVdFh5REdUdE93M2paejNvVjcyaXIta2swSHJ1UWIxMXF2a0M2SEhsd0dnNmVlNUNfczE?oc=5\" target=\"_blank\"&gt;:Harvey: and ElevenLabs Partner to Give Lawyers a Global Voice&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
+      "published": "2025-11-12T08:00:00.000Z",
+      "source_id": "google-news-harvey-luminance",
+      "source_name": "Google News: Harvey OR Luminance",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
+    },
+    {
+      "title": "Building :Harvey:’s iManage Integration - Harvey",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TNGRQd29UVHB2MURRdjBFSTJnUjBDOHI5YkxlTlk5SFhfR3hBcDVlajVCSFRoZDdTMXEwS05QMWxvdlVYNWdSYktpZHItQjg4dTBqMmpmZGtIdEFuVDVVSlR1ZTV5dGc0ZGxaeUx3NFk?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1TNGRQd29UVHB2MURRdjBFSTJnUjBDOHI5YkxlTlk5SFhfR3hBcDVlajVCSFRoZDdTMXEwS05QMWxvdlVYNWdSYktpZHItQjg4dTBqMmpmZGtIdEFuVDVVSlR1ZTV5dGc0ZGxaeUx3NFk?oc=5\" target=\"_blank\"&gt;Building :Harvey:’s iManage Integration&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
+      "published": "2025-10-29T07:00:00.000Z",
+      "source_id": "google-news-harvey-luminance",
+      "source_name": "Google News: Harvey OR Luminance",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
+    },
+    {
+      "title": ":Harvey:’s iManage Integration - Harvey",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NWWt2LTZETkl6M2txVzBjWUd6SUJnYWZwN2NKYmJpXy1GS2pDUlc4Y2lNazJFRTYyYWc3MGhXQU1STHVDa2hLWE9rV000a0dkQUQzaXRpdEZ5UlVDTFhDSTEwMGM?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NWWt2LTZETkl6M2txVzBjWUd6SUJnYWZwN2NKYmJpXy1GS2pDUlc4Y2lNazJFRTYyYWc3MGhXQU1STHVDa2hLWE9rV000a0dkQUQzaXRpdEZ5UlVDTFhDSTEwMGM?oc=5\" target=\"_blank\"&gt;:Harvey:’s iManage Integration&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
+      "published": "2025-08-11T07:00:00.000Z",
       "source_id": "google-news-harvey-luminance",
       "source_name": "Google News: Harvey OR Luminance",
       "source_priority": "critical",
