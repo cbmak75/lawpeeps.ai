@@ -33,7 +33,7 @@
       "theme": "AI-native legal services",
       "status": "New theme - tracking the emergence of venture-backed firms providing legal services directly rather than selling tools to lawyers",
       "first_tracked": "2026-04-17",
-      "last_updated": "2026-04-17"
+      "last_updated": "2026-04-18"
     },
     {
       "theme": "Professional liability for AI legal work",
@@ -56,9 +56,6 @@
     }
   ],
   "open_questions": [
-    "How will smaller practices adapt to privilege-safe AI tools that may be more expensive?",
-    "Will UK courts follow similar reasoning on AI and privilege?",
-    "Are enterprise AI contracts actually sufficient to maintain privilege protection?",
     "How will this affect solo practitioners and small firms who cannot access enterprise tools?",
     "How will courts treat enterprise AI tools with strong confidentiality contracts?",
     "Does attorney supervision of AI use change the privilege calculus?",
@@ -85,8 +82,11 @@
     "What responsibility do AI systems have to detect and flag potentially false claims about AI capabilities?",
     "How can legal media develop better immunity to plausible but fabricated stories about technological disruption?",
     "How will antitrust frameworks adapt to evaluate competition in AI legal services where the product is reasoning capability rather than data access?",
-    "Are contractual relationships between established legal tech platforms and AI startups inherently problematic given the potential for competitive conflicts?"
+    "Are contractual relationships between established legal tech platforms and AI startups inherently problematic given the potential for competitive conflicts?",
+    "How will the SRA's deterministic vs probabilistic distinction evolve as a regulatory framework?",
+    "Will other legal regulators adopt similar distinctions between AI approaches?",
+    "Can deterministic legal systems handle the discretionary and contextual elements of legal practice that don't reduce to rules?"
   ],
-  "last_updated": "2026-04-18T07:02:59.326Z",
+  "last_updated": "2026-04-18T08:43:35.879Z",
   "note": "mm!ke's evolving editorial positions and questions. Updated every cycle, including cycles that produce no articles."
 }

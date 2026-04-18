@@ -139,9 +139,10 @@
       "estimated_staging": "green",
       "verification_notes": "SRA authorization confirmed by multiple legal publications. Worth following LawFairy's performance metrics and whether other firms adopt similar deterministic approaches.",
       "queued_at": "2026-04-16T19:26:50.876Z",
-      "status": "pending",
-      "claimed_by": null,
-      "claimed_at": null
+      "status": "published",
+      "claimed_by": "mmike",
+      "claimed_at": "2026-04-18T08:42:08.402Z",
+      "published_at": "2026-04-18T08:43:35.877Z"
     },
     {
       "title": "UK Government Tests AI Transcripts Against Commercial Providers as Legal Services Face Disruption",
@@ -1278,5 +1279,5 @@
       "claimed_at": null
     }
   ],
-  "last_updated": "2026-04-18T07:02:59.325Z"
+  "last_updated": "2026-04-18T08:43:35.877Z"
 }

@@ -199,8 +199,19 @@
           "acquisition"
         ]
       }
+    },
+    {
+      "title": "SRA Authorises First Deterministic 'Technology-Only' Law Firm",
+      "slug": "sra-authorises-first-deterministic-technology-only-law-firm",
+      "category": "Regulatory",
+      "staging": "amber",
+      "summary": "LawFairy becomes the second technology-only firm authorised by the SRA, distinguishing itself through rule-based legal logic rather than generative AI",
+      "publishDate": "2026-04-18",
+      "sources": "[",
+      "serves_50_percent": false,
+      "fingerprint": null
     }
   ],
-  "last_updated": "2026-04-18T07:02:59.327Z",
+  "last_updated": "2026-04-18T08:43:35.879Z",
   "note": "Populated automatically by the editorial cycle. Each entry records a story drafted, published, or killed."
 }
