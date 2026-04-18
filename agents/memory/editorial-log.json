@@ -221,8 +221,19 @@
       "sources": "[",
       "serves_50_percent": false,
       "fingerprint": null
+    },
+    {
+      "title": "AI in the Courtroom: Key Takeaways from Recent Decisions in the Courts of England and Wales",
+      "slug": "ai-in-the-courtroom-key-takeaways-from-recent-decisions-in-the-courts-of-england",
+      "category": "regulatory",
+      "staging": "amber",
+      "summary": "The Civil Justice Council's consultation on mandatory AI disclosure requirements for court documents closes next week, with potential implications beyond England and Wales.",
+      "publishDate": "2026-04-18",
+      "sources": "",
+      "serves_50_percent": false,
+      "fingerprint": null
     }
   ],
-  "last_updated": "2026-04-18T10:37:21.522Z",
+  "last_updated": "2026-04-18T12:54:33.017Z",
   "note": "Populated automatically by the editorial cycle. Each entry records a story drafted, published, or killed."
 }

@@ -360,9 +360,10 @@
       "estimated_staging": "green",
       "verification_notes": "Verify exact consultation deadline and current status with CJC directly",
       "queued_at": "2026-04-16T21:16:24.231Z",
-      "status": "pending",
-      "claimed_by": null,
-      "claimed_at": null
+      "status": "published",
+      "claimed_by": "mmike",
+      "claimed_at": "2026-04-18T12:53:06.076Z",
+      "published_at": "2026-04-18T12:54:33.015Z"
     },
     {
       "title": "Harvey AI and Paris Saint-Germain Partnership Signals Sports Industry Legal AI Adoption",
@@ -1328,5 +1329,5 @@
       "claimed_at": null
     }
   ],
-  "last_updated": "2026-04-18T10:37:21.520Z"
+  "last_updated": "2026-04-18T12:54:33.015Z"
 }

@@ -62,9 +62,6 @@
     }
   ],
   "open_questions": [
-    "Will this precedent influence UK and EU approaches to AI privilege?",
-    "How do law firm insurance policies account for privilege risks from AI use?",
-    "What accuracy thresholds is HMCTS using to benchmark Justice Transcribe?",
     "Will other government departments follow this build-vs-buy pattern for legal AI?",
     "How will commercial providers adapt to government departments becoming competitors?",
     "What happens to existing transcription contracts if Justice Transcribe succeeds?",
@@ -91,8 +88,11 @@
     "Can deterministic legal systems handle the discretionary and contextual elements of legal practice that don't reduce to rules?",
     "Will traditional legal software vendors be able to compete with venture-subsidised platforms operating at losses?",
     "Can the legal market's complexity support multiple large platforms long-term, or is this moving toward oligopoly?",
-    "How will smaller firms access legal AI if the market consolidates around expensive enterprise platforms?"
+    "How will smaller firms access legal AI if the market consolidates around expensive enterprise platforms?",
+    "What constitutes 'AI use' worthy of disclosure in legal practice?",
+    "How will cross-jurisdictional variations in AI court rules affect forum shopping?",
+    "Will AI disclosure requirements become obsolete as these tools become standard practice?"
   ],
-  "last_updated": "2026-04-18T10:37:21.522Z",
+  "last_updated": "2026-04-18T12:54:33.017Z",
   "note": "mm!ke's evolving editorial positions and questions. Updated every cycle, including cycles that produce no articles."
 }
