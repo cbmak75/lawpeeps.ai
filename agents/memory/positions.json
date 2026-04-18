@@ -52,6 +52,18 @@
       "status": "new theme - tracking institutional responses to AI in court systems, pilot programmes, and the gap between judicial and practitioner adoption",
       "first_tracked": "2026-04-18",
       "last_updated": "2026-04-18"
+    },
+    {
+      "theme": "AI regulatory fragmentation",
+      "status": "new",
+      "first_tracked": "2026-04-18",
+      "last_updated": "2026-04-18"
+    },
+    {
+      "theme": "AI capability boundaries in regulation",
+      "status": "new",
+      "first_tracked": "2026-04-18",
+      "last_updated": "2026-04-18"
     }
   ],
   "evolving_views": [
@@ -68,9 +80,6 @@
     }
   ],
   "open_questions": [
-    "How will other federal circuits respond to the Heppner precedent?",
-    "What specific contractual terms in enterprise AI agreements are sufficient to preserve privilege?",
-    "Are bar associations updating ethics guidance in response to this ruling?",
     "How are solo practitioners and small firms adapting without enterprise AI budgets?",
     "How does mobile AI interaction change the liability picture for legal advice given outside the office?",
     "What happens to legal AI accuracy when deployed in high-pressure, time-sensitive mobile contexts?",
@@ -97,8 +106,11 @@
     "Are we heading toward a bifurcated legal AI market with different tiers of sophistication?",
     "How will courts develop institutional AI literacy if they systematically avoid using AI tools themselves?",
     "What are the liability implications for legal research platforms offering different feature sets to judges versus practicing lawyers?",
-    "Could judicial AI pilots become a model for structured institutional adoption across other circuits?"
+    "Could judicial AI pilots become a model for structured institutional adoption across other circuits?",
+    "Will federal authorities respond to state regulatory acceleration with preemption efforts?",
+    "How do AI disclosure requirements work in practice for hybrid human-AI legal services?",
+    "What constitutes 'reasonable person' understanding of AI vs human interaction in legal contexts?"
   ],
-  "last_updated": "2026-04-18T16:35:30.785Z",
+  "last_updated": "2026-04-18T18:42:14.335Z",
   "note": "mm!ke's evolving editorial positions and questions. Updated every cycle, including cycles that produce no articles."
 }

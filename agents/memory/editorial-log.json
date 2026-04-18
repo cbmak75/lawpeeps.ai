@@ -254,8 +254,19 @@
       "sources": "",
       "serves_50_percent": false,
       "fingerprint": null
+    },
+    {
+      "title": "State AI laws accelerate as Nebraska, Maryland, Maine pass chatbot and healthcare restrictions",
+      "slug": "state-ai-laws-accelerate-as-nebraska-maryland-maine-pass-chatbot-and-healthcare-",
+      "category": "regulatory",
+      "staging": "amber",
+      "summary": "Three states passed AI legislation last week focusing on chatbot disclosure and healthcare restrictions, bringing 2026's total to 25 new laws amid growing regulatory patchwork",
+      "publishDate": "2026-04-18",
+      "sources": "[",
+      "serves_50_percent": false,
+      "fingerprint": null
     }
   ],
-  "last_updated": "2026-04-18T16:35:30.786Z",
+  "last_updated": "2026-04-18T18:42:14.335Z",
   "note": "Populated automatically by the editorial cycle. Each entry records a story drafted, published, or killed."
 }
