@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-18T15:56:55.705Z",
+  "generated": "2026-04-18T19:13:09.583Z",
   "cycle_type": "triage",
   "tier_filter": null,
   "shortlist_size": 3,
@@ -17,26 +17,26 @@
       "id": "lawsites-0",
       "score": 5,
       "category": "Legal Tech",
-      "suggested_angle": "Universal Migrator expands migration library with new DMS connectors",
-      "why_now": "Product release from established legal tech vendor; incremental feature expansion",
+      "suggested_angle": "Universal Migrator expands migration script library to cover legacy systems",
+      "why_now": "Product roadmap expansion in a crowded migration space; incremental news but from credible source",
       "verdict": "watch",
-      "duplicate_of": "lawsites-1"
+      "duplicate_of": null
     },
     {
       "id": "lawsites-1",
-      "score": 4,
+      "score": 3,
       "category": "Legal Tech",
-      "suggested_angle": "Universal Migrator cuts migration tool pricing to lower friction",
-      "why_now": "Pricing announcement; primarily marketing-driven news with limited independent news hook",
+      "suggested_angle": "Universal Migrator announces pricing reduction on migration tools",
+      "why_now": "Pure pricing announcement with no independent news hook; marketing puff",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
       "id": "ars-technica-ai-2",
       "score": 2,
-      "category": "Legal AI",
-      "suggested_angle": "OpenAI launches biology-specific LLM; no legal vertical application noted",
-      "why_now": "Out of scope—biology application has no legal relevance; watch-list company (OpenAI) but not in legal vertical",
+      "category": "Research",
+      "suggested_angle": "OpenAI launches biology-specific LLM (not legal-focused)",
+      "why_now": "Out of scope: no legal angle, no legal tech angle, general AI news",
       "verdict": "drop",
       "duplicate_of": null
     }
@@ -45,18 +45,18 @@
     "enqueue_count": 0,
     "watch_count": 1,
     "drop_count": 2,
-    "notes": "Universal Migrator releases are incremental product updates with weak news hooks; OpenAI biology LLM is outside legal scope. No tier-1 stories in this shortlist."
+    "notes": "All three items miss editorial focus: two are low-value product updates from non-watchlist vendor; one is pure science AI with no legal application. lawsites-0 worth monitoring if Universal Migrator gains market traction or announces funding."
   },
   "enqueued": 0,
   "usage": {
-    "input_tokens": 2389,
+    "input_tokens": 2528,
     "cache_creation_input_tokens": 0,
     "cache_read_input_tokens": 0,
     "cache_creation": {
       "ephemeral_5m_input_tokens": 0,
       "ephemeral_1h_input_tokens": 0
     },
-    "output_tokens": 414,
+    "output_tokens": 413,
     "service_tier": "standard",
     "inference_geo": "not_available"
   }
