@@ -684,9 +684,10 @@
       "verification_notes": "Confirm the pilot program details and whether other circuits are considering similar AI experiments",
       "tip_origin": false,
       "queued_at": "2026-04-17T03:33:37.454Z",
-      "status": "pending",
-      "claimed_by": null,
-      "claimed_at": null
+      "status": "published",
+      "claimed_by": "mmike",
+      "claimed_at": "2026-04-18T16:34:07.623Z",
+      "published_at": "2026-04-18T16:35:30.784Z"
     },
     {
       "title": "Clio Launches Vincent AI Mobile App, Extends Legal AI to Smartphones",
@@ -1330,5 +1331,5 @@
       "claimed_at": null
     }
   ],
-  "last_updated": "2026-04-18T14:38:53.834Z"
+  "last_updated": "2026-04-18T16:35:30.784Z"
 }

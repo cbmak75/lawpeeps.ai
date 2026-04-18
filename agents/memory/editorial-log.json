@@ -243,8 +243,19 @@
       "sources": "[",
       "serves_50_percent": false,
       "fingerprint": null
+    },
+    {
+      "title": "Penalties stack up AI spreads through legal system",
+      "slug": "penalties-stack-up-ai-spreads-through-legal-system",
+      "category": "Legal AI",
+      "staging": "amber",
+      "summary": "Senior federal judges reveal that AI tools in judicial systems have been \"blacked out\" as courts struggle to keep pace with technology adoption in legal practice",
+      "publishDate": "2026-04-18",
+      "sources": "",
+      "serves_50_percent": false,
+      "fingerprint": null
     }
   ],
-  "last_updated": "2026-04-18T14:38:53.836Z",
+  "last_updated": "2026-04-18T16:35:30.786Z",
   "note": "Populated automatically by the editorial cycle. Each entry records a story drafted, published, or killed."
 }

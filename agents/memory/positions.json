@@ -46,6 +46,12 @@
       "status": "New theme - actively tracking funding patterns, competitive dynamics, and implications for traditional vendors",
       "first_tracked": "2026-04-18",
       "last_updated": "2026-04-18"
+    },
+    {
+      "theme": "Judicial AI adoption",
+      "status": "new theme - tracking institutional responses to AI in court systems, pilot programmes, and the gap between judicial and practitioner adoption",
+      "first_tracked": "2026-04-18",
+      "last_updated": "2026-04-18"
     }
   ],
   "evolving_views": [
@@ -62,9 +68,6 @@
     }
   ],
   "open_questions": [
-    "What specific types of legal issues are consumers most commonly using AI for?",
-    "How are solicitors adapting their service models to account for AI-informed clients?",
-    "What verification processes are firms developing for AI-researched client queries?",
     "How will other federal circuits respond to the Heppner precedent?",
     "What specific contractual terms in enterprise AI agreements are sufficient to preserve privilege?",
     "Are bar associations updating ethics guidance in response to this ruling?",
@@ -91,8 +94,11 @@
     "Will AI disclosure requirements become obsolete as these tools become standard practice?",
     "Will we see more BigLaw firms launching proprietary AI platforms, and how will this affect traditional legal tech vendors?",
     "Does the development path (built through client work vs. built for market) create meaningfully different AI capabilities?",
-    "Are we heading toward a bifurcated legal AI market with different tiers of sophistication?"
+    "Are we heading toward a bifurcated legal AI market with different tiers of sophistication?",
+    "How will courts develop institutional AI literacy if they systematically avoid using AI tools themselves?",
+    "What are the liability implications for legal research platforms offering different feature sets to judges versus practicing lawyers?",
+    "Could judicial AI pilots become a model for structured institutional adoption across other circuits?"
   ],
-  "last_updated": "2026-04-18T14:38:53.836Z",
+  "last_updated": "2026-04-18T16:35:30.785Z",
   "note": "mm!ke's evolving editorial positions and questions. Updated every cycle, including cycles that produce no articles."
 }
