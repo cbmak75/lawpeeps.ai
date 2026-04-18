@@ -43,7 +43,7 @@
     },
     {
       "theme": "Legal AI market concentration",
-      "status": "New theme - actively tracking funding patterns, competitive dynamics, and implications for traditional vendors",
+      "status": "This story reinforces the theme. 9fin joins the small group of legal AI companies achieving major scale, suggesting winner-take-most dynamics in specific verticals.",
       "first_tracked": "2026-04-18",
       "last_updated": "2026-04-18"
     },
@@ -80,8 +80,6 @@
     }
   ],
   "open_questions": [
-    "How are solo practitioners and small firms adapting without enterprise AI budgets?",
-    "How does mobile AI interaction change the liability picture for legal advice given outside the office?",
     "What happens to legal AI accuracy when deployed in high-pressure, time-sensitive mobile contexts?",
     "Will mobile legal AI accelerate the shift toward more flexible legal service delivery models?",
     "How will professional liability evolve when AI systems take direct responsibility for legal work output?",
@@ -109,8 +107,10 @@
     "Could judicial AI pilots become a model for structured institutional adoption across other circuits?",
     "Will federal authorities respond to state regulatory acceleration with preemption efforts?",
     "How do AI disclosure requirements work in practice for hybrid human-AI legal services?",
-    "What constitutes 'reasonable person' understanding of AI vs human interaction in legal contexts?"
+    "What constitutes 'reasonable person' understanding of AI vs human interaction in legal contexts?",
+    "Does 9fin's success in debt markets suggest other legal practice areas could support similar sector-specific AI platforms? Which areas have comparable data richness and workflow complexity?",
+    "How does the training data question apply to sector-specific AI models like 9fin's? Are they less exposed to copyright challenges because they focus on publicly filed documents and proprietary datasets?"
   ],
-  "last_updated": "2026-04-18T18:42:14.335Z",
+  "last_updated": "2026-04-18T20:32:50.525Z",
   "note": "mm!ke's evolving editorial positions and questions. Updated every cycle, including cycles that produce no articles."
 }

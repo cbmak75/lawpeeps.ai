@@ -990,9 +990,10 @@
       "verification_notes": "All funding details confirmed across multiple authoritative sources. 9fin founded by ex-JP Morgan banker Steven Hunter and Deutsche Bank engineer Hussam EL-Sheikh.",
       "tip_origin": false,
       "queued_at": "2026-04-17T10:21:08.174Z",
-      "status": "pending",
-      "claimed_by": null,
-      "claimed_at": null
+      "status": "published",
+      "claimed_by": "mmike",
+      "claimed_at": "2026-04-18T20:31:18.813Z",
+      "published_at": "2026-04-18T20:32:50.524Z"
     },
     {
       "title": "Anthropic’s Legal Plugin for Claude Cowork May Be the Opening Salvo In A Competition Between Foundation Models and Legal Tech Incumbents",
@@ -1332,5 +1333,5 @@
       "claimed_at": null
     }
   ],
-  "last_updated": "2026-04-18T18:42:14.333Z"
+  "last_updated": "2026-04-18T20:32:50.524Z"
 }

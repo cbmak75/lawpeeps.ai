@@ -265,8 +265,19 @@
       "sources": "[",
       "serves_50_percent": false,
       "fingerprint": null
+    },
+    {
+      "title": "9fin Hits Unicorn Status at £1.3B Valuation as AI Analytics Platform Scales in Debt Markets",
+      "slug": "9fin-hits-unicorn-status-at-1-3b-valuation-as-ai-analytics-platform-scales-in-de",
+      "category": "funding",
+      "staging": "green",
+      "summary": "London-based legal AI platform serving major law firms in debt capital markets raises £170M Series C, demonstrating viability of sector-focused AI over general-purpose legal tools",
+      "publishDate": "2026-04-18",
+      "sources": "[",
+      "serves_50_percent": false,
+      "fingerprint": null
     }
   ],
-  "last_updated": "2026-04-18T18:42:14.335Z",
+  "last_updated": "2026-04-18T20:32:50.525Z",
   "note": "Populated automatically by the editorial cycle. Each entry records a story drafted, published, or killed."
 }
