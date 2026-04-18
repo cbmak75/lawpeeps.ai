@@ -62,9 +62,6 @@
     }
   ],
   "open_questions": [
-    "Will other government departments follow this build-vs-buy pattern for legal AI?",
-    "How will commercial providers adapt to government departments becoming competitors?",
-    "What happens to existing transcription contracts if Justice Transcribe succeeds?",
     "What specific types of legal issues are consumers most commonly using AI for?",
     "How are solicitors adapting their service models to account for AI-informed clients?",
     "What verification processes are firms developing for AI-researched client queries?",
@@ -91,8 +88,11 @@
     "How will smaller firms access legal AI if the market consolidates around expensive enterprise platforms?",
     "What constitutes 'AI use' worthy of disclosure in legal practice?",
     "How will cross-jurisdictional variations in AI court rules affect forum shopping?",
-    "Will AI disclosure requirements become obsolete as these tools become standard practice?"
+    "Will AI disclosure requirements become obsolete as these tools become standard practice?",
+    "Will we see more BigLaw firms launching proprietary AI platforms, and how will this affect traditional legal tech vendors?",
+    "Does the development path (built through client work vs. built for market) create meaningfully different AI capabilities?",
+    "Are we heading toward a bifurcated legal AI market with different tiers of sophistication?"
   ],
-  "last_updated": "2026-04-18T12:54:33.017Z",
+  "last_updated": "2026-04-18T14:38:53.836Z",
   "note": "mm!ke's evolving editorial positions and questions. Updated every cycle, including cycles that produce no articles."
 }

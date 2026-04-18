@@ -232,8 +232,19 @@
       "sources": "",
       "serves_50_percent": false,
       "fingerprint": null
+    },
+    {
+      "title": "ClearyX Launches CX+ Platform as Big Law Pivots from AI Consulting to Product Sales",
+      "slug": "clearyx-launches-cx-platform-as-big-law-pivots-from-ai-consulting-to-product-sal",
+      "category": "Legal AI",
+      "staging": "amber",
+      "summary": "Cleary Gottlieb's alternative legal services arm launches proprietary AI platform for contract intelligence, marking a strategic shift for top-tier firms from advising on AI to selling it directly.",
+      "publishDate": "2026-04-18",
+      "sources": "[",
+      "serves_50_percent": false,
+      "fingerprint": null
     }
   ],
-  "last_updated": "2026-04-18T12:54:33.017Z",
+  "last_updated": "2026-04-18T14:38:53.836Z",
   "note": "Populated automatically by the editorial cycle. Each entry records a story drafted, published, or killed."
 }

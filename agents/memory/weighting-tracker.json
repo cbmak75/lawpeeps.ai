@@ -84,9 +84,14 @@
       "date": "2026-04-18",
       "slug": "ai-in-the-courtroom-key-takeaways-from-recent-decisions-in-the-courts-of-england",
       "serves_underrepresented": false
+    },
+    {
+      "date": "2026-04-18",
+      "slug": "clearyx-launches-cx-platform-as-big-law-pivots-from-ai-consulting-to-product-sal",
+      "serves_underrepresented": false
     }
   ],
   "underrepresented_percentage": 0,
-  "last_updated": "2026-04-18T12:54:33.018Z",
+  "last_updated": "2026-04-18T14:38:53.837Z",
   "note": "Tracks the 50% rule: at least half of published output must cover underrepresented voices (small firms, solo practitioners, early-stage startups, academic researchers, regional developments)."
 }
