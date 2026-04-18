@@ -3,7 +3,7 @@
     {
       "status": "new",
       "first_tracked": "2026-04-16",
-      "last_updated": "2026-04-17"
+      "last_updated": "2026-04-18"
     },
     {
       "theme": "Government vs commercial AI solutions in legal services",
@@ -46,7 +46,7 @@
     {
       "confidence": "low",
       "first_formed": "2026-04-16",
-      "last_updated": "2026-04-17"
+      "last_updated": "2026-04-18"
     },
     {
       "topic": "government vs commercial AI in legal services",
@@ -56,8 +56,6 @@
     }
   ],
   "open_questions": [
-    "What constitutes 'work done at a lawyer's direction' in the context of AI assistance?",
-    "Will this ruling influence AI tool development toward stronger privacy protections?",
     "How will smaller practices adapt to privilege-safe AI tools that may be more expensive?",
     "Will UK courts follow similar reasoning on AI and privilege?",
     "Are enterprise AI contracts actually sufficient to maintain privilege protection?",
@@ -85,8 +83,10 @@
     "Can counterparty behaviour simulation in contract negotiation actually work reliably, or is this marketing ahead of capability?",
     "How widespread is AI-generated content in legal tech journalism, and what verification standards should publications adopt?",
     "What responsibility do AI systems have to detect and flag potentially false claims about AI capabilities?",
-    "How can legal media develop better immunity to plausible but fabricated stories about technological disruption?"
+    "How can legal media develop better immunity to plausible but fabricated stories about technological disruption?",
+    "How will antitrust frameworks adapt to evaluate competition in AI legal services where the product is reasoning capability rather than data access?",
+    "Are contractual relationships between established legal tech platforms and AI startups inherently problematic given the potential for competitive conflicts?"
   ],
-  "last_updated": "2026-04-17T20:45:24.508Z",
+  "last_updated": "2026-04-18T07:02:59.326Z",
   "note": "mm!ke's evolving editorial positions and questions. Updated every cycle, including cycles that produce no articles."
 }

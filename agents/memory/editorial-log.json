@@ -162,8 +162,45 @@
           "incumbents"
         ]
       }
+    },
+    {
+      "title": "Alexi Fires Back at Fastcase with Anticompetitive Counterclaims Following Clio's $1B Acquisition",
+      "slug": "alexi-fires-back-at-fastcase-with-anticompetitive-counterclaims-following-clio-s",
+      "category": "Legal Tech",
+      "staging": "amber",
+      "summary": "Legal AI startup Alexi countersues Clio-owned Fastcase, alleging the contract dispute is a pretext to eliminate competition in the AI legal research market",
+      "publishDate": "2026-04-18",
+      "sources": "[",
+      "serves_50_percent": false,
+      "fingerprint": {
+        "entities": [
+          "clio",
+          "vlex"
+        ],
+        "numerics": [
+          "8k",
+          "1bn"
+        ],
+        "keywords": [
+          "legal tech"
+        ],
+        "title_tokens": [
+          "alexi",
+          "fires",
+          "back",
+          "fastcase",
+          "lawsuit",
+          "counterclaims",
+          "alleging",
+          "anticompetitive",
+          "conduct",
+          "following",
+          "clio",
+          "acquisition"
+        ]
+      }
     }
   ],
-  "last_updated": "2026-04-17T20:45:24.508Z",
+  "last_updated": "2026-04-18T07:02:59.327Z",
   "note": "Populated automatically by the editorial cycle. Each entry records a story drafted, published, or killed."
 }

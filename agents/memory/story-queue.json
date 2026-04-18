@@ -1105,9 +1105,10 @@
       "triage_verdict": "enqueue",
       "triage_run": "2026-04-17T13:49:07.977Z",
       "queued_at": "2026-04-17T13:49:07.982Z",
-      "status": "pending",
-      "claimed_by": null,
-      "claimed_at": null
+      "status": "published",
+      "claimed_by": "mmike",
+      "claimed_at": "2026-04-18T07:01:25.997Z",
+      "published_at": "2026-04-18T07:02:59.325Z"
     },
     {
       "title": "Juro Goes Direct to ChatGPT For Contract AI - Artificial Lawyer",
@@ -1277,5 +1278,5 @@
       "claimed_at": null
     }
   ],
-  "last_updated": "2026-04-17T20:45:24.507Z"
+  "last_updated": "2026-04-18T07:02:59.325Z"
 }
