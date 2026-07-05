@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-05T19:35:55.230Z",
+  "generated": "2026-07-05T22:09:33.409Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 1024,
+  "total_scanned": 973,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -41,6 +41,18 @@
       "source_tier": "B",
       "source_category": "Legal operations",
       "relevance_score": 12
+    },
+    {
+      "title": "Tell HN: I don't trust Bigco AI agents with AI research IP",
+      "url": "https://news.ycombinator.com/item?id=48798385",
+      "summary": "I am very paranoid about sharing potential AI research with e.g. Claude [Code] or ChatGPT/Codex. I believe that any company is essentially a paperclip optimizer that will do whatever it takes to win over competition. AI companies have access to the IP of millions of AI researchers and AI startups who are in direct competition with them. If they can use this data to squash competition (either competition from the same researchers or from others), I believe that they will use if eventually (if not",
+      "published": "2026-07-05T22:08:30.000Z",
+      "source_id": "hacker-news",
+      "source_name": "Hacker News (filtered)",
+      "source_priority": "low",
+      "source_tier": "B",
+      "source_category": "Community",
+      "relevance_score": 11
     },
     {
       "title": "On LawNext: Legal Research for Everyone: Inside the CourtListener-Claude Partnership",
@@ -237,7 +249,7 @@
     {
       "title": "Turn Your AI Agent into an MCP Server for ChatGPT, Claude and Cursor",
       "url": "https://quickchat.ai/post/expose-ai-agent-as-mcp-server",
-      "summary": "Article URL: https://quickchat.ai/post/expose-ai-agent-as-mcp-server Comments URL: https://news.ycombinator.com/item?id=48797219 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://quickchat.ai/post/expose-ai-agent-as-mcp-server Comments URL: https://news.ycombinator.com/item?id=48797219 Points: 5 # Comments: 0",
       "published": "2026-07-05T19:31:50.000Z",
       "source_id": "hacker-news",
       "source_name": "Hacker News (filtered)",
@@ -319,10 +331,10 @@
       "relevance_score": 7
     },
     {
-      "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
-      "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
-      "summary": "Article URL: https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf Comments URL: https://news.ycombinator.com/item?id=48796817 Points: 30 # Comments: 9",
-      "published": "2026-07-05T18:47:43.000Z",
+      "title": "OpenAI is fast-tracking its own \"AI Agent Phone\" for 2027 to challenge iPhone",
+      "url": "https://old.reddit.com/r/OpenAI/comments/1unbqyd/openai_is_fasttracking_its_own_ai_agent_phone_for/",
+      "summary": "Article URL: https://old.reddit.com/r/OpenAI/comments/1unbqyd/openai_is_fasttracking_its_own_ai_agent_phone_for/ Comments URL: https://news.ycombinator.com/item?id=48797756 Points: 5 # Comments: 2",
+      "published": "2026-07-05T20:41:35.000Z",
       "source_id": "hacker-news",
       "source_name": "Hacker News (filtered)",
       "source_priority": "low",
@@ -331,10 +343,10 @@
       "relevance_score": 7
     },
     {
-      "title": "People Who Will Thrive in the AI Age",
-      "url": "https://www.theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689/",
-      "summary": "Article URL: https://www.theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689/ Comments URL: https://news.ycombinator.com/item?id=48795543 Points: 4 # Comments: 4",
-      "published": "2026-07-05T16:32:35.000Z",
+      "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+      "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+      "summary": "Article URL: https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf Comments URL: https://news.ycombinator.com/item?id=48796817 Points: 95 # Comments: 58",
+      "published": "2026-07-05T18:47:43.000Z",
       "source_id": "hacker-news",
       "source_name": "Hacker News (filtered)",
       "source_priority": "low",
@@ -403,18 +415,6 @@
       "relevance_score": 6
     },
     {
-      "title": ":Harvey:’s iManage Integration - Harvey",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NWWt2LTZETkl6M2txVzBjWUd6SUJnYWZwN2NKYmJpXy1GS2pDUlc4Y2lNazJFRTYyYWc3MGhXQU1STHVDa2hLWE9rV000a0dkQUQzaXRpdEZ5UlVDTFhDSTEwMGM?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NWWt2LTZETkl6M2txVzBjWUd6SUJnYWZwN2NKYmJpXy1GS2pDUlc4Y2lNazJFRTYyYWc3MGhXQU1STHVDa2hLWE9rV000a0dkQUQzaXRpdEZ5UlVDTFhDSTEwMGM?oc=5\" target=\"_blank\"&gt;:Harvey:’s iManage Integration&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
-      "published": "2025-08-11T07:00:00.000Z",
-      "source_id": "google-news-harvey-luminance",
-      "source_name": "Google News: Harvey OR Luminance",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
-    },
-    {
       "title": "Someone is Smoking Crack, or Harvey AI is Just a Proxy to Participate in an OpenAI $1 Trillion IPO? - Medium",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdTUxWl9Vcno3OFNsblRLb0YyVC1uS20xR256VDRpTnV0RFNWZ3gxREx5S3FGRk4zeV9LXzlOMDVubm1VWEJVMXdZQWluNklWaF9ObTRpaTJNbUtDUUduQ3RPV25xVGd0UXRkRjRNa1BzYzVqTXZua0FUYXpRZDNmN1FKNGpEbUN5YVh4V01HYkZITXpyVWtyYU91LTVnTWpyeFcxN2p3cTVkNWF0SzNUMzRDWDM1c29hU3JrWEE2VFRxay1Nc0R1WWlLb2hodkNSczVtTllnUHJ1a2x1?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdTUxWl9Vcno3OFNsblRLb0YyVC1uS20xR256VDRpTnV0RFNWZ3gxREx5S3FGRk4zeV9LXzlOMDVubm1VWEJVMXdZQWluNklWaF9ObTRpaTJNbUtDUUduQ3RPV25xVGd0UXRkRjRNa1BzYzVqTXZua0FUYXpRZDNmN1FKNGpEbUN5YVh4V01HYkZITXpyVWtyYU91LTVnTWpyeFcxN2p3cTVkNWF0SzNUMzRDWDM1c29hU3JrWEE2VFRxay1Nc0R1WWlLb2hodkNSczVtTllnUHJ1a2x1?oc=5\" target=\"_blank\"&gt;Someone is Smoking Crack, or Harvey AI is Just a Proxy to Participate in an OpenAI $1 Trillion IPO?&lt;/a&gt;&amp;nbsp;&amp;n",
@@ -427,10 +427,34 @@
       "relevance_score": 6
     },
     {
+      "title": ":Harvey:’s iManage Integration - Harvey",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NWWt2LTZETkl6M2txVzBjWUd6SUJnYWZwN2NKYmJpXy1GS2pDUlc4Y2lNazJFRTYyYWc3MGhXQU1STHVDa2hLWE9rV000a0dkQUQzaXRpdEZ5UlVDTFhDSTEwMGM?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NWWt2LTZETkl6M2txVzBjWUd6SUJnYWZwN2NKYmJpXy1GS2pDUlc4Y2lNazJFRTYyYWc3MGhXQU1STHVDa2hLWE9rV000a0dkQUQzaXRpdEZ5UlVDTFhDSTEwMGM?oc=5\" target=\"_blank\"&gt;:Harvey:’s iManage Integration&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
+      "published": "2025-08-11T07:00:00.000Z",
+      "source_id": "google-news-harvey-luminance",
+      "source_name": "Google News: Harvey OR Luminance",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
+    },
+    {
       "title": "Preview: Access :Harvey:, Wherever You’re Working - Harvey",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0djUyLXFEbzcwVDBaN3k4T0FOX0pBTzRyLXBka01pN2VhYlFqTEdaVkxsYUM1aUVsb0FMUm9pVElZUUNVdXE3SU1vd3Z5RlVURFhmR0RMVFlJQmtZMW5Oa0VB?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0djUyLXFEbzcwVDBaN3k4T0FOX0pBTzRyLXBka01pN2VhYlFqTEdaVkxsYUM1aUVsb0FMUm9pVElZUUNVdXE3SU1vd3Z5RlVURFhmR0RMVFlJQmtZMW5Oa0VB?oc=5\" target=\"_blank\"&gt;Preview: Access :Harvey:, Wherever You’re Working&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
       "published": "2025-09-10T07:00:00.000Z",
+      "source_id": "google-news-harvey-luminance",
+      "source_name": "Google News: Harvey OR Luminance",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
+    },
+    {
+      "title": "Harvey AI will speed up 'diligence' and transform the economy in different ways: Harvey AI CEO - Fox Business",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGZzVJbmVJeTVpQjU0TTFfNDY1eEdDdThXb2lyT25sYlpuajc5NDdTSzFzSVYwMEhxdnhMTUc4Sll5amFBb3JPN3VOaU5zYTZQS1JoRVJDcTVsSGM?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGZzVJbmVJeTVpQjU0TTFfNDY1eEdDdThXb2lyT25sYlpuajc5NDdTSzFzSVYwMEhxdnhMTUc4Sll5amFBb3JPN3VOaU5zYTZQS1JoRVJDcTVsSGM?oc=5\" target=\"_blank\"&gt;Harvey AI will speed up 'diligence' and transform the economy in different ways: Harvey AI CEO&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Fox Business&lt;/font&gt;",
+      "published": "2026-04-20T07:00:00.000Z",
       "source_id": "google-news-harvey-luminance",
       "source_name": "Google News: Harvey OR Luminance",
       "source_priority": "critical",
@@ -455,30 +479,6 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNVRaTmNLME8ydnc5d1FmeWhSUjdhTDg2dmdqR28wQ2lwSzBJbTYtTU5XekVsTWdaLVE3N2hJQlU2bEVRWlNhVG1GRTlab0c4Zko3UmtZamxkRGw2WTNlRkU1X05LZEE3OEpkbEtkdldrNFRJVnlPcFZlVDRVbElnbExXVk9zenVfOFh3QWNORTdIQVQxQnBuUW84NA?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPNVRaTmNLME8ydnc5d1FmeWhSUjdhTDg2dmdqR28wQ2lwSzBJbTYtTU5XekVsTWdaLVE3N2hJQlU2bEVRWlNhVG1GRTlab0c4Zko3UmtZamxkRGw2WTNlRkU1X05LZEE3OEpkbEtkdldrNFRJVnlPcFZlVDRVbElnbExXVk9zenVfOFh3QWNORTdIQVQxQnBuUW84NA?oc=5\" target=\"_blank\"&gt;Spellbook Raises $50m + CEO, Scott Stevenson Interview&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
       "published": "2025-10-09T07:00:00.000Z",
-      "source_id": "google-news-contract-ai",
-      "source_name": "Google News: contract AI",
-      "source_priority": "medium",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
-    },
-    {
-      "title": "Spellbook CEO Scott Stevenson exposes inflated ARR practices among AI startups - Crypto Briefing",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBnT3VzYkcxWXNlV1ZHclJyTzJLMEVIUjVUdGt3ZzJOY3JHNmNHNTlKMVc3RkpmbzdZaHlQWFJydXdrOHY0QnZ1VzhMQldYUkhQTmZuXy1Ya2ZRcnVFM0VzVDJZSHNoVG1Ud0dDWVBxc19WejRl?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBnT3VzYkcxWXNlV1ZHclJyTzJLMEVIUjVUdGt3ZzJOY3JHNmNHNTlKMVc3RkpmbzdZaHlQWFJydXdrOHY0QnZ1VzhMQldYUkhQTmZuXy1Ya2ZRcnVFM0VzVDJZSHNoVG1Ud0dDWVBxc19WejRl?oc=5\" target=\"_blank\"&gt;Spellbook CEO Scott Stevenson exposes inflated ARR practices among AI startups&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Crypto Briefing&lt;/font&gt;",
-      "published": "2026-05-22T07:00:00.000Z",
-      "source_id": "google-news-contract-ai",
-      "source_name": "Google News: contract AI",
-      "source_priority": "medium",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
-    },
-    {
-      "title": "This Open Source RP2040 Development Board Looks Like a Magic Spellbook - Hackster.io",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORnVSUlF6azgxa3lnMFFGVmU2dWdTeWRSOE1MV0JtdkViWVNhWkozazFKdy1Xb1FlS3RaTVRxeHExODhPdi1QY2I0UFVPMDdxX2hFdmpUUE5qeFpiX0xrNktLbUZ0Qm96ckY0UlI0enkyTmZVYmpQZmN2b3ByMV9zWnlGVFRnc3ZYLWdHQWdVU3U5WFJLb05YV2E0NlQzWHZCdUNXb2xnMmlsZnNtdzNhdnZ30gG3AUFVX3lxTE5FaHA3Szl0Z2N0ZWUySEJxOFVKUjdGeFdWcF96YUFqdXJpT2VJOG1pcUhwOXgtLWlHOWFXTGhxVVRJeTdZT21mLTJ3cmlydFJMT1hOX3ZhcDFkaUU5MWc5Z1FWV3Z1c2VFLU5pejVmai1Pa19hVUZ5ekc0YnFwWGlSWk9xbndOWVNTVm5FWUFkRE1DQjdoc0RiVnZFb0VjcU1PTS1QNkd4eHExV2ZwLUFVYVhHcHVqZw?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxORnVSUlF6azgxa3lnMFFGVmU2dWdTeWRSOE1MV0JtdkViWVNhWkozazFKdy1Xb1FlS3RaTVRxeHExODhPdi1QY2I0UFVPMDdxX2hFdmpUUE5qeFpiX0xrNktLbUZ0Qm96ckY0UlI0enkyTmZVYmpQZmN2b3ByMV9zWnlGVFRnc3ZYLWdHQWdVU3U5WFJLb05YV2E0NlQzWHZCdUNXb2xnMmlsZnNtdzNhdnZ30gG3AUFVX3lxTE5FaHA3Szl0Z2N0ZWUySEJxOFVKUjdGeFdWcF96YUFqdXJpT2VJOG1pcUhwOXgtLWlHOWFXTGhxVVRJeTdZT21mLTJ3cmlydFJMT1hOX3ZhcDFkaUU5MWc5Z1FWV3Z1c2VFLU5pejVmai1Pa19hVUZ5ekc0YnFwWGlSWk9xbndOWVNTVm5FWUFkRE1DQjdoc0R",
-      "published": "2026-05-28T17:23:48.000Z",
       "source_id": "google-news-contract-ai",
       "source_name": "Google News: contract AI",
       "source_priority": "medium",
