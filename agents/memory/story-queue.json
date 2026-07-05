@@ -1331,7 +1331,179 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "Spellbook Raises $50m + CEO, Scott Stevenson Interview - Artificial Lawyer",
+      "slug": "spellbook-raises-50m-ceo-scott-stevenson-interview-artificial-lawyer",
+      "score": 8,
+      "category": "Funding",
+      "story_type": "news",
+      "research_brief": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPNVRaTmNLME8ydnc5d1FmeWhSUjdhTDg2dmdqR28wQ2lwSzBJbTYtTU5XekVsTWdaLVE3N2hJQlU2bEVRWlNhVG1GRTlab0c4Zko3UmtZamxkRGw2WTNlRkU1X05LZEE3OEpkbEtkdldrNFRJVnlPcFZlVDRVbElnbExXVk9zenVfOFh3QWNORTdIQVQxQnBuUW84NA?oc=5\" target=\"_blank\"&gt;Spellbook Raises $50m + CEO, Scott Stevenson Interview&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
+      "primary_source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNVRaTmNLME8ydnc5d1FmeWhSUjdhTDg2dmdqR28wQ2lwSzBJbTYtTU5XekVsTWdaLVE3N2hJQlU2bEVRWlNhVG1GRTlab0c4Zko3UmtZamxkRGw2WTNlRkU1X05LZEE3OEpkbEtkdldrNFRJVnlPcFZlVDRVbElnbExXVk9zenVfOFh3QWNORTdIQVQxQnBuUW84NA?oc=5",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "Spellbook raises $50M Series B; CEO interview signals market inflection in contract AI",
+      "why_now": "Watch-list company funding round with primary source interview from Artificial Lawyer (tier A); validates consolidation narrative from lawsites-0",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Google News: contract AI",
+      "source_tier": "A",
+      "prefilter_score": 12,
+      "matched_terms": [
+        "Spellbook",
+        "Eve"
+      ],
+      "fingerprint": {
+        "entities": [
+          "spellbook",
+          "eve"
+        ],
+        "numerics": [
+          "50m",
+          "2bn"
+        ],
+        "keywords": [],
+        "title_tokens": [
+          "spellbook",
+          "raises",
+          "scott",
+          "stevenson",
+          "interview",
+          "artificial",
+          "lawyer"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-07-05T16:15:22.251Z",
+      "queued_at": "2026-07-05T16:15:22.255Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
+    },
+    {
+      "title": "Thomson Reuters Opens Early Access to the &#8216;Next Generation&#8217; of CoCounsel Legal, Saying Beta Users ‘F#@%ing Loved’ the Product",
+      "slug": "thomson-reuters-opens-early-access-to-the-8216-next-generation-8217-of-cocounsel",
+      "score": 8,
+      "category": "Legal AI",
+      "story_type": "news",
+      "research_brief": "Thomson Reuters is opening early access this week to what it calls the next generation of CoCounsel Legal, the most substantial reworking of its flagship legal AI assistant since the company acquired the product as part of its 2023 purchase of Casetext — and, just as notably, a shift in how the company describes what [&#8230;]",
+      "primary_source": "https://www.lawnext.com/2026/06/thomson-reuters-opens-early-access-to-the-next-generation-of-cocounsel-legal-saying-beta-users-fing-loved-the-product.html",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "Thomson Reuters releases next-generation CoCounsel with major product rework; signals renewed competitive intensity post-Casetext integration",
+      "why_now": "Major vendor product launch from watch-list company; substantive product iteration news with market signalling; LawSites (tier B critical) primary coverage",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "LawSites (Bob Ambrogi)",
+      "source_tier": "B",
+      "prefilter_score": 11,
+      "matched_terms": [
+        "legal AI",
+        "CoCounsel",
+        "Casetext"
+      ],
+      "fingerprint": {
+        "entities": [
+          "cocounsel",
+          "casetext"
+        ],
+        "numerics": [
+          "8k",
+          "2023y"
+        ],
+        "keywords": [
+          "legal ai"
+        ],
+        "title_tokens": [
+          "thomson",
+          "reuters",
+          "opens",
+          "early",
+          "access",
+          "next",
+          "generation",
+          "cocounsel",
+          "legal",
+          "saying",
+          "beta",
+          "users",
+          "loved",
+          "product"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-07-05T16:15:22.256Z",
+      "queued_at": "2026-07-05T16:15:22.262Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
+    },
+    {
+      "title": "Relativity Acquires Document Automation Company Gavel, Extending Its Legal Data Platform Into Word",
+      "slug": "relativity-acquires-document-automation-company-gavel-extending-its-legal-data-p",
+      "score": 7,
+      "category": "Legal AI",
+      "story_type": "news",
+      "research_brief": "Relativity, the Chicago-based legal data intelligence company best known for the e-discovery and litigation platform RelativityOne, has acquired Gavel, the Los Angeles-based document automation and AI drafting company founded by Dorna Moini (pictured above). Relativity said the move will enable it to extend Relativity&#8217;s AI platform into the place where lawyers actually write, Microsoft Word. [&#8230;]",
+      "primary_source": "https://www.lawnext.com/2026/06/relativity-acquires-document-automation-company-gavel-extending-its-legal-data-platform-into-word.html",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "Major e-discovery platform Relativity moves into document automation and contract drafting via Gavel acquisition",
+      "why_now": "Significant M&A consolidation: established legal data incumbent absorbs AI drafting capability; watch-list company on editorial radar",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "LawSites (Bob Ambrogi)",
+      "source_tier": "B",
+      "prefilter_score": 12,
+      "matched_terms": [
+        "document automation",
+        "e-discovery",
+        "Relativity"
+      ],
+      "fingerprint": {
+        "entities": [
+          "relativity"
+        ],
+        "numerics": [
+          "8k"
+        ],
+        "keywords": [
+          "document automation",
+          "e-discovery"
+        ],
+        "title_tokens": [
+          "relativity",
+          "acquires",
+          "document",
+          "automation",
+          "company",
+          "gavel",
+          "extending",
+          "legal",
+          "data",
+          "platform",
+          "word"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-07-05T16:15:22.263Z",
+      "queued_at": "2026-07-05T16:15:22.269Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-04-18T20:32:50.524Z"
+  "last_updated": "2026-07-05T16:15:22.269Z"
 }

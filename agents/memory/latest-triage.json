@@ -1,206 +1,71 @@
 {
-  "generated": "2026-05-09T15:59:53.019Z",
+  "generated": "2026-07-05T16:15:22.269Z",
   "cycle_type": "triage",
   "tier_filter": null,
-  "shortlist_size": 19,
+  "shortlist_size": 4,
   "prefilter": {
     "total": 40,
-    "accepted": 19,
+    "accepted": 4,
     "borderline": 0,
-    "rejected": 21,
-    "rejected_as_duplicate": 21,
-    "accept_rate": 48
+    "rejected": 36,
+    "rejected_as_duplicate": 36,
+    "accept_rate": 10
   },
   "model": "claude-haiku-4-5-20251001",
   "picks": [
     {
       "id": "lawsites-0",
-      "score": 6,
-      "category": "Legal Tech",
-      "suggested_angle": "Universal Migrator expands DMS migration scripts; tool maturity signals market consolidation.",
-      "why_now": "Product roadmap expansion by a legal tech infra vendor; demonstrates ongoing consolidation around iManage/NetDocuments.",
-      "verdict": "watch",
+      "score": 7,
+      "category": "Legal AI",
+      "suggested_angle": "Major e-discovery platform Relativity moves into document automation and contract drafting via Gavel acquisition",
+      "why_now": "Significant M&A consolidation: established legal data incumbent absorbs AI drafting capability; watch-list company on editorial radar",
+      "verdict": "enqueue",
       "duplicate_of": null
     },
     {
-      "id": "lawsites-1",
+      "id": "google-news-contract-ai-1",
+      "score": 8,
+      "category": "Funding",
+      "suggested_angle": "Spellbook raises $50M Series B; CEO interview signals market inflection in contract AI",
+      "why_now": "Watch-list company funding round with primary source interview from Artificial Lawyer (tier A); validates consolidation narrative from lawsites-0",
+      "verdict": "enqueue",
+      "duplicate_of": null
+    },
+    {
+      "id": "google-news-contract-ai-2",
       "score": 4,
-      "category": "Legal Tech",
-      "suggested_angle": "Universal Migrator cuts pricing on DMS migration tools.",
-      "why_now": "Pricing announcement; lower signal value than product expansion.",
-      "verdict": "drop",
-      "duplicate_of": "lawsites-0"
-    },
-    {
-      "id": "arxiv-cs-ai-2",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": null,
-      "why_now": "Biomedical research unrelated to legal AI or legal tech.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "hacker-news-3",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": null,
-      "why_now": "Generic AI capabilities essay; no legal angle, low engagement.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-4",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": null,
-      "why_now": "Educational LLM use case unrelated to legal AI.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "hacker-news-5",
-      "score": 1,
-      "category": "Research",
-      "suggested_angle": null,
-      "why_now": "CAD tool benchmarking; no legal relevance.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-6",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": null,
-      "why_now": "Educational autograding system; mentions FERPA but not a legal tech story.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-7",
-      "score": 1,
-      "category": "Research",
-      "suggested_angle": null,
-      "why_now": "Reinforcement learning transfer research unrelated to legal.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-8",
-      "score": 1,
-      "category": "Research",
-      "suggested_angle": null,
-      "why_now": "Dietary monitoring with multimodal LLMs; no legal relevance.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-9",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": null,
-      "why_now": "Biomedical research application; no legal connection despite keyword match.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-10",
-      "score": 1,
-      "category": "Research",
-      "suggested_angle": null,
-      "why_now": "Mathematics research assistant; no legal relevance.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "ars-technica-ai-11",
-      "score": 2,
-      "category": "Social",
-      "suggested_angle": null,
-      "why_now": "AI toys regulation debate; not legal AI or legal tech.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-12",
-      "score": 3,
-      "category": "Research",
-      "suggested_angle": "LLM sycophancy as alignment failure; implications for legal AI reliability.",
-      "why_now": "Foundational AI safety research; tangential to legal AI robustness but not directly actionable.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-13",
-      "score": 4,
-      "category": "Research",
-      "suggested_angle": "Production RAG system for banking; accuracy and compliance patterns transferable to legal.",
-      "why_now": "Domain-adjacent research on regulated-sector LLM deployment with grounding techniques.",
+      "category": "Legal AI",
+      "suggested_angle": "Spellbook CEO criticises inflated ARR metrics among AI startups",
+      "why_now": "Commentary on industry hype; lower value than the funding announcement itself",
       "verdict": "watch",
-      "duplicate_of": null
+      "duplicate_of": "google-news-contract-ai-1"
     },
     {
-      "id": "arxiv-cs-ai-14",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": null,
-      "why_now": "LLM reasoning optimization; generic AI research without legal application.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-15",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": null,
-      "why_now": "Agent memory architecture research; not legal-specific.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-16",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": null,
-      "why_now": "Multimodal LLM internals research; no legal application.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-17",
-      "score": 3,
-      "category": "Research",
-      "suggested_angle": "RAG verification framework via text-graph fusion; relevant to legal document retrieval.",
-      "why_now": "Foundational RAG improvement applicable to legal discovery and case research, but pre-competitive.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-18",
-      "score": 1,
-      "category": "Research",
-      "suggested_angle": null,
-      "why_now": "LLM quantization technique; infrastructure research without legal angle.",
-      "verdict": "drop",
+      "id": "lawsites-3",
+      "score": 8,
+      "category": "Legal AI",
+      "suggested_angle": "Thomson Reuters releases next-generation CoCounsel with major product rework; signals renewed competitive intensity post-Casetext integration",
+      "why_now": "Major vendor product launch from watch-list company; substantive product iteration news with market signalling; LawSites (tier B critical) primary coverage",
+      "verdict": "enqueue",
       "duplicate_of": null
     }
   ],
   "summary": {
-    "enqueue_count": 0,
-    "watch_count": 2,
-    "drop_count": 17,
-    "notes": "Shortlist dominated by generic AI research papers with weak keyword matches. lawsites-0 warrants editor time (DMS consolidation signal). arxiv-cs-ai-13 (FinRAG) borderline for compliance + accuracy angle. No funding rounds, regulator statements, or named watch-list company moves detected."
+    "enqueue_count": 3,
+    "watch_count": 1,
+    "drop_count": 0,
+    "notes": "Three strong picks covering M&A (Relativity/Gavel), funding (Spellbook $50M), and product iteration (CoCounsel next-gen); google-news-contract-ai-2 is derivative commentary on the same funding round."
   },
-  "enqueued": 0,
+  "enqueued": 3,
   "usage": {
-    "input_tokens": 5491,
+    "input_tokens": 3467,
     "cache_creation_input_tokens": 0,
     "cache_read_input_tokens": 0,
     "cache_creation": {
       "ephemeral_5m_input_tokens": 0,
       "ephemeral_1h_input_tokens": 0
     },
-    "output_tokens": 1815,
+    "output_tokens": 603,
     "service_tier": "standard",
     "inference_geo": "not_available"
   }
