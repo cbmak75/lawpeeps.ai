@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-05T16:15:15.463Z",
+  "generated": "2026-07-05T19:35:55.230Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 1023,
+  "total_scanned": 1024,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -235,6 +235,18 @@
       "relevance_score": 8
     },
     {
+      "title": "Turn Your AI Agent into an MCP Server for ChatGPT, Claude and Cursor",
+      "url": "https://quickchat.ai/post/expose-ai-agent-as-mcp-server",
+      "summary": "Article URL: https://quickchat.ai/post/expose-ai-agent-as-mcp-server Comments URL: https://news.ycombinator.com/item?id=48797219 Points: 1 # Comments: 0",
+      "published": "2026-07-05T19:31:50.000Z",
+      "source_id": "hacker-news",
+      "source_name": "Hacker News (filtered)",
+      "source_priority": "low",
+      "source_tier": "B",
+      "source_category": "Community",
+      "relevance_score": 8
+    },
+    {
       "title": "The Legal AI Scaffold Changes Everything – Claude Study - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQU4tdGFPSGFaaGo0NGRvdnhxMUhYQ3pSd18td3lld2ZRd2xiQkVwWUQ0Z1lhR3IwdGstdE5STUVBTzdqdkxvbnhWUTVwZ0Y5MDNqT1hHV0RDUGVldzI5R2JrdEtaZ2NfYWNDVERjN1o5QWFqeGFTTEp6VDB1S19id3VoOUZUbzQ0eDdwNzJHNzdvYzRNWUh5cFV6UnhXOE0?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNQU4tdGFPSGFaaGo0NGRvdnhxMUhYQ3pSd18td3lld2ZRd2xiQkVwWUQ0Z1lhR3IwdGstdE5STUVBTzdqdkxvbnhWUTVwZ0Y5MDNqT1hHV0RDUGVldzI5R2JrdEtaZ2NfYWNDVERjN1o5QWFqeGFTTEp6VDB1S19id3VoOUZUbzQ0eDdwNzJHNzdvYzRNWUh5cFV6UnhXOE0?oc=5\" target=\"_blank\"&gt;The Legal AI Scaffold Changes Everything – Claude Study&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
@@ -307,10 +319,22 @@
       "relevance_score": 7
     },
     {
-      "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
-      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence Comments URL: https://news.ycombinator.com/item?id=48794667 Points: 3 # Comments: 1",
-      "published": "2026-07-05T14:44:19.000Z",
+      "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+      "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+      "summary": "Article URL: https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf Comments URL: https://news.ycombinator.com/item?id=48796817 Points: 30 # Comments: 9",
+      "published": "2026-07-05T18:47:43.000Z",
+      "source_id": "hacker-news",
+      "source_name": "Hacker News (filtered)",
+      "source_priority": "low",
+      "source_tier": "B",
+      "source_category": "Community",
+      "relevance_score": 7
+    },
+    {
+      "title": "People Who Will Thrive in the AI Age",
+      "url": "https://www.theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689/",
+      "summary": "Article URL: https://www.theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689/ Comments URL: https://news.ycombinator.com/item?id=48795543 Points: 4 # Comments: 4",
+      "published": "2026-07-05T16:32:35.000Z",
       "source_id": "hacker-news",
       "source_name": "Hacker News (filtered)",
       "source_priority": "low",
@@ -460,30 +484,6 @@
       "source_priority": "medium",
       "source_tier": "A",
       "source_category": "Aggregator",
-      "relevance_score": 6
-    },
-    {
-      "title": "Spellbook on Track for US$100M ARR this Year - Entrevestor",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb2lLTkhTTHVGSU91QS11bk1xWUFwZmZBSHZaQ2ZNVzBhUlBFTWFVa0xQdFVzdmFpRjRLNl80aDFkUGZFTUl0VGxvSWlvTzZYX09rMEJTel9sZnVxbVJPQ1pDNW00Tk9wNEVzYTQ1bTJydjc3OVlpc3UzZm1rSjdOWUhEUHItVERj?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb2lLTkhTTHVGSU91QS11bk1xWUFwZmZBSHZaQ2ZNVzBhUlBFTWFVa0xQdFVzdmFpRjRLNl80aDFkUGZFTUl0VGxvSWlvTzZYX09rMEJTel9sZnVxbVJPQ1pDNW00Tk9wNEVzYTQ1bTJydjc3OVlpc3UzZm1rSjdOWUhEUHItVERj?oc=5\" target=\"_blank\"&gt;Spellbook on Track for US$100M ARR this Year&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Entrevestor&lt;/font&gt;",
-      "published": "2026-03-05T06:30:20.000Z",
-      "source_id": "google-news-contract-ai",
-      "source_name": "Google News: contract AI",
-      "source_priority": "medium",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
-    },
-    {
-      "title": "LawNext Podcast: Amy Juers and Valerie Chan on Marketing Legal Tech in the Age of AI Search",
-      "url": "https://www.lawnext.com/2026/06/lawnext-podcast-amy-juers-and-valerie-chan-on-marketing-legal-tech-in-the-age-of-ai-search.html",
-      "summary": "Once upon a time, a legal tech vendor’s goal in getting seen by potential customers was to rank on the first page of Google search. But in the age of AI, that is no longer enough. Now, when a potential buyer asks ChatGPT, Claude or Gemini to recommend a vendor, what matters is whether the [&#8230;]",
-      "published": "2026-06-23T13:42:59.000Z",
-      "source_id": "lawsites",
-      "source_name": "LawSites (Bob Ambrogi)",
-      "source_priority": "critical",
-      "source_tier": "B",
-      "source_category": "Legal tech commentary",
       "relevance_score": 6
     }
   ]
