@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-06T20:08:04.982Z",
+  "generated": "2026-07-06T22:20:50.079Z",
   "cycle_type": "triage",
   "tier_filter": null,
   "shortlist_size": 2,
@@ -14,40 +14,40 @@
   "model": "claude-haiku-4-5-20251001",
   "picks": [
     {
-      "id": "hacker-news-0",
-      "score": 2,
-      "category": "Social",
-      "suggested_angle": "Job listing from legal tech vendor signals hiring momentum",
-      "why_now": "Not newsworthy; job postings are not editorial coverage",
-      "verdict": "drop",
+      "id": "google-news-legal-tech-funding-0",
+      "score": 5,
+      "category": "Funding",
+      "suggested_angle": "Law.com roundup of H1 2026 legal tech funding trends and winners",
+      "why_now": "Mid-year funding recap, but likely aggregation of existing news rather than primary reporting",
+      "verdict": "watch",
       "duplicate_of": null
     },
     {
-      "id": "hacker-news-1",
-      "score": 1,
-      "category": "Social",
-      "suggested_angle": "General AI social network product launch",
-      "why_now": "Out of scope: no legal angle, no legal tech connection, no regulatory relevance",
-      "verdict": "drop",
+      "id": "google-news-legal-tech-funding-1",
+      "score": 5,
+      "category": "Funding",
+      "suggested_angle": "Data-driven analysis of 2026 legal tech investment patterns and market composition",
+      "why_now": "Similar to item 0; appears to be aggregation or analysis of known funding rounds",
+      "verdict": "watch",
       "duplicate_of": null
     }
   ],
   "summary": {
     "enqueue_count": 0,
-    "watch_count": 0,
-    "drop_count": 2,
-    "notes": "Both items are off-topic. Revieve job posting is not news. Botfluencerz is a general AI social network with no legal or legal tech angle."
+    "watch_count": 2,
+    "drop_count": 0,
+    "notes": "Both items are Law.com aggregation/analysis pieces on 2026 legal tech funding. Neither appears to break new funding rounds or regulatory news. Recent coverage already includes broad-spectrum funding analysis (Q1 2026 roundup, three-company consolidation). Recommend requesting primary source URLs before enqueuing; if these are just regurgitation of April data, drop both. Flag for editor review if they contain genuinely new H2 2026 funding intel not in recent coverage."
   },
   "enqueued": 0,
   "usage": {
-    "input_tokens": 2323,
+    "input_tokens": 3066,
     "cache_creation_input_tokens": 0,
     "cache_read_input_tokens": 0,
     "cache_creation": {
       "ephemeral_5m_input_tokens": 0,
       "ephemeral_1h_input_tokens": 0
     },
-    "output_tokens": 285,
+    "output_tokens": 388,
     "service_tier": "standard",
     "inference_geo": "not_available"
   }
