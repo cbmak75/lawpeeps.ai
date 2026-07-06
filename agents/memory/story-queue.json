@@ -1503,7 +1503,52 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "In depth: Lay tribunals to determine asylum appeals",
+      "slug": "in-depth-lay-tribunals-to-determine-asylum-appeals",
+      "score": 7,
+      "category": "Immigration AI",
+      "story_type": "news",
+      "research_brief": "Lawyers are queasy about the home secretary’s plans to enable lay tribunals to determine asylum appeals. The government has not even stipulated what qualifications they will need.",
+      "primary_source": "https://www.lawgazette.co.uk/news-focus/in-depth-lay-tribunals-to-determine-asylum-appeals/5127255.article",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "UK government plans lay tribunals for asylum appeals; lawyers flag lack of qualification standards and expertise risk",
+      "why_now": "Judicial Office / MoJ policy move on asylum determination; directly relevant to immigration law focus; qualification risk mirrors AI accountability concerns",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Law Society Gazette",
+      "source_tier": "B",
+      "prefilter_score": 7,
+      "matched_terms": [
+        "Eve"
+      ],
+      "fingerprint": {
+        "entities": [
+          "eve"
+        ],
+        "numerics": [],
+        "keywords": [],
+        "title_tokens": [
+          "depth",
+          "tribunals",
+          "determine",
+          "asylum",
+          "appeals"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-07-06T04:27:25.352Z",
+      "queued_at": "2026-07-06T04:27:25.358Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-07-05T16:15:22.269Z"
+  "last_updated": "2026-07-06T04:27:25.358Z"
 }

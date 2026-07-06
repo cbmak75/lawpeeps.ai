@@ -1,62 +1,89 @@
 {
-  "generated": "2026-07-05T22:19:44.803Z",
+  "generated": "2026-07-06T04:27:25.359Z",
   "cycle_type": "triage",
   "tier_filter": null,
-  "shortlist_size": 3,
+  "shortlist_size": 6,
   "prefilter": {
     "total": 40,
-    "accepted": 3,
+    "accepted": 6,
     "borderline": 0,
-    "rejected": 37,
-    "rejected_as_duplicate": 37,
-    "accept_rate": 8
+    "rejected": 34,
+    "rejected_as_duplicate": 34,
+    "accept_rate": 15
   },
   "model": "claude-haiku-4-5-20251001",
   "picks": [
     {
       "id": "hacker-news-0",
       "score": 2,
-      "category": "Legal AI",
-      "suggested_angle": "Generic AI agent tooling, not legal-specific",
-      "why_now": "Low relevance to legal AI vertical; general developer infrastructure",
+      "category": "Research",
+      "suggested_angle": "Generic tech essay on AI-native development patterns",
+      "why_now": "Low engagement (1 point, 0 comments), no legal angle, no primary news hook",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
       "id": "hacker-news-1",
       "score": 3,
-      "category": "Legal AI",
-      "suggested_angle": "IP risk in AI research workflows with LLMs",
-      "why_now": "Tangentially relevant to legal AI security/privilege concerns but anecdotal, not primary reporting",
-      "verdict": "watch",
+      "category": "Research",
+      "suggested_angle": "Personal essay on AI-assisted software development workflow",
+      "why_now": "Modest engagement (6 points), anecdotal perspective, tangential to legal AI focus",
+      "verdict": "drop",
       "duplicate_of": null
     },
     {
       "id": "hacker-news-2",
-      "score": 1,
-      "category": "Social",
-      "suggested_angle": "OpenAI hardware strategy; no legal angle",
-      "why_now": "Not relevant to legal AI, legal tech, or regulation focus; Reddit rumour from consumer tech angle",
+      "score": 6,
+      "category": "Legal AI",
+      "suggested_angle": "IP risk warning: using Claude Code and ChatGPT for proprietary AI research poses confidentiality exposure",
+      "why_now": "Directly relevant to law firm AI adoption risk; echoes recent warnings on privilege/confidentiality but adds IP angle; HN discussion format",
+      "verdict": "watch",
+      "duplicate_of": null
+    },
+    {
+      "id": "legal-futures-3",
+      "score": 4,
+      "category": "Legal AI",
+      "suggested_angle": "Law firm culture and change management challenge in era of rapid tech adoption",
+      "why_now": "Soft opinion piece; no hard news, no new data, generic professional development angle",
       "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "legal-futures-4",
+      "score": 3,
+      "category": "Social",
+      "suggested_angle": "Professional indemnity insurance market dynamics (unrelated to AI)",
+      "why_now": "PII savings story unrelated to AI or legal tech innovation; market data but no news hook",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "law-society-gazette-5",
+      "score": 7,
+      "category": "Immigration AI",
+      "suggested_angle": "UK government plans lay tribunals for asylum appeals; lawyers flag lack of qualification standards and expertise risk",
+      "why_now": "Judicial Office / MoJ policy move on asylum determination; directly relevant to immigration law focus; qualification risk mirrors AI accountability concerns",
+      "verdict": "enqueue",
       "duplicate_of": null
     }
   ],
   "summary": {
-    "enqueue_count": 0,
+    "enqueue_count": 1,
     "watch_count": 1,
-    "drop_count": 2,
-    "notes": "All three items are low-signal Hacker News/Reddit tier-B sources outside the legal vertical. hacker-news-1 touches on IP/privilege concerns that echo recent law firm warnings coverage, but lacks primary reporting. None meet publication threshold."
+    "drop_count": 4,
+    "notes": "One solid immigration policy story with regulatory substance (lay tribunals); one IP confidentiality discussion worth monitoring but not yet newsworthy; rest are generic tech commentary or soft opinion with no legal AI hook."
   },
-  "enqueued": 0,
+  "enqueued": 1,
   "usage": {
-    "input_tokens": 2593,
+    "input_tokens": 3009,
     "cache_creation_input_tokens": 0,
     "cache_read_input_tokens": 0,
     "cache_creation": {
       "ephemeral_5m_input_tokens": 0,
       "ephemeral_1h_input_tokens": 0
     },
-    "output_tokens": 407,
+    "output_tokens": 739,
     "service_tier": "standard",
     "inference_geo": "not_available"
   }
