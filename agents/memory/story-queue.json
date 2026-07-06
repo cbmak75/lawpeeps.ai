@@ -1548,7 +1548,65 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "The AI bill is coming for law firms: innovation chiefs prepare for price rises - The Lawyer",
+      "slug": "the-ai-bill-is-coming-for-law-firms-innovation-chiefs-prepare-for-price-rises-th",
+      "score": 7,
+      "category": "Legal AI",
+      "story_type": "news",
+      "research_brief": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNTFlGbmU1dk5JbGNvQm9mZ3ZCdHVYdWhrNm54dUpKMEVaVEg4ZnVadEl1bUo2T0JkLWJGdldTOUdVb09PR3FBeThZVWN6VDREblNrTnVxU1FibnFPU0Myd3BrN2lLMXBGYVZrdG80WUtaYzdwZTFTREs0V1Z5bmR6Q0RVdk92YjJRRGptU2F3TzZ5Q3dVa0JQQ2dVcGxxM3VTSFE1VlR4QQ?oc=5\" target=\"_blank\"&gt;The AI bill is coming for law firms: innovation chiefs prepare for price rises&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Lawyer&lt;/font&gt;",
+      "primary_source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTFlGbmU1dk5JbGNvQm9mZ3ZCdHVYdWhrNm54dUpKMEVaVEg4ZnVadEl1bUo2T0JkLWJGdldTOUdVb09PR3FBeThZVWN6VDREblNrTnVxU1FibnFPU0Myd3BrN2lLMXBGYVZrdG80WUtaYzdwZTFTREs0V1Z5bmR6Q0RVdk92YjJRRGptU2F3TzZ5Q3dVa0JQQ2dVcGxxM3VTSFE1VlR4QQ?oc=5",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "UK law firms brace for cost and compliance impact as AI regulation tightens",
+      "why_now": "The Lawyer reporting on innovation chiefs preparing for regulatory price rises on AI tools; primary source from tier A legal press with UK focus",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Google News: legal AI",
+      "source_tier": "A",
+      "prefilter_score": 10,
+      "matched_terms": [
+        "LLM",
+        "GPT"
+      ],
+      "fingerprint": {
+        "entities": [],
+        "numerics": [
+          "9m",
+          "1bn",
+          "0m",
+          "3bn",
+          "5bn"
+        ],
+        "keywords": [
+          "llm",
+          "gpt"
+        ],
+        "title_tokens": [
+          "ai",
+          "bill",
+          "coming",
+          "firms",
+          "innovation",
+          "chiefs",
+          "prepare",
+          "price",
+          "rises",
+          "lawyer"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-07-06T15:51:03.350Z",
+      "queued_at": "2026-07-06T15:51:03.355Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-07-06T04:27:25.358Z"
+  "last_updated": "2026-07-06T15:51:03.355Z"
 }
