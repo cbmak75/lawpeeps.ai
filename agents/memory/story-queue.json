@@ -1606,7 +1606,60 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "Harbor Acquires iTrain for Legal AI Education",
+      "slug": "harbor-acquires-itrain-for-legal-ai-education",
+      "score": 7,
+      "category": "Legal Tech",
+      "story_type": "news",
+      "research_brief": "Harbor, the legal tech services group, has bought iTrain, which focuses on tech training, including AI enablement. It maintains strategic partnerships with Aderant, iManage, NetDocuments, ...",
+      "primary_source": "https://www.artificiallawyer.com/2026/07/07/harbor-acquires-itrain-for-legal-ai-education/",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "Harbor's iTrain acquisition signals consolidation in legal tech training and AI enablement services",
+      "why_now": "Tier B critical source (Artificial Lawyer) reporting on a named legal tech group acquisition with clear AI education angle; fits watch-list company interest and firm adoption narrative",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Artificial Lawyer",
+      "source_tier": "B",
+      "prefilter_score": 18,
+      "matched_terms": [
+        "legal AI",
+        "legal tech",
+        "iManage",
+        "NetDocuments"
+      ],
+      "fingerprint": {
+        "entities": [
+          "imanage",
+          "netdocuments"
+        ],
+        "numerics": [],
+        "keywords": [
+          "legal ai",
+          "legal tech"
+        ],
+        "title_tokens": [
+          "harbor",
+          "acquires",
+          "itrain",
+          "legal",
+          "ai",
+          "education"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-07-07T17:23:45.457Z",
+      "queued_at": "2026-07-07T17:23:45.463Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-07-06T15:51:03.355Z"
+  "last_updated": "2026-07-07T17:23:45.464Z"
 }

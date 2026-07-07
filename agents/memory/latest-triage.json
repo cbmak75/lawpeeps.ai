@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-07T14:55:20.857Z",
+  "generated": "2026-07-07T17:23:45.466Z",
   "cycle_type": "triage",
   "tier_filter": null,
   "shortlist_size": 9,
@@ -14,29 +14,29 @@
   "model": "claude-haiku-4-5-20251001",
   "picks": [
     {
-      "id": "arxiv-cs-ai-0",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "Academic paper on LLM feedback systems for education; no legal AI angle.",
-      "why_now": "Out of scope—physics education domain, not legal.",
-      "verdict": "drop",
+      "id": "artificial-lawyer-0",
+      "score": 7,
+      "category": "Legal Tech",
+      "suggested_angle": "Harbor's iTrain acquisition signals consolidation in legal tech training and AI enablement services",
+      "why_now": "Tier B critical source (Artificial Lawyer) reporting on a named legal tech group acquisition with clear AI education angle; fits watch-list company interest and firm adoption narrative",
+      "verdict": "enqueue",
       "duplicate_of": null
     },
     {
       "id": "arxiv-cs-ai-1",
       "score": 2,
       "category": "Research",
-      "suggested_angle": "Theoretical research on LLM bias in adaptive systems; no legal application.",
-      "why_now": "Out of scope—general AI safety research, not legal tech or regulation.",
+      "suggested_angle": "LLM-based feedback systems for physics problem solving",
+      "why_now": "Academic research on generative AI learning systems, but no legal domain relevance and prefilter match ('Eve') appears spurious",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
       "id": "arxiv-cs-ai-2",
-      "score": 2,
+      "score": 3,
       "category": "Research",
-      "suggested_angle": "Systems engineering application of LLMs; no legal relevance.",
-      "why_now": "Out of scope—engineering domain, not legal.",
+      "suggested_angle": "LLMs develop novel social biases through adaptive exploration",
+      "why_now": "Relevant to AI bias concerns but general LLM research without legal application; matches on 'Litera' and 'Eve' appear keyword-filter noise",
       "verdict": "drop",
       "duplicate_of": null
     },
@@ -44,26 +44,26 @@
       "id": "arxiv-cs-ai-3",
       "score": 2,
       "category": "Research",
-      "suggested_angle": "Multimodal NLP for Romanian; no legal angle.",
-      "why_now": "Out of scope—language model training, not legal tech.",
+      "suggested_angle": "LLM-assisted semantic alignment in Model-Based Systems Engineering",
+      "why_now": "Systems engineering focus, no legal domain relevance; prefilter match appears spurious",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
       "id": "arxiv-cs-ai-4",
-      "score": 2,
+      "score": 1,
       "category": "Research",
-      "suggested_angle": "Research ideation framework for ML conferences; no legal AI relevance.",
-      "why_now": "Out of scope—academic research methodology, not legal.",
+      "suggested_angle": "Parameter efficient multimodal instruction tuning for Romanian",
+      "why_now": "Low-resource NLP work with no legal application or regulatory angle",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
-      "id": "arxiv-cs-ai-5",
+      "id": "above-the-law-legaltech-5",
       "score": 2,
-      "category": "Research",
-      "suggested_angle": "Multi-agent research automation framework; no legal domain application.",
-      "why_now": "Out of scope—general AI agent research, not legal tech.",
+      "category": "Social",
+      "suggested_angle": "Daily legal news roundup with IP and ethics items",
+      "why_now": "Generic news aggregation (Morning Docket) without original reporting or AI/legal tech focus; low editorial value",
       "verdict": "drop",
       "duplicate_of": null
     },
@@ -71,46 +71,46 @@
       "id": "arxiv-cs-ai-6",
       "score": 2,
       "category": "Research",
-      "suggested_angle": "Agent skill optimization method; no legal application.",
-      "why_now": "Out of scope—general AI agent design, not legal.",
+      "suggested_angle": "ResearchStudio-Idea: LLM-based research ideation skill suite",
+      "why_now": "Academic research on research ideation; no legal domain application despite keyword-filter match on 'Litera'",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
-      "id": "above-the-law-legaltech-7",
-      "score": 3,
-      "category": "Legal AI",
-      "suggested_angle": "Daily legal news roundup with mixed topics; low signal.",
-      "why_now": "Low-value aggregation; no specific story hook or primary news.",
+      "id": "arxiv-cs-ai-7",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "AutoResearch: Multi-agent framework for research workflow automation",
+      "why_now": "General LLM research automation; no legal application despite keyword-filter match",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
-      "id": "legal-futures-8",
-      "score": 3,
-      "category": "Legal AI",
-      "suggested_angle": "LEAP Enterprise product directory listing; marketing puff.",
-      "why_now": "Pure product directory entry with no news hook or independent reporting.",
+      "id": "arxiv-cs-ai-8",
+      "score": 1,
+      "category": "Research",
+      "suggested_angle": "SkillOpt-Lite: Agent self-evolution optimization",
+      "why_now": "General ML/agent research with no legal relevance; prefilter match appears noise",
       "verdict": "drop",
       "duplicate_of": null
     }
   ],
   "summary": {
-    "enqueue_count": 0,
+    "enqueue_count": 1,
     "watch_count": 0,
-    "drop_count": 9,
-    "notes": "All nine items dropped: arXiv batch (6 items) out of scope for legal AI publication; two aggregation/puff pieces with no independent news hook. No stories meet editorial threshold."
+    "drop_count": 8,
+    "notes": "Only one story meets editorial bar: Harbor–iTrain M&A from Artificial Lawyer (tier B critical source). Remaining 8 items are either arXiv academic papers with no legal application (keyword-filter false positives) or low-value news aggregation. Strong signal that prefilter is catching non-legal LLM research noise; recommend tighter keyword tuning to exclude generic arXiv cs.AI papers."
   },
-  "enqueued": 0,
+  "enqueued": 1,
   "usage": {
-    "input_tokens": 3599,
+    "input_tokens": 3631,
     "cache_creation_input_tokens": 0,
     "cache_read_input_tokens": 0,
     "cache_creation": {
       "ephemeral_5m_input_tokens": 0,
       "ephemeral_1h_input_tokens": 0
     },
-    "output_tokens": 956,
+    "output_tokens": 1118,
     "service_tier": "standard",
     "inference_geo": "not_available"
   }
