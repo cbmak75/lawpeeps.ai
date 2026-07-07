@@ -1,31 +1,116 @@
 {
-  "generated": "2026-07-07T10:06:48.640Z",
+  "generated": "2026-07-07T14:55:20.857Z",
   "cycle_type": "triage",
   "tier_filter": null,
-  "shortlist_size": 20,
+  "shortlist_size": 9,
   "prefilter": {
     "total": 40,
-    "accepted": 28,
+    "accepted": 9,
     "borderline": 0,
-    "rejected": 12,
-    "rejected_as_duplicate": 12,
-    "accept_rate": 70
+    "rejected": 31,
+    "rejected_as_duplicate": 31,
+    "accept_rate": 23
   },
   "model": "claude-haiku-4-5-20251001",
-  "picks": [],
+  "picks": [
+    {
+      "id": "arxiv-cs-ai-0",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Academic paper on LLM feedback systems for education; no legal AI angle.",
+      "why_now": "Out of scope—physics education domain, not legal.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-1",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Theoretical research on LLM bias in adaptive systems; no legal application.",
+      "why_now": "Out of scope—general AI safety research, not legal tech or regulation.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-2",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Systems engineering application of LLMs; no legal relevance.",
+      "why_now": "Out of scope—engineering domain, not legal.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-3",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Multimodal NLP for Romanian; no legal angle.",
+      "why_now": "Out of scope—language model training, not legal tech.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-4",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Research ideation framework for ML conferences; no legal AI relevance.",
+      "why_now": "Out of scope—academic research methodology, not legal.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-5",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Multi-agent research automation framework; no legal domain application.",
+      "why_now": "Out of scope—general AI agent research, not legal tech.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-6",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Agent skill optimization method; no legal application.",
+      "why_now": "Out of scope—general AI agent design, not legal.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "above-the-law-legaltech-7",
+      "score": 3,
+      "category": "Legal AI",
+      "suggested_angle": "Daily legal news roundup with mixed topics; low signal.",
+      "why_now": "Low-value aggregation; no specific story hook or primary news.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "legal-futures-8",
+      "score": 3,
+      "category": "Legal AI",
+      "suggested_angle": "LEAP Enterprise product directory listing; marketing puff.",
+      "why_now": "Pure product directory entry with no news hook or independent reporting.",
+      "verdict": "drop",
+      "duplicate_of": null
+    }
+  ],
   "summary": {
-    "notes": "parse_failed"
+    "enqueue_count": 0,
+    "watch_count": 0,
+    "drop_count": 9,
+    "notes": "All nine items dropped: arXiv batch (6 items) out of scope for legal AI publication; two aggregation/puff pieces with no independent news hook. No stories meet editorial threshold."
   },
   "enqueued": 0,
   "usage": {
-    "input_tokens": 5612,
+    "input_tokens": 3599,
     "cache_creation_input_tokens": 0,
     "cache_read_input_tokens": 0,
     "cache_creation": {
       "ephemeral_5m_input_tokens": 0,
       "ephemeral_1h_input_tokens": 0
     },
-    "output_tokens": 2000,
+    "output_tokens": 956,
     "service_tier": "standard",
     "inference_geo": "not_available"
   }
