@@ -1659,7 +1659,52 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "Token Maxxing: This Pricing Movie Is A Remake",
+      "slug": "token-maxxing-this-pricing-movie-is-a-remake",
+      "score": 6,
+      "category": "Legal AI",
+      "story_type": "news",
+      "research_brief": "Vendors need to grow revenue to stop losing money. Similar to Search Units of the past, charging for tokens is one way they can do that. The post Token Maxxing: This Pricing Movie Is A Remake appeared first on Above the Law .",
+      "primary_source": "https://abovethelaw.com/2026/07/token-maxxing-this-pricing-movie-is-a-remake/",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "LLM token pricing wars reshape legal tech unit economics",
+      "why_now": "Covers vendor revenue model shifts in context of LLM adoption; follows major funding consolidation coverage from recent days",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Above the Law (Legal Tech)",
+      "source_tier": "B",
+      "prefilter_score": 8,
+      "matched_terms": [
+        "Eve"
+      ],
+      "fingerprint": {
+        "entities": [
+          "eve"
+        ],
+        "numerics": [],
+        "keywords": [],
+        "title_tokens": [
+          "token",
+          "maxxing",
+          "pricing",
+          "movie",
+          "remake"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-07-07T22:18:37.165Z",
+      "queued_at": "2026-07-07T22:18:37.171Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-07-07T17:23:45.464Z"
+  "last_updated": "2026-07-07T22:18:37.171Z"
 }

@@ -1,15 +1,15 @@
 {
-  "generated": "2026-07-07T20:06:53.171Z",
+  "generated": "2026-07-07T22:18:37.173Z",
   "cycle_type": "triage",
   "tier_filter": null,
-  "shortlist_size": 7,
+  "shortlist_size": 8,
   "prefilter": {
     "total": 40,
-    "accepted": 7,
+    "accepted": 8,
     "borderline": 0,
-    "rejected": 33,
-    "rejected_as_duplicate": 33,
-    "accept_rate": 18
+    "rejected": 32,
+    "rejected_as_duplicate": 32,
+    "accept_rate": 20
   },
   "model": "claude-haiku-4-5-20251001",
   "picks": [
@@ -17,26 +17,26 @@
       "id": "arxiv-cs-ai-0",
       "score": 2,
       "category": "Research",
-      "suggested_angle": "Academic paper on LLM feedback systems for education; no legal angle.",
-      "why_now": "Not timely for legal AI publication; pure educational AI research without legal application.",
+      "suggested_angle": "Generative AI for legal education feedback—pedagogical approach, not practice-ready",
+      "why_now": "Tangentially relevant to legal AI but focused on physics education; no legal angle",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
       "id": "arxiv-cs-ai-1",
-      "score": 2,
+      "score": 3,
       "category": "Research",
-      "suggested_angle": "Academic paper on social bias in LLMs; general AI research.",
-      "why_now": "No legal or legal tech angle; caught by keyword filter noise (matched 'LLM' generically).",
-      "verdict": "drop",
+      "suggested_angle": "LLM bias in decision-making systems—foundational concern for legal AI deployment",
+      "why_now": "Academic research on bias in decision-making LLMs; relevant to legal AI governance but not a breaking news hook",
+      "verdict": "watch",
       "duplicate_of": null
     },
     {
       "id": "arxiv-cs-ai-2",
       "score": 1,
       "category": "Research",
-      "suggested_angle": "Systems engineering and SysML v2 technical paper; not legal domain.",
-      "why_now": "No legal relevance; systems engineering domain entirely outside editorial scope.",
+      "suggested_angle": "Systems engineering model alignment using LLMs—no legal relevance",
+      "why_now": "Purely technical systems engineering paper; fails legal AI/tech filter",
       "verdict": "drop",
       "duplicate_of": null
     },
@@ -44,55 +44,64 @@
       "id": "arxiv-cs-ai-3",
       "score": 1,
       "category": "Research",
-      "suggested_angle": "Vision language model training for Romanian; pure NLP research.",
-      "why_now": "No legal application; low-resource language ML work unrelated to legal AI.",
+      "suggested_angle": "Multimodal AI for Romanian language—no legal relevance",
+      "why_now": "NLP research for low-resource languages; no legal application",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
-      "id": "arxiv-cs-ai-4",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "LLM-assisted research ideation from ML conference data; academic workflow.",
-      "why_now": "General academic AI tool; no legal or legal tech relevance.",
-      "verdict": "drop",
+      "id": "above-the-law-legaltech-4",
+      "score": 6,
+      "category": "Legal AI",
+      "suggested_angle": "LLM token pricing wars reshape legal tech unit economics",
+      "why_now": "Covers vendor revenue model shifts in context of LLM adoption; follows major funding consolidation coverage from recent days",
+      "verdict": "enqueue",
       "duplicate_of": null
     },
     {
       "id": "arxiv-cs-ai-5",
       "score": 2,
       "category": "Research",
-      "suggested_angle": "Multi-agent framework for automated research with code execution; pure ML research.",
-      "why_now": "Academic research workflow automation; not legal domain despite 'research' framing.",
+      "suggested_angle": "LLM-assisted research ideation grounded in literature—academic tool, not legal tech",
+      "why_now": "Academic methodology paper on research workflow; no legal vertical application",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
       "id": "arxiv-cs-ai-6",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Multi-agent research automation with execution verification—academic infrastructure, not legal practice",
+      "why_now": "Framework for research agents, not legal AI; adjacent to agent reliability concerns but no legal application",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-7",
       "score": 1,
       "category": "Research",
-      "suggested_angle": "Agent skill optimization technical paper; no legal context.",
-      "why_now": "Pure ML systems research with no legal application or publication interest.",
+      "suggested_angle": "Agent self-evolution optimization—pure ML research, no legal relevance",
+      "why_now": "Foundational AI systems research; fails editorial scope entirely",
       "verdict": "drop",
       "duplicate_of": null
     }
   ],
   "summary": {
-    "enqueue_count": 0,
-    "watch_count": 0,
-    "drop_count": 7,
-    "notes": "Entire shortlist is generic LLM/AI academic research caught by keyword prefilter noise. No legal, legal tech, regulatory, immigration, or firm adoption angle in any item. All arXiv tier B with low signal. Recommend tightening prefilter to exclude pure cs.AI papers without legal domain markers."
+    "enqueue_count": 1,
+    "watch_count": 1,
+    "drop_count": 6,
+    "notes": "Weak shortlist: 7 of 8 arXiv papers fail scope (pure ML research, no legal application). One Above the Law piece on token pricing (unit economics follow-up to recent consolidation coverage) is enqueue-worthy. LLM bias paper warranted watch flag given open editorial thread on AI decision-making responsibility, but needs framing by legal editor to be viable."
   },
-  "enqueued": 0,
+  "enqueued": 1,
   "usage": {
-    "input_tokens": 3288,
+    "input_tokens": 3460,
     "cache_creation_input_tokens": 0,
     "cache_read_input_tokens": 0,
     "cache_creation": {
       "ephemeral_5m_input_tokens": 0,
       "ephemeral_1h_input_tokens": 0
     },
-    "output_tokens": 826,
+    "output_tokens": 969,
     "service_tier": "standard",
     "inference_geo": "not_available"
   }

@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-07T20:06:38.779Z",
+  "generated": "2026-07-07T22:18:27.826Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 1773,
+  "total_scanned": 1717,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -415,6 +415,18 @@
       "relevance_score": 7
     },
     {
+      "title": "Token Maxxing: This Pricing Movie Is A Remake",
+      "url": "https://abovethelaw.com/2026/07/token-maxxing-this-pricing-movie-is-a-remake/",
+      "summary": "Vendors need to grow revenue to stop losing money. Similar to Search Units of the past, charging for tokens is one way they can do that. The post Token Maxxing: This Pricing Movie Is A Remake appeared first on Above the Law .",
+      "published": "2026-07-07T22:15:00.000Z",
+      "source_id": "above-the-law-legaltech",
+      "source_name": "Above the Law (Legal Tech)",
+      "source_priority": "high",
+      "source_tier": "B",
+      "source_category": "Legal profession",
+      "relevance_score": 7
+    },
+    {
       "title": "ResearchStudio-Idea: An Evidence-Grounded Research-Ideation Skill Suite from ML Conference Outcomes",
       "url": "https://arxiv.org/abs/2607.04439",
       "summary": "arXiv:2607.04439v1 Announce Type: new Abstract: Large language models have made research ideation increasingly accessible, yet effective idea development requires more than generating candidate directions. Researchers must ground a problem in current literature, identify meaningful bottlenecks, differentiate from existing solutions, and evaluate risks before committing to implementation. We present ResearchStudio-Idea as a reusable skill suite for this first mile of research ideation. The suite ",
@@ -454,7 +466,7 @@
       "title": "Ex-Kirkland chief and Blackstone invest in legal AI firm as valuation hits $1.2bn - The Lawyer",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOVFsTVd1M3hwV3hfMlJqcE1xZnpDRjAzbC1aYWJaV1NWUEV2X0J4LTNFRVMxamtwN0VwZElYMW9zMVozaE80LWFzOVF6Yk1kMmRSb0dGWmZfWWFraloxU2V2SHVOY3MtOGEyS0hpZC1XOHR3ZldXUmRrR2V2eDBEczNqX2sxMEp5Skh1OXFJREhsUGpYaDlxSExUdXRZelhQUUZLQXNkYXNTWW8?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOVFsTVd1M3hwV3hfMlJqcE1xZnpDRjAzbC1aYWJaV1NWUEV2X0J4LTNFRVMxamtwN0VwZElYMW9zMVozaE80LWFzOVF6Yk1kMmRSb0dGWmZfWWFraloxU2V2SHVOY3MtOGEyS0hpZC1XOHR3ZldXUmRrR2V2eDBEczNqX2sxMEp5Skh1OXFJREhsUGpYaDlxSExUdXRZelhQUUZLQXNkYXNTWW8?oc=5\" target=\"_blank\"&gt;Ex-Kirkland chief and Blackstone invest in legal AI firm as valuation hits $1.2bn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Lawyer&lt;/font&gt;",
-      "published": "2026-07-07T15:44:05.000Z",
+      "published": "2026-07-07T16:49:04.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
@@ -467,18 +479,6 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbm5maWtjcHpTWjdvSTBnMVl2cDFoNjg1WmhmOExJSWxVc3gtSEp0cjZFMFNQbl9QWnJHOG54TFhYbC1vZmM4UmlkLXFHX0d4T29zV2F1X1NDdk1uengxMlI1N25WZmtRYzg5SXdIcmlzZ190RE40SE95bFhESjhiTy02dEsxcjNxa3BwdjdKV1dTaEZf?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQbm5maWtjcHpTWjdvSTBnMVl2cDFoNjg1WmhmOExJSWxVc3gtSEp0cjZFMFNQbl9QWnJHOG54TFhYbC1vZmM4UmlkLXFHX0d4T29zV2F1X1NDdk1uengxMlI1N25WZmtRYzg5SXdIcmlzZ190RE40SE95bFhESjhiTy02dEsxcjNxa3BwdjdKV1dTaEZf?oc=5\" target=\"_blank\"&gt;Harbor Acquires iTrain for Legal AI Education&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
       "published": "2026-07-07T16:41:55.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
-    },
-    {
-      "title": "Legal AI startup Norm Ai hits $1.2 billion valuation after $120 million funding - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZGY4bUxZeVBENUppbTcxbk1YZ1Vva0Fka2wtVW1XRGl3NG1ZUUVaUkpCVi1UeG04Z0ZJakI5OFp0TEZwb0xkRktLdkI5UFdVUEhEUGVpbVpwbXFPbWY2b2hSbzdSTERqdWowZ28yOXRpR1ZfQjQzYWlONEJ0a0JEX19kdjc1YnQ1eUc1dlo5eVNJTklGbE9jdkFNUDU3cDFnbTFMdXcxbWpvanM5a0dORWFBaVoxZ2t4NDRRczNGU2h5LV94eHdBNURKUk1WaDFkZ2t3MHV1OUNEcEFVb2cxXw?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZGY4bUxZeVBENUppbTcxbk1YZ1Vva0Fka2wtVW1XRGl3NG1ZUUVaUkpCVi1UeG04Z0ZJakI5OFp0TEZwb0xkRktLdkI5UFdVUEhEUGVpbVpwbXFPbWY2b2hSbzdSTERqdWowZ28yOXRpR1ZfQjQzYWlONEJ0a0JEX19kdjc1YnQ1eUc1dlo5eVNJTklGbE9jdkFNUDU3cDFnbTFMdXcxbWpvanM5a0dORWFBaVoxZ2t4NDRRczNGU2h5LV94eHdBNURKUk1WaDFkZ2t3MHV1OUNEcEFVb2cxXw?oc=5\" target=\"_blank\"&gt;Legal AI startup Norm Ai hits $1.2 billion valuation after $120 million funding&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font c",
-      "published": "2026-07-07T14:36:46.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
