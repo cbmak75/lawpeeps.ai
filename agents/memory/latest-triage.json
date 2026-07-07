@@ -1,53 +1,215 @@
 {
-  "generated": "2026-07-06T22:20:50.079Z",
+  "generated": "2026-07-07T04:06:54.955Z",
   "cycle_type": "triage",
   "tier_filter": null,
-  "shortlist_size": 2,
+  "shortlist_size": 20,
   "prefilter": {
     "total": 40,
-    "accepted": 2,
+    "accepted": 30,
     "borderline": 0,
-    "rejected": 38,
-    "rejected_as_duplicate": 38,
-    "accept_rate": 5
+    "rejected": 10,
+    "rejected_as_duplicate": 10,
+    "accept_rate": 75
   },
   "model": "claude-haiku-4-5-20251001",
   "picks": [
     {
-      "id": "google-news-legal-tech-funding-0",
-      "score": 5,
-      "category": "Funding",
-      "suggested_angle": "Law.com roundup of H1 2026 legal tech funding trends and winners",
-      "why_now": "Mid-year funding recap, but likely aggregation of existing news rather than primary reporting",
+      "id": "arxiv-cs-ai-0",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Generic LLM feedback research with no legal application.",
+      "why_now": "Out of scope: pure educational AI, no legal angle.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-1",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "LLM bias research without legal context.",
+      "why_now": "Out of scope: general AI safety, no legal relevance.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-2",
+      "score": 1,
+      "category": "Research",
+      "suggested_angle": "Systems engineering with LLM assistance.",
+      "why_now": "Out of scope: not legal AI.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-3",
+      "score": 1,
+      "category": "Research",
+      "suggested_angle": "Romanian low-resource language model.",
+      "why_now": "Out of scope: not legal AI.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-4",
+      "score": 1,
+      "category": "Research",
+      "suggested_angle": "RL agents under partial observability.",
+      "why_now": "Out of scope: not legal AI.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-5",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Medical calculation with LLM agents.",
+      "why_now": "Out of scope: healthcare AI, not legal.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-6",
+      "score": 1,
+      "category": "Research",
+      "suggested_angle": "LLM use in programming education.",
+      "why_now": "Out of scope: educational context, not legal.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-7",
+      "score": 1,
+      "category": "Research",
+      "suggested_angle": "LLM uncertainty estimation.",
+      "why_now": "Out of scope: technical research, no legal angle.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-8",
+      "score": 1,
+      "category": "Research",
+      "suggested_angle": "LLM serving infrastructure optimization.",
+      "why_now": "Out of scope: infrastructure engineering.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-9",
+      "score": 1,
+      "category": "Research",
+      "suggested_angle": "Model compression for MoE LLMs.",
+      "why_now": "Out of scope: general model optimization.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-10",
+      "score": 1,
+      "category": "Research",
+      "suggested_angle": "LLM agents for mathematical research.",
+      "why_now": "Out of scope: mathematics, not legal.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-11",
+      "score": 1,
+      "category": "Research",
+      "suggested_angle": "Agent evaluation metrics.",
+      "why_now": "Out of scope: technical research with no legal angle.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-12",
+      "score": 1,
+      "category": "Research",
+      "suggested_angle": "Belief divergence in multi-step LLM agents.",
+      "why_now": "Out of scope: agent evaluation, not legal.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-13",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "LLM tutors manufacturing explanations without reasoning.",
+      "why_now": "Potential relevance to legal AI accuracy concerns (open thread: AI-generated legal work substantive vs. procedural review), but academic framing lacks legal context.",
       "verdict": "watch",
       "duplicate_of": null
     },
     {
-      "id": "google-news-legal-tech-funding-1",
-      "score": 5,
-      "category": "Funding",
-      "suggested_angle": "Data-driven analysis of 2026 legal tech investment patterns and market composition",
-      "why_now": "Similar to item 0; appears to be aggregation or analysis of known funding rounds",
-      "verdict": "watch",
+      "id": "arxiv-cs-ai-14",
+      "score": 1,
+      "category": "Research",
+      "suggested_angle": "RL for LLM agent training.",
+      "why_now": "Out of scope: general agent training methodology.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-15",
+      "score": 1,
+      "category": "Research",
+      "suggested_angle": "Self-improving LLM agents.",
+      "why_now": "Out of scope: general agent research.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-16",
+      "score": 1,
+      "category": "Research",
+      "suggested_angle": "LLM-driven research ideation from ML conference data.",
+      "why_now": "Out of scope: general research automation, not legal.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-17",
+      "score": 1,
+      "category": "Research",
+      "suggested_angle": "Multi-agent research workflow automation.",
+      "why_now": "Out of scope: general research automation.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-18",
+      "score": 1,
+      "category": "Research",
+      "suggested_angle": "Agent skill optimization framework.",
+      "why_now": "Out of scope: general agent research.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-19",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "LLMs for clinical diagnostic reasoning.",
+      "why_now": "Out of scope: healthcare AI, not legal; though evidence-seeking pattern could theoretically apply to legal reasoning.",
+      "verdict": "drop",
       "duplicate_of": null
     }
   ],
   "summary": {
     "enqueue_count": 0,
-    "watch_count": 2,
-    "drop_count": 0,
-    "notes": "Both items are Law.com aggregation/analysis pieces on 2026 legal tech funding. Neither appears to break new funding rounds or regulatory news. Recent coverage already includes broad-spectrum funding analysis (Q1 2026 roundup, three-company consolidation). Recommend requesting primary source URLs before enqueuing; if these are just regurgitation of April data, drop both. Flag for editor review if they contain genuinely new H2 2026 funding intel not in recent coverage."
+    "watch_count": 1,
+    "drop_count": 19,
+    "notes": "Entire shortlist is arXiv preprints on LLM research with no legal, regulatory, or legal tech connection. Only arxiv-cs-ai-13 (LLM tutors faking reasoning) merits a watch due to tangential relevance to open editorial thread on AI work substantiveness, but it lacks legal context. No stories enqueue-ready."
   },
   "enqueued": 0,
   "usage": {
-    "input_tokens": 3066,
+    "input_tokens": 5629,
     "cache_creation_input_tokens": 0,
     "cache_read_input_tokens": 0,
     "cache_creation": {
       "ephemeral_5m_input_tokens": 0,
       "ephemeral_1h_input_tokens": 0
     },
-    "output_tokens": 388,
+    "output_tokens": 1920,
     "service_tier": "standard",
     "inference_geo": "not_available"
   }
