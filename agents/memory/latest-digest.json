@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-08T11:10:30.746Z",
+  "generated": "2026-07-08T14:32:20.941Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 1313,
+  "total_scanned": 1298,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -151,30 +151,6 @@
       "relevance_score": 9
     },
     {
-      "title": "Harvey Increases Token Use 14X in Just 6 Months",
-      "url": "https://www.artificiallawyer.com/2026/07/08/harvey-increases-token-use-14x-in-just-6-months/",
-      "summary": "Harvey’s co-founder and President, Gabe Pereyra, has announced that the number of tokens processed on the broad legal AI platform have increased by fourteen times ...",
-      "published": "2026-07-08T08:25:09.000Z",
-      "source_id": "artificial-lawyer",
-      "source_name": "Artificial Lawyer",
-      "source_priority": "critical",
-      "source_tier": "B",
-      "source_category": "Legal AI",
-      "relevance_score": 9
-    },
-    {
-      "title": "Docusign’s Legal Tech Strategy With Jim Shaughnessy",
-      "url": "https://www.artificiallawyer.com/2026/07/08/docusigns-legal-tech-strategy-with-jim-shaughnessy/",
-      "summary": "Docusign is a $3.2 billion revenue company and is now focusing more than ever before on its legal tech offering. In this AL interview with ...",
-      "published": "2026-07-08T06:41:56.000Z",
-      "source_id": "artificial-lawyer",
-      "source_name": "Artificial Lawyer",
-      "source_priority": "critical",
-      "source_tier": "B",
-      "source_category": "Legal AI",
-      "relevance_score": 9
-    },
-    {
       "title": "Information Limits and Attractor Dynamics in Economies of Frontier LLM Agents: A Pre-Registered Test",
       "url": "https://arxiv.org/abs/2607.06001",
       "summary": "arXiv:2607.06001v1 Announce Type: new Abstract: We report a pre-registered, two-part experiment on small economies of frontier language-model agents (Claude Opus 4.8), testing two quantitative predictions about coupled multi-agent systems: an information-theoretic capacity region for wealth growth under market coupling, and a mean-field residual-scaling law for population misalignment under incentive and control levers. All predictions, acceptance bands, and decision rules were frozen in a publi",
@@ -235,10 +211,10 @@
       "relevance_score": 8
     },
     {
-      "title": "Harvey AI's 12x token surge reveals that legal AI has crossed from experiment to infrastructure - Startup Fortune",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd2E2WDlBRmduLTdnWkZfLV90MkJWaEZwZVZQeFl1OTN6NjBmTTZ5aTdTOUx2VFRmcHRYMjUtV2E4ZzFld0N5QTZJNU1zRDFfQ1NCSGhRMFdTLU5Uclc4ck1kcDQxX0dlM3NBaXI0V1FqSk45NTcyRUU5NHRfb3F5bFRXOEhLVmgwUmJzWkQ3WUdPYUtiSnpXcEd3QU5iWXpHR0MxYVdXejRiMlN6ZUJ5SGk5Ql9obXNSTUhVUnpubw?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOd2E2WDlBRmduLTdnWkZfLV90MkJWaEZwZVZQeFl1OTN6NjBmTTZ5aTdTOUx2VFRmcHRYMjUtV2E4ZzFld0N5QTZJNU1zRDFfQ1NCSGhRMFdTLU5Uclc4ck1kcDQxX0dlM3NBaXI0V1FqSk45NTcyRUU5NHRfb3F5bFRXOEhLVmgwUmJzWkQ3WUdPYUtiSnpXcEd3QU5iWXpHR0MxYVdXejRiMlN6ZUJ5SGk5Ql9obXNSTUhVUnpubw?oc=5\" target=\"_blank\"&gt;Harvey AI's 12x token surge reveals that legal AI has crossed from experiment to infrastructure&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Startup Fo",
-      "published": "2026-06-19T07:00:00.000Z",
+      "title": ":Harvey: Academy: Shaping the Future of Legal AI Literacy - Harvey",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1heGRrSE96TWduUXpSV1VncFJMSEhVVjczY0pLZFNHNkpqRnhzWGp5YmNWUVRDRjN4aU8ydkpDdU14Z3dBbHdZd09janQ1YmRSVDBvbGx0SS1vbzZkNTBZVFNQdw?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1heGRrSE96TWduUXpSV1VncFJMSEhVVjczY0pLZFNHNkpqRnhzWGp5YmNWUVRDRjN4aU8ydkpDdU14Z3dBbHdZd09janQ1YmRSVDBvbGx0SS1vbzZkNTBZVFNQdw?oc=5\" target=\"_blank\"&gt;:Harvey: Academy: Shaping the Future of Legal AI Literacy&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
+      "published": "2026-01-27T08:00:00.000Z",
       "source_id": "google-news-harvey-luminance",
       "source_name": "Google News: Harvey OR Luminance",
       "source_priority": "critical",
@@ -247,10 +223,10 @@
       "relevance_score": 8
     },
     {
-      "title": ":Harvey: Academy: Shaping the Future of Legal AI Literacy - Harvey",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1heGRrSE96TWduUXpSV1VncFJMSEhVVjczY0pLZFNHNkpqRnhzWGp5YmNWUVRDRjN4aU8ydkpDdU14Z3dBbHdZd09janQ1YmRSVDBvbGx0SS1vbzZkNTBZVFNQdw?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1heGRrSE96TWduUXpSV1VncFJMSEhVVjczY0pLZFNHNkpqRnhzWGp5YmNWUVRDRjN4aU8ydkpDdU14Z3dBbHdZd09janQ1YmRSVDBvbGx0SS1vbzZkNTBZVFNQdw?oc=5\" target=\"_blank\"&gt;:Harvey: Academy: Shaping the Future of Legal AI Literacy&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
-      "published": "2026-01-27T08:00:00.000Z",
+      "title": "Harvey AI's 12x token surge reveals that legal AI has crossed from experiment to infrastructure - Startup Fortune",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd2E2WDlBRmduLTdnWkZfLV90MkJWaEZwZVZQeFl1OTN6NjBmTTZ5aTdTOUx2VFRmcHRYMjUtV2E4ZzFld0N5QTZJNU1zRDFfQ1NCSGhRMFdTLU5Uclc4ck1kcDQxX0dlM3NBaXI0V1FqSk45NTcyRUU5NHRfb3F5bFRXOEhLVmgwUmJzWkQ3WUdPYUtiSnpXcEd3QU5iWXpHR0MxYVdXejRiMlN6ZUJ5SGk5Ql9obXNSTUhVUnpubw?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOd2E2WDlBRmduLTdnWkZfLV90MkJWaEZwZVZQeFl1OTN6NjBmTTZ5aTdTOUx2VFRmcHRYMjUtV2E4ZzFld0N5QTZJNU1zRDFfQ1NCSGhRMFdTLU5Uclc4ck1kcDQxX0dlM3NBaXI0V1FqSk45NTcyRUU5NHRfb3F5bFRXOEhLVmgwUmJzWkQ3WUdPYUtiSnpXcEd3QU5iWXpHR0MxYVdXejRiMlN6ZUJ5SGk5Ql9obXNSTUhVUnpubw?oc=5\" target=\"_blank\"&gt;Harvey AI's 12x token surge reveals that legal AI has crossed from experiment to infrastructure&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Startup Fo",
+      "published": "2026-06-19T07:00:00.000Z",
       "source_id": "google-news-harvey-luminance",
       "source_name": "Google News: Harvey OR Luminance",
       "source_priority": "critical",
@@ -331,34 +307,10 @@
       "relevance_score": 8
     },
     {
-      "title": "Harvey Increases Token Use 14X in Just 6 Months - Artificial Lawyer",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNDNTWFUzTHRDZ1FnZDdnTkFQWUxrQ0FsX0MwcUFONUJfd3oyYzB5WUwzbG9JeFM3MHoya0Z4dVZnbzlBUzlUcGthVFNUcHlqWV9QTHlpd2pjWDdhTmx0WEdPRjMyMWJCZUd1M09wMTczS0ljTDBNSldOeUJadlp0OUtPUlV1dEFZaExzam5UZlhpYzRGbWIw?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPNDNTWFUzTHRDZ1FnZDdnTkFQWUxrQ0FsX0MwcUFONUJfd3oyYzB5WUwzbG9JeFM3MHoya0Z4dVZnbzlBUzlUcGthVFNUcHlqWV9QTHlpd2pjWDdhTmx0WEdPRjMyMWJCZUd1M09wMTczS0ljTDBNSldOeUJadlp0OUtPUlV1dEFZaExzam5UZlhpYzRGbWIw?oc=5\" target=\"_blank\"&gt;Harvey Increases Token Use 14X in Just 6 Months&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
-      "published": "2026-07-08T08:30:05.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 7
-    },
-    {
       "title": "The Legal AI Scaffold Changes Everything – Claude Study - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQU4tdGFPSGFaaGo0NGRvdnhxMUhYQ3pSd18td3lld2ZRd2xiQkVwWUQ0Z1lhR3IwdGstdE5STUVBTzdqdkxvbnhWUTVwZ0Y5MDNqT1hHV0RDUGVldzI5R2JrdEtaZ2NfYWNDVERjN1o5QWFqeGFTTEp6VDB1S19id3VoOUZUbzQ0eDdwNzJHNzdvYzRNWUh5cFV6UnhXOE0?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNQU4tdGFPSGFaaGo0NGRvdnhxMUhYQ3pSd18td3lld2ZRd2xiQkVwWUQ0Z1lhR3IwdGstdE5STUVBTzdqdkxvbnhWUTVwZ0Y5MDNqT1hHV0RDUGVldzI5R2JrdEtaZ2NfYWNDVERjN1o5QWFqeGFTTEp6VDB1S19id3VoOUZUbzQ0eDdwNzJHNzdvYzRNWUh5cFV6UnhXOE0?oc=5\" target=\"_blank\"&gt;The Legal AI Scaffold Changes Everything – Claude Study&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
       "published": "2026-06-22T08:21:51.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 7
-    },
-    {
-      "title": "Jupitice reimagines Digital Justice Infrastructure with an Ironclad ‘Trust Layer’ for AI-Native Legal Operations - Bar and Bench",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVG8zQ2NYZFo0cy1GQTAzdDBrUU00dG1OQlh1NFNmUGZjeHR6UzZJQlBrUFZheWpmU2liZ2J1OURNbURNVzd3XzlFSGxMZjRtcnROQkhQT2VkUUVya2VOdm1WbkZOb3hZZ19ZOHhHVVZhUFY2UnhhTHd0U2laN1dTVkRMVkxDSWNIWTJ0NXc5MlJBUTdhQm5VZU51QUVoQW1aUWdqTFRoUzZaVUR0c21yWHFlVHcxR3RJT2dzcEFvaUFyN3VfcUJSOXJFU1FFcklpc0tUREs3Z1cwTFU?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVG8zQ2NYZFo0cy1GQTAzdDBrUU00dG1OQlh1NFNmUGZjeHR6UzZJQlBrUFZheWpmU2liZ2J1OURNbURNVzd3XzlFSGxMZjRtcnROQkhQT2VkUUVya2VOdm1WbkZOb3hZZ19ZOHhHVVZhUFY2UnhhTHd0U2laN1dTVkRMVkxDSWNIWTJ0NXc5MlJBUTdhQm5VZU51QUVoQW1aUWdqTFRoUzZaVUR0c21yWHFlVHcxR3RJT2dzcEFvaUFyN3VfcUJSOXJFU1FFcklpc0tUREs3Z1cwTFU?oc=5\" target=\"_blank\"&gt;Jupitice reimagines Digital Justice Infrastructure with an Ironclad ‘Trust Layer’ for AI-Native Legal Operations&lt;/a&gt;&amp",
-      "published": "2026-07-08T07:07:55.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
@@ -403,10 +355,34 @@
       "relevance_score": 7
     },
     {
-      "title": "The Legal AI Advantage Won’t Come From the Model Alone",
-      "url": "https://www.artificiallawyer.com/2026/07/06/the-legal-ai-advantage-wont-come-from-the-model-alone/",
-      "summary": "By Sam Kidd, CEO, LawVu. Every week in legal tech there’s a new AI announcement. A new drafting tool or legal agent. Another company claiming ...",
-      "published": "2026-07-06T06:42:03.000Z",
+      "title": "Familiar Names Top Active US Investor Ranks In Q2",
+      "url": "https://news.crunchbase.com/venture/data-top-active-us-investors-general-catalyst-a16z-q2-2026/",
+      "summary": "To get an expanded sense of how busy startup backers spent Q2, we put together several rankings for active investors. These include active venture backers, lead investors, highest spenders and prolific seed dealmakers.",
+      "published": "2026-07-08T11:00:59.000Z",
+      "source_id": "crunchbase-news",
+      "source_name": "Crunchbase News",
+      "source_priority": "high",
+      "source_tier": "A",
+      "source_category": "Funding / M&A",
+      "relevance_score": 7
+    },
+    {
+      "title": "Harvey Increases Token Use 14X in Just 6 Months",
+      "url": "https://www.artificiallawyer.com/2026/07/08/harvey-increases-token-use-14x-in-just-6-months/",
+      "summary": "Harvey’s co-founder and President, Gabe Pereyra, has announced that the number of tokens processed on the broad legal AI platform have increased by fourteen times ...",
+      "published": "2026-07-08T08:25:09.000Z",
+      "source_id": "artificial-lawyer",
+      "source_name": "Artificial Lawyer",
+      "source_priority": "critical",
+      "source_tier": "B",
+      "source_category": "Legal AI",
+      "relevance_score": 7
+    },
+    {
+      "title": "Docusign’s Legal Tech Strategy With Jim Shaughnessy",
+      "url": "https://www.artificiallawyer.com/2026/07/08/docusigns-legal-tech-strategy-with-jim-shaughnessy/",
+      "summary": "Docusign is a $3.2 billion revenue company and is now focusing more than ever before on its legal tech offering. In this AL interview with ...",
+      "published": "2026-07-08T06:41:56.000Z",
       "source_id": "artificial-lawyer",
       "source_name": "Artificial Lawyer",
       "source_priority": "critical",
@@ -439,15 +415,39 @@
       "relevance_score": 7
     },
     {
-      "title": "Most consumers think they should keep interest from client accounts",
-      "url": "https://www.legalfutures.co.uk/latest-news/most-consumers-think-they-should-keep-interest-from-client-accounts",
-      "summary": "A majority of clients believe that they should keep interest earned on client accounts, research for the Legal Services Consumer Panel has found. The post Most consumers think they should keep interest from client accounts appeared first on Legal Futures .",
-      "published": "2026-07-08T08:00:13.000Z",
-      "source_id": "legal-futures",
-      "source_name": "Legal Futures",
+      "title": "F-35 For Turkey? Trump Says ‘Certainly, We’ll Consider’ Reversing Ban",
+      "url": "https://breakingdefense.com/2026/07/f-35-for-turkey-trump-says-certainly-well-consider-reversing-ban/",
+      "summary": "'We’re going to be taking the sanctions off,' the president said. 'We’re going to be taking the sanctions off. It’s time to do that. Ok? We don’t want to sanction friends. It’s very simple.' The post F-35 For Turkey? Trump Says ‘Certainly, We’ll Consider’ Reversing Ban appeared first on Above the Law .",
+      "published": "2026-07-08T14:03:00.000Z",
+      "source_id": "above-the-law-legaltech",
+      "source_name": "Above the Law (Legal Tech)",
       "source_priority": "high",
       "source_tier": "B",
-      "source_category": "Legal business",
+      "source_category": "Legal profession",
+      "relevance_score": 7
+    },
+    {
+      "title": "So you&#8217;re GC, now what? Legal chiefs at leading corporates on the reality of life at the top",
+      "url": "https://www.legalbusiness.co.uk/in-house/so-youre-gc-now-what-legal-chiefs-at-leading-corporates-on-the-reality-of-life-at-the-top/",
+      "summary": "‘Day one as GC, the rules change. Suddenly, the buck stops with you, and you can no longer delegate upwards on legal matters,’ says James Ford, group general counsel at GSK. Those who reach the top ranks will already have ‘weathered a lot of storms’, as Ford puts it &#8211; but, even so, there&#8217;s a &#8230; Continue reading \"So you&#8217;re GC, now what? Legal chiefs at leading corporates on the reality of life at the top\"",
+      "published": "2026-07-08T14:00:23.000Z",
+      "source_id": "legal-business",
+      "source_name": "Legal Business",
+      "source_priority": "medium",
+      "source_tier": "B",
+      "source_category": "Legal profession",
+      "relevance_score": 7
+    },
+    {
+      "title": "Bird &#038; Bird puts revenue up 4% as growth slows",
+      "url": "https://www.legalbusiness.co.uk/law-firms/bird-bird-puts-revenue-up-4-as-growth-slows/",
+      "summary": "Bird &#38; Bird has seen its revenue grow by 4% to reach €702m, up from last year’s figure of €672.6m. Profit per equity partner (PEP), meanwhile, has dipped 1.5% to €819k, down from last year’s figure of €831,000, while net profit grew by 1%. The dip means the firm has seen its PEP decline for &#8230; Continue reading \"Bird &#038; Bird puts revenue up 4% as growth slows\"",
+      "published": "2026-07-08T13:57:02.000Z",
+      "source_id": "legal-business",
+      "source_name": "Legal Business",
+      "source_priority": "medium",
+      "source_tier": "B",
+      "source_category": "Legal profession",
       "relevance_score": 7
     },
     {
@@ -463,27 +463,27 @@
       "relevance_score": 7
     },
     {
-      "title": "What Every AI Builder Learns the Hard Way [video]",
-      "url": "https://www.youtube.com/watch?v=aLYwPoG2dNI",
-      "summary": "Article URL: https://www.youtube.com/watch?v=aLYwPoG2dNI Comments URL: https://news.ycombinator.com/item?id=48829992 Points: 3 # Comments: 0",
-      "published": "2026-07-08T10:09:12.000Z",
-      "source_id": "hacker-news",
-      "source_name": "Hacker News (filtered)",
+      "title": "FirstResearch: Auditable Question Formation for LLM Scientific Discovery Agents",
+      "url": "https://arxiv.org/abs/2607.05682",
+      "summary": "arXiv:2607.05682v1 Announce Type: new Abstract: LLM systems for scientific discovery increasingly assist with ideation, literature synthesis, experiment planning, and report generation, but the first research question they propose can remain difficult to audit: it may sound plausible without exposing the mechanism, falsifier, or assumption that a scientist should inspect. We introduce FirstResearch, a first-principles research-question formation framework for scientific LLM agents whose core art",
+      "published": "2026-07-08T04:00:00.000Z",
+      "source_id": "arxiv-cs-ai",
+      "source_name": "arXiv cs.AI (keyword-filtered)",
       "source_priority": "low",
       "source_tier": "B",
-      "source_category": "Community",
+      "source_category": "Research",
       "relevance_score": 7
     },
     {
-      "title": "Darwin Among the Weights: AI as a speciation event",
-      "url": "https://benletchford.com/writing/darwin-among-the-weights/",
-      "summary": "Article URL: https://benletchford.com/writing/darwin-among-the-weights/ Comments URL: https://news.ycombinator.com/item?id=48828933 Points: 1 # Comments: 0",
-      "published": "2026-07-08T07:56:44.000Z",
-      "source_id": "hacker-news",
-      "source_name": "Hacker News (filtered)",
+      "title": "Akashic: A Low-Overhead LLM Inference Service with MemAttention",
+      "url": "https://arxiv.org/abs/2607.05708",
+      "summary": "arXiv:2607.05708v1 Announce Type: new Abstract: Recent LLM-based agent systems continuously accumulate context across multi-turn interactions, tool invocations, and cross-session workflows. Replaying the full history for every request quickly becomes impractical: long contexts increase prefill cost, may exceed context limits, and often bury task-relevant evidence in irrelevant content, degrading both serving efficiency and output quality. We propose Akashic, a low-overhead memory system built ar",
+      "published": "2026-07-08T04:00:00.000Z",
+      "source_id": "arxiv-cs-ai",
+      "source_name": "arXiv cs.AI (keyword-filtered)",
       "source_priority": "low",
       "source_tier": "B",
-      "source_category": "Community",
+      "source_category": "Research",
       "relevance_score": 7
     }
   ]
