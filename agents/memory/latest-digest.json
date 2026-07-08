@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-08T19:45:56.309Z",
+  "generated": "2026-07-08T22:13:45.176Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 1299,
+  "total_scanned": 1317,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -16,6 +16,18 @@
       "source_priority": "critical",
       "source_tier": "B",
       "source_category": "Legal tech commentary",
+      "relevance_score": 14
+    },
+    {
+      "title": "Show HN: Nully – FOSS AI chat without the bloat",
+      "url": "https://nully.chat/",
+      "summary": "As someone who doesn't use any of the more \"advanced\" features on sites like ChatGPT or Claude (agentic mode, memory, image generation, deep research, etc), I found the bloat of these services, both in UX and in performance, to be pretty tedious. There are a million AI chat interfaces out there, but I could never find one that just did simple messaging and history in the most minimal and lightweight way possible. So I made my own. Nully is written in Go and Vanilla HTML/CSS/JS. It literally just",
+      "published": "2026-07-08T20:25:47.000Z",
+      "source_id": "hacker-news",
+      "source_name": "Hacker News (filtered)",
+      "source_priority": "low",
+      "source_tier": "B",
+      "source_category": "Community",
       "relevance_score": 14
     },
     {
@@ -40,6 +52,18 @@
       "source_priority": "medium",
       "source_tier": "B",
       "source_category": "Legal operations",
+      "relevance_score": 12
+    },
+    {
+      "title": "Claude Fable 5: Why Anthropic's Most Powerful AI Was Suspended?",
+      "url": "https://news.ycombinator.com/item?id=48836009",
+      "summary": "Why it was suspended? can Claude Mythos and Fable 5 create what we have in imagination? I believe Security, Firewall is the issues. Because it can breach these two things, then i can guess that anyone can solve any problem. I want to know if Anthropic reduced the power and capacity of Fable 5 and Mythos? Comments URL: https://news.ycombinator.com/item?id=48836009 Points: 1 # Comments: 0",
+      "published": "2026-07-08T19:01:54.000Z",
+      "source_id": "hacker-news",
+      "source_name": "Hacker News (filtered)",
+      "source_priority": "low",
+      "source_tier": "B",
+      "source_category": "Community",
       "relevance_score": 12
     },
     {
@@ -100,6 +124,18 @@
       "source_priority": "critical",
       "source_tier": "B",
       "source_category": "Legal tech commentary",
+      "relevance_score": 10
+    },
+    {
+      "title": "Show HN: Nino – a dedicated CFP/CPA team and AI to manage your financial life",
+      "url": "https://www.usenino.com/",
+      "summary": "Nino is a dedicated CFP and CPA team, backed by an AI platform that connects your taxes, equity, investments, cash, and real estate into one always-current plan. In 2014, I pitched YC partners on an idea I called Nino, a personal assistant that could actually get things done for you. I got a rejection from Justin Kan the same evening. He said it was too early. He was right. The same year, before OpenAI existed, I met Ilya Sutskever. We discussed what AI products were commercially viable to build",
+      "published": "2026-07-08T19:04:28.000Z",
+      "source_id": "hacker-news",
+      "source_name": "Hacker News (filtered)",
+      "source_priority": "low",
+      "source_tier": "B",
+      "source_category": "Community",
       "relevance_score": 10
     },
     {
@@ -191,30 +227,6 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaDhOaTN1RzVmZmxWa1U2TTZyTW9ucXRjZjU2RHUzT0RoMTJQb1BvZ1hpbUgwTUFZS3U5UHV1R21abHdrRDR3cFlWTC1SY3J2WUN1YWlwSlY0Y0VpVjVYSXV2dk93YjhuU0NXYTE5QnBiVHF5bHVLRHdWbzMxdVB3MU0zMFh1TzF0U1JmOA?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQaDhOaTN1RzVmZmxWa1U2TTZyTW9ucXRjZjU2RHUzT0RoMTJQb1BvZ1hpbUgwTUFZS3U5UHV1R21abHdrRDR3cFlWTC1SY3J2WUN1YWlwSlY0Y0VpVjVYSXV2dk93YjhuU0NXYTE5QnBiVHF5bHVLRHdWbzMxdVB3MU0zMFh1TzF0U1JmOA?oc=5\" target=\"_blank\"&gt;Why legal tech giant Harvey is raising cash like OpenAI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Business Insider&lt;/font&gt;",
       "published": "2026-03-26T07:00:00.000Z",
-      "source_id": "google-news-legal-tech-funding",
-      "source_name": "Google News: legal tech funding",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 8
-    },
-    {
-      "title": "EvenUp, AI Software For Personal Injury Law, Doubles Valuation To $2B As Legal Tech Funding Hits Record High - Crunchbase News",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY2p6WWxfeE1ZZDJxQXJPOWtrR2VZdkxlSkFtck03QWJtOU1YcGtHUFBlZllXMXkxeXRlcHhfZU9vR0VMU1JUS0FYMGNUSXZ0UnVRSU5YRVZuWERkU29MVFYzYjNtdHN6OUZGU3JlNWpLcDI3eTRwam5fVkhUSzU2WFdtX0daQUNseG50YzRpTQ?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQY2p6WWxfeE1ZZDJxQXJPOWtrR2VZdkxlSkFtck03QWJtOU1YcGtHUFBlZllXMXkxeXRlcHhfZU9vR0VMU1JUS0FYMGNUSXZ0UnVRSU5YRVZuWERkU29MVFYzYjNtdHN6OUZGU3JlNWpLcDI3eTRwam5fVkhUSzU2WFdtX0daQUNseG50YzRpTQ?oc=5\" target=\"_blank\"&gt;EvenUp, AI Software For Personal Injury Law, Doubles Valuation To $2B As Legal Tech Funding Hits Record High&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Crunchbase News&lt;/font&gt;",
-      "published": "2025-10-07T07:00:00.000Z",
-      "source_id": "google-news-legal-tech-funding",
-      "source_name": "Google News: legal tech funding",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 8
-    },
-    {
-      "title": "Vancouver, B.C.-based legal tech company Clio hits $5B valuation after acquiring vLex - GeekWire",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZDZQTjk5RERxN0wzYzNka1d4bXhBTzR5RWdfai1qRjBlaEpzVVhSaUdPRkZVeld4ai1mOXpwcTZnZFZ2eVp2ajd0RXBjMGUwcGlVaEhtR01fTU1KUF82cFQ1Z3VrQWV2N1dzWTViTHNPTFB6N08xZjNJbkhkbXBUMkZlWlNwQ3ZpOGFEakJ0cFhON0NDZ1c0dGI0RndUdTBtaFh0b1hNWk1mQWg2SVV1aVdrcw?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOZDZQTjk5RERxN0wzYzNka1d4bXhBTzR5RWdfai1qRjBlaEpzVVhSaUdPRkZVeld4ai1mOXpwcTZnZFZ2eVp2ajd0RXBjMGUwcGlVaEhtR01fTU1KUF82cFQ1Z3VrQWV2N1dzWTViTHNPTFB6N08xZjNJbkhkbXBUMkZlWlNwQ3ZpOGFEakJ0cFhON0NDZ1c0dGI0RndUdTBtaFh0b1hNWk1mQWg2SVV1aVdrcw?oc=5\" target=\"_blank\"&gt;Vancouver, B.C.-based legal tech company Clio hits $5B valuation after acquiring vLex&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;GeekWire&lt;/font&gt;",
-      "published": "2025-11-10T08:00:00.000Z",
       "source_id": "google-news-legal-tech-funding",
       "source_name": "Google News: legal tech funding",
       "source_priority": "critical",
@@ -319,6 +331,18 @@
       "relevance_score": 8
     },
     {
+      "title": "Why attorneys general are choosing CoCounsel Legal - Thomson Reuters Legal Solutions",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQ0poR1kzNmdJR3g3WUkzZTNyd0RaT0lzeFhfNk5iUDlsY3NUOTFndWttME1NelhVWThUclFOdHJ4VTByaUNuRU9rYTFFdUc4alNvcXRTOXNPRy1nSnpRRWhGR1hkQWpUZDNLNGFlazNJb1Y2R2pMRmtwZjlfRG80b08tVlNVQS0wbDNWV1o1SWpDdHljek01SGRJSV9ZU3M0WW9uTGZ2NzdzTjR0ZFdEZmpQQ3BfSnRjcWxJNkwzQmk?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQ0poR1kzNmdJR3g3WUkzZTNyd0RaT0lzeFhfNk5iUDlsY3NUOTFndWttME1NelhVWThUclFOdHJ4VTByaUNuRU9rYTFFdUc4alNvcXRTOXNPRy1nSnpRRWhGR1hkQWpUZDNLNGFlazNJb1Y2R2pMRmtwZjlfRG80b08tVlNVQS0wbDNWV1o1SWpDdHljek01SGRJSV9ZU3M0WW9uTGZ2NzdzTjR0ZFdEZmpQQ3BfSnRjcWxJNkwzQmk?oc=5\" target=\"_blank\"&gt;Why attorneys general are choosing CoCounsel Legal&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Thomson Reuters Legal Solutions&lt;/font&gt;",
+      "published": "2026-07-08T20:50:51.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 7
+    },
+    {
       "title": "The Legal AI Scaffold Changes Everything – Claude Study - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQU4tdGFPSGFaaGo0NGRvdnhxMUhYQ3pSd18td3lld2ZRd2xiQkVwWUQ0Z1lhR3IwdGstdE5STUVBTzdqdkxvbnhWUTVwZ0Y5MDNqT1hHV0RDUGVldzI5R2JrdEtaZ2NfYWNDVERjN1o5QWFqeGFTTEp6VDB1S19id3VoOUZUbzQ0eDdwNzJHNzdvYzRNWUh5cFV6UnhXOE0?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNQU4tdGFPSGFaaGo0NGRvdnhxMUhYQ3pSd18td3lld2ZRd2xiQkVwWUQ0Z1lhR3IwdGstdE5STUVBTzdqdkxvbnhWUTVwZ0Y5MDNqT1hHV0RDUGVldzI5R2JrdEtaZ2NfYWNDVERjN1o5QWFqeGFTTEp6VDB1S19id3VoOUZUbzQ0eDdwNzJHNzdvYzRNWUh5cFV6UnhXOE0?oc=5\" target=\"_blank\"&gt;The Legal AI Scaffold Changes Everything – Claude Study&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
@@ -331,12 +355,24 @@
       "relevance_score": 7
     },
     {
-      "title": "Legal AI giant Harvey acquires Hexus as competition heats up in legal tech - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWtsRnRNeWxYZWEwaERMRVJaRWVfQm41MzVDeDJBM1ZIOEstUW5DaTB5UUhjUXE5Sml2QU40RzdZaWlqeUpid3dELUpLTHlKbVNRNmRObWtrZ1dSSXd3R20wSDY3TkVUOHVwRzlZOTh1b1FraXZlNGpuUnBPcXdIU2oxbVZzMTZDVzVNMDRDcGR0NC1oQ2pfMGlUY25YSHBZaHJUTEljdzU5LWREa0E?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWtsRnRNeWxYZWEwaERMRVJaRWVfQm41MzVDeDJBM1ZIOEstUW5DaTB5UUhjUXE5Sml2QU40RzdZaWlqeUpid3dELUpLTHlKbVNRNmRObWtrZ1dSSXd3R20wSDY3TkVUOHVwRzlZOTh1b1FraXZlNGpuUnBPcXdIU2oxbVZzMTZDVzVNMDRDcGR0NC1oQ2pfMGlUY25YSHBZaHJUTEljdzU5LWREa0E?oc=5\" target=\"_blank\"&gt;Legal AI giant Harvey acquires Hexus as competition heats up in legal tech&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;TechCrunch&lt;/font&gt;",
-      "published": "2026-01-23T08:00:00.000Z",
+      "title": "Anthropic’s Legal Plugin for Claude Cowork May Be the Opening Salvo In A Competition Between Foundation Models and Legal Tech Incumbents - LawSites",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQR0U2ZGlPRTRva1FUZkNHeXdpTkJkazR2SG5GWnVwN3dRZkpHVEVhdTQ0c3lOd212bmZZVEdZYWVIcHFnYUFaTGkzb3liRlRabzcxSTBRcXotLTBiRFdyTWtZWXN3MXg5cUh2SVZ0WktNLTAxQmQyY2NGdEZhYjJTRWR5c2lWTmtadnJEYXRXY3l5Z0xiTjkxN3hNRkpqM21oZkRKdC1RYVFFSDctdVlwNFk4RnUyaVd4WkhuMnRxNjJrX0xmMzZpaUtEX0VQeU1qWk44VU9GY2JpQmVCZjJGTUlwOVVyUndYbFl4X0lJZEwyZk9oRUg5dkwxVkRkVUU2YVE?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxQR0U2ZGlPRTRva1FUZkNHeXdpTkJkazR2SG5GWnVwN3dRZkpHVEVhdTQ0c3lOd212bmZZVEdZYWVIcHFnYUFaTGkzb3liRlRabzcxSTBRcXotLTBiRFdyTWtZWXN3MXg5cUh2SVZ0WktNLTAxQmQyY2NGdEZhYjJTRWR5c2lWTmtadnJEYXRXY3l5Z0xiTjkxN3hNRkpqM21oZkRKdC1RYVFFSDctdVlwNFk4RnUyaVd4WkhuMnRxNjJrX0xmMzZpaUtEX0VQeU1qWk44VU9GY2JpQmVCZjJGTUlwOVVyUndYbFl4X0lJZEwyZk9oRUg5dkwxVkRkVUU2YVE?oc=5\" target=\"_blank\"&gt;Anthropic’s Legal Plugin for Claude Cowork May Be the Opening Salvo In A C",
+      "published": "2026-02-03T08:00:00.000Z",
       "source_id": "google-news-legal-tech-funding",
       "source_name": "Google News: legal tech funding",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 7
+    },
+    {
+      "title": "Chicago Cubs and Harvey Announce Partnership, Naming Harvey the Official Legal AI Platform - Harvey",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZUU3Q0tMckdwcHpjczFCRTE1VTI2SW9sRmZOVWJOM1FtZE4zdWh0Q0dKMEZha09qYzZKYWl6VnRpdExBOVI4WmNwSm52LVBfaWhJM0tHZHQwV1p2Z1FtM2U5eGwtazFMS0JNcXpieW9rNExuQy15VHNjbTlVOEE2UWM3VllLMXRLUFdHdjQyOFFXUk1LQ2NkQkNOb1dkZ0poaF9udjJETzJPaWVOd3l5dW9PYno0OVU?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNZUU3Q0tMckdwcHpjczFCRTE1VTI2SW9sRmZOVWJOM1FtZE4zdWh0Q0dKMEZha09qYzZKYWl6VnRpdExBOVI4WmNwSm52LVBfaWhJM0tHZHQwV1p2Z1FtM2U5eGwtazFMS0JNcXpieW9rNExuQy15VHNjbTlVOEE2UWM3VllLMXRLUFdHdjQyOFFXUk1LQ2NkQkNOb1dkZ0poaF9udjJETzJPaWVOd3l5dW9PYno0OVU?oc=5\" target=\"_blank\"&gt;Chicago Cubs and Harvey Announce Partnership, Naming Harvey the Official Legal AI Platform&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
+      "published": "2026-03-26T07:00:00.000Z",
+      "source_id": "google-news-harvey-luminance",
+      "source_name": "Google News: Harvey OR Luminance",
       "source_priority": "critical",
       "source_tier": "A",
       "source_category": "Aggregator",
@@ -352,18 +388,6 @@
       "source_priority": "medium",
       "source_tier": "A",
       "source_category": "Aggregator",
-      "relevance_score": 7
-    },
-    {
-      "title": "Harvey Increases Token Use 14X in Just 6 Months",
-      "url": "https://www.artificiallawyer.com/2026/07/08/harvey-increases-token-use-14x-in-just-6-months/",
-      "summary": "Harvey’s co-founder and President, Gabe Pereyra, has announced that the number of tokens processed on the broad legal AI platform have increased by fourteen times ...",
-      "published": "2026-07-08T08:25:09.000Z",
-      "source_id": "artificial-lawyer",
-      "source_name": "Artificial Lawyer",
-      "source_priority": "critical",
-      "source_tier": "B",
-      "source_category": "Legal AI",
       "relevance_score": 7
     },
     {
@@ -403,66 +427,6 @@
       "relevance_score": 7
     },
     {
-      "title": "Webinar: Why Contract Ownership Is Your Most Expensive Blind Spot",
-      "url": "https://abovethelaw.com/2026/07/webinar-why-contract-ownership-is-your-most-expensive-blind-spot/",
-      "summary": "[Sponsored] Join us for this webinar as the group will dig into what the new global data reveals about why contract ownership remains Legal's most expensive blind spot. The post Webinar: Why Contract Ownership Is Your Most Expensive Blind Spot appeared first on Above the Law .",
-      "published": "2026-07-08T15:34:00.000Z",
-      "source_id": "above-the-law-legaltech",
-      "source_name": "Above the Law (Legal Tech)",
-      "source_priority": "high",
-      "source_tier": "B",
-      "source_category": "Legal profession",
-      "relevance_score": 7
-    },
-    {
-      "title": "F-35 For Turkey? Trump Says ‘Certainly, We’ll Consider’ Reversing Ban",
-      "url": "https://breakingdefense.com/2026/07/f-35-for-turkey-trump-says-certainly-well-consider-reversing-ban/",
-      "summary": "'We’re going to be taking the sanctions off,' the president said. 'We’re going to be taking the sanctions off. It’s time to do that. Ok? We don’t want to sanction friends. It’s very simple.' The post F-35 For Turkey? Trump Says ‘Certainly, We’ll Consider’ Reversing Ban appeared first on Above the Law .",
-      "published": "2026-07-08T14:03:00.000Z",
-      "source_id": "above-the-law-legaltech",
-      "source_name": "Above the Law (Legal Tech)",
-      "source_priority": "high",
-      "source_tier": "B",
-      "source_category": "Legal profession",
-      "relevance_score": 7
-    },
-    {
-      "title": "So you&#8217;re GC, now what? Legal chiefs at leading corporates on the reality of life at the top",
-      "url": "https://www.legalbusiness.co.uk/in-house/so-youre-gc-now-what-legal-chiefs-at-leading-corporates-on-the-reality-of-life-at-the-top/",
-      "summary": "‘Day one as GC, the rules change. Suddenly, the buck stops with you, and you can no longer delegate upwards on legal matters,’ says James Ford, group general counsel at GSK. Those who reach the top ranks will already have ‘weathered a lot of storms’, as Ford puts it &#8211; but, even so, there&#8217;s a &#8230; Continue reading \"So you&#8217;re GC, now what? Legal chiefs at leading corporates on the reality of life at the top\"",
-      "published": "2026-07-08T14:00:23.000Z",
-      "source_id": "legal-business",
-      "source_name": "Legal Business",
-      "source_priority": "medium",
-      "source_tier": "B",
-      "source_category": "Legal profession",
-      "relevance_score": 7
-    },
-    {
-      "title": "Bird &#038; Bird puts revenue up 4% as growth slows",
-      "url": "https://www.legalbusiness.co.uk/law-firms/bird-bird-puts-revenue-up-4-as-growth-slows/",
-      "summary": "Bird &#38; Bird has seen its revenue grow by 4% to reach €702m, up from last year’s figure of €672.6m. Profit per equity partner (PEP), meanwhile, has dipped 1.5% to €819k, down from last year’s figure of €831,000, while net profit grew by 1%. The dip means the firm has seen its PEP decline for &#8230; Continue reading \"Bird &#038; Bird puts revenue up 4% as growth slows\"",
-      "published": "2026-07-08T13:57:02.000Z",
-      "source_id": "legal-business",
-      "source_name": "Legal Business",
-      "source_priority": "medium",
-      "source_tier": "B",
-      "source_category": "Legal profession",
-      "relevance_score": 7
-    },
-    {
-      "title": "2026 Future of Professionals: What the data says about the human side of AI",
-      "url": "https://www.thomsonreuters.com/en-us/posts/technology/future-of-professionals-analysis-human-side-of-ai/",
-      "summary": "The “Future of Professionals Report 2026” reveals a broken link between leadership’s AI ambition and what professionals experience every day.",
-      "published": "2026-07-08T14:51:45.000Z",
-      "source_id": "thomson-reuters-institute",
-      "source_name": "Thomson Reuters Institute",
-      "source_priority": "medium",
-      "source_tier": "B",
-      "source_category": "Research",
-      "relevance_score": 7
-    },
-    {
       "title": "A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding",
       "url": "https://arxiv.org/abs/2607.05406",
       "summary": "arXiv:2607.05406v1 Announce Type: cross Abstract: Large language models generate code from natural language prompts, enabling \"vibe coding,\" which allows non-programmers to develop computational solutions. Vibe coding for teachers amplifies the value of teachers-as-designers, improving technology integration while fostering AI literacy. However, structured guidance on supporting this process is lacking. We propose GAIDE (A Guiding Framework for AI-Integrated Design for Educators), a framework th",
@@ -485,6 +449,42 @@
       "source_tier": "B",
       "source_category": "Research",
       "relevance_score": 7
+    },
+    {
+      "title": "OpenAI hires Ironclad co-founder as tech giant moves into legaltech - The Global Legal Post",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaUR0RkgzbVhTczZLZjRFMnRpN2JLT0l3OUllYnVVWEFKbFVqNzl0ZGc1a29tMWdKY3EyUGpndXlaX09UY1VBZVBoRy02S1ZPMHpzV0ZCTDc5ZnpWSTRfNnl2SmhiYU5EODFaTW5JbU5ld3Bkc2NHbF9STmo4RzhMWTBuUTlfU3BoYXdkZHloWlNNZ1lLbldPSDYzYXptYnRlTzZaYkhMODI2TmlxWk1oSzNDZHNnZw?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPaUR0RkgzbVhTczZLZjRFMnRpN2JLT0l3OUllYnVVWEFKbFVqNzl0ZGc1a29tMWdKY3EyUGpndXlaX09UY1VBZVBoRy02S1ZPMHpzV0ZCTDc5ZnpWSTRfNnl2SmhiYU5EODFaTW5JbU5ld3Bkc2NHbF9STmo4RzhMWTBuUTlfU3BoYXdkZHloWlNNZ1lLbldPSDYzYXptYnRlTzZaYkhMODI2TmlxWk1oSzNDZHNnZw?oc=5\" target=\"_blank\"&gt;OpenAI hires Ironclad co-founder as tech giant moves into legaltech&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Global Legal Post&lt;/font&gt;",
+      "published": "2026-06-02T07:00:00.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
+    },
+    {
+      "title": ":Harvey:’s Top 5 Product Releases of 2025 - Harvey",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxbTlSWkxnMmFXTHJVZ1c4d1RndE9Kc25mYms2dkxyOUl6R09HQU5VN0VkZEVEYzVLb2djeXhJSkVXTWtSRUx4dlJTRUlkWTFKb3o3Ukg0MzRRTXFXNy14dVNNLUl6cUxN?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxbTlSWkxnMmFXTHJVZ1c4d1RndE9Kc25mYms2dkxyOUl6R09HQU5VN0VkZEVEYzVLb2djeXhJSkVXTWtSRUx4dlJTRUlkWTFKb3o3Ukg0MzRRTXFXNy14dVNNLUl6cUxN?oc=5\" target=\"_blank\"&gt;:Harvey:’s Top 5 Product Releases of 2025&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
+      "published": "2025-12-30T08:00:00.000Z",
+      "source_id": "google-news-harvey-luminance",
+      "source_name": "Google News: Harvey OR Luminance",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
+    },
+    {
+      "title": "Never Start From Scratch Again With Memory in :Harvey: - Harvey",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUb0tYcVdQczRrTGVTYzZ3dG9Uc3NyaHZ6QTl6bm1HaDFjcHVKUGhqWk1ySGJiR2JQSlZyem1oSlpxejRBQXo1ZDZmck81ZTl3cmVRZU5R?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUb0tYcVdQczRrTGVTYzZ3dG9Uc3NyaHZ6QTl6bm1HaDFjcHVKUGhqWk1ySGJiR2JQSlZyem1oSlpxejRBQXo1ZDZmck81ZTl3cmVRZU5R?oc=5\" target=\"_blank\"&gt;Never Start From Scratch Again With Memory in :Harvey:&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
+      "published": "2026-01-08T08:00:00.000Z",
+      "source_id": "google-news-harvey-luminance",
+      "source_name": "Google News: Harvey OR Luminance",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
     }
   ]
 }

@@ -1,69 +1,69 @@
 {
-  "generated": "2026-07-08T19:55:58.285Z",
+  "generated": "2026-07-08T22:13:54.558Z",
   "cycle_type": "triage",
   "tier_filter": null,
-  "shortlist_size": 8,
+  "shortlist_size": 7,
   "prefilter": {
     "total": 40,
-    "accepted": 8,
+    "accepted": 7,
     "borderline": 0,
-    "rejected": 32,
-    "rejected_as_duplicate": 32,
-    "accept_rate": 20
+    "rejected": 33,
+    "rejected_as_duplicate": 33,
+    "accept_rate": 18
   },
   "model": "claude-haiku-4-5-20251001",
   "picks": [
     {
-      "id": "arxiv-cs-ai-0",
+      "id": "hacker-news-0",
       "score": 2,
-      "category": "Research",
-      "suggested_angle": "Academic study on AI literacy gaps in higher education",
-      "why_now": "Peripheral to legal AI focus; general EdTech AI governance research with no legal vertical angle",
+      "category": "Legal AI",
+      "suggested_angle": "Open-source AI chat tool positions itself as bloat-free alternative to Claude/ChatGPT",
+      "why_now": "Generic AI tooling, not legal-specific; no law firm adoption angle or regulatory hook",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
-      "id": "ars-technica-ai-1",
-      "score": 1,
-      "category": "Research",
-      "suggested_angle": "Google Android benchmarking updates",
-      "why_now": "No legal AI relevance; generic consumer/developer AI benchmarking",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-2",
+      "id": "arxiv-cs-ai-1",
       "score": 3,
       "category": "Research",
-      "suggested_angle": "LLM integration for scholarly research workflows",
-      "why_now": "Academic research on LLMs in social sciences; no legal vertical hook despite regulatory framing",
+      "suggested_angle": "Study maps divergent AI literacy pathways in higher education institutions",
+      "why_now": "Academic research without legal focus or new methodology; low newsworthiness for legal AI publication",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
-      "id": "above-the-law-legaltech-3",
-      "score": 1,
-      "category": "Policy",
-      "suggested_angle": "Trump administration defense policy on Turkey/F-35",
-      "why_now": "Not legal tech, not legal AI; geopolitical/defense policy misclassified by prefilter",
+      "id": "ars-technica-ai-2",
+      "score": 2,
+      "category": "Social",
+      "suggested_angle": "Google updates Android benchmarking tool; Gemini performance lags competitors",
+      "why_now": "Consumer/dev tooling benchmark update; no legal tech angle, no firm adoption implications",
       "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-3",
+      "score": 4,
+      "category": "Research",
+      "suggested_angle": "Study explores integration of knowledge graphs and multilingual corpora for domain-adaptive LLMs in social sciences",
+      "why_now": "Academic research with potential regulatory/methodological implications for legal scholarship workflows; tangential but not core legal AI",
+      "verdict": "watch",
       "duplicate_of": null
     },
     {
       "id": "arxiv-cs-ai-4",
       "score": 2,
       "category": "Research",
-      "suggested_angle": "Economic simulation study using Claude Opus agents",
-      "why_now": "Pure academic AI research; no legal application or implications",
+      "suggested_angle": "Pre-registered experiment tests multi-agent LLM behaviour in simulated economies",
+      "why_now": "Theoretical economics research using Claude; no legal application or firm-relevant insight",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
       "id": "arxiv-cs-ai-5",
-      "score": 2,
+      "score": 3,
       "category": "Research",
-      "suggested_angle": "NLP methodology for clinical electronic medical records",
-      "why_now": "Healthcare NLP research; no legal angle despite mentions of data extraction systems",
+      "suggested_angle": "NLP methodology paper focuses on clinical/medical record extraction rather than legal workflows",
+      "why_now": "Healthcare NLP guidance; not legal-domain specific, no immigration or legal tech angle",
       "verdict": "drop",
       "duplicate_of": null
     },
@@ -71,17 +71,8 @@
       "id": "above-the-law-legaltech-6",
       "score": 4,
       "category": "Legal AI",
-      "suggested_angle": "iManage CEO on DMS as AI foundation layer",
-      "why_now": "Watch-list company (iManage) with AI-forward positioning, but this is sponsored content with no independent news hook",
-      "verdict": "watch",
-      "duplicate_of": null
-    },
-    {
-      "id": "above-the-law-legaltech-7",
-      "score": 2,
-      "category": "Legal AI",
-      "suggested_angle": "Sponsored webinar on contract ownership and risk",
-      "why_now": "Webinar promotion with no independent reporting, no specific company or finding disclosed",
+      "suggested_angle": "iManage CEO positioned commentary on document management as AI foundation layer",
+      "why_now": "Sponsored content/CEO interview; marketing puff without independent news hook or product launch announcement",
       "verdict": "drop",
       "duplicate_of": null
     }
@@ -89,19 +80,19 @@
   "summary": {
     "enqueue_count": 0,
     "watch_count": 1,
-    "drop_count": 7,
-    "notes": "Shortlist heavily contaminated by general AI research papers and irrelevant defense policy; only iManage content warrants editorial review for potential angle on DMS-as-AI-infrastructure trend, but is clearly sponsored. No stories meet enqueue threshold."
+    "drop_count": 6,
+    "notes": "Weak batch. No funding rounds, regulatory moves, or major firm announcements. arxiv-cs-ai-3 has tangential legal/regulatory interest (scholarly corpora, methodological/epistemic challenges) but insufficient news value. Rest are consumer AI tools, generic benchmarks, medical NLP, or sponsored puff."
   },
   "enqueued": 0,
   "usage": {
-    "input_tokens": 3484,
+    "input_tokens": 3260,
     "cache_creation_input_tokens": 0,
     "cache_read_input_tokens": 0,
     "cache_creation": {
       "ephemeral_5m_input_tokens": 0,
       "ephemeral_1h_input_tokens": 0
     },
-    "output_tokens": 905,
+    "output_tokens": 873,
     "service_tier": "standard",
     "inference_geo": "not_available"
   }
