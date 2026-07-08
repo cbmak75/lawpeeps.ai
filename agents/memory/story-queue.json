@@ -1704,7 +1704,106 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "Harvey Increases Token Use 14X in Just 6 Months",
+      "slug": "harvey-increases-token-use-14x-in-just-6-months",
+      "score": 8,
+      "category": "Legal AI",
+      "story_type": "news",
+      "research_brief": "Harvey’s co-founder and President, Gabe Pereyra, has announced that the number of tokens processed on the broad legal AI platform have increased by fourteen times ...",
+      "primary_source": "https://www.artificiallawyer.com/2026/07/08/harvey-increases-token-use-14x-in-just-6-months/",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "Harvey's 14x token growth in 6 months signals sustained enterprise adoption momentum",
+      "why_now": "Primary source from tier-B critical outlet on major watch-list company; concrete usage metric demonstrates market traction beyond funding announcements",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Artificial Lawyer",
+      "source_tier": "B",
+      "prefilter_score": 14,
+      "matched_terms": [
+        "legal AI",
+        "Harvey"
+      ],
+      "fingerprint": {
+        "entities": [
+          "harvey"
+        ],
+        "numerics": [
+          "6m"
+        ],
+        "keywords": [
+          "legal ai"
+        ],
+        "title_tokens": [
+          "harvey",
+          "increases",
+          "token",
+          "months"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-07-08T11:10:48.942Z",
+      "queued_at": "2026-07-08T11:10:48.949Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
+    },
+    {
+      "title": "Docusign’s Legal Tech Strategy With Jim Shaughnessy",
+      "slug": "docusign-s-legal-tech-strategy-with-jim-shaughnessy",
+      "score": 7,
+      "category": "Legal AI",
+      "story_type": "news",
+      "research_brief": "Docusign is a $3.2 billion revenue company and is now focusing more than ever before on its legal tech offering. In this AL interview with ...",
+      "primary_source": "https://www.artificiallawyer.com/2026/07/08/docusigns-legal-tech-strategy-with-jim-shaughnessy/",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "DocuSign pivots legal tech strategy under new leadership; interview with Jim Shaughnessy on company direction",
+      "why_now": "Primary source interview from tier-B critical outlet; DocuSign is significant legal tech player; reveals strategic shift worth covering",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Artificial Lawyer",
+      "source_tier": "B",
+      "prefilter_score": 13,
+      "matched_terms": [
+        "legal tech",
+        "Eve"
+      ],
+      "fingerprint": {
+        "entities": [
+          "eve"
+        ],
+        "numerics": [
+          "3.2bn"
+        ],
+        "keywords": [
+          "legal tech"
+        ],
+        "title_tokens": [
+          "docusign",
+          "legal",
+          "tech",
+          "strategy",
+          "shaughnessy"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-07-08T11:10:48.951Z",
+      "queued_at": "2026-07-08T11:10:48.958Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-07-07T22:18:37.171Z"
+  "last_updated": "2026-07-08T11:10:48.958Z"
 }

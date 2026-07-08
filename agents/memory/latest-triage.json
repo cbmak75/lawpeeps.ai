@@ -1,31 +1,134 @@
 {
-  "generated": "2026-07-08T08:41:28.099Z",
+  "generated": "2026-07-08T11:10:48.960Z",
   "cycle_type": "triage",
   "tier_filter": null,
-  "shortlist_size": 20,
+  "shortlist_size": 11,
   "prefilter": {
     "total": 40,
-    "accepted": 31,
+    "accepted": 11,
     "borderline": 0,
-    "rejected": 9,
-    "rejected_as_duplicate": 9,
-    "accept_rate": 78
+    "rejected": 29,
+    "rejected_as_duplicate": 29,
+    "accept_rate": 28
   },
   "model": "claude-haiku-4-5-20251001",
-  "picks": [],
+  "picks": [
+    {
+      "id": "artificial-lawyer-0",
+      "score": 8,
+      "category": "Legal AI",
+      "suggested_angle": "Harvey's 14x token growth in 6 months signals sustained enterprise adoption momentum",
+      "why_now": "Primary source from tier-B critical outlet on major watch-list company; concrete usage metric demonstrates market traction beyond funding announcements",
+      "verdict": "enqueue",
+      "duplicate_of": null
+    },
+    {
+      "id": "google-news-legal-ai-1",
+      "score": 3,
+      "category": "Legal AI",
+      "suggested_angle": "Jupitice/Ironclad announce trust layer for AI-native legal ops",
+      "why_now": "Appears to be press release coverage from Google News aggregation; Ironclad not on watch-list; no independent news hook evident from summary",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-2",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Academic study on GenAI literacy pathways in higher education",
+      "why_now": "Pre-print server article with no legal AI specificity; matches Litera and Eve but neither are core watch-list entities; tangential to legal tech",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "artificial-lawyer-3",
+      "score": 7,
+      "category": "Legal AI",
+      "suggested_angle": "DocuSign pivots legal tech strategy under new leadership; interview with Jim Shaughnessy on company direction",
+      "why_now": "Primary source interview from tier-B critical outlet; DocuSign is significant legal tech player; reveals strategic shift worth covering",
+      "verdict": "enqueue",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-4",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Knowledge graphs and LLMs in scholarly research workflows",
+      "why_now": "Academic preprint with methodological focus on SSH domains; not legal-specific; no news hook",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-5",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Multi-agent LLM economic simulation study",
+      "why_now": "Academic preprint testing Claude Opus in controlled economic scenarios; no legal application; no news event",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-6",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "NLP methodology for clinical data extraction",
+      "why_now": "Academic preprint on healthcare NLP; not legal-sector focused; no news hook",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "hacker-news-7",
+      "score": 1,
+      "category": "Social",
+      "suggested_angle": "Generic AI builder lessons video",
+      "why_now": "Low signal aggregation from Hacker News; no legal AI angle; minimal engagement (3 points)",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "hacker-news-8",
+      "score": 1,
+      "category": "Social",
+      "suggested_angle": "Philosophical essay on AI as speciation event",
+      "why_now": "Minimal engagement (1 point); no legal relevance; general tech philosophy piece",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "legal-futures-9",
+      "score": 2,
+      "category": "Regulatory",
+      "suggested_angle": "Consumer survey finds majority want lawyers to keep client account interest",
+      "why_now": "Legal services regulation topic but no AI angle; consumer preference data without AI/tech innovation element",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "law-society-gazette-10",
+      "score": 1,
+      "category": "Social",
+      "suggested_angle": "Mail hacking trial limitation rulings",
+      "why_now": "Legal news but unrelated to AI, legal tech, regulation of AI, or immigration; no relevance to editorial remit",
+      "verdict": "drop",
+      "duplicate_of": null
+    }
+  ],
   "summary": {
-    "notes": "parse_failed"
+    "enqueue_count": 2,
+    "watch_count": 0,
+    "drop_count": 9,
+    "notes": "Harvey growth story merits coverage as concrete adoption metric from tier-B critical source; DocuSign interview offers strategic insight on major legal tech player pivoting. Remaining items are academic preprints, low-signal aggregation, or out-of-scope legal news."
   },
-  "enqueued": 0,
+  "enqueued": 2,
   "usage": {
-    "input_tokens": 5586,
+    "input_tokens": 4278,
     "cache_creation_input_tokens": 0,
     "cache_read_input_tokens": 0,
     "cache_creation": {
       "ephemeral_5m_input_tokens": 0,
       "ephemeral_1h_input_tokens": 0
     },
-    "output_tokens": 2000,
+    "output_tokens": 1272,
     "service_tier": "standard",
     "inference_geo": "not_available"
   }
