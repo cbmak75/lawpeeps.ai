@@ -1,23 +1,11 @@
 {
-  "generated": "2026-07-07T22:18:27.826Z",
+  "generated": "2026-07-08T03:32:43.079Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 1717,
+  "total_scanned": 1800,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
-    {
-      "title": "Harbor Acquires iTrain for Legal AI Education",
-      "url": "https://www.artificiallawyer.com/2026/07/07/harbor-acquires-itrain-for-legal-ai-education/",
-      "summary": "Harbor, the legal tech services group, has bought iTrain, which focuses on tech training, including AI enablement. It maintains strategic partnerships with Aderant, iManage, NetDocuments, ...",
-      "published": "2026-07-07T16:39:24.000Z",
-      "source_id": "artificial-lawyer",
-      "source_name": "Artificial Lawyer",
-      "source_priority": "critical",
-      "source_tier": "B",
-      "source_category": "Legal AI",
-      "relevance_score": 14
-    },
     {
       "title": "Ironclad Founder Jason Boehmig Joins OpenAI To Develop Products for the Legal Sector",
       "url": "https://www.lawnext.com/2026/06/ironclad-founder-jason-boehmig-joins-openai-to-develop-products-for-the-legal-sector.html",
@@ -41,6 +29,18 @@
       "source_tier": "B",
       "source_category": "Legal tech commentary",
       "relevance_score": 13
+    },
+    {
+      "title": "Harbor Acquires iTrain for Legal AI Education",
+      "url": "https://www.artificiallawyer.com/2026/07/07/harbor-acquires-itrain-for-legal-ai-education/",
+      "summary": "Harbor, the legal tech services group, has bought iTrain, which focuses on tech training, including AI enablement. It maintains strategic partnerships with Aderant, iManage, NetDocuments, ...",
+      "published": "2026-07-07T16:39:24.000Z",
+      "source_id": "artificial-lawyer",
+      "source_name": "Artificial Lawyer",
+      "source_priority": "critical",
+      "source_tier": "B",
+      "source_category": "Legal AI",
+      "relevance_score": 12
     },
     {
       "title": "Legal AI, Trust, and Agents: Joel Hron on Thomson Reuters, Anthropic, and the Future of CoCounsel",
@@ -139,6 +139,18 @@
       "relevance_score": 9
     },
     {
+      "title": "Fastcase And Alexi Head To Court This Week In High-Stakes Fight Over Legal AI, Caselaw Data And Clio’s $1B vLex Deal - LawSites",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNR1RSSVc5UVpVekhrVGVNei01M0xvTGhUczY3QlcydHNOVm1KRHdxcjZwa0Q0UDltUndVSlBxS3YxWWphTzBzSnh2NGZ5SHdGRWRsdXBwUFlBVHV5WDZYbEZqckxzdE1Da05nakVvOWFTTWh0X1oyWTVfU0FVeTgyQ3JfZFdLTlBDZHA1cUVUY1JXTWZGNk9YNmQyb2txRWFDYkhZTEExbjRadDBfdDktYnBLUF91bldDc2pVOUd2aklYd2hLWmotQ3VVNXlJbjdSNmM5QVRkVnNYOUtPSHVKU3ZlcGs?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNR1RSSVc5UVpVekhrVGVNei01M0xvTGhUczY3QlcydHNOVm1KRHdxcjZwa0Q0UDltUndVSlBxS3YxWWphTzBzSnh2NGZ5SHdGRWRsdXBwUFlBVHV5WDZYbEZqckxzdE1Da05nakVvOWFTTWh0X1oyWTVfU0FVeTgyQ3JfZFdLTlBDZHA1cUVUY1JXTWZGNk9YNmQyb2txRWFDYkhZTEExbjRadDBfdDktYnBLUF91bldDc2pVOUd2aklYd2hLWmotQ3VVNXlJbjdSNmM5QVRkVnNYOUtPSHVKU3ZlcGs?oc=5\" target=\"_blank\"&gt;Fastcase And Alexi Head To Court This Week In High-Stakes Fight Over Legal AI, Caselaw Data And Clio’s $1B vLex De",
+      "published": "2026-07-06T14:32:01.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 8
+    },
+    {
       "title": "Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook partners with CBA; DeepIP raises $25m - Legal IT Insider",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcXJGTU9ucEc1azNNOTZ3eWI1dldHblpjS0lIdG9jTy1YSE1SSEdlWXlqa041bzd4R052ckZLZG1TQnh6eUE1bFhEV0FyYlFndF84Z1hTczZXZ0IzOVRoMF9jWHhkMXp2X2tjenNUMktCZWM1eVlvM0tjZEpvX2ZoeUpaTUN5UTZUaDJEWWdvVDFJZWpGYTZiQV8ycEc1dEJRMTJCWktEV3IwX3FoX1F6cFk5dkJ1VUtHaURCWmlBTUpTcFRJQVk3cmYxODlsMEpjQnRMdHkwLWNoR1lzT01jRmJlSjJwdw?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcXJGTU9ucEc1azNNOTZ3eWI1dldHblpjS0lIdG9jTy1YSE1SSEdlWXlqa041bzd4R052ckZLZG1TQnh6eUE1bFhEV0FyYlFndF84Z1hTczZXZ0IzOVRoMF9jWHhkMXp2X2tjenNUMktCZWM1eVlvM0tjZEpvX2ZoeUpaTUN5UTZUaDJEWWdvVDFJZWpGYTZiQV8ycEc1dEJRMTJCWktEV3IwX3FoX1F6cFk5dkJ1VUtHaURCWmlBTUpTcFRJQVk3cmYxODlsMEpjQnRMdHkwLWNoR1lzT01jRmJlSjJwdw?oc=5\" target=\"_blank\"&gt;Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook partners with CBA; De",
@@ -167,18 +179,6 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaDhOaTN1RzVmZmxWa1U2TTZyTW9ucXRjZjU2RHUzT0RoMTJQb1BvZ1hpbUgwTUFZS3U5UHV1R21abHdrRDR3cFlWTC1SY3J2WUN1YWlwSlY0Y0VpVjVYSXV2dk93YjhuU0NXYTE5QnBiVHF5bHVLRHdWbzMxdVB3MU0zMFh1TzF0U1JmOA?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQaDhOaTN1RzVmZmxWa1U2TTZyTW9ucXRjZjU2RHUzT0RoMTJQb1BvZ1hpbUgwTUFZS3U5UHV1R21abHdrRDR3cFlWTC1SY3J2WUN1YWlwSlY0Y0VpVjVYSXV2dk93YjhuU0NXYTE5QnBiVHF5bHVLRHdWbzMxdVB3MU0zMFh1TzF0U1JmOA?oc=5\" target=\"_blank\"&gt;Why legal tech giant Harvey is raising cash like OpenAI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Business Insider&lt;/font&gt;",
       "published": "2026-03-26T07:00:00.000Z",
-      "source_id": "google-news-legal-tech-funding",
-      "source_name": "Google News: legal tech funding",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 8
-    },
-    {
-      "title": "EvenUp, AI Software For Personal Injury Law, Doubles Valuation To $2B As Legal Tech Funding Hits Record High - Crunchbase News",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY2p6WWxfeE1ZZDJxQXJPOWtrR2VZdkxlSkFtck03QWJtOU1YcGtHUFBlZllXMXkxeXRlcHhfZU9vR0VMU1JUS0FYMGNUSXZ0UnVRSU5YRVZuWERkU29MVFYzYjNtdHN6OUZGU3JlNWpLcDI3eTRwam5fVkhUSzU2WFdtX0daQUNseG50YzRpTQ?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQY2p6WWxfeE1ZZDJxQXJPOWtrR2VZdkxlSkFtck03QWJtOU1YcGtHUFBlZllXMXkxeXRlcHhfZU9vR0VMU1JUS0FYMGNUSXZ0UnVRSU5YRVZuWERkU29MVFYzYjNtdHN6OUZGU3JlNWpLcDI3eTRwam5fVkhUSzU2WFdtX0daQUNseG50YzRpTQ?oc=5\" target=\"_blank\"&gt;EvenUp, AI Software For Personal Injury Law, Doubles Valuation To $2B As Legal Tech Funding Hits Record High&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Crunchbase News&lt;/font&gt;",
-      "published": "2025-10-07T07:00:00.000Z",
       "source_id": "google-news-legal-tech-funding",
       "source_name": "Google News: legal tech funding",
       "source_priority": "critical",
@@ -331,12 +331,48 @@
       "relevance_score": 7
     },
     {
-      "title": "On LawNext: Inside Claude for Legal — Anthropic’s Mark Pike on AI’s Next Frontier in Law - LawSites",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR1VDZkhCS01MODJPZkFia2xVcjM3c3NmX2JXX2FDaHFaTEc4Q19LV0d5alBqVjVEaE5OMmVxcjY4NlIyamJ4NXM3NVl0V0JCNnFDaHpJSHFpT2FJVmhWemw5RkpfbUpTNXZlZ0hHMXd2WUVhZEdnT085bVVPSkNGcWFONm9qUHF6TTAxQkd1ODhYUjJxNkZZNVBFVjBiV3FjMm0tb1Bhb2w2VkRNdEdhSjVHcXBuSkxncThwNw?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOR1VDZkhCS01MODJPZkFia2xVcjM3c3NmX2JXX2FDaHFaTEc4Q19LV0d5alBqVjVEaE5OMmVxcjY4NlIyamJ4NXM3NVl0V0JCNnFDaHpJSHFpT2FJVmhWemw5RkpfbUpTNXZlZ0hHMXd2WUVhZEdnT085bVVPSkNGcWFONm9qUHF6TTAxQkd1ODhYUjJxNkZZNVBFVjBiV3FjMm0tb1Bhb2w2VkRNdEdhSjVHcXBuSkxncThwNw?oc=5\" target=\"_blank\"&gt;On LawNext: Inside Claude for Legal — Anthropic’s Mark Pike on AI’s Next Frontier in Law&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;LawSites&lt;/font&gt;",
-      "published": "2026-07-07T12:30:59.000Z",
+      "title": "Anthropic’s Claude Fable 5 withdrawal highlights geopolitical risk in legal AI supply chain - Legal IT Insider",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRGR2VWJnT1pVbFdVWjJLSGZwcGRHYWFyWldkUll3ZUpVcXJTRUswMWxwemh0RzN5bnZLR3RPVHotSUZrRGdVWTNxVEFWdFlhMXhoUEt2ZDNBaUdTTVdqYzd0N25zd0U2NHY0N2F3bm0yMWJHUzNYRmJHNk8zeS0yNlQ4SkhzTW5uY0VjVExkamJDWUZtVWhrOGFPSXg1VWJPTVhhVTBLUTRUQjYwY3pVSGlYVDhFazllOUF3?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRGR2VWJnT1pVbFdVWjJLSGZwcGRHYWFyWldkUll3ZUpVcXJTRUswMWxwemh0RzN5bnZLR3RPVHotSUZrRGdVWTNxVEFWdFlhMXhoUEt2ZDNBaUdTTVdqYzd0N25zd0U2NHY0N2F3bm0yMWJHUzNYRmJHNk8zeS0yNlQ4SkhzTW5uY0VjVExkamJDWUZtVWhrOGFPSXg1VWJPTVhhVTBLUTRUQjYwY3pVSGlYVDhFazllOUF3?oc=5\" target=\"_blank\"&gt;Anthropic’s Claude Fable 5 withdrawal highlights geopolitical risk in legal AI supply chain&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Legal IT Insider&lt;",
+      "published": "2026-06-15T07:00:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 7
+    },
+    {
+      "title": "Legal AI startup Eve hit with patent infringement lawsuit - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeC13U1l6NkhycTZLUllMeU91VFB1RTZSdHF0LXY2MHc5dzZRa3lvckQ3LUNYV19MZzBnLXV1aF91Tl9RSElRTi1sbEotMVpuYV9rREhJa05jMmR1eU5DTUFxdXRxVEZJdk13MUZJc1hoQTVVbnlRczJLTVJFa3U4V0NWOVNrWVVJLVRncXdKVVlQaS1zWEoweGl4Tk5BajMyWHhHSFliNXVRNDhaOXFRS3BnWQ?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNeC13U1l6NkhycTZLUllMeU91VFB1RTZSdHF0LXY2MHc5dzZRa3lvckQ3LUNYV19MZzBnLXV1aF91Tl9RSElRTi1sbEotMVpuYV9rREhJa05jMmR1eU5DTUFxdXRxVEZJdk13MUZJc1hoQTVVbnlRczJLTVJFa3U4V0NWOVNrWVVJLVRncXdKVVlQaS1zWEoweGl4Tk5BajMyWHhHSFliNXVRNDhaOXFRS3BnWQ?oc=5\" target=\"_blank\"&gt;Legal AI startup Eve hit with patent infringement lawsuit&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Reuters&lt;/font&gt;",
+      "published": "2026-06-17T07:00:00.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 7
+    },
+    {
+      "title": "Anthropic’s Legal Plugin for Claude Cowork May Be the Opening Salvo In A Competition Between Foundation Models and Legal Tech Incumbents - LawSites",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQR0U2ZGlPRTRva1FUZkNHeXdpTkJkazR2SG5GWnVwN3dRZkpHVEVhdTQ0c3lOd212bmZZVEdZYWVIcHFnYUFaTGkzb3liRlRabzcxSTBRcXotLTBiRFdyTWtZWXN3MXg5cUh2SVZ0WktNLTAxQmQyY2NGdEZhYjJTRWR5c2lWTmtadnJEYXRXY3l5Z0xiTjkxN3hNRkpqM21oZkRKdC1RYVFFSDctdVlwNFk4RnUyaVd4WkhuMnRxNjJrX0xmMzZpaUtEX0VQeU1qWk44VU9GY2JpQmVCZjJGTUlwOVVyUndYbFl4X0lJZEwyZk9oRUg5dkwxVkRkVUU2YVE?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxQR0U2ZGlPRTRva1FUZkNHeXdpTkJkazR2SG5GWnVwN3dRZkpHVEVhdTQ0c3lOd212bmZZVEdZYWVIcHFnYUFaTGkzb3liRlRabzcxSTBRcXotLTBiRFdyTWtZWXN3MXg5cUh2SVZ0WktNLTAxQmQyY2NGdEZhYjJTRWR5c2lWTmtadnJEYXRXY3l5Z0xiTjkxN3hNRkpqM21oZkRKdC1RYVFFSDctdVlwNFk4RnUyaVd4WkhuMnRxNjJrX0xmMzZpaUtEX0VQeU1qWk44VU9GY2JpQmVCZjJGTUlwOVVyUndYbFl4X0lJZEwyZk9oRUg5dkwxVkRkVUU2YVE?oc=5\" target=\"_blank\"&gt;Anthropic’s Legal Plugin for Claude Cowork May Be the Opening Salvo In A C",
+      "published": "2026-02-03T08:00:00.000Z",
+      "source_id": "google-news-legal-tech-funding",
+      "source_name": "Google News: legal tech funding",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 7
+    },
+    {
+      "title": "Harvey AI's outsized desk lease signals AI sector's flex office appetite - Green Street News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd1pmTHluMjFXYWpESU8yZHNGTmJpVnNFb0tiYjcydm1ZQWdHS3BiY3RCbEUzaDlGWW01amVkbTdPVWhTQ3V2X3kzV3F4OTFvbUhfOTllSm9WWGczMG9BLXd4TnI1cUVoUU9CaV82dUx4OTdrck5wSGJUeHNtaXo0bXZMVklHODJ1ZFlHWGllQWVzUl9aeXFEX3FFYXJLd3NOMFJya0tTYmtic2c?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd1pmTHluMjFXYWpESU8yZHNGTmJpVnNFb0tiYjcydm1ZQWdHS3BiY3RCbEUzaDlGWW01amVkbTdPVWhTQ3V2X3kzV3F4OTFvbUhfOTllSm9WWGczMG9BLXd4TnI1cUVoUU9CaV82dUx4OTdrck5wSGJUeHNtaXo0bXZMVklHODJ1ZFlHWGllQWVzUl9aeXFEX3FFYXJLd3NOMFJya0tTYmtic2c?oc=5\" target=\"_blank\"&gt;Harvey AI's outsized desk lease signals AI sector's flex office appetite&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Green Street News&lt;/font&gt;",
+      "published": "2026-07-07T22:47:15.000Z",
+      "source_id": "google-news-harvey-luminance",
+      "source_name": "Google News: Harvey OR Luminance",
       "source_priority": "critical",
       "source_tier": "A",
       "source_category": "Aggregator",
@@ -376,18 +412,6 @@
       "source_priority": "critical",
       "source_tier": "B",
       "source_category": "Legal AI",
-      "relevance_score": 7
-    },
-    {
-      "title": "On LawNext: Inside Claude for Legal &#8212; Anthropic&#8217;s Mark Pike on AI&#8217;s Next Frontier in Law",
-      "url": "https://www.lawnext.com/2026/07/on-lawnext-inside-claude-for-legal-anthropics-mark-pike-on-ais-next-frontier-in-law.html",
-      "summary": "When Anthropic launched Claude for Legal in May – more than 20 MCP connectors and a dozen practice-area plugins built specifically for legal work – it marked the company&#8217;s biggest and most explicit commitment yet to the legal industry. It also reignited a debate that&#8217;s been simmering since Anthropic&#8217;s first legal plugin briefly rattled the [&#8230;]",
-      "published": "2026-07-07T12:30:59.000Z",
-      "source_id": "lawsites",
-      "source_name": "LawSites (Bob Ambrogi)",
-      "source_priority": "critical",
-      "source_tier": "B",
-      "source_category": "Legal tech commentary",
       "relevance_score": 7
     },
     {
@@ -461,30 +485,6 @@
       "source_tier": "B",
       "source_category": "Research",
       "relevance_score": 7
-    },
-    {
-      "title": "Ex-Kirkland chief and Blackstone invest in legal AI firm as valuation hits $1.2bn - The Lawyer",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOVFsTVd1M3hwV3hfMlJqcE1xZnpDRjAzbC1aYWJaV1NWUEV2X0J4LTNFRVMxamtwN0VwZElYMW9zMVozaE80LWFzOVF6Yk1kMmRSb0dGWmZfWWFraloxU2V2SHVOY3MtOGEyS0hpZC1XOHR3ZldXUmRrR2V2eDBEczNqX2sxMEp5Skh1OXFJREhsUGpYaDlxSExUdXRZelhQUUZLQXNkYXNTWW8?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOVFsTVd1M3hwV3hfMlJqcE1xZnpDRjAzbC1aYWJaV1NWUEV2X0J4LTNFRVMxamtwN0VwZElYMW9zMVozaE80LWFzOVF6Yk1kMmRSb0dGWmZfWWFraloxU2V2SHVOY3MtOGEyS0hpZC1XOHR3ZldXUmRrR2V2eDBEczNqX2sxMEp5Skh1OXFJREhsUGpYaDlxSExUdXRZelhQUUZLQXNkYXNTWW8?oc=5\" target=\"_blank\"&gt;Ex-Kirkland chief and Blackstone invest in legal AI firm as valuation hits $1.2bn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Lawyer&lt;/font&gt;",
-      "published": "2026-07-07T16:49:04.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
-    },
-    {
-      "title": "Harbor Acquires iTrain for Legal AI Education - Artificial Lawyer",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbm5maWtjcHpTWjdvSTBnMVl2cDFoNjg1WmhmOExJSWxVc3gtSEp0cjZFMFNQbl9QWnJHOG54TFhYbC1vZmM4UmlkLXFHX0d4T29zV2F1X1NDdk1uengxMlI1N25WZmtRYzg5SXdIcmlzZ190RE40SE95bFhESjhiTy02dEsxcjNxa3BwdjdKV1dTaEZf?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQbm5maWtjcHpTWjdvSTBnMVl2cDFoNjg1WmhmOExJSWxVc3gtSEp0cjZFMFNQbl9QWnJHOG54TFhYbC1vZmM4UmlkLXFHX0d4T29zV2F1X1NDdk1uengxMlI1N25WZmtRYzg5SXdIcmlzZ190RE40SE95bFhESjhiTy02dEsxcjNxa3BwdjdKV1dTaEZf?oc=5\" target=\"_blank\"&gt;Harbor Acquires iTrain for Legal AI Education&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
-      "published": "2026-07-07T16:41:55.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
     }
   ]
 }
