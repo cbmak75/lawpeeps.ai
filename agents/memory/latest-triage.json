@@ -1,24 +1,33 @@
 {
-  "generated": "2026-07-08T14:42:29.244Z",
+  "generated": "2026-07-08T16:45:58.960Z",
   "cycle_type": "triage",
   "tier_filter": null,
-  "shortlist_size": 9,
+  "shortlist_size": 17,
   "prefilter": {
     "total": 40,
-    "accepted": 9,
+    "accepted": 17,
     "borderline": 0,
-    "rejected": 31,
-    "rejected_as_duplicate": 31,
-    "accept_rate": 23
+    "rejected": 23,
+    "rejected_as_duplicate": 23,
+    "accept_rate": 43
   },
   "model": "claude-haiku-4-5-20251001",
   "picks": [
     {
+      "id": "artificial-lawyer-8",
+      "score": 7,
+      "category": "Legal AI",
+      "suggested_angle": "Pillsbury appoints first Chief AI Officer, signaling major firm pivot to in-house AI governance",
+      "why_now": "Named hire at a major US firm; Oz Benamram is a recognized legal AI figure; signals trend of firms building dedicated AI leadership",
+      "verdict": "enqueue",
+      "duplicate_of": null
+    },
+    {
       "id": "arxiv-cs-ai-0",
-      "score": 2,
+      "score": 3,
       "category": "Research",
-      "suggested_angle": "Academic study on GenAI literacy gaps in higher education",
-      "why_now": "arXiv preprint with no legal AI angle; generic higher-ed GenAI skill mapping",
+      "suggested_angle": "Academic study on GenAI literacy gaps between students and staff in higher education",
+      "why_now": "Tangentially relevant to legal education but no legal/regulatory angle and published on arXiv without independent news hook",
       "verdict": "drop",
       "duplicate_of": null
     },
@@ -26,17 +35,17 @@
       "id": "arxiv-cs-ai-1",
       "score": 2,
       "category": "Research",
-      "suggested_angle": "LLM integration for scholarly research in social sciences and humanities",
-      "why_now": "arXiv preprint on SSH domain adaptation; peripheral to legal AI, no regulatory or firm angle",
+      "suggested_angle": "Technical paper on integrating LLMs with multilingual scholarly corpora",
+      "why_now": "Pure research; mentions regulatory challenges but provides no concrete legal or regulatory development",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
-      "id": "arxiv-cs-ai-2",
-      "score": 3,
-      "category": "Research",
-      "suggested_angle": "Pre-registered experiment on multi-agent LLM economics using Claude Opus",
-      "why_now": "Anthropic Claude model used in academic experiment; no legal AI application or newsworthy deployment",
+      "id": "above-the-law-legaltech-2",
+      "score": 1,
+      "category": "Social",
+      "suggested_angle": "Trump administration considers reversing F-35 export ban to Turkey",
+      "why_now": "Not legal AI, legal tech, or legal regulation; defence policy; appears misflagged by keyword filter (Eve name match only)",
       "verdict": "drop",
       "duplicate_of": null
     },
@@ -44,73 +53,136 @@
       "id": "arxiv-cs-ai-3",
       "score": 2,
       "category": "Research",
-      "suggested_angle": "NLP methodology for clinical EMR data extraction",
-      "why_now": "Healthcare NLP methodology paper; no legal AI relevance",
+      "suggested_angle": "Pre-registered study on multi-agent LLM economies using Claude Opus",
+      "why_now": "Academic research paper; no legal or business application angle",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
-      "id": "above-the-law-legaltech-4",
-      "score": 1,
-      "category": "Social",
-      "suggested_angle": "Trump administration foreign policy on F-35 export controls",
-      "why_now": "Defense contracting; misclassified as legal tech by prefilter",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "crunchbase-news-5",
-      "score": 2,
+      "id": "crunchbase-news-4",
+      "score": 3,
       "category": "Funding",
-      "suggested_angle": "General venture investor rankings in Q2 2026",
-      "why_now": "Broad-brush VC activity roundup with no legal AI company focus or new deal announcement",
+      "suggested_angle": "Q2 2026 venture rankings show General Catalyst and A16z leading investor activity",
+      "why_now": "General VC rankings; no legal tech focus or named legal AI company movement",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-5",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Clinical NLP methodology paper on extracting information from electronic medical records",
+      "why_now": "Healthcare AI, not legal; academic paper without news hook",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
       "id": "arxiv-cs-ai-6",
-      "score": 3,
-      "category": "Research",
-      "suggested_angle": "Auditability framework for LLM-generated research questions in scientific discovery",
-      "why_now": "arXiv preprint on LLM agent transparency; tangentially relevant to legal AI auditability concerns but no legal or regulatory hook",
-      "verdict": "watch",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-7",
       "score": 2,
       "category": "Research",
-      "suggested_angle": "Memory optimization technique for long-context LLM inference",
-      "why_now": "Systems paper on LLM infrastructure; no legal application or deployment news",
+      "suggested_angle": "Technical paper on optimizing LLM tool selection via preference learning",
+      "why_now": "Pure research; no legal or business angle",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
-      "id": "law-society-gazette-8",
+      "id": "above-the-law-legaltech-7",
+      "score": 2,
+      "category": "Legal AI",
+      "suggested_angle": "Sponsored webinar on contract ownership and management",
+      "why_now": "Marketing promotion, not news; no independent news hook or primary source",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-9",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Technical paper on auditable question formation in LLM scientific discovery agents",
+      "why_now": "Academic research; no legal application or business development",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-10",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Technical paper on LLM inference optimization with memory-efficient attention",
+      "why_now": "Infrastructure research; no legal or business relevance",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-11",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Benchmark for multilingual long-horizon LLM agent performance",
+      "why_now": "Academic research paper; no legal or business angle",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-12",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Technical paper on reinforcement learning for multi-turn LLM agents",
+      "why_now": "Pure research; no legal application or business relevance",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-13",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Research on early detection of failing LLM agent trajectories to reduce compute waste",
+      "why_now": "Academic research; no legal or business application",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "ars-technica-ai-14",
       "score": 1,
       "category": "Social",
-      "suggested_angle": "Court judgment on limitation period argumentation in Mail newspaper hacking civil claims",
-      "why_now": "Litigation procedural ruling unrelated to legal AI or tech; misclassified by prefilter",
+      "suggested_angle": "Google updates Android development benchmarks for AI agents",
+      "why_now": "Consumer/developer tech news; not legal, not legal tech, not legal AI",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-15",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Technical paper on synthesizing data agent trajectories at scale",
+      "why_now": "Academic research; no legal application",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-16",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Technical paper on orchestrating mathematical reasoning agents with fact graphs",
+      "why_now": "Pure research; no legal or business relevance",
       "verdict": "drop",
       "duplicate_of": null
     }
   ],
   "summary": {
-    "enqueue_count": 0,
-    "watch_count": 1,
-    "drop_count": 8,
-    "notes": "Batch of low-value academic preprints and off-topic content; arxiv-cs-ai-6 on LLM auditability warrants editorial eye only if legal implications can be established independently."
+    "enqueue_count": 1,
+    "watch_count": 0,
+    "drop_count": 16,
+    "notes": "Only Pillsbury/Oz Benamram story meets editorial threshold (named firm, named leader, legal AI adoption signal). Remaining 16 items are either pure research papers, off-topic (defence, Android, healthcare), or marketing puff without independent news hooks."
   },
-  "enqueued": 0,
+  "enqueued": 1,
   "usage": {
-    "input_tokens": 3610,
+    "input_tokens": 5020,
     "cache_creation_input_tokens": 0,
     "cache_read_input_tokens": 0,
     "cache_creation": {
       "ephemeral_5m_input_tokens": 0,
       "ephemeral_1h_input_tokens": 0
     },
-    "output_tokens": 1029,
+    "output_tokens": 1798,
     "service_tier": "standard",
     "inference_geo": "not_available"
   }

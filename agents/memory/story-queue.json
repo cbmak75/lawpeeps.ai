@@ -1803,7 +1803,51 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "Oz Joins Pillsbury For Top AI Role",
+      "slug": "oz-joins-pillsbury-for-top-ai-role",
+      "score": 7,
+      "category": "Legal AI",
+      "story_type": "news",
+      "research_brief": "International man of mystery and legal AI guru, Oz Benamram, has joined US law firm Pillsbury as its first Chief AI Officer. It’s understood that ...",
+      "primary_source": "https://www.artificiallawyer.com/2026/07/08/oz-joins-pillsbury-for-top-ai-role/",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "Pillsbury appoints first Chief AI Officer, signaling major firm pivot to in-house AI governance",
+      "why_now": "Named hire at a major US firm; Oz Benamram is a recognized legal AI figure; signals trend of firms building dedicated AI leadership",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Artificial Lawyer",
+      "source_tier": "B",
+      "prefilter_score": 8,
+      "matched_terms": [
+        "legal AI"
+      ],
+      "fingerprint": {
+        "entities": [],
+        "numerics": [],
+        "keywords": [
+          "legal ai"
+        ],
+        "title_tokens": [
+          "joins",
+          "pillsbury",
+          "ai",
+          "role"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-07-08T16:45:58.952Z",
+      "queued_at": "2026-07-08T16:45:58.959Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-07-08T11:10:48.958Z"
+  "last_updated": "2026-07-08T16:45:58.959Z"
 }
