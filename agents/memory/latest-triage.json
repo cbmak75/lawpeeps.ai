@@ -1,98 +1,31 @@
 {
-  "generated": "2026-07-08T03:32:53.997Z",
+  "generated": "2026-07-08T08:41:28.099Z",
   "cycle_type": "triage",
   "tier_filter": null,
-  "shortlist_size": 7,
+  "shortlist_size": 20,
   "prefilter": {
     "total": 40,
-    "accepted": 7,
+    "accepted": 31,
     "borderline": 0,
-    "rejected": 33,
-    "rejected_as_duplicate": 33,
-    "accept_rate": 18
+    "rejected": 9,
+    "rejected_as_duplicate": 9,
+    "accept_rate": 78
   },
   "model": "claude-haiku-4-5-20251001",
-  "picks": [
-    {
-      "id": "arxiv-cs-ai-0",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "Academic paper on LLM feedback systems for learning; no legal angle",
-      "why_now": "Generic AI research with no legal application or relevance to lawpeeps.ai editorial focus",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-1",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "Preprint on LLM bias in autonomous decision-making; academic only",
-      "why_now": "Foundational AI research but no specific legal tech, legal AI deployment, or regulatory hook",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-2",
-      "score": 1,
-      "category": "Research",
-      "suggested_angle": "SysML v2 semantic alignment using LLMs; systems engineering preprint",
-      "why_now": "No legal application; technical preprint outside legal AI scope",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-3",
-      "score": 1,
-      "category": "Research",
-      "suggested_angle": "Romanian multimodal NLP; low-resource language AI",
-      "why_now": "General AI accessibility research; no legal AI or UK regulation angle",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-4",
-      "score": 1,
-      "category": "Research",
-      "suggested_angle": "LLM-assisted research ideation from ML conference metadata",
-      "why_now": "Academic workflow automation; no legal tech or legal AI relevance",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-5",
-      "score": 1,
-      "category": "Research",
-      "suggested_angle": "Multi-agent research automation framework with execution grounding",
-      "why_now": "General agent research; no legal AI application, company move, or regulatory hook",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-6",
-      "score": 1,
-      "category": "Research",
-      "suggested_angle": "Agent skill optimization via minimal viable pipeline",
-      "why_now": "Academic preprint on autonomous agent optimization; no legal angle",
-      "verdict": "drop",
-      "duplicate_of": null
-    }
-  ],
+  "picks": [],
   "summary": {
-    "enqueue_count": 0,
-    "watch_count": 0,
-    "drop_count": 7,
-    "notes": "All 7 items are generic arXiv AI/ML preprints with no legal tech, legal AI, regulatory, immigration law, major company move, funding, or firm adoption angle. None meet editorial focus criteria."
+    "notes": "parse_failed"
   },
   "enqueued": 0,
   "usage": {
-    "input_tokens": 3288,
+    "input_tokens": 5586,
     "cache_creation_input_tokens": 0,
     "cache_read_input_tokens": 0,
     "cache_creation": {
       "ephemeral_5m_input_tokens": 0,
       "ephemeral_1h_input_tokens": 0
     },
-    "output_tokens": 794,
+    "output_tokens": 2000,
     "service_tier": "standard",
     "inference_geo": "not_available"
   }
