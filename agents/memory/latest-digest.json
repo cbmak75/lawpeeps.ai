@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-09T15:27:18.888Z",
+  "generated": "2026-07-09T19:56:54.525Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 1250,
+  "total_scanned": 1252,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -16,7 +16,7 @@
       "source_priority": "low",
       "source_tier": "B",
       "source_category": "Research",
-      "relevance_score": 16
+      "relevance_score": 15
     },
     {
       "title": "Ironclad Founder Jason Boehmig Joins OpenAI To Develop Products for the Legal Sector",
@@ -127,6 +127,18 @@
       "relevance_score": 9
     },
     {
+      "title": "AI wrote a will , a solicitor found six things that could cost your family everything - Harrow Times",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX3MxbzlsMzBXMERJRnlPYS1jUnk3N19nYmNxbWpBeXZCV1JsMWVoU2RCSnhWX3ZiN2VUUzR2aEpTVGQ5MjBPS3ZkMmRsSHdkQk5GRzJvSVN4aE1ENFlKYUNzeENMSzRsS2VrMl9TRGpTSk5ra1pZTWhJNzJ0ZGd6dUJkcnRsa2V3d082aGg4a0xaRVhoT1E?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQX3MxbzlsMzBXMERJRnlPYS1jUnk3N19nYmNxbWpBeXZCV1JsMWVoU2RCSnhWX3ZiN2VUUzR2aEpTVGQ5MjBPS3ZkMmRsSHdkQk5GRzJvSVN4aE1ENFlKYUNzeENMSzRsS2VrMl9TRGpTSk5ra1pZTWhJNzJ0ZGd6dUJkcnRsa2V3d082aGg4a0xaRVhoT1E?oc=5\" target=\"_blank\"&gt;AI wrote a will , a solicitor found six things that could cost your family everything&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harrow Times&lt;/font&gt;",
+      "published": "2026-07-09T15:30:29.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 9
+    },
+    {
       "title": "Harvey Forum + Shared Spaces, Clio, Spellbook, Legal Innovators - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWDZZRVZBVWx3ckRDeE96a1ZYWTJxVldZUHNwYWl2eHdrUDZKc2xXSmRYVHRheXlISnI5SVpKdmlYTHdOWVRwb3VneFBHMlZhcnlyOWNiZHJuUkNTLXhINlgwRnJzZlNCU0JYQ2k2R2RrUFN3dlRoT3k0ckM5NDRZRHZ2UjAzQWVfQXNRcm9lM2w2LVdmRUxvMmwyVXkzS2Y2XzlnTTNn?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNWDZZRVZBVWx3ckRDeE96a1ZYWTJxVldZUHNwYWl2eHdrUDZKc2xXSmRYVHRheXlISnI5SVpKdmlYTHdOWVRwb3VneFBHMlZhcnlyOWNiZHJuUkNTLXhINlgwRnJzZlNCU0JYQ2k2R2RrUFN3dlRoT3k0ckM5NDRZRHZ2UjAzQWVfQXNRcm9lM2w2LVdmRUxvMmwyVXkzS2Y2XzlnTTNn?oc=5\" target=\"_blank\"&gt;Harvey Forum + Shared Spaces, Clio, Spellbook, Legal Innovators&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
@@ -148,6 +160,18 @@
       "source_priority": "medium",
       "source_tier": "A",
       "source_category": "Aggregator",
+      "relevance_score": 9
+    },
+    {
+      "title": "OpenAI may have made a fatal misstep in copyright fight with news orgs",
+      "url": "https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/",
+      "summary": "OpenAI may be sanctioned for hiding, deleting ChatGPT logs in NYT copyright fight.",
+      "published": "2026-07-09T18:57:53.000Z",
+      "source_id": "ars-technica-ai",
+      "source_name": "Ars Technica AI",
+      "source_priority": "low",
+      "source_tier": "B",
+      "source_category": "General AI",
       "relevance_score": 9
     },
     {
@@ -179,6 +203,18 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaDhOaTN1RzVmZmxWa1U2TTZyTW9ucXRjZjU2RHUzT0RoMTJQb1BvZ1hpbUgwTUFZS3U5UHV1R21abHdrRDR3cFlWTC1SY3J2WUN1YWlwSlY0Y0VpVjVYSXV2dk93YjhuU0NXYTE5QnBiVHF5bHVLRHdWbzMxdVB3MU0zMFh1TzF0U1JmOA?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQaDhOaTN1RzVmZmxWa1U2TTZyTW9ucXRjZjU2RHUzT0RoMTJQb1BvZ1hpbUgwTUFZS3U5UHV1R21abHdrRDR3cFlWTC1SY3J2WUN1YWlwSlY0Y0VpVjVYSXV2dk93YjhuU0NXYTE5QnBiVHF5bHVLRHdWbzMxdVB3MU0zMFh1TzF0U1JmOA?oc=5\" target=\"_blank\"&gt;Why legal tech giant Harvey is raising cash like OpenAI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Business Insider&lt;/font&gt;",
       "published": "2026-03-26T07:00:00.000Z",
+      "source_id": "google-news-legal-tech-funding",
+      "source_name": "Google News: legal tech funding",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 8
+    },
+    {
+      "title": "EvenUp, AI Software For Personal Injury Law, Doubles Valuation To $2B As Legal Tech Funding Hits Record High - Crunchbase News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY2p6WWxfeE1ZZDJxQXJPOWtrR2VZdkxlSkFtck03QWJtOU1YcGtHUFBlZllXMXkxeXRlcHhfZU9vR0VMU1JUS0FYMGNUSXZ0UnVRSU5YRVZuWERkU29MVFYzYjNtdHN6OUZGU3JlNWpLcDI3eTRwam5fVkhUSzU2WFdtX0daQUNseG50YzRpTQ?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQY2p6WWxfeE1ZZDJxQXJPOWtrR2VZdkxlSkFtck03QWJtOU1YcGtHUFBlZllXMXkxeXRlcHhfZU9vR0VMU1JUS0FYMGNUSXZ0UnVRSU5YRVZuWERkU29MVFYzYjNtdHN6OUZGU3JlNWpLcDI3eTRwam5fVkhUSzU2WFdtX0daQUNseG50YzRpTQ?oc=5\" target=\"_blank\"&gt;EvenUp, AI Software For Personal Injury Law, Doubles Valuation To $2B As Legal Tech Funding Hits Record High&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Crunchbase News&lt;/font&gt;",
+      "published": "2025-10-07T07:00:00.000Z",
       "source_id": "google-news-legal-tech-funding",
       "source_name": "Google News: legal tech funding",
       "source_priority": "critical",
@@ -271,48 +307,36 @@
       "relevance_score": 8
     },
     {
-      "title": "POO-LPSP: Parallel Osprey Optimized Least Penalty-Squared Prioritization Methods for Priority Derivation in the Analytic Hierarchy Process",
-      "url": "https://arxiv.org/abs/2607.07313",
-      "summary": "arXiv:2607.07313v1 Announce Type: cross Abstract: Pairwise comparison (PC) via pairwise reciprocal matrices (PRMs) is central to the Analytic Hierarchy Process (AHP). Although the traditional eigenvector method is widely applied to derive priorities, its theoretical robustness in reflecting true priority vectors remains debated. Building upon a previous iteration of this study, this research develops the revised Least Penalty-Squared Prioritization (LPSP) optimization models, including the revis",
-      "published": "2026-07-09T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI (keyword-filtered)",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "Research",
-      "relevance_score": 8
-    },
-    {
-      "title": "Towards Agentic AI Governance: A Preliminary Assessment",
-      "url": "https://arxiv.org/abs/2607.07612",
-      "summary": "arXiv:2607.07612v1 Announce Type: cross Abstract: Artificial intelligence is rapidly evolving from generative systems to agentic AI capable of autonomously planning and executing tasks. Widely characterized as the Year of Agentic AI, 2025 marked accelerated development and deployment, introducing new ethical and governance challenges. This paper presents a systematic review of the emerging literature on agentic AI governance. Our analysis identifies features that distinguish agentic AI from trad",
-      "published": "2026-07-09T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI (keyword-filtered)",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "Research",
-      "relevance_score": 8
-    },
-    {
-      "title": "Anthropic’s Legal Plugin for Claude Cowork May Be the Opening Salvo In A Competition Between Foundation Models and Legal Tech Incumbents - LawSites",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQR0U2ZGlPRTRva1FUZkNHeXdpTkJkazR2SG5GWnVwN3dRZkpHVEVhdTQ0c3lOd212bmZZVEdZYWVIcHFnYUFaTGkzb3liRlRabzcxSTBRcXotLTBiRFdyTWtZWXN3MXg5cUh2SVZ0WktNLTAxQmQyY2NGdEZhYjJTRWR5c2lWTmtadnJEYXRXY3l5Z0xiTjkxN3hNRkpqM21oZkRKdC1RYVFFSDctdVlwNFk4RnUyaVd4WkhuMnRxNjJrX0xmMzZpaUtEX0VQeU1qWk44VU9GY2JpQmVCZjJGTUlwOVVyUndYbFl4X0lJZEwyZk9oRUg5dkwxVkRkVUU2YVE?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxQR0U2ZGlPRTRva1FUZkNHeXdpTkJkazR2SG5GWnVwN3dRZkpHVEVhdTQ0c3lOd212bmZZVEdZYWVIcHFnYUFaTGkzb3liRlRabzcxSTBRcXotLTBiRFdyTWtZWXN3MXg5cUh2SVZ0WktNLTAxQmQyY2NGdEZhYjJTRWR5c2lWTmtadnJEYXRXY3l5Z0xiTjkxN3hNRkpqM21oZkRKdC1RYVFFSDctdVlwNFk4RnUyaVd4WkhuMnRxNjJrX0xmMzZpaUtEX0VQeU1qWk44VU9GY2JpQmVCZjJGTUlwOVVyUndYbFl4X0lJZEwyZk9oRUg5dkwxVkRkVUU2YVE?oc=5\" target=\"_blank\"&gt;Anthropic’s Legal Plugin for Claude Cowork May Be the Opening Salvo In A C",
-      "published": "2026-02-03T08:00:00.000Z",
-      "source_id": "google-news-legal-tech-funding",
-      "source_name": "Google News: legal tech funding",
+      "title": "New York Times and News Outlets Demand Legal Sanctions Against OpenAI - Variety",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYXpxMEpLYUE5VW1EeldaQ2YxVzBFUV9JSUNzNy1pQVg5QlB3UjRWazR1VU5mdnlpcHA2aFNLdmc2c05wNlBBV1ZHWElpMjZqUnM4YnhMdTRSOXlJa0hRdkRIRm51LUF0M0lQNlNnemU4azFieTJjT0JrRWxWNDBmRDdfMmJZNkJJZGxTVmEwX0FCSDI5RDRnckx6MXFLZFdZcjdaOUwwUERvcXdY?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPYXpxMEpLYUE5VW1EeldaQ2YxVzBFUV9JSUNzNy1pQVg5QlB3UjRWazR1VU5mdnlpcHA2aFNLdmc2c05wNlBBV1ZHWElpMjZqUnM4YnhMdTRSOXlJa0hRdkRIRm51LUF0M0lQNlNnemU4azFieTJjT0JrRWxWNDBmRDdfMmJZNkJJZGxTVmEwX0FCSDI5RDRnckx6MXFLZFdZcjdaOUwwUERvcXdY?oc=5\" target=\"_blank\"&gt;New York Times and News Outlets Demand Legal Sanctions Against OpenAI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Variety&lt;/font&gt;",
+      "published": "2026-07-09T15:23:00.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
       "source_priority": "critical",
       "source_tier": "A",
       "source_category": "Aggregator",
       "relevance_score": 7
     },
     {
-      "title": "Legal AI giant Harvey acquires Hexus as competition heats up in legal tech - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWtsRnRNeWxYZWEwaERMRVJaRWVfQm41MzVDeDJBM1ZIOEstUW5DaTB5UUhjUXE5Sml2QU40RzdZaWlqeUpid3dELUpLTHlKbVNRNmRObWtrZ1dSSXd3R20wSDY3TkVUOHVwRzlZOTh1b1FraXZlNGpuUnBPcXdIU2oxbVZzMTZDVzVNMDRDcGR0NC1oQ2pfMGlUY25YSHBZaHJUTEljdzU5LWREa0E?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWtsRnRNeWxYZWEwaERMRVJaRWVfQm41MzVDeDJBM1ZIOEstUW5DaTB5UUhjUXE5Sml2QU40RzdZaWlqeUpid3dELUpLTHlKbVNRNmRObWtrZ1dSSXd3R20wSDY3TkVUOHVwRzlZOTh1b1FraXZlNGpuUnBPcXdIU2oxbVZzMTZDVzVNMDRDcGR0NC1oQ2pfMGlUY25YSHBZaHJUTEljdzU5LWREa0E?oc=5\" target=\"_blank\"&gt;Legal AI giant Harvey acquires Hexus as competition heats up in legal tech&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;TechCrunch&lt;/font&gt;",
-      "published": "2026-01-23T08:00:00.000Z",
-      "source_id": "google-news-legal-tech-funding",
-      "source_name": "Google News: legal tech funding",
+      "title": "Relativity Names Chris Brown as President to Advance Its AI Platform for Legal Data Intelligence - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaVJjRlhpWHhwbXpTQ1NDTGprd0xhaUtMNXNRYVV3WHdGTHNEMEhJNnVXbTJjSDBwajVEQmVtZFFhSXpWNXRJa0V1YzZEUU9QWllEdzg4Z2RFNUM3TVZLemVFR1lIbTNjZEVJdVdiMEl1bk1YUVFzQncxZElMMGZkZTV2SDNfWXJkQVRnX1pVRTJic1pZWS1ObDNISlI1VWpNUENhRg?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPaVJjRlhpWHhwbXpTQ1NDTGprd0xhaUtMNXNRYVV3WHdGTHNEMEhJNnVXbTJjSDBwajVEQmVtZFFhSXpWNXRJa0V1YzZEUU9QWllEdzg4Z2RFNUM3TVZLemVFR1lIbTNjZEVJdVdiMEl1bk1YUVFzQncxZElMMGZkZTV2SDNfWXJkQVRnX1pVRTJic1pZWS1ObDNISlI1VWpNUENhRg?oc=5\" target=\"_blank\"&gt;Relativity Names Chris Brown as President to Advance Its AI Platform for Legal Data Intelligence&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Yahoo Finance&lt;/font&gt;",
+      "published": "2026-07-09T15:30:00.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 7
+    },
+    {
+      "title": "Anthropic’s Claude Fable 5 withdrawal highlights geopolitical risk in legal AI supply chain - Legal IT Insider",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRGR2VWJnT1pVbFdVWjJLSGZwcGRHYWFyWldkUll3ZUpVcXJTRUswMWxwemh0RzN5bnZLR3RPVHotSUZrRGdVWTNxVEFWdFlhMXhoUEt2ZDNBaUdTTVdqYzd0N25zd0U2NHY0N2F3bm0yMWJHUzNYRmJHNk8zeS0yNlQ4SkhzTW5uY0VjVExkamJDWUZtVWhrOGFPSXg1VWJPTVhhVTBLUTRUQjYwY3pVSGlYVDhFazllOUF3?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRGR2VWJnT1pVbFdVWjJLSGZwcGRHYWFyWldkUll3ZUpVcXJTRUswMWxwemh0RzN5bnZLR3RPVHotSUZrRGdVWTNxVEFWdFlhMXhoUEt2ZDNBaUdTTVdqYzd0N25zd0U2NHY0N2F3bm0yMWJHUzNYRmJHNk8zeS0yNlQ4SkhzTW5uY0VjVExkamJDWUZtVWhrOGFPSXg1VWJPTVhhVTBLUTRUQjYwY3pVSGlYVDhFazllOUF3?oc=5\" target=\"_blank\"&gt;Anthropic’s Claude Fable 5 withdrawal highlights geopolitical risk in legal AI supply chain&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Legal IT Insider&lt;",
+      "published": "2026-06-15T07:00:00.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
       "source_priority": "critical",
       "source_tier": "A",
       "source_category": "Aggregator",
@@ -343,34 +367,10 @@
       "relevance_score": 7
     },
     {
-      "title": "A year in immigration detention. What has changed?",
-      "url": "https://freemovement.org.uk/a-year-in-immigration-detention-what-changed/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=a-year-in-immigration-detention-what-changed",
-      "summary": "On 7 July 2026, the Chief Inspectorate of Prisons for England and Wales published its annual report on conditions in detention. The report welcomed improvements to the Immigration Removal Centre (‘IRC’) estate since its last report on 8 July 2025, where Harmondsworth faced the ‘worst ever judgements’ of an IRC. In particular, it commended the [&#8230;]",
-      "published": "2026-07-09T11:00:00.000Z",
-      "source_id": "free-movement",
-      "source_name": "Free Movement",
-      "source_priority": "high",
-      "source_tier": "A",
-      "source_category": "Immigration law",
-      "relevance_score": 7
-    },
-    {
       "title": "Darrow Cuts Roles as Part of Strategic Restructure",
       "url": "https://www.artificiallawyer.com/2026/07/09/darrow-cuts-roles-as-part-of-strategic-restructure/",
       "summary": "Darrow, the pioneering litigation intelligence platform, has undergone a restructuring with multiple roles cut. However, the Israel-based company underlined they had ‘consistent year-over-year growth’ and ...",
       "published": "2026-07-09T08:12:33.000Z",
-      "source_id": "artificial-lawyer",
-      "source_name": "Artificial Lawyer",
-      "source_priority": "critical",
-      "source_tier": "B",
-      "source_category": "Legal AI",
-      "relevance_score": 7
-    },
-    {
-      "title": "Why Adoption Starts Where Go-Live Ends",
-      "url": "https://www.artificiallawyer.com/2026/07/09/why-adoption-starts-where-go-live-ends/",
-      "summary": "By Jennie Strickland, Clio. The feeling of a successful go-live is one most legal technology leaders will recognize. The project has hit its milestones. Training ...",
-      "published": "2026-07-09T06:40:34.000Z",
       "source_id": "artificial-lawyer",
       "source_name": "Artificial Lawyer",
       "source_priority": "critical",
@@ -415,9 +415,9 @@
       "relevance_score": 7
     },
     {
-      "title": "LLM-powered reasoning in agent-based modeling",
-      "url": "https://arxiv.org/abs/2607.06757",
-      "summary": "arXiv:2607.06757v1 Announce Type: new Abstract: Agent-based modeling (ABM) has the capability to model millions of individuals and their interactions, which is useful for policy making. However, ABMs have traditionally relied on static prior, which prevents the models from adapting to real-time changes. Our research provides a novel approach to addressing this information gap. Large language models (LLMs) offer new opportunities to predict human decision-making. Here, we introduce a scalable Hyb",
+      "title": "POO-LPSP: Parallel Osprey Optimized Least Penalty-Squared Prioritization Methods for Priority Derivation in the Analytic Hierarchy Process",
+      "url": "https://arxiv.org/abs/2607.07313",
+      "summary": "arXiv:2607.07313v1 Announce Type: cross Abstract: Pairwise comparison (PC) via pairwise reciprocal matrices (PRMs) is central to the Analytic Hierarchy Process (AHP). Although the traditional eigenvector method is widely applied to derive priorities, its theoretical robustness in reflecting true priority vectors remains debated. Building upon a previous iteration of this study, this research develops the revised Least Penalty-Squared Prioritization (LPSP) optimization models, including the revis",
       "published": "2026-07-09T04:00:00.000Z",
       "source_id": "arxiv-cs-ai",
       "source_name": "arXiv cs.AI (keyword-filtered)",
@@ -427,9 +427,9 @@
       "relevance_score": 7
     },
     {
-      "title": "Evaluating SageMath-Augmented LLM Agents for Computational and Experimental Mathematics",
-      "url": "https://arxiv.org/abs/2607.06820",
-      "summary": "arXiv:2607.06820v1 Announce Type: new Abstract: Recent advances in AI for Mathematics have focused largely on autoformalization and theorem proving, leaving the role of Computer Algebra Systems (CAS) in agentic LLM workflows underexplored. We propose a ReAct-style agentic setup that combines LLM reasoning with verifiable feedback from SageMath, together with Context7 for the up-to-date documentation. We evaluate this agentic setup across frontier models for solving research-level mathematical pr",
+      "title": "Towards Agentic AI Governance: A Preliminary Assessment",
+      "url": "https://arxiv.org/abs/2607.07612",
+      "summary": "arXiv:2607.07612v1 Announce Type: cross Abstract: Artificial intelligence is rapidly evolving from generative systems to agentic AI capable of autonomously planning and executing tasks. Widely characterized as the Year of Agentic AI, 2025 marked accelerated development and deployment, introducing new ethical and governance challenges. This paper presents a systematic review of the emerging literature on agentic AI governance. Our analysis identifies features that distinguish agentic AI from trad",
       "published": "2026-07-09T04:00:00.000Z",
       "source_id": "arxiv-cs-ai",
       "source_name": "arXiv cs.AI (keyword-filtered)",
@@ -439,52 +439,52 @@
       "relevance_score": 7
     },
     {
-      "title": "From Atomic Actions to Standard Operating Procedures: Iterative Tool Optimization for Self-Evolving LLM Agents",
-      "url": "https://arxiv.org/abs/2607.07321",
-      "summary": "arXiv:2607.07321v1 Announce Type: new Abstract: Tool utilization enables Large Language Model (LLM) agents to interact with the real world and resolve complex tasks. However, existing agent frameworks predominantly rely on static toolsets composed of granular atomic actions (e.g., basic file I/O or single-turn search), which forces agents to reinvent low-level logic for every recurring workflow, leading to increased reasoning overhead and failure rates. In this study, we propose that agents can ",
-      "published": "2026-07-09T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI (keyword-filtered)",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "Research",
-      "relevance_score": 7
+      "title": "Legal AI Is Not a Singular Category … and Cannot Be Governed As One Solution - Law.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWFdQcnF3aVc3ZU9RNF9QLTdobExNTnFXc0pic2s1X0RqMDUtbnM0OHl5UFVZQnB0aVI1N1BUQUpfUlpYVFRJNGpLeURmZXBuQXpRdGlMU1BhUGgxeHM3SkRCLUstSEV6XzdabkV6YkZnbGtsMVRrTEVrOUNoc3hQTUo3UUlFeVZxanEzVDctUmNsbUFyTjBEY1AxWFlIcHdpM19ZNEJiSWtEd0k?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWFdQcnF3aVc3ZU9RNF9QLTdobExNTnFXc0pic2s1X0RqMDUtbnM0OHl5UFVZQnB0aVI1N1BUQUpfUlpYVFRJNGpLeURmZXBuQXpRdGlMU1BhUGgxeHM3SkRCLUstSEV6XzdabkV6YkZnbGtsMVRrTEVrOUNoc3hQTUo3UUlFeVZxanEzVDctUmNsbUFyTjBEY1AxWFlIcHdpM19ZNEJiSWtEd0k?oc=5\" target=\"_blank\"&gt;Legal AI Is Not a Singular Category … and Cannot Be Governed As One Solution&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Law.com&lt;/font&gt;",
+      "published": "2026-07-09T15:19:00.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
     },
     {
-      "title": "Physics-Audited Agentic Discovery in Scientific Machine Learning",
-      "url": "https://arxiv.org/abs/2607.07379",
-      "summary": "arXiv:2607.07379v1 Announce Type: new Abstract: In agentic scientific machine learning (SciML), large language model (LLM) agents can discover surrogate models and select one by an automated score, typically an error metric. A low error, however, does not establish that the predicted fields satisfy the physics that matter for mechanics, such as boundary conditions, superposition, stiffness scaling, or causality. We introduce Physics-Audited Agentic SciML (PA-SciML), a verification-first workflow",
-      "published": "2026-07-09T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI (keyword-filtered)",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "Research",
-      "relevance_score": 7
+      "title": "The Practical Guide to AI-Powered Due Diligence for M&amp;A Professionals - Harvey",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YUjFPU3d4QWRFOWQyb0twMDItZUdSakJzckgxMllQVUxLOWtVX1BpbE50QkQ2MzFKeXYxMk9yVW1SSFJreW9IVlBOWFdQWE4zYkg3YVZwWEJhaEJ5amxPN3hNSmN6dw?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YUjFPU3d4QWRFOWQyb0twMDItZUdSakJzckgxMllQVUxLOWtVX1BpbE50QkQ2MzFKeXYxMk9yVW1SSFJreW9IVlBOWFdQWE4zYkg3YVZwWEJhaEJ5amxPN3hNSmN6dw?oc=5\" target=\"_blank\"&gt;The Practical Guide to AI-Powered Due Diligence for M&amp;A Professionals&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
+      "published": "2026-04-29T07:00:00.000Z",
+      "source_id": "google-news-harvey-luminance",
+      "source_name": "Google News: Harvey OR Luminance",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
     },
     {
-      "title": "Reason Less, Verify More: Deterministic Gates Recover a Silent Policy-Violation Failure Mode in Tool-Using LLM Agents",
-      "url": "https://arxiv.org/abs/2607.07405",
-      "summary": "arXiv:2607.07405v1 Announce Type: new Abstract: Tool-using LLM agents can violate the very policies they are deployed to enforce while appearing to complete the task successfully. In policy-permissive environments, a tool may execute any well-formed call even when the corresponding state transition is forbidden by domain policy. The result is a silent wrong state (a booking cancelled, a passenger count changed, a claim acted on without verification) that neither the tool nor the agent's self-rep",
-      "published": "2026-07-09T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI (keyword-filtered)",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "Research",
-      "relevance_score": 7
+      "title": ":Harvey:’s Top 5 Product Releases of 2025 - Harvey",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxbTlSWkxnMmFXTHJVZ1c4d1RndE9Kc25mYms2dkxyOUl6R09HQU5VN0VkZEVEYzVLb2djeXhJSkVXTWtSRUx4dlJTRUlkWTFKb3o3Ukg0MzRRTXFXNy14dVNNLUl6cUxN?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxbTlSWkxnMmFXTHJVZ1c4d1RndE9Kc25mYms2dkxyOUl6R09HQU5VN0VkZEVEYzVLb2djeXhJSkVXTWtSRUx4dlJTRUlkWTFKb3o3Ukg0MzRRTXFXNy14dVNNLUl6cUxN?oc=5\" target=\"_blank\"&gt;:Harvey:’s Top 5 Product Releases of 2025&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
+      "published": "2025-12-30T08:00:00.000Z",
+      "source_id": "google-news-harvey-luminance",
+      "source_name": "Google News: Harvey OR Luminance",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
     },
     {
-      "title": "SpaCellAgent: A Self-Evolving LLM-Based Multi-Agent Framework for Trajectory Analysis",
-      "url": "https://arxiv.org/abs/2607.07467",
-      "summary": "arXiv:2607.07467v1 Announce Type: new Abstract: Spatial and Single-cell transcriptomics are transformative in deciphering cellular dynamics. As the fundamental paradigm for reconstructing cell developmental paths, trajectory inference (TI) is critical. However, existing methods require extensive manual intervention and proficiency in heterogeneous tools, posing a significant barrier to efficient TI analysis. To bridge this gap, we propose SpaCellAgent, an autonomous large language model (LLM) mu",
-      "published": "2026-07-09T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI (keyword-filtered)",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "Research",
-      "relevance_score": 7
+      "title": "Never Start From Scratch Again With Memory in :Harvey: - Harvey",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUb0tYcVdQczRrTGVTYzZ3dG9Uc3NyaHZ6QTl6bm1HaDFjcHVKUGhqWk1ySGJiR2JQSlZyem1oSlpxejRBQXo1ZDZmck81ZTl3cmVRZU5R?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUb0tYcVdQczRrTGVTYzZ3dG9Uc3NyaHZ6QTl6bm1HaDFjcHVKUGhqWk1ySGJiR2JQSlZyem1oSlpxejRBQXo1ZDZmck81ZTl3cmVRZU5R?oc=5\" target=\"_blank\"&gt;Never Start From Scratch Again With Memory in :Harvey:&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
+      "published": "2026-01-08T08:00:00.000Z",
+      "source_id": "google-news-harvey-luminance",
+      "source_name": "Google News: Harvey OR Luminance",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
     }
   ]
 }
