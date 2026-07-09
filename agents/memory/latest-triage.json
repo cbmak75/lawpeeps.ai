@@ -1,71 +1,170 @@
 {
-  "generated": "2026-07-09T19:57:01.934Z",
+  "generated": "2026-07-09T22:38:44.762Z",
   "cycle_type": "triage",
   "tier_filter": null,
-  "shortlist_size": 4,
+  "shortlist_size": 15,
   "prefilter": {
     "total": 40,
-    "accepted": 4,
+    "accepted": 15,
     "borderline": 0,
-    "rejected": 36,
-    "rejected_as_duplicate": 36,
-    "accept_rate": 10
+    "rejected": 25,
+    "rejected_as_duplicate": 25,
+    "accept_rate": 38
   },
   "model": "claude-haiku-4-5-20251001",
   "picks": [
     {
-      "id": "google-news-legal-ai-0",
+      "id": "ars-technica-ai-0",
       "score": 5,
       "category": "Legal AI",
-      "suggested_angle": "Local case study: solicitor audits AI-generated will, identifies six critical errors—what does this reveal about DIY legal AI adoption and liability?",
-      "why_now": "Consumer-facing AI legal product failure story with tangible damages; feeds into professional liability thread.",
+      "suggested_angle": "OpenAI's agentic workflow rebranding; implications for autonomous legal task execution",
+      "why_now": "OpenAI product announcement but generic tech coverage; limited legal angle without legal-specific analysis",
       "verdict": "watch",
       "duplicate_of": null
     },
     {
-      "id": "google-news-legal-ai-1",
-      "score": 7,
-      "category": "Policy",
-      "suggested_angle": "Major news outlets escalate OpenAI copyright action with demand for legal sanctions—signals turning point in AI training data disputes.",
-      "why_now": "Primary source news on NYT/news orgs legal action escalation; distinct from Ars Technica angle below.",
-      "verdict": "enqueue",
+      "id": "artificial-lawyer-3",
+      "score": 6,
+      "category": "Adoption",
+      "suggested_angle": "Clio on post-launch adoption strategy; vendor perspective on long-term deployment success",
+      "why_now": "Vendor-authored thought leadership on adoption mechanics; signals firm strategy but carries implicit marketing intent",
+      "verdict": "watch",
       "duplicate_of": null
     },
     {
-      "id": "ars-technica-ai-2",
-      "score": 8,
+      "id": "hacker-news-1",
+      "score": 2,
       "category": "Legal AI",
-      "suggested_angle": "OpenAI accused of hiding/deleting ChatGPT training logs in NYT copyright case—potential court sanctions for evidence destruction.",
-      "why_now": "Independent source reporting on factual allegations of evidence tampering; stronger investigative hook than Variety piece; potential regulatory/legal consequence angle.",
-      "verdict": "enqueue",
+      "suggested_angle": "Coding glasses for AI agents",
+      "why_now": "Low-engagement HN post (1 point, 1 comment); no clear legal relevance; tier B low source",
+      "verdict": "drop",
       "duplicate_of": null
     },
     {
-      "id": "arxiv-cs-ai-3",
+      "id": "hacker-news-2",
+      "score": 3,
+      "category": "Policy",
+      "suggested_angle": "AI cyber risk measurement gap in US policy",
+      "why_now": "Policy commentary with minimal engagement (1 point, 0 comments); US-focused; not UK regulatory angle",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-4",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "LLM agents in agent-based modeling for policy",
+      "why_now": "Academic research paper; no legal tech angle despite keyword match; general AI interest only",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-5",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "LLM agents for computational mathematics",
+      "why_now": "Academic research paper; no legal relevance despite keyword match",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-6",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Tool optimization in LLM agents",
+      "why_now": "Academic research paper; general agent framework; no legal application",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-7",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Policy violation detection in LLM agents",
+      "why_now": "Academic research on agent safety; potential regulatory relevance but no legal tech angle",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-8",
       "score": 1,
       "category": "Research",
-      "suggested_angle": null,
-      "why_now": "Theoretical mathematics paper on hierarchical process optimization; no legal AI relevance, no legal tech company angle, no regulatory hook—false positive from keyword filter.",
+      "suggested_angle": "LLM-based trajectory analysis in cell biology",
+      "why_now": "Biomedical research; no legal relevance whatsoever",
       "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-9",
+      "score": 1,
+      "category": "Research",
+      "suggested_angle": "LLM-guided process forecasting in manufacturing",
+      "why_now": "Industrial application; no legal relevance",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-10",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "RAG for public health QA systems",
+      "why_now": "Medical/health domain application; no legal tech relevance despite LLM match",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "hacker-news-11",
+      "score": 7,
+      "category": "Legal AI",
+      "suggested_angle": "Anthropic research on selectively disabling knowledge in Claude; dual-use safety implications for legal deployment",
+      "why_now": "Primary source (Anthropic research announcement); directly relevant to trust and safety in legal AI systems; new capability paper",
+      "verdict": "enqueue",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-12",
+      "score": 1,
+      "category": "Research",
+      "suggested_angle": "Optimization algorithm for analytic hierarchy process",
+      "why_now": "Mathematical methods paper; no legal application",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-13",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "LLM agents in scientific machine learning with physics auditing",
+      "why_now": "Scientific ML research; no legal tech relevance despite agent framework",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-14",
+      "score": 3,
+      "category": "Legal AI",
+      "suggested_angle": "Detecting malicious behaviour in multi-agent LLM systems; security risks in legal AI workflows",
+      "why_now": "Academic research on multi-agent safety; tangential legal relevance if agents deployed in legal contexts but speculative",
+      "verdict": "watch",
       "duplicate_of": null
     }
   ],
   "summary": {
-    "enqueue_count": 2,
-    "watch_count": 1,
-    "drop_count": 1,
-    "notes": "NYT/news orgs vs OpenAI action escalating with evidence-destruction allegations; local will case interesting but lower priority. arXiv item is pure noise."
+    "enqueue_count": 1,
+    "watch_count": 3,
+    "drop_count": 11,
+    "notes": "Weak shortlist: mostly generic LLM papers and low-engagement HN posts. Only Anthropic research (hacker-news-11) clears enqueue bar as primary-source safety research relevant to legal AI. Artificial Lawyer adoption story and ars-technica agent rebranding warrant watch pending deeper legal angle confirmation."
   },
-  "enqueued": 2,
+  "enqueued": 1,
   "usage": {
-    "input_tokens": 3461,
+    "input_tokens": 4692,
     "cache_creation_input_tokens": 0,
     "cache_read_input_tokens": 0,
     "cache_creation": {
       "ephemeral_5m_input_tokens": 0,
       "ephemeral_1h_input_tokens": 0
     },
-    "output_tokens": 575,
+    "output_tokens": 1611,
     "service_tier": "standard",
     "inference_geo": "not_available"
   }

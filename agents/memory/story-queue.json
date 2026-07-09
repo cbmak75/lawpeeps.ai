@@ -1998,7 +1998,54 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "An off switch for dual-use knowledge in AI models",
+      "slug": "an-off-switch-for-dual-use-knowledge-in-ai-models",
+      "score": 7,
+      "category": "Legal AI",
+      "story_type": "news",
+      "research_brief": "Article URL: https://www.anthropic.com/research/off-switch-dual-use Comments URL: https://news.ycombinator.com/item?id=48853075 Points: 3 # Comments: 1",
+      "primary_source": "https://www.anthropic.com/research/off-switch-dual-use",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "Anthropic research on selectively disabling knowledge in Claude; dual-use safety implications for legal deployment",
+      "why_now": "Primary source (Anthropic research announcement); directly relevant to trust and safety in legal AI systems; new capability paper",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Hacker News (filtered)",
+      "source_tier": "B",
+      "prefilter_score": 7,
+      "matched_terms": [
+        "Anthropic"
+      ],
+      "fingerprint": {
+        "entities": [
+          "anthropic"
+        ],
+        "numerics": [
+          "49m"
+        ],
+        "keywords": [],
+        "title_tokens": [
+          "switch",
+          "dual",
+          "knowledge",
+          "ai",
+          "models"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-07-09T22:38:44.754Z",
+      "queued_at": "2026-07-09T22:38:44.761Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-07-09T19:57:01.932Z"
+  "last_updated": "2026-07-09T22:38:44.761Z"
 }
