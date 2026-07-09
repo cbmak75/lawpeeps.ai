@@ -1,98 +1,31 @@
 {
-  "generated": "2026-07-08T22:13:54.558Z",
+  "generated": "2026-07-09T04:00:41.111Z",
   "cycle_type": "triage",
   "tier_filter": null,
-  "shortlist_size": 7,
+  "shortlist_size": 20,
   "prefilter": {
     "total": 40,
-    "accepted": 7,
+    "accepted": 23,
     "borderline": 0,
-    "rejected": 33,
-    "rejected_as_duplicate": 33,
-    "accept_rate": 18
+    "rejected": 17,
+    "rejected_as_duplicate": 17,
+    "accept_rate": 57
   },
   "model": "claude-haiku-4-5-20251001",
-  "picks": [
-    {
-      "id": "hacker-news-0",
-      "score": 2,
-      "category": "Legal AI",
-      "suggested_angle": "Open-source AI chat tool positions itself as bloat-free alternative to Claude/ChatGPT",
-      "why_now": "Generic AI tooling, not legal-specific; no law firm adoption angle or regulatory hook",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-1",
-      "score": 3,
-      "category": "Research",
-      "suggested_angle": "Study maps divergent AI literacy pathways in higher education institutions",
-      "why_now": "Academic research without legal focus or new methodology; low newsworthiness for legal AI publication",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "ars-technica-ai-2",
-      "score": 2,
-      "category": "Social",
-      "suggested_angle": "Google updates Android benchmarking tool; Gemini performance lags competitors",
-      "why_now": "Consumer/dev tooling benchmark update; no legal tech angle, no firm adoption implications",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-3",
-      "score": 4,
-      "category": "Research",
-      "suggested_angle": "Study explores integration of knowledge graphs and multilingual corpora for domain-adaptive LLMs in social sciences",
-      "why_now": "Academic research with potential regulatory/methodological implications for legal scholarship workflows; tangential but not core legal AI",
-      "verdict": "watch",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-4",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "Pre-registered experiment tests multi-agent LLM behaviour in simulated economies",
-      "why_now": "Theoretical economics research using Claude; no legal application or firm-relevant insight",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-5",
-      "score": 3,
-      "category": "Research",
-      "suggested_angle": "NLP methodology paper focuses on clinical/medical record extraction rather than legal workflows",
-      "why_now": "Healthcare NLP guidance; not legal-domain specific, no immigration or legal tech angle",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "above-the-law-legaltech-6",
-      "score": 4,
-      "category": "Legal AI",
-      "suggested_angle": "iManage CEO positioned commentary on document management as AI foundation layer",
-      "why_now": "Sponsored content/CEO interview; marketing puff without independent news hook or product launch announcement",
-      "verdict": "drop",
-      "duplicate_of": null
-    }
-  ],
+  "picks": [],
   "summary": {
-    "enqueue_count": 0,
-    "watch_count": 1,
-    "drop_count": 6,
-    "notes": "Weak batch. No funding rounds, regulatory moves, or major firm announcements. arxiv-cs-ai-3 has tangential legal/regulatory interest (scholarly corpora, methodological/epistemic challenges) but insufficient news value. Rest are consumer AI tools, generic benchmarks, medical NLP, or sponsored puff."
+    "notes": "parse_failed"
   },
   "enqueued": 0,
   "usage": {
-    "input_tokens": 3260,
+    "input_tokens": 5657,
     "cache_creation_input_tokens": 0,
     "cache_read_input_tokens": 0,
     "cache_creation": {
       "ephemeral_5m_input_tokens": 0,
       "ephemeral_1h_input_tokens": 0
     },
-    "output_tokens": 873,
+    "output_tokens": 2000,
     "service_tier": "standard",
     "inference_geo": "not_available"
   }
