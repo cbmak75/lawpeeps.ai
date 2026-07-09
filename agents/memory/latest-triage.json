@@ -1,31 +1,116 @@
 {
-  "generated": "2026-07-09T09:59:04.762Z",
+  "generated": "2026-07-09T15:27:36.339Z",
   "cycle_type": "triage",
   "tier_filter": null,
-  "shortlist_size": 20,
+  "shortlist_size": 9,
   "prefilter": {
     "total": 40,
-    "accepted": 25,
+    "accepted": 9,
     "borderline": 0,
-    "rejected": 15,
-    "rejected_as_duplicate": 15,
-    "accept_rate": 63
+    "rejected": 31,
+    "rejected_as_duplicate": 31,
+    "accept_rate": 23
   },
   "model": "claude-haiku-4-5-20251001",
-  "picks": [],
+  "picks": [
+    {
+      "id": "artificial-lawyer-0",
+      "score": 7,
+      "category": "Legal AI",
+      "suggested_angle": "Darrow restructures amid growth, signals consolidation pressure in litigation AI market",
+      "why_now": "Major legal AI platform announces headcount cuts; primary source from Artificial Lawyer editorial; rare negative signal in fundraising-heavy coverage cycle",
+      "verdict": "enqueue",
+      "duplicate_of": null
+    },
+    {
+      "id": "artificial-lawyer-1",
+      "score": 3,
+      "category": "Legal AI",
+      "suggested_angle": "Clio thought leadership on post-implementation adoption strategy",
+      "why_now": "Authored by Clio employee; marketing content posing as editorial insight; no independent news hook",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-2",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "General LLM agent reasoning in policy simulation contexts",
+      "why_now": "Academic preprint with no legal application angle; fails keyword specificity despite 'policy' mention; out of scope",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-3",
+      "score": 1,
+      "category": "Research",
+      "suggested_angle": "LLM agents paired with symbolic math systems",
+      "why_now": "Pure mathematics research; zero relevance to legal, regulatory, or legal tech themes; keyword filter noise",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-4",
+      "score": 1,
+      "category": "Research",
+      "suggested_angle": "Self-optimizing LLM agent tool frameworks",
+      "why_now": "Generic AI systems research; no legal vertical application; caught by overly broad prefilter",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-5",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Policy violation failures in tool-using LLM agents",
+      "why_now": "Relevant to governance and safety but not legal-specific; academic framing only; lacks enforcement or regulatory connection",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-6",
+      "score": 1,
+      "category": "Research",
+      "suggested_angle": "Multi-agent LLM framework for biological trajectory analysis",
+      "why_now": "Biomedical research; zero legal relevance; prefilter false positive",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-7",
+      "score": 1,
+      "category": "Research",
+      "suggested_angle": "Optimization methods for the Analytic Hierarchy Process",
+      "why_now": "Pure mathematics/optimization; no AI or legal angle despite keyword match; out of scope entirely",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-8",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Physics-constrained validation for LLM agents in scientific discovery",
+      "why_now": "Scientific machine learning research; governance angle present but not legal-specific; insufficient specificity for legal AI readers",
+      "verdict": "drop",
+      "duplicate_of": null
+    }
+  ],
   "summary": {
-    "notes": "parse_failed"
+    "enqueue_count": 1,
+    "watch_count": 0,
+    "drop_count": 8,
+    "notes": "Only Darrow restructure story clears bar as primary-source company move. Clio byline is marketing. Seven arXiv papers are off-topic academic noise from overbroad prefilter; none have legal application angle."
   },
-  "enqueued": 0,
+  "enqueued": 1,
   "usage": {
-    "input_tokens": 5604,
+    "input_tokens": 3650,
     "cache_creation_input_tokens": 0,
     "cache_read_input_tokens": 0,
     "cache_creation": {
       "ephemeral_5m_input_tokens": 0,
       "ephemeral_1h_input_tokens": 0
     },
-    "output_tokens": 2000,
+    "output_tokens": 1040,
     "service_tier": "standard",
     "inference_geo": "not_available"
   }

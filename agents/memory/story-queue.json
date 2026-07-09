@@ -1847,7 +1847,56 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "Darrow Cuts Roles as Part of Strategic Restructure",
+      "slug": "darrow-cuts-roles-as-part-of-strategic-restructure",
+      "score": 7,
+      "category": "Legal AI",
+      "story_type": "news",
+      "research_brief": "Darrow, the pioneering litigation intelligence platform, has undergone a restructuring with multiple roles cut. However, the Israel-based company underlined they had ‘consistent year-over-year growth’ and ...",
+      "primary_source": "https://www.artificiallawyer.com/2026/07/09/darrow-cuts-roles-as-part-of-strategic-restructure/",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "Darrow restructures amid growth, signals consolidation pressure in litigation AI market",
+      "why_now": "Major legal AI platform announces headcount cuts; primary source from Artificial Lawyer editorial; rare negative signal in fundraising-heavy coverage cycle",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Artificial Lawyer",
+      "source_tier": "B",
+      "prefilter_score": 9,
+      "matched_terms": [
+        "SRA",
+        "Eve"
+      ],
+      "fingerprint": {
+        "entities": [
+          "eve"
+        ],
+        "numerics": [],
+        "keywords": [
+          "sra"
+        ],
+        "title_tokens": [
+          "darrow",
+          "cuts",
+          "roles",
+          "part",
+          "strategic",
+          "restructure"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-07-09T15:27:36.330Z",
+      "queued_at": "2026-07-09T15:27:36.337Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-07-08T16:45:58.959Z"
+  "last_updated": "2026-07-09T15:27:36.337Z"
 }
