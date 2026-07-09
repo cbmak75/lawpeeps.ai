@@ -1,15 +1,15 @@
 {
-  "generated": "2026-07-09T04:00:41.111Z",
+  "generated": "2026-07-09T09:59:04.762Z",
   "cycle_type": "triage",
   "tier_filter": null,
   "shortlist_size": 20,
   "prefilter": {
     "total": 40,
-    "accepted": 23,
+    "accepted": 25,
     "borderline": 0,
-    "rejected": 17,
-    "rejected_as_duplicate": 17,
-    "accept_rate": 57
+    "rejected": 15,
+    "rejected_as_duplicate": 15,
+    "accept_rate": 63
   },
   "model": "claude-haiku-4-5-20251001",
   "picks": [],
@@ -18,7 +18,7 @@
   },
   "enqueued": 0,
   "usage": {
-    "input_tokens": 5657,
+    "input_tokens": 5604,
     "cache_creation_input_tokens": 0,
     "cache_read_input_tokens": 0,
     "cache_creation": {

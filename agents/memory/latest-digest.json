@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-09T04:00:27.769Z",
+  "generated": "2026-07-09T09:58:53.314Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 1249,
+  "total_scanned": 1171,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -115,18 +115,6 @@
       "relevance_score": 10
     },
     {
-      "title": "A Merger-Sized Wrinkle In Time &#8212; See Also",
-      "url": "https://abovethelaw.com/2026/07/a-merger-sized-wrinkle-in-time-see-also/",
-      "summary": "Doesn't Reviewing 6 Months Of Time Entries Sound Fun?!?! Pour some out for legacy Cadwalader attorneys. Ken Paxton Heal Thyself: Or at least get your voter registration issues in order before going after others. You, Sir, Have The Boorish Manners Of A Yalie! : Yale Law School is trying to convince the university that settling with Donald Trump has literally never worked in the history of ever . You'll Never Guess Which Law Schools Have The Lowest Acceptance Rates : Okay, fine, you will, but two ",
-      "published": "2026-07-08T23:32:00.000Z",
-      "source_id": "above-the-law-legaltech",
-      "source_name": "Above the Law (Legal Tech)",
-      "source_priority": "high",
-      "source_tier": "B",
-      "source_category": "Legal profession",
-      "relevance_score": 10
-    },
-    {
       "title": "POO-LPSP: Parallel Osprey Optimized Least Penalty-Squared Prioritization Methods for Priority Derivation in the Analytic Hierarchy Process",
       "url": "https://arxiv.org/abs/2607.07313",
       "summary": "arXiv:2607.07313v1 Announce Type: cross Abstract: Pairwise comparison (PC) via pairwise reciprocal matrices (PRMs) is central to the Analytic Hierarchy Process (AHP). Although the traditional eigenvector method is widely applied to derive priorities, its theoretical robustness in reflecting true priority vectors remains debated. Building upon a previous iteration of this study, this research develops the revised Least Penalty-Squared Prioritization (LPSP) optimization models, including the revis",
@@ -172,6 +160,30 @@
       "source_priority": "medium",
       "source_tier": "A",
       "source_category": "Aggregator",
+      "relevance_score": 9
+    },
+    {
+      "title": "Darrow Cuts Roles as Part of Strategic Restructure",
+      "url": "https://www.artificiallawyer.com/2026/07/09/darrow-cuts-roles-as-part-of-strategic-restructure/",
+      "summary": "Darrow, the pioneering litigation intelligence platform, has undergone a restructuring with multiple roles cut. However, the Israel-based company underlined they had ‘consistent year-over-year growth’ and ...",
+      "published": "2026-07-09T08:12:33.000Z",
+      "source_id": "artificial-lawyer",
+      "source_name": "Artificial Lawyer",
+      "source_priority": "critical",
+      "source_tier": "B",
+      "source_category": "Legal AI",
+      "relevance_score": 9
+    },
+    {
+      "title": "Why Adoption Starts Where Go-Live Ends",
+      "url": "https://www.artificiallawyer.com/2026/07/09/why-adoption-starts-where-go-live-ends/",
+      "summary": "By Jennie Strickland, Clio. The feeling of a successful go-live is one most legal technology leaders will recognize. The project has hit its milestones. Training ...",
+      "published": "2026-07-09T06:40:34.000Z",
+      "source_id": "artificial-lawyer",
+      "source_name": "Artificial Lawyer",
+      "source_priority": "critical",
+      "source_tier": "B",
+      "source_category": "Legal AI",
       "relevance_score": 9
     },
     {
@@ -473,18 +485,6 @@
       "source_tier": "B",
       "source_category": "Research",
       "relevance_score": 9
-    },
-    {
-      "title": "Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook partners with CBA; DeepIP raises $25m - Legal IT Insider",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcXJGTU9ucEc1azNNOTZ3eWI1dldHblpjS0lIdG9jTy1YSE1SSEdlWXlqa041bzd4R052ckZLZG1TQnh6eUE1bFhEV0FyYlFndF84Z1hTczZXZ0IzOVRoMF9jWHhkMXp2X2tjenNUMktCZWM1eVlvM0tjZEpvX2ZoeUpaTUN5UTZUaDJEWWdvVDFJZWpGYTZiQV8ycEc1dEJRMTJCWktEV3IwX3FoX1F6cFk5dkJ1VUtHaURCWmlBTUpTcFRJQVk3cmYxODlsMEpjQnRMdHkwLWNoR1lzT01jRmJlSjJwdw?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcXJGTU9ucEc1azNNOTZ3eWI1dldHblpjS0lIdG9jTy1YSE1SSEdlWXlqa041bzd4R052ckZLZG1TQnh6eUE1bFhEV0FyYlFndF84Z1hTczZXZ0IzOVRoMF9jWHhkMXp2X2tjenNUMktCZWM1eVlvM0tjZEpvX2ZoeUpaTUN5UTZUaDJEWWdvVDFJZWpGYTZiQV8ycEc1dEJRMTJCWktEV3IwX3FoX1F6cFk5dkJ1VUtHaURCWmlBTUpTcFRJQVk3cmYxODlsMEpjQnRMdHkwLWNoR1lzT01jRmJlSjJwdw?oc=5\" target=\"_blank\"&gt;Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook partners with CBA; De",
-      "published": "2026-03-04T08:00:00.000Z",
-      "source_id": "google-news-legal-tech-funding",
-      "source_name": "Google News: legal tech funding",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 8
     }
   ]
 }
