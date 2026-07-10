@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-10T04:00:28.090Z",
+  "generated": "2026-07-10T09:48:35.686Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 1249,
+  "total_scanned": 1245,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -53,18 +53,6 @@
       "source_tier": "B",
       "source_category": "Legal operations",
       "relevance_score": 12
-    },
-    {
-      "title": "Harbor Acquires iTrain for Legal AI Education",
-      "url": "https://www.artificiallawyer.com/2026/07/07/harbor-acquires-itrain-for-legal-ai-education/",
-      "summary": "Harbor, the legal tech services group, has bought iTrain, which focuses on tech training, including AI enablement. It maintains strategic partnerships with Aderant, iManage, NetDocuments, ...",
-      "published": "2026-07-07T16:39:24.000Z",
-      "source_id": "artificial-lawyer",
-      "source_name": "Artificial Lawyer",
-      "source_priority": "critical",
-      "source_tier": "B",
-      "source_category": "Legal AI",
-      "relevance_score": 10
     },
     {
       "title": "On LawNext: Legal Research for Everyone: Inside the CourtListener-Claude Partnership",
@@ -295,6 +283,30 @@
       "relevance_score": 8
     },
     {
+      "title": "A&amp;O Shearman advertises AI with Suits' Harvey Spectre - RollOnFriday",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdEpEOTc5by1jajFHeUljNkFxdEtVNm96Qm9vQVN6YWlYVjhZRncxY1V3LWRXRWRNaFFNekFCX3RoU2tRRHdFVk1yZ3R6WU1DX1AxdEFTTWZDRS0zc2NUX1NyandlRWIyVktCa3Y4a2JQLTY5VWtTWFJtYU5sX3Q5U1NYM3NtWEh3QUNwZnE2bS1QUQ?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNdEpEOTc5by1jajFHeUljNkFxdEtVNm96Qm9vQVN6YWlYVjhZRncxY1V3LWRXRWRNaFFNekFCX3RoU2tRRHdFVk1yZ3R6WU1DX1AxdEFTTWZDRS0zc2NUX1NyandlRWIyVktCa3Y4a2JQLTY5VWtTWFJtYU5sX3Q5U1NYM3NtWEh3QUNwZnE2bS1QUQ?oc=5\" target=\"_blank\"&gt;A&amp;O Shearman advertises AI with Suits' Harvey Spectre&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;RollOnFriday&lt;/font&gt;",
+      "published": "2026-07-10T06:49:30.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 7
+    },
+    {
+      "title": "The Legal AI Scaffold Changes Everything – Claude Study - Artificial Lawyer",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQU4tdGFPSGFaaGo0NGRvdnhxMUhYQ3pSd18td3lld2ZRd2xiQkVwWUQ0Z1lhR3IwdGstdE5STUVBTzdqdkxvbnhWUTVwZ0Y5MDNqT1hHV0RDUGVldzI5R2JrdEtaZ2NfYWNDVERjN1o5QWFqeGFTTEp6VDB1S19id3VoOUZUbzQ0eDdwNzJHNzdvYzRNWUh5cFV6UnhXOE0?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNQU4tdGFPSGFaaGo0NGRvdnhxMUhYQ3pSd18td3lld2ZRd2xiQkVwWUQ0Z1lhR3IwdGstdE5STUVBTzdqdkxvbnhWUTVwZ0Y5MDNqT1hHV0RDUGVldzI5R2JrdEtaZ2NfYWNDVERjN1o5QWFqeGFTTEp6VDB1S19id3VoOUZUbzQ0eDdwNzJHNzdvYzRNWUh5cFV6UnhXOE0?oc=5\" target=\"_blank\"&gt;The Legal AI Scaffold Changes Everything – Claude Study&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
+      "published": "2026-06-22T07:00:00.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 7
+    },
+    {
       "title": "Chicago Cubs and Harvey Announce Partnership, Naming Harvey the Official Legal AI Platform - Harvey",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZUU3Q0tMckdwcHpjczFCRTE1VTI2SW9sRmZOVWJOM1FtZE4zdWh0Q0dKMEZha09qYzZKYWl6VnRpdExBOVI4WmNwSm52LVBfaWhJM0tHZHQwV1p2Z1FtM2U5eGwtazFMS0JNcXpieW9rNExuQy15VHNjbTlVOEE2UWM3VllLMXRLUFdHdjQyOFFXUk1LQ2NkQkNOb1dkZ0poaF9udjJETzJPaWVOd3l5dW9PYno0OVU?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNZUU3Q0tMckdwcHpjczFCRTE1VTI2SW9sRmZOVWJOM1FtZE4zdWh0Q0dKMEZha09qYzZKYWl6VnRpdExBOVI4WmNwSm52LVBfaWhJM0tHZHQwV1p2Z1FtM2U5eGwtazFMS0JNcXpieW9rNExuQy15VHNjbTlVOEE2UWM3VllLMXRLUFdHdjQyOFFXUk1LQ2NkQkNOb1dkZ0poaF9udjJETzJPaWVOd3l5dW9PYno0OVU?oc=5\" target=\"_blank\"&gt;Chicago Cubs and Harvey Announce Partnership, Naming Harvey the Official Legal AI Platform&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
@@ -319,6 +331,30 @@
       "relevance_score": 7
     },
     {
+      "title": "Royal Courts of Justice event showcases the work of the Judicial College",
+      "url": "https://www.judiciary.uk/royal-courts-of-justice-event-showcases-the-work-of-the-judicial-college/",
+      "summary": "Guests from across the justice sector gathered at the Royal Courts of Justice to learn how the Judicial College designs and delivers training for more than 24,000 judicial office holders The post Royal Courts of Justice event showcases the work of the Judicial College appeared first on Courts and Tribunals Judiciary .",
+      "published": "2026-07-10T09:00:07.000Z",
+      "source_id": "judicial-office",
+      "source_name": "Courts and Tribunals Judiciary",
+      "source_priority": "high",
+      "source_tier": "A",
+      "source_category": "Judicial",
+      "relevance_score": 7
+    },
+    {
+      "title": "Job ad: Citizens Advice in North &#038; West Kent is recruiting an Immigration Solicitor or Barrister",
+      "url": "https://freemovement.org.uk/job-ad-citizens-advice-in-north-west-kent-is-recruiting-an-immigration-solicitor-or-barrister/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=job-ad-citizens-advice-in-north-west-kent-is-recruiting-an-immigration-solicitor-or-barrister",
+      "summary": "Immigration Solicitor or Barrister Salary: £38,000 – £45,000 per annum, depending on experience, pro-rata for part-time.Hours: Full or part-time consideredContract: PermanentLocation: Flexible — fully remote within the UK, or hybrid from any North &#38; West Kent Citizens Advice &#38; Kent Law Centre office (Gravesend, Dartford, Swanley, Sevenoaks, Tonbridge, Tunbridge Wells or Folkestone) Are you an [&#8230;]",
+      "published": "2026-07-10T06:30:00.000Z",
+      "source_id": "free-movement",
+      "source_name": "Free Movement",
+      "source_priority": "high",
+      "source_tier": "A",
+      "source_category": "Immigration law",
+      "relevance_score": 7
+    },
+    {
       "title": "Relativity Acquires Document Automation Company Gavel, Extending Its Legal Data Platform Into Word",
       "url": "https://www.lawnext.com/2026/06/relativity-acquires-document-automation-company-gavel-extending-its-legal-data-platform-into-word.html",
       "summary": "Relativity, the Chicago-based legal data intelligence company best known for the e-discovery and litigation platform RelativityOne, has acquired Gavel, the Los Angeles-based document automation and AI drafting company founded by Dorna Moini (pictured above). Relativity said the move will enable it to extend Relativity&#8217;s AI platform into the place where lawyers actually write, Microsoft Word. [&#8230;]",
@@ -340,30 +376,6 @@
       "source_priority": "critical",
       "source_tier": "B",
       "source_category": "Legal tech commentary",
-      "relevance_score": 7
-    },
-    {
-      "title": "NHS bill for legal costs flatlines as number of claims hit new record",
-      "url": "https://www.legalfutures.co.uk/latest-news/nhs-bill-for-legal-costs-flatlines-as-number-of-claims-hit-new-record",
-      "summary": "NHS spending on claimant legal costs was static last year, even though the costs of low-value cases continue to rise sharply, according to NHS Resolution. The post NHS bill for legal costs flatlines as number of claims hit new record appeared first on Legal Futures .",
-      "published": "2026-07-09T23:05:19.000Z",
-      "source_id": "legal-futures",
-      "source_name": "Legal Futures",
-      "source_priority": "high",
-      "source_tier": "B",
-      "source_category": "Legal business",
-      "relevance_score": 7
-    },
-    {
-      "title": "OpenAI may have made a fatal misstep in copyright fight with news orgs",
-      "url": "https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/",
-      "summary": "OpenAI may be sanctioned for hiding, deleting ChatGPT logs in NYT copyright fight.",
-      "published": "2026-07-09T18:57:53.000Z",
-      "source_id": "ars-technica-ai",
-      "source_name": "Ars Technica AI",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "General AI",
       "relevance_score": 7
     },
     {
@@ -419,18 +431,6 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX3MxbzlsMzBXMERJRnlPYS1jUnk3N19nYmNxbWpBeXZCV1JsMWVoU2RCSnhWX3ZiN2VUUzR2aEpTVGQ5MjBPS3ZkMmRsSHdkQk5GRzJvSVN4aE1ENFlKYUNzeENMSzRsS2VrMl9TRGpTSk5ra1pZTWhJNzJ0ZGd6dUJkcnRsa2V3d082aGg4a0xaRVhoT1E?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQX3MxbzlsMzBXMERJRnlPYS1jUnk3N19nYmNxbWpBeXZCV1JsMWVoU2RCSnhWX3ZiN2VUUzR2aEpTVGQ5MjBPS3ZkMmRsSHdkQk5GRzJvSVN4aE1ENFlKYUNzeENMSzRsS2VrMl9TRGpTSk5ra1pZTWhJNzJ0ZGd6dUJkcnRsa2V3d082aGg4a0xaRVhoT1E?oc=5\" target=\"_blank\"&gt;AI wrote a will , a solicitor found six things that could cost your family everything&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harrow Times&lt;/font&gt;",
       "published": "2026-07-09T15:30:29.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
-    },
-    {
-      "title": "When AI becomes a line on the client’s bill - Legal Futures",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNjdJMjgwNjFEMUprX25VRFVyaFQ2aTFUUEZqSzJESWgzakV5LURGSGNDT2FpSnlnQ1JkRmZuNENRa041dUJMc05ZOXhuSnZpTEVQSXhMT0JwTTZLVHQyOGRzNlZFVE93MjF4UXk0bWlxcXd2UHozTHpyejlLMWpaZHBvMzQ?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPNjdJMjgwNjFEMUprX25VRFVyaFQ2aTFUUEZqSzJESWgzakV5LURGSGNDT2FpSnlnQ1JkRmZuNENRa041dUJMc05ZOXhuSnZpTEVQSXhMT0JwTTZLVHQyOGRzNlZFVE93MjF4UXk0bWlxcXd2UHozTHpyejlLMWpaZHBvMzQ?oc=5\" target=\"_blank\"&gt;When AI becomes a line on the client’s bill&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Legal Futures&lt;/font&gt;",
-      "published": "2026-07-09T23:15:13.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",

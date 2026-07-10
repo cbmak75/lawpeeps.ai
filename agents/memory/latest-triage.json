@@ -1,43 +1,25 @@
 {
-  "generated": "2026-07-10T04:00:37.008Z",
+  "generated": "2026-07-10T09:48:46.185Z",
   "cycle_type": "triage",
   "tier_filter": null,
-  "shortlist_size": 7,
+  "shortlist_size": 5,
   "prefilter": {
     "total": 40,
-    "accepted": 7,
+    "accepted": 5,
     "borderline": 0,
-    "rejected": 33,
-    "rejected_as_duplicate": 33,
-    "accept_rate": 18
+    "rejected": 35,
+    "rejected_as_duplicate": 35,
+    "accept_rate": 13
   },
   "model": "claude-haiku-4-5-20251001",
   "picks": [
     {
-      "id": "google-news-legal-ai-0",
-      "score": 7,
-      "category": "Legal AI",
-      "suggested_angle": "Real-world case study: solicitor identifies six defects in GPT-drafted will, illustrating accuracy and liability risks in consumer AI legal tools",
-      "why_now": "Concrete example of AI legal work failure with professional analysis; directly supports ongoing editorial thread on AI accuracy in high-stakes contexts",
-      "verdict": "enqueue",
-      "duplicate_of": null
-    },
-    {
-      "id": "google-news-legal-ai-3",
-      "score": 6,
-      "category": "Legal AI",
-      "suggested_angle": "Law firms grapple with billing and transparency as AI tooling becomes standard; explores client trust and fee structure implications",
-      "why_now": "Touches on emerging practice management challenge as AI adoption spreads; complements recent coverage on firm adoption but focuses on commercialisation",
+      "id": "judicial-office-0",
+      "score": 4,
+      "category": "Regulatory",
+      "suggested_angle": "Judicial College event highlights training infrastructure for UK judiciary amid AI integration debates",
+      "why_now": "Primary source from Judicial Office, but event coverage without clear AI or legal tech angle; relevant to broader judiciary modernisation context",
       "verdict": "watch",
-      "duplicate_of": null
-    },
-    {
-      "id": "legal-futures-4",
-      "score": 3,
-      "category": "Social",
-      "suggested_angle": "NHS legal spend static despite rising claim volumes",
-      "why_now": "Out of scope: not legal AI or legal tech; purely claims litigation statistics",
-      "verdict": "drop",
       "duplicate_of": null
     },
     {
@@ -45,7 +27,7 @@
       "score": 2,
       "category": "Research",
       "suggested_angle": "Agent-based modeling with LLM reasoning for policy simulation",
-      "why_now": "Out of scope: general-purpose LLM research with no legal application or law firm connection",
+      "why_now": "Pure academic research; no legal domain connection, no enterprise application, no policy angle",
       "verdict": "drop",
       "duplicate_of": null
     },
@@ -53,46 +35,46 @@
       "id": "arxiv-cs-ai-2",
       "score": 2,
       "category": "Research",
-      "suggested_angle": "LLM agents with computer algebra systems for mathematics",
-      "why_now": "Out of scope: pure mathematics and theorem-proving research, no legal relevance",
+      "suggested_angle": "LLM agents augmented with symbolic computation for mathematics",
+      "why_now": "Pure academic research in computational mathematics; no legal application",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
-      "id": "arxiv-cs-ai-5",
-      "score": 2,
+      "id": "arxiv-cs-ai-3",
+      "score": 1,
       "category": "Research",
-      "suggested_angle": "Quantum computing for belief updates in autonomous systems",
-      "why_now": "Out of scope: quantum computing research with no legal application",
+      "suggested_angle": "Quantum computing for belief state updates in autonomous systems",
+      "why_now": "Niche quantum computing research; no legal or enterprise relevance",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
-      "id": "arxiv-cs-ai-6",
-      "score": 4,
+      "id": "arxiv-cs-ai-4",
+      "score": 6,
       "category": "Legal AI",
-      "suggested_angle": "Token economics and orchestration design in enterprise agentic AI; cost-efficiency implications for legal tech deployment",
-      "why_now": "Tangentially relevant to legal AI vendor economics, but arXiv pre-print with no legal focus or primary reporting",
+      "suggested_angle": "How AI orchestration architecture drives token economics and cost models for enterprise agentic AI",
+      "why_now": "Directly addresses cost/capability tradeoff in enterprise AI deployment; relevant to legal tech economics and profitability concerns",
       "verdict": "watch",
       "duplicate_of": null
     }
   ],
   "summary": {
-    "enqueue_count": 1,
+    "enqueue_count": 0,
     "watch_count": 2,
-    "drop_count": 4,
-    "notes": "One strong enqueue on AI-drafted will failure (supports accuracy thread). Two watch items: client billing transparency (emerging angle) and token economics (tangential but relevant to vendor cost structures). Four out-of-scope drops: NHS claims, general LLM research, quantum computing, and arXiv pre-print. Strong editorial thread alignment on AI accuracy and professional liability."
+    "drop_count": 3,
+    "notes": "Weak shortlist: one Judicial Office event (insufficient legal AI hook), three generic arXiv papers (no legal domain), one token economics paper (interesting but needs verification of enterprise legal AI relevance). No funding announcements, no regulator statements, no company moves."
   },
-  "enqueued": 1,
+  "enqueued": 0,
   "usage": {
-    "input_tokens": 3903,
+    "input_tokens": 2922,
     "cache_creation_input_tokens": 0,
     "cache_read_input_tokens": 0,
     "cache_creation": {
       "ephemeral_5m_input_tokens": 0,
       "ephemeral_1h_input_tokens": 0
     },
-    "output_tokens": 893,
+    "output_tokens": 629,
     "service_tier": "standard",
     "inference_geo": "not_available"
   }
