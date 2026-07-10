@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-10T19:43:46.712Z",
+  "generated": "2026-07-10T22:11:31.833Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 1248,
+  "total_scanned": 1232,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -113,18 +113,6 @@
       "source_tier": "B",
       "source_category": "Legal profession",
       "relevance_score": 10
-    },
-    {
-      "title": "Beyond chatbots: how technical literacy defines the next era of legal AI - IFLR",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUFpJQjBKRjQ5V1l2YzVaMDJuelJ3U3hJN0V6M2R5eVczRE00VXU2Z2sybTZDUHdkY3VJYmtjQzYxdjY5Um80bUJSenlfRjhyS1NGeTdGRjc3anBFWE00OXJlQVJtd09iZklHM0E5SkQwUHYtdm9rWERZN0RLQ2NxLUFCMzlnb0JJQmRYeEZfcDhXRGlKdWdZbTBSSGpvcG5fRjJKYjhqMnBnMjhheDNtNkx6SXFsOElsUkthYXNDMVVGLXo4LUd6WVhJZk8?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPUFpJQjBKRjQ5V1l2YzVaMDJuelJ3U3hJN0V6M2R5eVczRE00VXU2Z2sybTZDUHdkY3VJYmtjQzYxdjY5Um80bUJSenlfRjhyS1NGeTdGRjc3anBFWE00OXJlQVJtd09iZklHM0E5SkQwUHYtdm9rWERZN0RLQ2NxLUFCMzlnb0JJQmRYeEZfcDhXRGlKdWdZbTBSSGpvcG5fRjJKYjhqMnBnMjhheDNtNkx6SXFsOElsUkthYXNDMVVGLXo4LUd6WVhJZk8?oc=5\" target=\"_blank\"&gt;Beyond chatbots: how technical literacy defines the next era of legal AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;IFLR&lt;/font&gt",
-      "published": "2026-07-10T13:51:07.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 9
     },
     {
       "title": "Harvey Forum + Shared Spaces, Clio, Spellbook, Legal Innovators - Artificial Lawyer",
@@ -295,6 +283,18 @@
       "relevance_score": 8
     },
     {
+      "title": "Beyond chatbots: how technical literacy defines the next era of legal AI - IFLR",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUFpJQjBKRjQ5V1l2YzVaMDJuelJ3U3hJN0V6M2R5eVczRE00VXU2Z2sybTZDUHdkY3VJYmtjQzYxdjY5Um80bUJSenlfRjhyS1NGeTdGRjc3anBFWE00OXJlQVJtd09iZklHM0E5SkQwUHYtdm9rWERZN0RLQ2NxLUFCMzlnb0JJQmRYeEZfcDhXRGlKdWdZbTBSSGpvcG5fRjJKYjhqMnBnMjhheDNtNkx6SXFsOElsUkthYXNDMVVGLXo4LUd6WVhJZk8?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPUFpJQjBKRjQ5V1l2YzVaMDJuelJ3U3hJN0V6M2R5eVczRE00VXU2Z2sybTZDUHdkY3VJYmtjQzYxdjY5Um80bUJSenlfRjhyS1NGeTdGRjc3anBFWE00OXJlQVJtd09iZklHM0E5SkQwUHYtdm9rWERZN0RLQ2NxLUFCMzlnb0JJQmRYeEZfcDhXRGlKdWdZbTBSSGpvcG5fRjJKYjhqMnBnMjhheDNtNkx6SXFsOElsUkthYXNDMVVGLXo4LUd6WVhJZk8?oc=5\" target=\"_blank\"&gt;Beyond chatbots: how technical literacy defines the next era of legal AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;IFLR&lt;/font&gt",
+      "published": "2026-07-10T13:51:07.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 7
+    },
+    {
       "title": "The Legal AI Scaffold Changes Everything – Claude Study - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQU4tdGFPSGFaaGo0NGRvdnhxMUhYQ3pSd18td3lld2ZRd2xiQkVwWUQ0Z1lhR3IwdGstdE5STUVBTzdqdkxvbnhWUTVwZ0Y5MDNqT1hHV0RDUGVldzI5R2JrdEtaZ2NfYWNDVERjN1o5QWFqeGFTTEp6VDB1S19id3VoOUZUbzQ0eDdwNzJHNzdvYzRNWUh5cFV6UnhXOE0?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNQU4tdGFPSGFaaGo0NGRvdnhxMUhYQ3pSd18td3lld2ZRd2xiQkVwWUQ0Z1lhR3IwdGstdE5STUVBTzdqdkxvbnhWUTVwZ0Y5MDNqT1hHV0RDUGVldzI5R2JrdEtaZ2NfYWNDVERjN1o5QWFqeGFTTEp6VDB1S19id3VoOUZUbzQ0eDdwNzJHNzdvYzRNWUh5cFV6UnhXOE0?oc=5\" target=\"_blank\"&gt;The Legal AI Scaffold Changes Everything – Claude Study&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
@@ -307,12 +307,12 @@
       "relevance_score": 7
     },
     {
-      "title": "Law Firm Disrupted: The 'Ask Jeeves' Phase of Gen AI Evolution? - Law.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUDhkZ0pNdHAtSnlsQTBtemd3OHNQVzY4THI2RlVvWTRiMHR6YXpmOTF5ckJFVlE0RXNQWnRWNHBDbkVQNXVVUkoyd2tnc29tWHdXX2VLdWU1RU5pOU1rOHYzX0tlaVpZZnIyQktDeGdGdjR0Y0tzd25vNlJIREZMNkFKSWpsN3dtSl9HX0xjdWQ4Y21CVUE?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNUDhkZ0pNdHAtSnlsQTBtemd3OHNQVzY4THI2RlVvWTRiMHR6YXpmOTF5ckJFVlE0RXNQWnRWNHBDbkVQNXVVUkoyd2tnc29tWHdXX2VLdWU1RU5pOU1rOHYzX0tlaVpZZnIyQktDeGdGdjR0Y0tzd25vNlJIREZMNkFKSWpsN3dtSl9HX0xjdWQ4Y21CVUE?oc=5\" target=\"_blank\"&gt;Law Firm Disrupted: The 'Ask Jeeves' Phase of Gen AI Evolution?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Law.com&lt;/font&gt;",
-      "published": "2026-07-10T15:03:00.000Z",
-      "source_id": "google-news-law-firm-ai",
-      "source_name": "Google News: law firm AI",
+      "title": "Legal AI giant Harvey acquires Hexus as competition heats up in legal tech - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWtsRnRNeWxYZWEwaERMRVJaRWVfQm41MzVDeDJBM1ZIOEstUW5DaTB5UUhjUXE5Sml2QU40RzdZaWlqeUpid3dELUpLTHlKbVNRNmRObWtrZ1dSSXd3R20wSDY3TkVUOHVwRzlZOTh1b1FraXZlNGpuUnBPcXdIU2oxbVZzMTZDVzVNMDRDcGR0NC1oQ2pfMGlUY25YSHBZaHJUTEljdzU5LWREa0E?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWtsRnRNeWxYZWEwaERMRVJaRWVfQm41MzVDeDJBM1ZIOEstUW5DaTB5UUhjUXE5Sml2QU40RzdZaWlqeUpid3dELUpLTHlKbVNRNmRObWtrZ1dSSXd3R20wSDY3TkVUOHVwRzlZOTh1b1FraXZlNGpuUnBPcXdIU2oxbVZzMTZDVzVNMDRDcGR0NC1oQ2pfMGlUY25YSHBZaHJUTEljdzU5LWREa0E?oc=5\" target=\"_blank\"&gt;Legal AI giant Harvey acquires Hexus as competition heats up in legal tech&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;TechCrunch&lt;/font&gt;",
+      "published": "2026-01-23T08:00:00.000Z",
+      "source_id": "google-news-legal-tech-funding",
+      "source_name": "Google News: legal tech funding",
       "source_priority": "critical",
       "source_tier": "A",
       "source_category": "Aggregator",
@@ -379,18 +379,6 @@
       "relevance_score": 7
     },
     {
-      "title": "Latham and Simpson Thacher power up for $2.6bn EQT-Carlyle data centre deal",
-      "url": "https://www.legalbusiness.co.uk/law-firms/latham-and-simpson-thacher-power-up-for-2-6bn-data-centre-deal/",
-      "summary": "Latham &#38; Watkins and Simpson Thacher &#38; Bartlett have taken lead roles on a multi-billion dollar data centre deal that will see EQT take ownership of Carlyle&#8217;s power and AI infrastructure business Copia Power. Copia Power, which develops power and data centre infrastructure across the US, was established by Carlyle in 2021, and Carlyle has &#8230; Continue reading \"Latham and Simpson Thacher power up for $2.6bn EQT-Carlyle data centre deal\"",
-      "published": "2026-07-10T14:59:06.000Z",
-      "source_id": "legal-business",
-      "source_name": "Legal Business",
-      "source_priority": "medium",
-      "source_tier": "B",
-      "source_category": "Legal profession",
-      "relevance_score": 7
-    },
-    {
       "title": "What AI means for how we develop the next generation of lawyers",
       "url": "https://www.legalfutures.co.uk/associate-news/what-ai-means-for-how-we-develop-the-next-generation-of-lawyers",
       "summary": "Recent LexisNexis research found that 65% of lawyers are now using paid legal AI tools, with many saying it helps them work faster. The post What AI means for how we develop the next generation of lawyers appeared first on Legal Futures .",
@@ -403,10 +391,10 @@
       "relevance_score": 7
     },
     {
-      "title": "Redbrick Solutions announces the latest release of its award-winning legal technology platform - Inside Conveyancing",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQjFuU21kaHFBdi1HTTJGOXBUVWxZLThPam5WdjVxWXJSXzNhSFVLZm5IYTJKc3cyYkljeG5zTVN2dnViTkRURmREMHo4bFpKVkxLVU5razNNcnBmQ2NrVTZKUG5PM3NDUDhyVnFpVmRmQ2xaLW42dnI1LUtHRjZPSnR3eGFlWEJUaHNibXVPTXpRN3c0NTYxVTZWaFVsaWxjQ1B4Mi1kZFViMElhcmQ4RF9NUkM4dmcweVhwc3ZUTlNUUC10Sk5oRXBnZWNnQQ?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNQjFuU21kaHFBdi1HTTJGOXBUVWxZLThPam5WdjVxWXJSXzNhSFVLZm5IYTJKc3cyYkljeG5zTVN2dnViTkRURmREMHo4bFpKVkxLVU5razNNcnBmQ2NrVTZKUG5PM3NDUDhyVnFpVmRmQ2xaLW42dnI1LUtHRjZPSnR3eGFlWEJUaHNibXVPTXpRN3c0NTYxVTZWaFVsaWxjQ1B4Mi1kZFViMElhcmQ4RF9NUkM4dmcweVhwc3ZUTlNUUC10Sk5oRXBnZWNnQQ?oc=5\" target=\"_blank\"&gt;Redbrick Solutions announces the latest release of its award-winning legal technology platform&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f",
-      "published": "2026-07-10T15:13:05.000Z",
+      "title": "Embedded AI Will Outperform Standalone Legal AI Tools, Here’s Why - Legal Reader",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVkxXbFBGMlc2T2hlMTFrNGFwM1FLNDh3YUFIQW9zTkdSc2M0OHZFcGRLb3ZzZFV0UWltSE5yQkh1QVVnVjhReExRel83VXFYbWdZRlVhbVhKVUhFVFJBYTM3Unh5MDRjSXQ2eG5hWEJfMEhtM3A4TWlsUGhnUXR6LXAwdXVWLXhuQ1JRekRHYm50NE93WHNB?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQVkxXbFBGMlc2T2hlMTFrNGFwM1FLNDh3YUFIQW9zTkdSc2M0OHZFcGRLb3ZzZFV0UWltSE5yQkh1QVVnVjhReExRel83VXFYbWdZRlVhbVhKVUhFVFJBYTM3Unh5MDRjSXQ2eG5hWEJfMEhtM3A4TWlsUGhnUXR6LXAwdXVWLXhuQ1JRekRHYm50NE93WHNB?oc=5\" target=\"_blank\"&gt;Embedded AI Will Outperform Standalone Legal AI Tools, Here’s Why&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Legal Reader&lt;/font&gt;",
+      "published": "2026-07-10T19:59:09.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
@@ -479,6 +467,18 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjWG9CNFREdTBDYkhqeWhzSk1pVGhScVduQk8zdG5LUzJVZ2ZaQXhUazJ3OXdPemZ4UjlENkxCOTYtTm5xOFZZZjlDb3doREwxdUdQMm9rbnhfYWhxLUwyRHJvSVFDeVdEWnc?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBjWG9CNFREdTBDYkhqeWhzSk1pVGhScVduQk8zdG5LUzJVZ2ZaQXhUazJ3OXdPemZ4UjlENkxCOTYtTm5xOFZZZjlDb3doREwxdUdQMm9rbnhfYWhxLUwyRHJvSVFDeVdEWnc?oc=5\" target=\"_blank\"&gt;Harvey Ai Number of Employees 2026 | Employee Count &amp; Headcount Data&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Revelio Labs&lt;/font&gt;",
       "published": "2026-04-22T15:13:24.000Z",
+      "source_id": "google-news-harvey-luminance",
+      "source_name": "Google News: Harvey OR Luminance",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
+    },
+    {
+      "title": "Preview: Access :Harvey:, Wherever You’re Working - Harvey",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0djUyLXFEbzcwVDBaN3k4T0FOX0pBTzRyLXBka01pN2VhYlFqTEdaVkxsYUM1aUVsb0FMUm9pVElZUUNVdXE3SU1vd3Z5RlVURFhmR0RMVFlJQmtZMW5Oa0VB?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0djUyLXFEbzcwVDBaN3k4T0FOX0pBTzRyLXBka01pN2VhYlFqTEdaVkxsYUM1aUVsb0FMUm9pVElZUUNVdXE3SU1vd3Z5RlVURFhmR0RMVFlJQmtZMW5Oa0VB?oc=5\" target=\"_blank\"&gt;Preview: Access :Harvey:, Wherever You’re Working&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
+      "published": "2025-09-10T07:00:00.000Z",
       "source_id": "google-news-harvey-luminance",
       "source_name": "Google News: Harvey OR Luminance",
       "source_priority": "critical",
