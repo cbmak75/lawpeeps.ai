@@ -1,60 +1,60 @@
 {
-  "generated": "2026-07-09T22:38:44.762Z",
+  "generated": "2026-07-10T04:00:37.008Z",
   "cycle_type": "triage",
   "tier_filter": null,
-  "shortlist_size": 15,
+  "shortlist_size": 7,
   "prefilter": {
     "total": 40,
-    "accepted": 15,
+    "accepted": 7,
     "borderline": 0,
-    "rejected": 25,
-    "rejected_as_duplicate": 25,
-    "accept_rate": 38
+    "rejected": 33,
+    "rejected_as_duplicate": 33,
+    "accept_rate": 18
   },
   "model": "claude-haiku-4-5-20251001",
   "picks": [
     {
-      "id": "ars-technica-ai-0",
-      "score": 5,
+      "id": "google-news-legal-ai-0",
+      "score": 7,
       "category": "Legal AI",
-      "suggested_angle": "OpenAI's agentic workflow rebranding; implications for autonomous legal task execution",
-      "why_now": "OpenAI product announcement but generic tech coverage; limited legal angle without legal-specific analysis",
-      "verdict": "watch",
+      "suggested_angle": "Real-world case study: solicitor identifies six defects in GPT-drafted will, illustrating accuracy and liability risks in consumer AI legal tools",
+      "why_now": "Concrete example of AI legal work failure with professional analysis; directly supports ongoing editorial thread on AI accuracy in high-stakes contexts",
+      "verdict": "enqueue",
       "duplicate_of": null
     },
     {
-      "id": "artificial-lawyer-3",
+      "id": "google-news-legal-ai-3",
       "score": 6,
-      "category": "Adoption",
-      "suggested_angle": "Clio on post-launch adoption strategy; vendor perspective on long-term deployment success",
-      "why_now": "Vendor-authored thought leadership on adoption mechanics; signals firm strategy but carries implicit marketing intent",
+      "category": "Legal AI",
+      "suggested_angle": "Law firms grapple with billing and transparency as AI tooling becomes standard; explores client trust and fee structure implications",
+      "why_now": "Touches on emerging practice management challenge as AI adoption spreads; complements recent coverage on firm adoption but focuses on commercialisation",
       "verdict": "watch",
       "duplicate_of": null
     },
     {
-      "id": "hacker-news-1",
-      "score": 2,
-      "category": "Legal AI",
-      "suggested_angle": "Coding glasses for AI agents",
-      "why_now": "Low-engagement HN post (1 point, 1 comment); no clear legal relevance; tier B low source",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "hacker-news-2",
+      "id": "legal-futures-4",
       "score": 3,
-      "category": "Policy",
-      "suggested_angle": "AI cyber risk measurement gap in US policy",
-      "why_now": "Policy commentary with minimal engagement (1 point, 0 comments); US-focused; not UK regulatory angle",
+      "category": "Social",
+      "suggested_angle": "NHS legal spend static despite rising claim volumes",
+      "why_now": "Out of scope: not legal AI or legal tech; purely claims litigation statistics",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
-      "id": "arxiv-cs-ai-4",
+      "id": "arxiv-cs-ai-1",
       "score": 2,
       "category": "Research",
-      "suggested_angle": "LLM agents in agent-based modeling for policy",
-      "why_now": "Academic research paper; no legal tech angle despite keyword match; general AI interest only",
+      "suggested_angle": "Agent-based modeling with LLM reasoning for policy simulation",
+      "why_now": "Out of scope: general-purpose LLM research with no legal application or law firm connection",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-2",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "LLM agents with computer algebra systems for mathematics",
+      "why_now": "Out of scope: pure mathematics and theorem-proving research, no legal relevance",
       "verdict": "drop",
       "duplicate_of": null
     },
@@ -62,109 +62,37 @@
       "id": "arxiv-cs-ai-5",
       "score": 2,
       "category": "Research",
-      "suggested_angle": "LLM agents for computational mathematics",
-      "why_now": "Academic research paper; no legal relevance despite keyword match",
+      "suggested_angle": "Quantum computing for belief updates in autonomous systems",
+      "why_now": "Out of scope: quantum computing research with no legal application",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
       "id": "arxiv-cs-ai-6",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "Tool optimization in LLM agents",
-      "why_now": "Academic research paper; general agent framework; no legal application",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-7",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "Policy violation detection in LLM agents",
-      "why_now": "Academic research on agent safety; potential regulatory relevance but no legal tech angle",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-8",
-      "score": 1,
-      "category": "Research",
-      "suggested_angle": "LLM-based trajectory analysis in cell biology",
-      "why_now": "Biomedical research; no legal relevance whatsoever",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-9",
-      "score": 1,
-      "category": "Research",
-      "suggested_angle": "LLM-guided process forecasting in manufacturing",
-      "why_now": "Industrial application; no legal relevance",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-10",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "RAG for public health QA systems",
-      "why_now": "Medical/health domain application; no legal tech relevance despite LLM match",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "hacker-news-11",
-      "score": 7,
+      "score": 4,
       "category": "Legal AI",
-      "suggested_angle": "Anthropic research on selectively disabling knowledge in Claude; dual-use safety implications for legal deployment",
-      "why_now": "Primary source (Anthropic research announcement); directly relevant to trust and safety in legal AI systems; new capability paper",
-      "verdict": "enqueue",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-12",
-      "score": 1,
-      "category": "Research",
-      "suggested_angle": "Optimization algorithm for analytic hierarchy process",
-      "why_now": "Mathematical methods paper; no legal application",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-13",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "LLM agents in scientific machine learning with physics auditing",
-      "why_now": "Scientific ML research; no legal tech relevance despite agent framework",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-14",
-      "score": 3,
-      "category": "Legal AI",
-      "suggested_angle": "Detecting malicious behaviour in multi-agent LLM systems; security risks in legal AI workflows",
-      "why_now": "Academic research on multi-agent safety; tangential legal relevance if agents deployed in legal contexts but speculative",
+      "suggested_angle": "Token economics and orchestration design in enterprise agentic AI; cost-efficiency implications for legal tech deployment",
+      "why_now": "Tangentially relevant to legal AI vendor economics, but arXiv pre-print with no legal focus or primary reporting",
       "verdict": "watch",
       "duplicate_of": null
     }
   ],
   "summary": {
     "enqueue_count": 1,
-    "watch_count": 3,
-    "drop_count": 11,
-    "notes": "Weak shortlist: mostly generic LLM papers and low-engagement HN posts. Only Anthropic research (hacker-news-11) clears enqueue bar as primary-source safety research relevant to legal AI. Artificial Lawyer adoption story and ars-technica agent rebranding warrant watch pending deeper legal angle confirmation."
+    "watch_count": 2,
+    "drop_count": 4,
+    "notes": "One strong enqueue on AI-drafted will failure (supports accuracy thread). Two watch items: client billing transparency (emerging angle) and token economics (tangential but relevant to vendor cost structures). Four out-of-scope drops: NHS claims, general LLM research, quantum computing, and arXiv pre-print. Strong editorial thread alignment on AI accuracy and professional liability."
   },
   "enqueued": 1,
   "usage": {
-    "input_tokens": 4692,
+    "input_tokens": 3903,
     "cache_creation_input_tokens": 0,
     "cache_read_input_tokens": 0,
     "cache_creation": {
       "ephemeral_5m_input_tokens": 0,
       "ephemeral_1h_input_tokens": 0
     },
-    "output_tokens": 1611,
+    "output_tokens": 893,
     "service_tier": "standard",
     "inference_geo": "not_available"
   }

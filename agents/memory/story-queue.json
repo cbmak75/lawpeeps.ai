@@ -2045,7 +2045,65 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "AI wrote a will , a solicitor found six things that could cost your family everything - Harrow Times",
+      "slug": "ai-wrote-a-will-a-solicitor-found-six-things-that-could-cost-your-family-everyth",
+      "score": 7,
+      "category": "Legal AI",
+      "story_type": "news",
+      "research_brief": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQX3MxbzlsMzBXMERJRnlPYS1jUnk3N19nYmNxbWpBeXZCV1JsMWVoU2RCSnhWX3ZiN2VUUzR2aEpTVGQ5MjBPS3ZkMmRsSHdkQk5GRzJvSVN4aE1ENFlKYUNzeENMSzRsS2VrMl9TRGpTSk5ra1pZTWhJNzJ0ZGd6dUJkcnRsa2V3d082aGg4a0xaRVhoT1E?oc=5\" target=\"_blank\"&gt;AI wrote a will , a solicitor found six things that could cost your family everything&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harrow Times&lt;/font&gt;",
+      "primary_source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX3MxbzlsMzBXMERJRnlPYS1jUnk3N19nYmNxbWpBeXZCV1JsMWVoU2RCSnhWX3ZiN2VUUzR2aEpTVGQ5MjBPS3ZkMmRsSHdkQk5GRzJvSVN4aE1ENFlKYUNzeENMSzRsS2VrMl9TRGpTSk5ra1pZTWhJNzJ0ZGd6dUJkcnRsa2V3d082aGg4a0xaRVhoT1E?oc=5",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "Real-world case study: solicitor identifies six defects in GPT-drafted will, illustrating accuracy and liability risks in consumer AI legal tools",
+      "why_now": "Concrete example of AI legal work failure with professional analysis; directly supports ongoing editorial thread on AI accuracy in high-stakes contexts",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Google News: legal AI",
+      "source_tier": "A",
+      "prefilter_score": 13,
+      "matched_terms": [
+        "GPT",
+        "Eve"
+      ],
+      "fingerprint": {
+        "entities": [
+          "eve"
+        ],
+        "numerics": [
+          "3m",
+          "5m"
+        ],
+        "keywords": [
+          "gpt"
+        ],
+        "title_tokens": [
+          "ai",
+          "wrote",
+          "will",
+          "solicitor",
+          "found",
+          "things",
+          "cost",
+          "your",
+          "family",
+          "everything",
+          "harrow",
+          "times"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-07-10T04:00:36.999Z",
+      "queued_at": "2026-07-10T04:00:37.007Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-07-09T22:38:44.761Z"
+  "last_updated": "2026-07-10T04:00:37.007Z"
 }
