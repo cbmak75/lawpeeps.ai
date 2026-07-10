@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-10T09:48:35.686Z",
+  "generated": "2026-07-10T14:44:44.598Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 1245,
+  "total_scanned": 1278,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -41,6 +41,18 @@
       "source_tier": "B",
       "source_category": "Legal tech commentary",
       "relevance_score": 13
+    },
+    {
+      "title": "Morning Docket: 07.10.26",
+      "url": "https://abovethelaw.com/2026/07/morning-docket-07-10-26/",
+      "summary": "* OpenAI accused of hiding evidence in NY Times copyright case. Reached for comment, ChatGPT said, \"I'm sorry, you're right, I was supposed to produce that.\" [ Law360 ] * Lawyer dressed as police officer to spy on ex-girlfriend at Nando's. [ Roll on Friday ] * Ninth Circuit judge Ryan Nelson will have his parking lot tussle with another motorist heard by the Fourth Circuit. Here's a helpful guide for him . [ LA Times ] *Every federal judge in the Middle District of Tennessee recused themselves f",
+      "published": "2026-07-10T13:01:20.000Z",
+      "source_id": "above-the-law-legaltech",
+      "source_name": "Above the Law (Legal Tech)",
+      "source_priority": "high",
+      "source_tier": "B",
+      "source_category": "Legal profession",
+      "relevance_score": 12
     },
     {
       "title": "Legal AI, Trust, and Agents: Joel Hron on Thomson Reuters, Anthropic, and the Future of CoCounsel",
@@ -103,6 +115,18 @@
       "relevance_score": 10
     },
     {
+      "title": "Beyond chatbots: how technical literacy defines the next era of legal AI - IFLR",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUFpJQjBKRjQ5V1l2YzVaMDJuelJ3U3hJN0V6M2R5eVczRE00VXU2Z2sybTZDUHdkY3VJYmtjQzYxdjY5Um80bUJSenlfRjhyS1NGeTdGRjc3anBFWE00OXJlQVJtd09iZklHM0E5SkQwUHYtdm9rWERZN0RLQ2NxLUFCMzlnb0JJQmRYeEZfcDhXRGlKdWdZbTBSSGpvcG5fRjJKYjhqMnBnMjhheDNtNkx6SXFsOElsUkthYXNDMVVGLXo4LUd6WVhJZk8?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPUFpJQjBKRjQ5V1l2YzVaMDJuelJ3U3hJN0V6M2R5eVczRE00VXU2Z2sybTZDUHdkY3VJYmtjQzYxdjY5Um80bUJSenlfRjhyS1NGeTdGRjc3anBFWE00OXJlQVJtd09iZklHM0E5SkQwUHYtdm9rWERZN0RLQ2NxLUFCMzlnb0JJQmRYeEZfcDhXRGlKdWdZbTBSSGpvcG5fRjJKYjhqMnBnMjhheDNtNkx6SXFsOElsUkthYXNDMVVGLXo4LUd6WVhJZk8?oc=5\" target=\"_blank\"&gt;Beyond chatbots: how technical literacy defines the next era of legal AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;IFLR&lt;/font&gt",
+      "published": "2026-07-10T13:51:07.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 9
+    },
+    {
       "title": "Harvey Forum + Shared Spaces, Clio, Spellbook, Legal Innovators - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWDZZRVZBVWx3ckRDeE96a1ZYWTJxVldZUHNwYWl2eHdrUDZKc2xXSmRYVHRheXlISnI5SVpKdmlYTHdOWVRwb3VneFBHMlZhcnlyOWNiZHJuUkNTLXhINlgwRnJzZlNCU0JYQ2k2R2RrUFN3dlRoT3k0ckM5NDRZRHZ2UjAzQWVfQXNRcm9lM2w2LVdmRUxvMmwyVXkzS2Y2XzlnTTNn?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNWDZZRVZBVWx3ckRDeE96a1ZYWTJxVldZUHNwYWl2eHdrUDZKc2xXSmRYVHRheXlISnI5SVpKdmlYTHdOWVRwb3VneFBHMlZhcnlyOWNiZHJuUkNTLXhINlgwRnJzZlNCU0JYQ2k2R2RrUFN3dlRoT3k0ckM5NDRZRHZ2UjAzQWVfQXNRcm9lM2w2LVdmRUxvMmwyVXkzS2Y2XzlnTTNn?oc=5\" target=\"_blank\"&gt;Harvey Forum + Shared Spaces, Clio, Spellbook, Legal Innovators&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
@@ -127,27 +151,15 @@
       "relevance_score": 9
     },
     {
-      "title": "LLM-powered reasoning in agent-based modeling",
-      "url": "https://arxiv.org/abs/2607.06757",
-      "summary": "arXiv:2607.06757v1 Announce Type: new Abstract: Agent-based modeling (ABM) has the capability to model millions of individuals and their interactions, which is useful for policy making. However, ABMs have traditionally relied on static prior, which prevents the models from adapting to real-time changes. Our research provides a novel approach to addressing this information gap. Large language models (LLMs) offer new opportunities to predict human decision-making. Here, we introduce a scalable Hyb",
-      "published": "2026-07-10T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI (keyword-filtered)",
-      "source_priority": "low",
+      "title": "What AI means for how we develop the next generation of lawyers",
+      "url": "https://www.legalfutures.co.uk/associate-news/what-ai-means-for-how-we-develop-the-next-generation-of-lawyers",
+      "summary": "Recent LexisNexis research found that 65% of lawyers are now using paid legal AI tools, with many saying it helps them work faster. The post What AI means for how we develop the next generation of lawyers appeared first on Legal Futures .",
+      "published": "2026-07-10T10:49:01.000Z",
+      "source_id": "legal-futures",
+      "source_name": "Legal Futures",
+      "source_priority": "high",
       "source_tier": "B",
-      "source_category": "Research",
-      "relevance_score": 9
-    },
-    {
-      "title": "Evaluating SageMath-Augmented LLM Agents for Computational and Experimental Mathematics",
-      "url": "https://arxiv.org/abs/2607.06820",
-      "summary": "arXiv:2607.06820v1 Announce Type: new Abstract: Recent advances in AI for Mathematics have focused largely on autoformalization and theorem proving, leaving the role of Computer Algebra Systems (CAS) in agentic LLM workflows underexplored. We propose a ReAct-style agentic setup that combines LLM reasoning with verifiable feedback from SageMath, together with Context7 for the up-to-date documentation. We evaluate this agentic setup across frontier models for solving research-level mathematical pr",
-      "published": "2026-07-10T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI (keyword-filtered)",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "Research",
+      "source_category": "Legal business",
       "relevance_score": 9
     },
     {
@@ -283,10 +295,22 @@
       "relevance_score": 8
     },
     {
-      "title": "A&amp;O Shearman advertises AI with Suits' Harvey Spectre - RollOnFriday",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdEpEOTc5by1jajFHeUljNkFxdEtVNm96Qm9vQVN6YWlYVjhZRncxY1V3LWRXRWRNaFFNekFCX3RoU2tRRHdFVk1yZ3R6WU1DX1AxdEFTTWZDRS0zc2NUX1NyandlRWIyVktCa3Y4a2JQLTY5VWtTWFJtYU5sX3Q5U1NYM3NtWEh3QUNwZnE2bS1QUQ?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNdEpEOTc5by1jajFHeUljNkFxdEtVNm96Qm9vQVN6YWlYVjhZRncxY1V3LWRXRWRNaFFNekFCX3RoU2tRRHdFVk1yZ3R6WU1DX1AxdEFTTWZDRS0zc2NUX1NyandlRWIyVktCa3Y4a2JQLTY5VWtTWFJtYU5sX3Q5U1NYM3NtWEh3QUNwZnE2bS1QUQ?oc=5\" target=\"_blank\"&gt;A&amp;O Shearman advertises AI with Suits' Harvey Spectre&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;RollOnFriday&lt;/font&gt;",
-      "published": "2026-07-10T06:49:30.000Z",
+      "title": "Luminance unveils customer advisory board - The Global Legal Post",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbmx4cUdId0VEZ3FRalpENWxGU3kxNFVZR3hZaEhIRTJraWZIVE8xNjVfRXQ5SEtFUTkxTy1Ba1g0THloX3NuWTNSRzVjSi1qanlfQjhEZE5jX2ZaZzF3RlBxMFhGTUV2dFBYOUVFY0NHQTdMUkxRYS1kelY2SUplU0NGT1YzNlpRM0VDaDVvcVpuVFE?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQbmx4cUdId0VEZ3FRalpENWxGU3kxNFVZR3hZaEhIRTJraWZIVE8xNjVfRXQ5SEtFUTkxTy1Ba1g0THloX3NuWTNSRzVjSi1qanlfQjhEZE5jX2ZaZzF3RlBxMFhGTUV2dFBYOUVFY0NHQTdMUkxRYS1kelY2SUplU0NGT1YzNlpRM0VDaDVvcVpuVFE?oc=5\" target=\"_blank\"&gt;Luminance unveils customer advisory board&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Global Legal Post&lt;/font&gt;",
+      "published": "2026-07-10T13:37:00.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 7
+    },
+    {
+      "title": "What AI means for how we develop the next generation of lawyers - Legal Futures",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYm9FbDVNcjdQVy1vekRsRWljLXVncUltR3lKZFZpeFNuclpON1JlaDJZQW9ZaFpCeFZNcVNSMlpsTHRKTUI0a0RnU3JabmJVX1pYV2owVThrUzBBdDJMLUJuWmRJcHc1bG1pMnNiRllGRXdFQUpoa1hSMGg3aGNxMXpjTnVadmxXYjVfb2RUd181ZWJERjAydFZmRnVhX3owSWE4RnB0MEV3YXpUOGc?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOYm9FbDVNcjdQVy1vekRsRWljLXVncUltR3lKZFZpeFNuclpON1JlaDJZQW9ZaFpCeFZNcVNSMlpsTHRKTUI0a0RnU3JabmJVX1pYV2owVThrUzBBdDJMLUJuWmRJcHc1bG1pMnNiRllGRXdFQUpoa1hSMGg3aGNxMXpjTnVadmxXYjVfb2RUd181ZWJERjAydFZmRnVhX3owSWE4RnB0MEV3YXpUOGc?oc=5\" target=\"_blank\"&gt;What AI means for how we develop the next generation of lawyers&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Legal Futures&lt;/font&gt;",
+      "published": "2026-07-10T11:40:25.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
@@ -301,6 +325,18 @@
       "published": "2026-06-22T07:00:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 7
+    },
+    {
+      "title": "Alabama prisons again hiring law firm blasted by judge for false AI citations - AL.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTnJCZDQ3YkVmOVp0Rm5idEs3dmxUMmU0LTh4ekJHaEVEVU1BLU9EazVZYkxCd0lkMXZVN2VYaXFHYVllclRrTUhpTXd1dVl5RUJhaVk2OWVMSFJ5Z0lhbVExeEtGMnc5Z3M1Zk1rYnBIQ1pDTC1TZGFEeGh3OVJDZjNUenV1Qy1mN3BxdGc5eHZmaEZaMnBpemNEbkQ4bWY2MEhVNXZrWlhRcmh6enV2UEE2UFLSAcgBQVVfeXFMTnJHM2JIaFI1X0pnM3ZlYlM3QUEtTE9RVjdDMjEyaGJfUGoyU2JhOUttWmtHMkh5eGV1dEhGV3JNeW9zaEdLTDNmNWlXSE8zM01qY3R4dzJ6amotV0lIQ2ExSGFYVVNydmRMR0RYQVR1bXZ2d3NzMnB2XzJqd28ya3FyeTB0X0wwc3BuTnFaakZ0azNNc3pwWUtQbmtKR05nc0ViZE9rVXlHN3hkVEQ5YXM2dGxlVEEzYld1MWxZSWdRU19VN0JUdEc?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNTnJCZDQ3YkVmOVp0Rm5idEs3dmxUMmU0LTh4ekJHaEVEVU1BLU9EazVZYkxCd0lkMXZVN2VYaXFHYVllclRrTUhpTXd1dVl5RUJhaVk2OWVMSFJ5Z0lhbVExeEtGMnc5Z3M1Zk1rYnBIQ1pDTC1TZGFEeGh3OVJDZjNUenV1Qy1mN3BxdGc5eHZmaEZaMnBpemNEbkQ4bWY2MEhVNXZrWlhRcmh6enV2UEE2UFLSAcgBQVVfeXFMTnJHM2JIaFI1X0pnM3ZlYlM3QUEtTE9RVjdDMjEyaGJfUGoyU2JhOUttWmtHMkh5eGV1dEhGV3JNeW9zaEdLTDNmNWlXSE8zM01qY3R4dzJ6amotV0lIQ2ExSGFYVVNydmRMR0RYQVR1bXZ2d3NzMnB2XzJqd28ya3FyeTB0X0wwc3BuTnFaakZ0azNNc3p",
+      "published": "2026-07-10T10:57:00.000Z",
+      "source_id": "google-news-law-firm-ai",
+      "source_name": "Google News: law firm AI",
       "source_priority": "critical",
       "source_tier": "A",
       "source_category": "Aggregator",
@@ -331,6 +367,18 @@
       "relevance_score": 7
     },
     {
+      "title": "5 Interesting Startup Deals You May Have Missed: AI That Dispatches The Plumber, Underground Warfare And Cutting Down Private-Market Paperwork",
+      "url": "https://news.crunchbase.com/venture/interesting-startup-deals-ai-defense-tech-healthcare/",
+      "summary": "The five most intriguing startup deals from the past month include one that’s simultaneously developing AI models for biology, a company that wants to prevent modern day private markets from the kind of paperwork crisis that shut down Wall Street in the ‘60s, and AI agents that can dispatch plumbers and electricians to your door.",
+      "published": "2026-07-10T11:00:46.000Z",
+      "source_id": "crunchbase-news",
+      "source_name": "Crunchbase News",
+      "source_priority": "high",
+      "source_tier": "A",
+      "source_category": "Funding / M&A",
+      "relevance_score": 7
+    },
+    {
       "title": "Royal Courts of Justice event showcases the work of the Judicial College",
       "url": "https://www.judiciary.uk/royal-courts-of-justice-event-showcases-the-work-of-the-judicial-college/",
       "summary": "Guests from across the justice sector gathered at the Royal Courts of Justice to learn how the Judicial College designs and delivers training for more than 24,000 judicial office holders The post Royal Courts of Justice event showcases the work of the Judicial College appeared first on Courts and Tribunals Judiciary .",
@@ -343,15 +391,27 @@
       "relevance_score": 7
     },
     {
-      "title": "Job ad: Citizens Advice in North &#038; West Kent is recruiting an Immigration Solicitor or Barrister",
-      "url": "https://freemovement.org.uk/job-ad-citizens-advice-in-north-west-kent-is-recruiting-an-immigration-solicitor-or-barrister/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=job-ad-citizens-advice-in-north-west-kent-is-recruiting-an-immigration-solicitor-or-barrister",
-      "summary": "Immigration Solicitor or Barrister Salary: £38,000 – £45,000 per annum, depending on experience, pro-rata for part-time.Hours: Full or part-time consideredContract: PermanentLocation: Flexible — fully remote within the UK, or hybrid from any North &#38; West Kent Citizens Advice &#38; Kent Law Centre office (Gravesend, Dartford, Swanley, Sevenoaks, Tonbridge, Tunbridge Wells or Folkestone) Are you an [&#8230;]",
-      "published": "2026-07-10T06:30:00.000Z",
+      "title": "Statement of Changes HC 259: changes to children’s settlement rules under Part 8 and exception to immigration bail prohibition",
+      "url": "https://freemovement.org.uk/statement-of-changes-hc-259/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=statement-of-changes-hc-259",
+      "summary": "There aren’t any really major immigration policy amendments in the Statement of Changes published yesterday, but there are still a number of developments that you probably need to know about and at least one change that I’m very happy about. I’ll kick off with the good news. Exception to immigration bail prohibition across all categories [&#8230;]",
+      "published": "2026-07-10T12:05:46.000Z",
       "source_id": "free-movement",
       "source_name": "Free Movement",
       "source_priority": "high",
       "source_tier": "A",
       "source_category": "Immigration law",
+      "relevance_score": 7
+    },
+    {
+      "title": "UChicago Law Bans Laptops from 1L Classrooms As Part of Sweeping New AI Strategy for Legal Education",
+      "url": "https://www.lawnext.com/2026/07/uchicago-law-bans-laptops-from-1l-classrooms-as-part-of-sweeping-new-ai-strategy-for-legal-education.html",
+      "summary": "The University of Chicago Law School yesterday released a comprehensive AI Strategy Statement that will reshape how it teaches first-year students, how it assesses upper-level writing, and how it integrates AI tools across its curriculum — including a pilot program that will prohibit laptops, tablets and phones in all core 1L classes starting this fall. [&#8230;]",
+      "published": "2026-07-10T13:06:29.000Z",
+      "source_id": "lawsites",
+      "source_name": "LawSites (Bob Ambrogi)",
+      "source_priority": "critical",
+      "source_tier": "B",
+      "source_category": "Legal tech commentary",
       "relevance_score": 7
     },
     {
@@ -379,9 +439,45 @@
       "relevance_score": 7
     },
     {
-      "title": "QANTIS: Hardware-Calibrated Sequential POMDP Belief Updates on IBM Heron",
-      "url": "https://arxiv.org/abs/2607.06760",
-      "summary": "arXiv:2607.06760v1 Announce Type: new Abstract: Autonomous systems under partial observability act on beliefs, not raw sensor events. QANTIS treats the quantum processor as a calibrated belief-update service in that loop: it receives a prior and an observation model, estimates the rare-event evidence term, and returns an ordinary posterior to a classical planner. This paper asks whether that service can be reused across a sequential Tiger POMDP horizon on present IBM Heron hardware without corru",
+      "title": "LEAP Enterprise: The unified cloud platform for ambitious law firms that demand scale, control, and compliance",
+      "url": "https://www.legalfutures.co.uk/associate-news/leap-enterprise-the-unified-cloud-platform-for-ambitious-law-firms-that-demand-scale-control-and-compliance",
+      "summary": "The legal profession is growing more complex, and the tools many firms rely on are struggling to keep pace. This is felt particularly strongly by mid-sized and large firms, where scale brings demands that software designed for smaller practices was never built to meet. The post LEAP Enterprise: The unified cloud platform for ambitious law firms that demand scale, control, and compliance appeared first on Legal Futures .",
+      "published": "2026-07-10T11:08:42.000Z",
+      "source_id": "legal-futures",
+      "source_name": "Legal Futures",
+      "source_priority": "high",
+      "source_tier": "B",
+      "source_category": "Legal business",
+      "relevance_score": 7
+    },
+    {
+      "title": "Latest podcast reveals how law firms can turn client feedback into competitive advantage",
+      "url": "https://www.legalfutures.co.uk/associate-news/latest-podcast-reveals-how-law-firms-can-turn-client-feedback-into-competitive-advantage",
+      "summary": "Amy Bruce of Osprey Approach speaks with Graham Archbold of Chorus Insight about how SME law firms can build effective client feedback programmes that strengthen client retention, support growth, and drive meaningful business improvements. The post Latest podcast reveals how law firms can turn client feedback into competitive advantage appeared first on Legal Futures .",
+      "published": "2026-07-10T10:38:52.000Z",
+      "source_id": "legal-futures",
+      "source_name": "Legal Futures",
+      "source_priority": "high",
+      "source_tier": "B",
+      "source_category": "Legal business",
+      "relevance_score": 7
+    },
+    {
+      "title": "OpenAI and Google sell AI models to blacklisted China groups",
+      "url": "https://www.ft.com/content/5d6aafa1-5d47-4585-aa95-6ec06a6cd20f",
+      "summary": "Article URL: https://www.ft.com/content/5d6aafa1-5d47-4585-aa95-6ec06a6cd20f Comments URL: https://news.ycombinator.com/item?id=48860335 Points: 2 # Comments: 1",
+      "published": "2026-07-10T14:20:39.000Z",
+      "source_id": "hacker-news",
+      "source_name": "Hacker News (filtered)",
+      "source_priority": "low",
+      "source_tier": "B",
+      "source_category": "Community",
+      "relevance_score": 7
+    },
+    {
+      "title": "LLM-powered reasoning in agent-based modeling",
+      "url": "https://arxiv.org/abs/2607.06757",
+      "summary": "arXiv:2607.06757v1 Announce Type: new Abstract: Agent-based modeling (ABM) has the capability to model millions of individuals and their interactions, which is useful for policy making. However, ABMs have traditionally relied on static prior, which prevents the models from adapting to real-time changes. Our research provides a novel approach to addressing this information gap. Large language models (LLMs) offer new opportunities to predict human decision-making. Here, we introduce a scalable Hyb",
       "published": "2026-07-10T04:00:00.000Z",
       "source_id": "arxiv-cs-ai",
       "source_name": "arXiv cs.AI (keyword-filtered)",
@@ -389,102 +485,6 @@
       "source_tier": "B",
       "source_category": "Research",
       "relevance_score": 7
-    },
-    {
-      "title": "The Harness Effect: How Orchestration Design Sets the Token Economics of Enterprise Agentic AI",
-      "url": "https://arxiv.org/abs/2607.06906",
-      "summary": "arXiv:2607.06906v1 Announce Type: new Abstract: Agentic AI development today runs on token maxing: buying capability with tokens -- longer reasoning traces, more turns, wider tool payloads, bigger replayed contexts -- so tokens per task grow faster than task value. Falling per-token prices mask the pattern; total spend rises anyway. We argue the decisive lever against token maxing is the harness: the orchestration layer that assembles context, exposes tools, sequences turns, delegates work, and ",
-      "published": "2026-07-10T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI (keyword-filtered)",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "Research",
-      "relevance_score": 7
-    },
-    {
-      "title": "Big AI v Big Law — Jude Law, Harvey Specter and why the legal AI arms race is only just beginning - Law Society of Scotland",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQT2dndHk0NjZaYkQwdjF5Sy1KN2doNzRSc3Q1anFiOVJRc3RxME81NURrOGt3WjNsbVVzNVlnQ1NaUmZBT0J4ajlYOS1CemoyRWJpY1p1RTJQODVHQ0xwZ09EUzZFYzVUUlhOckROTG1EOWVTR3MycFdXVXlkUXRyUUIxaFBseXEydlVkNkg2MHVMcVVvLURHS3U4Z0loZ2wwLWNfUlpOSlhuemNYVUcwelNDVkd6M08zUExNN2RkTWpObWJkZ0d0c0lmQUM5bGJMbWQ2Uzk3M3d6SWw0VUhxaF9ZdzZjZw?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQT2dndHk0NjZaYkQwdjF5Sy1KN2doNzRSc3Q1anFiOVJRc3RxME81NURrOGt3WjNsbVVzNVlnQ1NaUmZBT0J4ajlYOS1CemoyRWJpY1p1RTJQODVHQ0xwZ09EUzZFYzVUUlhOckROTG1EOWVTR3MycFdXVXlkUXRyUUIxaFBseXEydlVkNkg2MHVMcVVvLURHS3U4Z0loZ2wwLWNfUlpOSlhuemNYVUcwelNDVkd6M08zUExNN2RkTWpObWJkZ0d0c0lmQUM5bGJMbWQ2Uzk3M3d6SWw0VUhxaF9ZdzZjZw?oc=5\" target=\"_blank\"&gt;Big AI v Big Law — Jude Law, Harvey Specter and why the legal AI arms race is only just beginning&lt;/a&gt;&amp",
-      "published": "2026-07-09T12:56:28.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
-    },
-    {
-      "title": "Legal AI is Everywhere, but Only 7% of Legal Teams Have Made It Work - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaHo4TC1JS1EzNjNIUEgzWlJtZ1EyOEdjQXdzT0VNRHVPR3NWYk8zblEtb1Vra2lod0t0dy1jakxzV1ZjTEYzLV9GTEQ1UUlScU1yZFB1RmRtOTZkM0U0R2tWV05RaUE4OVZJeG9lTk1rU2dvRFRRYkpEcnVnUjBLWHRwZWZVV3U3U0FkVFh2NUFIc0xsUVlINnhHX1BNQlNZVXJCeHROdkVtMkdwc0ZnTXFZTkhxU1FmSFhncUdfNA?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPaHo4TC1JS1EzNjNIUEgzWlJtZ1EyOEdjQXdzT0VNRHVPR3NWYk8zblEtb1Vra2lod0t0dy1jakxzV1ZjTEYzLV9GTEQ1UUlScU1yZFB1RmRtOTZkM0U0R2tWV05RaUE4OVZJeG9lTk1rU2dvRFRRYkpEcnVnUjBLWHRwZWZVV3U3U0FkVFh2NUFIc0xsUVlINnhHX1BNQlNZVXJCeHROdkVtMkdwc0ZnTXFZTkhxU1FmSFhncUdfNA?oc=5\" target=\"_blank\"&gt;Legal AI is Everywhere, but Only 7% of Legal Teams Have Made It Work&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;PR Newswire&lt;/font&gt;",
-      "published": "2026-07-09T15:01:00.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
-    },
-    {
-      "title": "AI wrote a will , a solicitor found six things that could cost your family everything - Harrow Times",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX3MxbzlsMzBXMERJRnlPYS1jUnk3N19nYmNxbWpBeXZCV1JsMWVoU2RCSnhWX3ZiN2VUUzR2aEpTVGQ5MjBPS3ZkMmRsSHdkQk5GRzJvSVN4aE1ENFlKYUNzeENMSzRsS2VrMl9TRGpTSk5ra1pZTWhJNzJ0ZGd6dUJkcnRsa2V3d082aGg4a0xaRVhoT1E?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQX3MxbzlsMzBXMERJRnlPYS1jUnk3N19nYmNxbWpBeXZCV1JsMWVoU2RCSnhWX3ZiN2VUUzR2aEpTVGQ5MjBPS3ZkMmRsSHdkQk5GRzJvSVN4aE1ENFlKYUNzeENMSzRsS2VrMl9TRGpTSk5ra1pZTWhJNzJ0ZGd6dUJkcnRsa2V3d082aGg4a0xaRVhoT1E?oc=5\" target=\"_blank\"&gt;AI wrote a will , a solicitor found six things that could cost your family everything&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harrow Times&lt;/font&gt;",
-      "published": "2026-07-09T15:30:29.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
-    },
-    {
-      "title": ":Harvey:’s Top 5 Product Releases of 2025 - Harvey",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxbTlSWkxnMmFXTHJVZ1c4d1RndE9Kc25mYms2dkxyOUl6R09HQU5VN0VkZEVEYzVLb2djeXhJSkVXTWtSRUx4dlJTRUlkWTFKb3o3Ukg0MzRRTXFXNy14dVNNLUl6cUxN?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxbTlSWkxnMmFXTHJVZ1c4d1RndE9Kc25mYms2dkxyOUl6R09HQU5VN0VkZEVEYzVLb2djeXhJSkVXTWtSRUx4dlJTRUlkWTFKb3o3Ukg0MzRRTXFXNy14dVNNLUl6cUxN?oc=5\" target=\"_blank\"&gt;:Harvey:’s Top 5 Product Releases of 2025&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
-      "published": "2025-12-30T08:00:00.000Z",
-      "source_id": "google-news-harvey-luminance",
-      "source_name": "Google News: Harvey OR Luminance",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
-    },
-    {
-      "title": "Never Start From Scratch Again With Memory in :Harvey: - Harvey",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUb0tYcVdQczRrTGVTYzZ3dG9Uc3NyaHZ6QTl6bm1HaDFjcHVKUGhqWk1ySGJiR2JQSlZyem1oSlpxejRBQXo1ZDZmck81ZTl3cmVRZU5R?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUb0tYcVdQczRrTGVTYzZ3dG9Uc3NyaHZ6QTl6bm1HaDFjcHVKUGhqWk1ySGJiR2JQSlZyem1oSlpxejRBQXo1ZDZmck81ZTl3cmVRZU5R?oc=5\" target=\"_blank\"&gt;Never Start From Scratch Again With Memory in :Harvey:&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
-      "published": "2026-01-08T08:00:00.000Z",
-      "source_id": "google-news-harvey-luminance",
-      "source_name": "Google News: Harvey OR Luminance",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
-    },
-    {
-      "title": "Eversheds Sutherland’s global co-CEO Keith Froud talks Harvey, AI adoption and ROI - Legal IT Insider",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOUJDMnROZUthMW13YnFBdlRCb0YwZE50ZmlPQ2tOZTNzd0tpa1lUd24xZTRINTkyazN6VzBJZFNrSXQtUUkyRklNblNNVW9HeUFHMGpaRGE4WFZBb0hISk1yVVdTSzBEVk9UN2pTeWlsaUxndWozWUtIM29wZEJnWDhkRnZrTURfZy1la3VqeW52SnBQWGFpNGdLSG50ZzNWbzhVVmhybE44ZEpvMkE?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPOUJDMnROZUthMW13YnFBdlRCb0YwZE50ZmlPQ2tOZTNzd0tpa1lUd24xZTRINTkyazN6VzBJZFNrSXQtUUkyRklNblNNVW9HeUFHMGpaRGE4WFZBb0hISk1yVVdTSzBEVk9UN2pTeWlsaUxndWozWUtIM29wZEJnWDhkRnZrTURfZy1la3VqeW52SnBQWGFpNGdLSG50ZzNWbzhVVmhybE44ZEpvMkE?oc=5\" target=\"_blank\"&gt;Eversheds Sutherland’s global co-CEO Keith Froud talks Harvey, AI adoption and ROI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Legal IT Insider&lt;/font&gt;",
-      "published": "2026-02-11T08:00:00.000Z",
-      "source_id": "google-news-harvey-luminance",
-      "source_name": "Google News: Harvey OR Luminance",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
-    },
-    {
-      "title": ":Harvey: and ElevenLabs Partner to Give Lawyers a Global Voice - Harvey",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxON1U5aHpIdnkyQk5fWEN4WVZnU0E5eWVqR0I3RWI2RkdFMjlrZ2RETmhFNzdnLXhET2sydHkwdm5HYnFQTmxIT3RRbXI4WmxzTWhHbGdYbXoteFZ3OUlVdFh5REdUdE93M2paejNvVjcyaXIta2swSHJ1UWIxMXF2a0M2SEhsd0dnNmVlNUNfczE?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxON1U5aHpIdnkyQk5fWEN4WVZnU0E5eWVqR0I3RWI2RkdFMjlrZ2RETmhFNzdnLXhET2sydHkwdm5HYnFQTmxIT3RRbXI4WmxzTWhHbGdYbXoteFZ3OUlVdFh5REdUdE93M2paejNvVjcyaXIta2swSHJ1UWIxMXF2a0M2SEhsd0dnNmVlNUNfczE?oc=5\" target=\"_blank\"&gt;:Harvey: and ElevenLabs Partner to Give Lawyers a Global Voice&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
-      "published": "2025-11-12T08:00:00.000Z",
-      "source_id": "google-news-harvey-luminance",
-      "source_name": "Google News: Harvey OR Luminance",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
     }
   ]
 }

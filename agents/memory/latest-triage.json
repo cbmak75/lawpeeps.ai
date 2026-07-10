@@ -1,80 +1,98 @@
 {
-  "generated": "2026-07-10T09:48:46.185Z",
+  "generated": "2026-07-10T14:55:02.408Z",
   "cycle_type": "triage",
   "tier_filter": null,
-  "shortlist_size": 5,
+  "shortlist_size": 7,
   "prefilter": {
     "total": 40,
-    "accepted": 5,
+    "accepted": 7,
     "borderline": 0,
-    "rejected": 35,
-    "rejected_as_duplicate": 35,
-    "accept_rate": 13
+    "rejected": 33,
+    "rejected_as_duplicate": 33,
+    "accept_rate": 18
   },
   "model": "claude-haiku-4-5-20251001",
   "picks": [
     {
-      "id": "judicial-office-0",
-      "score": 4,
-      "category": "Regulatory",
-      "suggested_angle": "Judicial College event highlights training infrastructure for UK judiciary amid AI integration debates",
-      "why_now": "Primary source from Judicial Office, but event coverage without clear AI or legal tech angle; relevant to broader judiciary modernisation context",
-      "verdict": "watch",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-1",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "Agent-based modeling with LLM reasoning for policy simulation",
-      "why_now": "Pure academic research; no legal domain connection, no enterprise application, no policy angle",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-2",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "LLM agents augmented with symbolic computation for mathematics",
-      "why_now": "Pure academic research in computational mathematics; no legal application",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-3",
-      "score": 1,
-      "category": "Research",
-      "suggested_angle": "Quantum computing for belief state updates in autonomous systems",
-      "why_now": "Niche quantum computing research; no legal or enterprise relevance",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-4",
+      "id": "google-news-legal-ai-1",
       "score": 6,
       "category": "Legal AI",
-      "suggested_angle": "How AI orchestration architecture drives token economics and cost models for enterprise agentic AI",
-      "why_now": "Directly addresses cost/capability tradeoff in enterprise AI deployment; relevant to legal tech economics and profitability concerns",
+      "suggested_angle": "Luminance customer advisory board signals maturation of enterprise legal AI adoption",
+      "why_now": "Watch-list company (Luminance) making organizational move; advisory boards typically indicate either product pivot or major client consolidation",
       "verdict": "watch",
+      "duplicate_of": null
+    },
+    {
+      "id": "google-news-legal-ai-0",
+      "score": 5,
+      "category": "Legal AI",
+      "suggested_angle": "Technical literacy as differentiator in next wave of legal AI products",
+      "why_now": "IFLR piece on legal AI capabilities; likely commentary rather than primary news unless it reports on major vendor shift",
+      "verdict": "watch",
+      "duplicate_of": null
+    },
+    {
+      "id": "judicial-office-2",
+      "score": 4,
+      "category": "Regulatory",
+      "suggested_angle": "Judicial College event on judicial training delivery",
+      "why_now": "Potential mention of AI in judicial training context, but headline suggests event coverage rather than policy announcement",
+      "verdict": "watch",
+      "duplicate_of": null
+    },
+    {
+      "id": "hacker-news-4",
+      "score": 3,
+      "category": "Social",
+      "suggested_angle": "OpenAI/Google export controls violation; tangential to legal AI",
+      "why_now": "Geopolitical rather than legal AI story; low relevance to publication focus despite OpenAI mention",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "legal-futures-3",
+      "score": 2,
+      "category": "Adoption",
+      "suggested_angle": "SME law firm client feedback tools; marketing podcast",
+      "why_now": "Podcast promotion with no independent news hook or AI angle; low signal",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "legal-futures-6",
+      "score": 2,
+      "category": "Legal AI",
+      "suggested_angle": "LEAP Enterprise cloud platform launch",
+      "why_now": "Appears to be vendor product announcement/advertorial; no independent news verification",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-5",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "LLM-powered agent-based modeling for policy",
+      "why_now": "Academic paper on ABM/LLM integration; too general for legal focus; matches on 'LLM' and 'Eve' but no legal application evident",
+      "verdict": "drop",
       "duplicate_of": null
     }
   ],
   "summary": {
     "enqueue_count": 0,
-    "watch_count": 2,
-    "drop_count": 3,
-    "notes": "Weak shortlist: one Judicial Office event (insufficient legal AI hook), three generic arXiv papers (no legal domain), one token economics paper (interesting but needs verification of enterprise legal AI relevance). No funding announcements, no regulator statements, no company moves."
+    "watch_count": 3,
+    "drop_count": 4,
+    "notes": "Weak shortlist: Luminance advisory board and IFLR technical literacy piece warrant editor review; rest are marketing puff, event coverage, or off-topic. No primary source news hooks or regulator statements. No funding rounds detected."
   },
   "enqueued": 0,
   "usage": {
-    "input_tokens": 2922,
+    "input_tokens": 4011,
     "cache_creation_input_tokens": 0,
     "cache_read_input_tokens": 0,
     "cache_creation": {
       "ephemeral_5m_input_tokens": 0,
       "ephemeral_1h_input_tokens": 0
     },
-    "output_tokens": 629,
+    "output_tokens": 838,
     "service_tier": "standard",
     "inference_geo": "not_available"
   }
