@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-10T17:02:54.357Z",
+  "generated": "2026-07-10T19:43:46.712Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 1278,
+  "total_scanned": 1248,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -41,18 +41,6 @@
       "source_tier": "B",
       "source_category": "Legal tech commentary",
       "relevance_score": 13
-    },
-    {
-      "title": "Morning Docket: 07.10.26",
-      "url": "https://abovethelaw.com/2026/07/morning-docket-07-10-26/",
-      "summary": "* OpenAI accused of hiding evidence in NY Times copyright case. Reached for comment, ChatGPT said, \"I'm sorry, you're right, I was supposed to produce that.\" [ Law360 ] * Lawyer dressed as police officer to spy on ex-girlfriend at Nando's. [ Roll on Friday ] * Ninth Circuit judge Ryan Nelson will have his parking lot tussle with another motorist heard by the Fourth Circuit. Here's a helpful guide for him . [ LA Times ] *Every federal judge in the Middle District of Tennessee recused themselves f",
-      "published": "2026-07-10T13:01:20.000Z",
-      "source_id": "above-the-law-legaltech",
-      "source_name": "Above the Law (Legal Tech)",
-      "source_priority": "high",
-      "source_tier": "B",
-      "source_category": "Legal profession",
-      "relevance_score": 12
     },
     {
       "title": "Legal AI, Trust, and Agents: Joel Hron on Thomson Reuters, Anthropic, and the Future of CoCounsel",
@@ -112,6 +100,18 @@
       "source_priority": "critical",
       "source_tier": "B",
       "source_category": "Legal tech commentary",
+      "relevance_score": 10
+    },
+    {
+      "title": "Morning Docket: 07.10.26",
+      "url": "https://abovethelaw.com/2026/07/morning-docket-07-10-26/",
+      "summary": "* OpenAI accused of hiding evidence in NY Times copyright case. Reached for comment, ChatGPT said, \"I'm sorry, you're right, I was supposed to produce that.\" [ Law360 ] * Lawyer dressed as police officer to spy on ex-girlfriend at Nando's. [ Roll on Friday ] * Ninth Circuit judge Ryan Nelson will have his parking lot tussle with another motorist heard by the Fourth Circuit. Here's a helpful guide for him . [ LA Times ] *Every federal judge in the Middle District of Tennessee recused themselves f",
+      "published": "2026-07-10T13:01:20.000Z",
+      "source_id": "above-the-law-legaltech",
+      "source_name": "Above the Law (Legal Tech)",
+      "source_priority": "high",
+      "source_tier": "B",
+      "source_category": "Legal profession",
       "relevance_score": 10
     },
     {
@@ -191,6 +191,18 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY2p6WWxfeE1ZZDJxQXJPOWtrR2VZdkxlSkFtck03QWJtOU1YcGtHUFBlZllXMXkxeXRlcHhfZU9vR0VMU1JUS0FYMGNUSXZ0UnVRSU5YRVZuWERkU29MVFYzYjNtdHN6OUZGU3JlNWpLcDI3eTRwam5fVkhUSzU2WFdtX0daQUNseG50YzRpTQ?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQY2p6WWxfeE1ZZDJxQXJPOWtrR2VZdkxlSkFtck03QWJtOU1YcGtHUFBlZllXMXkxeXRlcHhfZU9vR0VMU1JUS0FYMGNUSXZ0UnVRSU5YRVZuWERkU29MVFYzYjNtdHN6OUZGU3JlNWpLcDI3eTRwam5fVkhUSzU2WFdtX0daQUNseG50YzRpTQ?oc=5\" target=\"_blank\"&gt;EvenUp, AI Software For Personal Injury Law, Doubles Valuation To $2B As Legal Tech Funding Hits Record High&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Crunchbase News&lt;/font&gt;",
       "published": "2025-10-07T07:00:00.000Z",
+      "source_id": "google-news-legal-tech-funding",
+      "source_name": "Google News: legal tech funding",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 8
+    },
+    {
+      "title": "Vancouver, B.C.-based legal tech company Clio hits $5B valuation after acquiring vLex - GeekWire",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZDZQTjk5RERxN0wzYzNka1d4bXhBTzR5RWdfai1qRjBlaEpzVVhSaUdPRkZVeld4ai1mOXpwcTZnZFZ2eVp2ajd0RXBjMGUwcGlVaEhtR01fTU1KUF82cFQ1Z3VrQWV2N1dzWTViTHNPTFB6N08xZjNJbkhkbXBUMkZlWlNwQ3ZpOGFEakJ0cFhON0NDZ1c0dGI0RndUdTBtaFh0b1hNWk1mQWg2SVV1aVdrcw?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOZDZQTjk5RERxN0wzYzNka1d4bXhBTzR5RWdfai1qRjBlaEpzVVhSaUdPRkZVeld4ai1mOXpwcTZnZFZ2eVp2ajd0RXBjMGUwcGlVaEhtR01fTU1KUF82cFQ1Z3VrQWV2N1dzWTViTHNPTFB6N08xZjNJbkhkbXBUMkZlWlNwQ3ZpOGFEakJ0cFhON0NDZ1c0dGI0RndUdTBtaFh0b1hNWk1mQWg2SVV1aVdrcw?oc=5\" target=\"_blank\"&gt;Vancouver, B.C.-based legal tech company Clio hits $5B valuation after acquiring vLex&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;GeekWire&lt;/font&gt;",
+      "published": "2025-11-10T08:00:00.000Z",
       "source_id": "google-news-legal-tech-funding",
       "source_name": "Google News: legal tech funding",
       "source_priority": "critical",
@@ -283,30 +295,6 @@
       "relevance_score": 8
     },
     {
-      "title": "What AI means for how we develop the next generation of lawyers - Legal Futures",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYm9FbDVNcjdQVy1vekRsRWljLXVncUltR3lKZFZpeFNuclpON1JlaDJZQW9ZaFpCeFZNcVNSMlpsTHRKTUI0a0RnU3JabmJVX1pYV2owVThrUzBBdDJMLUJuWmRJcHc1bG1pMnNiRllGRXdFQUpoa1hSMGg3aGNxMXpjTnVadmxXYjVfb2RUd181ZWJERjAydFZmRnVhX3owSWE4RnB0MEV3YXpUOGc?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOYm9FbDVNcjdQVy1vekRsRWljLXVncUltR3lKZFZpeFNuclpON1JlaDJZQW9ZaFpCeFZNcVNSMlpsTHRKTUI0a0RnU3JabmJVX1pYV2owVThrUzBBdDJMLUJuWmRJcHc1bG1pMnNiRllGRXdFQUpoa1hSMGg3aGNxMXpjTnVadmxXYjVfb2RUd181ZWJERjAydFZmRnVhX3owSWE4RnB0MEV3YXpUOGc?oc=5\" target=\"_blank\"&gt;What AI means for how we develop the next generation of lawyers&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Legal Futures&lt;/font&gt;",
-      "published": "2026-07-10T11:40:25.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 7
-    },
-    {
-      "title": "Luminance unveils customer advisory board - The Global Legal Post",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbmx4cUdId0VEZ3FRalpENWxGU3kxNFVZR3hZaEhIRTJraWZIVE8xNjVfRXQ5SEtFUTkxTy1Ba1g0THloX3NuWTNSRzVjSi1qanlfQjhEZE5jX2ZaZzF3RlBxMFhGTUV2dFBYOUVFY0NHQTdMUkxRYS1kelY2SUplU0NGT1YzNlpRM0VDaDVvcVpuVFE?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQbmx4cUdId0VEZ3FRalpENWxGU3kxNFVZR3hZaEhIRTJraWZIVE8xNjVfRXQ5SEtFUTkxTy1Ba1g0THloX3NuWTNSRzVjSi1qanlfQjhEZE5jX2ZaZzF3RlBxMFhGTUV2dFBYOUVFY0NHQTdMUkxRYS1kelY2SUplU0NGT1YzNlpRM0VDaDVvcVpuVFE?oc=5\" target=\"_blank\"&gt;Luminance unveils customer advisory board&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Global Legal Post&lt;/font&gt;",
-      "published": "2026-07-10T13:37:00.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 7
-    },
-    {
       "title": "The Legal AI Scaffold Changes Everything – Claude Study - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQU4tdGFPSGFaaGo0NGRvdnhxMUhYQ3pSd18td3lld2ZRd2xiQkVwWUQ0Z1lhR3IwdGstdE5STUVBTzdqdkxvbnhWUTVwZ0Y5MDNqT1hHV0RDUGVldzI5R2JrdEtaZ2NfYWNDVERjN1o5QWFqeGFTTEp6VDB1S19id3VoOUZUbzQ0eDdwNzJHNzdvYzRNWUh5cFV6UnhXOE0?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNQU4tdGFPSGFaaGo0NGRvdnhxMUhYQ3pSd18td3lld2ZRd2xiQkVwWUQ0Z1lhR3IwdGstdE5STUVBTzdqdkxvbnhWUTVwZ0Y5MDNqT1hHV0RDUGVldzI5R2JrdEtaZ2NfYWNDVERjN1o5QWFqeGFTTEp6VDB1S19id3VoOUZUbzQ0eDdwNzJHNzdvYzRNWUh5cFV6UnhXOE0?oc=5\" target=\"_blank\"&gt;The Legal AI Scaffold Changes Everything – Claude Study&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
@@ -355,30 +343,6 @@
       "relevance_score": 7
     },
     {
-      "title": "Statement of Changes HC 259: changes to children’s settlement rules under Part 8 and exception to immigration bail prohibition",
-      "url": "https://freemovement.org.uk/statement-of-changes-hc-259/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=statement-of-changes-hc-259",
-      "summary": "There aren’t any really major immigration policy amendments in the Statement of Changes published yesterday, but there are still a number of developments that you probably need to know about and at least one change that I’m very happy about. I’ll kick off with the good news. Exception to immigration bail prohibition across all categories [&#8230;]",
-      "published": "2026-07-10T12:05:46.000Z",
-      "source_id": "free-movement",
-      "source_name": "Free Movement",
-      "source_priority": "high",
-      "source_tier": "A",
-      "source_category": "Immigration law",
-      "relevance_score": 7
-    },
-    {
-      "title": "UChicago Law Bans Laptops from 1L Classrooms As Part of Sweeping New AI Strategy for Legal Education",
-      "url": "https://www.lawnext.com/2026/07/uchicago-law-bans-laptops-from-1l-classrooms-as-part-of-sweeping-new-ai-strategy-for-legal-education.html",
-      "summary": "The University of Chicago Law School yesterday released a comprehensive AI Strategy Statement that will reshape how it teaches first-year students, how it assesses upper-level writing, and how it integrates AI tools across its curriculum — including a pilot program that will prohibit laptops, tablets and phones in all core 1L classes starting this fall. [&#8230;]",
-      "published": "2026-07-10T13:06:29.000Z",
-      "source_id": "lawsites",
-      "source_name": "LawSites (Bob Ambrogi)",
-      "source_priority": "critical",
-      "source_tier": "B",
-      "source_category": "Legal tech commentary",
-      "relevance_score": 7
-    },
-    {
       "title": "Relativity Acquires Document Automation Company Gavel, Extending Its Legal Data Platform Into Word",
       "url": "https://www.lawnext.com/2026/06/relativity-acquires-document-automation-company-gavel-extending-its-legal-data-platform-into-word.html",
       "summary": "Relativity, the Chicago-based legal data intelligence company best known for the e-discovery and litigation platform RelativityOne, has acquired Gavel, the Los Angeles-based document automation and AI drafting company founded by Dorna Moini (pictured above). Relativity said the move will enable it to extend Relativity&#8217;s AI platform into the place where lawyers actually write, Microsoft Word. [&#8230;]",
@@ -403,6 +367,18 @@
       "relevance_score": 7
     },
     {
+      "title": "Trump Demands SCOTUS Reverse Birthright Red Card",
+      "url": "https://abovethelaw.com/2026/07/trump-demands-scotus-reverse-birthright-red-card/",
+      "summary": "FIFA at One First The post Trump Demands SCOTUS Reverse Birthright Red Card appeared first on Above the Law .",
+      "published": "2026-07-10T18:32:00.000Z",
+      "source_id": "above-the-law-legaltech",
+      "source_name": "Above the Law (Legal Tech)",
+      "source_priority": "high",
+      "source_tier": "B",
+      "source_category": "Legal profession",
+      "relevance_score": 7
+    },
+    {
       "title": "Latham and Simpson Thacher power up for $2.6bn EQT-Carlyle data centre deal",
       "url": "https://www.legalbusiness.co.uk/law-firms/latham-and-simpson-thacher-power-up-for-2-6bn-data-centre-deal/",
       "summary": "Latham &#38; Watkins and Simpson Thacher &#38; Bartlett have taken lead roles on a multi-billion dollar data centre deal that will see EQT take ownership of Carlyle&#8217;s power and AI infrastructure business Copia Power. Copia Power, which develops power and data centre infrastructure across the US, was established by Carlyle in 2021, and Carlyle has &#8230; Continue reading \"Latham and Simpson Thacher power up for $2.6bn EQT-Carlyle data centre deal\"",
@@ -412,18 +388,6 @@
       "source_priority": "medium",
       "source_tier": "B",
       "source_category": "Legal profession",
-      "relevance_score": 7
-    },
-    {
-      "title": "LEAP Enterprise: The unified cloud platform for ambitious law firms that demand scale, control, and compliance",
-      "url": "https://www.legalfutures.co.uk/associate-news/leap-enterprise-the-unified-cloud-platform-for-ambitious-law-firms-that-demand-scale-control-and-compliance",
-      "summary": "The legal profession is growing more complex, and the tools many firms rely on are struggling to keep pace. This is felt particularly strongly by mid-sized and large firms, where scale brings demands that software designed for smaller practices was never built to meet. The post LEAP Enterprise: The unified cloud platform for ambitious law firms that demand scale, control, and compliance appeared first on Legal Futures .",
-      "published": "2026-07-10T11:08:42.000Z",
-      "source_id": "legal-futures",
-      "source_name": "Legal Futures",
-      "source_priority": "high",
-      "source_tier": "B",
-      "source_category": "Legal business",
       "relevance_score": 7
     },
     {
@@ -439,48 +403,84 @@
       "relevance_score": 7
     },
     {
-      "title": "Compilers and AI 'Cyber' Defense",
-      "url": "https://steveklabnik.com/writing/compilers-and-ai-cyber-defense/",
-      "summary": "Article URL: https://steveklabnik.com/writing/compilers-and-ai-cyber-defense/ Comments URL: https://news.ycombinator.com/item?id=48861971 Points: 1 # Comments: 0",
-      "published": "2026-07-10T16:16:22.000Z",
-      "source_id": "hacker-news",
-      "source_name": "Hacker News (filtered)",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "Community",
-      "relevance_score": 7
-    },
-    {
-      "title": "Litert.js, Google's High Performance Web AI Inference",
-      "url": "https://developers.googleblog.com/litertjs-googles-high-performance-web-ai-inference/",
-      "summary": "Article URL: https://developers.googleblog.com/litertjs-googles-high-performance-web-ai-inference/ Comments URL: https://news.ycombinator.com/item?id=48861772 Points: 2 # Comments: 1",
-      "published": "2026-07-10T16:03:02.000Z",
-      "source_id": "hacker-news",
-      "source_name": "Hacker News (filtered)",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "Community",
-      "relevance_score": 7
-    },
-    {
-      "title": "OpenAI is shutting down its AI browser Atlas",
-      "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
-      "summary": "Article URL: https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/ Comments URL: https://news.ycombinator.com/item?id=48861557 Points: 3 # Comments: 1",
-      "published": "2026-07-10T15:47:52.000Z",
-      "source_id": "hacker-news",
-      "source_name": "Hacker News (filtered)",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "Community",
-      "relevance_score": 7
-    },
-    {
       "title": "Redbrick Solutions announces the latest release of its award-winning legal technology platform - Inside Conveyancing",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQjFuU21kaHFBdi1HTTJGOXBUVWxZLThPam5WdjVxWXJSXzNhSFVLZm5IYTJKc3cyYkljeG5zTVN2dnViTkRURmREMHo4bFpKVkxLVU5razNNcnBmQ2NrVTZKUG5PM3NDUDhyVnFpVmRmQ2xaLW42dnI1LUtHRjZPSnR3eGFlWEJUaHNibXVPTXpRN3c0NTYxVTZWaFVsaWxjQ1B4Mi1kZFViMElhcmQ4RF9NUkM4dmcweVhwc3ZUTlNUUC10Sk5oRXBnZWNnQQ?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNQjFuU21kaHFBdi1HTTJGOXBUVWxZLThPam5WdjVxWXJSXzNhSFVLZm5IYTJKc3cyYkljeG5zTVN2dnViTkRURmREMHo4bFpKVkxLVU5razNNcnBmQ2NrVTZKUG5PM3NDUDhyVnFpVmRmQ2xaLW42dnI1LUtHRjZPSnR3eGFlWEJUaHNibXVPTXpRN3c0NTYxVTZWaFVsaWxjQ1B4Mi1kZFViMElhcmQ4RF9NUkM4dmcweVhwc3ZUTlNUUC10Sk5oRXBnZWNnQQ?oc=5\" target=\"_blank\"&gt;Redbrick Solutions announces the latest release of its award-winning legal technology platform&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f",
       "published": "2026-07-10T15:13:05.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
+    },
+    {
+      "title": ":Harvey:’s Top 5 Product Releases of 2025 - Harvey",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxbTlSWkxnMmFXTHJVZ1c4d1RndE9Kc25mYms2dkxyOUl6R09HQU5VN0VkZEVEYzVLb2djeXhJSkVXTWtSRUx4dlJTRUlkWTFKb3o3Ukg0MzRRTXFXNy14dVNNLUl6cUxN?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxbTlSWkxnMmFXTHJVZ1c4d1RndE9Kc25mYms2dkxyOUl6R09HQU5VN0VkZEVEYzVLb2djeXhJSkVXTWtSRUx4dlJTRUlkWTFKb3o3Ukg0MzRRTXFXNy14dVNNLUl6cUxN?oc=5\" target=\"_blank\"&gt;:Harvey:’s Top 5 Product Releases of 2025&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
+      "published": "2025-12-30T08:00:00.000Z",
+      "source_id": "google-news-harvey-luminance",
+      "source_name": "Google News: Harvey OR Luminance",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
+    },
+    {
+      "title": "Never Start From Scratch Again With Memory in :Harvey: - Harvey",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUb0tYcVdQczRrTGVTYzZ3dG9Uc3NyaHZ6QTl6bm1HaDFjcHVKUGhqWk1ySGJiR2JQSlZyem1oSlpxejRBQXo1ZDZmck81ZTl3cmVRZU5R?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUb0tYcVdQczRrTGVTYzZ3dG9Uc3NyaHZ6QTl6bm1HaDFjcHVKUGhqWk1ySGJiR2JQSlZyem1oSlpxejRBQXo1ZDZmck81ZTl3cmVRZU5R?oc=5\" target=\"_blank\"&gt;Never Start From Scratch Again With Memory in :Harvey:&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
+      "published": "2026-01-08T08:00:00.000Z",
+      "source_id": "google-news-harvey-luminance",
+      "source_name": "Google News: Harvey OR Luminance",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
+    },
+    {
+      "title": "Eversheds Sutherland’s global co-CEO Keith Froud talks Harvey, AI adoption and ROI - Legal IT Insider",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOUJDMnROZUthMW13YnFBdlRCb0YwZE50ZmlPQ2tOZTNzd0tpa1lUd24xZTRINTkyazN6VzBJZFNrSXQtUUkyRklNblNNVW9HeUFHMGpaRGE4WFZBb0hISk1yVVdTSzBEVk9UN2pTeWlsaUxndWozWUtIM29wZEJnWDhkRnZrTURfZy1la3VqeW52SnBQWGFpNGdLSG50ZzNWbzhVVmhybE44ZEpvMkE?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPOUJDMnROZUthMW13YnFBdlRCb0YwZE50ZmlPQ2tOZTNzd0tpa1lUd24xZTRINTkyazN6VzBJZFNrSXQtUUkyRklNblNNVW9HeUFHMGpaRGE4WFZBb0hISk1yVVdTSzBEVk9UN2pTeWlsaUxndWozWUtIM29wZEJnWDhkRnZrTURfZy1la3VqeW52SnBQWGFpNGdLSG50ZzNWbzhVVmhybE44ZEpvMkE?oc=5\" target=\"_blank\"&gt;Eversheds Sutherland’s global co-CEO Keith Froud talks Harvey, AI adoption and ROI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Legal IT Insider&lt;/font&gt;",
+      "published": "2026-02-11T08:00:00.000Z",
+      "source_id": "google-news-harvey-luminance",
+      "source_name": "Google News: Harvey OR Luminance",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
+    },
+    {
+      "title": ":Harvey: and ElevenLabs Partner to Give Lawyers a Global Voice - Harvey",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxON1U5aHpIdnkyQk5fWEN4WVZnU0E5eWVqR0I3RWI2RkdFMjlrZ2RETmhFNzdnLXhET2sydHkwdm5HYnFQTmxIT3RRbXI4WmxzTWhHbGdYbXoteFZ3OUlVdFh5REdUdE93M2paejNvVjcyaXIta2swSHJ1UWIxMXF2a0M2SEhsd0dnNmVlNUNfczE?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxON1U5aHpIdnkyQk5fWEN4WVZnU0E5eWVqR0I3RWI2RkdFMjlrZ2RETmhFNzdnLXhET2sydHkwdm5HYnFQTmxIT3RRbXI4WmxzTWhHbGdYbXoteFZ3OUlVdFh5REdUdE93M2paejNvVjcyaXIta2swSHJ1UWIxMXF2a0M2SEhsd0dnNmVlNUNfczE?oc=5\" target=\"_blank\"&gt;:Harvey: and ElevenLabs Partner to Give Lawyers a Global Voice&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
+      "published": "2025-11-12T08:00:00.000Z",
+      "source_id": "google-news-harvey-luminance",
+      "source_name": "Google News: Harvey OR Luminance",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
+    },
+    {
+      "title": ":Harvey:’s iManage Integration - Harvey",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NWWt2LTZETkl6M2txVzBjWUd6SUJnYWZwN2NKYmJpXy1GS2pDUlc4Y2lNazJFRTYyYWc3MGhXQU1STHVDa2hLWE9rV000a0dkQUQzaXRpdEZ5UlVDTFhDSTEwMGM?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NWWt2LTZETkl6M2txVzBjWUd6SUJnYWZwN2NKYmJpXy1GS2pDUlc4Y2lNazJFRTYyYWc3MGhXQU1STHVDa2hLWE9rV000a0dkQUQzaXRpdEZ5UlVDTFhDSTEwMGM?oc=5\" target=\"_blank\"&gt;:Harvey:’s iManage Integration&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
+      "published": "2025-08-11T07:00:00.000Z",
+      "source_id": "google-news-harvey-luminance",
+      "source_name": "Google News: Harvey OR Luminance",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
+    },
+    {
+      "title": "Harvey Ai Number of Employees 2026 | Employee Count &amp; Headcount Data - Revelio Labs",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjWG9CNFREdTBDYkhqeWhzSk1pVGhScVduQk8zdG5LUzJVZ2ZaQXhUazJ3OXdPemZ4UjlENkxCOTYtTm5xOFZZZjlDb3doREwxdUdQMm9rbnhfYWhxLUwyRHJvSVFDeVdEWnc?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBjWG9CNFREdTBDYkhqeWhzSk1pVGhScVduQk8zdG5LUzJVZ2ZaQXhUazJ3OXdPemZ4UjlENkxCOTYtTm5xOFZZZjlDb3doREwxdUdQMm9rbnhfYWhxLUwyRHJvSVFDeVdEWnc?oc=5\" target=\"_blank\"&gt;Harvey Ai Number of Employees 2026 | Employee Count &amp; Headcount Data&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Revelio Labs&lt;/font&gt;",
+      "published": "2026-04-22T15:13:24.000Z",
+      "source_id": "google-news-harvey-luminance",
+      "source_name": "Google News: Harvey OR Luminance",
       "source_priority": "critical",
       "source_tier": "A",
       "source_category": "Aggregator",
