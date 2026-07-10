@@ -1,15 +1,15 @@
 {
-  "generated": "2026-07-10T14:55:02.408Z",
+  "generated": "2026-07-10T17:03:02.582Z",
   "cycle_type": "triage",
   "tier_filter": null,
-  "shortlist_size": 7,
+  "shortlist_size": 6,
   "prefilter": {
     "total": 40,
-    "accepted": 7,
+    "accepted": 6,
     "borderline": 0,
-    "rejected": 33,
-    "rejected_as_duplicate": 33,
-    "accept_rate": 18
+    "rejected": 34,
+    "rejected_as_duplicate": 34,
+    "accept_rate": 15
   },
   "model": "claude-haiku-4-5-20251001",
   "picks": [
@@ -17,8 +17,8 @@
       "id": "google-news-legal-ai-1",
       "score": 6,
       "category": "Legal AI",
-      "suggested_angle": "Luminance customer advisory board signals maturation of enterprise legal AI adoption",
-      "why_now": "Watch-list company (Luminance) making organizational move; advisory boards typically indicate either product pivot or major client consolidation",
+      "suggested_angle": "Luminance establishes customer advisory board to guide product roadmap",
+      "why_now": "Watch-list company move; signals shift toward customer co-design in legal AI, but needs verification that this isn't pure marketing",
       "verdict": "watch",
       "duplicate_of": null
     },
@@ -26,53 +26,44 @@
       "id": "google-news-legal-ai-0",
       "score": 5,
       "category": "Legal AI",
-      "suggested_angle": "Technical literacy as differentiator in next wave of legal AI products",
-      "why_now": "IFLR piece on legal AI capabilities; likely commentary rather than primary news unless it reports on major vendor shift",
+      "suggested_angle": "IFLR analysis: technical literacy as differentiator in next generation of legal AI",
+      "why_now": "Thought leadership piece on capability maturity; interesting if it includes primary interviews or new data, but likely commentary",
       "verdict": "watch",
-      "duplicate_of": null
-    },
-    {
-      "id": "judicial-office-2",
-      "score": 4,
-      "category": "Regulatory",
-      "suggested_angle": "Judicial College event on judicial training delivery",
-      "why_now": "Potential mention of AI in judicial training context, but headline suggests event coverage rather than policy announcement",
-      "verdict": "watch",
-      "duplicate_of": null
-    },
-    {
-      "id": "hacker-news-4",
-      "score": 3,
-      "category": "Social",
-      "suggested_angle": "OpenAI/Google export controls violation; tangential to legal AI",
-      "why_now": "Geopolitical rather than legal AI story; low relevance to publication focus despite OpenAI mention",
-      "verdict": "drop",
       "duplicate_of": null
     },
     {
       "id": "legal-futures-3",
-      "score": 2,
-      "category": "Adoption",
-      "suggested_angle": "SME law firm client feedback tools; marketing podcast",
-      "why_now": "Podcast promotion with no independent news hook or AI angle; low signal",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "legal-futures-6",
-      "score": 2,
+      "score": 4,
       "category": "Legal AI",
-      "suggested_angle": "LEAP Enterprise cloud platform launch",
-      "why_now": "Appears to be vendor product announcement/advertorial; no independent news verification",
+      "suggested_angle": "LEAP Enterprise positioning for mid-market law firms",
+      "why_now": "Appears to be product release coverage; unclear if this is genuine news or marketing-driven content. Eve/Clio ecosystem move worth monitoring but needs independent confirmation",
+      "verdict": "watch",
+      "duplicate_of": null
+    },
+    {
+      "id": "google-news-legal-ai-2",
+      "score": 3,
+      "category": "Legal AI",
+      "suggested_angle": "Redbrick Solutions releases new legal tech platform version",
+      "why_now": "Press release format with no independent news hook; likely promotional puff on routine product update",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
-      "id": "arxiv-cs-ai-5",
+      "id": "hacker-news-4",
+      "score": 1,
+      "category": "Research",
+      "suggested_angle": "Compiler design and AI cybersecurity discussion",
+      "why_now": "Out of scope: general AI/security topic with no legal angle",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "hacker-news-5",
       "score": 2,
       "category": "Research",
-      "suggested_angle": "LLM-powered agent-based modeling for policy",
-      "why_now": "Academic paper on ABM/LLM integration; too general for legal focus; matches on 'LLM' and 'Eve' but no legal application evident",
+      "suggested_angle": "Google's web AI inference library announced",
+      "why_now": "Out of scope: general AI infrastructure announcement; no legal tech application evident",
       "verdict": "drop",
       "duplicate_of": null
     }
@@ -80,19 +71,19 @@
   "summary": {
     "enqueue_count": 0,
     "watch_count": 3,
-    "drop_count": 4,
-    "notes": "Weak shortlist: Luminance advisory board and IFLR technical literacy piece warrant editor review; rest are marketing puff, event coverage, or off-topic. No primary source news hooks or regulator statements. No funding rounds detected."
+    "drop_count": 3,
+    "notes": "Weak shortlist: two watch flags on Luminance advisory board and technical literacy analysis require source verification; three drops for marketing puff, product updates, and off-topic AI infrastructure. No primary sources, no regulatory news, no funding rounds. Recommend deeper dig on Luminance move and IFLR piece before greenlit."
   },
   "enqueued": 0,
   "usage": {
-    "input_tokens": 4011,
+    "input_tokens": 4224,
     "cache_creation_input_tokens": 0,
     "cache_read_input_tokens": 0,
     "cache_creation": {
       "ephemeral_5m_input_tokens": 0,
       "ephemeral_1h_input_tokens": 0
     },
-    "output_tokens": 838,
+    "output_tokens": 755,
     "service_tier": "standard",
     "inference_geo": "not_available"
   }
