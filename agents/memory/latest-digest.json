@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-11T10:20:59.313Z",
+  "generated": "2026-07-11T13:43:07.496Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 1296,
+  "total_scanned": 1265,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -124,18 +124,6 @@
       "source_priority": "medium",
       "source_tier": "A",
       "source_category": "Aggregator",
-      "relevance_score": 9
-    },
-    {
-      "title": "Morning Docket: 07.10.26",
-      "url": "https://abovethelaw.com/2026/07/morning-docket-07-10-26/",
-      "summary": "* OpenAI accused of hiding evidence in NY Times copyright case. Reached for comment, ChatGPT said, \"I'm sorry, you're right, I was supposed to produce that.\" [ Law360 ] * Lawyer dressed as police officer to spy on ex-girlfriend at Nando's. [ Roll on Friday ] * Ninth Circuit judge Ryan Nelson will have his parking lot tussle with another motorist heard by the Fourth Circuit. Here's a helpful guide for him . [ LA Times ] *Every federal judge in the Middle District of Tennessee recused themselves f",
-      "published": "2026-07-10T13:01:20.000Z",
-      "source_id": "above-the-law-legaltech",
-      "source_name": "Above the Law (Legal Tech)",
-      "source_priority": "high",
-      "source_tier": "B",
-      "source_category": "Legal profession",
       "relevance_score": 9
     },
     {
@@ -295,6 +283,18 @@
       "relevance_score": 8
     },
     {
+      "title": "Morning Docket: 07.10.26",
+      "url": "https://abovethelaw.com/2026/07/morning-docket-07-10-26/",
+      "summary": "* OpenAI accused of hiding evidence in NY Times copyright case. Reached for comment, ChatGPT said, \"I'm sorry, you're right, I was supposed to produce that.\" [ Law360 ] * Lawyer dressed as police officer to spy on ex-girlfriend at Nando's. [ Roll on Friday ] * Ninth Circuit judge Ryan Nelson will have his parking lot tussle with another motorist heard by the Fourth Circuit. Here's a helpful guide for him . [ LA Times ] *Every federal judge in the Middle District of Tennessee recused themselves f",
+      "published": "2026-07-10T13:01:20.000Z",
+      "source_id": "above-the-law-legaltech",
+      "source_name": "Above the Law (Legal Tech)",
+      "source_priority": "high",
+      "source_tier": "B",
+      "source_category": "Legal profession",
+      "relevance_score": 8
+    },
+    {
       "title": "Compete Then Collaborate: Frontier AI Teachers Build a Verifiable Curriculum to Improve a Coding Student Beyond Imitation",
       "url": "https://arxiv.org/abs/2607.08255",
       "summary": "arXiv:2607.08255v1 Announce Type: new Abstract: Large language models increasingly serve as teachers generating training data for smaller students. Prior multi-teacher knowledge distillation methods merge outputs without determining which frontier model teaches best, often relying on an LLM judge biased toward its own outputs. We introduce a compete-then-collaborate framework where four frontier AI teachers (Claude, Codex-GPT, Grok, Gemini) are ranked head-to-head by an execution-based judge (un",
@@ -376,6 +376,18 @@
       "source_priority": "critical",
       "source_tier": "B",
       "source_category": "Legal tech commentary",
+      "relevance_score": 7
+    },
+    {
+      "title": "Show HN: Colyap – AI friend you can call and text",
+      "url": "https://www.colyap.com/",
+      "summary": "call it, text it. connect your apps. go crazy. it's got long running tasks. it remembers everything about you. journal your life. it tries to understand what you want. no registration needed. BYOK. it gets better with time. go yap! handled 20,000+ minutes of conversations and 10,000+ texts a day. built to scale with you. Comments URL: https://news.ycombinator.com/item?id=48870794 Points: 3 # Comments: 1",
+      "published": "2026-07-11T10:49:51.000Z",
+      "source_id": "hacker-news",
+      "source_name": "Hacker News (filtered)",
+      "source_priority": "low",
+      "source_tier": "B",
+      "source_category": "Community",
       "relevance_score": 7
     },
     {
@@ -466,18 +478,6 @@
       "title": "The Illusion of Equivalency: Statistical Characterization of Quantization Effects in LLMs",
       "url": "https://arxiv.org/abs/2607.08734",
       "summary": "arXiv:2607.08734v1 Announce Type: new Abstract: Post-training quantization is widely used to deploy large language models in resource-constrained settings, yet its evaluation relies almost exclusively on accuracy and perplexity. We show that these metrics fail to capture behavioral changes induced by quantization. We introduce correctness agreement, a decision-level metric that measures overlap in correct predictions between a base model and its quantized variants, independent of absolute accura",
-      "published": "2026-07-11T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI (keyword-filtered)",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "Research",
-      "relevance_score": 7
-    },
-    {
-      "title": "Jet-Long: Efficient Long-Context Extension with Dynamic Bifocal RoPE",
-      "url": "https://arxiv.org/abs/2607.07740",
-      "summary": "arXiv:2607.07740v1 Announce Type: cross Abstract: Modern LLMs are increasingly deployed in long-context applications such as retrieval-augmented generation, repository-level coding, and agentic workflows whose accumulated reasoning and tool traces routinely push the input an order of magnitude past the pretraining window, making zero-shot context extension the dominant deployment path for open-weight checkpoints. Most existing zero-shot methods fix a single rescaling factor up front, so an aggre",
       "published": "2026-07-11T04:00:00.000Z",
       "source_id": "arxiv-cs-ai",
       "source_name": "arXiv cs.AI (keyword-filtered)",
