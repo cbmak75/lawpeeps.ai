@@ -1,33 +1,195 @@
 {
-  "generated": "2026-07-11T03:37:37.277Z",
+  "generated": "2026-07-11T08:07:03.532Z",
   "cycle_type": "triage",
   "tier_filter": null,
-  "shortlist_size": 2,
+  "shortlist_size": 20,
   "prefilter": {
     "total": 40,
-    "accepted": 2,
+    "accepted": 28,
     "borderline": 0,
-    "rejected": 38,
-    "rejected_as_duplicate": 38,
-    "accept_rate": 5
+    "rejected": 12,
+    "rejected_as_duplicate": 12,
+    "accept_rate": 70
   },
   "model": "claude-haiku-4-5-20251001",
   "picks": [
     {
-      "id": "google-news-legal-ai-0",
-      "score": 5,
-      "category": "Legal AI",
-      "suggested_angle": "Technical literacy as differentiator in next-gen legal AI systems",
-      "why_now": "IFLR piece on evolving legal AI maturity; Litera reference suggests vendor perspective on skill requirements",
+      "id": "arxiv-cs-ai-0",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "Academic framework for validating LLM safety analysis in regulated contexts",
+      "why_now": "Relevant to legal AI governance but purely academic, no primary news hook or company/regulatory action",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-1",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "LLM reasoning capabilities for causal discovery",
+      "why_now": "Pure ML research with no legal or regulatory angle",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-2",
+      "score": 4,
+      "category": "Regulatory",
+      "suggested_angle": "Expert analysis of XAI's role in EU AI Act compliance",
+      "why_now": "Mentions AI Act but is academic commentary, not primary regulatory news",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-3",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "ChatGPT for scientific prototyping in ESA competition",
+      "why_now": "No legal or legal tech angle",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-4",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Survey of LLMs for medical reasoning",
+      "why_now": "Healthcare focus, not legal domain",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-5",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Quantization effects on LLM deployment",
+      "why_now": "Pure ML infrastructure, no legal application",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-6",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Reinforcement learning credit assignment in LLMs",
+      "why_now": "Technical ML research, no legal or regulatory angle",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-7",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "Failure diagnosis in multi-agent LLM systems",
+      "why_now": "Relevant to reliability concerns in legal AI systems but purely academic",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-8",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "Watermarking and provenance tracking for LLM agents",
+      "why_now": "Potentially relevant to legal AI IP/attribution but no news hook",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-9",
+      "score": 4,
+      "category": "Research",
+      "suggested_angle": "Reliability and consistency problems in LLM-as-judge evaluation systems",
+      "why_now": "Directly relevant to legal AI accuracy concerns but academic preprint only",
       "verdict": "watch",
       "duplicate_of": null
     },
     {
-      "id": "above-the-law-legaltech-1",
+      "id": "arxiv-cs-ai-10",
       "score": 2,
-      "category": "Social",
-      "suggested_angle": "Career advice on biglaw recruitment",
-      "why_now": "No legal AI angle; recruitment puff piece unrelated to editorial focus",
+      "category": "Research",
+      "suggested_angle": "Multilingual benchmarking for long-horizon LLM agents",
+      "why_now": "No legal application",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-11",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "Testing methodologies for LLM bias detection in deployed systems",
+      "why_now": "Relevant to legal AI safety but academic, no primary news",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-12",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Knowledge distillation and multi-teacher curriculum learning",
+      "why_now": "No legal domain focus",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-13",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "Assurance standards for LLM deployment in mental health contexts",
+      "why_now": "Healthcare regulatory angle but no legal tech or UK regulation focus",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-14",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Neural architecture search automation via LLMs",
+      "why_now": "Pure AI infrastructure, no legal application",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-15",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Long-context evaluation benchmarking for LLMs",
+      "why_now": "Infrastructure research, no legal angle",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-16",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Patient experience with health chatbots",
+      "why_now": "Healthcare not legal",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-17",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Long-context LLM optimization technique",
+      "why_now": "Pure infrastructure, no legal application",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-18",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "LLM-driven formal mathematics and theorem proving",
+      "why_now": "Mathematics research, not legal domain",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-19",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Emotional dynamics in persona-based dialogue agents",
+      "why_now": "No legal or regulatory application",
       "verdict": "drop",
       "duplicate_of": null
     }
@@ -35,19 +197,19 @@
   "summary": {
     "enqueue_count": 0,
     "watch_count": 1,
-    "drop_count": 1,
-    "notes": "IFLR piece on technical literacy in legal AI lacks sufficient detail to assess newsworthiness; requires source verification before enqueue. Second item is off-topic recruitment content."
+    "drop_count": 19,
+    "notes": "Entire shortlist is academic arXiv preprints with no primary legal/legal tech news hooks, company actions, regulatory statements, or funding events. One item (arxiv-cs-ai-9 on LLM-as-judge reliability) flagged for watch pending real-world application reporting. No picks meet enqueue threshold."
   },
   "enqueued": 0,
   "usage": {
-    "input_tokens": 2799,
+    "input_tokens": 5605,
     "cache_creation_input_tokens": 0,
     "cache_read_input_tokens": 0,
     "cache_creation": {
       "ephemeral_5m_input_tokens": 0,
       "ephemeral_1h_input_tokens": 0
     },
-    "output_tokens": 306,
+    "output_tokens": 1945,
     "service_tier": "standard",
     "inference_geo": "not_available"
   }
