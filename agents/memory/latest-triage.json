@@ -1,15 +1,15 @@
 {
-  "generated": "2026-07-11T19:15:33.056Z",
+  "generated": "2026-07-11T21:56:34.484Z",
   "cycle_type": "triage",
   "tier_filter": null,
-  "shortlist_size": 6,
+  "shortlist_size": 4,
   "prefilter": {
     "total": 40,
-    "accepted": 5,
+    "accepted": 3,
     "borderline": 1,
-    "rejected": 34,
-    "rejected_as_duplicate": 34,
-    "accept_rate": 13
+    "rejected": 36,
+    "rejected_as_duplicate": 36,
+    "accept_rate": 8
   },
   "model": "claude-haiku-4-5-20251001",
   "picks": [
@@ -17,73 +17,55 @@
       "id": "arxiv-cs-ai-0",
       "score": 3,
       "category": "Research",
-      "suggested_angle": "Academic paper on safety validation for LLMs used in hazard analysis",
-      "why_now": "Methodologically interesting but no legal AI application, no practitioner angle, tier-B academic source",
+      "suggested_angle": "Academic paper on LLM safety validation in systems analysis",
+      "why_now": "Theoretical work on LLM hazard analysis; minimal legal tech angle",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
-      "id": "hacker-news-1",
+      "id": "arxiv-cs-ai-1",
       "score": 2,
-      "category": "Social",
-      "suggested_angle": "Palantir CEO commentary on AI hype",
-      "why_now": "Off-topic CEO opinion piece with no legal AI focus, no watchlist company move, no regulatory hook",
+      "category": "Research",
+      "suggested_angle": "Case study of ChatGPT for scientific prototyping",
+      "why_now": "General LLM capability study with no legal application",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
       "id": "hacker-news-2",
-      "score": 2,
-      "category": "Social",
-      "suggested_angle": "Generic essay on human-AI collaboration models",
-      "why_now": "Theoretical commentary unrelated to legal AI, regulation, or watchlist companies",
-      "verdict": "drop",
+      "score": 5,
+      "category": "Policy",
+      "suggested_angle": "Law school AI bans: historical comparison and regulatory framing",
+      "why_now": "Touches legal education and AI policy but sourced from commentary piece without primary hook",
+      "verdict": "watch",
       "duplicate_of": null
     },
     {
-      "id": "hacker-news-3",
-      "score": 1,
-      "category": "Social",
-      "suggested_angle": "Marketing post for AI SEO visibility tool",
-      "why_now": "Consumer-grade marketing puff with no legal AI connection, no primary news hook",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-4",
+      "id": "arxiv-cs-ai-3",
       "score": 2,
       "category": "Research",
-      "suggested_angle": "Case study of ChatGPT in scientific prototyping for space tech",
-      "why_now": "ESA competition context interesting but no legal tech application, tier-B academic source, no practitioner relevance",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-5",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "Multi-teacher LLM knowledge distillation for coding education",
-      "why_now": "Methodologically sound but no legal AI application, no watchlist entities, tier-B academic source",
+      "suggested_angle": "Multi-teacher knowledge distillation for LLM training",
+      "why_now": "ML research with no legal application or industry relevance",
       "verdict": "drop",
       "duplicate_of": null
     }
   ],
   "summary": {
     "enqueue_count": 0,
-    "watch_count": 0,
-    "drop_count": 6,
-    "notes": "All six items are off-topic or low-value: four are marketing/HN noise, two are generic academic papers with no legal AI angle, none match editorial focus on legal AI, regulation, or watchlist companies."
+    "watch_count": 1,
+    "drop_count": 3,
+    "notes": "Weak shortlist: three pure ML/AI research papers (off-focus), one policy commentary with potential but no primary source. Only hacker-news-2 worth flagging for editor review if writer can source primary reporting on law school AI bans."
   },
   "enqueued": 0,
   "usage": {
-    "input_tokens": 3159,
+    "input_tokens": 2783,
     "cache_creation_input_tokens": 0,
     "cache_read_input_tokens": 0,
     "cache_creation": {
       "ephemeral_5m_input_tokens": 0,
       "ephemeral_1h_input_tokens": 0
     },
-    "output_tokens": 714,
+    "output_tokens": 500,
     "service_tier": "standard",
     "inference_geo": "not_available"
   }
