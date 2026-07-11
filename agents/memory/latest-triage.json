@@ -1,15 +1,15 @@
 {
-  "generated": "2026-07-11T13:43:20.739Z",
+  "generated": "2026-07-11T16:11:18.099Z",
   "cycle_type": "triage",
   "tier_filter": null,
-  "shortlist_size": 10,
+  "shortlist_size": 3,
   "prefilter": {
     "total": 40,
-    "accepted": 10,
-    "borderline": 0,
-    "rejected": 30,
-    "rejected_as_duplicate": 30,
-    "accept_rate": 25
+    "accepted": 2,
+    "borderline": 1,
+    "rejected": 37,
+    "rejected_as_duplicate": 37,
+    "accept_rate": 5
   },
   "model": "claude-haiku-4-5-20251001",
   "picks": [
@@ -17,8 +17,8 @@
       "id": "arxiv-cs-ai-0",
       "score": 3,
       "category": "Research",
-      "suggested_angle": "Academic interest in LLM safety analysis methods; limited legal tech application",
-      "why_now": "ArXiv preprint on LLM hazard analysis; tier B source with no direct legal tech hook",
+      "suggested_angle": "Academic framework for validating LLM safety analysis in high-stakes domains",
+      "why_now": "Theoretical research on LLM hazard analysis; no direct legal/legal-tech application hook",
       "verdict": "drop",
       "duplicate_of": null
     },
@@ -26,8 +26,8 @@
       "id": "arxiv-cs-ai-1",
       "score": 2,
       "category": "Research",
-      "suggested_angle": "General AI capability study on scientific prototyping; no legal angle",
-      "why_now": "ESA competition case study; outside editorial scope",
+      "suggested_angle": "ChatGPT case study in scientific prototyping (ESA competition context)",
+      "why_now": "Space agency use case; not legal, not legal-tech, not UK-relevant",
       "verdict": "drop",
       "duplicate_of": null
     },
@@ -35,91 +35,28 @@
       "id": "arxiv-cs-ai-2",
       "score": 2,
       "category": "Research",
-      "suggested_angle": "Medical LLM survey; healthcare focus, not legal",
-      "why_now": "Clinical reasoning survey; no legal tech relevance",
+      "suggested_angle": "Multi-teacher knowledge distillation for LLM training",
+      "why_now": "Pure ML research on model training; no legal/legal-tech application",
       "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-3",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "Quantization effects in LLMs; foundational research with no sectoral application",
-      "why_now": "Technical arXiv preprint on model compression; outside scope",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-4",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "Knowledge distillation between LLMs; coding education focus",
-      "why_now": "Academic preprint on model training; no legal angle",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "hacker-news-5",
-      "score": 2,
-      "category": "Social",
-      "suggested_angle": "Consumer conversational AI product; no legal tech connection",
-      "why_now": "Show HN product launch; outside editorial remit",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-6",
-      "score": 4,
-      "category": "Research",
-      "suggested_angle": "LLM alignment standards for healthcare; tangentially relevant to professional services regulation",
-      "why_now": "Preprint on assuring AI in regulated healthcare contexts; adjacent to legal/professional liability themes in open threads",
-      "verdict": "watch",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-7",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "Neural architecture search automation; foundational AI research",
-      "why_now": "ArXiv preprint on NAS optimization; no sectoral application",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-8",
-      "score": 3,
-      "category": "Research",
-      "suggested_angle": "Long-context LLM benchmarking; may inform contract review and document analysis capabilities",
-      "why_now": "Preprint on context window evaluation; foundational research relevant to legal document handling",
-      "verdict": "watch",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-9",
-      "score": 3,
-      "category": "Research",
-      "suggested_angle": "Patient-facing AI chatbot failures; parallels professional liability and duty-of-care risks in legal AI",
-      "why_now": "ArXiv study on real-world conversational AI breakdown; relates to open thread on professional liability and mobile legal AI contexts",
-      "verdict": "watch",
       "duplicate_of": null
     }
   ],
   "summary": {
     "enqueue_count": 0,
-    "watch_count": 3,
-    "drop_count": 7,
-    "notes": "Entire shortlist is tier B academic/hobby sources (arXiv, Hacker News) with zero primary legal tech news, funding rounds, regulatory statements, or named company moves. Three items flagged for watch due to tangential relevance to open editorial threads on AI liability, capability assessment, and failure modes in professional contexts—but none merit immediate enqueueing."
+    "watch_count": 0,
+    "drop_count": 3,
+    "notes": "All three arXiv items are generic AI/LLM research with no legal, legal-tech, regulatory, or immigration angle. Below editorial threshold for lawpeeps.ai."
   },
   "enqueued": 0,
   "usage": {
-    "input_tokens": 3793,
+    "input_tokens": 2600,
     "cache_creation_input_tokens": 0,
     "cache_read_input_tokens": 0,
     "cache_creation": {
       "ephemeral_5m_input_tokens": 0,
       "ephemeral_1h_input_tokens": 0
     },
-    "output_tokens": 1144,
+    "output_tokens": 411,
     "service_tier": "standard",
     "inference_geo": "not_available"
   }
