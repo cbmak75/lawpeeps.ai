@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-11T16:01:14.921Z",
+  "generated": "2026-07-11T19:15:18.851Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 1245,
+  "total_scanned": 1288,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -127,6 +127,18 @@
       "relevance_score": 9
     },
     {
+      "title": "Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook partners with CBA; DeepIP raises $25m - Legal IT Insider",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcXJGTU9ucEc1azNNOTZ3eWI1dldHblpjS0lIdG9jTy1YSE1SSEdlWXlqa041bzd4R052ckZLZG1TQnh6eUE1bFhEV0FyYlFndF84Z1hTczZXZ0IzOVRoMF9jWHhkMXp2X2tjenNUMktCZWM1eVlvM0tjZEpvX2ZoeUpaTUN5UTZUaDJEWWdvVDFJZWpGYTZiQV8ycEc1dEJRMTJCWktEV3IwX3FoX1F6cFk5dkJ1VUtHaURCWmlBTUpTcFRJQVk3cmYxODlsMEpjQnRMdHkwLWNoR1lzT01jRmJlSjJwdw?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcXJGTU9ucEc1azNNOTZ3eWI1dldHblpjS0lIdG9jTy1YSE1SSEdlWXlqa041bzd4R052ckZLZG1TQnh6eUE1bFhEV0FyYlFndF84Z1hTczZXZ0IzOVRoMF9jWHhkMXp2X2tjenNUMktCZWM1eVlvM0tjZEpvX2ZoeUpaTUN5UTZUaDJEWWdvVDFJZWpGYTZiQV8ycEc1dEJRMTJCWktEV3IwX3FoX1F6cFk5dkJ1VUtHaURCWmlBTUpTcFRJQVk3cmYxODlsMEpjQnRMdHkwLWNoR1lzT01jRmJlSjJwdw?oc=5\" target=\"_blank\"&gt;Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook partners with CBA; De",
+      "published": "2026-03-04T08:00:00.000Z",
+      "source_id": "google-news-legal-tech-funding",
+      "source_name": "Google News: legal tech funding",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 8
+    },
+    {
       "title": "Top Legal AI Startups Funded in 2026 (Harvey, Legora, Ironclad) - AI Funding Tracker",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10MGJkNVo1c0RqNmhuZWpialozbzBsejY0eWFVUkxsdHM0SG44M1BYM3VtZm92MVlmWGdIaGl0bF9VZkpacEs3R01yT3hBajlpMmxNUmlxV25NWWY3UW1ReA?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE10MGJkNVo1c0RqNmhuZWpialozbzBsejY0eWFVUkxsdHM0SG44M1BYM3VtZm92MVlmWGdIaGl0bF9VZkpacEs3R01yT3hBajlpMmxNUmlxV25NWWY3UW1ReA?oc=5\" target=\"_blank\"&gt;Top Legal AI Startups Funded in 2026 (Harvey, Legora, Ironclad)&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;AI Funding Tracker&lt;/font&gt;",
@@ -211,18 +223,6 @@
       "relevance_score": 8
     },
     {
-      "title": "Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook partners with CBA; DeepIP raises $25m - Legal IT Insider",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcXJGTU9ucEc1azNNOTZ3eWI1dldHblpjS0lIdG9jTy1YSE1SSEdlWXlqa041bzd4R052ckZLZG1TQnh6eUE1bFhEV0FyYlFndF84Z1hTczZXZ0IzOVRoMF9jWHhkMXp2X2tjenNUMktCZWM1eVlvM0tjZEpvX2ZoeUpaTUN5UTZUaDJEWWdvVDFJZWpGYTZiQV8ycEc1dEJRMTJCWktEV3IwX3FoX1F6cFk5dkJ1VUtHaURCWmlBTUpTcFRJQVk3cmYxODlsMEpjQnRMdHkwLWNoR1lzT01jRmJlSjJwdw?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcXJGTU9ucEc1azNNOTZ3eWI1dldHblpjS0lIdG9jTy1YSE1SSEdlWXlqa041bzd4R052ckZLZG1TQnh6eUE1bFhEV0FyYlFndF84Z1hTczZXZ0IzOVRoMF9jWHhkMXp2X2tjenNUMktCZWM1eVlvM0tjZEpvX2ZoeUpaTUN5UTZUaDJEWWdvVDFJZWpGYTZiQV8ycEc1dEJRMTJCWktEV3IwX3FoX1F6cFk5dkJ1VUtHaURCWmlBTUpTcFRJQVk3cmYxODlsMEpjQnRMdHkwLWNoR1lzT01jRmJlSjJwdw?oc=5\" target=\"_blank\"&gt;Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook partners with CBA; De",
-      "published": "2026-03-04T08:00:00.000Z",
-      "source_id": "google-news-contract-ai",
-      "source_name": "Google News: contract AI",
-      "source_priority": "medium",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 8
-    },
-    {
       "title": "GPT-5 Launches: Harvey, Spellbook, Legora + TR Already Have It - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPakxDaENfTFFVRjVLRjZQSWplRnJwcUFCQWRtNkUyaUh4T1RvT1Rkc0R3NVZxb095ODN4eGIyREhjTUJTTDFvcmN0cV81OE5Md2k0WS1IVGRJWGdaT1BFaFJDUjdRSkU1ZXZqQTFFUXBQVmFpSndTNFVsb3BEMjN1MnJueW11QmZSWWpzZWhJVndMVk1qSlY1bzhlQQ?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPakxDaENfTFFVRjVLRjZQSWplRnJwcUFCQWRtNkUyaUh4T1RvT1Rkc0R3NVZxb095ODN4eGIyREhjTUJTTDFvcmN0cV81OE5Md2k0WS1IVGRJWGdaT1BFaFJDUjdRSkU1ZXZqQTFFUXBQVmFpSndTNFVsb3BEMjN1MnJueW11QmZSWWpzZWhJVndMVk1qSlY1bzhlQQ?oc=5\" target=\"_blank\"&gt;GPT-5 Launches: Harvey, Spellbook, Legora + TR Already Have It&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
@@ -283,6 +283,18 @@
       "relevance_score": 8
     },
     {
+      "title": "Show HN: Free AI Visibility Audit Tool& Agent",
+      "url": "https://ai-visibility.pro",
+      "summary": "AI VISIBILITY helps brands audit, measure, and improve AI search visibility across ChatGPT, Gemini, Claude, Perplexity, Grok, and Google AI results with actionable GEO reports. Comments URL: https://news.ycombinator.com/item?id=48873177 Points: 2 # Comments: 0",
+      "published": "2026-07-11T15:59:31.000Z",
+      "source_id": "hacker-news",
+      "source_name": "Hacker News (filtered)",
+      "source_priority": "low",
+      "source_tier": "B",
+      "source_category": "Community",
+      "relevance_score": 8
+    },
+    {
       "title": "Conversational AI for Rapid Scientific Prototyping: A Case Study on ESA's ELOPE Competition",
       "url": "https://arxiv.org/abs/2601.04920",
       "summary": "arXiv:2601.04920v2 Announce Type: replace Abstract: Large language models (LLMs) are increasingly used as coding partners, yet their role in accelerating scientific discovery remains underexplored. This paper presents a case study of using ChatGPT for rapid prototyping in ESA's ELOPE (Event-based Lunar OPtical flow Egomotion estimation) competition. The competition required participants to process event camera data to estimate lunar lander trajectories. Despite joining late, we achieved second p",
@@ -295,10 +307,10 @@
       "relevance_score": 8
     },
     {
-      "title": "The Legal AI Scaffold Changes Everything – Claude Study - Artificial Lawyer",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQU4tdGFPSGFaaGo0NGRvdnhxMUhYQ3pSd18td3lld2ZRd2xiQkVwWUQ0Z1lhR3IwdGstdE5STUVBTzdqdkxvbnhWUTVwZ0Y5MDNqT1hHV0RDUGVldzI5R2JrdEtaZ2NfYWNDVERjN1o5QWFqeGFTTEp6VDB1S19id3VoOUZUbzQ0eDdwNzJHNzdvYzRNWUh5cFV6UnhXOE0?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNQU4tdGFPSGFaaGo0NGRvdnhxMUhYQ3pSd18td3lld2ZRd2xiQkVwWUQ0Z1lhR3IwdGstdE5STUVBTzdqdkxvbnhWUTVwZ0Y5MDNqT1hHV0RDUGVldzI5R2JrdEtaZ2NfYWNDVERjN1o5QWFqeGFTTEp6VDB1S19id3VoOUZUbzQ0eDdwNzJHNzdvYzRNWUh5cFV6UnhXOE0?oc=5\" target=\"_blank\"&gt;The Legal AI Scaffold Changes Everything – Claude Study&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
-      "published": "2026-06-22T07:00:00.000Z",
+      "title": "OpenAI Engineer’s ‘LOL’ Moment Set Stage for Legal Fight With Apple - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQekdUWlV4aXB3Umo3VHgwLVdjaUNpWHNvMW5fM0RoYUNnQ1I4amFqZEkyRjlSV2Nrb2Fma0xSNkVrbVFCSExCckJVdVJGblVrWnRnWXpHNGFVWWlYMW9vSUNsalpjUVNjZ1FiRm9IaGo2OVdBcjZ6U0owQS1EbXBtc3hwMzM1N0NSbzZka1NzZnJhbXVoNFlVcmhwTGlqOFU2a0REcG84LWl2X1JJeTV6ZUl0Z2VBZ0k?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQekdUWlV4aXB3Umo3VHgwLVdjaUNpWHNvMW5fM0RoYUNnQ1I4amFqZEkyRjlSV2Nrb2Fma0xSNkVrbVFCSExCckJVdVJGblVrWnRnWXpHNGFVWWlYMW9vSUNsalpjUVNjZ1FiRm9IaGo2OVdBcjZ6U0owQS1EbXBtc3hwMzM1N0NSbzZka1NzZnJhbXVoNFlVcmhwTGlqOFU2a0REcG84LWl2X1JJeTV6ZUl0Z2VBZ0k?oc=5\" target=\"_blank\"&gt;OpenAI Engineer’s ‘LOL’ Moment Set Stage for Legal Fight With Apple&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Bloomberg.com&lt;/font&gt;",
+      "published": "2026-07-11T13:59:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
@@ -307,24 +319,12 @@
       "relevance_score": 7
     },
     {
-      "title": "Will Anthropic’s Claude Partner Network Impact Legal Tech? - Artificial Lawyer",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONDdmbkh3ZmpkZXNfS1BOMXZwRXBQTkpNVHJOMWZzMnp4UFZ3WEQ5RXZKMHo0VlVuV2laSUJVYXFLOWNiallfcGpGX19CQ01wQ3FoWXYtc3pmeVZZb0R0MW1WemZtMklIUW00enlfYXptOWZuMmNGa2JTSGRLSEZnSDlDWk9weGszLW1FSHVkRnJWc1RNdEFwSGdnMXhiLWFtWVZB?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxONDdmbkh3ZmpkZXNfS1BOMXZwRXBQTkpNVHJOMWZzMnp4UFZ3WEQ5RXZKMHo0VlVuV2laSUJVYXFLOWNiallfcGpGX19CQ01wQ3FoWXYtc3pmeVZZb0R0MW1WemZtMklIUW00enlfYXptOWZuMmNGa2JTSGRLSEZnSDlDWk9weGszLW1FSHVkRnJWc1RNdEFwSGdnMXhiLWFtWVZB?oc=5\" target=\"_blank\"&gt;Will Anthropic’s Claude Partner Network Impact Legal Tech?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
-      "published": "2026-03-17T07:00:00.000Z",
-      "source_id": "google-news-legal-tech-funding",
-      "source_name": "Google News: legal tech funding",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 7
-    },
-    {
-      "title": "Legal AI giant Harvey acquires Hexus as competition heats up in legal tech - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWtsRnRNeWxYZWEwaERMRVJaRWVfQm41MzVDeDJBM1ZIOEstUW5DaTB5UUhjUXE5Sml2QU40RzdZaWlqeUpid3dELUpLTHlKbVNRNmRObWtrZ1dSSXd3R20wSDY3TkVUOHVwRzlZOTh1b1FraXZlNGpuUnBPcXdIU2oxbVZzMTZDVzVNMDRDcGR0NC1oQ2pfMGlUY25YSHBZaHJUTEljdzU5LWREa0E?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWtsRnRNeWxYZWEwaERMRVJaRWVfQm41MzVDeDJBM1ZIOEstUW5DaTB5UUhjUXE5Sml2QU40RzdZaWlqeUpid3dELUpLTHlKbVNRNmRObWtrZ1dSSXd3R20wSDY3TkVUOHVwRzlZOTh1b1FraXZlNGpuUnBPcXdIU2oxbVZzMTZDVzVNMDRDcGR0NC1oQ2pfMGlUY25YSHBZaHJUTEljdzU5LWREa0E?oc=5\" target=\"_blank\"&gt;Legal AI giant Harvey acquires Hexus as competition heats up in legal tech&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;TechCrunch&lt;/font&gt;",
-      "published": "2026-01-23T08:00:00.000Z",
-      "source_id": "google-news-legal-tech-funding",
-      "source_name": "Google News: legal tech funding",
+      "title": "The Legal AI Scaffold Changes Everything – Claude Study - Artificial Lawyer",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQU4tdGFPSGFaaGo0NGRvdnhxMUhYQ3pSd18td3lld2ZRd2xiQkVwWUQ0Z1lhR3IwdGstdE5STUVBTzdqdkxvbnhWUTVwZ0Y5MDNqT1hHV0RDUGVldzI5R2JrdEtaZ2NfYWNDVERjN1o5QWFqeGFTTEp6VDB1S19id3VoOUZUbzQ0eDdwNzJHNzdvYzRNWUh5cFV6UnhXOE0?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNQU4tdGFPSGFaaGo0NGRvdnhxMUhYQ3pSd18td3lld2ZRd2xiQkVwWUQ0Z1lhR3IwdGstdE5STUVBTzdqdkxvbnhWUTVwZ0Y5MDNqT1hHV0RDUGVldzI5R2JrdEtaZ2NfYWNDVERjN1o5QWFqeGFTTEp6VDB1S19id3VoOUZUbzQ0eDdwNzJHNzdvYzRNWUh5cFV6UnhXOE0?oc=5\" target=\"_blank\"&gt;The Legal AI Scaffold Changes Everything – Claude Study&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
+      "published": "2026-06-22T07:00:00.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
       "source_priority": "critical",
       "source_tier": "A",
       "source_category": "Aggregator",
@@ -376,6 +376,54 @@
       "source_priority": "critical",
       "source_tier": "B",
       "source_category": "Legal tech commentary",
+      "relevance_score": 7
+    },
+    {
+      "title": "Ask HN: Has single-task focus become outdated in the AI era?",
+      "url": "https://news.ycombinator.com/item?id=48874344",
+      "summary": "I’ve always found that deep focusing on one task at a time was the only way to get things done at work with good quality and at an acceptable pace, and I have a real hard time multitasking (even with AI) because of context switching and getting distracted or overwhelmed. But with AI making parallel work easier (in theory), is single-task focus now a disadvantage? Are effective engineers always running several threads at once, or is deep focus still the best way to get things done? Comments URL: ",
+      "published": "2026-07-11T18:20:26.000Z",
+      "source_id": "hacker-news",
+      "source_name": "Hacker News (filtered)",
+      "source_priority": "low",
+      "source_tier": "B",
+      "source_category": "Community",
+      "relevance_score": 7
+    },
+    {
+      "title": "Alex Karp Is Saying What Every Angry CEO Is Thinking About AI",
+      "url": "https://www.wsj.com/tech/ai/alex-karp-is-saying-what-every-angry-ceo-is-thinking-about-ai-7f5f7c0c",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/alex-karp-is-saying-what-every-angry-ceo-is-thinking-about-ai-7f5f7c0c Comments URL: https://news.ycombinator.com/item?id=48873978 Points: 15 # Comments: 10",
+      "published": "2026-07-11T17:37:30.000Z",
+      "source_id": "hacker-news",
+      "source_name": "Hacker News (filtered)",
+      "source_priority": "low",
+      "source_tier": "B",
+      "source_category": "Community",
+      "relevance_score": 7
+    },
+    {
+      "title": "Reverse centaurs are the answer to the AI paradox",
+      "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative",
+      "summary": "Article URL: https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative Comments URL: https://news.ycombinator.com/item?id=48873855 Points: 39 # Comments: 7",
+      "published": "2026-07-11T17:23:52.000Z",
+      "source_id": "hacker-news",
+      "source_name": "Hacker News (filtered)",
+      "source_priority": "low",
+      "source_tier": "B",
+      "source_category": "Community",
+      "relevance_score": 7
+    },
+    {
+      "title": "AI Found a Root Bug in Linux That Everyone Missed for 15 Years",
+      "url": "https://www.wired.com/story/security-news-this-week-ai-found-a-root-bug-in-linux-that-everyone-missed-for-15-years/",
+      "summary": "Article URL: https://www.wired.com/story/security-news-this-week-ai-found-a-root-bug-in-linux-that-everyone-missed-for-15-years/ Comments URL: https://news.ycombinator.com/item?id=48873669 Points: 3 # Comments: 0",
+      "published": "2026-07-11T17:00:52.000Z",
+      "source_id": "hacker-news",
+      "source_name": "Hacker News (filtered)",
+      "source_priority": "low",
+      "source_tier": "B",
+      "source_category": "Community",
       "relevance_score": 7
     },
     {
@@ -431,54 +479,6 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOUJDMnROZUthMW13YnFBdlRCb0YwZE50ZmlPQ2tOZTNzd0tpa1lUd24xZTRINTkyazN6VzBJZFNrSXQtUUkyRklNblNNVW9HeUFHMGpaRGE4WFZBb0hISk1yVVdTSzBEVk9UN2pTeWlsaUxndWozWUtIM29wZEJnWDhkRnZrTURfZy1la3VqeW52SnBQWGFpNGdLSG50ZzNWbzhVVmhybE44ZEpvMkE?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPOUJDMnROZUthMW13YnFBdlRCb0YwZE50ZmlPQ2tOZTNzd0tpa1lUd24xZTRINTkyazN6VzBJZFNrSXQtUUkyRklNblNNVW9HeUFHMGpaRGE4WFZBb0hISk1yVVdTSzBEVk9UN2pTeWlsaUxndWozWUtIM29wZEJnWDhkRnZrTURfZy1la3VqeW52SnBQWGFpNGdLSG50ZzNWbzhVVmhybE44ZEpvMkE?oc=5\" target=\"_blank\"&gt;Eversheds Sutherland’s global co-CEO Keith Froud talks Harvey, AI adoption and ROI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Legal IT Insider&lt;/font&gt;",
       "published": "2026-02-11T08:00:00.000Z",
-      "source_id": "google-news-harvey-luminance",
-      "source_name": "Google News: Harvey OR Luminance",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
-    },
-    {
-      "title": ":Harvey: and ElevenLabs Partner to Give Lawyers a Global Voice - Harvey",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxON1U5aHpIdnkyQk5fWEN4WVZnU0E5eWVqR0I3RWI2RkdFMjlrZ2RETmhFNzdnLXhET2sydHkwdm5HYnFQTmxIT3RRbXI4WmxzTWhHbGdYbXoteFZ3OUlVdFh5REdUdE93M2paejNvVjcyaXIta2swSHJ1UWIxMXF2a0M2SEhsd0dnNmVlNUNfczE?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxON1U5aHpIdnkyQk5fWEN4WVZnU0E5eWVqR0I3RWI2RkdFMjlrZ2RETmhFNzdnLXhET2sydHkwdm5HYnFQTmxIT3RRbXI4WmxzTWhHbGdYbXoteFZ3OUlVdFh5REdUdE93M2paejNvVjcyaXIta2swSHJ1UWIxMXF2a0M2SEhsd0dnNmVlNUNfczE?oc=5\" target=\"_blank\"&gt;:Harvey: and ElevenLabs Partner to Give Lawyers a Global Voice&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
-      "published": "2025-11-12T08:00:00.000Z",
-      "source_id": "google-news-harvey-luminance",
-      "source_name": "Google News: Harvey OR Luminance",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
-    },
-    {
-      "title": "Someone is Smoking Crack, or Harvey AI is Just a Proxy to Participate in an OpenAI $1 Trillion IPO? - Medium",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdTUxWl9Vcno3OFNsblRLb0YyVC1uS20xR256VDRpTnV0RFNWZ3gxREx5S3FGRk4zeV9LXzlOMDVubm1VWEJVMXdZQWluNklWaF9ObTRpaTJNbUtDUUduQ3RPV25xVGd0UXRkRjRNa1BzYzVqTXZua0FUYXpRZDNmN1FKNGpEbUN5YVh4V01HYkZITXpyVWtyYU91LTVnTWpyeFcxN2p3cTVkNWF0SzNUMzRDWDM1c29hU3JrWEE2VFRxay1Nc0R1WWlLb2hodkNSczVtTllnUHJ1a2x1?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdTUxWl9Vcno3OFNsblRLb0YyVC1uS20xR256VDRpTnV0RFNWZ3gxREx5S3FGRk4zeV9LXzlOMDVubm1VWEJVMXdZQWluNklWaF9ObTRpaTJNbUtDUUduQ3RPV25xVGd0UXRkRjRNa1BzYzVqTXZua0FUYXpRZDNmN1FKNGpEbUN5YVh4V01HYkZITXpyVWtyYU91LTVnTWpyeFcxN2p3cTVkNWF0SzNUMzRDWDM1c29hU3JrWEE2VFRxay1Nc0R1WWlLb2hodkNSczVtTllnUHJ1a2x1?oc=5\" target=\"_blank\"&gt;Someone is Smoking Crack, or Harvey AI is Just a Proxy to Participate in an OpenAI $1 Trillion IPO?&lt;/a&gt;&amp;nbsp;&amp;n",
-      "published": "2025-10-31T07:00:00.000Z",
-      "source_id": "google-news-harvey-luminance",
-      "source_name": "Google News: Harvey OR Luminance",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
-    },
-    {
-      "title": ":Harvey:’s iManage Integration - Harvey",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NWWt2LTZETkl6M2txVzBjWUd6SUJnYWZwN2NKYmJpXy1GS2pDUlc4Y2lNazJFRTYyYWc3MGhXQU1STHVDa2hLWE9rV000a0dkQUQzaXRpdEZ5UlVDTFhDSTEwMGM?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NWWt2LTZETkl6M2txVzBjWUd6SUJnYWZwN2NKYmJpXy1GS2pDUlc4Y2lNazJFRTYyYWc3MGhXQU1STHVDa2hLWE9rV000a0dkQUQzaXRpdEZ5UlVDTFhDSTEwMGM?oc=5\" target=\"_blank\"&gt;:Harvey:’s iManage Integration&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
-      "published": "2025-08-11T07:00:00.000Z",
-      "source_id": "google-news-harvey-luminance",
-      "source_name": "Google News: Harvey OR Luminance",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
-    },
-    {
-      "title": "Harvey Ai Number of Employees 2026 | Employee Count &amp; Headcount Data - Revelio Labs",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjWG9CNFREdTBDYkhqeWhzSk1pVGhScVduQk8zdG5LUzJVZ2ZaQXhUazJ3OXdPemZ4UjlENkxCOTYtTm5xOFZZZjlDb3doREwxdUdQMm9rbnhfYWhxLUwyRHJvSVFDeVdEWnc?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBjWG9CNFREdTBDYkhqeWhzSk1pVGhScVduQk8zdG5LUzJVZ2ZaQXhUazJ3OXdPemZ4UjlENkxCOTYtTm5xOFZZZjlDb3doREwxdUdQMm9rbnhfYWhxLUwyRHJvSVFDeVdEWnc?oc=5\" target=\"_blank\"&gt;Harvey Ai Number of Employees 2026 | Employee Count &amp; Headcount Data&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Revelio Labs&lt;/font&gt;",
-      "published": "2026-04-22T15:13:24.000Z",
       "source_id": "google-news-harvey-luminance",
       "source_name": "Google News: Harvey OR Luminance",
       "source_priority": "critical",
