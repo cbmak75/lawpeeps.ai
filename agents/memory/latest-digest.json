@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-12T13:44:01.556Z",
+  "generated": "2026-07-12T16:03:55.179Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 1036,
+  "total_scanned": 1014,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -91,18 +91,6 @@
       "relevance_score": 10
     },
     {
-      "title": "Microsoft joins Google in backing Go for AI agents — OpenAI and Anthropic lag",
-      "url": "https://thenewstack.io/microsoft-agent-framework-go/",
-      "summary": "Article URL: https://thenewstack.io/microsoft-agent-framework-go/ Comments URL: https://news.ycombinator.com/item?id=48881161 Points: 1 # Comments: 0",
-      "published": "2026-07-12T13:39:33.000Z",
-      "source_id": "hacker-news",
-      "source_name": "Hacker News (filtered)",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "Community",
-      "relevance_score": 10
-    },
-    {
       "title": "Harvey Forum + Shared Spaces, Clio, Spellbook, Legal Innovators - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWDZZRVZBVWx3ckRDeE96a1ZYWTJxVldZUHNwYWl2eHdrUDZKc2xXSmRYVHRheXlISnI5SVpKdmlYTHdOWVRwb3VneFBHMlZhcnlyOWNiZHJuUkNTLXhINlgwRnJzZlNCU0JYQ2k2R2RrUFN3dlRoT3k0ckM5NDRZRHZ2UjAzQWVfQXNRcm9lM2w2LVdmRUxvMmwyVXkzS2Y2XzlnTTNn?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNWDZZRVZBVWx3ckRDeE96a1ZYWTJxVldZUHNwYWl2eHdrUDZKc2xXSmRYVHRheXlISnI5SVpKdmlYTHdOWVRwb3VneFBHMlZhcnlyOWNiZHJuUkNTLXhINlgwRnJzZlNCU0JYQ2k2R2RrUFN3dlRoT3k0ckM5NDRZRHZ2UjAzQWVfQXNRcm9lM2w2LVdmRUxvMmwyVXkzS2Y2XzlnTTNn?oc=5\" target=\"_blank\"&gt;Harvey Forum + Shared Spaces, Clio, Spellbook, Legal Innovators&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
@@ -124,18 +112,6 @@
       "source_priority": "medium",
       "source_tier": "A",
       "source_category": "Aggregator",
-      "relevance_score": 9
-    },
-    {
-      "title": "An AI gateway that signs a receipt for every LLM response",
-      "url": "https://github.com/AxioRank/gateway/tree/main",
-      "summary": "Article URL: https://github.com/AxioRank/gateway/tree/main Comments URL: https://news.ycombinator.com/item?id=48880034 Points: 1 # Comments: 0",
-      "published": "2026-07-12T10:44:45.000Z",
-      "source_id": "hacker-news",
-      "source_name": "Hacker News (filtered)",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "Community",
       "relevance_score": 9
     },
     {
@@ -295,18 +271,6 @@
       "relevance_score": 7
     },
     {
-      "title": "Legal AI startup Eve hit with patent infringement lawsuit - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeC13U1l6NkhycTZLUllMeU91VFB1RTZSdHF0LXY2MHc5dzZRa3lvckQ3LUNYV19MZzBnLXV1aF91Tl9RSElRTi1sbEotMVpuYV9rREhJa05jMmR1eU5DTUFxdXRxVEZJdk13MUZJc1hoQTVVbnlRczJLTVJFa3U4V0NWOVNrWVVJLVRncXdKVVlQaS1zWEoweGl4Tk5BajMyWHhHSFliNXVRNDhaOXFRS3BnWQ?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNeC13U1l6NkhycTZLUllMeU91VFB1RTZSdHF0LXY2MHc5dzZRa3lvckQ3LUNYV19MZzBnLXV1aF91Tl9RSElRTi1sbEotMVpuYV9rREhJa05jMmR1eU5DTUFxdXRxVEZJdk13MUZJc1hoQTVVbnlRczJLTVJFa3U4V0NWOVNrWVVJLVRncXdKVVlQaS1zWEoweGl4Tk5BajMyWHhHSFliNXVRNDhaOXFRS3BnWQ?oc=5\" target=\"_blank\"&gt;Legal AI startup Eve hit with patent infringement lawsuit&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Reuters&lt;/font&gt;",
-      "published": "2026-06-17T07:00:00.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 7
-    },
-    {
       "title": "Chicago Cubs and Harvey Announce Partnership, Naming Harvey the Official Legal AI Platform - Harvey",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZUU3Q0tMckdwcHpjczFCRTE1VTI2SW9sRmZOVWJOM1FtZE4zdWh0Q0dKMEZha09qYzZKYWl6VnRpdExBOVI4WmNwSm52LVBfaWhJM0tHZHQwV1p2Z1FtM2U5eGwtazFMS0JNcXpieW9rNExuQy15VHNjbTlVOEE2UWM3VllLMXRLUFdHdjQyOFFXUk1LQ2NkQkNOb1dkZ0poaF9udjJETzJPaWVOd3l5dW9PYno0OVU?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNZUU3Q0tMckdwcHpjczFCRTE1VTI2SW9sRmZOVWJOM1FtZE4zdWh0Q0dKMEZha09qYzZKYWl6VnRpdExBOVI4WmNwSm52LVBfaWhJM0tHZHQwV1p2Z1FtM2U5eGwtazFMS0JNcXpieW9rNExuQy15VHNjbTlVOEE2UWM3VllLMXRLUFdHdjQyOFFXUk1LQ2NkQkNOb1dkZ0poaF9udjJETzJPaWVOd3l5dW9PYno0OVU?oc=5\" target=\"_blank\"&gt;Chicago Cubs and Harvey Announce Partnership, Naming Harvey the Official Legal AI Platform&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
@@ -352,18 +316,6 @@
       "source_priority": "critical",
       "source_tier": "B",
       "source_category": "Legal tech commentary",
-      "relevance_score": 7
-    },
-    {
-      "title": "Chasing new skills, going back to basics: how software engineers adapting to AI",
-      "url": "https://www.theguardian.com/technology/ng-interactive/2026/jul/12/software-developers-engineers-ai",
-      "summary": "Article URL: https://www.theguardian.com/technology/ng-interactive/2026/jul/12/software-developers-engineers-ai Comments URL: https://news.ycombinator.com/item?id=48880063 Points: 2 # Comments: 0",
-      "published": "2026-07-12T10:50:11.000Z",
-      "source_id": "hacker-news",
-      "source_name": "Hacker News (filtered)",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "Community",
       "relevance_score": 7
     },
     {
@@ -479,6 +431,54 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTHNMbHhCN1MxT09wblM2TERCUU5kNWZvNkxtbHRMSGU5aUR5UUpucmdNRXh2QmtKVWZ3LUVYdC1vemF6Ym9ydzNiR3VPNXdMX3g1bDRKaXVkdkswUUpweEpkODFoSmxMVUlpV3FjSGh0MVF1YzM2TVpEYkFSNERlakozQjdzYkUxcFJ5TA?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOTHNMbHhCN1MxT09wblM2TERCUU5kNWZvNkxtbHRMSGU5aUR5UUpucmdNRXh2QmtKVWZ3LUVYdC1vemF6Ym9ydzNiR3VPNXdMX3g1bDRKaXVkdkswUUpweEpkODFoSmxMVUlpV3FjSGh0MVF1YzM2TVpEYkFSNERlakozQjdzYkUxcFJ5TA?oc=5\" target=\"_blank\"&gt;Scott Stevenson Interview: Spellbook ACM&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
       "published": "2026-06-30T13:21:36.000Z",
+      "source_id": "google-news-contract-ai",
+      "source_name": "Google News: contract AI",
+      "source_priority": "medium",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
+    },
+    {
+      "title": "Spellbook Raises $50m + CEO, Scott Stevenson Interview - Artificial Lawyer",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNVRaTmNLME8ydnc5d1FmeWhSUjdhTDg2dmdqR28wQ2lwSzBJbTYtTU5XekVsTWdaLVE3N2hJQlU2bEVRWlNhVG1GRTlab0c4Zko3UmtZamxkRGw2WTNlRkU1X05LZEE3OEpkbEtkdldrNFRJVnlPcFZlVDRVbElnbExXVk9zenVfOFh3QWNORTdIQVQxQnBuUW84NA?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPNVRaTmNLME8ydnc5d1FmeWhSUjdhTDg2dmdqR28wQ2lwSzBJbTYtTU5XekVsTWdaLVE3N2hJQlU2bEVRWlNhVG1GRTlab0c4Zko3UmtZamxkRGw2WTNlRkU1X05LZEE3OEpkbEtkdldrNFRJVnlPcFZlVDRVbElnbExXVk9zenVfOFh3QWNORTdIQVQxQnBuUW84NA?oc=5\" target=\"_blank\"&gt;Spellbook Raises $50m + CEO, Scott Stevenson Interview&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
+      "published": "2025-10-09T07:00:00.000Z",
+      "source_id": "google-news-contract-ai",
+      "source_name": "Google News: contract AI",
+      "source_priority": "medium",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
+    },
+    {
+      "title": "Legaltech Rundown: Spellbook Launches iManage Integration, Norm Law Announces New Big Law Hires, and More - Law.com",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONHBNemtNcXRjaFFudFBJRG0xV0M5QlJ2dlhGWm0xcFluNjVJSW1GNVpVU09MQktGZ3Rwcy1scXBVdGNxeFRuY3oyVkRMZVBEMnBwV2szTTAybTZHVkJmdy1mcl9RTDBjRGx0RFVEeU9Kd3loZ2hRT0trWW1mUGJTY3BQUlBzQ203dzB4ZEFULTJUbGxFZXV5WmNLYnhBaW9ubE91WjVZbUpWZE1MemZfUkV3dkl6YWFhanJCVlA3UFVTZ2pna1ItMkJEelM0dnRDelhoZjVRcmN2ZHBXdWJickpUYjJlY0dDUFE?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxONHBNemtNcXRjaFFudFBJRG0xV0M5QlJ2dlhGWm0xcFluNjVJSW1GNVpVU09MQktGZ3Rwcy1scXBVdGNxeFRuY3oyVkRMZVBEMnBwV2szTTAybTZHVkJmdy1mcl9RTDBjRGx0RFVEeU9Kd3loZ2hRT0trWW1mUGJTY3BQUlBzQ203dzB4ZEFULTJUbGxFZXV5WmNLYnhBaW9ubE91WjVZbUpWZE1MemZfUkV3dkl6YWFhanJCVlA3UFVTZ2pna1ItMkJEelM0dnRDelhoZjVRcmN2ZHBXdWJickpUYjJlY0dDUFE?oc=5\" target=\"_blank\"&gt;Legaltech Rundown: Spellbook Launches iManage Integration, Norm Law Announces New Big Law Hires, and More&",
+      "published": "2026-05-01T07:00:00.000Z",
+      "source_id": "google-news-contract-ai",
+      "source_name": "Google News: contract AI",
+      "source_priority": "medium",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
+    },
+    {
+      "title": "Spellbook CEO Scott Stevenson exposes inflated ARR practices among AI startups - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBnT3VzYkcxWXNlV1ZHclJyTzJLMEVIUjVUdGt3ZzJOY3JHNmNHNTlKMVc3RkpmbzdZaHlQWFJydXdrOHY0QnZ1VzhMQldYUkhQTmZuXy1Ya2ZRcnVFM0VzVDJZSHNoVG1Ud0dDWVBxc19WejRl?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBnT3VzYkcxWXNlV1ZHclJyTzJLMEVIUjVUdGt3ZzJOY3JHNmNHNTlKMVc3RkpmbzdZaHlQWFJydXdrOHY0QnZ1VzhMQldYUkhQTmZuXy1Ya2ZRcnVFM0VzVDJZSHNoVG1Ud0dDWVBxc19WejRl?oc=5\" target=\"_blank\"&gt;Spellbook CEO Scott Stevenson exposes inflated ARR practices among AI startups&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Crypto Briefing&lt;/font&gt;",
+      "published": "2026-05-22T07:00:00.000Z",
+      "source_id": "google-news-contract-ai",
+      "source_name": "Google News: contract AI",
+      "source_priority": "medium",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
+    },
+    {
+      "title": "Spellbook on Track for US$100M ARR this Year - Entrevestor",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41c1pKSUJCbkYtbXFsUmpLV1dfeGNxSlZtU1B0bEZ6U0tZOXlSVFp5U3V5LTR6RG01amxrNUp1bFhRT0FhVmhxeS1oNks4Q1pfcFpWYXFqcHdaM29XWUtGVjJCdzYydTR3dFNadWtpNEQ1YlRNX2tNOV9BU0U?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE41c1pKSUJCbkYtbXFsUmpLV1dfeGNxSlZtU1B0bEZ6U0tZOXlSVFp5U3V5LTR6RG01amxrNUp1bFhRT0FhVmhxeS1oNks4Q1pfcFpWYXFqcHdaM29XWUtGVjJCdzYydTR3dFNadWtpNEQ1YlRNX2tNOV9BU0U?oc=5\" target=\"_blank\"&gt;Spellbook on Track for US$100M ARR this Year&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Entrevestor&lt;/font&gt;",
+      "published": "2026-03-04T08:00:00.000Z",
       "source_id": "google-news-contract-ai",
       "source_name": "Google News: contract AI",
       "source_priority": "medium",
