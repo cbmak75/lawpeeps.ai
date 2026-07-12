@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-12T16:04:03.765Z",
+  "generated": "2026-07-12T19:26:00.587Z",
   "cycle_type": "triage",
   "tier_filter": null,
   "shortlist_size": 1,
@@ -17,8 +17,8 @@
       "id": "google-news-contract-ai-0",
       "score": 6,
       "category": "Legal AI",
-      "suggested_angle": "Spellbook expands contract AI workflow integration via iManage partnership; Norm Law expands big law hiring",
-      "why_now": "Spellbook is a watch-list company; iManage integration is product adoption signal worth covering, though aggregated roundup format dilutes impact",
+      "suggested_angle": "Spellbook expands contract AI reach via iManage integration; Norm Law expansion signals consolidation among contract-focused players",
+      "why_now": "Spellbook integration news is fresh (1 May) and touches a watch-list company, but story appears to be aggregated roundup rather than primary source reporting",
       "verdict": "watch",
       "duplicate_of": null
     }
@@ -27,7 +27,7 @@
     "enqueue_count": 0,
     "watch_count": 1,
     "drop_count": 0,
-    "notes": "Spellbook iManage integration is product-adjacent news but sourced via Google News aggregation of Law.com roundup; recommend checking Law.com directly for primary reporting quality and whether iManage integration warrants standalone coverage. Norm Law hiring hire is marketing puff. Hold pending editor's review of source."
+    "notes": "Single item is aggregated roundup (Law.com Legaltech Rundown) covering Spellbook + iManage integration and Norm Law hires. Spellbook is watch-list company, but story lacks primary sourcing and appears to bundle multiple low-signal announcements. Verify whether Spellbook integration is independently significant or marketing footnote before enqueueing. Flag: recent coverage already includes multiple Spellbook/product launch stories (Clio Vincent, ClearyX, Anthropic plugin) which may create fatigue for incremental product news."
   },
   "enqueued": 0,
   "usage": {
@@ -38,7 +38,7 @@
       "ephemeral_5m_input_tokens": 0,
       "ephemeral_1h_input_tokens": 0
     },
-    "output_tokens": 261,
+    "output_tokens": 326,
     "service_tier": "standard",
     "inference_geo": "not_available"
   }
