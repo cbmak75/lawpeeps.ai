@@ -2103,7 +2103,62 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "Legaltech Rundown: Spellbook Launches iManage Integration, Norm Law Announces New Big Law Hires, and More - Law.com",
+      "slug": "legaltech-rundown-spellbook-launches-imanage-integration-norm-law-announces-new-",
+      "score": 6,
+      "category": "Legal AI",
+      "story_type": "news",
+      "research_brief": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxONHBNemtNcXRjaFFudFBJRG0xV0M5QlJ2dlhGWm0xcFluNjVJSW1GNVpVU09MQktGZ3Rwcy1scXBVdGNxeFRuY3oyVkRMZVBEMnBwV2szTTAybTZHVkJmdy1mcl9RTDBjRGx0RFVEeU9Kd3loZ2hRT0trWW1mUGJTY3BQUlBzQ203dzB4ZEFULTJUbGxFZXV5WmNLYnhBaW9ubE91WjVZbUpWZE1MemZfUkV3dkl6YWFhanJCVlA3UFVTZ2pna1ItMkJEelM0dnRDelhoZjVRcmN2ZHBXdWJickpUYjJlY0dDUFE?oc=5\" target=\"_blank\"&gt;Legaltech Rundown: Spellbook Launches iManage Integration, Norm Law Announces New Big Law Hires, and More&",
+      "primary_source": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONHBNemtNcXRjaFFudFBJRG0xV0M5QlJ2dlhGWm0xcFluNjVJSW1GNVpVU09MQktGZ3Rwcy1scXBVdGNxeFRuY3oyVkRMZVBEMnBwV2szTTAybTZHVkJmdy1mcl9RTDBjRGx0RFVEeU9Kd3loZ2hRT0trWW1mUGJTY3BQUlBzQ203dzB4ZEFULTJUbGxFZXV5WmNLYnhBaW9ubE91WjVZbUpWZE1MemZfUkV3dkl6YWFhanJCVlA3UFVTZ2pna1ItMkJEelM0dnRDelhoZjVRcmN2ZHBXdWJickpUYjJlY0dDUFE?oc=5",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "Spellbook expands contract AI reach via iManage integration; Norm Law signals big law adoption momentum",
+      "why_now": "Product integration announcement from watch-list company (Spellbook) with evidence of enterprise adoption, published 2026-05-01 and not yet covered",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Google News: contract AI",
+      "source_tier": "A",
+      "prefilter_score": 12,
+      "matched_terms": [
+        "Spellbook",
+        "iManage"
+      ],
+      "fingerprint": {
+        "entities": [
+          "spellbook",
+          "imanage"
+        ],
+        "numerics": [
+          "0m",
+          "09m",
+          "1m",
+          "9k",
+          "3bn"
+        ],
+        "keywords": [],
+        "title_tokens": [
+          "legaltech",
+          "rundown",
+          "spellbook",
+          "imanage",
+          "integration",
+          "norm",
+          "hires"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-07-12T21:58:29.838Z",
+      "queued_at": "2026-07-12T21:58:29.843Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-07-10T04:00:37.007Z"
+  "last_updated": "2026-07-12T21:58:29.843Z"
 }
