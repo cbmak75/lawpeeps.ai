@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-12T08:27:53.001Z",
+  "generated": "2026-07-12T10:39:22.728Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 1035,
+  "total_scanned": 1038,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -41,6 +41,18 @@
       "source_tier": "B",
       "source_category": "Legal operations",
       "relevance_score": 12
+    },
+    {
+      "title": "Show HN: Sanbox, batteries included sandboxes for AI agents",
+      "url": "https://sanbox.cloud",
+      "summary": "Hi HN, We are building Sanbox, a platform for running AI agents in isolated and resumable sandboxes. We use the OpenCode SDK as the harness, support reusable templates, and have a CLI that works with Codex, Claude Code, Cursor, CI, or your terminal. Each sandbox has MicroVM isolation, a persistent filesystem, and live trail of run events. Can also self-host if required for security/compliance. It's on the roadmap to add network ACL, secrets managements, LLM cost tracking & observability. We are ",
+      "published": "2026-07-12T10:16:21.000Z",
+      "source_id": "hacker-news",
+      "source_name": "Hacker News (filtered)",
+      "source_priority": "low",
+      "source_tier": "B",
+      "source_category": "Community",
+      "relevance_score": 11
     },
     {
       "title": "On LawNext: Legal Research for Everyone: Inside the CourtListener-Claude Partnership",
@@ -117,7 +129,7 @@
     {
       "title": "Inside the secret AI war between Silicon Valley and China",
       "url": "https://www.washingtonpost.com/national-security/2026/07/06/why-anthropic-alleges-chinese-firms-are-distilling-knowledge-claude/",
-      "summary": "Article URL: https://www.washingtonpost.com/national-security/2026/07/06/why-anthropic-alleges-chinese-firms-are-distilling-knowledge-claude/ Comments URL: https://news.ycombinator.com/item?id=48878812 Points: 1 # Comments: 1",
+      "summary": "Article URL: https://www.washingtonpost.com/national-security/2026/07/06/why-anthropic-alleges-chinese-firms-are-distilling-knowledge-claude/ Comments URL: https://news.ycombinator.com/item?id=48878812 Points: 3 # Comments: 1",
       "published": "2026-07-12T06:20:27.000Z",
       "source_id": "hacker-news",
       "source_name": "Hacker News (filtered)",
@@ -283,18 +295,6 @@
       "relevance_score": 8
     },
     {
-      "title": "The Legal AI Scaffold Changes Everything – Claude Study - Artificial Lawyer",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQU4tdGFPSGFaaGo0NGRvdnhxMUhYQ3pSd18td3lld2ZRd2xiQkVwWUQ0Z1lhR3IwdGstdE5STUVBTzdqdkxvbnhWUTVwZ0Y5MDNqT1hHV0RDUGVldzI5R2JrdEtaZ2NfYWNDVERjN1o5QWFqeGFTTEp6VDB1S19id3VoOUZUbzQ0eDdwNzJHNzdvYzRNWUh5cFV6UnhXOE0?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNQU4tdGFPSGFaaGo0NGRvdnhxMUhYQ3pSd18td3lld2ZRd2xiQkVwWUQ0Z1lhR3IwdGstdE5STUVBTzdqdkxvbnhWUTVwZ0Y5MDNqT1hHV0RDUGVldzI5R2JrdEtaZ2NfYWNDVERjN1o5QWFqeGFTTEp6VDB1S19id3VoOUZUbzQ0eDdwNzJHNzdvYzRNWUh5cFV6UnhXOE0?oc=5\" target=\"_blank\"&gt;The Legal AI Scaffold Changes Everything – Claude Study&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
-      "published": "2026-06-22T07:00:00.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 7
-    },
-    {
       "title": "Legal AI giant Harvey acquires Hexus as competition heats up in legal tech - TechCrunch",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWtsRnRNeWxYZWEwaERMRVJaRWVfQm41MzVDeDJBM1ZIOEstUW5DaTB5UUhjUXE5Sml2QU40RzdZaWlqeUpid3dELUpLTHlKbVNRNmRObWtrZ1dSSXd3R20wSDY3TkVUOHVwRzlZOTh1b1FraXZlNGpuUnBPcXdIU2oxbVZzMTZDVzVNMDRDcGR0NC1oQ2pfMGlUY25YSHBZaHJUTEljdzU5LWREa0E?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWtsRnRNeWxYZWEwaERMRVJaRWVfQm41MzVDeDJBM1ZIOEstUW5DaTB5UUhjUXE5Sml2QU40RzdZaWlqeUpid3dELUpLTHlKbVNRNmRObWtrZ1dSSXd3R20wSDY3TkVUOHVwRzlZOTh1b1FraXZlNGpuUnBPcXdIU2oxbVZzMTZDVzVNMDRDcGR0NC1oQ2pfMGlUY25YSHBZaHJUTEljdzU5LWREa0E?oc=5\" target=\"_blank\"&gt;Legal AI giant Harvey acquires Hexus as competition heats up in legal tech&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;TechCrunch&lt;/font&gt;",
@@ -391,18 +391,6 @@
       "relevance_score": 7
     },
     {
-      "title": "OpenAI Engineer's 'LOL' Moment Set Stage for Legal Fight with Apple",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-11/openai-engineer-s-lol-moment-set-stage-for-legal-fight-with-apple",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-07-11/openai-engineer-s-lol-moment-set-stage-for-legal-fight-with-apple Comments URL: https://news.ycombinator.com/item?id=48877830 Points: 3 # Comments: 1",
-      "published": "2026-07-12T02:49:15.000Z",
-      "source_id": "hacker-news",
-      "source_name": "Hacker News (filtered)",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "Community",
-      "relevance_score": 7
-    },
-    {
       "title": ":Harvey:’s Top 5 Product Releases of 2025 - Harvey",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxbTlSWkxnMmFXTHJVZ1c4d1RndE9Kc25mYms2dkxyOUl6R09HQU5VN0VkZEVEYzVLb2djeXhJSkVXTWtSRUx4dlJTRUlkWTFKb3o3Ukg0MzRRTXFXNy14dVNNLUl6cUxN?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxbTlSWkxnMmFXTHJVZ1c4d1RndE9Kc25mYms2dkxyOUl6R09HQU5VN0VkZEVEYzVLb2djeXhJSkVXTWtSRUx4dlJTRUlkWTFKb3o3Ukg0MzRRTXFXNy14dVNNLUl6cUxN?oc=5\" target=\"_blank\"&gt;:Harvey:’s Top 5 Product Releases of 2025&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
@@ -479,6 +467,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NWWt2LTZETkl6M2txVzBjWUd6SUJnYWZwN2NKYmJpXy1GS2pDUlc4Y2lNazJFRTYyYWc3MGhXQU1STHVDa2hLWE9rV000a0dkQUQzaXRpdEZ5UlVDTFhDSTEwMGM?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NWWt2LTZETkl6M2txVzBjWUd6SUJnYWZwN2NKYmJpXy1GS2pDUlc4Y2lNazJFRTYyYWc3MGhXQU1STHVDa2hLWE9rV000a0dkQUQzaXRpdEZ5UlVDTFhDSTEwMGM?oc=5\" target=\"_blank\"&gt;:Harvey:’s iManage Integration&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
       "published": "2025-08-11T07:00:00.000Z",
+      "source_id": "google-news-harvey-luminance",
+      "source_name": "Google News: Harvey OR Luminance",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
+    },
+    {
+      "title": "Harvey Ai Number of Employees 2026 | Employee Count &amp; Headcount Data - Revelio Labs",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjWG9CNFREdTBDYkhqeWhzSk1pVGhScVduQk8zdG5LUzJVZ2ZaQXhUazJ3OXdPemZ4UjlENkxCOTYtTm5xOFZZZjlDb3doREwxdUdQMm9rbnhfYWhxLUwyRHJvSVFDeVdEWnc?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBjWG9CNFREdTBDYkhqeWhzSk1pVGhScVduQk8zdG5LUzJVZ2ZaQXhUazJ3OXdPemZ4UjlENkxCOTYtTm5xOFZZZjlDb3doREwxdUdQMm9rbnhfYWhxLUwyRHJvSVFDeVdEWnc?oc=5\" target=\"_blank\"&gt;Harvey Ai Number of Employees 2026 | Employee Count &amp; Headcount Data&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Revelio Labs&lt;/font&gt;",
+      "published": "2026-04-22T15:13:24.000Z",
       "source_id": "google-news-harvey-luminance",
       "source_name": "Google News: Harvey OR Luminance",
       "source_priority": "critical",
