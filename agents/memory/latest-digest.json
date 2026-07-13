@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-13T19:39:23.514Z",
+  "generated": "2026-07-13T22:01:59.509Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 1199,
+  "total_scanned": 1196,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -331,30 +331,6 @@
       "relevance_score": 7
     },
     {
-      "title": "Kord secures £6.4m to combat AI-driven fraud and process payments in regulated industries",
-      "url": "https://www.legalfutures.co.uk/associate-news/kord-secures-6-4m-to-combat-ai-driven-fraud-and-process-payments-in-regulated-industries",
-      "summary": "The platform provides the infrastructure to manage the full lifecycle of a transaction, preventing delays for estate agents &#038; letting agents, law firms &#038; conveyancers, and financial services companies. The post Kord secures £6.4m to combat AI-driven fraud and process payments in regulated industries appeared first on Legal Futures .",
-      "published": "2026-07-13T15:22:04.000Z",
-      "source_id": "legal-futures",
-      "source_name": "Legal Futures",
-      "source_priority": "high",
-      "source_tier": "B",
-      "source_category": "Legal business",
-      "relevance_score": 7
-    },
-    {
-      "title": "Double figure profit rise at Eversheds",
-      "url": "https://www.lawgazette.co.uk/news/double-figure-profit-rise-at-eversheds/5127350.article",
-      "summary": "Strong growth in corporate finance area boosts figures at top-50 firm.",
-      "published": "2026-07-13T14:03:00.000Z",
-      "source_id": "law-society-gazette",
-      "source_name": "Law Society Gazette",
-      "source_priority": "medium",
-      "source_tier": "B",
-      "source_category": "Legal profession",
-      "relevance_score": 7
-    },
-    {
       "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
       "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
       "summary": "OpenAI accused of conspiring with former Apple employees to steal trade secrets.",
@@ -365,18 +341,6 @@
       "source_tier": "B",
       "source_category": "General AI",
       "relevance_score": 7
-    },
-    {
-      "title": "Filevine Partners with Codes Health to Bring AI-Native Medical Record Retrieval to Legal Teams - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbzd3UzRhUm5IOEhyd3djelpMT19DSXFYb0Y1cWFCWndVeFY1SGpTWXluT3VWMDZKZzV2M3BGMVFsYk5sWHdzbzJBaGZSNXNWaEgxcElZRVVXaks3NFlZU1dMdG5fSnl5VEVoMHFGa2RvWC1rRVQtbi1TYnFBM3A5QjBGdmtoMThaX3ZlMGFDemlqMGVPR2ZNQVdCOHA1UW9BSjExWWstcUl5Zm9NeDZDYW9pMV9qb1lyLWR5ZVdpX2hOeXpVR0cxajc2bWgxX2ZyZ19QN0JVRnB2V0NwSGFpVDJxUWM?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbzd3UzRhUm5IOEhyd3djelpMT19DSXFYb0Y1cWFCWndVeFY1SGpTWXluT3VWMDZKZzV2M3BGMVFsYk5sWHdzbzJBaGZSNXNWaEgxcElZRVVXaks3NFlZU1dMdG5fSnl5VEVoMHFGa2RvWC1rRVQtbi1TYnFBM3A5QjBGdmtoMThaX3ZlMGFDemlqMGVPR2ZNQVdCOHA1UW9BSjExWWstcUl5Zm9NeDZDYW9pMV9qb1lyLWR5ZVdpX2hOeXpVR0cxajc2bWgxX2ZyZ19QN0JVRnB2V0NwSGFpVDJxUWM?oc=5\" target=\"_blank\"&gt;Filevine Partners with Codes Health to Bring AI-Native Medical Record Retrieval to Legal Teams&lt;/a&gt;&amp;nbsp;",
-      "published": "2026-07-13T15:01:00.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
     },
     {
       "title": ":Harvey:’s Top 5 Product Releases of 2025 - Harvey",
@@ -482,6 +446,42 @@
       "source_id": "google-news-harvey-luminance",
       "source_name": "Google News: Harvey OR Luminance",
       "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
+    },
+    {
+      "title": "Spellbook Raises $50m + CEO, Scott Stevenson Interview - Artificial Lawyer",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNVRaTmNLME8ydnc5d1FmeWhSUjdhTDg2dmdqR28wQ2lwSzBJbTYtTU5XekVsTWdaLVE3N2hJQlU2bEVRWlNhVG1GRTlab0c4Zko3UmtZamxkRGw2WTNlRkU1X05LZEE3OEpkbEtkdldrNFRJVnlPcFZlVDRVbElnbExXVk9zenVfOFh3QWNORTdIQVQxQnBuUW84NA?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPNVRaTmNLME8ydnc5d1FmeWhSUjdhTDg2dmdqR28wQ2lwSzBJbTYtTU5XekVsTWdaLVE3N2hJQlU2bEVRWlNhVG1GRTlab0c4Zko3UmtZamxkRGw2WTNlRkU1X05LZEE3OEpkbEtkdldrNFRJVnlPcFZlVDRVbElnbExXVk9zenVfOFh3QWNORTdIQVQxQnBuUW84NA?oc=5\" target=\"_blank\"&gt;Spellbook Raises $50m + CEO, Scott Stevenson Interview&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
+      "published": "2025-10-09T07:00:00.000Z",
+      "source_id": "google-news-contract-ai",
+      "source_name": "Google News: contract AI",
+      "source_priority": "medium",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
+    },
+    {
+      "title": "Legaltech Rundown: Spellbook Launches iManage Integration, Norm Law Announces New Big Law Hires, and More - Law.com",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONHBNemtNcXRjaFFudFBJRG0xV0M5QlJ2dlhGWm0xcFluNjVJSW1GNVpVU09MQktGZ3Rwcy1scXBVdGNxeFRuY3oyVkRMZVBEMnBwV2szTTAybTZHVkJmdy1mcl9RTDBjRGx0RFVEeU9Kd3loZ2hRT0trWW1mUGJTY3BQUlBzQ203dzB4ZEFULTJUbGxFZXV5WmNLYnhBaW9ubE91WjVZbUpWZE1MemZfUkV3dkl6YWFhanJCVlA3UFVTZ2pna1ItMkJEelM0dnRDelhoZjVRcmN2ZHBXdWJickpUYjJlY0dDUFE?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxONHBNemtNcXRjaFFudFBJRG0xV0M5QlJ2dlhGWm0xcFluNjVJSW1GNVpVU09MQktGZ3Rwcy1scXBVdGNxeFRuY3oyVkRMZVBEMnBwV2szTTAybTZHVkJmdy1mcl9RTDBjRGx0RFVEeU9Kd3loZ2hRT0trWW1mUGJTY3BQUlBzQ203dzB4ZEFULTJUbGxFZXV5WmNLYnhBaW9ubE91WjVZbUpWZE1MemZfUkV3dkl6YWFhanJCVlA3UFVTZ2pna1ItMkJEelM0dnRDelhoZjVRcmN2ZHBXdWJickpUYjJlY0dDUFE?oc=5\" target=\"_blank\"&gt;Legaltech Rundown: Spellbook Launches iManage Integration, Norm Law Announces New Big Law Hires, and More&",
+      "published": "2026-05-01T07:00:00.000Z",
+      "source_id": "google-news-contract-ai",
+      "source_name": "Google News: contract AI",
+      "source_priority": "medium",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
+    },
+    {
+      "title": "Spellbook CEO Scott Stevenson exposes inflated ARR practices among AI startups - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBnT3VzYkcxWXNlV1ZHclJyTzJLMEVIUjVUdGt3ZzJOY3JHNmNHNTlKMVc3RkpmbzdZaHlQWFJydXdrOHY0QnZ1VzhMQldYUkhQTmZuXy1Ya2ZRcnVFM0VzVDJZSHNoVG1Ud0dDWVBxc19WejRl?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBnT3VzYkcxWXNlV1ZHclJyTzJLMEVIUjVUdGt3ZzJOY3JHNmNHNTlKMVc3RkpmbzdZaHlQWFJydXdrOHY0QnZ1VzhMQldYUkhQTmZuXy1Ya2ZRcnVFM0VzVDJZSHNoVG1Ud0dDWVBxc19WejRl?oc=5\" target=\"_blank\"&gt;Spellbook CEO Scott Stevenson exposes inflated ARR practices among AI startups&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Crypto Briefing&lt;/font&gt;",
+      "published": "2026-05-22T07:00:00.000Z",
+      "source_id": "google-news-contract-ai",
+      "source_name": "Google News: contract AI",
+      "source_priority": "medium",
       "source_tier": "A",
       "source_category": "Aggregator",
       "relevance_score": 6

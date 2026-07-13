@@ -1,53 +1,44 @@
 {
-  "generated": "2026-07-13T19:39:33.688Z",
+  "generated": "2026-07-13T22:02:08.029Z",
   "cycle_type": "triage",
   "tier_filter": null,
-  "shortlist_size": 2,
+  "shortlist_size": 1,
   "prefilter": {
     "total": 40,
-    "accepted": 2,
+    "accepted": 1,
     "borderline": 0,
-    "rejected": 38,
-    "rejected_as_duplicate": 38,
-    "accept_rate": 5
+    "rejected": 39,
+    "rejected_as_duplicate": 39,
+    "accept_rate": 3
   },
   "model": "claude-haiku-4-5-20251001",
   "picks": [
     {
-      "id": "law-society-gazette-0",
-      "score": 2,
-      "category": "Social",
-      "suggested_angle": "Financial performance at Eversheds; no AI or legal tech angle detected.",
-      "why_now": "Routine firm earnings coverage unrelated to editorial focus.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "ars-technica-ai-1",
+      "id": "ars-technica-ai-0",
       "score": 3,
-      "category": "Legal AI",
-      "suggested_angle": "Apple-OpenAI trade secret litigation; potential implications for AI systems used in legal practice.",
-      "why_now": "Breaking litigation news, but low immediate relevance to UK legal AI regulation or adoption; watch for discovery phase if it surfaces legal-specific claims.",
-      "verdict": "watch",
+      "category": "Social",
+      "suggested_angle": "IP litigation between tech giants tangentially involves OpenAI but has no legal AI or legal tech angle",
+      "why_now": "Published today but is generic tech IP litigation, not relevant to legal AI ecosystem or legal tech verticals",
+      "verdict": "drop",
       "duplicate_of": null
     }
   ],
   "summary": {
     "enqueue_count": 0,
-    "watch_count": 1,
+    "watch_count": 0,
     "drop_count": 1,
-    "notes": "Weak shortlist: Eversheds story is firm financials with no legal tech angle; Apple-OpenAI suit is tech IP litigation with unclear legal-sector relevance. Watch ars-technica item for discovery or legal-practice implications."
+    "notes": "Apple v OpenAI trade secrets case lacks legal AI, legal tech, regulation, or immigration law hook. Generic tech IP story outside editorial scope."
   },
   "enqueued": 0,
   "usage": {
-    "input_tokens": 2317,
+    "input_tokens": 2193,
     "cache_creation_input_tokens": 0,
     "cache_read_input_tokens": 0,
     "cache_creation": {
       "ephemeral_5m_input_tokens": 0,
       "ephemeral_1h_input_tokens": 0
     },
-    "output_tokens": 333,
+    "output_tokens": 208,
     "service_tier": "standard",
     "inference_geo": "not_available"
   }
