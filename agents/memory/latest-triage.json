@@ -1,80 +1,53 @@
 {
-  "generated": "2026-07-13T17:19:47.767Z",
+  "generated": "2026-07-13T19:39:33.688Z",
   "cycle_type": "triage",
   "tier_filter": null,
-  "shortlist_size": 5,
+  "shortlist_size": 2,
   "prefilter": {
     "total": 40,
-    "accepted": 5,
+    "accepted": 2,
     "borderline": 0,
-    "rejected": 35,
-    "rejected_as_duplicate": 35,
-    "accept_rate": 13
+    "rejected": 38,
+    "rejected_as_duplicate": 38,
+    "accept_rate": 5
   },
   "model": "claude-haiku-4-5-20251001",
   "picks": [
     {
       "id": "law-society-gazette-0",
-      "score": 3,
-      "category": "Adoption",
-      "suggested_angle": "Top 50 firm profit growth; unclear if AI-driven or traditional practice expansion",
-      "why_now": "Published today but is general financial reporting on a major firm without AI-specific angle despite keyword match",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "hacker-news-1",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "AI-generated vulnerability false positives in security testing",
-      "why_now": "Low engagement (4 points, 0 comments); broader AI/security topic tangential to legal vertical",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "hacker-news-2",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "Developer tool for multi-provider AI chat isolation",
-      "why_now": "Generic DevOps/AI development template; no legal vertical connection despite keyword matching",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "lawsites-3",
-      "score": 7,
-      "category": "Legal AI",
-      "suggested_angle": "Litera CTO on agentic AI acceleration of legal product development and adoption metrics",
-      "why_now": "Credible primary source (Litera executive byline) on real-world AI adoption outcomes in legal tech; actionable case study for industry impact",
-      "verdict": "enqueue",
-      "duplicate_of": null
-    },
-    {
-      "id": "above-the-law-legaltech-4",
       "score": 2,
       "category": "Social",
-      "suggested_angle": "Daily legal news roundup",
-      "why_now": "Generic aggregation digest; contains no original reporting on legal AI, tech, or regulation",
+      "suggested_angle": "Financial performance at Eversheds; no AI or legal tech angle detected.",
+      "why_now": "Routine firm earnings coverage unrelated to editorial focus.",
       "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "ars-technica-ai-1",
+      "score": 3,
+      "category": "Legal AI",
+      "suggested_angle": "Apple-OpenAI trade secret litigation; potential implications for AI systems used in legal practice.",
+      "why_now": "Breaking litigation news, but low immediate relevance to UK legal AI regulation or adoption; watch for discovery phase if it surfaces legal-specific claims.",
+      "verdict": "watch",
       "duplicate_of": null
     }
   ],
   "summary": {
-    "enqueue_count": 1,
-    "watch_count": 0,
-    "drop_count": 4,
-    "notes": "Only Litera CTO piece meets bar: direct primary source on agentic AI adoption and delivery acceleration in legal product development. Remainder are off-vertical, low-engagement, or generic aggregation."
+    "enqueue_count": 0,
+    "watch_count": 1,
+    "drop_count": 1,
+    "notes": "Weak shortlist: Eversheds story is firm financials with no legal tech angle; Apple-OpenAI suit is tech IP litigation with unclear legal-sector relevance. Watch ars-technica item for discovery or legal-practice implications."
   },
-  "enqueued": 1,
+  "enqueued": 0,
   "usage": {
-    "input_tokens": 2867,
+    "input_tokens": 2317,
     "cache_creation_input_tokens": 0,
     "cache_read_input_tokens": 0,
     "cache_creation": {
       "ephemeral_5m_input_tokens": 0,
       "ephemeral_1h_input_tokens": 0
     },
-    "output_tokens": 626,
+    "output_tokens": 333,
     "service_tier": "standard",
     "inference_geo": "not_available"
   }

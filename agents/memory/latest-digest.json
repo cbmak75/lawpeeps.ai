@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-13T17:19:40.962Z",
+  "generated": "2026-07-13T19:39:23.514Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 1209,
+  "total_scanned": 1199,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -331,18 +331,6 @@
       "relevance_score": 7
     },
     {
-      "title": "Morning Docket: 07.13.26",
-      "url": "https://abovethelaw.com/2026/07/morning-docket-07-13-26/",
-      "summary": "* Lindsey Graham died over the weekend, removing a key Trump ally from the Judiciary Committee in advance of Todd Blanche's already controversial nomination hearings. [ PBS ] * Civil rights coalition calls for Senate to reject Blanche. [ Ms ] * Audit reveals the broken California alternative bar exam process. [ ABA Journal ] * Judges embark on whistlestop tour to explain the increasing threats against the judiciary. [ Washington Post ] * DOJ opens investigation into UAW president. If only a work",
-      "published": "2026-07-13T13:25:31.000Z",
-      "source_id": "above-the-law-legaltech",
-      "source_name": "Above the Law (Legal Tech)",
-      "source_priority": "high",
-      "source_tier": "B",
-      "source_category": "Legal profession",
-      "relevance_score": 7
-    },
-    {
       "title": "Kord secures £6.4m to combat AI-driven fraud and process payments in regulated industries",
       "url": "https://www.legalfutures.co.uk/associate-news/kord-secures-6-4m-to-combat-ai-driven-fraud-and-process-payments-in-regulated-industries",
       "summary": "The platform provides the infrastructure to manage the full lifecycle of a transaction, preventing delays for estate agents &#038; letting agents, law firms &#038; conveyancers, and financial services companies. The post Kord secures £6.4m to combat AI-driven fraud and process payments in regulated industries appeared first on Legal Futures .",
@@ -367,40 +355,16 @@
       "relevance_score": 7
     },
     {
-      "title": "Even if 90% of AI-discovered vulnerabilities are made up, it's still terrifying",
-      "url": "https://kerkour.com/ai-slop-vulnerabilities-terrifying",
-      "summary": "Article URL: https://kerkour.com/ai-slop-vulnerabilities-terrifying Comments URL: https://news.ycombinator.com/item?id=48894922 Points: 4 # Comments: 0",
-      "published": "2026-07-13T16:19:31.000Z",
-      "source_id": "hacker-news",
-      "source_name": "Hacker News (filtered)",
+      "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
+      "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
+      "summary": "OpenAI accused of conspiring with former Apple employees to steal trade secrets.",
+      "published": "2026-07-13T19:17:51.000Z",
+      "source_id": "ars-technica-ai",
+      "source_name": "Ars Technica AI",
       "source_priority": "low",
       "source_tier": "B",
-      "source_category": "Community",
+      "source_category": "General AI",
       "relevance_score": 7
-    },
-    {
-      "title": "Show HN: Containerized AI development with cross-compatibility",
-      "url": "https://github.com/daitangio/take-ai-control",
-      "summary": "I need to study different harnesses CLI, and to find a way to switch from one provider to another. I built a template repository to govern your AI chats with more grip than usual. It leverages PI.dev coding agent and an aggressive isolation done with Docker + VS Code So far works on Linux and MacOS, and should also works on WSL2. The project uses a container to run your preferred AI harnesses CLI. The container is optional, but protect your disk from bad things (I noticed rm -rf is always the pr",
-      "published": "2026-07-13T16:03:14.000Z",
-      "source_id": "hacker-news",
-      "source_name": "Hacker News (filtered)",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "Community",
-      "relevance_score": 7
-    },
-    {
-      "title": "GVA TECH survey shows 90%+ legal AI use, Copilot leads - International Business Times",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVFgweUpTZE5CdHFNclFTWldZTk5ZcWg5SjUtdS1nalpfNnZVeWFrNTdEbUZfNU9wemhsa0I3STVXdExYTUJvekxxUU5nd01nSWhzc2VkS01XaUpWRWs0Q1JQR1psdlQ3OUw3UDRYX0hTdFZaMGVoMzEtcHZhRGdNNE1lR0ZHaGlV?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVFgweUpTZE5CdHFNclFTWldZTk5ZcWg5SjUtdS1nalpfNnZVeWFrNTdEbUZfNU9wemhsa0I3STVXdExYTUJvekxxUU5nd01nSWhzc2VkS01XaUpWRWs0Q1JQR1psdlQ3OUw3UDRYX0hTdFZaMGVoMzEtcHZhRGdNNE1lR0ZHaGlV?oc=5\" target=\"_blank\"&gt;GVA TECH survey shows 90%+ legal AI use, Copilot leads&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;International Business Times&lt;/font&gt;",
-      "published": "2026-07-13T12:36:36.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
     },
     {
       "title": "Filevine Partners with Codes Health to Bring AI-Native Medical Record Retrieval to Legal Teams - PR Newswire",
@@ -479,6 +443,42 @@
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdTUxWl9Vcno3OFNsblRLb0YyVC1uS20xR256VDRpTnV0RFNWZ3gxREx5S3FGRk4zeV9LXzlOMDVubm1VWEJVMXdZQWluNklWaF9ObTRpaTJNbUtDUUduQ3RPV25xVGd0UXRkRjRNa1BzYzVqTXZua0FUYXpRZDNmN1FKNGpEbUN5YVh4V01HYkZITXpyVWtyYU91LTVnTWpyeFcxN2p3cTVkNWF0SzNUMzRDWDM1c29hU3JrWEE2VFRxay1Nc0R1WWlLb2hodkNSczVtTllnUHJ1a2x1?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdTUxWl9Vcno3OFNsblRLb0YyVC1uS20xR256VDRpTnV0RFNWZ3gxREx5S3FGRk4zeV9LXzlOMDVubm1VWEJVMXdZQWluNklWaF9ObTRpaTJNbUtDUUduQ3RPV25xVGd0UXRkRjRNa1BzYzVqTXZua0FUYXpRZDNmN1FKNGpEbUN5YVh4V01HYkZITXpyVWtyYU91LTVnTWpyeFcxN2p3cTVkNWF0SzNUMzRDWDM1c29hU3JrWEE2VFRxay1Nc0R1WWlLb2hodkNSczVtTllnUHJ1a2x1?oc=5\" target=\"_blank\"&gt;Someone is Smoking Crack, or Harvey AI is Just a Proxy to Participate in an OpenAI $1 Trillion IPO?&lt;/a&gt;&amp;nbsp;&amp;n",
       "published": "2025-10-31T07:00:00.000Z",
+      "source_id": "google-news-harvey-luminance",
+      "source_name": "Google News: Harvey OR Luminance",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
+    },
+    {
+      "title": ":Harvey:’s iManage Integration - Harvey",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NWWt2LTZETkl6M2txVzBjWUd6SUJnYWZwN2NKYmJpXy1GS2pDUlc4Y2lNazJFRTYyYWc3MGhXQU1STHVDa2hLWE9rV000a0dkQUQzaXRpdEZ5UlVDTFhDSTEwMGM?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NWWt2LTZETkl6M2txVzBjWUd6SUJnYWZwN2NKYmJpXy1GS2pDUlc4Y2lNazJFRTYyYWc3MGhXQU1STHVDa2hLWE9rV000a0dkQUQzaXRpdEZ5UlVDTFhDSTEwMGM?oc=5\" target=\"_blank\"&gt;:Harvey:’s iManage Integration&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
+      "published": "2025-08-11T07:00:00.000Z",
+      "source_id": "google-news-harvey-luminance",
+      "source_name": "Google News: Harvey OR Luminance",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
+    },
+    {
+      "title": "Harvey Ai Number of Employees 2026 | Employee Count &amp; Headcount Data - Revelio Labs",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjWG9CNFREdTBDYkhqeWhzSk1pVGhScVduQk8zdG5LUzJVZ2ZaQXhUazJ3OXdPemZ4UjlENkxCOTYtTm5xOFZZZjlDb3doREwxdUdQMm9rbnhfYWhxLUwyRHJvSVFDeVdEWnc?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBjWG9CNFREdTBDYkhqeWhzSk1pVGhScVduQk8zdG5LUzJVZ2ZaQXhUazJ3OXdPemZ4UjlENkxCOTYtTm5xOFZZZjlDb3doREwxdUdQMm9rbnhfYWhxLUwyRHJvSVFDeVdEWnc?oc=5\" target=\"_blank\"&gt;Harvey Ai Number of Employees 2026 | Employee Count &amp; Headcount Data&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Revelio Labs&lt;/font&gt;",
+      "published": "2026-04-22T15:13:24.000Z",
+      "source_id": "google-news-harvey-luminance",
+      "source_name": "Google News: Harvey OR Luminance",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
+    },
+    {
+      "title": "Preview: Access :Harvey:, Wherever You’re Working - Harvey",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0djUyLXFEbzcwVDBaN3k4T0FOX0pBTzRyLXBka01pN2VhYlFqTEdaVkxsYUM1aUVsb0FMUm9pVElZUUNVdXE3SU1vd3Z5RlVURFhmR0RMVFlJQmtZMW5Oa0VB?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0djUyLXFEbzcwVDBaN3k4T0FOX0pBTzRyLXBka01pN2VhYlFqTEdaVkxsYUM1aUVsb0FMUm9pVElZUUNVdXE3SU1vd3Z5RlVURFhmR0RMVFlJQmtZMW5Oa0VB?oc=5\" target=\"_blank\"&gt;Preview: Access :Harvey:, Wherever You’re Working&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
+      "published": "2025-09-10T07:00:00.000Z",
       "source_id": "google-news-harvey-luminance",
       "source_name": "Google News: Harvey OR Luminance",
       "source_priority": "critical",
