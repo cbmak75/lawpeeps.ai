@@ -1,152 +1,80 @@
 {
-  "generated": "2026-07-13T14:51:59.004Z",
+  "generated": "2026-07-13T17:19:47.767Z",
   "cycle_type": "triage",
   "tier_filter": null,
-  "shortlist_size": 13,
+  "shortlist_size": 5,
   "prefilter": {
     "total": 40,
-    "accepted": 13,
+    "accepted": 5,
     "borderline": 0,
-    "rejected": 27,
-    "rejected_as_duplicate": 27,
-    "accept_rate": 33
+    "rejected": 35,
+    "rejected_as_duplicate": 35,
+    "accept_rate": 13
   },
   "model": "claude-haiku-4-5-20251001",
   "picks": [
     {
-      "id": "law-society-gazette-1",
+      "id": "law-society-gazette-0",
       "score": 3,
       "category": "Adoption",
-      "suggested_angle": "Eversheds profit growth—does it reflect AI efficiency gains or pure market expansion?",
-      "why_now": "Firm financials are reported regularly; no AI angle evident from summary.",
+      "suggested_angle": "Top 50 firm profit growth; unclear if AI-driven or traditional practice expansion",
+      "why_now": "Published today but is general financial reporting on a major firm without AI-specific angle despite keyword match",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
-      "id": "arxiv-cs-ai-0",
+      "id": "hacker-news-1",
       "score": 2,
       "category": "Research",
-      "suggested_angle": "Academic paper on LLM reverse-engineering benchmarks.",
-      "why_now": "Pure CS research with no legal application angle; prefilter catch on 'Eve' and 'LLM' is noise.",
+      "suggested_angle": "AI-generated vulnerability false positives in security testing",
+      "why_now": "Low engagement (4 points, 0 comments); broader AI/security topic tangential to legal vertical",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
-      "id": "arxiv-cs-ai-2",
+      "id": "hacker-news-2",
       "score": 2,
       "category": "Research",
-      "suggested_angle": "Academic work on auditable LLM agents for scientific discovery.",
-      "why_now": "CS research, not legal AI; no legal tech or regulatory hook.",
+      "suggested_angle": "Developer tool for multi-provider AI chat isolation",
+      "why_now": "Generic DevOps/AI development template; no legal vertical connection despite keyword matching",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
-      "id": "arxiv-cs-ai-3",
-      "score": 1,
-      "category": "Research",
-      "suggested_angle": "Heterogeneous LLM coordination over computing networks.",
-      "why_now": "Infrastructure research with no legal relevance.",
-      "verdict": "drop",
+      "id": "lawsites-3",
+      "score": 7,
+      "category": "Legal AI",
+      "suggested_angle": "Litera CTO on agentic AI acceleration of legal product development and adoption metrics",
+      "why_now": "Credible primary source (Litera executive byline) on real-world AI adoption outcomes in legal tech; actionable case study for industry impact",
+      "verdict": "enqueue",
       "duplicate_of": null
     },
     {
-      "id": "arxiv-cs-ai-4",
-      "score": 1,
-      "category": "Research",
-      "suggested_angle": "Multi-agent LLM collaboration for fictional worldbuilding.",
-      "why_now": "Creative AI; no legal application.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-5",
+      "id": "above-the-law-legaltech-4",
       "score": 2,
-      "category": "Research",
-      "suggested_angle": "LLM agent for solving open mathematical problems.",
-      "why_now": "Math-focused; potential relevance to legal reasoning but no explicit legal framing.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-6",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "Auction-based task allocation for LLM agents.",
-      "why_now": "General LLM orchestration technique, not legal-specific.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-7",
-      "score": 1,
-      "category": "Research",
-      "suggested_angle": "Pre-training corpus for biology LLMs.",
-      "why_now": "Domain-specific LLM training, no legal relevance.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "above-the-law-legaltech-8",
-      "score": 2,
-      "category": "Policy",
-      "suggested_angle": "Generic legal news aggregation, primarily US politics with no tech focus.",
-      "why_now": "Linkbait aggregation bundle; judicial confirmation coverage is not legal tech or AI.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-9",
-      "score": 1,
-      "category": "Research",
-      "suggested_angle": "KV-Cache transfer for process reward modeling in multi-agent systems.",
-      "why_now": "Efficiency optimization for LLM inference; no legal sector angle.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-10",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "Verification protocols for deployed LLM agent context drift.",
-      "why_now": "Operational AI safety; tangential to legal AI verification concerns but not legal-specific.",
-      "verdict": "watch",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-11",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "Benchmark for LLM agents in clinical decision-making.",
-      "why_now": "Healthcare AI benchmarking; no legal relevance, though medical law parallels exist.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-12",
-      "score": 1,
-      "category": "Research",
-      "suggested_angle": "Inference acceleration via sparse weight matrices.",
-      "why_now": "LLM optimization infrastructure; no legal application.",
+      "category": "Social",
+      "suggested_angle": "Daily legal news roundup",
+      "why_now": "Generic aggregation digest; contains no original reporting on legal AI, tech, or regulation",
       "verdict": "drop",
       "duplicate_of": null
     }
   ],
   "summary": {
-    "enqueue_count": 0,
-    "watch_count": 1,
-    "drop_count": 12,
-    "notes": "Shortlist is 92% arXiv CS papers with zero legal AI relevance (prefilter keyword bleed on 'Eve', 'LLM'), one finance firm bulletin, one political aggregation. Only arxiv-cs-ai-10 on LLM agentic context verification has tangential relevance to open thread on AI oversight in legal systems; flag for watch if editor thinks foundational model behavior papers belong in coverage. Otherwise, no picks."
+    "enqueue_count": 1,
+    "watch_count": 0,
+    "drop_count": 4,
+    "notes": "Only Litera CTO piece meets bar: direct primary source on agentic AI adoption and delivery acceleration in legal product development. Remainder are off-vertical, low-engagement, or generic aggregation."
   },
-  "enqueued": 0,
+  "enqueued": 1,
   "usage": {
-    "input_tokens": 4329,
+    "input_tokens": 2867,
     "cache_creation_input_tokens": 0,
     "cache_read_input_tokens": 0,
     "cache_creation": {
       "ephemeral_5m_input_tokens": 0,
       "ephemeral_1h_input_tokens": 0
     },
-    "output_tokens": 1422,
+    "output_tokens": 626,
     "service_tier": "standard",
     "inference_geo": "not_available"
   }

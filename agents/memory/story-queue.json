@@ -2158,7 +2158,60 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "The AI Productivity Inflection: How the Agentic PDLC Accelerated Delivery and Drove AI Adoption",
+      "slug": "the-ai-productivity-inflection-how-the-agentic-pdlc-accelerated-delivery-and-dro",
+      "score": 7,
+      "category": "Legal AI",
+      "story_type": "news",
+      "research_brief": "R&#38;D &#38; AI INNOVATION The AI Productivity Inflection How the Agentic PDLC Accelerated Delivery and Drove AI Adoption R&#38;D performance, Q1 FY2025 through Q2 FY2026 By Greg Ingino, Chief Technology Officer, Litera &#160; Eighteen months ago, I walked out of an Hg conference in Silicon Valley knowing that how we built software was about to [&#8230;]",
+      "primary_source": "https://www.lawnext.com/2026/07/53697.html",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "Litera CTO on agentic AI acceleration of legal product development and adoption metrics",
+      "why_now": "Credible primary source (Litera executive byline) on real-world AI adoption outcomes in legal tech; actionable case study for industry impact",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "LawSites (Bob Ambrogi)",
+      "source_tier": "B",
+      "prefilter_score": 9,
+      "matched_terms": [
+        "Litera"
+      ],
+      "fingerprint": {
+        "entities": [
+          "litera"
+        ],
+        "numerics": [
+          "2025y",
+          "2026bn",
+          "8k"
+        ],
+        "keywords": [],
+        "title_tokens": [
+          "ai",
+          "productivity",
+          "inflection",
+          "agentic",
+          "pdlc",
+          "accelerated",
+          "delivery",
+          "drove",
+          "adoption"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-07-13T17:19:47.761Z",
+      "queued_at": "2026-07-13T17:19:47.766Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-07-12T21:58:29.843Z"
+  "last_updated": "2026-07-13T17:19:47.766Z"
 }
