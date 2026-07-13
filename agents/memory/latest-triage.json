@@ -1,62 +1,215 @@
 {
-  "generated": "2026-07-13T03:41:02.022Z",
+  "generated": "2026-07-13T09:41:26.458Z",
   "cycle_type": "triage",
   "tier_filter": null,
-  "shortlist_size": 3,
+  "shortlist_size": 20,
   "prefilter": {
     "total": 40,
-    "accepted": 3,
+    "accepted": 28,
     "borderline": 0,
-    "rejected": 37,
-    "rejected_as_duplicate": 37,
-    "accept_rate": 8
+    "rejected": 12,
+    "rejected_as_duplicate": 12,
+    "accept_rate": 70
   },
   "model": "claude-haiku-4-5-20251001",
   "picks": [
     {
-      "id": "legal-futures-0",
-      "score": 6,
-      "category": "Legal AI",
-      "suggested_angle": "Research on law firm authority signals for AI recommendation algorithms—SEO/visibility angle for legal marketing.",
-      "why_now": "Primary source research from Legal Futures (tier B) on a novel angle: how AI engines rank law firms. Timely but marginal editorial value.",
-      "verdict": "watch",
-      "duplicate_of": null
-    },
-    {
-      "id": "legal-futures-1",
+      "id": "arxiv-cs-ai-0",
       "score": 2,
-      "category": "Social",
-      "suggested_angle": "Clinical negligence cost driver analysis.",
-      "why_now": "Not legal AI; outside editorial scope. Generic opinion piece on healthcare litigation costs.",
+      "category": "Research",
+      "suggested_angle": "LLM reverse-engineering capabilities benchmark",
+      "why_now": "Academic research paper with no legal or legal tech angle; out of scope for lawpeeps.ai editorial focus",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
-      "id": "hacker-news-2",
+      "id": "arxiv-cs-ai-1",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Multi-perspective causal discovery with LLMs",
+      "why_now": "General LLM reasoning research; no legal tech application or legal AI angle",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-2",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Auditable AI agents for scientific discovery",
+      "why_now": "Academic research on LLM agents in scientific contexts; no legal sector relevance",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-3",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Heterogeneous LLM coordination in embodied agents",
+      "why_now": "Research on manufacturing/robotics AI systems; out of legal tech scope",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-4",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Multi-agent LLM collaboration for creative writing",
+      "why_now": "Game design and literary creation focus; no legal relevance",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-5",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "LLM agents for mathematical problem-solving",
+      "why_now": "Mathematics research application; not legal or legal tech",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-6",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Auction-based task allocation for LLM agents",
+      "why_now": "General LLM orchestration research; no legal application",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-7",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Unified pre-training corpus for biology LLMs",
+      "why_now": "Biomedical AI research; outside legal tech scope",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-8",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Specification ambiguity in LLM-mediated supervision",
+      "why_now": "General AI safety research; no legal sector application evident",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-9",
       "score": 3,
-      "category": "Legal AI",
-      "suggested_angle": "Indie builder launches Clark, an AI agent for task automation.",
-      "why_now": "Solo builder product launch, low credibility, no independent coverage, marketing puff. Tangentially related to agent architecture but no news hook.",
+      "category": "Research",
+      "suggested_angle": "LLM code generation structural defects in production",
+      "why_now": "Software engineering focus; tangentially relevant to legal tech code reliability but no direct angle",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-10",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "vLLM performance and energy benchmarking",
+      "why_now": "Infrastructure optimization research; no legal AI relevance",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-11",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Binary-to-source code recovery with LLMs",
+      "why_now": "Reverse engineering research; no legal application",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-12",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "LLM-based quantum circuit programming",
+      "why_now": "Quantum computing application; outside legal tech scope",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-13",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "LLM-augmented survey response optimization",
+      "why_now": "Survey methodology research; no legal relevance",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-14",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Adaptive inference-time steering for reasoning LLMs",
+      "why_now": "General LLM reasoning optimization; no legal application",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-15",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Gradient-based steering for LLM/VLM inference control",
+      "why_now": "AI safety/control research; no legal sector application",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-16",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "LLM persona modeling for civic deliberation simulation",
+      "why_now": "Political science application; no legal tech angle",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-17",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Process reward models via KV-cache transfer for agents",
+      "why_now": "LLM optimization research; no legal application",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-18",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Context drift verification in long-horizon LLM agents",
+      "why_now": "AI reliability research; could apply to legal agents but no specific legal context",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-19",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Medical agent benchmark for clinical decision-making",
+      "why_now": "Healthcare AI application; outside legal tech scope despite agent-based reasoning focus",
       "verdict": "drop",
       "duplicate_of": null
     }
   ],
   "summary": {
     "enqueue_count": 0,
-    "watch_count": 1,
-    "drop_count": 2,
-    "notes": "Weak shortlist. legal-futures-0 has research novelty but low editorial priority (SEO/marketing angle). Other two are out-of-scope or pure puff."
+    "watch_count": 0,
+    "drop_count": 20,
+    "notes": "All 20 arXiv papers are general AI/LLM research with no legal AI, legal tech, or regulatory angle. None match editorial focus on legal AI, legal tech, regulation, immigration law, major company moves, or firm adoption. Systematic keyword-filter overreach."
   },
   "enqueued": 0,
   "usage": {
-    "input_tokens": 2521,
+    "input_tokens": 5633,
     "cache_creation_input_tokens": 0,
     "cache_read_input_tokens": 0,
     "cache_creation": {
       "ephemeral_5m_input_tokens": 0,
       "ephemeral_1h_input_tokens": 0
     },
-    "output_tokens": 423,
+    "output_tokens": 1986,
     "service_tier": "standard",
     "inference_geo": "not_available"
   }
