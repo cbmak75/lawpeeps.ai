@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-12T21:58:25.852Z",
+  "generated": "2026-07-13T03:40:56.246Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 1016,
+  "total_scanned": 1040,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -259,6 +259,18 @@
       "relevance_score": 8
     },
     {
+      "title": "Law firms &#8220;need to prove authority&#8221; to gain AI approval",
+      "url": "https://www.legalfutures.co.uk/latest-news/law-firms-need-to-prove-authority-to-gain-ai-approval",
+      "summary": "Most law firms are failing to send AI engines like ChatGPT, Claude and Gemini the signals they need to recommend them to potential clients, groundbreaking research has found. The post Law firms &#8220;need to prove authority&#8221; to gain AI approval appeared first on Legal Futures .",
+      "published": "2026-07-12T23:05:43.000Z",
+      "source_id": "legal-futures",
+      "source_name": "Legal Futures",
+      "source_priority": "high",
+      "source_tier": "B",
+      "source_category": "Legal business",
+      "relevance_score": 8
+    },
+    {
       "title": "The Legal AI Scaffold Changes Everything – Claude Study - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQU4tdGFPSGFaaGo0NGRvdnhxMUhYQ3pSd18td3lld2ZRd2xiQkVwWUQ0Z1lhR3IwdGstdE5STUVBTzdqdkxvbnhWUTVwZ0Y5MDNqT1hHV0RDUGVldzI5R2JrdEtaZ2NfYWNDVERjN1o5QWFqeGFTTEp6VDB1S19id3VoOUZUbzQ0eDdwNzJHNzdvYzRNWUh5cFV6UnhXOE0?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNQU4tdGFPSGFaaGo0NGRvdnhxMUhYQ3pSd18td3lld2ZRd2xiQkVwWUQ0Z1lhR3IwdGstdE5STUVBTzdqdkxvbnhWUTVwZ0Y5MDNqT1hHV0RDUGVldzI5R2JrdEtaZ2NfYWNDVERjN1o5QWFqeGFTTEp6VDB1S19id3VoOUZUbzQ0eDdwNzJHNzdvYzRNWUh5cFV6UnhXOE0?oc=5\" target=\"_blank\"&gt;The Legal AI Scaffold Changes Everything – Claude Study&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
@@ -316,6 +328,42 @@
       "source_priority": "critical",
       "source_tier": "B",
       "source_category": "Legal tech commentary",
+      "relevance_score": 7
+    },
+    {
+      "title": "A familiar story?",
+      "url": "https://www.legalfutures.co.uk/blog/a-familiar-story",
+      "summary": "There is no doubt that the rising cost of clinical negligence claims deserves attention. However, the system’s true cost driver is often not the claim itself. The post A familiar story? appeared first on Legal Futures .",
+      "published": "2026-07-12T23:00:04.000Z",
+      "source_id": "legal-futures",
+      "source_name": "Legal Futures",
+      "source_priority": "high",
+      "source_tier": "B",
+      "source_category": "Legal business",
+      "relevance_score": 7
+    },
+    {
+      "title": "Show HN: Clark – AI assistant with own computer",
+      "url": "https://www.clarkchat.com/",
+      "summary": "Hey folks, I've been building Clark solo, with the aim to match Manus agent (I really like it!) in features and capabilities, but also in its relentless ability to just complete tasks while using browser, computer etc. So far I think I've achieved 1:1 core feature parity: 1) computer use agent 2) browser use in same thread 3) wide and deep research - clark calls clark 4) integration with google tools Would love to have community feedback and for you to try it out, a couple thousand people alread",
+      "published": "2026-07-13T00:53:20.000Z",
+      "source_id": "hacker-news",
+      "source_name": "Hacker News (filtered)",
+      "source_priority": "low",
+      "source_tier": "B",
+      "source_category": "Community",
+      "relevance_score": 7
+    },
+    {
+      "title": "The cost of AI-assisted development: cognitive fatigue",
+      "url": "https://warpedvisions.org/blog/2025/hitting-the-wall-at-ai-speed/",
+      "summary": "Article URL: https://warpedvisions.org/blog/2025/hitting-the-wall-at-ai-speed/ Comments URL: https://news.ycombinator.com/item?id=48885784 Points: 3 # Comments: 0",
+      "published": "2026-07-12T23:05:59.000Z",
+      "source_id": "hacker-news",
+      "source_name": "Hacker News (filtered)",
+      "source_priority": "low",
+      "source_tier": "B",
+      "source_category": "Community",
       "relevance_score": 7
     },
     {
@@ -431,54 +479,6 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNVRaTmNLME8ydnc5d1FmeWhSUjdhTDg2dmdqR28wQ2lwSzBJbTYtTU5XekVsTWdaLVE3N2hJQlU2bEVRWlNhVG1GRTlab0c4Zko3UmtZamxkRGw2WTNlRkU1X05LZEE3OEpkbEtkdldrNFRJVnlPcFZlVDRVbElnbExXVk9zenVfOFh3QWNORTdIQVQxQnBuUW84NA?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPNVRaTmNLME8ydnc5d1FmeWhSUjdhTDg2dmdqR28wQ2lwSzBJbTYtTU5XekVsTWdaLVE3N2hJQlU2bEVRWlNhVG1GRTlab0c4Zko3UmtZamxkRGw2WTNlRkU1X05LZEE3OEpkbEtkdldrNFRJVnlPcFZlVDRVbElnbExXVk9zenVfOFh3QWNORTdIQVQxQnBuUW84NA?oc=5\" target=\"_blank\"&gt;Spellbook Raises $50m + CEO, Scott Stevenson Interview&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
       "published": "2025-10-09T07:00:00.000Z",
-      "source_id": "google-news-contract-ai",
-      "source_name": "Google News: contract AI",
-      "source_priority": "medium",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
-    },
-    {
-      "title": "Legaltech Rundown: Spellbook Launches iManage Integration, Norm Law Announces New Big Law Hires, and More - Law.com",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONHBNemtNcXRjaFFudFBJRG0xV0M5QlJ2dlhGWm0xcFluNjVJSW1GNVpVU09MQktGZ3Rwcy1scXBVdGNxeFRuY3oyVkRMZVBEMnBwV2szTTAybTZHVkJmdy1mcl9RTDBjRGx0RFVEeU9Kd3loZ2hRT0trWW1mUGJTY3BQUlBzQ203dzB4ZEFULTJUbGxFZXV5WmNLYnhBaW9ubE91WjVZbUpWZE1MemZfUkV3dkl6YWFhanJCVlA3UFVTZ2pna1ItMkJEelM0dnRDelhoZjVRcmN2ZHBXdWJickpUYjJlY0dDUFE?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxONHBNemtNcXRjaFFudFBJRG0xV0M5QlJ2dlhGWm0xcFluNjVJSW1GNVpVU09MQktGZ3Rwcy1scXBVdGNxeFRuY3oyVkRMZVBEMnBwV2szTTAybTZHVkJmdy1mcl9RTDBjRGx0RFVEeU9Kd3loZ2hRT0trWW1mUGJTY3BQUlBzQ203dzB4ZEFULTJUbGxFZXV5WmNLYnhBaW9ubE91WjVZbUpWZE1MemZfUkV3dkl6YWFhanJCVlA3UFVTZ2pna1ItMkJEelM0dnRDelhoZjVRcmN2ZHBXdWJickpUYjJlY0dDUFE?oc=5\" target=\"_blank\"&gt;Legaltech Rundown: Spellbook Launches iManage Integration, Norm Law Announces New Big Law Hires, and More&",
-      "published": "2026-05-01T07:00:00.000Z",
-      "source_id": "google-news-contract-ai",
-      "source_name": "Google News: contract AI",
-      "source_priority": "medium",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
-    },
-    {
-      "title": "Spellbook CEO Scott Stevenson exposes inflated ARR practices among AI startups - Crypto Briefing",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBnT3VzYkcxWXNlV1ZHclJyTzJLMEVIUjVUdGt3ZzJOY3JHNmNHNTlKMVc3RkpmbzdZaHlQWFJydXdrOHY0QnZ1VzhMQldYUkhQTmZuXy1Ya2ZRcnVFM0VzVDJZSHNoVG1Ud0dDWVBxc19WejRl?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBnT3VzYkcxWXNlV1ZHclJyTzJLMEVIUjVUdGt3ZzJOY3JHNmNHNTlKMVc3RkpmbzdZaHlQWFJydXdrOHY0QnZ1VzhMQldYUkhQTmZuXy1Ya2ZRcnVFM0VzVDJZSHNoVG1Ud0dDWVBxc19WejRl?oc=5\" target=\"_blank\"&gt;Spellbook CEO Scott Stevenson exposes inflated ARR practices among AI startups&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Crypto Briefing&lt;/font&gt;",
-      "published": "2026-05-22T07:00:00.000Z",
-      "source_id": "google-news-contract-ai",
-      "source_name": "Google News: contract AI",
-      "source_priority": "medium",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
-    },
-    {
-      "title": "Spellbook on Track for US$100M ARR this Year - Entrevestor",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41c1pKSUJCbkYtbXFsUmpLV1dfeGNxSlZtU1B0bEZ6U0tZOXlSVFp5U3V5LTR6RG01amxrNUp1bFhRT0FhVmhxeS1oNks4Q1pfcFpWYXFqcHdaM29XWUtGVjJCdzYydTR3dFNadWtpNEQ1YlRNX2tNOV9BU0U?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE41c1pKSUJCbkYtbXFsUmpLV1dfeGNxSlZtU1B0bEZ6U0tZOXlSVFp5U3V5LTR6RG01amxrNUp1bFhRT0FhVmhxeS1oNks4Q1pfcFpWYXFqcHdaM29XWUtGVjJCdzYydTR3dFNadWtpNEQ1YlRNX2tNOV9BU0U?oc=5\" target=\"_blank\"&gt;Spellbook on Track for US$100M ARR this Year&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Entrevestor&lt;/font&gt;",
-      "published": "2026-03-04T08:00:00.000Z",
-      "source_id": "google-news-contract-ai",
-      "source_name": "Google News: contract AI",
-      "source_priority": "medium",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
-    },
-    {
-      "title": "This Open Source RP2040 Development Board Looks Like a Magic Spellbook - Hackster.io",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORnVSUlF6azgxa3lnMFFGVmU2dWdTeWRSOE1MV0JtdkViWVNhWkozazFKdy1Xb1FlS3RaTVRxeHExODhPdi1QY2I0UFVPMDdxX2hFdmpUUE5qeFpiX0xrNktLbUZ0Qm96ckY0UlI0enkyTmZVYmpQZmN2b3ByMV9zWnlGVFRnc3ZYLWdHQWdVU3U5WFJLb05YV2E0NlQzWHZCdUNXb2xnMmlsZnNtdzNhdnZ30gG3AUFVX3lxTE5FaHA3Szl0Z2N0ZWUySEJxOFVKUjdGeFdWcF96YUFqdXJpT2VJOG1pcUhwOXgtLWlHOWFXTGhxVVRJeTdZT21mLTJ3cmlydFJMT1hOX3ZhcDFkaUU5MWc5Z1FWV3Z1c2VFLU5pejVmai1Pa19hVUZ5ekc0YnFwWGlSWk9xbndOWVNTVm5FWUFkRE1DQjdoc0RiVnZFb0VjcU1PTS1QNkd4eHExV2ZwLUFVYVhHcHVqZw?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxORnVSUlF6azgxa3lnMFFGVmU2dWdTeWRSOE1MV0JtdkViWVNhWkozazFKdy1Xb1FlS3RaTVRxeHExODhPdi1QY2I0UFVPMDdxX2hFdmpUUE5qeFpiX0xrNktLbUZ0Qm96ckY0UlI0enkyTmZVYmpQZmN2b3ByMV9zWnlGVFRnc3ZYLWdHQWdVU3U5WFJLb05YV2E0NlQzWHZCdUNXb2xnMmlsZnNtdzNhdnZ30gG3AUFVX3lxTE5FaHA3Szl0Z2N0ZWUySEJxOFVKUjdGeFdWcF96YUFqdXJpT2VJOG1pcUhwOXgtLWlHOWFXTGhxVVRJeTdZT21mLTJ3cmlydFJMT1hOX3ZhcDFkaUU5MWc5Z1FWV3Z1c2VFLU5pejVmai1Pa19hVUZ5ekc0YnFwWGlSWk9xbndOWVNTVm5FWUFkRE1DQjdoc0R",
-      "published": "2026-05-28T12:11:48.000Z",
       "source_id": "google-news-contract-ai",
       "source_name": "Google News: contract AI",
       "source_priority": "medium",

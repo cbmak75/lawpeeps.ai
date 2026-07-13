@@ -1,44 +1,62 @@
 {
-  "generated": "2026-07-12T21:58:29.844Z",
+  "generated": "2026-07-13T03:41:02.022Z",
   "cycle_type": "triage",
   "tier_filter": null,
-  "shortlist_size": 1,
+  "shortlist_size": 3,
   "prefilter": {
     "total": 40,
-    "accepted": 1,
+    "accepted": 3,
     "borderline": 0,
-    "rejected": 39,
-    "rejected_as_duplicate": 39,
-    "accept_rate": 3
+    "rejected": 37,
+    "rejected_as_duplicate": 37,
+    "accept_rate": 8
   },
   "model": "claude-haiku-4-5-20251001",
   "picks": [
     {
-      "id": "google-news-contract-ai-0",
+      "id": "legal-futures-0",
       "score": 6,
       "category": "Legal AI",
-      "suggested_angle": "Spellbook expands contract AI reach via iManage integration; Norm Law signals big law adoption momentum",
-      "why_now": "Product integration announcement from watch-list company (Spellbook) with evidence of enterprise adoption, published 2026-05-01 and not yet covered",
-      "verdict": "enqueue",
+      "suggested_angle": "Research on law firm authority signals for AI recommendation algorithms—SEO/visibility angle for legal marketing.",
+      "why_now": "Primary source research from Legal Futures (tier B) on a novel angle: how AI engines rank law firms. Timely but marginal editorial value.",
+      "verdict": "watch",
+      "duplicate_of": null
+    },
+    {
+      "id": "legal-futures-1",
+      "score": 2,
+      "category": "Social",
+      "suggested_angle": "Clinical negligence cost driver analysis.",
+      "why_now": "Not legal AI; outside editorial scope. Generic opinion piece on healthcare litigation costs.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "hacker-news-2",
+      "score": 3,
+      "category": "Legal AI",
+      "suggested_angle": "Indie builder launches Clark, an AI agent for task automation.",
+      "why_now": "Solo builder product launch, low credibility, no independent coverage, marketing puff. Tangentially related to agent architecture but no news hook.",
+      "verdict": "drop",
       "duplicate_of": null
     }
   ],
   "summary": {
-    "enqueue_count": 1,
-    "watch_count": 0,
-    "drop_count": 0,
-    "notes": "Single-item shortlist: Spellbook iManage integration is a legitimate adoption story from a named watch-list company, distinct from recent coverage. Scores 6 (not 7+) because it appears to be aggregated news roundup rather than primary source reporting, but merits editor review for firm adoption angle."
+    "enqueue_count": 0,
+    "watch_count": 1,
+    "drop_count": 2,
+    "notes": "Weak shortlist. legal-futures-0 has research novelty but low editorial priority (SEO/marketing angle). Other two are out-of-scope or pure puff."
   },
-  "enqueued": 1,
+  "enqueued": 0,
   "usage": {
-    "input_tokens": 2672,
+    "input_tokens": 2521,
     "cache_creation_input_tokens": 0,
     "cache_read_input_tokens": 0,
     "cache_creation": {
       "ephemeral_5m_input_tokens": 0,
       "ephemeral_1h_input_tokens": 0
     },
-    "output_tokens": 265,
+    "output_tokens": 423,
     "service_tier": "standard",
     "inference_geo": "not_available"
   }
