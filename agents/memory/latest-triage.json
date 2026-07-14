@@ -1,215 +1,98 @@
 {
-  "generated": "2026-07-14T08:21:21.612Z",
+  "generated": "2026-07-14T10:53:15.452Z",
   "cycle_type": "triage",
   "tier_filter": null,
-  "shortlist_size": 20,
+  "shortlist_size": 7,
   "prefilter": {
     "total": 40,
-    "accepted": 28,
+    "accepted": 7,
     "borderline": 0,
-    "rejected": 12,
-    "rejected_as_duplicate": 12,
-    "accept_rate": 70
+    "rejected": 33,
+    "rejected_as_duplicate": 33,
+    "accept_rate": 18
   },
   "model": "claude-haiku-4-5-20251001",
   "picks": [
     {
       "id": "arxiv-cs-ai-0",
-      "score": 2,
+      "score": 3,
       "category": "Research",
-      "suggested_angle": "Academic interest in LLM agents for medical imaging; no legal application.",
-      "why_now": "Out of scope—medical imaging domain, no legal tech connection.",
+      "suggested_angle": "KV-cache compression techniques for LLM inference optimization",
+      "why_now": "Foundational AI research with no legal application or watchlist company involvement",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
       "id": "arxiv-cs-ai-1",
-      "score": 2,
+      "score": 3,
       "category": "Research",
-      "suggested_angle": "LLM agent abstention and risk mitigation; abstract capability research.",
-      "why_now": "Tangential to legal AI but no legal domain focus or application story.",
+      "suggested_angle": "Theoretical framework for transformer reasoning dynamics",
+      "why_now": "Pure ML research with no legal tech relevance",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
-      "id": "arxiv-cs-ai-2",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "LLM coding benchmarks for scientific imaging; no legal relevance.",
-      "why_now": "Computational imaging domain; no legal tech angle.",
+      "id": "law-society-gazette-2",
+      "score": 4,
+      "category": "Adoption",
+      "suggested_angle": "NHS claims handling efficiency gains post-system recovery",
+      "why_now": "Tangential to legal AI; focuses on claims management outcomes not technology adoption",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
       "id": "arxiv-cs-ai-3",
-      "score": 2,
+      "score": 3,
       "category": "Research",
-      "suggested_angle": "LLM alignment for mental health; no legal domain.",
-      "why_now": "Healthcare/ethics domain; no legal AI connection.",
+      "suggested_angle": "Message format effects in multi-agent LLM relay systems",
+      "why_now": "Narrow AI research topic with no legal application or firm adoption signal",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
       "id": "arxiv-cs-ai-4",
-      "score": 2,
+      "score": 4,
       "category": "Research",
-      "suggested_angle": "LLM planning capabilities analysis; general AI research.",
-      "why_now": "Foundational AI research with no legal application.",
-      "verdict": "drop",
+      "suggested_angle": "LLM-based decision optimization framework with uncertainty quantification",
+      "why_now": "Generic decision-making research; unclear if applicable to legal decision work",
+      "verdict": "watch",
       "duplicate_of": null
     },
     {
       "id": "arxiv-cs-ai-5",
       "score": 3,
       "category": "Research",
-      "suggested_angle": "Enterprise LLM agents with SOP compliance; enterprise AI governance.",
-      "why_now": "Enterprise compliance framework could have legal relevance, but abstract research paper.",
-      "verdict": "watch",
+      "suggested_angle": "In-context learning for LLMs with task-specific knowledge acquisition",
+      "why_now": "Core AI capability research with no legal tech connection identified",
+      "verdict": "drop",
       "duplicate_of": null
     },
     {
       "id": "arxiv-cs-ai-6",
       "score": 2,
       "category": "Research",
-      "suggested_angle": "Recommendation systems for connected TV; no legal relevance.",
-      "why_now": "Media/entertainment domain; no legal tech angle.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-7",
-      "score": 3,
-      "category": "Research",
-      "suggested_angle": "Multilingual LLM safety and alignment; regulatory compliance implications.",
-      "why_now": "Safety and language-specific risks could matter for legal AI cross-border deployment, but pure research.",
-      "verdict": "watch",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-8",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "LLM RL optimization techniques; foundational ML research.",
-      "why_now": "General AI research; no legal application.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-9",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "LLM inference optimization on consumer hardware; infrastructure research.",
-      "why_now": "Technical infrastructure paper; no legal tech angle.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-10",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "LLM reliability for code smell detection; software engineering.",
-      "why_now": "Code quality domain; no legal relevance.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-11",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "LLM RL training stability; foundational capability research.",
-      "why_now": "General AI training technique; no legal application.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-12",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "KV-cache compression statistical methods; inference optimization.",
-      "why_now": "Technical efficiency paper; no legal domain angle.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-13",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "Transformer learning dynamics for reasoning; foundational AI theory.",
-      "why_now": "Pure AI theory; no legal application.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-14",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "Multi-agent message formatting effects; agent coordination research.",
-      "why_now": "Agent architecture research; no legal tech connection.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-15",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "LLM decision-making with uncertainty quantification; optimization research.",
-      "why_now": "Operations research domain; no legal AI angle.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-16",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "In-context learning and specification discovery; LLM capability research.",
-      "why_now": "General LLM capability paper; no legal application.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-17",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "LLM-based educational visual aid generation; education technology.",
-      "why_now": "Education domain; no legal tech relevance.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-18",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "LLM reasoning state profiling and steering; interpretability research.",
-      "why_now": "Foundational AI interpretability work; no legal application.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-19",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "Evidence compression for multi-hop QA; retrieval-augmented generation.",
-      "why_now": "General QA research; no legal domain focus.",
+      "suggested_angle": "Agentic workflows for educational mathematics visualization",
+      "why_now": "K-12 education focus; out of scope for legal AI publication",
       "verdict": "drop",
       "duplicate_of": null
     }
   ],
   "summary": {
     "enqueue_count": 0,
-    "watch_count": 2,
-    "drop_count": 18,
-    "notes": "Entire shortlist is generic AI/ML research papers with no legal tech, legal AI, regulatory, or immigration focus. arxiv-cs-ai-5 (enterprise SOP compliance) and arxiv-cs-ai-7 (multilingual LLM safety) warrant brief monitoring for downstream legal tech implications, but neither merits immediate coverage."
+    "watch_count": 1,
+    "drop_count": 6,
+    "notes": "Batch is 86% generic ML papers with no legal vertical tie-in. Single watch item (arxiv-cs-ai-4) flagged for decision-optimization angle pending source review, but unlikely to clear."
   },
   "enqueued": 0,
   "usage": {
-    "input_tokens": 5659,
+    "input_tokens": 3277,
     "cache_creation_input_tokens": 0,
     "cache_read_input_tokens": 0,
     "cache_creation": {
       "ephemeral_5m_input_tokens": 0,
       "ephemeral_1h_input_tokens": 0
     },
-    "output_tokens": 1997,
+    "output_tokens": 772,
     "service_tier": "standard",
     "inference_geo": "not_available"
   }
