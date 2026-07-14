@@ -1,15 +1,15 @@
 {
-  "generated": "2026-07-14T19:37:19.167Z",
+  "generated": "2026-07-14T22:05:18.843Z",
   "cycle_type": "triage",
   "tier_filter": null,
-  "shortlist_size": 5,
+  "shortlist_size": 4,
   "prefilter": {
     "total": 40,
-    "accepted": 5,
+    "accepted": 4,
     "borderline": 0,
-    "rejected": 35,
-    "rejected_as_duplicate": 35,
-    "accept_rate": 13
+    "rejected": 36,
+    "rejected_as_duplicate": 36,
+    "accept_rate": 10
   },
   "model": "claude-haiku-4-5-20251001",
   "picks": [
@@ -17,26 +17,26 @@
       "id": "google-news-legal-tech-funding-0",
       "score": 6,
       "category": "Funding",
-      "suggested_angle": "Legal tech funding growth defies deal drought in H1 2026",
-      "why_now": "Aggregate funding data for 2026 adds to the consolidation narrative established in April coverage but needs verification of underlying sources and specific company winners.",
+      "suggested_angle": "Legal tech funding trends in H2 2026—consolidation or plateau?",
+      "why_now": "Macro funding data for legal tech sector; conflicts with recent coverage showing consolidation around 3 players.",
       "verdict": "watch",
       "duplicate_of": null
     },
     {
-      "id": "hacker-news-1",
-      "score": 1,
+      "id": "above-the-law-legaltech-1",
+      "score": 2,
       "category": "Social",
-      "suggested_angle": "N/A",
-      "why_now": "Off-topic: game cloning via AI has no connection to legal AI, legal tech, or regulation.",
+      "suggested_angle": "None—content is vague event recap with no named company, product, or news hook.",
+      "why_now": "Not newsworthy; appears to be blog post about an awards or conference event with zero specifics.",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
-      "id": "hacker-news-2",
-      "score": 2,
+      "id": "arxiv-cs-ai-2",
+      "score": 1,
       "category": "Research",
-      "suggested_angle": "N/A",
-      "why_now": "Generic Google developer blog post on web AI inference; no legal or legal-tech angle despite prefilter match.",
+      "suggested_angle": "None—pure ML compression research unrelated to legal sector.",
+      "why_now": "Academic preprint on KV-cache compression; outside editorial remit (not legal AI, legal tech, or regulation).",
       "verdict": "drop",
       "duplicate_of": null
     },
@@ -44,17 +44,8 @@
       "id": "arxiv-cs-ai-3",
       "score": 1,
       "category": "Research",
-      "suggested_angle": "N/A",
-      "why_now": "Pure ML research on KV-cache compression with no legal domain application or relevance.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-4",
-      "score": 1,
-      "category": "Research",
-      "suggested_angle": "N/A",
-      "why_now": "Theoretical AI research on transformer learning dynamics; no legal tech or regulation angle.",
+      "suggested_angle": "None—pure transformer theory research unrelated to legal sector.",
+      "why_now": "Academic preprint on inductive reasoning in transformers; outside editorial remit (not legal AI, legal tech, or regulation).",
       "verdict": "drop",
       "duplicate_of": null
     }
@@ -62,12 +53,12 @@
   "summary": {
     "enqueue_count": 0,
     "watch_count": 1,
-    "drop_count": 4,
-    "notes": "Only item with editorial relevance is the Law360 legal tech funding aggregate, but it requires source verification and deduplication against April coverage before enqueueing. Four items are off-topic (games, generic dev posts, pure ML research)."
+    "drop_count": 3,
+    "notes": "Only the Law360 funding piece has editorial merit, but it conflicts with recent Q1 2026 consolidation coverage (legal-tech-raised-2-3b-in-q1-26 and three-companies-capture-63); flag as watch pending clarification of whether this is new H2 data or reprise. ATL article is marketing puff with no news hook. Two arXiv papers are off-vertical pure ML research."
   },
   "enqueued": 0,
   "usage": {
-    "input_tokens": 3363,
+    "input_tokens": 3175,
     "cache_creation_input_tokens": 0,
     "cache_read_input_tokens": 0,
     "cache_creation": {
