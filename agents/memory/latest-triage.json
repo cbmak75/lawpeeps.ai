@@ -1,42 +1,60 @@
 {
-  "generated": "2026-07-14T16:21:19.719Z",
+  "generated": "2026-07-14T19:37:19.167Z",
   "cycle_type": "triage",
   "tier_filter": null,
-  "shortlist_size": 3,
+  "shortlist_size": 5,
   "prefilter": {
     "total": 40,
-    "accepted": 3,
+    "accepted": 5,
     "borderline": 0,
-    "rejected": 37,
-    "rejected_as_duplicate": 37,
-    "accept_rate": 8
+    "rejected": 35,
+    "rejected_as_duplicate": 35,
+    "accept_rate": 13
   },
   "model": "claude-haiku-4-5-20251001",
   "picks": [
     {
-      "id": "thomson-reuters-institute-0",
-      "score": 5,
-      "category": "Legal AI",
-      "suggested_angle": "Thomson Reuters research challenges assumption that lawyer resistance to AI feedback is capability-based rather than interpersonal.",
-      "why_now": "Primary source from major legal tech vendor on lawyer adoption psychology; tangential to existing coverage but distinct enough as new research.",
+      "id": "google-news-legal-tech-funding-0",
+      "score": 6,
+      "category": "Funding",
+      "suggested_angle": "Legal tech funding growth defies deal drought in H1 2026",
+      "why_now": "Aggregate funding data for 2026 adds to the consolidation narrative established in April coverage but needs verification of underlying sources and specific company winners.",
       "verdict": "watch",
       "duplicate_of": null
     },
     {
-      "id": "arxiv-cs-ai-1",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "None—pure LLM compression research with no legal application angle.",
-      "why_now": "Generic AI research; does not meet editorial focus (legal AI, legal tech, regulation, immigration).",
+      "id": "hacker-news-1",
+      "score": 1,
+      "category": "Social",
+      "suggested_angle": "N/A",
+      "why_now": "Off-topic: game cloning via AI has no connection to legal AI, legal tech, or regulation.",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
-      "id": "arxiv-cs-ai-2",
+      "id": "hacker-news-2",
       "score": 2,
       "category": "Research",
-      "suggested_angle": "None—pure transformer theory with no legal context.",
-      "why_now": "Generic foundational AI research; does not meet editorial focus.",
+      "suggested_angle": "N/A",
+      "why_now": "Generic Google developer blog post on web AI inference; no legal or legal-tech angle despite prefilter match.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-3",
+      "score": 1,
+      "category": "Research",
+      "suggested_angle": "N/A",
+      "why_now": "Pure ML research on KV-cache compression with no legal domain application or relevance.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-4",
+      "score": 1,
+      "category": "Research",
+      "suggested_angle": "N/A",
+      "why_now": "Theoretical AI research on transformer learning dynamics; no legal tech or regulation angle.",
       "verdict": "drop",
       "duplicate_of": null
     }
@@ -44,19 +62,19 @@
   "summary": {
     "enqueue_count": 0,
     "watch_count": 1,
-    "drop_count": 2,
-    "notes": "Thomson Reuters piece on lawyer feedback resistance is borderline but lacks immediate news hook (publication date 14 July, no product announcement or adoption event); arXiv items are out of scope."
+    "drop_count": 4,
+    "notes": "Only item with editorial relevance is the Law360 legal tech funding aggregate, but it requires source verification and deduplication against April coverage before enqueueing. Four items are off-topic (games, generic dev posts, pure ML research)."
   },
   "enqueued": 0,
   "usage": {
-    "input_tokens": 2517,
+    "input_tokens": 3363,
     "cache_creation_input_tokens": 0,
     "cache_read_input_tokens": 0,
     "cache_creation": {
       "ephemeral_5m_input_tokens": 0,
       "ephemeral_1h_input_tokens": 0
     },
-    "output_tokens": 414,
+    "output_tokens": 602,
     "service_tier": "standard",
     "inference_geo": "not_available"
   }

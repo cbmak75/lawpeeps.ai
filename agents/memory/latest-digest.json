@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-14T16:21:10.559Z",
+  "generated": "2026-07-14T19:37:09.424Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 1504,
+  "total_scanned": 1520,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -41,18 +41,6 @@
       "source_tier": "B",
       "source_category": "Legal operations",
       "relevance_score": 12
-    },
-    {
-      "title": "Developers of the Heroes of Might &amp; Magic V remake on UE5 engine showed progress - unit models, spellbook, and more - ixbt.games",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZVdBNUZSR0hwc1JIRUlkcXNPM3NaLW92bTlEQjN4a3pkQkhRel9CUnozeGgtb1JSNDk0Z3JLRU9oN2RBMWpuc2VVTmN1ZHZlUkF4ZnhON2toLUF6WVBpQTJ3OWxRajFNUTJXUHJuLWs0ZVoxQmlXM1FkT2MtM1NsLXlERnduMjFGdUg4RTR3RUptS1hVZjBhX09weHkxN0dKUzNra2RMM18wanU2NTNEbmxCTko2Z1RiUkFuUDJxTENpRk1PTnIyMGwxWGhHdHRyX2s5Y0NUYVNfUXkzNk9tZVRKQ3pDZG1wVUFnNXdBeEhBMG9r0gH6AUFVX3lxTE1SRGN0Z2JmT0ZwM1F0WmZKUlhTd3BJaHhLOGVhZ2JMMF84ekNtU1hUZWROclFCQnM4OURuZE45N3BmVlQtVEZqQVZKUlFWb0toWDVTUi14amV5MGlYVkJjX2c3eUY4UjYyVmZYRGdCb3RBNE0tdE53Y2pha0xvb0RPTkxtRUppWFBPUXV2T2FUNllTTllVTjI1ZmxJWXVpLXNRNDZwVXcxTi1KTmVBMlVRblhHSDRNSEFpZG54X0c2NmIxUUczajQtYndnaHZJMG9MaV9RZDRmdW0zOVBIdzU5eUt4eHc1M3hDVDhmSjN5NDQ4S2hBRVByclE?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZVdBNUZSR0hwc1JIRUlkcXNPM3NaLW92bTlEQjN4a3pkQkhRel9CUnozeGgtb1JSNDk0Z3JLRU9oN2RBMWpuc2VVTmN1ZHZlUkF4ZnhON2toLUF6WVBpQTJ3OWxRajFNUTJXUHJuLWs0ZVoxQmlXM1FkT2MtM1NsLXlERnduMjFGdUg4RTR3RUptS1hVZjBhX09weHkxN0dKUzNra2RMM18wanU2NTNEbmxCTko2Z1RiUkFuUDJxTENpRk1PTnIyMGwxWGhHdHRyX2s5Y0NUYVNfUXkzNk9tZVRKQ3pDZG1wVUFnNXdBeEhBMG9r0gH6AUFVX3lxTE1SRGN0Z2JmT0ZwM1F0WmZKUlhTd3BJaHhLOGVhZ2JMMF84ekNtU1hUZWROclFCQnM4OURuZE45N3BmVlQtVEZqQVZKUlFWb0toWDVTUi1",
-      "published": "2026-07-14T10:34:30.000Z",
-      "source_id": "google-news-contract-ai",
-      "source_name": "Google News: contract AI",
-      "source_priority": "medium",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 10
     },
     {
       "title": "On LawNext: Legal Research for Everyone: Inside the CourtListener-Claude Partnership",
@@ -211,6 +199,30 @@
       "relevance_score": 8
     },
     {
+      "title": "Developers of the Heroes of Might &amp; Magic V remake on UE5 engine showed progress - unit models, spellbook, and more - ixbt.games",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZVdBNUZSR0hwc1JIRUlkcXNPM3NaLW92bTlEQjN4a3pkQkhRel9CUnozeGgtb1JSNDk0Z3JLRU9oN2RBMWpuc2VVTmN1ZHZlUkF4ZnhON2toLUF6WVBpQTJ3OWxRajFNUTJXUHJuLWs0ZVoxQmlXM1FkT2MtM1NsLXlERnduMjFGdUg4RTR3RUptS1hVZjBhX09weHkxN0dKUzNra2RMM18wanU2NTNEbmxCTko2Z1RiUkFuUDJxTENpRk1PTnIyMGwxWGhHdHRyX2s5Y0NUYVNfUXkzNk9tZVRKQ3pDZG1wVUFnNXdBeEhBMG9r0gH6AUFVX3lxTE1SRGN0Z2JmT0ZwM1F0WmZKUlhTd3BJaHhLOGVhZ2JMMF84ekNtU1hUZWROclFCQnM4OURuZE45N3BmVlQtVEZqQVZKUlFWb0toWDVTUi14amV5MGlYVkJjX2c3eUY4UjYyVmZYRGdCb3RBNE0tdE53Y2pha0xvb0RPTkxtRUppWFBPUXV2T2FUNllTTllVTjI1ZmxJWXVpLXNRNDZwVXcxTi1KTmVBMlVRblhHSDRNSEFpZG54X0c2NmIxUUczajQtYndnaHZJMG9MaV9RZDRmdW0zOVBIdzU5eUt4eHc1M3hDVDhmSjN5NDQ4S2hBRVByclE?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZVdBNUZSR0hwc1JIRUlkcXNPM3NaLW92bTlEQjN4a3pkQkhRel9CUnozeGgtb1JSNDk0Z3JLRU9oN2RBMWpuc2VVTmN1ZHZlUkF4ZnhON2toLUF6WVBpQTJ3OWxRajFNUTJXUHJuLWs0ZVoxQmlXM1FkT2MtM1NsLXlERnduMjFGdUg4RTR3RUptS1hVZjBhX09weHkxN0dKUzNra2RMM18wanU2NTNEbmxCTko2Z1RiUkFuUDJxTENpRk1PTnIyMGwxWGhHdHRyX2s5Y0NUYVNfUXkzNk9tZVRKQ3pDZG1wVUFnNXdBeEhBMG9r0gH6AUFVX3lxTE1SRGN0Z2JmT0ZwM1F0WmZKUlhTd3BJaHhLOGVhZ2JMMF84ekNtU1hUZWROclFCQnM4OURuZE45N3BmVlQtVEZqQVZKUlFWb0toWDVTUi1",
+      "published": "2026-07-14T10:34:30.000Z",
+      "source_id": "google-news-contract-ai",
+      "source_name": "Google News: contract AI",
+      "source_priority": "medium",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 8
+    },
+    {
+      "title": "Agiloft Announces General Availability Of Agiloft Astra, Expanding Access To Contract AI For Legal, Procurement And Finance Teams - Pulse 2.0",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTGpvTUNCZ1Q1N2JnYmpKdk5QZDdOUDUzMnF2b0w1N3J6ZXBzRDVWcXh1TXgwOFRtakx0Ujl4VUt3emtneUM0aS14cXBaVDNiLVNJcDc1MTNNRTNmX1d6Vm5BWWhlVXJjby00NWdfX0cwZ3VwbTA4MjQySFJRaTlpTlNzZ3dBX24tLW5OY3l4cHBWNkhzT3dvYkpnTGVXc2VjbjBlbHdERlJnZUJWQ0FrQ0NRRG9Wa21ySlQ1dmUzQ28xMVh4Qk83dWtYdzNrVDJTd2VuQ2g2UGdmY3NZb1ktRNIB5gFBVV95cUxNa2U5bmdPVlVUbDUtdkxZa0pSTU1pOGRyOU4yRV9tcENmYWVpS2lLMXo4WktzMlJubEpUcEprT19uRW5wY1ZuQ1RNendKOUpzcHl6QmJQeFNEQ2lxWUdZN1RFY0YtLWJsWThzeDRxTkljbENUV2lkamhvbGRQNUxNWm5hTlFJbFQzVV9SV1RaOVJWYzZhVXA1TF9hUGlpNTJMR1pPM2JpUUctcUljUmVycUExX0M2bFJ3dWt4MWwxeU5WRjV0NWNCMC1LTUx4ZkhKaU5nMlZPR2s4aWtSSjNLUlFfSnd2QQ?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTGpvTUNCZ1Q1N2JnYmpKdk5QZDdOUDUzMnF2b0w1N3J6ZXBzRDVWcXh1TXgwOFRtakx0Ujl4VUt3emtneUM0aS14cXBaVDNiLVNJcDc1MTNNRTNmX1d6Vm5BWWhlVXJjby00NWdfX0cwZ3VwbTA4MjQySFJRaTlpTlNzZ3dBX24tLW5OY3l4cHBWNkhzT3dvYkpnTGVXc2VjbjBlbHdERlJnZUJWQ0FrQ0NRRG9Wa21ySlQ1dmUzQ28xMVh4Qk83dWtYdzNrVDJTd2VuQ2g2UGdmY3NZb1ktRNIB5gFBVV95cUxNa2U5bmdPVlVUbDUtdkxZa0pSTU1pOGRyOU4yRV9tcENmYWVpS2lLMXo4WktzMlJubEpUcEprT19uRW5wY1ZuQ1RNendKOUpzcHl6QmJQeFNEQ2lxWUdZN1RFY0YtLWJsWTh",
+      "published": "2026-07-14T16:44:46.000Z",
+      "source_id": "google-news-contract-ai",
+      "source_name": "Google News: contract AI",
+      "source_priority": "medium",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 8
+    },
+    {
       "title": "GPT-5 Launches: Harvey, Spellbook, Legora + TR Already Have It - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPakxDaENfTFFVRjVLRjZQSWplRnJwcUFCQWRtNkUyaUh4T1RvT1Rkc0R3NVZxb095ODN4eGIyREhjTUJTTDFvcmN0cV81OE5Md2k0WS1IVGRJWGdaT1BFaFJDUjdRSkU1ZXZqQTFFUXBQVmFpSndTNFVsb3BEMjN1MnJueW11QmZSWWpzZWhJVndMVk1qSlY1bzhlQQ?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPakxDaENfTFFVRjVLRjZQSWplRnJwcUFCQWRtNkUyaUh4T1RvT1Rkc0R3NVZxb095ODN4eGIyREhjTUJTTDFvcmN0cV81OE5Md2k0WS1IVGRJWGdaT1BFaFJDUjdRSkU1ZXZqQTFFUXBQVmFpSndTNFVsb3BEMjN1MnJueW11QmZSWWpzZWhJVndMVk1qSlY1bzhlQQ?oc=5\" target=\"_blank\"&gt;GPT-5 Launches: Harvey, Spellbook, Legora + TR Already Have It&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
@@ -295,30 +307,6 @@
       "relevance_score": 7
     },
     {
-      "title": "So Far, 2026 Is A Solid Year For Cybersecurity Startup Funding",
-      "url": "https://news.crunchbase.com/cybersecurity/solid-startup-venture-funding-growth-h1-2026/",
-      "summary": "The first quarter of 2026 was a more robust period for funding than the second, with privacy and cybersecurity startups pulling in $4.4 billion in seed- through growth-stage financing in Q2. That marked a decline of around 30% from the prior quarter and year-ago levels.",
-      "published": "2026-07-14T11:00:12.000Z",
-      "source_id": "crunchbase-news",
-      "source_name": "Crunchbase News",
-      "source_priority": "high",
-      "source_tier": "A",
-      "source_category": "Funding / M&A",
-      "relevance_score": 7
-    },
-    {
-      "title": "Exclusive: As Its Kaleidoscope Conference Returns for Year Two, 8am Trades Austin&#8217;s Cowboy Boots for the Las Vegas Strip — And Books the Savannah Bananas&#8217; Founder As Keynote",
-      "url": "https://www.lawnext.com/2026/07/exclusive-as-its-kaleidoscope-conference-returns-for-year-two-8am-trades-austins-cowboy-boots-for-the-las-vegas-strip-and-books-the-savannah-bananas-founder-as-keynote.html",
-      "summary": "Last September, when the company 8am — having successfully pulled off a major rebrand just three weeks earlier — then went on to pull off its first-ever customer conference in Austin, I wrote a review giving it high praise. Although that inaugural event was modest in size, it was big in energy, as well as [&#8230;]",
-      "published": "2026-07-14T13:00:14.000Z",
-      "source_id": "lawsites",
-      "source_name": "LawSites (Bob Ambrogi)",
-      "source_priority": "critical",
-      "source_tier": "B",
-      "source_category": "Legal tech commentary",
-      "relevance_score": 7
-    },
-    {
       "title": "Relativity Acquires Document Automation Company Gavel, Extending Its Legal Data Platform Into Word",
       "url": "https://www.lawnext.com/2026/06/relativity-acquires-document-automation-company-gavel-extending-its-legal-data-platform-into-word.html",
       "summary": "Relativity, the Chicago-based legal data intelligence company best known for the e-discovery and litigation platform RelativityOne, has acquired Gavel, the Los Angeles-based document automation and AI drafting company founded by Dorna Moini (pictured above). Relativity said the move will enable it to extend Relativity&#8217;s AI platform into the place where lawyers actually write, Microsoft Word. [&#8230;]",
@@ -343,27 +331,75 @@
       "relevance_score": 7
     },
     {
-      "title": "Citi&#8217;s Juan Rincon-Cortes on being strategic in an age of uncertainty",
-      "url": "https://www.legalbusiness.co.uk/in-house/citis-juan-rincon-cortes-on-being-strategic-in-an-age-of-uncertainty/",
-      "summary": "Juan Rincon-Cortes has spent more than 15 years at Citi, currently at the group&#8217;s LatAm and Canada GC. Here, he discusses how to go beyond black-letter law to provide strategic advice in an era of ever-greater uncertainty. Law, geopolitics and global dynamics increasingly intersect in today’s hardest legal questions. How has this changed the mindset &#8230; Continue reading \"Citi&#8217;s Juan Rincon-Cortes on being strategic in an age of uncertainty\"",
-      "published": "2026-07-14T13:35:35.000Z",
-      "source_id": "legal-business",
-      "source_name": "Legal Business",
-      "source_priority": "medium",
+      "title": "AI-First Law Firms Don&#8217;t Work Fewer Hours, They Work Smarter Hours",
+      "url": "https://abovethelaw.com/2026/07/ai-first-law-firms-dont-work-fewer-hours-they-work-smarter-hours/",
+      "summary": "The part everyone skips when discussing AI firms is how much managing the machine actually takes. The post AI-First Law Firms Don&#8217;t Work Fewer Hours, They Work Smarter Hours appeared first on Above the Law .",
+      "published": "2026-07-14T19:12:00.000Z",
+      "source_id": "above-the-law-legaltech",
+      "source_name": "Above the Law (Legal Tech)",
+      "source_priority": "high",
       "source_tier": "B",
       "source_category": "Legal profession",
       "relevance_score": 7
     },
     {
-      "title": "The feedback paradox: Why AI critique lands differently",
-      "url": "https://www.thomsonreuters.com/en-us/posts/legal/ai-feedback/",
-      "summary": "AI has unexpectedly revealed that lawyers' resistance to feedback stems not from an inability to receive it, but from interpersonal friction.",
-      "published": "2026-07-14T13:34:04.000Z",
-      "source_id": "thomson-reuters-institute",
-      "source_name": "Thomson Reuters Institute",
-      "source_priority": "medium",
+      "title": "DOJ Rolls Out A Case Quota For The Prosecutors It Hasn&#8217;t Lost Yet",
+      "url": "https://abovethelaw.com/2026/07/doj-rolls-out-a-case-quota-for-the-prosecutors-it-hasnt-lost-yet/",
+      "summary": "Main Justice found a lever to pull that isn't 'why do people keep leaving?' The post DOJ Rolls Out A Case Quota For The Prosecutors It Hasn&#8217;t Lost Yet appeared first on Above the Law .",
+      "published": "2026-07-14T17:01:00.000Z",
+      "source_id": "above-the-law-legaltech",
+      "source_name": "Above the Law (Legal Tech)",
+      "source_priority": "high",
       "source_tier": "B",
-      "source_category": "Research",
+      "source_category": "Legal profession",
+      "relevance_score": 7
+    },
+    {
+      "title": "People Who Will Thrive in the AI Age",
+      "url": "https://www.theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689/",
+      "summary": "Article URL: https://www.theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689/ Comments URL: https://news.ycombinator.com/item?id=48911161 Points: 1 # Comments: 0",
+      "published": "2026-07-14T18:31:56.000Z",
+      "source_id": "hacker-news",
+      "source_name": "Hacker News (filtered)",
+      "source_priority": "low",
+      "source_tier": "B",
+      "source_category": "Community",
+      "relevance_score": 7
+    },
+    {
+      "title": "Project Panama: Why an AI Company Cut Apart Books",
+      "url": "https://www.tobiasreithmeier.de/en/blog/project-panama-anthropic-books",
+      "summary": "Article URL: https://www.tobiasreithmeier.de/en/blog/project-panama-anthropic-books Comments URL: https://news.ycombinator.com/item?id=48910509 Points: 1 # Comments: 0",
+      "published": "2026-07-14T17:48:05.000Z",
+      "source_id": "hacker-news",
+      "source_name": "Hacker News (filtered)",
+      "source_priority": "low",
+      "source_tier": "B",
+      "source_category": "Community",
+      "relevance_score": 7
+    },
+    {
+      "title": "AI Made Cloning Games Easier",
+      "url": "https://www.404media.co/ai-made-cloning-games-easier-than-ever/",
+      "summary": "Article URL: https://www.404media.co/ai-made-cloning-games-easier-than-ever/ Comments URL: https://news.ycombinator.com/item?id=48910484 Points: 1 # Comments: 2",
+      "published": "2026-07-14T17:45:43.000Z",
+      "source_id": "hacker-news",
+      "source_name": "Hacker News (filtered)",
+      "source_priority": "low",
+      "source_tier": "B",
+      "source_category": "Community",
+      "relevance_score": 7
+    },
+    {
+      "title": "Litert.js, Google's High Performance Web AI Inference",
+      "url": "https://developers.googleblog.com/litertjs-googles-high-performance-web-ai-inference/",
+      "summary": "Article URL: https://developers.googleblog.com/litertjs-googles-high-performance-web-ai-inference/ Comments URL: https://news.ycombinator.com/item?id=48910170 Points: 1 # Comments: 0",
+      "published": "2026-07-14T17:26:09.000Z",
+      "source_id": "hacker-news",
+      "source_name": "Hacker News (filtered)",
+      "source_priority": "low",
+      "source_tier": "B",
+      "source_category": "Community",
       "relevance_score": 7
     },
     {
@@ -389,6 +425,18 @@
       "source_tier": "B",
       "source_category": "Research",
       "relevance_score": 7
+    },
+    {
+      "title": "Legal Tech Funding Climbs In 2026 Despite Fewer Deals - Law360",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVW5pNDJ1TUlONzJRMk0tR3F3aTdjR0FqU2hmUE8tRGF3YTBlSDY3V3I5MWZQVDBDajRPREJDSjV2Q0lOQmRWLWRUOXpMaUNULXo2ZTdKR003WHJyMjJOYTBIUVg5MTJMVDBIaHhYalN3TmV3YUxoOElfaEdjcmduUzdTaHNzc2JSR3AtMVVrWlk2enRCWVZCTdIBXkFVX3lxTFBmZTU0YVZoekZpRzgzQmdhOU1oSG9BOHBjV1lvaEdQSGlPV20wLWNGT2VjMXZBdEdtM2Z4b3Q2UVM5dU5kUmY0OXZqNjcwVHFFMGpvc3ZWdlJabmhNYVE?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQVW5pNDJ1TUlONzJRMk0tR3F3aTdjR0FqU2hmUE8tRGF3YTBlSDY3V3I5MWZQVDBDajRPREJDSjV2Q0lOQmRWLWRUOXpMaUNULXo2ZTdKR003WHJyMjJOYTBIUVg5MTJMVDBIaHhYalN3TmV3YUxoOElfaEdjcmduUzdTaHNzc2JSR3AtMVVrWlk2enRCWVZCTdIBXkFVX3lxTFBmZTU0YVZoekZpRzgzQmdhOU1oSG9BOHBjV1lvaEdQSGlPV20wLWNGT2VjMXZBdEdtM2Z4b3Q2UVM5dU5kUmY0OXZqNjcwVHFFMGpvc3ZWdlJabmhNYVE?oc=5\" target=\"_blank\"&gt;Legal Tech Funding Climbs In 2026 Despite Fewer Deals&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt",
+      "published": "2026-07-14T17:10:00.000Z",
+      "source_id": "google-news-legal-tech-funding",
+      "source_name": "Google News: legal tech funding",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
     },
     {
       "title": "The Practical Guide to AI-Powered Due Diligence for M&amp;A Professionals - Harvey",
@@ -431,54 +479,6 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOUJDMnROZUthMW13YnFBdlRCb0YwZE50ZmlPQ2tOZTNzd0tpa1lUd24xZTRINTkyazN6VzBJZFNrSXQtUUkyRklNblNNVW9HeUFHMGpaRGE4WFZBb0hISk1yVVdTSzBEVk9UN2pTeWlsaUxndWozWUtIM29wZEJnWDhkRnZrTURfZy1la3VqeW52SnBQWGFpNGdLSG50ZzNWbzhVVmhybE44ZEpvMkE?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPOUJDMnROZUthMW13YnFBdlRCb0YwZE50ZmlPQ2tOZTNzd0tpa1lUd24xZTRINTkyazN6VzBJZFNrSXQtUUkyRklNblNNVW9HeUFHMGpaRGE4WFZBb0hISk1yVVdTSzBEVk9UN2pTeWlsaUxndWozWUtIM29wZEJnWDhkRnZrTURfZy1la3VqeW52SnBQWGFpNGdLSG50ZzNWbzhVVmhybE44ZEpvMkE?oc=5\" target=\"_blank\"&gt;Eversheds Sutherland’s global co-CEO Keith Froud talks Harvey, AI adoption and ROI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Legal IT Insider&lt;/font&gt;",
       "published": "2026-02-11T08:00:00.000Z",
-      "source_id": "google-news-harvey-luminance",
-      "source_name": "Google News: Harvey OR Luminance",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
-    },
-    {
-      "title": ":Harvey: and ElevenLabs Partner to Give Lawyers a Global Voice - Harvey",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxON1U5aHpIdnkyQk5fWEN4WVZnU0E5eWVqR0I3RWI2RkdFMjlrZ2RETmhFNzdnLXhET2sydHkwdm5HYnFQTmxIT3RRbXI4WmxzTWhHbGdYbXoteFZ3OUlVdFh5REdUdE93M2paejNvVjcyaXIta2swSHJ1UWIxMXF2a0M2SEhsd0dnNmVlNUNfczE?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxON1U5aHpIdnkyQk5fWEN4WVZnU0E5eWVqR0I3RWI2RkdFMjlrZ2RETmhFNzdnLXhET2sydHkwdm5HYnFQTmxIT3RRbXI4WmxzTWhHbGdYbXoteFZ3OUlVdFh5REdUdE93M2paejNvVjcyaXIta2swSHJ1UWIxMXF2a0M2SEhsd0dnNmVlNUNfczE?oc=5\" target=\"_blank\"&gt;:Harvey: and ElevenLabs Partner to Give Lawyers a Global Voice&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
-      "published": "2025-11-12T08:00:00.000Z",
-      "source_id": "google-news-harvey-luminance",
-      "source_name": "Google News: Harvey OR Luminance",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
-    },
-    {
-      "title": "Someone is Smoking Crack, or Harvey AI is Just a Proxy to Participate in an OpenAI $1 Trillion IPO? - Medium",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdTUxWl9Vcno3OFNsblRLb0YyVC1uS20xR256VDRpTnV0RFNWZ3gxREx5S3FGRk4zeV9LXzlOMDVubm1VWEJVMXdZQWluNklWaF9ObTRpaTJNbUtDUUduQ3RPV25xVGd0UXRkRjRNa1BzYzVqTXZua0FUYXpRZDNmN1FKNGpEbUN5YVh4V01HYkZITXpyVWtyYU91LTVnTWpyeFcxN2p3cTVkNWF0SzNUMzRDWDM1c29hU3JrWEE2VFRxay1Nc0R1WWlLb2hodkNSczVtTllnUHJ1a2x1?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdTUxWl9Vcno3OFNsblRLb0YyVC1uS20xR256VDRpTnV0RFNWZ3gxREx5S3FGRk4zeV9LXzlOMDVubm1VWEJVMXdZQWluNklWaF9ObTRpaTJNbUtDUUduQ3RPV25xVGd0UXRkRjRNa1BzYzVqTXZua0FUYXpRZDNmN1FKNGpEbUN5YVh4V01HYkZITXpyVWtyYU91LTVnTWpyeFcxN2p3cTVkNWF0SzNUMzRDWDM1c29hU3JrWEE2VFRxay1Nc0R1WWlLb2hodkNSczVtTllnUHJ1a2x1?oc=5\" target=\"_blank\"&gt;Someone is Smoking Crack, or Harvey AI is Just a Proxy to Participate in an OpenAI $1 Trillion IPO?&lt;/a&gt;&amp;nbsp;&amp;n",
-      "published": "2025-10-31T07:00:00.000Z",
-      "source_id": "google-news-harvey-luminance",
-      "source_name": "Google News: Harvey OR Luminance",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
-    },
-    {
-      "title": ":Harvey:’s iManage Integration - Harvey",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NWWt2LTZETkl6M2txVzBjWUd6SUJnYWZwN2NKYmJpXy1GS2pDUlc4Y2lNazJFRTYyYWc3MGhXQU1STHVDa2hLWE9rV000a0dkQUQzaXRpdEZ5UlVDTFhDSTEwMGM?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NWWt2LTZETkl6M2txVzBjWUd6SUJnYWZwN2NKYmJpXy1GS2pDUlc4Y2lNazJFRTYyYWc3MGhXQU1STHVDa2hLWE9rV000a0dkQUQzaXRpdEZ5UlVDTFhDSTEwMGM?oc=5\" target=\"_blank\"&gt;:Harvey:’s iManage Integration&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
-      "published": "2025-08-11T07:00:00.000Z",
-      "source_id": "google-news-harvey-luminance",
-      "source_name": "Google News: Harvey OR Luminance",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
-    },
-    {
-      "title": "Harvey Ai Number of Employees 2026 | Employee Count &amp; Headcount Data - Revelio Labs",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjWG9CNFREdTBDYkhqeWhzSk1pVGhScVduQk8zdG5LUzJVZ2ZaQXhUazJ3OXdPemZ4UjlENkxCOTYtTm5xOFZZZjlDb3doREwxdUdQMm9rbnhfYWhxLUwyRHJvSVFDeVdEWnc?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBjWG9CNFREdTBDYkhqeWhzSk1pVGhScVduQk8zdG5LUzJVZ2ZaQXhUazJ3OXdPemZ4UjlENkxCOTYtTm5xOFZZZjlDb3doREwxdUdQMm9rbnhfYWhxLUwyRHJvSVFDeVdEWnc?oc=5\" target=\"_blank\"&gt;Harvey Ai Number of Employees 2026 | Employee Count &amp; Headcount Data&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Revelio Labs&lt;/font&gt;",
-      "published": "2026-04-22T15:13:24.000Z",
       "source_id": "google-news-harvey-luminance",
       "source_name": "Google News: Harvey OR Luminance",
       "source_priority": "critical",
