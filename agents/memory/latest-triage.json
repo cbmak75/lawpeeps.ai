@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-14T10:53:15.452Z",
+  "generated": "2026-07-14T14:02:29.811Z",
   "cycle_type": "triage",
   "tier_filter": null,
   "shortlist_size": 7,
@@ -15,64 +15,64 @@
   "picks": [
     {
       "id": "arxiv-cs-ai-0",
-      "score": 3,
+      "score": 2,
       "category": "Research",
       "suggested_angle": "KV-cache compression techniques for LLM inference optimization",
-      "why_now": "Foundational AI research with no legal application or watchlist company involvement",
+      "why_now": "Theoretical ML research with no legal AI application or industry hook",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
       "id": "arxiv-cs-ai-1",
-      "score": 3,
+      "score": 2,
       "category": "Research",
-      "suggested_angle": "Theoretical framework for transformer reasoning dynamics",
-      "why_now": "Pure ML research with no legal tech relevance",
+      "suggested_angle": "Transformer reasoning dynamics in inductive tasks",
+      "why_now": "Fundamental ML research unrelated to legal applications or regulation",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
-      "id": "law-society-gazette-2",
-      "score": 4,
-      "category": "Adoption",
-      "suggested_angle": "NHS claims handling efficiency gains post-system recovery",
-      "why_now": "Tangential to legal AI; focuses on claims management outcomes not technology adoption",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-3",
-      "score": 3,
-      "category": "Research",
-      "suggested_angle": "Message format effects in multi-agent LLM relay systems",
-      "why_now": "Narrow AI research topic with no legal application or firm adoption signal",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-4",
-      "score": 4,
-      "category": "Research",
-      "suggested_angle": "LLM-based decision optimization framework with uncertainty quantification",
-      "why_now": "Generic decision-making research; unclear if applicable to legal decision work",
+      "id": "thomson-reuters-institute-2",
+      "score": 6,
+      "category": "Legal AI",
+      "suggested_angle": "Thomson Reuters research shows lawyer resistance to AI feedback stems from interpersonal friction, not capability gaps",
+      "why_now": "Primary research from major legal tech player on AI adoption barriers; timely for firm strategy coverage",
       "verdict": "watch",
       "duplicate_of": null
     },
     {
-      "id": "arxiv-cs-ai-5",
+      "id": "law-society-gazette-3",
       "score": 3,
-      "category": "Research",
-      "suggested_angle": "In-context learning for LLMs with task-specific knowledge acquisition",
-      "why_now": "Core AI capability research with no legal tech connection identified",
+      "category": "Social",
+      "suggested_angle": "NHS litigation trends post-system disruption",
+      "why_now": "Healthcare claims management story with no AI or legal tech angle despite Law Society Gazette placement",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
-      "id": "arxiv-cs-ai-6",
+      "id": "hacker-news-4",
       "score": 2,
-      "category": "Research",
-      "suggested_angle": "Agentic workflows for educational mathematics visualization",
-      "why_now": "K-12 education focus; out of scope for legal AI publication",
+      "category": "Policy",
+      "suggested_angle": "Demis Hassabis calls for global US-led AI watchdog",
+      "why_now": "General AI governance commentary; not legal-sector specific and pre-filtered secondary aggregation",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "hacker-news-5",
+      "score": 1,
+      "category": "Social",
+      "suggested_angle": "VisualEther network packet analysis tool with MCP for AI",
+      "why_now": "Network infrastructure tool with no legal applications",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "hacker-news-6",
+      "score": 1,
+      "category": "Social",
+      "suggested_angle": "Forum discussion about AI and superstition",
+      "why_now": "Off-topic social media chatter; no legal or professional relevance",
       "verdict": "drop",
       "duplicate_of": null
     }
@@ -81,18 +81,18 @@
     "enqueue_count": 0,
     "watch_count": 1,
     "drop_count": 6,
-    "notes": "Batch is 86% generic ML papers with no legal vertical tie-in. Single watch item (arxiv-cs-ai-4) flagged for decision-optimization angle pending source review, but unlikely to clear."
+    "notes": "Weak shortlist. Only thomson-reuters-institute-2 has editorial merit (firm adoption/behaviour research) but needs verification it's primary source before enqueuing. Rest are academic noise, healthcare claims trivia, or off-topic aggregation."
   },
   "enqueued": 0,
   "usage": {
-    "input_tokens": 3277,
+    "input_tokens": 3236,
     "cache_creation_input_tokens": 0,
     "cache_read_input_tokens": 0,
     "cache_creation": {
       "ephemeral_5m_input_tokens": 0,
       "ephemeral_1h_input_tokens": 0
     },
-    "output_tokens": 772,
+    "output_tokens": 790,
     "service_tier": "standard",
     "inference_geo": "not_available"
   }

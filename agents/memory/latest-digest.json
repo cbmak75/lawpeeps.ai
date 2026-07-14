@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-14T10:53:07.619Z",
+  "generated": "2026-07-14T14:02:20.912Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 1528,
+  "total_scanned": 1526,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -43,13 +43,13 @@
       "relevance_score": 12
     },
     {
-      "title": "LeXi AI, an Indian legal AI, recorded the highest score among five AI models on the AIBE, ahead of GPT-5.5, Gemini 3.1 Pro, Claude Opus 4.8 and DeepSeek V3.2. - TheWire.in",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQZkh0MmFaWTcwMS1OSUtpenpwRTBJb3UtRm8tcGNTeXA2TWhfNFdjQWJmVk5QcklqUHgwaU5Ja0dpazVqMHpvSlRLU0JucjFYUXB1Q3R3eGNyU3k0ekFRaEEwMklRLTRZSDVyUUwyVkR2eHU1ZDhIUF8zRE1JdzhEQ2NSVWVoUGpnZ0k1Z0hFb1dtZTBLemhDazZUZ2hKMFUycG5qN3J5dkROMkpQRkFMUGJYd25BM0twRVdOQ3Yxcmw3bWNkWXVwZl9YcnBiMG9NeFdEMjZwZ28xQXk3R1NVMGN0YnpLc0ZoZ3JaNGV5SEZoLWFjSlFnLWZ3M1V5ZTItcmt0Ung1NUdtNFU1N0otZmVPQjctSVB3OXZv0gGgAkFVX3lxTFB4ZUFja3dZNjhOLTBHc3RJbjYxMzdmcy1VN2ZmTlZEeXhDSzlqZ1pDQ3NVZGx6cXp1Rkg3SU03ZDRnSFdQcEpaU2pMTGg4eXQ4X0xlYk8za3otVG5sUTBNUkNFTmVSTDVrYjAtZ3pybUQ0ZE4zUk5TZURyaWpsUmV5S2JaVVlNV0tWY0pIYTN0ckFGdzFIZXFNYVU3OTIwamN0Vjl4azBpcDAtZmhEY0ZZdXU0VGE5R3puMk5EeTVrTV96bU9fNV9lZ1J1UzVtYXYxLVk2SVJQcE1FbEZGZHpIcUNvZDZ5OVFUM0ZuYUw4OFVNVEJiOGcyeHR3a2N4eU9WdFkxMkd5aEhSd3NmcTF6dzJfU0pITjZDZ0ttM3ctbQ?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwJBVV95cUxQZkh0MmFaWTcwMS1OSUtpenpwRTBJb3UtRm8tcGNTeXA2TWhfNFdjQWJmVk5QcklqUHgwaU5Ja0dpazVqMHpvSlRLU0JucjFYUXB1Q3R3eGNyU3k0ekFRaEEwMklRLTRZSDVyUUwyVkR2eHU1ZDhIUF8zRE1JdzhEQ2NSVWVoUGpnZ0k1Z0hFb1dtZTBLemhDazZUZ2hKMFUycG5qN3J5dkROMkpQRkFMUGJYd25BM0twRVdOQ3Yxcmw3bWNkWXVwZl9YcnBiMG9NeFdEMjZwZ28xQXk3R1NVMGN0YnpLc0ZoZ3JaNGV5SEZoLWFjSlFnLWZ3M1V5ZTItcmt0Ung1NUdtNFU1N0otZmVPQjctSVB3OXZv0gGgAkFVX3lxTFB4ZUFja3dZNjhOLTBHc3RJbjYxMzdmcy1VN2ZmTlZEeXhDSzlqZ1p",
-      "published": "2026-07-14T09:32:11.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
+      "title": "Developers of the Heroes of Might &amp; Magic V remake on UE5 engine showed progress - unit models, spellbook, and more - ixbt.games",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZVdBNUZSR0hwc1JIRUlkcXNPM3NaLW92bTlEQjN4a3pkQkhRel9CUnozeGgtb1JSNDk0Z3JLRU9oN2RBMWpuc2VVTmN1ZHZlUkF4ZnhON2toLUF6WVBpQTJ3OWxRajFNUTJXUHJuLWs0ZVoxQmlXM1FkT2MtM1NsLXlERnduMjFGdUg4RTR3RUptS1hVZjBhX09weHkxN0dKUzNra2RMM18wanU2NTNEbmxCTko2Z1RiUkFuUDJxTENpRk1PTnIyMGwxWGhHdHRyX2s5Y0NUYVNfUXkzNk9tZVRKQ3pDZG1wVUFnNXdBeEhBMG9r0gH6AUFVX3lxTE1SRGN0Z2JmT0ZwM1F0WmZKUlhTd3BJaHhLOGVhZ2JMMF84ekNtU1hUZWROclFCQnM4OURuZE45N3BmVlQtVEZqQVZKUlFWb0toWDVTUi14amV5MGlYVkJjX2c3eUY4UjYyVmZYRGdCb3RBNE0tdE53Y2pha0xvb0RPTkxtRUppWFBPUXV2T2FUNllTTllVTjI1ZmxJWXVpLXNRNDZwVXcxTi1KTmVBMlVRblhHSDRNSEFpZG54X0c2NmIxUUczajQtYndnaHZJMG9MaV9RZDRmdW0zOVBIdzU5eUt4eHc1M3hDVDhmSjN5NDQ4S2hBRVByclE?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZVdBNUZSR0hwc1JIRUlkcXNPM3NaLW92bTlEQjN4a3pkQkhRel9CUnozeGgtb1JSNDk0Z3JLRU9oN2RBMWpuc2VVTmN1ZHZlUkF4ZnhON2toLUF6WVBpQTJ3OWxRajFNUTJXUHJuLWs0ZVoxQmlXM1FkT2MtM1NsLXlERnduMjFGdUg4RTR3RUptS1hVZjBhX09weHkxN0dKUzNra2RMM18wanU2NTNEbmxCTko2Z1RiUkFuUDJxTENpRk1PTnIyMGwxWGhHdHRyX2s5Y0NUYVNfUXkzNk9tZVRKQ3pDZG1wVUFnNXdBeEhBMG9r0gH6AUFVX3lxTE1SRGN0Z2JmT0ZwM1F0WmZKUlhTd3BJaHhLOGVhZ2JMMF84ekNtU1hUZWROclFCQnM4OURuZE45N3BmVlQtVEZqQVZKUlFWb0toWDVTUi1",
+      "published": "2026-07-14T10:34:30.000Z",
+      "source_id": "google-news-contract-ai",
+      "source_name": "Google News: contract AI",
+      "source_priority": "medium",
       "source_tier": "A",
       "source_category": "Aggregator",
       "relevance_score": 10
@@ -307,18 +307,6 @@
       "relevance_score": 7
     },
     {
-      "title": "Chicago Cubs and Harvey Announce Partnership, Naming Harvey the Official Legal AI Platform - Harvey",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZUU3Q0tMckdwcHpjczFCRTE1VTI2SW9sRmZOVWJOM1FtZE4zdWh0Q0dKMEZha09qYzZKYWl6VnRpdExBOVI4WmNwSm52LVBfaWhJM0tHZHQwV1p2Z1FtM2U5eGwtazFMS0JNcXpieW9rNExuQy15VHNjbTlVOEE2UWM3VllLMXRLUFdHdjQyOFFXUk1LQ2NkQkNOb1dkZ0poaF9udjJETzJPaWVOd3l5dW9PYno0OVU?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNZUU3Q0tMckdwcHpjczFCRTE1VTI2SW9sRmZOVWJOM1FtZE4zdWh0Q0dKMEZha09qYzZKYWl6VnRpdExBOVI4WmNwSm52LVBfaWhJM0tHZHQwV1p2Z1FtM2U5eGwtazFMS0JNcXpieW9rNExuQy15VHNjbTlVOEE2UWM3VllLMXRLUFdHdjQyOFFXUk1LQ2NkQkNOb1dkZ0poaF9udjJETzJPaWVOd3l5dW9PYno0OVU?oc=5\" target=\"_blank\"&gt;Chicago Cubs and Harvey Announce Partnership, Naming Harvey the Official Legal AI Platform&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
-      "published": "2026-03-26T07:00:00.000Z",
-      "source_id": "google-news-harvey-luminance",
-      "source_name": "Google News: Harvey OR Luminance",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 7
-    },
-    {
       "title": "Juro Goes Direct to ChatGPT For Contract AI - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWTB4VVlWclpYMExWSFdxaWpHaXdNYXQ3UnQyWGJKemgtOGtoanNPVWZrVHRuVWdma00xUnhaTlF5TXl4SjQycDFLZjNwb0xMTHljWm9Lc3I4V0NvTnY2RXVFeGJfUHV3MzhTNnJPeGdEdmNqcUQza0ZpU3hmUFBHc3ZqUEF2dUNnVW8yN2NETHBMZw?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQWTB4VVlWclpYMExWSFdxaWpHaXdNYXQ3UnQyWGJKemgtOGtoanNPVWZrVHRuVWdma00xUnhaTlF5TXl4SjQycDFLZjNwb0xMTHljWm9Lc3I4V0NvTnY2RXVFeGJfUHV3MzhTNnJPeGdEdmNqcUQza0ZpU3hmUFBHc3ZqUEF2dUNnVW8yN2NETHBMZw?oc=5\" target=\"_blank\"&gt;Juro Goes Direct to ChatGPT For Contract AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
@@ -328,6 +316,30 @@
       "source_priority": "medium",
       "source_tier": "A",
       "source_category": "Aggregator",
+      "relevance_score": 7
+    },
+    {
+      "title": "So Far, 2026 Is A Solid Year For Cybersecurity Startup Funding",
+      "url": "https://news.crunchbase.com/cybersecurity/solid-startup-venture-funding-growth-h1-2026/",
+      "summary": "The first quarter of 2026 was a more robust period for funding than the second, with privacy and cybersecurity startups pulling in $4.4 billion in seed- through growth-stage financing in Q2. That marked a decline of around 30% from the prior quarter and year-ago levels.",
+      "published": "2026-07-14T11:00:12.000Z",
+      "source_id": "crunchbase-news",
+      "source_name": "Crunchbase News",
+      "source_priority": "high",
+      "source_tier": "A",
+      "source_category": "Funding / M&A",
+      "relevance_score": 7
+    },
+    {
+      "title": "Exclusive: As Its Kaleidoscope Conference Returns for Year Two, 8am Trades Austin&#8217;s Cowboy Boots for the Las Vegas Strip — And Books the Savannah Bananas&#8217; Founder As Keynote",
+      "url": "https://www.lawnext.com/2026/07/exclusive-as-its-kaleidoscope-conference-returns-for-year-two-8am-trades-austins-cowboy-boots-for-the-las-vegas-strip-and-books-the-savannah-bananas-founder-as-keynote.html",
+      "summary": "Last September, when the company 8am — having successfully pulled off a major rebrand just three weeks earlier — then went on to pull off its first-ever customer conference in Austin, I wrote a review giving it high praise. Although that inaugural event was modest in size, it was big in energy, as well as [&#8230;]",
+      "published": "2026-07-14T13:00:14.000Z",
+      "source_id": "lawsites",
+      "source_name": "LawSites (Bob Ambrogi)",
+      "source_priority": "critical",
+      "source_tier": "B",
+      "source_category": "Legal tech commentary",
       "relevance_score": 7
     },
     {
@@ -355,9 +367,21 @@
       "relevance_score": 7
     },
     {
-      "title": "Fieldfisher closes in on £400m after European expansion drive",
+      "title": "Citi&#8217;s Juan Rincon-Cortes on being strategic in an age of uncertainty",
+      "url": "https://www.legalbusiness.co.uk/in-house/citis-juan-rincon-cortes-on-being-strategic-in-an-age-of-uncertainty/",
+      "summary": "Juan Rincon-Cortes has spent more than 15 years at Citi, currently at the group&#8217;s LatAm and Canada GC. Here, he discusses how to go beyond black-letter law to provide strategic advice in an era of ever-greater uncertainty. Law, geopolitics and global dynamics increasingly intersect in today’s hardest legal questions. How has this changed the mindset &#8230; Continue reading \"Citi&#8217;s Juan Rincon-Cortes on being strategic in an age of uncertainty\"",
+      "published": "2026-07-14T13:35:35.000Z",
+      "source_id": "legal-business",
+      "source_name": "Legal Business",
+      "source_priority": "medium",
+      "source_tier": "B",
+      "source_category": "Legal profession",
+      "relevance_score": 7
+    },
+    {
+      "title": "Fieldfisher closes in on £400m in revenue as TLT tops £200m",
       "url": "https://www.legalbusiness.co.uk/law-firms/fieldfisher-closes-in-on-400m-after-european-expansion-drive/",
-      "summary": "Fieldfisher has posted its 2025-26 financial results, with revenue hitting £398m, up 4% from last year&#8217;s £385m. At the same time, the firm also saw a slight decline in its profit per equity partner (PEP), which dipped by 3%, down to £975,000 from £1m last year. Looking just at the top line, however, the results mark &#8230; Continue reading \"Fieldfisher closes in on £400m after European expansion drive\"",
+      "summary": "Fieldfisher has posted its 2025-26 financial results, with revenue hitting £398m, up 4% from last year&#8217;s £385m. At the same time, the firm also saw a slight decline in its profit per equity partner (PEP), which dipped by 3%, down to £975,000 from £1m last year. Looking just at the top line, however, the results mark &#8230; Continue reading \"Fieldfisher closes in on £400m in revenue as TLT tops £200m\"",
       "published": "2026-07-14T10:11:09.000Z",
       "source_id": "legal-business",
       "source_name": "Legal Business",
@@ -391,9 +415,21 @@
       "relevance_score": 7
     },
     {
+      "title": "The feedback paradox: Why AI critique lands differently",
+      "url": "https://www.thomsonreuters.com/en-us/posts/legal/ai-feedback/",
+      "summary": "AI has unexpectedly revealed that lawyers' resistance to feedback stems not from an inability to receive it, but from interpersonal friction.",
+      "published": "2026-07-14T13:34:04.000Z",
+      "source_id": "thomson-reuters-institute",
+      "source_name": "Thomson Reuters Institute",
+      "source_priority": "medium",
+      "source_tier": "B",
+      "source_category": "Research",
+      "relevance_score": 7
+    },
+    {
       "title": "NHS closes 30% fewer claims after system disruption",
       "url": "https://www.lawgazette.co.uk/news/nhs-closes-30-fewer-claims-after-system-disruption/5127358.article",
-      "summary": "NHS Resolution also reveals defence spending rose quicker than claimant lawyer costs.",
+      "summary": "NHS Resolution also reveals defence spending rose more quickly than claimant lawyer costs.",
       "published": "2026-07-14T08:47:00.000Z",
       "source_id": "law-society-gazette",
       "source_name": "Law Society Gazette",
@@ -403,10 +439,10 @@
       "relevance_score": 7
     },
     {
-      "title": "Show HN: Neverswipe – your AI agent dates so you don't swipe",
-      "url": "https://neverswipe.ai",
-      "summary": "Article URL: https://neverswipe.ai Comments URL: https://news.ycombinator.com/item?id=48903487 Points: 3 # Comments: 2",
-      "published": "2026-07-14T07:52:12.000Z",
+      "title": "Google's Demis Hassabis says it's time for a global AI watchdog led by the US",
+      "url": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
+      "summary": "Article URL: https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog Comments URL: https://news.ycombinator.com/item?id=48906776 Points: 2 # Comments: 0",
+      "published": "2026-07-14T13:45:07.000Z",
       "source_id": "hacker-news",
       "source_name": "Hacker News (filtered)",
       "source_priority": "low",
@@ -415,10 +451,10 @@
       "relevance_score": 7
     },
     {
-      "title": "What Anthropic's latest AI discovery does–and doesn't–show",
-      "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
-      "summary": "Article URL: https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/ Comments URL: https://news.ycombinator.com/item?id=48903165 Points: 3 # Comments: 0",
-      "published": "2026-07-14T07:01:34.000Z",
+      "title": "Show HN: VisualEther – Wireshark PCAPs to sequence diagrams; MCP for AI analysis",
+      "url": "https://www.eventhelix.com/visualether/case-studies/5g-nr-r16-mdt-mac-pdcp-decryption-scheduling-harq-ipsec-esp-analysis.html",
+      "summary": "Article URL: https://www.eventhelix.com/visualether/case-studies/5g-nr-r16-mdt-mac-pdcp-decryption-scheduling-harq-ipsec-esp-analysis.html Comments URL: https://news.ycombinator.com/item?id=48906513 Points: 1 # Comments: 0",
+      "published": "2026-07-14T13:26:08.000Z",
       "source_id": "hacker-news",
       "source_name": "Hacker News (filtered)",
       "source_priority": "low",
@@ -427,10 +463,10 @@
       "relevance_score": 7
     },
     {
-      "title": "Show HN: Benchmark your eng team's AI agent maturity in 5 minutes",
-      "url": "https://agent-benchmarks.com/software-factory/",
-      "summary": "we had hundreds of discussions with engineering leaders over the past few months, and everyone's trying to understand where they are in the AI journey. we collected all this data into a benchmark and built a free grader to let you know where you stand. you answer on a 1–5 scale (e.g., autonomy runs from \"suggestions only\" to \"agents own multi-hour workflows across code, infra, and external systems\") - takes about 5 minutes. https://agent-benchmarks.com/software-factory/ waiting for your results!",
-      "published": "2026-07-14T06:48:47.000Z",
+      "title": "Ask HN: Prompting AI for black magic incantations?",
+      "url": "https://news.ycombinator.com/item?id=48906399",
+      "summary": "friend told me he does't believe in it but some weird things started happening since he started doing this for fun. Anybody else with similar experiences? Comments URL: https://news.ycombinator.com/item?id=48906399 Points: 1 # Comments: 0",
+      "published": "2026-07-14T13:18:05.000Z",
       "source_id": "hacker-news",
       "source_name": "Hacker News (filtered)",
       "source_priority": "low",
@@ -439,51 +475,15 @@
       "relevance_score": 7
     },
     {
-      "title": "Faithful, Not Corrective: Message-Format Effects in Multi-Hop Agent Relays Are Tier-Dependent",
-      "url": "https://arxiv.org/abs/2607.09678",
-      "summary": "arXiv:2607.09678v1 Announce Type: new Abstract: When LLM agents hand off information to one another, does the message format matter? Two literatures disagree: format-optimization work reports that structured messages cut cost without hurting accuracy, while format-restriction work finds that imposing structure degrades generation -- and neither measures what happens when a message traverses multiple hops, where copy fidelity, not one-shot generation, dominates. We introduce a controlled relay te",
-      "published": "2026-07-14T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI (keyword-filtered)",
+      "title": "Anthropic commits $10M to Canadian AI research",
+      "url": "https://www.anthropic.com/news/canadian-ai-research",
+      "summary": "Article URL: https://www.anthropic.com/news/canadian-ai-research Comments URL: https://news.ycombinator.com/item?id=48906378 Points: 3 # Comments: 0",
+      "published": "2026-07-14T13:16:08.000Z",
+      "source_id": "hacker-news",
+      "source_name": "Hacker News (filtered)",
       "source_priority": "low",
       "source_tier": "B",
-      "source_category": "Research",
-      "relevance_score": 7
-    },
-    {
-      "title": "YUKTI: From Natural-Language Situations to Robust, Verifiable Decisions An Uncertainty-Typed Proposition IR, Assumption-Robust Pareto Frontiers, and a Regret Certificate",
-      "url": "https://arxiv.org/abs/2607.09706",
-      "summary": "arXiv:2607.09706v1 Announce Type: new Abstract: Language models turn a worded situation into a numeric plan, and the dominant pipelines (NL4Opt, OptiMUS, ORLM, OR-LLM-Agent) commit to a single objective and point-valued coefficients, then solve once. For decisions that allocate real budget, effort, or clinical attention, that confidence is the failure mode: every objectified number is an assumption, and a plan optimal only if the guesses are exactly right is fragile -- mimicry of computation. YU",
-      "published": "2026-07-14T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI (keyword-filtered)",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "Research",
-      "relevance_score": 7
-    },
-    {
-      "title": "Agentic Context Learning with Self-Discovered Specification",
-      "url": "https://arxiv.org/abs/2607.09794",
-      "summary": "arXiv:2607.09794v1 Announce Type: new Abstract: Context learning is an emerging inference-time task where LLMs must learn and apply novel, task-specific knowledge from intricate contexts absent from pre-training; even frontier models score under 24% task success. In this work, we conduct a comprehensive empirical study to understand why this setting remains difficult. A natural hypothesis is that failures stem from content access; yet across twelve retrieval, reflection, and verification baselin",
-      "published": "2026-07-14T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI (keyword-filtered)",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "Research",
-      "relevance_score": 7
-    },
-    {
-      "title": "Exploring Agentic Workflows for Generating High Quality Math Visual Aids",
-      "url": "https://arxiv.org/abs/2607.09839",
-      "summary": "arXiv:2607.09839v1 Announce Type: new Abstract: Mathematical diagrams play a crucial role in K 12 education, both as problem components and as scaffolding for student comprehension. However, current AI tools, including Large Language Models (LLMs), struggle to reliably generate accurate and pedagogically sound visual diagrams, even when provided with detailed descriptions. A significant gap therefore remains in the reliable generation of diagrams for middle school mathematics. To address this, w",
-      "published": "2026-07-14T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI (keyword-filtered)",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "Research",
+      "source_category": "Community",
       "relevance_score": 7
     }
   ]
