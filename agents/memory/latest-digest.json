@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-13T22:01:59.509Z",
+  "generated": "2026-07-14T03:16:15.723Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 1196,
+  "total_scanned": 1198,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -115,18 +115,6 @@
       "relevance_score": 9
     },
     {
-      "title": "Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook partners with CBA; DeepIP raises $25m - Legal IT Insider",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcXJGTU9ucEc1azNNOTZ3eWI1dldHblpjS0lIdG9jTy1YSE1SSEdlWXlqa041bzd4R052ckZLZG1TQnh6eUE1bFhEV0FyYlFndF84Z1hTczZXZ0IzOVRoMF9jWHhkMXp2X2tjenNUMktCZWM1eVlvM0tjZEpvX2ZoeUpaTUN5UTZUaDJEWWdvVDFJZWpGYTZiQV8ycEc1dEJRMTJCWktEV3IwX3FoX1F6cFk5dkJ1VUtHaURCWmlBTUpTcFRJQVk3cmYxODlsMEpjQnRMdHkwLWNoR1lzT01jRmJlSjJwdw?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcXJGTU9ucEc1azNNOTZ3eWI1dldHblpjS0lIdG9jTy1YSE1SSEdlWXlqa041bzd4R052ckZLZG1TQnh6eUE1bFhEV0FyYlFndF84Z1hTczZXZ0IzOVRoMF9jWHhkMXp2X2tjenNUMktCZWM1eVlvM0tjZEpvX2ZoeUpaTUN5UTZUaDJEWWdvVDFJZWpGYTZiQV8ycEc1dEJRMTJCWktEV3IwX3FoX1F6cFk5dkJ1VUtHaURCWmlBTUpTcFRJQVk3cmYxODlsMEpjQnRMdHkwLWNoR1lzT01jRmJlSjJwdw?oc=5\" target=\"_blank\"&gt;Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook partners with CBA; De",
-      "published": "2026-03-04T08:00:00.000Z",
-      "source_id": "google-news-legal-tech-funding",
-      "source_name": "Google News: legal tech funding",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 8
-    },
-    {
       "title": "Top Legal AI Startups Funded in 2026 (Harvey, Legora, Ironclad) - AI Funding Tracker",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10MGJkNVo1c0RqNmhuZWpialozbzBsejY0eWFVUkxsdHM0SG44M1BYM3VtZm92MVlmWGdIaGl0bF9VZkpacEs3R01yT3hBajlpMmxNUmlxV25NWWY3UW1ReA?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE10MGJkNVo1c0RqNmhuZWpialozbzBsejY0eWFVUkxsdHM0SG44M1BYM3VtZm92MVlmWGdIaGl0bF9VZkpacEs3R01yT3hBajlpMmxNUmlxV25NWWY3UW1ReA?oc=5\" target=\"_blank\"&gt;Top Legal AI Startups Funded in 2026 (Harvey, Legora, Ironclad)&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;AI Funding Tracker&lt;/font&gt;",
@@ -139,10 +127,10 @@
       "relevance_score": 8
     },
     {
-      "title": "Why legal tech giant Harvey is raising cash like OpenAI - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaDhOaTN1RzVmZmxWa1U2TTZyTW9ucXRjZjU2RHUzT0RoMTJQb1BvZ1hpbUgwTUFZS3U5UHV1R21abHdrRDR3cFlWTC1SY3J2WUN1YWlwSlY0Y0VpVjVYSXV2dk93YjhuU0NXYTE5QnBiVHF5bHVLRHdWbzMxdVB3MU0zMFh1TzF0U1JmOA?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQaDhOaTN1RzVmZmxWa1U2TTZyTW9ucXRjZjU2RHUzT0RoMTJQb1BvZ1hpbUgwTUFZS3U5UHV1R21abHdrRDR3cFlWTC1SY3J2WUN1YWlwSlY0Y0VpVjVYSXV2dk93YjhuU0NXYTE5QnBiVHF5bHVLRHdWbzMxdVB3MU0zMFh1TzF0U1JmOA?oc=5\" target=\"_blank\"&gt;Why legal tech giant Harvey is raising cash like OpenAI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Business Insider&lt;/font&gt;",
-      "published": "2026-03-26T07:00:00.000Z",
+      "title": "Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook partners with CBA; DeepIP raises $25m - Legal IT Insider",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcXJGTU9ucEc1azNNOTZ3eWI1dldHblpjS0lIdG9jTy1YSE1SSEdlWXlqa041bzd4R052ckZLZG1TQnh6eUE1bFhEV0FyYlFndF84Z1hTczZXZ0IzOVRoMF9jWHhkMXp2X2tjenNUMktCZWM1eVlvM0tjZEpvX2ZoeUpaTUN5UTZUaDJEWWdvVDFJZWpGYTZiQV8ycEc1dEJRMTJCWktEV3IwX3FoX1F6cFk5dkJ1VUtHaURCWmlBTUpTcFRJQVk3cmYxODlsMEpjQnRMdHkwLWNoR1lzT01jRmJlSjJwdw?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcXJGTU9ucEc1azNNOTZ3eWI1dldHblpjS0lIdG9jTy1YSE1SSEdlWXlqa041bzd4R052ckZLZG1TQnh6eUE1bFhEV0FyYlFndF84Z1hTczZXZ0IzOVRoMF9jWHhkMXp2X2tjenNUMktCZWM1eVlvM0tjZEpvX2ZoeUpaTUN5UTZUaDJEWWdvVDFJZWpGYTZiQV8ycEc1dEJRMTJCWktEV3IwX3FoX1F6cFk5dkJ1VUtHaURCWmlBTUpTcFRJQVk3cmYxODlsMEpjQnRMdHkwLWNoR1lzT01jRmJlSjJwdw?oc=5\" target=\"_blank\"&gt;Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook partners with CBA; De",
+      "published": "2026-03-04T08:00:00.000Z",
       "source_id": "google-news-legal-tech-funding",
       "source_name": "Google News: legal tech funding",
       "source_priority": "critical",
@@ -151,10 +139,10 @@
       "relevance_score": 8
     },
     {
-      "title": "EvenUp, AI Software For Personal Injury Law, Doubles Valuation To $2B As Legal Tech Funding Hits Record High - Crunchbase News",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY2p6WWxfeE1ZZDJxQXJPOWtrR2VZdkxlSkFtck03QWJtOU1YcGtHUFBlZllXMXkxeXRlcHhfZU9vR0VMU1JUS0FYMGNUSXZ0UnVRSU5YRVZuWERkU29MVFYzYjNtdHN6OUZGU3JlNWpLcDI3eTRwam5fVkhUSzU2WFdtX0daQUNseG50YzRpTQ?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQY2p6WWxfeE1ZZDJxQXJPOWtrR2VZdkxlSkFtck03QWJtOU1YcGtHUFBlZllXMXkxeXRlcHhfZU9vR0VMU1JUS0FYMGNUSXZ0UnVRSU5YRVZuWERkU29MVFYzYjNtdHN6OUZGU3JlNWpLcDI3eTRwam5fVkhUSzU2WFdtX0daQUNseG50YzRpTQ?oc=5\" target=\"_blank\"&gt;EvenUp, AI Software For Personal Injury Law, Doubles Valuation To $2B As Legal Tech Funding Hits Record High&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Crunchbase News&lt;/font&gt;",
-      "published": "2025-10-07T07:00:00.000Z",
+      "title": "Why legal tech giant Harvey is raising cash like OpenAI - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaDhOaTN1RzVmZmxWa1U2TTZyTW9ucXRjZjU2RHUzT0RoMTJQb1BvZ1hpbUgwTUFZS3U5UHV1R21abHdrRDR3cFlWTC1SY3J2WUN1YWlwSlY0Y0VpVjVYSXV2dk93YjhuU0NXYTE5QnBiVHF5bHVLRHdWbzMxdVB3MU0zMFh1TzF0U1JmOA?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQaDhOaTN1RzVmZmxWa1U2TTZyTW9ucXRjZjU2RHUzT0RoMTJQb1BvZ1hpbUgwTUFZS3U5UHV1R21abHdrRDR3cFlWTC1SY3J2WUN1YWlwSlY0Y0VpVjVYSXV2dk93YjhuU0NXYTE5QnBiVHF5bHVLRHdWbzMxdVB3MU0zMFh1TzF0U1JmOA?oc=5\" target=\"_blank\"&gt;Why legal tech giant Harvey is raising cash like OpenAI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Business Insider&lt;/font&gt;",
+      "published": "2026-03-26T07:00:00.000Z",
       "source_id": "google-news-legal-tech-funding",
       "source_name": "Google News: legal tech funding",
       "source_priority": "critical",
@@ -247,24 +235,36 @@
       "relevance_score": 8
     },
     {
-      "title": "Morning Docket: 07.10.26",
-      "url": "https://abovethelaw.com/2026/07/morning-docket-07-10-26/",
-      "summary": "* OpenAI accused of hiding evidence in NY Times copyright case. Reached for comment, ChatGPT said, \"I'm sorry, you're right, I was supposed to produce that.\" [ Law360 ] * Lawyer dressed as police officer to spy on ex-girlfriend at Nando's. [ Roll on Friday ] * Ninth Circuit judge Ryan Nelson will have his parking lot tussle with another motorist heard by the Fourth Circuit. Here's a helpful guide for him . [ LA Times ] *Every federal judge in the Middle District of Tennessee recused themselves f",
-      "published": "2026-07-10T13:01:20.000Z",
-      "source_id": "above-the-law-legaltech",
-      "source_name": "Above the Law (Legal Tech)",
-      "source_priority": "high",
-      "source_tier": "B",
-      "source_category": "Legal profession",
-      "relevance_score": 8
-    },
-    {
       "title": "The Legal AI Scaffold Changes Everything – Claude Study - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQU4tdGFPSGFaaGo0NGRvdnhxMUhYQ3pSd18td3lld2ZRd2xiQkVwWUQ0Z1lhR3IwdGstdE5STUVBTzdqdkxvbnhWUTVwZ0Y5MDNqT1hHV0RDUGVldzI5R2JrdEtaZ2NfYWNDVERjN1o5QWFqeGFTTEp6VDB1S19id3VoOUZUbzQ0eDdwNzJHNzdvYzRNWUh5cFV6UnhXOE0?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNQU4tdGFPSGFaaGo0NGRvdnhxMUhYQ3pSd18td3lld2ZRd2xiQkVwWUQ0Z1lhR3IwdGstdE5STUVBTzdqdkxvbnhWUTVwZ0Y5MDNqT1hHV0RDUGVldzI5R2JrdEtaZ2NfYWNDVERjN1o5QWFqeGFTTEp6VDB1S19id3VoOUZUbzQ0eDdwNzJHNzdvYzRNWUh5cFV6UnhXOE0?oc=5\" target=\"_blank\"&gt;The Legal AI Scaffold Changes Everything – Claude Study&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
       "published": "2026-06-22T07:00:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 7
+    },
+    {
+      "title": "Anthropic’s Legal Plugin for Claude Cowork May Be the Opening Salvo In A Competition Between Foundation Models and Legal Tech Incumbents - LawSites",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQR0U2ZGlPRTRva1FUZkNHeXdpTkJkazR2SG5GWnVwN3dRZkpHVEVhdTQ0c3lOd212bmZZVEdZYWVIcHFnYUFaTGkzb3liRlRabzcxSTBRcXotLTBiRFdyTWtZWXN3MXg5cUh2SVZ0WktNLTAxQmQyY2NGdEZhYjJTRWR5c2lWTmtadnJEYXRXY3l5Z0xiTjkxN3hNRkpqM21oZkRKdC1RYVFFSDctdVlwNFk4RnUyaVd4WkhuMnRxNjJrX0xmMzZpaUtEX0VQeU1qWk44VU9GY2JpQmVCZjJGTUlwOVVyUndYbFl4X0lJZEwyZk9oRUg5dkwxVkRkVUU2YVE?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxQR0U2ZGlPRTRva1FUZkNHeXdpTkJkazR2SG5GWnVwN3dRZkpHVEVhdTQ0c3lOd212bmZZVEdZYWVIcHFnYUFaTGkzb3liRlRabzcxSTBRcXotLTBiRFdyTWtZWXN3MXg5cUh2SVZ0WktNLTAxQmQyY2NGdEZhYjJTRWR5c2lWTmtadnJEYXRXY3l5Z0xiTjkxN3hNRkpqM21oZkRKdC1RYVFFSDctdVlwNFk4RnUyaVd4WkhuMnRxNjJrX0xmMzZpaUtEX0VQeU1qWk44VU9GY2JpQmVCZjJGTUlwOVVyUndYbFl4X0lJZEwyZk9oRUg5dkwxVkRkVUU2YVE?oc=5\" target=\"_blank\"&gt;Anthropic’s Legal Plugin for Claude Cowork May Be the Opening Salvo In A C",
+      "published": "2026-02-03T08:00:00.000Z",
+      "source_id": "google-news-legal-tech-funding",
+      "source_name": "Google News: legal tech funding",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 7
+    },
+    {
+      "title": "Legal AI giant Harvey acquires Hexus as competition heats up in legal tech - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWtsRnRNeWxYZWEwaERMRVJaRWVfQm41MzVDeDJBM1ZIOEstUW5DaTB5UUhjUXE5Sml2QU40RzdZaWlqeUpid3dELUpLTHlKbVNRNmRObWtrZ1dSSXd3R20wSDY3TkVUOHVwRzlZOTh1b1FraXZlNGpuUnBPcXdIU2oxbVZzMTZDVzVNMDRDcGR0NC1oQ2pfMGlUY25YSHBZaHJUTEljdzU5LWREa0E?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWtsRnRNeWxYZWEwaERMRVJaRWVfQm41MzVDeDJBM1ZIOEstUW5DaTB5UUhjUXE5Sml2QU40RzdZaWlqeUpid3dELUpLTHlKbVNRNmRObWtrZ1dSSXd3R20wSDY3TkVUOHVwRzlZOTh1b1FraXZlNGpuUnBPcXdIU2oxbVZzMTZDVzVNMDRDcGR0NC1oQ2pfMGlUY25YSHBZaHJUTEljdzU5LWREa0E?oc=5\" target=\"_blank\"&gt;Legal AI giant Harvey acquires Hexus as competition heats up in legal tech&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;TechCrunch&lt;/font&gt;",
+      "published": "2026-01-23T08:00:00.000Z",
+      "source_id": "google-news-legal-tech-funding",
+      "source_name": "Google News: legal tech funding",
       "source_priority": "critical",
       "source_tier": "A",
       "source_category": "Aggregator",
@@ -295,18 +295,6 @@
       "relevance_score": 7
     },
     {
-      "title": "The AI Productivity Inflection: How the Agentic PDLC Accelerated Delivery and Drove AI Adoption",
-      "url": "https://www.lawnext.com/2026/07/53697.html",
-      "summary": "R&#38;D &#38; AI INNOVATION The AI Productivity Inflection How the Agentic PDLC Accelerated Delivery and Drove AI Adoption R&#38;D performance, Q1 FY2025 through Q2 FY2026 By Greg Ingino, Chief Technology Officer, Litera &#160; Eighteen months ago, I walked out of an Hg conference in Silicon Valley knowing that how we built software was about to [&#8230;]",
-      "published": "2026-07-13T16:40:22.000Z",
-      "source_id": "lawsites",
-      "source_name": "LawSites (Bob Ambrogi)",
-      "source_priority": "critical",
-      "source_tier": "B",
-      "source_category": "Legal tech commentary",
-      "relevance_score": 7
-    },
-    {
       "title": "Relativity Acquires Document Automation Company Gavel, Extending Its Legal Data Platform Into Word",
       "url": "https://www.lawnext.com/2026/06/relativity-acquires-document-automation-company-gavel-extending-its-legal-data-platform-into-word.html",
       "summary": "Relativity, the Chicago-based legal data intelligence company best known for the e-discovery and litigation platform RelativityOne, has acquired Gavel, the Los Angeles-based document automation and AI drafting company founded by Dorna Moini (pictured above). Relativity said the move will enable it to extend Relativity&#8217;s AI platform into the place where lawyers actually write, Microsoft Word. [&#8230;]",
@@ -331,16 +319,28 @@
       "relevance_score": 7
     },
     {
-      "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
-      "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
-      "summary": "OpenAI accused of conspiring with former Apple employees to steal trade secrets.",
-      "published": "2026-07-13T19:17:51.000Z",
-      "source_id": "ars-technica-ai",
-      "source_name": "Ars Technica AI",
-      "source_priority": "low",
+      "title": "&#8216;Trump v. Trump&#8217; Did Not Impress The Judge &#8212; See Also",
+      "url": "https://abovethelaw.com/2026/07/trump-v-trump-did-not-impress-the-judge-see-also/",
+      "summary": "Benchslapped By His Own Petard : Judge nixes Trump v. IRS settlement citing administration's unitary executive nonsense . Todd Blanche Loses Lindsey Graham : Contentious confirmation hearing set to begin this week will have to go ahead without Lindsey Graham after the senator died over the weekend (perhaps he'll be dealing with Graham's sister, who has been tapped to fill out his term ). Yale Law Lost The Top Spot In The 2026 U.S. News Rankings : And the school's placement is even worse in this ",
+      "published": "2026-07-13T23:32:00.000Z",
+      "source_id": "above-the-law-legaltech",
+      "source_name": "Above the Law (Legal Tech)",
+      "source_priority": "high",
       "source_tier": "B",
-      "source_category": "General AI",
+      "source_category": "Legal profession",
       "relevance_score": 7
+    },
+    {
+      "title": "The AI effect: University of Chicago Law School opts to prohibit electronic devices in some classrooms. - Chicago Tribune",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QM1JGemR5c2htS2ZGTEpGd2FMTVhmelJtdkhicEljM1E0czlDenM0OVNYeEtlOTl3WnhCNmEzZDlvV0E4TDkyVlBVOUNMMzhWWThlUGpTVmw1cUVvVkN5cE1sY3FLblhoZFFxRmE3RFM2VC14eHc?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1QM1JGemR5c2htS2ZGTEpGd2FMTVhmelJtdkhicEljM1E0czlDenM0OVNYeEtlOTl3WnhCNmEzZDlvV0E4TDkyVlBVOUNMMzhWWThlUGpTVmw1cUVvVkN5cE1sY3FLblhoZFFxRmE3RFM2VC14eHc?oc=5\" target=\"_blank\"&gt;The AI effect: University of Chicago Law School opts to prohibit electronic devices in some classrooms.&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Chicago Tribune&lt;/font&gt;",
+      "published": "2026-07-13T23:49:53.000Z",
+      "source_id": "google-news-law-firm-ai",
+      "source_name": "Google News: law firm AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
     },
     {
       "title": ":Harvey:’s Top 5 Product Releases of 2025 - Harvey",
