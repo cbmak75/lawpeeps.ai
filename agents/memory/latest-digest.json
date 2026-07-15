@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-15T08:27:10.798Z",
+  "generated": "2026-07-15T10:57:27.406Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 1502,
+  "total_scanned": 1501,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -112,6 +112,18 @@
       "source_priority": "medium",
       "source_tier": "A",
       "source_category": "Aggregator",
+      "relevance_score": 9
+    },
+    {
+      "title": "From hype to results: Real productivity gains with Microsoft 365 Copilot",
+      "url": "https://www.legalfutures.co.uk/associate-news/from-hype-to-results-real-productivity-gains-with-microsoft-365-copilot",
+      "summary": "After a year of intense discussion across the legal sector, Generative AI has moved far beyond the hype cycle. The question for most UK law firms is no longer ‘Is this real?’ but rather ‘Where are firms actually seeing value - and how quickly can we achieve the same?’ The post From hype to results: Real productivity gains with Microsoft 365 Copilot appeared first on Legal Futures .",
+      "published": "2026-07-15T09:23:25.000Z",
+      "source_id": "legal-futures",
+      "source_name": "Legal Futures",
+      "source_priority": "high",
+      "source_tier": "B",
+      "source_category": "Legal business",
       "relevance_score": 9
     },
     {
@@ -259,18 +271,6 @@
       "relevance_score": 7
     },
     {
-      "title": "Developers of the Heroes of Might &amp; Magic V remake on UE5 engine showed progress - unit models, spellbook, and more - ixbt.games",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZVdBNUZSR0hwc1JIRUlkcXNPM3NaLW92bTlEQjN4a3pkQkhRel9CUnozeGgtb1JSNDk0Z3JLRU9oN2RBMWpuc2VVTmN1ZHZlUkF4ZnhON2toLUF6WVBpQTJ3OWxRajFNUTJXUHJuLWs0ZVoxQmlXM1FkT2MtM1NsLXlERnduMjFGdUg4RTR3RUptS1hVZjBhX09weHkxN0dKUzNra2RMM18wanU2NTNEbmxCTko2Z1RiUkFuUDJxTENpRk1PTnIyMGwxWGhHdHRyX2s5Y0NUYVNfUXkzNk9tZVRKQ3pDZG1wVUFnNXdBeEhBMG9r0gH6AUFVX3lxTE1SRGN0Z2JmT0ZwM1F0WmZKUlhTd3BJaHhLOGVhZ2JMMF84ekNtU1hUZWROclFCQnM4OURuZE45N3BmVlQtVEZqQVZKUlFWb0toWDVTUi14amV5MGlYVkJjX2c3eUY4UjYyVmZYRGdCb3RBNE0tdE53Y2pha0xvb0RPTkxtRUppWFBPUXV2T2FUNllTTllVTjI1ZmxJWXVpLXNRNDZwVXcxTi1KTmVBMlVRblhHSDRNSEFpZG54X0c2NmIxUUczajQtYndnaHZJMG9MaV9RZDRmdW0zOVBIdzU5eUt4eHc1M3hDVDhmSjN5NDQ4S2hBRVByclE?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZVdBNUZSR0hwc1JIRUlkcXNPM3NaLW92bTlEQjN4a3pkQkhRel9CUnozeGgtb1JSNDk0Z3JLRU9oN2RBMWpuc2VVTmN1ZHZlUkF4ZnhON2toLUF6WVBpQTJ3OWxRajFNUTJXUHJuLWs0ZVoxQmlXM1FkT2MtM1NsLXlERnduMjFGdUg4RTR3RUptS1hVZjBhX09weHkxN0dKUzNra2RMM18wanU2NTNEbmxCTko2Z1RiUkFuUDJxTENpRk1PTnIyMGwxWGhHdHRyX2s5Y0NUYVNfUXkzNk9tZVRKQ3pDZG1wVUFnNXdBeEhBMG9r0gH6AUFVX3lxTE1SRGN0Z2JmT0ZwM1F0WmZKUlhTd3BJaHhLOGVhZ2JMMF84ekNtU1hUZWROclFCQnM4OURuZE45N3BmVlQtVEZqQVZKUlFWb0toWDVTUi1",
-      "published": "2026-07-14T10:34:30.000Z",
-      "source_id": "google-news-contract-ai",
-      "source_name": "Google News: contract AI",
-      "source_priority": "medium",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 7
-    },
-    {
       "title": "Juro Goes Direct to ChatGPT For Contract AI - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWTB4VVlWclpYMExWSFdxaWpHaXdNYXQ3UnQyWGJKemgtOGtoanNPVWZrVHRuVWdma00xUnhaTlF5TXl4SjQycDFLZjNwb0xMTHljWm9Lc3I4V0NvTnY2RXVFeGJfUHV3MzhTNnJPeGdEdmNqcUQza0ZpU3hmUFBHc3ZqUEF2dUNnVW8yN2NETHBMZw?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQWTB4VVlWclpYMExWSFdxaWpHaXdNYXQ3UnQyWGJKemgtOGtoanNPVWZrVHRuVWdma00xUnhaTlF5TXl4SjQycDFLZjNwb0xMTHljWm9Lc3I4V0NvTnY2RXVFeGJfUHV3MzhTNnJPeGdEdmNqcUQza0ZpU3hmUFBHc3ZqUEF2dUNnVW8yN2NETHBMZw?oc=5\" target=\"_blank\"&gt;Juro Goes Direct to ChatGPT For Contract AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
@@ -292,6 +292,18 @@
       "source_priority": "high",
       "source_tier": "A",
       "source_category": "Immigration law",
+      "relevance_score": 7
+    },
+    {
+      "title": "Meet Amazon Quick For Legal",
+      "url": "https://www.artificiallawyer.com/2026/07/15/meet-amazon-quick-for-legal/",
+      "summary": "Just when you wondered who else among the tech giants would cover legal, it turns out that the ‘Everything Store’ has an ‘Amazon Quick For ...",
+      "published": "2026-07-15T09:57:59.000Z",
+      "source_id": "artificial-lawyer",
+      "source_name": "Artificial Lawyer",
+      "source_priority": "critical",
+      "source_tier": "B",
+      "source_category": "Legal AI",
       "relevance_score": 7
     },
     {
@@ -451,34 +463,22 @@
       "relevance_score": 6
     },
     {
+      "title": "Developers of the Heroes of Might &amp; Magic V remake on UE5 engine showed progress - unit models, spellbook, and more - ixbt.games",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZVdBNUZSR0hwc1JIRUlkcXNPM3NaLW92bTlEQjN4a3pkQkhRel9CUnozeGgtb1JSNDk0Z3JLRU9oN2RBMWpuc2VVTmN1ZHZlUkF4ZnhON2toLUF6WVBpQTJ3OWxRajFNUTJXUHJuLWs0ZVoxQmlXM1FkT2MtM1NsLXlERnduMjFGdUg4RTR3RUptS1hVZjBhX09weHkxN0dKUzNra2RMM18wanU2NTNEbmxCTko2Z1RiUkFuUDJxTENpRk1PTnIyMGwxWGhHdHRyX2s5Y0NUYVNfUXkzNk9tZVRKQ3pDZG1wVUFnNXdBeEhBMG9r0gH6AUFVX3lxTE1SRGN0Z2JmT0ZwM1F0WmZKUlhTd3BJaHhLOGVhZ2JMMF84ekNtU1hUZWROclFCQnM4OURuZE45N3BmVlQtVEZqQVZKUlFWb0toWDVTUi14amV5MGlYVkJjX2c3eUY4UjYyVmZYRGdCb3RBNE0tdE53Y2pha0xvb0RPTkxtRUppWFBPUXV2T2FUNllTTllVTjI1ZmxJWXVpLXNRNDZwVXcxTi1KTmVBMlVRblhHSDRNSEFpZG54X0c2NmIxUUczajQtYndnaHZJMG9MaV9RZDRmdW0zOVBIdzU5eUt4eHc1M3hDVDhmSjN5NDQ4S2hBRVByclE?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZVdBNUZSR0hwc1JIRUlkcXNPM3NaLW92bTlEQjN4a3pkQkhRel9CUnozeGgtb1JSNDk0Z3JLRU9oN2RBMWpuc2VVTmN1ZHZlUkF4ZnhON2toLUF6WVBpQTJ3OWxRajFNUTJXUHJuLWs0ZVoxQmlXM1FkT2MtM1NsLXlERnduMjFGdUg4RTR3RUptS1hVZjBhX09weHkxN0dKUzNra2RMM18wanU2NTNEbmxCTko2Z1RiUkFuUDJxTENpRk1PTnIyMGwxWGhHdHRyX2s5Y0NUYVNfUXkzNk9tZVRKQ3pDZG1wVUFnNXdBeEhBMG9r0gH6AUFVX3lxTE1SRGN0Z2JmT0ZwM1F0WmZKUlhTd3BJaHhLOGVhZ2JMMF84ekNtU1hUZWROclFCQnM4OURuZE45N3BmVlQtVEZqQVZKUlFWb0toWDVTUi1",
+      "published": "2026-07-14T10:34:30.000Z",
+      "source_id": "google-news-contract-ai",
+      "source_name": "Google News: contract AI",
+      "source_priority": "medium",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
+    },
+    {
       "title": "Spellbook Raises $50m + CEO, Scott Stevenson Interview - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNVRaTmNLME8ydnc5d1FmeWhSUjdhTDg2dmdqR28wQ2lwSzBJbTYtTU5XekVsTWdaLVE3N2hJQlU2bEVRWlNhVG1GRTlab0c4Zko3UmtZamxkRGw2WTNlRkU1X05LZEE3OEpkbEtkdldrNFRJVnlPcFZlVDRVbElnbExXVk9zenVfOFh3QWNORTdIQVQxQnBuUW84NA?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPNVRaTmNLME8ydnc5d1FmeWhSUjdhTDg2dmdqR28wQ2lwSzBJbTYtTU5XekVsTWdaLVE3N2hJQlU2bEVRWlNhVG1GRTlab0c4Zko3UmtZamxkRGw2WTNlRkU1X05LZEE3OEpkbEtkdldrNFRJVnlPcFZlVDRVbElnbExXVk9zenVfOFh3QWNORTdIQVQxQnBuUW84NA?oc=5\" target=\"_blank\"&gt;Spellbook Raises $50m + CEO, Scott Stevenson Interview&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
       "published": "2025-10-09T07:00:00.000Z",
-      "source_id": "google-news-contract-ai",
-      "source_name": "Google News: contract AI",
-      "source_priority": "medium",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
-    },
-    {
-      "title": "Legaltech Rundown: Spellbook Launches iManage Integration, Norm Law Announces New Big Law Hires, and More - Law.com",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONHBNemtNcXRjaFFudFBJRG0xV0M5QlJ2dlhGWm0xcFluNjVJSW1GNVpVU09MQktGZ3Rwcy1scXBVdGNxeFRuY3oyVkRMZVBEMnBwV2szTTAybTZHVkJmdy1mcl9RTDBjRGx0RFVEeU9Kd3loZ2hRT0trWW1mUGJTY3BQUlBzQ203dzB4ZEFULTJUbGxFZXV5WmNLYnhBaW9ubE91WjVZbUpWZE1MemZfUkV3dkl6YWFhanJCVlA3UFVTZ2pna1ItMkJEelM0dnRDelhoZjVRcmN2ZHBXdWJickpUYjJlY0dDUFE?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxONHBNemtNcXRjaFFudFBJRG0xV0M5QlJ2dlhGWm0xcFluNjVJSW1GNVpVU09MQktGZ3Rwcy1scXBVdGNxeFRuY3oyVkRMZVBEMnBwV2szTTAybTZHVkJmdy1mcl9RTDBjRGx0RFVEeU9Kd3loZ2hRT0trWW1mUGJTY3BQUlBzQ203dzB4ZEFULTJUbGxFZXV5WmNLYnhBaW9ubE91WjVZbUpWZE1MemZfUkV3dkl6YWFhanJCVlA3UFVTZ2pna1ItMkJEelM0dnRDelhoZjVRcmN2ZHBXdWJickpUYjJlY0dDUFE?oc=5\" target=\"_blank\"&gt;Legaltech Rundown: Spellbook Launches iManage Integration, Norm Law Announces New Big Law Hires, and More&",
-      "published": "2026-05-01T07:00:00.000Z",
-      "source_id": "google-news-contract-ai",
-      "source_name": "Google News: contract AI",
-      "source_priority": "medium",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
-    },
-    {
-      "title": "Spellbook CEO Scott Stevenson exposes inflated ARR practices among AI startups - Crypto Briefing",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBnT3VzYkcxWXNlV1ZHclJyTzJLMEVIUjVUdGt3ZzJOY3JHNmNHNTlKMVc3RkpmbzdZaHlQWFJydXdrOHY0QnZ1VzhMQldYUkhQTmZuXy1Ya2ZRcnVFM0VzVDJZSHNoVG1Ud0dDWVBxc19WejRl?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBnT3VzYkcxWXNlV1ZHclJyTzJLMEVIUjVUdGt3ZzJOY3JHNmNHNTlKMVc3RkpmbzdZaHlQWFJydXdrOHY0QnZ1VzhMQldYUkhQTmZuXy1Ya2ZRcnVFM0VzVDJZSHNoVG1Ud0dDWVBxc19WejRl?oc=5\" target=\"_blank\"&gt;Spellbook CEO Scott Stevenson exposes inflated ARR practices among AI startups&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Crypto Briefing&lt;/font&gt;",
-      "published": "2026-05-22T07:00:00.000Z",
       "source_id": "google-news-contract-ai",
       "source_name": "Google News: contract AI",
       "source_priority": "medium",
