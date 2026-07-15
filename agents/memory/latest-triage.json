@@ -1,53 +1,107 @@
 {
-  "generated": "2026-07-15T10:57:32.100Z",
+  "generated": "2026-07-15T13:59:21.111Z",
   "cycle_type": "triage",
   "tier_filter": null,
-  "shortlist_size": 2,
+  "shortlist_size": 8,
   "prefilter": {
     "total": 40,
-    "accepted": 2,
+    "accepted": 8,
     "borderline": 0,
-    "rejected": 38,
-    "rejected_as_duplicate": 38,
-    "accept_rate": 5
+    "rejected": 32,
+    "rejected_as_duplicate": 32,
+    "accept_rate": 20
   },
   "model": "claude-haiku-4-5-20251001",
   "picks": [
     {
-      "id": "legal-futures-0",
-      "score": 5,
+      "id": "artificial-lawyer-0",
+      "score": 7,
       "category": "Legal AI",
-      "suggested_angle": "UK firm adoption patterns emerging one year into Copilot deployment cycle",
-      "why_now": "Tier B source reporting on real productivity outcomes rather than speculative hype, but appears to be analysis/commentary rather than primary news event",
-      "verdict": "watch",
+      "suggested_angle": "Litera pivots to unified AI agent strategy, consolidating platform fragmentation.",
+      "why_now": "Major legal tech vendor strategic repositioning; Artificial Lawyer primary source; watch-list company move.",
+      "verdict": "enqueue",
       "duplicate_of": null
     },
     {
-      "id": "artificial-lawyer-1",
+      "id": "google-news-legal-ai-1",
       "score": 6,
       "category": "Legal AI",
-      "suggested_angle": "Amazon enters legal AI market with Quick For Legal product launch",
-      "why_now": "Major tech company (watch-list adjacent) entering legal AI space is structurally significant; Artificial Lawyer is tier B critical source; however, headline is teasingly vague and full summary is truncated",
-      "verdict": "watch",
+      "suggested_angle": "Litera relaunch via Business Wire press release coverage.",
+      "why_now": "Same underlying story as artificial-lawyer-0; aggregated press release rather than primary reporting.",
+      "verdict": "drop",
+      "duplicate_of": "artificial-lawyer-0"
+    },
+    {
+      "id": "legal-futures-2",
+      "score": 4,
+      "category": "Legal AI",
+      "suggested_angle": "Vendor-authored thought leadership on Microsoft Copilot adoption ROI.",
+      "why_now": "Generic adoption narrative; appears to be sponsored or vendor content without independent reporting.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "crunchbase-news-3",
+      "score": 2,
+      "category": "Social",
+      "suggested_angle": "Corporate VC consolidation trends (PayPal, Fidelity wind-downs).",
+      "why_now": "Out of scope: general VC trends with no legal/legal tech angle despite prefilter match.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "hacker-news-4",
+      "score": 1,
+      "category": "Legal AI",
+      "suggested_angle": "NovaForge AI generic tools platform.",
+      "why_now": "Low signal: minimal engagement (2 points), no legal-specific angle, not a named watch-list entity.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "hacker-news-5",
+      "score": 3,
+      "category": "Legal AI",
+      "suggested_angle": "AI voice fraud risk to legal profession.",
+      "why_now": "Tangential threat surface rather than legal AI or legal tech news; general AI security concern.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "artificial-lawyer-6",
+      "score": 8,
+      "category": "Legal AI",
+      "suggested_angle": "Amazon enters legal tech market with Quick For Legal service.",
+      "why_now": "Major tech giant market entry; Artificial Lawyer primary coverage; new competitor in watch-list tier; high newsworthiness.",
+      "verdict": "enqueue",
+      "duplicate_of": null
+    },
+    {
+      "id": "hacker-news-7",
+      "score": 2,
+      "category": "Legal AI",
+      "suggested_angle": "Verse autonomous AI employee platform (generic SaaS).",
+      "why_now": "Minimal engagement (2 points, 0 comments); generic AI agent builder without legal-specific positioning.",
+      "verdict": "drop",
       "duplicate_of": null
     }
   ],
   "summary": {
-    "enqueue_count": 0,
-    "watch_count": 2,
-    "drop_count": 0,
-    "notes": "Both items lack sufficient detail to triage confidently. Legal Futures appears to be commentary on adoption trends rather than discrete news; Artificial Lawyer headline promises product news but summary is cut off. Recommend requesting full text before enqueue decision."
+    "enqueue_count": 2,
+    "watch_count": 0,
+    "drop_count": 6,
+    "notes": "Two stories merit editor time: Litera relaunch (watch-list company strategic move) and Amazon market entry (major tech giant legal tech launch). Rest are vendor puff, low-signal commentary, or out-of-scope content. Removed duplicate press release version of Litera story."
   },
-  "enqueued": 0,
+  "enqueued": 2,
   "usage": {
-    "input_tokens": 2361,
+    "input_tokens": 3740,
     "cache_creation_input_tokens": 0,
     "cache_read_input_tokens": 0,
     "cache_creation": {
       "ephemeral_5m_input_tokens": 0,
       "ephemeral_1h_input_tokens": 0
     },
-    "output_tokens": 351,
+    "output_tokens": 957,
     "service_tier": "standard",
     "inference_geo": "not_available"
   }

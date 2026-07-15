@@ -2211,7 +2211,99 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "Meet Amazon Quick For Legal",
+      "slug": "meet-amazon-quick-for-legal",
+      "score": 8,
+      "category": "Legal AI",
+      "story_type": "news",
+      "research_brief": "Just when you wondered who else among the tech giants would cover legal, it turns out that the ‘Everything Store’ has an ‘Amazon Quick For ...",
+      "primary_source": "https://www.artificiallawyer.com/2026/07/15/meet-amazon-quick-for-legal/",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "Amazon enters legal tech market with Quick For Legal service.",
+      "why_now": "Major tech giant market entry; Artificial Lawyer primary coverage; new competitor in watch-list tier; high newsworthiness.",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Artificial Lawyer",
+      "source_tier": "B",
+      "prefilter_score": 9,
+      "matched_terms": [
+        "Eve"
+      ],
+      "fingerprint": {
+        "entities": [
+          "eve"
+        ],
+        "numerics": [],
+        "keywords": [],
+        "title_tokens": [
+          "meet",
+          "amazon",
+          "quick",
+          "legal"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-07-15T13:59:21.093Z",
+      "queued_at": "2026-07-15T13:59:21.100Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
+    },
+    {
+      "title": "Litera ‘Relaunches’ With One Agent to Rule the Platform",
+      "slug": "litera-relaunches-with-one-agent-to-rule-the-platform",
+      "score": 7,
+      "category": "Legal AI",
+      "story_type": "news",
+      "research_brief": "Legal tech legend, Litera, has ‘relaunched’ itself with its Lito agent as the principal point of focus, offering the ability to tap both its business ...",
+      "primary_source": "https://www.artificiallawyer.com/2026/07/15/litera-relaunches-with-one-agent-to-rule-the-platform/",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "Litera pivots to unified AI agent strategy, consolidating platform fragmentation.",
+      "why_now": "Major legal tech vendor strategic repositioning; Artificial Lawyer primary source; watch-list company move.",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Artificial Lawyer",
+      "source_tier": "B",
+      "prefilter_score": 14,
+      "matched_terms": [
+        "legal tech",
+        "Litera"
+      ],
+      "fingerprint": {
+        "entities": [
+          "litera"
+        ],
+        "numerics": [],
+        "keywords": [
+          "legal tech"
+        ],
+        "title_tokens": [
+          "litera",
+          "relaunches",
+          "agent",
+          "rule",
+          "platform"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-07-15T13:59:21.102Z",
+      "queued_at": "2026-07-15T13:59:21.110Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-07-13T17:19:47.766Z"
+  "last_updated": "2026-07-15T13:59:21.110Z"
 }
