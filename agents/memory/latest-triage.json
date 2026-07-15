@@ -1,80 +1,53 @@
 {
-  "generated": "2026-07-15T19:23:17.335Z",
+  "generated": "2026-07-15T22:08:12.591Z",
   "cycle_type": "triage",
   "tier_filter": null,
-  "shortlist_size": 5,
+  "shortlist_size": 2,
   "prefilter": {
     "total": 40,
-    "accepted": 5,
+    "accepted": 2,
     "borderline": 0,
-    "rejected": 35,
-    "rejected_as_duplicate": 35,
-    "accept_rate": 13
+    "rejected": 38,
+    "rejected_as_duplicate": 38,
+    "accept_rate": 5
   },
   "model": "claude-haiku-4-5-20251001",
   "picks": [
     {
       "id": "google-news-legal-ai-0",
-      "score": 5,
+      "score": 4,
       "category": "Legal AI",
-      "suggested_angle": "Explore architectural principles for legal AI systems built ground-up vs. retrofitted",
-      "why_now": "Thematic relevance to legal AI design but headline is generic; likely commentary rather than primary source",
-      "verdict": "watch",
+      "suggested_angle": "Commentary on legal AI architecture and bespoke development needs",
+      "why_now": "Generic think-piece without primary source, subject matter overlaps recent coverage on legal AI capability and deployment",
+      "verdict": "drop",
       "duplicate_of": null
     },
     {
-      "id": "ars-technica-ai-1",
+      "id": "above-the-law-legaltech-1",
       "score": 2,
-      "category": "Legal AI",
-      "suggested_angle": "OpenAI hardware expansion into agentic monitoring",
-      "why_now": "Not editorial scope (consumer hardware, not legal AI or legal tech); off-piste from focus areas",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "above-the-law-legaltech-2",
-      "score": 3,
-      "category": "Legal AI",
-      "suggested_angle": "Rumored biglaw merger collapse signals consolidation strategy shift",
-      "why_now": "Firm consolidation news but lacks AI angle; marginal relevance to editorial focus on legal AI and major company moves",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "legal-futures-3",
-      "score": 6,
-      "category": "Adoption",
-      "suggested_angle": "UK law firms reporting measurable productivity gains from Microsoft 365 Copilot after 12 months",
-      "why_now": "UK firm adoption story with concrete outcomes (not hype); aligns with editorial interest in real-world deployment; Legal Futures is tier B high",
-      "verdict": "watch",
-      "duplicate_of": null
-    },
-    {
-      "id": "law-society-gazette-4",
-      "score": 1,
       "category": "Social",
-      "suggested_angle": "Solicitor disciplinary case",
-      "why_now": "Disciplinary news unrelated to legal AI, legal tech, or editorial scope; included in prefilter error",
+      "suggested_angle": "Rumored M&A activity in BigLaw",
+      "why_now": "Speculative merger gossip with no confirmed hook; outside editorial focus (not legal AI, legal tech product, funding, or regulation)",
       "verdict": "drop",
       "duplicate_of": null
     }
   ],
   "summary": {
     "enqueue_count": 0,
-    "watch_count": 2,
-    "drop_count": 3,
-    "notes": "Weak shortlist: no primary sources, no funding announcements, no regulator moves, no major company news. Legal Futures adoption story (item 3) warrants editor review if sourcing checks out; generic legal AI commentary (item 0) needs headline validation before commit."
+    "watch_count": 0,
+    "drop_count": 2,
+    "notes": "Neither item meets bar. First is generic commentary without primary source or novel angle on already-covered legal AI themes. Second is unconfirmed M&A rumour outside publication focus."
   },
   "enqueued": 0,
   "usage": {
-    "input_tokens": 3138,
+    "input_tokens": 2670,
     "cache_creation_input_tokens": 0,
     "cache_read_input_tokens": 0,
     "cache_creation": {
       "ephemeral_5m_input_tokens": 0,
       "ephemeral_1h_input_tokens": 0
     },
-    "output_tokens": 669,
+    "output_tokens": 320,
     "service_tier": "standard",
     "inference_geo": "not_available"
   }
