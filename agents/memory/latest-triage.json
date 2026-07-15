@@ -1,54 +1,14 @@
 {
-  "generated": "2026-07-15T03:15:40.642Z",
+  "generated": "2026-07-15T08:27:16.345Z",
   "cycle_type": "triage",
-  "tier_filter": null,
-  "shortlist_size": 2,
+  "shortlist_size": 0,
+  "picks": [],
   "prefilter": {
     "total": 40,
-    "accepted": 2,
+    "accepted": 0,
     "borderline": 0,
-    "rejected": 38,
-    "rejected_as_duplicate": 38,
-    "accept_rate": 5
-  },
-  "model": "claude-haiku-4-5-20251001",
-  "picks": [
-    {
-      "id": "arxiv-cs-ai-0",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "KV-cache compression techniques for LLM inference optimization",
-      "why_now": "arXiv preprint with marginal relevance to legal AI; pure ML research with no legal application angle",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-1",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "Transformer learning dynamics in inductive reasoning",
-      "why_now": "arXiv preprint on transformer theory; no legal tech, legal AI, or regulatory connection despite keyword match",
-      "verdict": "drop",
-      "duplicate_of": null
-    }
-  ],
-  "summary": {
-    "enqueue_count": 0,
-    "watch_count": 0,
-    "drop_count": 2,
-    "notes": "Both items are pure ML research papers with no connection to legal AI, legal tech, regulation, or immigration law. Keyword filtering appears to have triggered on generic ML terms (Eigen, Eve, Litera) unrelated to legal vertical. Neither meets editorial scope."
-  },
-  "enqueued": 0,
-  "usage": {
-    "input_tokens": 2391,
-    "cache_creation_input_tokens": 0,
-    "cache_read_input_tokens": 0,
-    "cache_creation": {
-      "ephemeral_5m_input_tokens": 0,
-      "ephemeral_1h_input_tokens": 0
-    },
-    "output_tokens": 327,
-    "service_tier": "standard",
-    "inference_geo": "not_available"
+    "rejected": 40,
+    "rejected_as_duplicate": 40,
+    "accept_rate": 0
   }
 }
