@@ -1,107 +1,71 @@
 {
-  "generated": "2026-07-15T13:59:21.111Z",
+  "generated": "2026-07-15T16:39:09.908Z",
   "cycle_type": "triage",
   "tier_filter": null,
-  "shortlist_size": 8,
+  "shortlist_size": 4,
   "prefilter": {
     "total": 40,
-    "accepted": 8,
+    "accepted": 4,
     "borderline": 0,
-    "rejected": 32,
-    "rejected_as_duplicate": 32,
-    "accept_rate": 20
+    "rejected": 36,
+    "rejected_as_duplicate": 36,
+    "accept_rate": 10
   },
   "model": "claude-haiku-4-5-20251001",
   "picks": [
     {
-      "id": "artificial-lawyer-0",
-      "score": 7,
-      "category": "Legal AI",
-      "suggested_angle": "Litera pivots to unified AI agent strategy, consolidating platform fragmentation.",
-      "why_now": "Major legal tech vendor strategic repositioning; Artificial Lawyer primary source; watch-list company move.",
-      "verdict": "enqueue",
+      "id": "crunchbase-news-0",
+      "score": 3,
+      "category": "Social",
+      "suggested_angle": "Corporate VC retreat signals consolidation risk for legal tech funding ecosystem",
+      "why_now": "PayPal and Fidelity VC wind-downs are current, but this is generic VC commentary with no legal-specific angle or legal tech company mentions",
+      "verdict": "drop",
       "duplicate_of": null
     },
     {
-      "id": "google-news-legal-ai-1",
-      "score": 6,
-      "category": "Legal AI",
-      "suggested_angle": "Litera relaunch via Business Wire press release coverage.",
-      "why_now": "Same underlying story as artificial-lawyer-0; aggregated press release rather than primary reporting.",
+      "id": "ars-technica-ai-1",
+      "score": 2,
+      "category": "Social",
+      "suggested_angle": "OpenAI hardware play targets AI agent monitoring—no legal angle",
+      "why_now": "Consumer hardware story; OpenAI is a watch-list company but this is gadget marketing, not legally relevant",
       "verdict": "drop",
-      "duplicate_of": "artificial-lawyer-0"
+      "duplicate_of": null
     },
     {
       "id": "legal-futures-2",
-      "score": 4,
+      "score": 6,
       "category": "Legal AI",
-      "suggested_angle": "Vendor-authored thought leadership on Microsoft Copilot adoption ROI.",
-      "why_now": "Generic adoption narrative; appears to be sponsored or vendor content without independent reporting.",
-      "verdict": "drop",
+      "suggested_angle": "UK law firms move beyond AI hype to measure real M365 Copilot productivity gains",
+      "why_now": "Legal Futures primary source on firm adoption patterns; timely post-hype assessment, but this reads as thought leadership rather than news",
+      "verdict": "watch",
       "duplicate_of": null
     },
     {
-      "id": "crunchbase-news-3",
-      "score": 2,
-      "category": "Social",
-      "suggested_angle": "Corporate VC consolidation trends (PayPal, Fidelity wind-downs).",
-      "why_now": "Out of scope: general VC trends with no legal/legal tech angle despite prefilter match.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "hacker-news-4",
+      "id": "law-society-gazette-3",
       "score": 1,
-      "category": "Legal AI",
-      "suggested_angle": "NovaForge AI generic tools platform.",
-      "why_now": "Low signal: minimal engagement (2 points), no legal-specific angle, not a named watch-list entity.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "hacker-news-5",
-      "score": 3,
-      "category": "Legal AI",
-      "suggested_angle": "AI voice fraud risk to legal profession.",
-      "why_now": "Tangential threat surface rather than legal AI or legal tech news; general AI security concern.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "artificial-lawyer-6",
-      "score": 8,
-      "category": "Legal AI",
-      "suggested_angle": "Amazon enters legal tech market with Quick For Legal service.",
-      "why_now": "Major tech giant market entry; Artificial Lawyer primary coverage; new competitor in watch-list tier; high newsworthiness.",
-      "verdict": "enqueue",
-      "duplicate_of": null
-    },
-    {
-      "id": "hacker-news-7",
-      "score": 2,
-      "category": "Legal AI",
-      "suggested_angle": "Verse autonomous AI employee platform (generic SaaS).",
-      "why_now": "Minimal engagement (2 points, 0 comments); generic AI agent builder without legal-specific positioning.",
+      "category": "Regulatory",
+      "suggested_angle": "Individual SDT case on stalking conviction",
+      "why_now": "Disciplinary news but no legal AI, legal tech, or policy angle; out of scope",
       "verdict": "drop",
       "duplicate_of": null
     }
   ],
   "summary": {
-    "enqueue_count": 2,
-    "watch_count": 0,
-    "drop_count": 6,
-    "notes": "Two stories merit editor time: Litera relaunch (watch-list company strategic move) and Amazon market entry (major tech giant legal tech launch). Rest are vendor puff, low-signal commentary, or out-of-scope content. Removed duplicate press release version of Litera story."
+    "enqueue_count": 0,
+    "watch_count": 1,
+    "drop_count": 3,
+    "notes": "Weak shortlist: one generic VC piece, one consumer hardware puff, one firm adoption thought piece (marginal), one unrelated disciplinary news. Only legal-futures-2 has potential but lacks hard news hook."
   },
-  "enqueued": 2,
+  "enqueued": 0,
   "usage": {
-    "input_tokens": 3740,
+    "input_tokens": 2671,
     "cache_creation_input_tokens": 0,
     "cache_read_input_tokens": 0,
     "cache_creation": {
       "ephemeral_5m_input_tokens": 0,
       "ephemeral_1h_input_tokens": 0
     },
-    "output_tokens": 957,
+    "output_tokens": 553,
     "service_tier": "standard",
     "inference_geo": "not_available"
   }
