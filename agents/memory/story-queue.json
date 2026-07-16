@@ -2303,7 +2303,53 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "Harvey Buys Benchmark Asset Management Startup",
+      "slug": "harvey-buys-benchmark-asset-management-startup",
+      "score": 7,
+      "category": "Legal AI",
+      "story_type": "news",
+      "research_brief": "Harvey has announced its acquisition of New York-based Benchmark, a decision infrastructure platform for asset management. Benchmark helps investors make better decisions by capturing their ...",
+      "primary_source": "https://www.artificiallawyer.com/2026/07/16/harvey-buys-benchmark-asset-management-startup/",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "Harvey expands beyond legal reasoning into asset management decision infrastructure via Benchmark acquisition",
+      "why_now": "Major watch-list company (Harvey) executing strategic M&A outside core legal domain; signals expansion strategy and capital deployment",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Artificial Lawyer",
+      "source_tier": "B",
+      "prefilter_score": 12,
+      "matched_terms": [
+        "Harvey"
+      ],
+      "fingerprint": {
+        "entities": [
+          "harvey"
+        ],
+        "numerics": [],
+        "keywords": [],
+        "title_tokens": [
+          "harvey",
+          "buys",
+          "benchmark",
+          "asset",
+          "management",
+          "startup"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-07-16T14:11:03.310Z",
+      "queued_at": "2026-07-16T14:11:03.318Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-07-15T13:59:21.110Z"
+  "last_updated": "2026-07-16T14:11:03.318Z"
 }

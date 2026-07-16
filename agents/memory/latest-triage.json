@@ -1,51 +1,51 @@
 {
-  "generated": "2026-07-16T11:06:27.085Z",
+  "generated": "2026-07-16T14:11:03.319Z",
   "cycle_type": "triage",
   "tier_filter": null,
-  "shortlist_size": 11,
+  "shortlist_size": 9,
   "prefilter": {
     "total": 40,
-    "accepted": 11,
+    "accepted": 9,
     "borderline": 0,
-    "rejected": 29,
-    "rejected_as_duplicate": 29,
-    "accept_rate": 28
+    "rejected": 31,
+    "rejected_as_duplicate": 31,
+    "accept_rate": 23
   },
   "model": "claude-haiku-4-5-20251001",
   "picks": [
     {
-      "id": "arxiv-cs-ai-0",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "LLM invocation economics in streaming systems—cost optimization via selective model routing",
-      "why_now": "Generic ML research with no legal or regulatory angle; prefilter catch",
-      "verdict": "drop",
+      "id": "artificial-lawyer-0",
+      "score": 7,
+      "category": "Legal AI",
+      "suggested_angle": "Harvey expands beyond legal reasoning into asset management decision infrastructure via Benchmark acquisition",
+      "why_now": "Major watch-list company (Harvey) executing strategic M&A outside core legal domain; signals expansion strategy and capital deployment",
+      "verdict": "enqueue",
       "duplicate_of": null
     },
     {
-      "id": "arxiv-cs-ai-1",
+      "id": "legal-cheek-1",
       "score": 2,
-      "category": "Research",
-      "suggested_angle": "Chain-of-thought reasoning auditing via premise dependency testing",
-      "why_now": "Academic research on LLM reasoning validation; no legal application or newsworthiness",
+      "category": "Social",
+      "suggested_angle": "A&O Shearman partner compensation trends",
+      "why_now": "Firm financials and partner pay are not on editorial focus; no AI/legal tech/regulatory angle",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
       "id": "arxiv-cs-ai-2",
-      "score": 2,
+      "score": 5,
       "category": "Research",
-      "suggested_angle": "Measurement framework for perception-action gaps in LLM agent tasks",
-      "why_now": "Methodological research; no legal or regulatory relevance",
-      "verdict": "drop",
+      "suggested_angle": "New academic method to audit whether LLM reasoning genuinely depends on stated premises",
+      "why_now": "Addresses core legal AI risk (spurious chain-of-thought logic); research-grade primary source but limited immediate news peg",
+      "verdict": "watch",
       "duplicate_of": null
     },
     {
       "id": "arxiv-cs-ai-3",
-      "score": 2,
+      "score": 4,
       "category": "Research",
-      "suggested_angle": "Benchmark for LLM decision-making under incomplete information in psychiatry",
-      "why_now": "Healthcare-focused research; outside legal vertical",
+      "suggested_angle": "Framework for measuring gap between LLM agent perception and actual decision outcomes",
+      "why_now": "Relevant to agent reliability in legal contexts but pure academic; no legal domain specificity or near-term deployment signal",
       "verdict": "drop",
       "duplicate_of": null
     },
@@ -53,82 +53,64 @@
       "id": "arxiv-cs-ai-4",
       "score": 3,
       "category": "Research",
-      "suggested_angle": "Evidence gaps in LLM deployment for fraud detection and trust-and-safety workflows",
-      "why_now": "Touches on real-world operational risks but remains academic; no legal sector focus or newspeg",
+      "suggested_angle": "Benchmark for evaluating LLM decision-making under clinical uncertainty",
+      "why_now": "Healthcare focus, not legal; out of scope despite LLM relevance",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
-      "id": "arxiv-cs-ai-5",
-      "score": 4,
-      "category": "Research",
-      "suggested_angle": "Cost tradeoffs between API-based frontier models vs. on-premise LLMs for coding agents",
-      "why_now": "Enterprise cost optimization; potentially relevant to legal tech vendor economics, but pure research with no firm adoption or announcement angle",
-      "verdict": "watch",
+      "id": "above-the-law-legaltech-5",
+      "score": 3,
+      "category": "Legal AI",
+      "suggested_angle": "Daily news aggregate digest",
+      "why_now": "Aggregation format with multiple unrelated items; no primary source, no single coherent story; WilmerHale breach is data security, not legal AI focus",
+      "verdict": "drop",
       "duplicate_of": null
     },
     {
       "id": "arxiv-cs-ai-6",
-      "score": 2,
+      "score": 5,
       "category": "Research",
-      "suggested_angle": "Human-in-the-loop safety framework for LLM agent tool calls",
-      "why_now": "Generic safety research; no legal or regulatory peg",
-      "verdict": "drop",
+      "suggested_angle": "Safety framework for LLM tool-use agents via context-aware human intervention routing",
+      "why_now": "Addresses real deployment risk (irreversible agent actions) but academic; legal domain application unclear",
+      "verdict": "watch",
       "duplicate_of": null
     },
     {
       "id": "arxiv-cs-ai-7",
-      "score": 2,
+      "score": 4,
       "category": "Research",
-      "suggested_angle": "Unified evaluation infrastructure for LLM agent capabilities",
-      "why_now": "Methodological contribution; no legal-sector novelty or newsworthiness",
+      "suggested_angle": "Unified evaluation infrastructure for autonomous LLM agent capabilities",
+      "why_now": "Infrastructure-level research; no legal application, no company or regulatory news hook",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
       "id": "arxiv-cs-ai-8",
-      "score": 2,
+      "score": 4,
       "category": "Research",
-      "suggested_angle": "One-shot error correction for autonomous LLM agents via experience memory graphs",
-      "why_now": "Generic agent reliability research; no legal or regulatory angle",
+      "suggested_angle": "Error correction mechanism for LLM agents on long-horizon tasks",
+      "why_now": "Relevant to agent reliability but generic AI research; no legal domain focus or deployment signal",
       "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-9",
-      "score": 1,
-      "category": "Research",
-      "suggested_angle": "Hierarchical framework for zero-shot navigation using LLMs",
-      "why_now": "Robotics/navigation research; no relevance to legal AI or legal tech",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-10",
-      "score": 3,
-      "category": "Research",
-      "suggested_angle": "Homogeneity risk in code generation: convergence from AI coding assistants",
-      "why_now": "Relevant to legal tech code generation tools; open editorial thread overlap (product reliability under pressure), but remains academic with no firm data or adoption signal",
-      "verdict": "watch",
       "duplicate_of": null
     }
   ],
   "summary": {
-    "enqueue_count": 0,
+    "enqueue_count": 1,
     "watch_count": 2,
-    "drop_count": 9,
-    "notes": "Shortlist is 100% arXiv tier-B research with no primary reporting, no firm announcements, no regulatory statements, no funding rounds, and no legal-sector specificity. arxiv-cs-ai-5 (cost economics) and arxiv-cs-ai-10 (code homogeneity) warrant monitoring if they map to legal tech adoption threads, but neither merits enqueueing. All others are off-vertical."
+    "drop_count": 6,
+    "notes": "Harvey acquisition is only strong signal. Academic papers on LLM reasoning/safety have merit but need legal domain specificity or deployment news to justify publication. Morning Docket and firm financials off-scope."
   },
-  "enqueued": 0,
+  "enqueued": 1,
   "usage": {
-    "input_tokens": 4012,
+    "input_tokens": 3620,
     "cache_creation_input_tokens": 0,
     "cache_read_input_tokens": 0,
     "cache_creation": {
       "ephemeral_5m_input_tokens": 0,
       "ephemeral_1h_input_tokens": 0
     },
-    "output_tokens": 1282,
+    "output_tokens": 1058,
     "service_tier": "standard",
     "inference_geo": "not_available"
   }
