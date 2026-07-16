@@ -1,31 +1,134 @@
 {
-  "generated": "2026-07-16T08:36:03.373Z",
+  "generated": "2026-07-16T11:06:27.085Z",
   "cycle_type": "triage",
   "tier_filter": null,
-  "shortlist_size": 20,
+  "shortlist_size": 11,
   "prefilter": {
     "total": 40,
-    "accepted": 24,
+    "accepted": 11,
     "borderline": 0,
-    "rejected": 16,
-    "rejected_as_duplicate": 16,
-    "accept_rate": 60
+    "rejected": 29,
+    "rejected_as_duplicate": 29,
+    "accept_rate": 28
   },
   "model": "claude-haiku-4-5-20251001",
-  "picks": [],
+  "picks": [
+    {
+      "id": "arxiv-cs-ai-0",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "LLM invocation economics in streaming systems—cost optimization via selective model routing",
+      "why_now": "Generic ML research with no legal or regulatory angle; prefilter catch",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-1",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Chain-of-thought reasoning auditing via premise dependency testing",
+      "why_now": "Academic research on LLM reasoning validation; no legal application or newsworthiness",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-2",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Measurement framework for perception-action gaps in LLM agent tasks",
+      "why_now": "Methodological research; no legal or regulatory relevance",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-3",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Benchmark for LLM decision-making under incomplete information in psychiatry",
+      "why_now": "Healthcare-focused research; outside legal vertical",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-4",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "Evidence gaps in LLM deployment for fraud detection and trust-and-safety workflows",
+      "why_now": "Touches on real-world operational risks but remains academic; no legal sector focus or newspeg",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-5",
+      "score": 4,
+      "category": "Research",
+      "suggested_angle": "Cost tradeoffs between API-based frontier models vs. on-premise LLMs for coding agents",
+      "why_now": "Enterprise cost optimization; potentially relevant to legal tech vendor economics, but pure research with no firm adoption or announcement angle",
+      "verdict": "watch",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-6",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Human-in-the-loop safety framework for LLM agent tool calls",
+      "why_now": "Generic safety research; no legal or regulatory peg",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-7",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Unified evaluation infrastructure for LLM agent capabilities",
+      "why_now": "Methodological contribution; no legal-sector novelty or newsworthiness",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-8",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "One-shot error correction for autonomous LLM agents via experience memory graphs",
+      "why_now": "Generic agent reliability research; no legal or regulatory angle",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-9",
+      "score": 1,
+      "category": "Research",
+      "suggested_angle": "Hierarchical framework for zero-shot navigation using LLMs",
+      "why_now": "Robotics/navigation research; no relevance to legal AI or legal tech",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-10",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "Homogeneity risk in code generation: convergence from AI coding assistants",
+      "why_now": "Relevant to legal tech code generation tools; open editorial thread overlap (product reliability under pressure), but remains academic with no firm data or adoption signal",
+      "verdict": "watch",
+      "duplicate_of": null
+    }
+  ],
   "summary": {
-    "notes": "parse_failed"
+    "enqueue_count": 0,
+    "watch_count": 2,
+    "drop_count": 9,
+    "notes": "Shortlist is 100% arXiv tier-B research with no primary reporting, no firm announcements, no regulatory statements, no funding rounds, and no legal-sector specificity. arxiv-cs-ai-5 (cost economics) and arxiv-cs-ai-10 (code homogeneity) warrant monitoring if they map to legal tech adoption threads, but neither merits enqueueing. All others are off-vertical."
   },
   "enqueued": 0,
   "usage": {
-    "input_tokens": 5690,
+    "input_tokens": 4012,
     "cache_creation_input_tokens": 0,
     "cache_read_input_tokens": 0,
     "cache_creation": {
       "ephemeral_5m_input_tokens": 0,
       "ephemeral_1h_input_tokens": 0
     },
-    "output_tokens": 2000,
+    "output_tokens": 1282,
     "service_tier": "standard",
     "inference_geo": "not_available"
   }
