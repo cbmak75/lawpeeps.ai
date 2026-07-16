@@ -1,53 +1,89 @@
 {
-  "generated": "2026-07-15T22:08:12.591Z",
+  "generated": "2026-07-16T03:22:43.746Z",
   "cycle_type": "triage",
   "tier_filter": null,
-  "shortlist_size": 2,
+  "shortlist_size": 6,
   "prefilter": {
     "total": 40,
-    "accepted": 2,
-    "borderline": 0,
-    "rejected": 38,
-    "rejected_as_duplicate": 38,
-    "accept_rate": 5
+    "accepted": 5,
+    "borderline": 1,
+    "rejected": 34,
+    "rejected_as_duplicate": 34,
+    "accept_rate": 13
   },
   "model": "claude-haiku-4-5-20251001",
   "picks": [
     {
-      "id": "google-news-legal-ai-0",
+      "id": "arxiv-cs-ai-0",
       "score": 4,
-      "category": "Legal AI",
-      "suggested_angle": "Commentary on legal AI architecture and bespoke development needs",
-      "why_now": "Generic think-piece without primary source, subject matter overlaps recent coverage on legal AI capability and deployment",
-      "verdict": "drop",
+      "category": "Research",
+      "suggested_angle": "LLM agent safety frameworks emerging in academic literature—relevance to legal AI deployment",
+      "why_now": "Academic foundation for understanding containment risks in agent-based legal systems, but abstract and no direct legal application yet",
+      "verdict": "watch",
       "duplicate_of": null
     },
     {
       "id": "above-the-law-legaltech-1",
       "score": 2,
       "category": "Social",
-      "suggested_angle": "Rumored M&A activity in BigLaw",
-      "why_now": "Speculative merger gossip with no confirmed hook; outside editorial focus (not legal AI, legal tech product, funding, or regulation)",
+      "suggested_angle": "None—attorney payment disputes, no legal AI or tech angle",
+      "why_now": "Generic legal news, does not match editorial focus",
       "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "above-the-law-legaltech-2",
+      "score": 1,
+      "category": "Social",
+      "suggested_angle": "None—political commentary",
+      "why_now": "Completely outside editorial remit; no legal or tech angle",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "legal-futures-3",
+      "score": 3,
+      "category": "Adoption",
+      "suggested_angle": "Traditional law firm M&A strategy—no AI or legal tech angle evident",
+      "why_now": "Generic firm growth story; headline does not reveal AI or tech element; likely low-value aggregation",
+      "verdict": "watch",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-4",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "Transformer reasoning dynamics—theoretical foundation but no direct legal application flagged",
+      "why_now": "Academic research with potential long-term relevance to legal reasoning systems, but abstract and speculative",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-5",
+      "score": 4,
+      "category": "Research",
+      "suggested_angle": "Comparative semantic search between humans and LLMs (GPT-4o, Gemini, Claude)—implications for legal knowledge retrieval",
+      "why_now": "Empirical comparison of major foundation models on a cognitive task; potential relevance to legal research and contract review accuracy, but academic tier-B source",
+      "verdict": "watch",
       "duplicate_of": null
     }
   ],
   "summary": {
     "enqueue_count": 0,
-    "watch_count": 0,
-    "drop_count": 2,
-    "notes": "Neither item meets bar. First is generic commentary without primary source or novel angle on already-covered legal AI themes. Second is unconfirmed M&A rumour outside publication focus."
+    "watch_count": 3,
+    "drop_count": 3,
+    "notes": "Weak batch: three arXiv papers too abstract or tangential; two Above the Law pieces off-topic; one Legal Futures M&A story needs headline inspection. No funding rounds, regulatory statements, or named company moves. No duplicates detected against recent coverage."
   },
   "enqueued": 0,
   "usage": {
-    "input_tokens": 2670,
+    "input_tokens": 3099,
     "cache_creation_input_tokens": 0,
     "cache_read_input_tokens": 0,
     "cache_creation": {
       "ephemeral_5m_input_tokens": 0,
       "ephemeral_1h_input_tokens": 0
     },
-    "output_tokens": 320,
+    "output_tokens": 756,
     "service_tier": "standard",
     "inference_geo": "not_available"
   }
