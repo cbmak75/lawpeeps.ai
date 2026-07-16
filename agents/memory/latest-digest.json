@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-16T16:23:43.569Z",
+  "generated": "2026-07-16T19:23:25.649Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 1247,
+  "total_scanned": 1268,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -91,6 +91,18 @@
       "relevance_score": 10
     },
     {
+      "title": "For Software Engineers, the AI Reckoning Is Here",
+      "url": "https://www.bloomberg.com/news/features/2026-07-16/anthropic-and-openai-tools-transform-the-profession-of-coding",
+      "summary": "Article URL: https://www.bloomberg.com/news/features/2026-07-16/anthropic-and-openai-tools-transform-the-profession-of-coding Comments URL: https://news.ycombinator.com/item?id=48937592 Points: 1 # Comments: 0",
+      "published": "2026-07-16T17:32:13.000Z",
+      "source_id": "hacker-news",
+      "source_name": "Hacker News (filtered)",
+      "source_priority": "low",
+      "source_tier": "B",
+      "source_category": "Community",
+      "relevance_score": 10
+    },
+    {
       "title": "Harvey Forum + Shared Spaces, Clio, Spellbook, Legal Innovators - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWDZZRVZBVWx3ckRDeE96a1ZYWTJxVldZUHNwYWl2eHdrUDZKc2xXSmRYVHRheXlISnI5SVpKdmlYTHdOWVRwb3VneFBHMlZhcnlyOWNiZHJuUkNTLXhINlgwRnJzZlNCU0JYQ2k2R2RrUFN3dlRoT3k0ckM5NDRZRHZ2UjAzQWVfQXNRcm9lM2w2LVdmRUxvMmwyVXkzS2Y2XzlnTTNn?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNWDZZRVZBVWx3ckRDeE96a1ZYWTJxVldZUHNwYWl2eHdrUDZKc2xXSmRYVHRheXlISnI5SVpKdmlYTHdOWVRwb3VneFBHMlZhcnlyOWNiZHJuUkNTLXhINlgwRnJzZlNCU0JYQ2k2R2RrUFN3dlRoT3k0ckM5NDRZRHZ2UjAzQWVfQXNRcm9lM2w2LVdmRUxvMmwyVXkzS2Y2XzlnTTNn?oc=5\" target=\"_blank\"&gt;Harvey Forum + Shared Spaces, Clio, Spellbook, Legal Innovators&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
@@ -115,18 +127,6 @@
       "relevance_score": 9
     },
     {
-      "title": "Relativity President Chris Brown on the Gavel Acquisition, Opening Up to Claude, and the ‘Gangbusters’ Growth of aiR",
-      "url": "https://www.lawnext.com/2026/07/relativity-president-chris-brown-on-the-gavel-acquisition-opening-up-to-claude-and-the-gangbusters-growth-of-air.html",
-      "summary": "Last week, Relativity announced that Chris Brown, its chief product officer since 2018, had been named the company’s president, effective July 13. In the new role, Brown continues to lead Relativity’s product organization while adding marketing and technology partnerships to his scope — a change that coincides with the departure of Chief Marketing Officer Cristina [&#8230;]",
-      "published": "2026-07-16T12:31:07.000Z",
-      "source_id": "lawsites",
-      "source_name": "LawSites (Bob Ambrogi)",
-      "source_priority": "critical",
-      "source_tier": "B",
-      "source_category": "Legal tech commentary",
-      "relevance_score": 9
-    },
-    {
       "title": "Optimization Is Not All You Need",
       "url": "https://arxiv.org/abs/2607.11977",
       "summary": "arXiv:2607.11977v2 Announce Type: replace Abstract: In 2019, OpenAI released two million GPT-2 outputs-ungrammatical, half broken-to aid the detection of machine-generated text. The alignment that produced their more fluent successors is usually regarded as an engineering achievement; we read it instead as the newest expression of optimization culture: the conviction, older than the technology, that measurable improvement along predefined axes exhausts the question of value. Tracing that convict",
@@ -137,18 +137,6 @@
       "source_tier": "B",
       "source_category": "Research",
       "relevance_score": 9
-    },
-    {
-      "title": "Top Legal AI Startups Funded in 2026 (Harvey, Legora, Ironclad) - AI Funding Tracker",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10MGJkNVo1c0RqNmhuZWpialozbzBsejY0eWFVUkxsdHM0SG44M1BYM3VtZm92MVlmWGdIaGl0bF9VZkpacEs3R01yT3hBajlpMmxNUmlxV25NWWY3UW1ReA?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE10MGJkNVo1c0RqNmhuZWpialozbzBsejY0eWFVUkxsdHM0SG44M1BYM3VtZm92MVlmWGdIaGl0bF9VZkpacEs3R01yT3hBajlpMmxNUmlxV25NWWY3UW1ReA?oc=5\" target=\"_blank\"&gt;Top Legal AI Startups Funded in 2026 (Harvey, Legora, Ironclad)&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;AI Funding Tracker&lt;/font&gt;",
-      "published": "2026-05-21T07:00:00.000Z",
-      "source_id": "google-news-legal-tech-funding",
-      "source_name": "Google News: legal tech funding",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 8
     },
     {
       "title": "Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook partners with CBA; DeepIP raises $25m - Legal IT Insider",
@@ -163,10 +151,34 @@
       "relevance_score": 8
     },
     {
+      "title": "Top Legal AI Startups Funded in 2026 (Harvey, Legora, Ironclad) - AI Funding Tracker",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10MGJkNVo1c0RqNmhuZWpialozbzBsejY0eWFVUkxsdHM0SG44M1BYM3VtZm92MVlmWGdIaGl0bF9VZkpacEs3R01yT3hBajlpMmxNUmlxV25NWWY3UW1ReA?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE10MGJkNVo1c0RqNmhuZWpialozbzBsejY0eWFVUkxsdHM0SG44M1BYM3VtZm92MVlmWGdIaGl0bF9VZkpacEs3R01yT3hBajlpMmxNUmlxV25NWWY3UW1ReA?oc=5\" target=\"_blank\"&gt;Top Legal AI Startups Funded in 2026 (Harvey, Legora, Ironclad)&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;AI Funding Tracker&lt;/font&gt;",
+      "published": "2026-05-21T07:00:00.000Z",
+      "source_id": "google-news-legal-tech-funding",
+      "source_name": "Google News: legal tech funding",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 8
+    },
+    {
       "title": "Why legal tech giant Harvey is raising cash like OpenAI - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaDhOaTN1RzVmZmxWa1U2TTZyTW9ucXRjZjU2RHUzT0RoMTJQb1BvZ1hpbUgwTUFZS3U5UHV1R21abHdrRDR3cFlWTC1SY3J2WUN1YWlwSlY0Y0VpVjVYSXV2dk93YjhuU0NXYTE5QnBiVHF5bHVLRHdWbzMxdVB3MU0zMFh1TzF0U1JmOA?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQaDhOaTN1RzVmZmxWa1U2TTZyTW9ucXRjZjU2RHUzT0RoMTJQb1BvZ1hpbUgwTUFZS3U5UHV1R21abHdrRDR3cFlWTC1SY3J2WUN1YWlwSlY0Y0VpVjVYSXV2dk93YjhuU0NXYTE5QnBiVHF5bHVLRHdWbzMxdVB3MU0zMFh1TzF0U1JmOA?oc=5\" target=\"_blank\"&gt;Why legal tech giant Harvey is raising cash like OpenAI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Business Insider&lt;/font&gt;",
       "published": "2026-03-26T07:00:00.000Z",
+      "source_id": "google-news-legal-tech-funding",
+      "source_name": "Google News: legal tech funding",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 8
+    },
+    {
+      "title": "EvenUp, AI Software For Personal Injury Law, Doubles Valuation To $2B As Legal Tech Funding Hits Record High - Crunchbase News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY2p6WWxfeE1ZZDJxQXJPOWtrR2VZdkxlSkFtck03QWJtOU1YcGtHUFBlZllXMXkxeXRlcHhfZU9vR0VMU1JUS0FYMGNUSXZ0UnVRSU5YRVZuWERkU29MVFYzYjNtdHN6OUZGU3JlNWpLcDI3eTRwam5fVkhUSzU2WFdtX0daQUNseG50YzRpTQ?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQY2p6WWxfeE1ZZDJxQXJPOWtrR2VZdkxlSkFtck03QWJtOU1YcGtHUFBlZllXMXkxeXRlcHhfZU9vR0VMU1JUS0FYMGNUSXZ0UnVRSU5YRVZuWERkU29MVFYzYjNtdHN6OUZGU3JlNWpLcDI3eTRwam5fVkhUSzU2WFdtX0daQUNseG50YzRpTQ?oc=5\" target=\"_blank\"&gt;EvenUp, AI Software For Personal Injury Law, Doubles Valuation To $2B As Legal Tech Funding Hits Record High&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Crunchbase News&lt;/font&gt;",
+      "published": "2025-10-07T07:00:00.000Z",
       "source_id": "google-news-legal-tech-funding",
       "source_name": "Google News: legal tech funding",
       "source_priority": "critical",
@@ -259,16 +271,16 @@
       "relevance_score": 8
     },
     {
-      "title": "Harvey has made its third acquisition in 7 months — and it signals where it's going next - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTVRuaGlsbDh0ZDBjSmhTVkpqTWM3Yk81VGY4cnhOQ2tscFJkUkMwYXMzbGV4eWFGemQ0RjNyLXJ5M2U2VjlVQmNfdE1ZSWloZWJsQXNCRjFGNFIxY1RnNjdNREUzelNUS2huVEFNZE5Lck9CVWlodlk1bmdCT3FOUWk0SGdKOFpMM3dDSWJTMVcwNHNq?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQTVRuaGlsbDh0ZDBjSmhTVkpqTWM3Yk81VGY4cnhOQ2tscFJkUkMwYXMzbGV4eWFGemQ0RjNyLXJ5M2U2VjlVQmNfdE1ZSWloZWJsQXNCRjFGNFIxY1RnNjdNREUzelNUS2huVEFNZE5Lck9CVWlodlk1bmdCT3FOUWk0SGdKOFpMM3dDSWJTMVcwNHNq?oc=5\" target=\"_blank\"&gt;Harvey has made its third acquisition in 7 months — and it signals where it's going next&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Business Insider&lt;/font&gt;",
-      "published": "2026-07-16T12:00:03.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 7
+      "title": "Launch HN: Traceforce (YC S26) – Company-wide security monitoring for AI apps",
+      "url": "https://news.ycombinator.com/item?id=48937020",
+      "summary": "Hey HN, we’re Xia and Varun, the founders of Traceforce ( https://www.traceforce.ai/ ). Traceforce provides visibility and control over AI apps such as ChatGPT, Claude etc directly on all devices (laptops, sandboxes, virtual machines) by discovering not just which apps are being used but also how they are connected to other data sources via MCPs. We also have an open-source dynamic MCP pentesting tool https://github.com/traceforce/mcp-xray to detect vulnerable MCPs. The purpose of Traceforce is ",
+      "published": "2026-07-16T16:52:16.000Z",
+      "source_id": "hacker-news",
+      "source_name": "Hacker News (filtered)",
+      "source_priority": "low",
+      "source_tier": "B",
+      "source_category": "Community",
+      "relevance_score": 8
     },
     {
       "title": "The Legal AI Scaffold Changes Everything – Claude Study - Artificial Lawyer",
@@ -295,15 +307,15 @@
       "relevance_score": 7
     },
     {
-      "title": "Harvey Buys Benchmark Asset Management Startup",
-      "url": "https://www.artificiallawyer.com/2026/07/16/harvey-buys-benchmark-asset-management-startup/",
-      "summary": "Harvey has announced its acquisition of New York-based Benchmark, a decision infrastructure platform for asset management. Benchmark helps investors make better decisions by capturing their ...",
-      "published": "2026-07-16T12:27:18.000Z",
-      "source_id": "artificial-lawyer",
-      "source_name": "Artificial Lawyer",
+      "title": "Relativity President Chris Brown on the Gavel Acquisition, Opening Up to Claude, and the ‘Gangbusters’ Growth of aiR",
+      "url": "https://www.lawnext.com/2026/07/relativity-president-chris-brown-on-the-gavel-acquisition-opening-up-to-claude-and-the-gangbusters-growth-of-air.html",
+      "summary": "Last week, Relativity announced that Chris Brown, its chief product officer since 2018, had been named the company’s president, effective July 13. In the new role, Brown continues to lead Relativity’s product organization while adding marketing and technology partnerships to his scope — a change that coincides with the departure of Chief Marketing Officer Cristina [&#8230;]",
+      "published": "2026-07-16T12:31:07.000Z",
+      "source_id": "lawsites",
+      "source_name": "LawSites (Bob Ambrogi)",
       "source_priority": "critical",
       "source_tier": "B",
-      "source_category": "Legal AI",
+      "source_category": "Legal tech commentary",
       "relevance_score": 7
     },
     {
@@ -331,10 +343,10 @@
       "relevance_score": 7
     },
     {
-      "title": "Morning Docket: 07.16.26",
-      "url": "https://abovethelaw.com/2026/07/morning-docket-07-16-26/",
-      "summary": "* DOJ and SEC agree to freeze discovery in SEC's civil case over the Biglaw insider trading scheme, clarifying that the criminal case will be the main event. [ Court Listener ] * WilmerHale faces class action over data breach. [ Law360 ] * R. Kelly believes he can fly straight out of prison, asking Donald Trump for clemency by citing DOJ weaponization against him. [ TMZ ] * Subpoenas for Biglaw capitulators \"reopen wounds.\" Self-inflicted wounds, but wounds nonetheless. [ Bloomberg Law News ] * ",
-      "published": "2026-07-16T12:54:00.000Z",
+      "title": "Developing Your Own Personal Marketing Plan And Then Actually Implementing It",
+      "url": "https://abovethelaw.com/2026/07/developing-your-own-personal-marketing-plan-and-then-actually-implementing-it/",
+      "summary": "The most successful lawyers understand that marketing is not something separate from practicing their profession. The post Developing Your Own Personal Marketing Plan And Then Actually Implementing It appeared first on Above the Law .",
+      "published": "2026-07-16T19:13:00.000Z",
       "source_id": "above-the-law-legaltech",
       "source_name": "Above the Law (Legal Tech)",
       "source_priority": "high",
@@ -367,15 +379,15 @@
       "relevance_score": 7
     },
     {
-      "title": "&#8216;Streamlined&#8217; A&#038;O Shearman sees double-digit profit growth despite slight dip in GBP revenue",
-      "url": "https://www.legalbusiness.co.uk/law-firms/streamlined-ao-shearman-sees-double-digit-profit-growth-despite-slight-dip-in-gbp-revenue/",
-      "summary": "A&#38;O Shearman has posted double-digit increases to profit and PEP in its most recent financial results, with a slight dip in revenue as the merged firm &#8216;sharpens its focus.&#8217; The firm increased its profit before tax by 14%, hitting $1.6bn (£1.2bn), while profit per equity partner (PEP) grew by 12%, rising to $2.9m (£2.2m) &#8211; &#8230; Continue reading \"&#8216;Streamlined&#8217; A&#038;O Shearman sees double-digit profit growth despite slight dip in GBP revenue\"",
-      "published": "2026-07-16T12:01:15.000Z",
-      "source_id": "legal-business",
-      "source_name": "Legal Business",
+      "title": "AI in legal education: How to leverage AI to build change agility in law schools",
+      "url": "https://www.thomsonreuters.com/en-us/posts/technology/leverage-ai-in-legal-education/",
+      "summary": "USF law school dean led her institution's practical integration of AI into legal education by engaging students and encouraging collaboration.",
+      "published": "2026-07-16T18:30:06.000Z",
+      "source_id": "thomson-reuters-institute",
+      "source_name": "Thomson Reuters Institute",
       "source_priority": "medium",
       "source_tier": "B",
-      "source_category": "Legal profession",
+      "source_category": "Research",
       "relevance_score": 7
     },
     {
@@ -391,6 +403,30 @@
       "relevance_score": 7
     },
     {
+      "title": "Using AI for Good Episode 1: SpiralOS Concept",
+      "url": "https://news.ycombinator.com/item?id=48938896",
+      "summary": "This is a demo concept for something I want to make to help people who don't have wifi access at all times or access to teachers or therapists, they can then talk to their SpiralOS and help learn new things from trusted sources only pulling from real books. These real books can be accessed and read by themself inside the app even. Long term would love to get this on a handheld to be able to ship out with a small screen, thinking like a gameboy color or something. Kids could talk to it or type wi",
+      "published": "2026-07-16T19:11:36.000Z",
+      "source_id": "hacker-news",
+      "source_name": "Hacker News (filtered)",
+      "source_priority": "low",
+      "source_tier": "B",
+      "source_category": "Community",
+      "relevance_score": 7
+    },
+    {
+      "title": "Anthropic CEO gives $1M to super PAC amid battle of AI big-money groups",
+      "url": "https://www.politico.com/news/2026/07/16/anthropics-ceo-gives-1-million-to-super-pac-amid-feud-of-ai-big-money-groups-01000461",
+      "summary": "Article URL: https://www.politico.com/news/2026/07/16/anthropics-ceo-gives-1-million-to-super-pac-amid-feud-of-ai-big-money-groups-01000461 Comments URL: https://news.ycombinator.com/item?id=48937138 Points: 3 # Comments: 1",
+      "published": "2026-07-16T17:01:46.000Z",
+      "source_id": "hacker-news",
+      "source_name": "Hacker News (filtered)",
+      "source_priority": "low",
+      "source_tier": "B",
+      "source_category": "Community",
+      "relevance_score": 7
+    },
+    {
       "title": "AI in Cyberpsychology: A systematic literature review of Cybersecurity enhancement by using AI for analyzing psychology of Victims, Attackers, and Defenders",
       "url": "https://arxiv.org/abs/2607.13123",
       "summary": "arXiv:2607.13123v1 Announce Type: cross Abstract: Cybersecurity is the practice of protecting systems, networks, and data from digital attacks. Cyberpsychology (CPSY) is defined as the use of psychology to enhance cybersecurity applications. Since the early 2010s, the evolution of Artificial Intelligence (AI) has increasingly integrated with CPSY, leveraging advanced data analysis to decode the distinct personality traits and behavioral patterns of victims, attackers, and defenders. In this syst",
@@ -401,30 +437,6 @@
       "source_tier": "B",
       "source_category": "Research",
       "relevance_score": 7
-    },
-    {
-      "title": "Litera relaunches as one legal AI platform for firms - IT Brief UK",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY1VDdnFSR0psZ2I2S3U4RFAybVNXb05Pc1JXNFg4Mm1CNGJodDg0cGw5NzJaMFAwdmtzRTlXd0tDNmtuSFZxUjBJdWNYdkVMWlVGLUlWRHNxX0dxeFhkQndFS3ViY1l5SWxyZFNIa0F4X1pXcDBvVGstNjVrWmR5eVFQV19ybjQ?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQY1VDdnFSR0psZ2I2S3U4RFAybVNXb05Pc1JXNFg4Mm1CNGJodDg0cGw5NzJaMFAwdmtzRTlXd0tDNmtuSFZxUjBJdWNYdkVMWlVGLUlWRHNxX0dxeFhkQndFS3ViY1l5SWxyZFNIa0F4X1pXcDBvVGstNjVrWmR5eVFQV19ybjQ?oc=5\" target=\"_blank\"&gt;Litera relaunches as one legal AI platform for firms&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;IT Brief UK&lt;/font&gt;",
-      "published": "2026-07-15T16:32:00.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
-    },
-    {
-      "title": "Vishwanand Srivastava, Founder &amp; CEO of Caz Brain Group, Strengthens Caz Legal AI to Build AI-Enabled Legal Professionals - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOUXRNR3hRVE9ZLWVvdEw4ZUJ3RTNsM0pPLVdhZmJ6VWJtWEhBTnJsVmpLQzNaMFFIT1QzaFpFcGRyVkFzSmFDSTllZWJ1Zm9mcHRnRkMzUFBiN2ZYX0dHbXp4M21CZmUtUlNWNXo2WlZET192alFrcTBiS1d1YXpVeGUtckJCenp2MHV4Nkh4b0FvaGVlbllNVXJRenEzcGtkN2IzbkJxd01QTlBiekRKRXpZLXVJWF9CVENjTFNnWG1GdHRqMUJNQTh6bEdDbW5VNDRpTGlUeHpXWk5YVzhLZzdQYkNFaUs3anpMOVBJTmcwcE5Nd3Jid0VhRG5la3UzVUVxcnV2bGdZTWFnUFRkNUt1SWRZaWN6V1RjUk1RWndsUG4t0gGqAkFVX3lxTE42ZmdZSnFnY3VmYkVHa3hCZ1Y2SUZTdk5nNFZuUkZWTTg3LUxucHYzdGl6TWRXRm1XcXczcDE0MEc4TWl0eWhqUW9NVndDbllrTTl2QTVTSjF5RVdjalpmZ2ZodVNSeTRoRTZkc1Y4QkkxVW5YT2NOa2tMSVVtR3htZmpkVmlweDRmS2UxTlZYNGZJVTFtY2wtS1dBRS05QkNlRTRRbG9HNU53V09rUF9XTElZNkZVOVBGREtqZDZ4UTRwLUU0aEg4Q0FNOWFaUGxGeEx3RUx2YXE2NHNxcklEclBtTlhUdWRiV2Q0V3pwMmZFeG5USlhvRGxYQnNrdEpPSm9qN2pBNDVZV0dSLVBfa2I2U3l4SG1mcFVkUWZqbHpVck5xS3hwZ0E?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAJBVV95cUxOUXRNR3hRVE9ZLWVvdEw4ZUJ3RTNsM0pPLVdhZmJ6VWJtWEhBTnJsVmpLQzNaMFFIT1QzaFpFcGRyVkFzSmFDSTllZWJ1Zm9mcHRnRkMzUFBiN2ZYX0dHbXp4M21CZmUtUlNWNXo2WlZET192alFrcTBiS1d1YXpVeGUtckJCenp2MHV4Nkh4b0FvaGVlbllNVXJRenEzcGtkN2IzbkJxd01QTlBiekRKRXpZLXVJWF9CVENjTFNnWG1GdHRqMUJNQTh6bEdDbW5VNDRpTGlUeHpXWk5YVzhLZzdQYkNFaUs3anpMOVBJTmcwcE5Nd3Jid0VhRG5la3UzVUVxcnV2bGdZTWFnUFRkNUt1SWRZaWN6V1RjUk1RWndsUG4t0gGqAkFVX3lxTE42ZmdZSnFnY3VmYkVHa3hCZ1Y2SUZTdk5nNFZuUkZ",
-      "published": "2026-07-16T14:35:13.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
     },
     {
       "title": "The Practical Guide to AI-Powered Due Diligence for M&amp;A Professionals - Harvey",
@@ -467,18 +479,6 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOUJDMnROZUthMW13YnFBdlRCb0YwZE50ZmlPQ2tOZTNzd0tpa1lUd24xZTRINTkyazN6VzBJZFNrSXQtUUkyRklNblNNVW9HeUFHMGpaRGE4WFZBb0hISk1yVVdTSzBEVk9UN2pTeWlsaUxndWozWUtIM29wZEJnWDhkRnZrTURfZy1la3VqeW52SnBQWGFpNGdLSG50ZzNWbzhVVmhybE44ZEpvMkE?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPOUJDMnROZUthMW13YnFBdlRCb0YwZE50ZmlPQ2tOZTNzd0tpa1lUd24xZTRINTkyazN6VzBJZFNrSXQtUUkyRklNblNNVW9HeUFHMGpaRGE4WFZBb0hISk1yVVdTSzBEVk9UN2pTeWlsaUxndWozWUtIM29wZEJnWDhkRnZrTURfZy1la3VqeW52SnBQWGFpNGdLSG50ZzNWbzhVVmhybE44ZEpvMkE?oc=5\" target=\"_blank\"&gt;Eversheds Sutherland’s global co-CEO Keith Froud talks Harvey, AI adoption and ROI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Legal IT Insider&lt;/font&gt;",
       "published": "2026-02-11T08:00:00.000Z",
-      "source_id": "google-news-harvey-luminance",
-      "source_name": "Google News: Harvey OR Luminance",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
-    },
-    {
-      "title": ":Harvey: and ElevenLabs Partner to Give Lawyers a Global Voice - Harvey",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxON1U5aHpIdnkyQk5fWEN4WVZnU0E5eWVqR0I3RWI2RkdFMjlrZ2RETmhFNzdnLXhET2sydHkwdm5HYnFQTmxIT3RRbXI4WmxzTWhHbGdYbXoteFZ3OUlVdFh5REdUdE93M2paejNvVjcyaXIta2swSHJ1UWIxMXF2a0M2SEhsd0dnNmVlNUNfczE?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxON1U5aHpIdnkyQk5fWEN4WVZnU0E5eWVqR0I3RWI2RkdFMjlrZ2RETmhFNzdnLXhET2sydHkwdm5HYnFQTmxIT3RRbXI4WmxzTWhHbGdYbXoteFZ3OUlVdFh5REdUdE93M2paejNvVjcyaXIta2swSHJ1UWIxMXF2a0M2SEhsd0dnNmVlNUNfczE?oc=5\" target=\"_blank\"&gt;:Harvey: and ElevenLabs Partner to Give Lawyers a Global Voice&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
-      "published": "2025-11-12T08:00:00.000Z",
       "source_id": "google-news-harvey-luminance",
       "source_name": "Google News: Harvey OR Luminance",
       "source_priority": "critical",

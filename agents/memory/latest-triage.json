@@ -1,42 +1,51 @@
 {
-  "generated": "2026-07-16T16:33:55.009Z",
+  "generated": "2026-07-16T19:23:35.664Z",
   "cycle_type": "triage",
   "tier_filter": null,
-  "shortlist_size": 3,
+  "shortlist_size": 4,
   "prefilter": {
     "total": 40,
-    "accepted": 3,
+    "accepted": 4,
     "borderline": 0,
-    "rejected": 37,
-    "rejected_as_duplicate": 37,
-    "accept_rate": 8
+    "rejected": 36,
+    "rejected_as_duplicate": 36,
+    "accept_rate": 10
   },
   "model": "claude-haiku-4-5-20251001",
   "picks": [
     {
-      "id": "google-news-legal-ai-0",
-      "score": 4,
-      "category": "Legal AI",
-      "suggested_angle": "Caz Brain Group expands legal AI platform; unclear if this is product launch or founder profile puff",
-      "why_now": "Published today but appears to be press release or founder announcement with no independent news hook",
-      "verdict": "watch",
-      "duplicate_of": null
-    },
-    {
-      "id": "legal-cheek-1",
+      "id": "above-the-law-legaltech-0",
       "score": 2,
       "category": "Social",
-      "suggested_angle": "A&O Shearman partner compensation trends post-merger",
-      "why_now": "Financial results coverage; matched on 'Eve' but no legal AI or legal tech angle; out of scope",
+      "suggested_angle": "Generic legal practice marketing advice",
+      "why_now": "No AI, legal tech, or regulatory angle; pure practice management puff",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
-      "id": "above-the-law-legaltech-2",
+      "id": "legal-cheek-1",
       "score": 3,
+      "category": "Social",
+      "suggested_angle": "A&O Shearman partner compensation adjustment post-merger",
+      "why_now": "Tier B coverage of firm financials; no legal AI, tech, or regulatory nexus",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "hacker-news-2",
+      "score": 5,
       "category": "Legal AI",
-      "suggested_angle": "Daily news roundup aggregating multiple unrelated stories",
-      "why_now": "Low-value aggregation of disparate items (DOJ discovery freeze, WilmerHale breach, R. Kelly); no coherent news peg",
+      "suggested_angle": "YC-backed AI security monitoring startup targets legal and enterprise risk",
+      "why_now": "Traceforce is a nascent security play for AI app usage; relevant to law firm risk exposure but lacks primary source detail and no named legal firm adoption yet",
+      "verdict": "watch",
+      "duplicate_of": null
+    },
+    {
+      "id": "hacker-news-3",
+      "score": 1,
+      "category": "Social",
+      "suggested_angle": "Concept demo for offline educational AI tool",
+      "why_now": "No legal angle, no legal tech connection, low-signal hobby project",
       "verdict": "drop",
       "duplicate_of": null
     }
@@ -44,19 +53,19 @@
   "summary": {
     "enqueue_count": 0,
     "watch_count": 1,
-    "drop_count": 2,
-    "notes": "Weak shortlist: one unverified founder announcement (watch for clarity), two out-of-scope or low-value aggregation pieces. No primary source legal AI news, no regulatory moves, no named funding, no adoption stories."
+    "drop_count": 3,
+    "notes": "Weak shortlist: only HN-2 (Traceforce) has any legal tech relevance, but lacks firm adoption or primary legal industry sourcing. Others are out-of-scope puff or hobby content."
   },
   "enqueued": 0,
   "usage": {
-    "input_tokens": 3457,
+    "input_tokens": 2727,
     "cache_creation_input_tokens": 0,
     "cache_read_input_tokens": 0,
     "cache_creation": {
       "ephemeral_5m_input_tokens": 0,
       "ephemeral_1h_input_tokens": 0
     },
-    "output_tokens": 447,
+    "output_tokens": 516,
     "service_tier": "standard",
     "inference_geo": "not_available"
   }
