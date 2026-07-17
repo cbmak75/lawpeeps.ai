@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-17T10:54:00.382Z",
+  "generated": "2026-07-17T13:55:03.670Z",
   "cycle_type": "triage",
   "tier_filter": null,
   "shortlist_size": 7,
@@ -14,85 +14,85 @@
   "model": "claude-haiku-4-5-20251001",
   "picks": [
     {
-      "id": "hacker-news-0",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "Developer burnout with AI coding tools; marginal relevance to legal tech",
-      "why_now": "Generic developer experience piece, no legal AI hook, no legal tech angle",
+      "id": "legal-futures-0",
+      "score": 5,
+      "category": "Adoption",
+      "suggested_angle": "Mid-market commercial firm chooses iManage for document management and collaboration",
+      "why_now": "iManage is a watchlist company, but this is a routine adoption story with no unique angle or competitive insight",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
-      "id": "arxiv-cs-ai-1",
-      "score": 3,
-      "category": "Research",
-      "suggested_angle": "Testing whether LLM reasoning chains actually depend on stated premises",
-      "why_now": "Foundational AI robustness research but no legal application angle or firm/product hook",
+      "id": "crunchbase-news-1",
+      "score": 2,
+      "category": "Social",
+      "suggested_angle": "General startup funding trends in Argentina and Spain during World Cup",
+      "why_now": "Not legal AI related; matched only on generic 'Eve' entity; pure sports/VC aggregation",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
       "id": "arxiv-cs-ai-2",
-      "score": 3,
+      "score": 6,
       "category": "Research",
-      "suggested_angle": "Evaluating whether LLM agents misread state or misreason about it",
-      "why_now": "Relevant to agent reliability but pure academic research with no legal-vertical application",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-3",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "Benchmark for LLM clinical decision support in psychiatry",
-      "why_now": "Healthcare AI, not legal; no legal tech relevance despite decision-support theme",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-4",
-      "score": 4,
-      "category": "Research",
-      "suggested_angle": "Safety framework for LLM agent tool calls via human intervention routing",
-      "why_now": "Addresses agent harm prevention, tangentially relevant to legal AI risk governance but pure research",
+      "suggested_angle": "New arXiv paper on testing LLM chain-of-thought reasoning validity via premise substitution",
+      "why_now": "Addresses real risk in legal AI (false logical soundness in reasoning chains); academic but relevant to regulatory concern about AI reliability",
       "verdict": "watch",
       "duplicate_of": null
     },
     {
-      "id": "arxiv-cs-ai-5",
-      "score": 3,
+      "id": "arxiv-cs-ai-3",
+      "score": 6,
       "category": "Research",
-      "suggested_angle": "Unified evaluation infrastructure for LLM agent capabilities",
-      "why_now": "Technical infrastructure research with no legal or commercial hook",
+      "suggested_angle": "Paper on gap between LLM agent perception and action in multi-week decision tasks",
+      "why_now": "Relevant to threads on AI accuracy under time pressure and high-stakes deployment; academic source but addresses real deployment risk",
+      "verdict": "watch",
+      "duplicate_of": null
+    },
+    {
+      "id": "above-the-law-legaltech-4",
+      "score": 2,
+      "category": "Social",
+      "suggested_angle": "Daily news aggregation from Above the Law",
+      "why_now": "Generic morning briefing, low-value aggregation; the matched items are unrelated to legal AI",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "legal-futures-5",
+      "score": 2,
+      "category": "Social",
+      "suggested_angle": "UK law firm announces partner promotions",
+      "why_now": "Standard firm growth announcement; no legal tech or AI angle despite prefilter match",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
       "id": "arxiv-cs-ai-6",
-      "score": 3,
+      "score": 7,
       "category": "Research",
-      "suggested_angle": "One-shot error correction for LLM agents via experience memory graphs",
-      "why_now": "Agent reliability research but no legal application, firm product announcement, or regulatory angle",
-      "verdict": "drop",
+      "suggested_angle": "Paper on routing framework for LLM agent safety via context-aware human intervention (EXECUTE-ASK-REFUSE)",
+      "why_now": "Directly addresses professional liability and human oversight threads; practical safety architecture for autonomous LLM agents in high-stakes environments",
+      "verdict": "watch",
       "duplicate_of": null
     }
   ],
   "summary": {
     "enqueue_count": 0,
-    "watch_count": 1,
-    "drop_count": 6,
-    "notes": "Shortlist is almost entirely generic AI/LLM research (arXiv + Hacker News) with zero relevance to legal AI, legal tech, regulation, or firm adoption. One item (arxiv-cs-ai-4 on agent safety routing) weakly maps to legal AI risk governance but lacks any legal-vertical hook or news peg. All drop."
+    "watch_count": 3,
+    "drop_count": 4,
+    "notes": "Weak shortlist: one adoption story too routine, two arXiv papers on LLM reliability merit watching as they touch open threads on accuracy and oversight, one safety paper on agent human-in-loop is strongest research piece. Most items fail focus test (sports VC, partner promotions, generic briefing)."
   },
   "enqueued": 0,
   "usage": {
-    "input_tokens": 3282,
+    "input_tokens": 3288,
     "cache_creation_input_tokens": 0,
     "cache_read_input_tokens": 0,
     "cache_creation": {
       "ephemeral_5m_input_tokens": 0,
       "ephemeral_1h_input_tokens": 0
     },
-    "output_tokens": 838,
+    "output_tokens": 884,
     "service_tier": "standard",
     "inference_geo": "not_available"
   }
