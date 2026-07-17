@@ -1,15 +1,15 @@
 {
-  "generated": "2026-07-17T16:21:23.706Z",
+  "generated": "2026-07-17T19:21:18.848Z",
   "cycle_type": "triage",
   "tier_filter": null,
-  "shortlist_size": 6,
+  "shortlist_size": 3,
   "prefilter": {
     "total": 40,
-    "accepted": 6,
+    "accepted": 3,
     "borderline": 0,
-    "rejected": 34,
-    "rejected_as_duplicate": 34,
-    "accept_rate": 15
+    "rejected": 37,
+    "rejected_as_duplicate": 37,
+    "accept_rate": 8
   },
   "model": "claude-haiku-4-5-20251001",
   "picks": [
@@ -17,73 +17,46 @@
       "id": "google-news-legal-ai-0",
       "score": 6,
       "category": "Legal AI",
-      "suggested_angle": "Commoditization risk: when LLM parity erodes competitive differentiation in legal tech",
-      "why_now": "Timely meditation on a real strategic tension as legal AI tools converge on similar foundation models",
+      "suggested_angle": "Competitive differentiation strategy when LLM commoditization removes technical moat",
+      "why_now": "JD Supra commentary on a live tension in legal AI adoption; timely given consolidation evident in recent coverage",
       "verdict": "watch",
       "duplicate_of": null
     },
     {
-      "id": "legal-futures-1",
-      "score": 4,
-      "category": "Adoption",
-      "suggested_angle": "iManage deployment at HAN LLP",
-      "why_now": "Standard firm adoption story; iManage is not a priority watch-list company for legal AI editorial",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "crunchbase-news-2",
+      "id": "above-the-law-legaltech-1",
       "score": 2,
       "category": "Social",
-      "suggested_angle": "General startup funding trends in Argentina and Spain",
-      "why_now": "No legal AI, legal tech, or editorial relevance; clickbait tie-in to World Cup",
+      "suggested_angle": "Generic career/marketing advice for lawyers",
+      "why_now": "Not a news story; general counsel advice with no legal AI or legal tech news hook",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
-      "id": "above-the-law-legaltech-3",
-      "score": 2,
-      "category": "Social",
-      "suggested_angle": "Daily news roundup",
-      "why_now": "Generic morning docket aggregation with no specific legal AI hook",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "legal-futures-4",
-      "score": 2,
-      "category": "Social",
-      "suggested_angle": "Brabners partner promotions",
-      "why_now": "Standard firm personnel announcement; no legal AI or tech angle",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "thomson-reuters-institute-5",
-      "score": 5,
+      "id": "thomson-reuters-institute-2",
+      "score": 3,
       "category": "Legal AI",
-      "suggested_angle": "Thomson Reuters AI and data in AML/human trafficking detection",
-      "why_now": "Thomson Reuters is a watch-list company; content hub article on AI application in compliance; lower weight as corporate thought leadership",
-      "verdict": "watch",
+      "suggested_angle": "Thomson Reuters AI application in AML/trafficking detection at scale",
+      "why_now": "Published by Thomson Reuters Institute on a watch-list company; but this is post-hoc initiative coverage without funding, regulatory, or adoption announcement",
+      "verdict": "drop",
       "duplicate_of": null
     }
   ],
   "summary": {
     "enqueue_count": 0,
-    "watch_count": 2,
-    "drop_count": 4,
-    "notes": "Weak shortlist: mostly firm announcements and off-topic content. Two items warrant editor review for potential angle development but neither meets enqueue threshold."
+    "watch_count": 1,
+    "drop_count": 2,
+    "notes": "Only the JD Supra piece touches genuine editorial tension (commoditization risk); other two are either unfocused advice or TR institutional reporting without news peg. None meet enqueue threshold."
   },
   "enqueued": 0,
   "usage": {
-    "input_tokens": 3357,
+    "input_tokens": 2820,
     "cache_creation_input_tokens": 0,
     "cache_read_input_tokens": 0,
     "cache_creation": {
       "ephemeral_5m_input_tokens": 0,
       "ephemeral_1h_input_tokens": 0
     },
-    "output_tokens": 688,
+    "output_tokens": 430,
     "service_tier": "standard",
     "inference_geo": "not_available"
   }
