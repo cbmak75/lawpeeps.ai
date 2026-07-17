@@ -1,98 +1,89 @@
 {
-  "generated": "2026-07-17T13:55:03.670Z",
+  "generated": "2026-07-17T16:21:23.706Z",
   "cycle_type": "triage",
   "tier_filter": null,
-  "shortlist_size": 7,
+  "shortlist_size": 6,
   "prefilter": {
     "total": 40,
-    "accepted": 7,
+    "accepted": 6,
     "borderline": 0,
-    "rejected": 33,
-    "rejected_as_duplicate": 33,
-    "accept_rate": 18
+    "rejected": 34,
+    "rejected_as_duplicate": 34,
+    "accept_rate": 15
   },
   "model": "claude-haiku-4-5-20251001",
   "picks": [
     {
-      "id": "legal-futures-0",
-      "score": 5,
+      "id": "google-news-legal-ai-0",
+      "score": 6,
+      "category": "Legal AI",
+      "suggested_angle": "Commoditization risk: when LLM parity erodes competitive differentiation in legal tech",
+      "why_now": "Timely meditation on a real strategic tension as legal AI tools converge on similar foundation models",
+      "verdict": "watch",
+      "duplicate_of": null
+    },
+    {
+      "id": "legal-futures-1",
+      "score": 4,
       "category": "Adoption",
-      "suggested_angle": "Mid-market commercial firm chooses iManage for document management and collaboration",
-      "why_now": "iManage is a watchlist company, but this is a routine adoption story with no unique angle or competitive insight",
+      "suggested_angle": "iManage deployment at HAN LLP",
+      "why_now": "Standard firm adoption story; iManage is not a priority watch-list company for legal AI editorial",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
-      "id": "crunchbase-news-1",
+      "id": "crunchbase-news-2",
       "score": 2,
       "category": "Social",
-      "suggested_angle": "General startup funding trends in Argentina and Spain during World Cup",
-      "why_now": "Not legal AI related; matched only on generic 'Eve' entity; pure sports/VC aggregation",
+      "suggested_angle": "General startup funding trends in Argentina and Spain",
+      "why_now": "No legal AI, legal tech, or editorial relevance; clickbait tie-in to World Cup",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
-      "id": "arxiv-cs-ai-2",
-      "score": 6,
-      "category": "Research",
-      "suggested_angle": "New arXiv paper on testing LLM chain-of-thought reasoning validity via premise substitution",
-      "why_now": "Addresses real risk in legal AI (false logical soundness in reasoning chains); academic but relevant to regulatory concern about AI reliability",
-      "verdict": "watch",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-3",
-      "score": 6,
-      "category": "Research",
-      "suggested_angle": "Paper on gap between LLM agent perception and action in multi-week decision tasks",
-      "why_now": "Relevant to threads on AI accuracy under time pressure and high-stakes deployment; academic source but addresses real deployment risk",
-      "verdict": "watch",
-      "duplicate_of": null
-    },
-    {
-      "id": "above-the-law-legaltech-4",
+      "id": "above-the-law-legaltech-3",
       "score": 2,
       "category": "Social",
-      "suggested_angle": "Daily news aggregation from Above the Law",
-      "why_now": "Generic morning briefing, low-value aggregation; the matched items are unrelated to legal AI",
+      "suggested_angle": "Daily news roundup",
+      "why_now": "Generic morning docket aggregation with no specific legal AI hook",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
-      "id": "legal-futures-5",
+      "id": "legal-futures-4",
       "score": 2,
       "category": "Social",
-      "suggested_angle": "UK law firm announces partner promotions",
-      "why_now": "Standard firm growth announcement; no legal tech or AI angle despite prefilter match",
+      "suggested_angle": "Brabners partner promotions",
+      "why_now": "Standard firm personnel announcement; no legal AI or tech angle",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
-      "id": "arxiv-cs-ai-6",
-      "score": 7,
-      "category": "Research",
-      "suggested_angle": "Paper on routing framework for LLM agent safety via context-aware human intervention (EXECUTE-ASK-REFUSE)",
-      "why_now": "Directly addresses professional liability and human oversight threads; practical safety architecture for autonomous LLM agents in high-stakes environments",
+      "id": "thomson-reuters-institute-5",
+      "score": 5,
+      "category": "Legal AI",
+      "suggested_angle": "Thomson Reuters AI and data in AML/human trafficking detection",
+      "why_now": "Thomson Reuters is a watch-list company; content hub article on AI application in compliance; lower weight as corporate thought leadership",
       "verdict": "watch",
       "duplicate_of": null
     }
   ],
   "summary": {
     "enqueue_count": 0,
-    "watch_count": 3,
+    "watch_count": 2,
     "drop_count": 4,
-    "notes": "Weak shortlist: one adoption story too routine, two arXiv papers on LLM reliability merit watching as they touch open threads on accuracy and oversight, one safety paper on agent human-in-loop is strongest research piece. Most items fail focus test (sports VC, partner promotions, generic briefing)."
+    "notes": "Weak shortlist: mostly firm announcements and off-topic content. Two items warrant editor review for potential angle development but neither meets enqueue threshold."
   },
   "enqueued": 0,
   "usage": {
-    "input_tokens": 3288,
+    "input_tokens": 3357,
     "cache_creation_input_tokens": 0,
     "cache_read_input_tokens": 0,
     "cache_creation": {
       "ephemeral_5m_input_tokens": 0,
       "ephemeral_1h_input_tokens": 0
     },
-    "output_tokens": 884,
+    "output_tokens": 688,
     "service_tier": "standard",
     "inference_geo": "not_available"
   }

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-17T13:54:54.605Z",
+  "generated": "2026-07-17T16:21:11.824Z",
   "cycle_type": "monitoring",
   "item_count": 40,
   "total_scanned": 1246,
@@ -91,16 +91,16 @@
       "relevance_score": 10
     },
     {
-      "title": "Optimization Is Not All You Need",
-      "url": "https://arxiv.org/abs/2607.11977",
-      "summary": "arXiv:2607.11977v2 Announce Type: replace Abstract: In 2019, OpenAI released two million GPT-2 outputs-ungrammatical, half broken-to aid the detection of machine-generated text. The alignment that produced their more fluent successors is usually regarded as an engineering achievement; we read it instead as the newest expression of optimization culture: the conviction, older than the technology, that measurable improvement along predefined axes exhausts the question of value. Tracing that convict",
-      "published": "2026-07-17T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI (keyword-filtered)",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "Research",
-      "relevance_score": 10
+      "title": "If Every Firm Uses the Same LLM, Where Is Your Edge? - JD Supra",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOY0V2UkhOeE80WWFkMWJvWGxSV3Q4X0N0NW5sZ2ExSzVYb3Z1OWE4N3RlNnN5YkZ1Wmo2aUlzRFlOUlF1OTlfMnByT3lkWXU2WlRjYWpydXpHbTFfcU1uVEpKRU95NzYwMFp5X1JMYmt0eEh2STNFdG4zYU9rejQ3RHQtcGpvVnM?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOY0V2UkhOeE80WWFkMWJvWGxSV3Q4X0N0NW5sZ2ExSzVYb3Z1OWE4N3RlNnN5YkZ1Wmo2aUlzRFlOUlF1OTlfMnByT3lkWXU2WlRjYWpydXpHbTFfcU1uVEpKRU95NzYwMFp5X1JMYmt0eEh2STNFdG4zYU9rejQ3RHQtcGpvVnM?oc=5\" target=\"_blank\"&gt;If Every Firm Uses the Same LLM, Where Is Your Edge?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;JD Supra&lt;/font&gt;",
+      "published": "2026-07-17T15:45:32.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 9
     },
     {
       "title": "Harvey Forum + Shared Spaces, Clio, Spellbook, Legal Innovators - Artificial Lawyer",
@@ -136,6 +136,18 @@
       "source_priority": "critical",
       "source_tier": "B",
       "source_category": "Legal tech commentary",
+      "relevance_score": 9
+    },
+    {
+      "title": "Optimization Is Not All You Need",
+      "url": "https://arxiv.org/abs/2607.11977",
+      "summary": "arXiv:2607.11977v2 Announce Type: replace Abstract: In 2019, OpenAI released two million GPT-2 outputs-ungrammatical, half broken-to aid the detection of machine-generated text. The alignment that produced their more fluent successors is usually regarded as an engineering achievement; we read it instead as the newest expression of optimization culture: the conviction, older than the technology, that measurable improvement along predefined axes exhausts the question of value. Tracing that convict",
+      "published": "2026-07-17T04:00:00.000Z",
+      "source_id": "arxiv-cs-ai",
+      "source_name": "arXiv cs.AI (keyword-filtered)",
+      "source_priority": "low",
+      "source_tier": "B",
+      "source_category": "Research",
       "relevance_score": 9
     },
     {
@@ -271,30 +283,6 @@
       "relevance_score": 8
     },
     {
-      "title": "AI in Cyberpsychology: A systematic literature review of Cybersecurity enhancement by using AI for analyzing psychology of Victims, Attackers, and Defenders",
-      "url": "https://arxiv.org/abs/2607.13123",
-      "summary": "arXiv:2607.13123v1 Announce Type: cross Abstract: Cybersecurity is the practice of protecting systems, networks, and data from digital attacks. Cyberpsychology (CPSY) is defined as the use of psychology to enhance cybersecurity applications. Since the early 2010s, the evolution of Artificial Intelligence (AI) has increasingly integrated with CPSY, leveraging advanced data analysis to decode the distinct personality traits and behavioral patterns of victims, attackers, and defenders. In this syst",
-      "published": "2026-07-17T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI (keyword-filtered)",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "Research",
-      "relevance_score": 8
-    },
-    {
-      "title": "From models to solutions: What Anthropic’s Ode launch signals for legal - Legal IT Insider",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeE1TZXBmeHRQOEV0X1hMd0dZajBfTVdIekNFbHlEcndxandBQ20wb0d2ZDluc3IydHZZOVktWUtKVGRXakkxYXFMVEZUVUgtUFJ2Nnp6TFlva25ISnIwSzhkYS1uV1h6X2YtLS0wdGJ0cXJHVGRXLTBlWFNlTF85Z2haZERXY1FzLVZTRVVwVm1RYUVMTUt1ODE4Z1hyX2M?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPeE1TZXBmeHRQOEV0X1hMd0dZajBfTVdIekNFbHlEcndxandBQ20wb0d2ZDluc3IydHZZOVktWUtKVGRXakkxYXFMVEZUVUgtUFJ2Nnp6TFlva25ISnIwSzhkYS1uV1h6X2YtLS0wdGJ0cXJHVGRXLTBlWFNlTF85Z2haZERXY1FzLVZTRVVwVm1RYUVMTUt1ODE4Z1hyX2M?oc=5\" target=\"_blank\"&gt;From models to solutions: What Anthropic’s Ode launch signals for legal&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Legal IT Insider&lt;/font&gt;",
-      "published": "2026-07-17T08:17:08.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 7
-    },
-    {
       "title": "TLT breaks £200m revenue barrier and bolsters Belfast - Irish Legal News",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTGFmZlhjRXdhcWZ3RVFFaDBKTHRQRVlscVY5YWljUVg5Nk5qTTYyOEZ4U0JIOWdVRVhKN25iVllBRkpRbE1jd2tMYzBZUnBSdFZLN3JpVGU5UlJ1dzQ2Z0FvZVhtU3RkX193X2ZDeHhBU2REamtMQzQzOVJvUE9RRkdaQTRpMDdmX0piV25PTFpQWFJm?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPTGFmZlhjRXdhcWZ3RVFFaDBKTHRQRVlscVY5YWljUVg5Nk5qTTYyOEZ4U0JIOWdVRVhKN25iVllBRkpRbE1jd2tMYzBZUnBSdFZLN3JpVGU5UlJ1dzQ2Z0FvZVhtU3RkX193X2ZDeHhBU2REamtMQzQzOVJvUE9RRkdaQTRpMDdmX0piV25PTFpQWFJm?oc=5\" target=\"_blank\"&gt;TLT breaks £200m revenue barrier and bolsters Belfast&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Irish Legal News&lt;/font&gt;",
@@ -415,6 +403,18 @@
       "relevance_score": 7
     },
     {
+      "title": "&#8216;I know how to do deals, but I wanted to make a mark&#8217; &#8211; Freshfields&#8217; Victoria Sigeti takes the reins",
+      "url": "https://www.legalbusiness.co.uk/law-firms/i-know-how-to-do-deals-but-i-wanted-a-role-where-i-could-make-a-mark-freshfields-victoria-sigeti-takes-the-reins/",
+      "summary": "The timing for Victoria Sigeti to step into her new role as managing partner at Freshfields London office was hardly ideal, with the PE deal busy co-leading the firm&#8217;s team advising EQT on its acquisition of Intertek. However, Sigeti tells LB the situation offered clarity: ‘The timing has forced me to focus on the important &#8230; Continue reading \"&#8216;I know how to do deals, but I wanted to make a mark&#8217; &#8211; Freshfields&#8217; Victoria Sigeti takes the reins\"",
+      "published": "2026-07-17T14:05:48.000Z",
+      "source_id": "legal-business",
+      "source_name": "Legal Business",
+      "source_priority": "medium",
+      "source_tier": "B",
+      "source_category": "Legal profession",
+      "relevance_score": 7
+    },
+    {
       "title": "DLA Piper PEP passes $4m with 20% jump",
       "url": "https://www.legalbusiness.co.uk/law-firms/dla-piper-pep-passes-4m-with-20-jump/",
       "summary": "DLA Piper has posted its 2025 financial results, passing $4m in profit per equity partner (PEP). The firm increased its PEP by 19.6%, to $4.14m from $3.46m last year. Revenue also increased, up 8.4% to $4.6bn. The result marks the ninth consecutive year of topline growth, and follows an 11% increase the year prior, which &#8230; Continue reading \"DLA Piper PEP passes $4m with 20% jump\"",
@@ -424,6 +424,18 @@
       "source_priority": "medium",
       "source_tier": "B",
       "source_category": "Legal profession",
+      "relevance_score": 7
+    },
+    {
+      "title": "Lessons learned from the ACAMS/Thomson Reuters Human Trafficking Initiative at the World Cup",
+      "url": "https://www.thomsonreuters.com/en-us/posts/human-rights-crimes/acams-thomson-reuters-human-trafficking-initiative-world-cup/",
+      "summary": "Financial institutions can strengthen their fight against human trafficking by leveraging data, AI, and intelligence-sharing partnerships.",
+      "published": "2026-07-17T14:21:10.000Z",
+      "source_id": "thomson-reuters-institute",
+      "source_name": "Thomson Reuters Institute",
+      "source_priority": "medium",
+      "source_tier": "B",
+      "source_category": "Research",
       "relevance_score": 7
     },
     {
@@ -451,9 +463,9 @@
       "relevance_score": 7
     },
     {
-      "title": "Interventional Grounding Audits: Black-Box Premise-Dependency Tests for LLM Chain-of-Thought via Predicate Substitution",
-      "url": "https://arxiv.org/abs/2607.13069",
-      "summary": "arXiv:2607.13069v1 Announce Type: new Abstract: Large language models produce chain-of-thought (CoT) reasoning that appears logically sound yet may not genuinely depend on its stated premises. We introduce interventional grounding audits, a black-box, step-level test of premise dependency: we intervene on a single premise by substituting its target predicate with a fresh symbol, re-run the model, and check whether each reasoning step's normalized conclusion (canonical predicate form) changes. We",
+      "title": "AI in Cyberpsychology: A systematic literature review of Cybersecurity enhancement by using AI for analyzing psychology of Victims, Attackers, and Defenders",
+      "url": "https://arxiv.org/abs/2607.13123",
+      "summary": "arXiv:2607.13123v1 Announce Type: cross Abstract: Cybersecurity is the practice of protecting systems, networks, and data from digital attacks. Cyberpsychology (CPSY) is defined as the use of psychology to enhance cybersecurity applications. Since the early 2010s, the evolution of Artificial Intelligence (AI) has increasingly integrated with CPSY, leveraging advanced data analysis to decode the distinct personality traits and behavioral patterns of victims, attackers, and defenders. In this syst",
       "published": "2026-07-17T04:00:00.000Z",
       "source_id": "arxiv-cs-ai",
       "source_name": "arXiv cs.AI (keyword-filtered)",
@@ -463,28 +475,16 @@
       "relevance_score": 7
     },
     {
-      "title": "SAFETY SENTRY: Context-Aware Human Intervention via EXECUTE-ASK-REFUSE Routing",
-      "url": "https://arxiv.org/abs/2607.13594",
-      "summary": "arXiv:2607.13594v1 Announce Type: new Abstract: LLM agents act on real-world environments through tool calls, and a single misjudged action can cause irreversible harm. The standard safeguard is a guard model that labels each proposed action as safe or unsafe, but this binary view conflates two distinct decisions: whether the action is harmful in itself, and whether it is appropriate given the user's context. It also operates at the granularity of action categories rather than individual instanc",
-      "published": "2026-07-17T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI (keyword-filtered)",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "Research",
-      "relevance_score": 7
-    },
-    {
-      "title": "STOCKTAKE: Measuring the Gap Between Perception and Action in LLM Agents with a Fair Oracle",
-      "url": "https://arxiv.org/abs/2607.13618",
-      "summary": "arXiv:2607.13618v1 Announce Type: new Abstract: LLM agents are increasingly evaluated on multi-week decision tasks in which the state that drives cost is never directly observed. On such tasks the final cost cannot say why an agent failed: it may have misread the world, or read it correctly and still failed to act (the knowing-doing gap). Existing evaluations cannot separate these two failures; their reference policies either read privileged information the agent never sees, or are missing altog",
-      "published": "2026-07-17T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI (keyword-filtered)",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "Research",
-      "relevance_score": 7
+      "title": "The Practical Guide to AI-Powered Due Diligence for M&amp;A Professionals - Harvey",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YUjFPU3d4QWRFOWQyb0twMDItZUdSakJzckgxMllQVUxLOWtVX1BpbE50QkQ2MzFKeXYxMk9yVW1SSFJreW9IVlBOWFdQWE4zYkg3YVZwWEJhaEJ5amxPN3hNSmN6dw?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YUjFPU3d4QWRFOWQyb0twMDItZUdSakJzckgxMllQVUxLOWtVX1BpbE50QkQ2MzFKeXYxMk9yVW1SSFJreW9IVlBOWFdQWE4zYkg3YVZwWEJhaEJ5amxPN3hNSmN6dw?oc=5\" target=\"_blank\"&gt;The Practical Guide to AI-Powered Due Diligence for M&amp;A Professionals&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
+      "published": "2026-04-29T07:00:00.000Z",
+      "source_id": "google-news-harvey-luminance",
+      "source_name": "Google News: Harvey OR Luminance",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
     }
   ]
 }
