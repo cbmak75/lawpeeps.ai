@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-17T19:21:08.990Z",
+  "generated": "2026-07-17T22:00:06.906Z",
   "cycle_type": "monitoring",
   "item_count": 40,
   "total_scanned": 1246,
@@ -89,18 +89,6 @@
       "source_tier": "B",
       "source_category": "Legal tech commentary",
       "relevance_score": 10
-    },
-    {
-      "title": "If Every Firm Uses the Same LLM, Where Is Your Edge? - JD Supra",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOY0V2UkhOeE80WWFkMWJvWGxSV3Q4X0N0NW5sZ2ExSzVYb3Z1OWE4N3RlNnN5YkZ1Wmo2aUlzRFlOUlF1OTlfMnByT3lkWXU2WlRjYWpydXpHbTFfcU1uVEpKRU95NzYwMFp5X1JMYmt0eEh2STNFdG4zYU9rejQ3RHQtcGpvVnM?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOY0V2UkhOeE80WWFkMWJvWGxSV3Q4X0N0NW5sZ2ExSzVYb3Z1OWE4N3RlNnN5YkZ1Wmo2aUlzRFlOUlF1OTlfMnByT3lkWXU2WlRjYWpydXpHbTFfcU1uVEpKRU95NzYwMFp5X1JMYmt0eEh2STNFdG4zYU9rejQ3RHQtcGpvVnM?oc=5\" target=\"_blank\"&gt;If Every Firm Uses the Same LLM, Where Is Your Edge?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;JD Supra&lt;/font&gt;",
-      "published": "2026-07-17T15:45:32.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 9
     },
     {
       "title": "Harvey Forum + Shared Spaces, Clio, Spellbook, Legal Innovators - Artificial Lawyer",
@@ -211,18 +199,6 @@
       "relevance_score": 8
     },
     {
-      "title": "Harvey AI's 12x token surge reveals that legal AI has crossed from experiment to infrastructure - Startup Fortune",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd2E2WDlBRmduLTdnWkZfLV90MkJWaEZwZVZQeFl1OTN6NjBmTTZ5aTdTOUx2VFRmcHRYMjUtV2E4ZzFld0N5QTZJNU1zRDFfQ1NCSGhRMFdTLU5Uclc4ck1kcDQxX0dlM3NBaXI0V1FqSk45NTcyRUU5NHRfb3F5bFRXOEhLVmgwUmJzWkQ3WUdPYUtiSnpXcEd3QU5iWXpHR0MxYVdXejRiMlN6ZUJ5SGk5Ql9obXNSTUhVUnpubw?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOd2E2WDlBRmduLTdnWkZfLV90MkJWaEZwZVZQeFl1OTN6NjBmTTZ5aTdTOUx2VFRmcHRYMjUtV2E4ZzFld0N5QTZJNU1zRDFfQ1NCSGhRMFdTLU5Uclc4ck1kcDQxX0dlM3NBaXI0V1FqSk45NTcyRUU5NHRfb3F5bFRXOEhLVmgwUmJzWkQ3WUdPYUtiSnpXcEd3QU5iWXpHR0MxYVdXejRiMlN6ZUJ5SGk5Ql9obXNSTUhVUnpubw?oc=5\" target=\"_blank\"&gt;Harvey AI's 12x token surge reveals that legal AI has crossed from experiment to infrastructure&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Startup Fo",
-      "published": "2026-06-19T07:00:00.000Z",
-      "source_id": "google-news-harvey-luminance",
-      "source_name": "Google News: Harvey OR Luminance",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 8
-    },
-    {
       "title": "GPT-5 Launches: Harvey, Spellbook, Legora + TR Already Have It - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPakxDaENfTFFVRjVLRjZQSWplRnJwcUFCQWRtNkUyaUh4T1RvT1Rkc0R3NVZxb095ODN4eGIyREhjTUJTTDFvcmN0cV81OE5Md2k0WS1IVGRJWGdaT1BFaFJDUjdRSkU1ZXZqQTFFUXBQVmFpSndTNFVsb3BEMjN1MnJueW11QmZSWWpzZWhJVndMVk1qSlY1bzhlQQ?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPakxDaENfTFFVRjVLRjZQSWplRnJwcUFCQWRtNkUyaUh4T1RvT1Rkc0R3NVZxb095ODN4eGIyREhjTUJTTDFvcmN0cV81OE5Md2k0WS1IVGRJWGdaT1BFaFJDUjdRSkU1ZXZqQTFFUXBQVmFpSndTNFVsb3BEMjN1MnJueW11QmZSWWpzZWhJVndMVk1qSlY1bzhlQQ?oc=5\" target=\"_blank\"&gt;GPT-5 Launches: Harvey, Spellbook, Legora + TR Already Have It&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
@@ -269,6 +245,18 @@
       "source_tier": "B",
       "source_category": "Legal tech commentary",
       "relevance_score": 8
+    },
+    {
+      "title": "If Every Firm Uses the Same LLM, Where Is Your Edge? - JD Supra",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOY0V2UkhOeE80WWFkMWJvWGxSV3Q4X0N0NW5sZ2ExSzVYb3Z1OWE4N3RlNnN5YkZ1Wmo2aUlzRFlOUlF1OTlfMnByT3lkWXU2WlRjYWpydXpHbTFfcU1uVEpKRU95NzYwMFp5X1JMYmt0eEh2STNFdG4zYU9rejQ3RHQtcGpvVnM?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOY0V2UkhOeE80WWFkMWJvWGxSV3Q4X0N0NW5sZ2ExSzVYb3Z1OWE4N3RlNnN5YkZ1Wmo2aUlzRFlOUlF1OTlfMnByT3lkWXU2WlRjYWpydXpHbTFfcU1uVEpKRU95NzYwMFp5X1JMYmt0eEh2STNFdG4zYU9rejQ3RHQtcGpvVnM?oc=5\" target=\"_blank\"&gt;If Every Firm Uses the Same LLM, Where Is Your Edge?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;JD Supra&lt;/font&gt;",
+      "published": "2026-07-17T15:45:32.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 7
     },
     {
       "title": "The Legal AI Scaffold Changes Everything – Claude Study - Artificial Lawyer",
@@ -352,30 +340,6 @@
       "source_priority": "high",
       "source_tier": "B",
       "source_category": "Legal profession",
-      "relevance_score": 7
-    },
-    {
-      "title": "&#8216;I know how to do deals, but I wanted to make a mark&#8217; &#8211; Freshfields&#8217; Victoria Sigeti takes the reins",
-      "url": "https://www.legalbusiness.co.uk/law-firms/i-know-how-to-do-deals-but-i-wanted-a-role-where-i-could-make-a-mark-freshfields-victoria-sigeti-takes-the-reins/",
-      "summary": "The timing for Victoria Sigeti to step into her new role as managing partner at Freshfields London office was hardly ideal, with the PE deal busy co-leading the firm&#8217;s team advising EQT on its acquisition of Intertek. However, Sigeti tells LB the situation offered clarity: ‘The timing has forced me to focus on the important &#8230; Continue reading \"&#8216;I know how to do deals, but I wanted to make a mark&#8217; &#8211; Freshfields&#8217; Victoria Sigeti takes the reins\"",
-      "published": "2026-07-17T14:05:48.000Z",
-      "source_id": "legal-business",
-      "source_name": "Legal Business",
-      "source_priority": "medium",
-      "source_tier": "B",
-      "source_category": "Legal profession",
-      "relevance_score": 7
-    },
-    {
-      "title": "Lessons learned from the ACAMS/Thomson Reuters Human Trafficking Initiative at the World Cup",
-      "url": "https://www.thomsonreuters.com/en-us/posts/human-rights-crimes/acams-thomson-reuters-human-trafficking-initiative-world-cup/",
-      "summary": "Financial institutions can strengthen their fight against human trafficking by leveraging data, AI, and intelligence-sharing partnerships.",
-      "published": "2026-07-17T14:21:10.000Z",
-      "source_id": "thomson-reuters-institute",
-      "source_name": "Thomson Reuters Institute",
-      "source_priority": "medium",
-      "source_tier": "B",
-      "source_category": "Research",
       "relevance_score": 7
     },
     {
@@ -482,6 +446,42 @@
       "source_id": "google-news-harvey-luminance",
       "source_name": "Google News: Harvey OR Luminance",
       "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
+    },
+    {
+      "title": "Preview: Access :Harvey:, Wherever You’re Working - Harvey",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0djUyLXFEbzcwVDBaN3k4T0FOX0pBTzRyLXBka01pN2VhYlFqTEdaVkxsYUM1aUVsb0FMUm9pVElZUUNVdXE3SU1vd3Z5RlVURFhmR0RMVFlJQmtZMW5Oa0VB?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0djUyLXFEbzcwVDBaN3k4T0FOX0pBTzRyLXBka01pN2VhYlFqTEdaVkxsYUM1aUVsb0FMUm9pVElZUUNVdXE3SU1vd3Z5RlVURFhmR0RMVFlJQmtZMW5Oa0VB?oc=5\" target=\"_blank\"&gt;Preview: Access :Harvey:, Wherever You’re Working&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
+      "published": "2025-09-10T07:00:00.000Z",
+      "source_id": "google-news-harvey-luminance",
+      "source_name": "Google News: Harvey OR Luminance",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
+    },
+    {
+      "title": "Spellbook Raises $50m + CEO, Scott Stevenson Interview - Artificial Lawyer",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNVRaTmNLME8ydnc5d1FmeWhSUjdhTDg2dmdqR28wQ2lwSzBJbTYtTU5XekVsTWdaLVE3N2hJQlU2bEVRWlNhVG1GRTlab0c4Zko3UmtZamxkRGw2WTNlRkU1X05LZEE3OEpkbEtkdldrNFRJVnlPcFZlVDRVbElnbExXVk9zenVfOFh3QWNORTdIQVQxQnBuUW84NA?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPNVRaTmNLME8ydnc5d1FmeWhSUjdhTDg2dmdqR28wQ2lwSzBJbTYtTU5XekVsTWdaLVE3N2hJQlU2bEVRWlNhVG1GRTlab0c4Zko3UmtZamxkRGw2WTNlRkU1X05LZEE3OEpkbEtkdldrNFRJVnlPcFZlVDRVbElnbExXVk9zenVfOFh3QWNORTdIQVQxQnBuUW84NA?oc=5\" target=\"_blank\"&gt;Spellbook Raises $50m + CEO, Scott Stevenson Interview&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
+      "published": "2025-10-09T07:00:00.000Z",
+      "source_id": "google-news-contract-ai",
+      "source_name": "Google News: contract AI",
+      "source_priority": "medium",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
+    },
+    {
+      "title": "Developers of the Heroes of Might &amp; Magic V remake on UE5 engine showed progress - unit models, spellbook, and more - ixbt.games",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZVdBNUZSR0hwc1JIRUlkcXNPM3NaLW92bTlEQjN4a3pkQkhRel9CUnozeGgtb1JSNDk0Z3JLRU9oN2RBMWpuc2VVTmN1ZHZlUkF4ZnhON2toLUF6WVBpQTJ3OWxRajFNUTJXUHJuLWs0ZVoxQmlXM1FkT2MtM1NsLXlERnduMjFGdUg4RTR3RUptS1hVZjBhX09weHkxN0dKUzNra2RMM18wanU2NTNEbmxCTko2Z1RiUkFuUDJxTENpRk1PTnIyMGwxWGhHdHRyX2s5Y0NUYVNfUXkzNk9tZVRKQ3pDZG1wVUFnNXdBeEhBMG9r0gH6AUFVX3lxTE1SRGN0Z2JmT0ZwM1F0WmZKUlhTd3BJaHhLOGVhZ2JMMF84ekNtU1hUZWROclFCQnM4OURuZE45N3BmVlQtVEZqQVZKUlFWb0toWDVTUi14amV5MGlYVkJjX2c3eUY4UjYyVmZYRGdCb3RBNE0tdE53Y2pha0xvb0RPTkxtRUppWFBPUXV2T2FUNllTTllVTjI1ZmxJWXVpLXNRNDZwVXcxTi1KTmVBMlVRblhHSDRNSEFpZG54X0c2NmIxUUczajQtYndnaHZJMG9MaV9RZDRmdW0zOVBIdzU5eUt4eHc1M3hDVDhmSjN5NDQ4S2hBRVByclE?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZVdBNUZSR0hwc1JIRUlkcXNPM3NaLW92bTlEQjN4a3pkQkhRel9CUnozeGgtb1JSNDk0Z3JLRU9oN2RBMWpuc2VVTmN1ZHZlUkF4ZnhON2toLUF6WVBpQTJ3OWxRajFNUTJXUHJuLWs0ZVoxQmlXM1FkT2MtM1NsLXlERnduMjFGdUg4RTR3RUptS1hVZjBhX09weHkxN0dKUzNra2RMM18wanU2NTNEbmxCTko2Z1RiUkFuUDJxTENpRk1PTnIyMGwxWGhHdHRyX2s5Y0NUYVNfUXkzNk9tZVRKQ3pDZG1wVUFnNXdBeEhBMG9r0gH6AUFVX3lxTE1SRGN0Z2JmT0ZwM1F0WmZKUlhTd3BJaHhLOGVhZ2JMMF84ekNtU1hUZWROclFCQnM4OURuZE45N3BmVlQtVEZqQVZKUlFWb0toWDVTUi1",
+      "published": "2026-07-14T10:34:30.000Z",
+      "source_id": "google-news-contract-ai",
+      "source_name": "Google News: contract AI",
+      "source_priority": "medium",
       "source_tier": "A",
       "source_category": "Aggregator",
       "relevance_score": 6
