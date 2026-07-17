@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-17T08:21:40.377Z",
+  "generated": "2026-07-17T10:53:47.781Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 1272,
+  "total_scanned": 1268,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -40,18 +40,6 @@
       "source_priority": "medium",
       "source_tier": "B",
       "source_category": "Legal operations",
-      "relevance_score": 12
-    },
-    {
-      "title": "Optimization Is Not All You Need",
-      "url": "https://arxiv.org/abs/2607.11977",
-      "summary": "arXiv:2607.11977v2 Announce Type: replace Abstract: In 2019, OpenAI released two million GPT-2 outputs-ungrammatical, half broken-to aid the detection of machine-generated text. The alignment that produced their more fluent successors is usually regarded as an engineering achievement; we read it instead as the newest expression of optimization culture: the conviction, older than the technology, that measurable improvement along predefined axes exhausts the question of value. Tracing that convict",
-      "published": "2026-07-17T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI (keyword-filtered)",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "Research",
       "relevance_score": 12
     },
     {
@@ -103,9 +91,9 @@
       "relevance_score": 10
     },
     {
-      "title": "AI in Cyberpsychology: A systematic literature review of Cybersecurity enhancement by using AI for analyzing psychology of Victims, Attackers, and Defenders",
-      "url": "https://arxiv.org/abs/2607.13123",
-      "summary": "arXiv:2607.13123v1 Announce Type: cross Abstract: Cybersecurity is the practice of protecting systems, networks, and data from digital attacks. Cyberpsychology (CPSY) is defined as the use of psychology to enhance cybersecurity applications. Since the early 2010s, the evolution of Artificial Intelligence (AI) has increasingly integrated with CPSY, leveraging advanced data analysis to decode the distinct personality traits and behavioral patterns of victims, attackers, and defenders. In this syst",
+      "title": "Optimization Is Not All You Need",
+      "url": "https://arxiv.org/abs/2607.11977",
+      "summary": "arXiv:2607.11977v2 Announce Type: replace Abstract: In 2019, OpenAI released two million GPT-2 outputs-ungrammatical, half broken-to aid the detection of machine-generated text. The alignment that produced their more fluent successors is usually regarded as an engineering achievement; we read it instead as the newest expression of optimization culture: the conviction, older than the technology, that measurable improvement along predefined axes exhausts the question of value. Tracing that convict",
       "published": "2026-07-17T04:00:00.000Z",
       "source_id": "arxiv-cs-ai",
       "source_name": "arXiv cs.AI (keyword-filtered)",
@@ -165,7 +153,7 @@
     {
       "title": "Netflix says around 300 titles used generative AI",
       "url": "https://www.theverge.com/streaming/966633/netflix-ai-titles-q2-2026-earnings",
-      "summary": "Article URL: https://www.theverge.com/streaming/966633/netflix-ai-titles-q2-2026-earnings Comments URL: https://news.ycombinator.com/item?id=48944252 Points: 2 # Comments: 0",
+      "summary": "Article URL: https://www.theverge.com/streaming/966633/netflix-ai-titles-q2-2026-earnings Comments URL: https://news.ycombinator.com/item?id=48944252 Points: 4 # Comments: 1",
       "published": "2026-07-17T07:15:51.000Z",
       "source_id": "hacker-news",
       "source_name": "Hacker News (filtered)",
@@ -175,16 +163,244 @@
       "relevance_score": 9
     },
     {
-      "title": "Ask HN: Workflow Automation vs AI Agents?",
-      "url": "https://news.ycombinator.com/item?id=48943616",
-      "summary": "A while ago, workflow automation tools (Zapier, Make, n8n) were booming. Now AI agents start eating into that space, OpenAI's Workspace Agents, Lindy, Claude's agentic features, etc. i understand both have tradeoffs, but i'm trying to understand real-world usage: 1. why workflow automarion over AI Agents? What does it still do better? 2. if you've using AI agents, what made you switch? What do you trust them with? 3. why not use either of them? feel free to give your opinion, im curious Comments",
-      "published": "2026-07-17T05:28:15.000Z",
+      "title": "Top Legal AI Startups Funded in 2026 (Harvey, Legora, Ironclad) - AI Funding Tracker",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10MGJkNVo1c0RqNmhuZWpialozbzBsejY0eWFVUkxsdHM0SG44M1BYM3VtZm92MVlmWGdIaGl0bF9VZkpacEs3R01yT3hBajlpMmxNUmlxV25NWWY3UW1ReA?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE10MGJkNVo1c0RqNmhuZWpialozbzBsejY0eWFVUkxsdHM0SG44M1BYM3VtZm92MVlmWGdIaGl0bF9VZkpacEs3R01yT3hBajlpMmxNUmlxV25NWWY3UW1ReA?oc=5\" target=\"_blank\"&gt;Top Legal AI Startups Funded in 2026 (Harvey, Legora, Ironclad)&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;AI Funding Tracker&lt;/font&gt;",
+      "published": "2026-05-21T07:00:00.000Z",
+      "source_id": "google-news-legal-tech-funding",
+      "source_name": "Google News: legal tech funding",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 8
+    },
+    {
+      "title": "Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook partners with CBA; DeepIP raises $25m - Legal IT Insider",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcXJGTU9ucEc1azNNOTZ3eWI1dldHblpjS0lIdG9jTy1YSE1SSEdlWXlqa041bzd4R052ckZLZG1TQnh6eUE1bFhEV0FyYlFndF84Z1hTczZXZ0IzOVRoMF9jWHhkMXp2X2tjenNUMktCZWM1eVlvM0tjZEpvX2ZoeUpaTUN5UTZUaDJEWWdvVDFJZWpGYTZiQV8ycEc1dEJRMTJCWktEV3IwX3FoX1F6cFk5dkJ1VUtHaURCWmlBTUpTcFRJQVk3cmYxODlsMEpjQnRMdHkwLWNoR1lzT01jRmJlSjJwdw?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcXJGTU9ucEc1azNNOTZ3eWI1dldHblpjS0lIdG9jTy1YSE1SSEdlWXlqa041bzd4R052ckZLZG1TQnh6eUE1bFhEV0FyYlFndF84Z1hTczZXZ0IzOVRoMF9jWHhkMXp2X2tjenNUMktCZWM1eVlvM0tjZEpvX2ZoeUpaTUN5UTZUaDJEWWdvVDFJZWpGYTZiQV8ycEc1dEJRMTJCWktEV3IwX3FoX1F6cFk5dkJ1VUtHaURCWmlBTUpTcFRJQVk3cmYxODlsMEpjQnRMdHkwLWNoR1lzT01jRmJlSjJwdw?oc=5\" target=\"_blank\"&gt;Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook partners with CBA; De",
+      "published": "2026-03-04T08:00:00.000Z",
+      "source_id": "google-news-legal-tech-funding",
+      "source_name": "Google News: legal tech funding",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 8
+    },
+    {
+      "title": "Why legal tech giant Harvey is raising cash like OpenAI - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaDhOaTN1RzVmZmxWa1U2TTZyTW9ucXRjZjU2RHUzT0RoMTJQb1BvZ1hpbUgwTUFZS3U5UHV1R21abHdrRDR3cFlWTC1SY3J2WUN1YWlwSlY0Y0VpVjVYSXV2dk93YjhuU0NXYTE5QnBiVHF5bHVLRHdWbzMxdVB3MU0zMFh1TzF0U1JmOA?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQaDhOaTN1RzVmZmxWa1U2TTZyTW9ucXRjZjU2RHUzT0RoMTJQb1BvZ1hpbUgwTUFZS3U5UHV1R21abHdrRDR3cFlWTC1SY3J2WUN1YWlwSlY0Y0VpVjVYSXV2dk93YjhuU0NXYTE5QnBiVHF5bHVLRHdWbzMxdVB3MU0zMFh1TzF0U1JmOA?oc=5\" target=\"_blank\"&gt;Why legal tech giant Harvey is raising cash like OpenAI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Business Insider&lt;/font&gt;",
+      "published": "2026-03-26T07:00:00.000Z",
+      "source_id": "google-news-legal-tech-funding",
+      "source_name": "Google News: legal tech funding",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 8
+    },
+    {
+      "title": "Anthropic Fable 5 Now Available - Harvey",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aSTM0YkZnWnpsXzJjTUN0NUhhREVOSzA5RDdmbGFONDhqcU9Nb2llMVRDbVp6MEpBejZ3TDl5dGx4TEFWRm9mRHZaZ0VOZWdYX0ZkRlR0LXFFb1M2RlNaV3RmU2lBSWg1S1E?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9aSTM0YkZnWnpsXzJjTUN0NUhhREVOSzA5RDdmbGFONDhqcU9Nb2llMVRDbVp6MEpBejZ3TDl5dGx4TEFWRm9mRHZaZ0VOZWdYX0ZkRlR0LXFFb1M2RlNaV3RmU2lBSWg1S1E?oc=5\" target=\"_blank\"&gt;Anthropic Fable 5 Now Available&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
+      "published": "2026-06-09T07:00:00.000Z",
+      "source_id": "google-news-harvey-luminance",
+      "source_name": "Google News: Harvey OR Luminance",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 8
+    },
+    {
+      "title": ":Harvey: Academy: Shaping the Future of Legal AI Literacy - Harvey",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1heGRrSE96TWduUXpSV1VncFJMSEhVVjczY0pLZFNHNkpqRnhzWGp5YmNWUVRDRjN4aU8ydkpDdU14Z3dBbHdZd09janQ1YmRSVDBvbGx0SS1vbzZkNTBZVFNQdw?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1heGRrSE96TWduUXpSV1VncFJMSEhVVjczY0pLZFNHNkpqRnhzWGp5YmNWUVRDRjN4aU8ydkpDdU14Z3dBbHdZd09janQ1YmRSVDBvbGx0SS1vbzZkNTBZVFNQdw?oc=5\" target=\"_blank\"&gt;:Harvey: Academy: Shaping the Future of Legal AI Literacy&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
+      "published": "2026-01-27T08:00:00.000Z",
+      "source_id": "google-news-harvey-luminance",
+      "source_name": "Google News: Harvey OR Luminance",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 8
+    },
+    {
+      "title": "Harvey AI's 12x token surge reveals that legal AI has crossed from experiment to infrastructure - Startup Fortune",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd2E2WDlBRmduLTdnWkZfLV90MkJWaEZwZVZQeFl1OTN6NjBmTTZ5aTdTOUx2VFRmcHRYMjUtV2E4ZzFld0N5QTZJNU1zRDFfQ1NCSGhRMFdTLU5Uclc4ck1kcDQxX0dlM3NBaXI0V1FqSk45NTcyRUU5NHRfb3F5bFRXOEhLVmgwUmJzWkQ3WUdPYUtiSnpXcEd3QU5iWXpHR0MxYVdXejRiMlN6ZUJ5SGk5Ql9obXNSTUhVUnpubw?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOd2E2WDlBRmduLTdnWkZfLV90MkJWaEZwZVZQeFl1OTN6NjBmTTZ5aTdTOUx2VFRmcHRYMjUtV2E4ZzFld0N5QTZJNU1zRDFfQ1NCSGhRMFdTLU5Uclc4ck1kcDQxX0dlM3NBaXI0V1FqSk45NTcyRUU5NHRfb3F5bFRXOEhLVmgwUmJzWkQ3WUdPYUtiSnpXcEd3QU5iWXpHR0MxYVdXejRiMlN6ZUJ5SGk5Ql9obXNSTUhVUnpubw?oc=5\" target=\"_blank\"&gt;Harvey AI's 12x token surge reveals that legal AI has crossed from experiment to infrastructure&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Startup Fo",
+      "published": "2026-06-19T07:00:00.000Z",
+      "source_id": "google-news-harvey-luminance",
+      "source_name": "Google News: Harvey OR Luminance",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 8
+    },
+    {
+      "title": "GPT-5 Launches: Harvey, Spellbook, Legora + TR Already Have It - Artificial Lawyer",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPakxDaENfTFFVRjVLRjZQSWplRnJwcUFCQWRtNkUyaUh4T1RvT1Rkc0R3NVZxb095ODN4eGIyREhjTUJTTDFvcmN0cV81OE5Md2k0WS1IVGRJWGdaT1BFaFJDUjdRSkU1ZXZqQTFFUXBQVmFpSndTNFVsb3BEMjN1MnJueW11QmZSWWpzZWhJVndMVk1qSlY1bzhlQQ?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPakxDaENfTFFVRjVLRjZQSWplRnJwcUFCQWRtNkUyaUh4T1RvT1Rkc0R3NVZxb095ODN4eGIyREhjTUJTTDFvcmN0cV81OE5Md2k0WS1IVGRJWGdaT1BFaFJDUjdRSkU1ZXZqQTFFUXBQVmFpSndTNFVsb3BEMjN1MnJueW11QmZSWWpzZWhJVndMVk1qSlY1bzhlQQ?oc=5\" target=\"_blank\"&gt;GPT-5 Launches: Harvey, Spellbook, Legora + TR Already Have It&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
+      "published": "2025-08-07T07:00:00.000Z",
+      "source_id": "google-news-contract-ai",
+      "source_name": "Google News: contract AI",
+      "source_priority": "medium",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 8
+    },
+    {
+      "title": "Fastcase And Alexi Head To Court This Week In High-Stakes Fight Over Legal AI, Caselaw Data And Clio’s $1B vLex Deal",
+      "url": "https://www.lawnext.com/2026/07/fastcase-and-alexi-head-to-court-this-week-in-high-stakes-fight-over-legal-ai-caselaw-data-and-clios-1b-vlex-deal.html",
+      "summary": "A federal judge in Washington, D.C., will hear arguments this week in a case that could help define the rules of the road for legal AI companies that rely on licensed caselaw data. The case, Fastcase Inc. v. Alexi Technologies Inc., pending before Judge Richard J. Leon in the U.S. District Court for the District [&#8230;]",
+      "published": "2026-07-06T14:32:01.000Z",
+      "source_id": "lawsites",
+      "source_name": "LawSites (Bob Ambrogi)",
+      "source_priority": "critical",
+      "source_tier": "B",
+      "source_category": "Legal tech commentary",
+      "relevance_score": 8
+    },
+    {
+      "title": "Thomson Reuters Opens Early Access to the &#8216;Next Generation&#8217; of CoCounsel Legal, Saying Beta Users ‘F#@%ing Loved’ the Product",
+      "url": "https://www.lawnext.com/2026/06/thomson-reuters-opens-early-access-to-the-next-generation-of-cocounsel-legal-saying-beta-users-fing-loved-the-product.html",
+      "summary": "Thomson Reuters is opening early access this week to what it calls the next generation of CoCounsel Legal, the most substantial reworking of its flagship legal AI assistant since the company acquired the product as part of its 2023 purchase of Casetext — and, just as notably, a shift in how the company describes what [&#8230;]",
+      "published": "2026-06-22T16:04:39.000Z",
+      "source_id": "lawsites",
+      "source_name": "LawSites (Bob Ambrogi)",
+      "source_priority": "critical",
+      "source_tier": "B",
+      "source_category": "Legal tech commentary",
+      "relevance_score": 8
+    },
+    {
+      "title": "Context Is Everything: CEO Neil Araujo on iManage&#8217;s AI Strategy",
+      "url": "https://www.lawnext.com/2026/06/context-is-everything-ceo-neil-araujo-on-imanages-ai-strategy.html",
+      "summary": "Neil Araujo, the CEO and cofounder of iManage, was last on this podcast almost exactly two years ago. In the dog years of the legal industry’s AI age, that feels like a long time ago. Our conversation then was about law firms still feeling their way around generative AI. But now, as you will hear [&#8230;]",
+      "published": "2026-06-02T19:09:07.000Z",
+      "source_id": "lawsites",
+      "source_name": "LawSites (Bob Ambrogi)",
+      "source_priority": "critical",
+      "source_tier": "B",
+      "source_category": "Legal tech commentary",
+      "relevance_score": 8
+    },
+    {
+      "title": "AI in Cyberpsychology: A systematic literature review of Cybersecurity enhancement by using AI for analyzing psychology of Victims, Attackers, and Defenders",
+      "url": "https://arxiv.org/abs/2607.13123",
+      "summary": "arXiv:2607.13123v1 Announce Type: cross Abstract: Cybersecurity is the practice of protecting systems, networks, and data from digital attacks. Cyberpsychology (CPSY) is defined as the use of psychology to enhance cybersecurity applications. Since the early 2010s, the evolution of Artificial Intelligence (AI) has increasingly integrated with CPSY, leveraging advanced data analysis to decode the distinct personality traits and behavioral patterns of victims, attackers, and defenders. In this syst",
+      "published": "2026-07-17T04:00:00.000Z",
+      "source_id": "arxiv-cs-ai",
+      "source_name": "arXiv cs.AI (keyword-filtered)",
+      "source_priority": "low",
+      "source_tier": "B",
+      "source_category": "Research",
+      "relevance_score": 8
+    },
+    {
+      "title": "From models to solutions: What Anthropic’s Ode launch signals for legal - Legal IT Insider",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeE1TZXBmeHRQOEV0X1hMd0dZajBfTVdIekNFbHlEcndxandBQ20wb0d2ZDluc3IydHZZOVktWUtKVGRXakkxYXFMVEZUVUgtUFJ2Nnp6TFlva25ISnIwSzhkYS1uV1h6X2YtLS0wdGJ0cXJHVGRXLTBlWFNlTF85Z2haZERXY1FzLVZTRVVwVm1RYUVMTUt1ODE4Z1hyX2M?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPeE1TZXBmeHRQOEV0X1hMd0dZajBfTVdIekNFbHlEcndxandBQ20wb0d2ZDluc3IydHZZOVktWUtKVGRXakkxYXFMVEZUVUgtUFJ2Nnp6TFlva25ISnIwSzhkYS1uV1h6X2YtLS0wdGJ0cXJHVGRXLTBlWFNlTF85Z2haZERXY1FzLVZTRVVwVm1RYUVMTUt1ODE4Z1hyX2M?oc=5\" target=\"_blank\"&gt;From models to solutions: What Anthropic’s Ode launch signals for legal&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Legal IT Insider&lt;/font&gt;",
+      "published": "2026-07-17T08:17:08.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 7
+    },
+    {
+      "title": "The Legal AI Scaffold Changes Everything – Claude Study - Artificial Lawyer",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQU4tdGFPSGFaaGo0NGRvdnhxMUhYQ3pSd18td3lld2ZRd2xiQkVwWUQ0Z1lhR3IwdGstdE5STUVBTzdqdkxvbnhWUTVwZ0Y5MDNqT1hHV0RDUGVldzI5R2JrdEtaZ2NfYWNDVERjN1o5QWFqeGFTTEp6VDB1S19id3VoOUZUbzQ0eDdwNzJHNzdvYzRNWUh5cFV6UnhXOE0?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNQU4tdGFPSGFaaGo0NGRvdnhxMUhYQ3pSd18td3lld2ZRd2xiQkVwWUQ0Z1lhR3IwdGstdE5STUVBTzdqdkxvbnhWUTVwZ0Y5MDNqT1hHV0RDUGVldzI5R2JrdEtaZ2NfYWNDVERjN1o5QWFqeGFTTEp6VDB1S19id3VoOUZUbzQ0eDdwNzJHNzdvYzRNWUh5cFV6UnhXOE0?oc=5\" target=\"_blank\"&gt;The Legal AI Scaffold Changes Everything – Claude Study&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
+      "published": "2026-06-22T07:00:00.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 7
+    },
+    {
+      "title": "Legal AI giant Harvey acquires Hexus as competition heats up in legal tech - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWtsRnRNeWxYZWEwaERMRVJaRWVfQm41MzVDeDJBM1ZIOEstUW5DaTB5UUhjUXE5Sml2QU40RzdZaWlqeUpid3dELUpLTHlKbVNRNmRObWtrZ1dSSXd3R20wSDY3TkVUOHVwRzlZOTh1b1FraXZlNGpuUnBPcXdIU2oxbVZzMTZDVzVNMDRDcGR0NC1oQ2pfMGlUY25YSHBZaHJUTEljdzU5LWREa0E?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWtsRnRNeWxYZWEwaERMRVJaRWVfQm41MzVDeDJBM1ZIOEstUW5DaTB5UUhjUXE5Sml2QU40RzdZaWlqeUpid3dELUpLTHlKbVNRNmRObWtrZ1dSSXd3R20wSDY3TkVUOHVwRzlZOTh1b1FraXZlNGpuUnBPcXdIU2oxbVZzMTZDVzVNMDRDcGR0NC1oQ2pfMGlUY25YSHBZaHJUTEljdzU5LWREa0E?oc=5\" target=\"_blank\"&gt;Legal AI giant Harvey acquires Hexus as competition heats up in legal tech&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;TechCrunch&lt;/font&gt;",
+      "published": "2026-01-23T08:00:00.000Z",
+      "source_id": "google-news-legal-tech-funding",
+      "source_name": "Google News: legal tech funding",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 7
+    },
+    {
+      "title": "Juro Goes Direct to ChatGPT For Contract AI - Artificial Lawyer",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWTB4VVlWclpYMExWSFdxaWpHaXdNYXQ3UnQyWGJKemgtOGtoanNPVWZrVHRuVWdma00xUnhaTlF5TXl4SjQycDFLZjNwb0xMTHljWm9Lc3I4V0NvTnY2RXVFeGJfUHV3MzhTNnJPeGdEdmNqcUQza0ZpU3hmUFBHc3ZqUEF2dUNnVW8yN2NETHBMZw?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQWTB4VVlWclpYMExWSFdxaWpHaXdNYXQ3UnQyWGJKemgtOGtoanNPVWZrVHRuVWdma00xUnhaTlF5TXl4SjQycDFLZjNwb0xMTHljWm9Lc3I4V0NvTnY2RXVFeGJfUHV3MzhTNnJPeGdEdmNqcUQza0ZpU3hmUFBHc3ZqUEF2dUNnVW8yN2NETHBMZw?oc=5\" target=\"_blank\"&gt;Juro Goes Direct to ChatGPT For Contract AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
+      "published": "2025-10-21T07:00:00.000Z",
+      "source_id": "google-news-contract-ai",
+      "source_name": "Google News: contract AI",
+      "source_priority": "medium",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 7
+    },
+    {
+      "title": "Relativity Acquires Document Automation Company Gavel, Extending Its Legal Data Platform Into Word",
+      "url": "https://www.lawnext.com/2026/06/relativity-acquires-document-automation-company-gavel-extending-its-legal-data-platform-into-word.html",
+      "summary": "Relativity, the Chicago-based legal data intelligence company best known for the e-discovery and litigation platform RelativityOne, has acquired Gavel, the Los Angeles-based document automation and AI drafting company founded by Dorna Moini (pictured above). Relativity said the move will enable it to extend Relativity&#8217;s AI platform into the place where lawyers actually write, Microsoft Word. [&#8230;]",
+      "published": "2026-06-15T13:34:16.000Z",
+      "source_id": "lawsites",
+      "source_name": "LawSites (Bob Ambrogi)",
+      "source_priority": "critical",
+      "source_tier": "B",
+      "source_category": "Legal tech commentary",
+      "relevance_score": 7
+    },
+    {
+      "title": "Claude for Legal and Access to Justice: The Good, the Bad, and the Unknown",
+      "url": "https://www.lawnext.com/2026/05/claude-for-legal-and-access-to-justice-the-good-the-bad-and-the-unknown.html",
+      "summary": "Last week, when Anthropic released its biggest legal push to date — more than 20 MCP connectors, 12 practice-area plugins,a and integrations with Microsoft Word, Outlook, Excel and PowerPoint — much of the coverage focused on what the announcement means for law firms, in-house teams, and the legal tech ecosystem. That is where the bulk [&#8230;]",
+      "published": "2026-05-21T13:18:36.000Z",
+      "source_id": "lawsites",
+      "source_name": "LawSites (Bob Ambrogi)",
+      "source_priority": "critical",
+      "source_tier": "B",
+      "source_category": "Legal tech commentary",
+      "relevance_score": 7
+    },
+    {
+      "title": "DLA Piper PEP passes $4m with 20% jump",
+      "url": "https://www.legalbusiness.co.uk/law-firms/dla-piper-pep-passes-4m-with-20-jump/",
+      "summary": "DLA Piper has posted its 2025 financial results, passing $4m in profit per equity partner (PEP). The firm increased its PEP by 19.6%, to $4.14m from $3.46m last year. Revenue also increased, up 8.4% to $4.6bn. The result marks the ninth consecutive year of topline growth, and follows an 11% increase the year prior, which &#8230; Continue reading \"DLA Piper PEP passes $4m with 20% jump\"",
+      "published": "2026-07-17T10:50:49.000Z",
+      "source_id": "legal-business",
+      "source_name": "Legal Business",
+      "source_priority": "medium",
+      "source_tier": "B",
+      "source_category": "Legal profession",
+      "relevance_score": 7
+    },
+    {
+      "title": "Nvidia Showcases Japanese AI Development Built on Nemotron Models",
+      "url": "https://www.hpcwire.com/off-the-wire/nvidia-showcases-japanese-ai-development-built-on-nemotron-models/",
+      "summary": "Article URL: https://www.hpcwire.com/off-the-wire/nvidia-showcases-japanese-ai-development-built-on-nemotron-models/ Comments URL: https://news.ycombinator.com/item?id=48945281 Points: 1 # Comments: 0",
+      "published": "2026-07-17T09:47:40.000Z",
       "source_id": "hacker-news",
       "source_name": "Hacker News (filtered)",
       "source_priority": "low",
       "source_tier": "B",
       "source_category": "Community",
-      "relevance_score": 9
+      "relevance_score": 7
+    },
+    {
+      "title": "Why AI-Assisted Development Is More Exhausting Than It Should Be",
+      "url": "https://tonyalicea.dev/blog/single-mode-burnout/",
+      "summary": "Article URL: https://tonyalicea.dev/blog/single-mode-burnout/ Comments URL: https://news.ycombinator.com/item?id=48944961 Points: 1 # Comments: 0",
+      "published": "2026-07-17T09:05:33.000Z",
+      "source_id": "hacker-news",
+      "source_name": "Hacker News (filtered)",
+      "source_priority": "low",
+      "source_tier": "B",
+      "source_category": "Community",
+      "relevance_score": 7
     },
     {
       "title": "Interventional Grounding Audits: Black-Box Premise-Dependency Tests for LLM Chain-of-Thought via Predicate Substitution",
@@ -196,7 +412,7 @@
       "source_priority": "low",
       "source_tier": "B",
       "source_category": "Research",
-      "relevance_score": 9
+      "relevance_score": 7
     },
     {
       "title": "SAFETY SENTRY: Context-Aware Human Intervention via EXECUTE-ASK-REFUSE Routing",
@@ -208,7 +424,7 @@
       "source_priority": "low",
       "source_tier": "B",
       "source_category": "Research",
-      "relevance_score": 9
+      "relevance_score": 7
     },
     {
       "title": "STOCKTAKE: Measuring the Gap Between Perception and Action in LLM Agents with a Fair Oracle",
@@ -220,7 +436,7 @@
       "source_priority": "low",
       "source_tier": "B",
       "source_category": "Research",
-      "relevance_score": 9
+      "relevance_score": 7
     },
     {
       "title": "AgentCompass: A Unified Evaluation Infrastructure for Agent Capabilities",
@@ -232,7 +448,7 @@
       "source_priority": "low",
       "source_tier": "B",
       "source_category": "Research",
-      "relevance_score": 9
+      "relevance_score": 7
     },
     {
       "title": "Experience Memory Graph: One-Shot Error Correction for Agents",
@@ -244,7 +460,7 @@
       "source_priority": "low",
       "source_tier": "B",
       "source_category": "Research",
-      "relevance_score": 9
+      "relevance_score": 7
     },
     {
       "title": "Deep Interaction: An Efficient Human-AI Interaction Method for Large Reasoning Models",
@@ -256,7 +472,7 @@
       "source_priority": "low",
       "source_tier": "B",
       "source_category": "Research",
-      "relevance_score": 9
+      "relevance_score": 7
     },
     {
       "title": "Ask Before You Diagnose: Safe-Psych, a Sequential Evaluation Benchmark for LLMs in Psychiatry",
@@ -268,223 +484,7 @@
       "source_priority": "low",
       "source_tier": "B",
       "source_category": "Research",
-      "relevance_score": 9
-    },
-    {
-      "title": "LessonBench-V1: A Benchmark Dataset for Evaluating AI Lesson Generation Agents",
-      "url": "https://arxiv.org/abs/2607.13041",
-      "summary": "arXiv:2607.13041v1 Announce Type: cross Abstract: Large Language Model (LLM) based AI educational content generation systems are increasingly being developed, yet no standardised benchmark exists to systematically evaluate them. This study introduces LessonBench-V1, a benchmark dataset comprising 647 human-written lessons paired with LLM-based reverse-engineered lesson plans across 240 STEM topics spanning mathematics, physics, chemistry, and computer science. The lessons are drawn from 97 trust",
-      "published": "2026-07-17T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI (keyword-filtered)",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "Research",
-      "relevance_score": 9
-    },
-    {
-      "title": "Uncertainty-Aware Sequential Decision Rules for Event-Triggered LLM Invocation in Streaming Systems",
-      "url": "https://arxiv.org/abs/2607.13048",
-      "summary": "arXiv:2607.13048v1 Announce Type: cross Abstract: Streaming inference pipelines increasingly pair lightweight fast models with Large Language Models (LLMs) that provide rich semantic understanding at substantial cost. The central question of when to invoke the LLM has received limited formal treatment. We cast this as a risk-based sequential stopping problem, where a trigger policy fires when a risk functional over the observation history exceeds a threshold. Within this framework, we prove six ",
-      "published": "2026-07-17T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI (keyword-filtered)",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "Research",
-      "relevance_score": 9
-    },
-    {
-      "title": "HRO: Hierarchical Room-to-Object Framework for Zero-Shot Object Goal Navigation with Large Language Models",
-      "url": "https://arxiv.org/abs/2607.13072",
-      "summary": "arXiv:2607.13072v1 Announce Type: cross Abstract: Zero-shot object-goal navigation aims to enable an intelligent agent to explore and navigate to objects of unknown categories in an unfamiliar environment without specific target training. In zero-shot navigation tasks, pre-trained large models are usually employed to leverage their prior knowledge for guiding the agent's navigation. However, existing zero-shot object-goal navigation methods based on large language models (LLMs) merely utilize LL",
-      "published": "2026-07-17T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI (keyword-filtered)",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "Research",
-      "relevance_score": 9
-    },
-    {
-      "title": "The Hitchhiker's Guide to Monoculture",
-      "url": "https://arxiv.org/abs/2607.13077",
-      "summary": "arXiv:2607.13077v1 Announce Type: cross Abstract: Large language models (LLMs) often produce homogeneous outputs, raising concerns that AI coding assistants may lead to convergence in the software artifacts that developers create. Whether this occurs in practice is unclear because developers interactively prompt, evaluate, modify, and reject model outputs, and because outputs vary with prompt and repository context. I examine code homogenization using Kaggle contest submissions from 2019 to mid-",
-      "published": "2026-07-17T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI (keyword-filtered)",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "Research",
-      "relevance_score": 9
-    },
-    {
-      "title": "Operational Evidence Gaps for LLMs in Fraud Detection and Trust-and-Safety Workflows",
-      "url": "https://arxiv.org/abs/2607.13078",
-      "summary": "arXiv:2607.13078v1 Announce Type: cross Abstract: LLMs are now proposed for fraud detection, scam investigation, content moderation, and other trust-and-safety workflows. Much of the public literature still evaluates them as models, with less attention to their behavior as components in operational pipelines. This creates a practical evidence question: what would justify placing an LLM inside a live workflow with latency, cost, escalation, human-review, and adversarial-risk constraints? We addre",
-      "published": "2026-07-17T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI (keyword-filtered)",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "Research",
-      "relevance_score": 9
-    },
-    {
-      "title": "Inference Economics of Enterprise Coding Agents: A Case Study of Cloud vs. On-Premise LLMs",
-      "url": "https://arxiv.org/abs/2607.13080",
-      "summary": "arXiv:2607.13080v1 Announce Type: cross Abstract: Autonomous coding agents force engineering organizations to choose between API-based frontier models -- strong reasoning at high token cost -- and on-premise quantized open-weights models, which promise low-marginal-cost scaling and data sovereignty at some loss of reasoning fidelity. We study this trade-off through a single-developer, non-randomized longitudinal case study over two contiguous 28-day periods on a production monorepo: an API-based",
-      "published": "2026-07-17T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI (keyword-filtered)",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "Research",
-      "relevance_score": 9
-    },
-    {
-      "title": "Self-Improving AI Coding Agents Through Accumulated Behavioral Rules: A Closed-Loop Framework",
-      "url": "https://arxiv.org/abs/2607.13091",
-      "summary": "arXiv:2607.13091v1 Announce Type: cross Abstract: LLM-based coding agents repeat the same classes of mistakes across sessions because they lack a mechanism to retain corrections from human review feedback. We present a closed-loop framework in which every accepted review comment is codified as a persistent behavioral rule, progressively expanding the set of error classes the agent can self-detect. The framework combines an accumulating rule set in a version-controlled instruction file, a self-re",
-      "published": "2026-07-17T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI (keyword-filtered)",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "Research",
-      "relevance_score": 9
-    },
-    {
-      "title": "WaterMoE: Expert-Routing-based Watermarking for High Fidelity and Efficiency",
-      "url": "https://arxiv.org/abs/2607.13099",
-      "summary": "arXiv:2607.13099v1 Announce Type: cross Abstract: Large language models (LLMs) have achieved remarkable success but raise growing concerns about content provenance and misuse, motivating the need for reliable watermarking techniques. However, these techniques have rarely been adopted in practice mainly for two reasons: i) severely degraded model performance, and ii) additional inference overhead. To confirm the problem, we construct a comprehensive benchmark spanning different generation tasks t",
-      "published": "2026-07-17T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI (keyword-filtered)",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "Research",
-      "relevance_score": 9
-    },
-    {
-      "title": "Boogu-Image-0.1: Boosting Open-Source Unified Multimodal Understanding and Generation",
-      "url": "https://arxiv.org/abs/2607.13125",
-      "summary": "arXiv:2607.13125v1 Announce Type: cross Abstract: We introduce Boogu-Image-0.1, an open-source unified multimodal understanding and generation model family, comprising Base, Turbo, Edit, and Edit-Turbo variants. It delivers competitive performance in high-quality text-to-image generation, fast inference, instruction-based editing, and bilingual (Chinese-English) text rendering. Closed-source multimodal systems like Nano-Banana-Pro and GPT-Image-2 achieve strong performance through system-level i",
-      "published": "2026-07-17T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI (keyword-filtered)",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "Research",
-      "relevance_score": 9
-    },
-    {
-      "title": "What Models Express, Suppress, and Resist: Auditing Open-Weight LLMs with Persona Vectors",
-      "url": "https://arxiv.org/abs/2607.13162",
-      "summary": "arXiv:2607.13162v2 Announce Type: cross Abstract: What a language model will and will not do is largely set during post-training, but which behaviors it expresses, hides, or resists is not revealed by prompting alone. Persona vectors, behavioral directions in activation space, can probe this organization, but prior work covers only a handful of traits. We present the first systematic application of persona vectors at this scale, compiling a 53-trait inventory across four behaviorally distinct do",
-      "published": "2026-07-17T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI (keyword-filtered)",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "Research",
-      "relevance_score": 9
-    },
-    {
-      "title": "Faithful Autoformalization of Natural Language Assertions",
-      "url": "https://arxiv.org/abs/2607.13303",
-      "summary": "arXiv:2607.13303v1 Announce Type: cross Abstract: Formal contracts are essential for software testing and verification, yet writing them remains labor-intensive and error-prone. LLMs offer a promising path toward autoformalization: synthesizing executable assertions from natural-language specifications and thereby bridging the gap between informal developer intent and formal executable specifications. We present Monty: an autoformalization framework for assertions that tackles the challenges of ",
-      "published": "2026-07-17T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI (keyword-filtered)",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "Research",
-      "relevance_score": 9
-    },
-    {
-      "title": "Improving Text-to-Audio Instruction Following via Fine-Grained Feedback from Audio-Aware Large Language Models",
-      "url": "https://arxiv.org/abs/2607.13408",
-      "summary": "arXiv:2607.13408v1 Announce Type: cross Abstract: Recent text-to-audio models generate high-quality audio, but often fail to follow instructions involving multiple sound events and temporal order. This gap arises because existing evaluation and training signals mainly emphasize global similarity or perceptual quality, with limited supervision on instruction-level correctness. We propose an instruction-level framework that uses audio-aware large language models (ALLMs) as fine-grained judges to v",
-      "published": "2026-07-17T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI (keyword-filtered)",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "Research",
-      "relevance_score": 9
-    },
-    {
-      "title": "Adversarial Prompting Framework for AI Safety Assessment",
-      "url": "https://arxiv.org/abs/2607.13453",
-      "summary": "arXiv:2607.13453v1 Announce Type: cross Abstract: Artificial Intelligence (AI), especially Generative AI (GenAI), adoption has increased in industries significantly in recent years. However, the use of these models may also expose systems to new forms of cyberattacks by different malicious actors -- adversarial prompt attack (APA) being one of the most prominent examples of such threats. This paper presents the implementation of an Adversarial Prompting Framework (APF) for a comprehensive assess",
-      "published": "2026-07-17T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI (keyword-filtered)",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "Research",
-      "relevance_score": 9
-    },
-    {
-      "title": "GeoAnchor: Collaborative Reasoning via Latent Decomposition for 3D Spatial Understanding",
-      "url": "https://arxiv.org/abs/2607.13454",
-      "summary": "arXiv:2607.13454v1 Announce Type: cross Abstract: Although multimodal large language models (MLLMs) have achieved remarkable progress, understanding 3D spatial relationships from 2D images remains a critical challenge. Existing methods primarily rely on symbolic text tokens, which inherently lack the fidelity to represent continuous geometric information. While recent methods use latent representations to enhance reasoning, relying on a single latent type cannot adapt to the diversity of spatial",
-      "published": "2026-07-17T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI (keyword-filtered)",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "Research",
-      "relevance_score": 9
-    },
-    {
-      "title": "DevicesWorld: Benchmarking Cross-Device Agents in Heterogeneous Environments",
-      "url": "https://arxiv.org/abs/2607.13465",
-      "summary": "arXiv:2607.13465v1 Announce Type: cross Abstract: LLM-based agents have rapidly improved at operating individual digital environments such as mobile applications, desktop systems, and smart homes. However, real-world user goals often span multiple devices: information may come from a phone, be processed on a desktop, and the result may need to appear on another device. Most existing benchmarks center on a single dominant execution environment, making it difficult to evaluate whether agents can a",
-      "published": "2026-07-17T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI (keyword-filtered)",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "Research",
-      "relevance_score": 9
-    },
-    {
-      "title": "ExTernD: Expanded-Rank Ternary Decomposition Ternary LLM PTQ with Accuracy Approaching Any Quantization Level",
-      "url": "https://arxiv.org/abs/2607.13511",
-      "summary": "arXiv:2607.13511v1 Announce Type: cross Abstract: We introduce ExTernD (Expanded-rank Ternary Decomposition), a post-training factorization of each LLM weight matrix $A \\in \\mathbb{R}^{m \\times n}$ into $A \\approx B \\mathrm{diag}(D) C$ with ternary factors $B \\in \\{-1,0,+1\\}^{m \\times k}$, $C \\in \\{-1,0,+1\\}^{k \\times n}$ and a real scale vector $D \\in \\mathbb{R}^k$. The inner rank $k = \\mu \\min(m,n)$ is deliberately expanded beyond full rank ($\\mu &gt; 1$), so that components past full rank cor",
-      "published": "2026-07-17T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI (keyword-filtered)",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "Research",
-      "relevance_score": 9
-    },
-    {
-      "title": "Groc-PO: Grounded Context Preference Optimization for Truthful Multimodal LLMs",
-      "url": "https://arxiv.org/abs/2607.13712",
-      "summary": "arXiv:2607.13712v1 Announce Type: cross Abstract: Despite the rapid progress of Multimodal Large Language Models (MLLMs), they still suffer from untruthfulness issues, such as visual hallucinations, content fabrication, and unfaithful reasoning, which substantially undermine their faithfulness and practical utility. Alignment methods based on human preference, such as Direct Preference Optimization (DPO), have been widely adopted to address these issues. However, multimodal reasoning errors ofte",
-      "published": "2026-07-17T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI (keyword-filtered)",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "Research",
-      "relevance_score": 9
-    },
-    {
-      "title": "Unleashing Multimodal Large Language Models for Training-free HOI Detection in the Wild",
-      "url": "https://arxiv.org/abs/2607.13881",
-      "summary": "arXiv:2607.13881v1 Announce Type: cross Abstract: Human-object interaction detection (HOID) has traditionally been formulated as a supervised detection problem over predefined interaction categories. While such paradigms achieve strong performance on closed-set benchmarks, they fundamentally entangle interaction understanding with dataset-specific supervision, limiting their ability to generalize to open-world and compositional scenarios. Recent HOI detectors attempt to leverage MLLMs through pr",
-      "published": "2026-07-17T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI (keyword-filtered)",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "Research",
-      "relevance_score": 9
+      "relevance_score": 7
     }
   ]
 }
