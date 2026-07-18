@@ -1,45 +1,14 @@
 {
-  "generated": "2026-07-18T13:38:14.571Z",
+  "generated": "2026-07-18T16:02:40.493Z",
   "cycle_type": "triage",
-  "tier_filter": null,
-  "shortlist_size": 1,
+  "shortlist_size": 0,
+  "picks": [],
   "prefilter": {
     "total": 40,
-    "accepted": 1,
+    "accepted": 0,
     "borderline": 0,
-    "rejected": 39,
-    "rejected_as_duplicate": 39,
-    "accept_rate": 3
-  },
-  "model": "claude-haiku-4-5-20251001",
-  "picks": [
-    {
-      "id": "google-news-legal-ai-0",
-      "score": 5,
-      "category": "Legal AI",
-      "suggested_angle": "Commodity LLM risk: when every firm uses Claude/GPT, competitive differentiation shifts from AI access to implementation and judgment.",
-      "why_now": "Timely exploration of LLM commoditization as foundation models mature, but JD Supra commentary lacks primary reporting or named sources.",
-      "verdict": "watch",
-      "duplicate_of": null
-    }
-  ],
-  "summary": {
-    "enqueue_count": 0,
-    "watch_count": 1,
-    "drop_count": 0,
-    "notes": "Single item: opinion/analysis piece on LLM commoditization via JD Supra. Fits editorial threads on differentiation and capability, but needs primary source confirmation before enqueueing. No duplicate detected in recent coverage."
-  },
-  "enqueued": 0,
-  "usage": {
-    "input_tokens": 2533,
-    "cache_creation_input_tokens": 0,
-    "cache_read_input_tokens": 0,
-    "cache_creation": {
-      "ephemeral_5m_input_tokens": 0,
-      "ephemeral_1h_input_tokens": 0
-    },
-    "output_tokens": 391,
-    "service_tier": "standard",
-    "inference_geo": "not_available"
+    "rejected": 40,
+    "rejected_as_duplicate": 40,
+    "accept_rate": 0
   }
 }

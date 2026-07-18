@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-18T13:38:02.753Z",
+  "generated": "2026-07-18T16:02:35.985Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 1009,
+  "total_scanned": 1028,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -295,22 +295,22 @@
       "relevance_score": 7
     },
     {
+      "title": "Show HN: Race to AGI – a simulation browser game about running a frontier AI lab",
+      "url": "https://rtagi.online",
+      "summary": "If you like to be in Altman’s or Dario’s or even Musk’s shoes for a day to run an AI frontier lab, here is your chance. You need to beat your rivals to achieve AGI titan status. But there is a twist in getting to AGI - if you don’t do well with Safety, Ethics and Public confidence, you will be ending up with Dangerous AGI, which is not a good place to be in. Go through the easy mode to learn the game. I tried to be closer to realistic lines but did take my creative freedom for the gaming element",
+      "published": "2026-07-18T13:27:57.000Z",
+      "source_id": "hacker-news",
+      "source_name": "Hacker News (filtered)",
+      "source_priority": "low",
+      "source_tier": "B",
+      "source_category": "Community",
+      "relevance_score": 7
+    },
+    {
       "title": "Norm Ai’s $1.2B Legal AI Gambit AsThe First True AI‑Native Law Firm Comes For Big Law’s Billable Hour - LawFuel.com",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZGJkZjY4T0RsU2dTcnprLS1vMHRfeER2bkhpaFJidzEwaURfX2QzYThKWDI2V0hJZVY1MWRQdHExTHN1d3FHLTNPVHdBSmdMSmhKTERtS2M1R2lrUFFxdEF6eTZJNU4xZXRhY0wtdjRWQXNVSkcza3JlME5oN0tfcFRqMEJ1a3dmSHpBX2xXVlVHY3djX0cyY0RSWGFnQUZxeU95ZHU1RWRpSUs3V2N3aWRWLUEwNXJ1U19aMGtGZWk?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZGJkZjY4T0RsU2dTcnprLS1vMHRfeER2bkhpaFJidzEwaURfX2QzYThKWDI2V0hJZVY1MWRQdHExTHN1d3FHLTNPVHdBSmdMSmhKTERtS2M1R2lrUFFxdEF6eTZJNU4xZXRhY0wtdjRWQXNVSkcza3JlME5oN0tfcFRqMEJ1a3dmSHpBX2xXVlVHY3djX0cyY0RSWGFnQUZxeU95ZHU1RWRpSUs3V2N3aWRWLUEwNXJ1U19aMGtGZWk?oc=5\" target=\"_blank\"&gt;Norm Ai’s $1.2B Legal AI Gambit AsThe First True AI‑Native Law Firm Comes For Big Law’s Billable Hour&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Law",
       "published": "2026-07-18T10:53:32.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
-    },
-    {
-      "title": "If Every Firm Uses the Same LLM, Where Is Your Edge? - JD Supra",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOY0V2UkhOeE80WWFkMWJvWGxSV3Q4X0N0NW5sZ2ExSzVYb3Z1OWE4N3RlNnN5YkZ1Wmo2aUlzRFlOUlF1OTlfMnByT3lkWXU2WlRjYWpydXpHbTFfcU1uVEpKRU95NzYwMFp5X1JMYmt0eEh2STNFdG4zYU9rejQ3RHQtcGpvVnM?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOY0V2UkhOeE80WWFkMWJvWGxSV3Q4X0N0NW5sZ2ExSzVYb3Z1OWE4N3RlNnN5YkZ1Wmo2aUlzRFlOUlF1OTlfMnByT3lkWXU2WlRjYWpydXpHbTFfcU1uVEpKRU95NzYwMFp5X1JMYmt0eEh2STNFdG4zYU9rejQ3RHQtcGpvVnM?oc=5\" target=\"_blank\"&gt;If Every Firm Uses the Same LLM, Where Is Your Edge?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;JD Supra&lt;/font&gt;",
-      "published": "2026-07-17T15:45:32.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
@@ -391,6 +391,18 @@
       "relevance_score": 6
     },
     {
+      "title": "Harvey Ai Number of Employees 2026 | Employee Count &amp; Headcount Data - Revelio Labs",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjWG9CNFREdTBDYkhqeWhzSk1pVGhScVduQk8zdG5LUzJVZ2ZaQXhUazJ3OXdPemZ4UjlENkxCOTYtTm5xOFZZZjlDb3doREwxdUdQMm9rbnhfYWhxLUwyRHJvSVFDeVdEWnc?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBjWG9CNFREdTBDYkhqeWhzSk1pVGhScVduQk8zdG5LUzJVZ2ZaQXhUazJ3OXdPemZ4UjlENkxCOTYtTm5xOFZZZjlDb3doREwxdUdQMm9rbnhfYWhxLUwyRHJvSVFDeVdEWnc?oc=5\" target=\"_blank\"&gt;Harvey Ai Number of Employees 2026 | Employee Count &amp; Headcount Data&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Revelio Labs&lt;/font&gt;",
+      "published": "2026-04-22T15:13:24.000Z",
+      "source_id": "google-news-harvey-luminance",
+      "source_name": "Google News: Harvey OR Luminance",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
+    },
+    {
       "title": ":Harvey:’s iManage Integration - Harvey",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NWWt2LTZETkl6M2txVzBjWUd6SUJnYWZwN2NKYmJpXy1GS2pDUlc4Y2lNazJFRTYyYWc3MGhXQU1STHVDa2hLWE9rV000a0dkQUQzaXRpdEZ5UlVDTFhDSTEwMGM?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NWWt2LTZETkl6M2txVzBjWUd6SUJnYWZwN2NKYmJpXy1GS2pDUlc4Y2lNazJFRTYyYWc3MGhXQU1STHVDa2hLWE9rV000a0dkQUQzaXRpdEZ5UlVDTFhDSTEwMGM?oc=5\" target=\"_blank\"&gt;:Harvey:’s iManage Integration&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
@@ -419,18 +431,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0djUyLXFEbzcwVDBaN3k4T0FOX0pBTzRyLXBka01pN2VhYlFqTEdaVkxsYUM1aUVsb0FMUm9pVElZUUNVdXE3SU1vd3Z5RlVURFhmR0RMVFlJQmtZMW5Oa0VB?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0djUyLXFEbzcwVDBaN3k4T0FOX0pBTzRyLXBka01pN2VhYlFqTEdaVkxsYUM1aUVsb0FMUm9pVElZUUNVdXE3SU1vd3Z5RlVURFhmR0RMVFlJQmtZMW5Oa0VB?oc=5\" target=\"_blank\"&gt;Preview: Access :Harvey:, Wherever You’re Working&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
       "published": "2025-09-10T07:00:00.000Z",
-      "source_id": "google-news-harvey-luminance",
-      "source_name": "Google News: Harvey OR Luminance",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
-    },
-    {
-      "title": "Harvey Ai Number of Employees 2026 | Employee Count &amp; Headcount Data - Revelio Labs",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjWG9CNFREdTBDYkhqeWhzSk1pVGhScVduQk8zdG5LUzJVZ2ZaQXhUazJ3OXdPemZ4UjlENkxCOTYtTm5xOFZZZjlDb3doREwxdUdQMm9rbnhfYWhxLUwyRHJvSVFDeVdEWnc?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBjWG9CNFREdTBDYkhqeWhzSk1pVGhScVduQk8zdG5LUzJVZ2ZaQXhUazJ3OXdPemZ4UjlENkxCOTYtTm5xOFZZZjlDb3doREwxdUdQMm9rbnhfYWhxLUwyRHJvSVFDeVdEWnc?oc=5\" target=\"_blank\"&gt;Harvey Ai Number of Employees 2026 | Employee Count &amp; Headcount Data&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Revelio Labs&lt;/font&gt;",
-      "published": "2026-04-22T15:13:24.000Z",
       "source_id": "google-news-harvey-luminance",
       "source_name": "Google News: Harvey OR Luminance",
       "source_priority": "critical",
