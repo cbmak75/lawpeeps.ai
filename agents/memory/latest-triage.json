@@ -1,42 +1,24 @@
 {
-  "generated": "2026-07-18T08:14:38.037Z",
+  "generated": "2026-07-18T10:34:34.197Z",
   "cycle_type": "triage",
   "tier_filter": null,
-  "shortlist_size": 3,
+  "shortlist_size": 1,
   "prefilter": {
     "total": 40,
-    "accepted": 3,
+    "accepted": 1,
     "borderline": 0,
-    "rejected": 37,
-    "rejected_as_duplicate": 37,
-    "accept_rate": 8
+    "rejected": 39,
+    "rejected_as_duplicate": 39,
+    "accept_rate": 3
   },
   "model": "claude-haiku-4-5-20251001",
   "picks": [
     {
-      "id": "hacker-news-0",
-      "score": 2,
-      "category": "Social",
-      "suggested_angle": "Skip: low-signal commentary on AI history, not legal or legal tech.",
-      "why_now": "No legal tech angle; Hacker News aggregation with 2 points and 1 comment indicates minimal interest.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "eu-ai-act-tracker-1",
-      "score": 4,
-      "category": "Regulatory",
-      "suggested_angle": "EU AI Act explainer—useful reference but not breaking news.",
-      "why_now": "Published February 2024; this is a summary guide, not a new regulatory development or enforcement action.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "eu-ai-act-tracker-2",
+      "id": "google-news-legal-ai-0",
       "score": 5,
-      "category": "Regulatory",
-      "suggested_angle": "SME-focused guide to AI Act compliance—useful resource for legal tech vendors and in-house counsel.",
-      "why_now": "Published February 2025 (recent), but still a guide/educational resource rather than primary news (new rule, enforcement, or major adoption).",
+      "category": "Legal AI",
+      "suggested_angle": "Commoditization risk: when all firms deploy identical LLMs, what differentiates legal service delivery?",
+      "why_now": "Timely strategic question as LLM adoption accelerates across legal market, but source is commentary not primary news.",
       "verdict": "watch",
       "duplicate_of": null
     }
@@ -44,19 +26,19 @@
   "summary": {
     "enqueue_count": 0,
     "watch_count": 1,
-    "drop_count": 2,
-    "notes": "Shortlist is thin: one social item (off-topic), two EU AI Act tracker guides (summary resources, not breaking news). eu-ai-act-tracker-2 is the most recent and has SME/compliance angle worth monitoring if it gains traction or is cited by major outlets, but does not meet enqueue threshold on its own."
+    "drop_count": 0,
+    "notes": "JD Supra commentary piece raises legitimate strategic question but lacks primary news hook, named firm adoption, funding announcement, or regulator statement. Could become enqueue-worthy if editor can source independent reporting or firm statements on LLM commoditization. Aligns with open thread on service delivery model shifts."
   },
   "enqueued": 0,
   "usage": {
-    "input_tokens": 2584,
+    "input_tokens": 2533,
     "cache_creation_input_tokens": 0,
     "cache_read_input_tokens": 0,
     "cache_creation": {
       "ephemeral_5m_input_tokens": 0,
       "ephemeral_1h_input_tokens": 0
     },
-    "output_tokens": 477,
+    "output_tokens": 249,
     "service_tier": "standard",
     "inference_geo": "not_available"
   }
