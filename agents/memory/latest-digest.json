@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-17T22:00:06.906Z",
+  "generated": "2026-07-18T03:15:00.347Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 1246,
+  "total_scanned": 1271,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -199,6 +199,18 @@
       "relevance_score": 8
     },
     {
+      "title": "Harvey AI's 12x token surge reveals that legal AI has crossed from experiment to infrastructure - Startup Fortune",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd2E2WDlBRmduLTdnWkZfLV90MkJWaEZwZVZQeFl1OTN6NjBmTTZ5aTdTOUx2VFRmcHRYMjUtV2E4ZzFld0N5QTZJNU1zRDFfQ1NCSGhRMFdTLU5Uclc4ck1kcDQxX0dlM3NBaXI0V1FqSk45NTcyRUU5NHRfb3F5bFRXOEhLVmgwUmJzWkQ3WUdPYUtiSnpXcEd3QU5iWXpHR0MxYVdXejRiMlN6ZUJ5SGk5Ql9obXNSTUhVUnpubw?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOd2E2WDlBRmduLTdnWkZfLV90MkJWaEZwZVZQeFl1OTN6NjBmTTZ5aTdTOUx2VFRmcHRYMjUtV2E4ZzFld0N5QTZJNU1zRDFfQ1NCSGhRMFdTLU5Uclc4ck1kcDQxX0dlM3NBaXI0V1FqSk45NTcyRUU5NHRfb3F5bFRXOEhLVmgwUmJzWkQ3WUdPYUtiSnpXcEd3QU5iWXpHR0MxYVdXejRiMlN6ZUJ5SGk5Ql9obXNSTUhVUnpubw?oc=5\" target=\"_blank\"&gt;Harvey AI's 12x token surge reveals that legal AI has crossed from experiment to infrastructure&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Startup Fo",
+      "published": "2026-06-19T07:00:00.000Z",
+      "source_id": "google-news-harvey-luminance",
+      "source_name": "Google News: Harvey OR Luminance",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 8
+    },
+    {
       "title": "GPT-5 Launches: Harvey, Spellbook, Legora + TR Already Have It - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPakxDaENfTFFVRjVLRjZQSWplRnJwcUFCQWRtNkUyaUh4T1RvT1Rkc0R3NVZxb095ODN4eGIyREhjTUJTTDFvcmN0cV81OE5Md2k0WS1IVGRJWGdaT1BFaFJDUjdRSkU1ZXZqQTFFUXBQVmFpSndTNFVsb3BEMjN1MnJueW11QmZSWWpzZWhJVndMVk1qSlY1bzhlQQ?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPakxDaENfTFFVRjVLRjZQSWplRnJwcUFCQWRtNkUyaUh4T1RvT1Rkc0R3NVZxb095ODN4eGIyREhjTUJTTDFvcmN0cV81OE5Md2k0WS1IVGRJWGdaT1BFaFJDUjdRSkU1ZXZqQTFFUXBQVmFpSndTNFVsb3BEMjN1MnJueW11QmZSWWpzZWhJVndMVk1qSlY1bzhlQQ?oc=5\" target=\"_blank\"&gt;GPT-5 Launches: Harvey, Spellbook, Legora + TR Already Have It&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
@@ -283,18 +295,6 @@
       "relevance_score": 7
     },
     {
-      "title": "What’s In A Wrapper? Comparing A Hershey Bar To LegalTech AI",
-      "url": "https://www.lawnext.com/2026/07/whats-in-a-wrapper-comparing-a-hershey-bar-to-legaltech-ai.html",
-      "summary": "Anyone can make sweets, but not everyone can make a Hershey bar. The debate over legaltech startups offering nothing more than a “thin wrapper” around an LLM begs a deeper analysis of the value of a wrapper, particularly as open-source alternatives take root. Let’s start with a Hershey bar. You pay for the chocolate, right? [&#8230;]",
-      "published": "2026-07-17T12:56:30.000Z",
-      "source_id": "lawsites",
-      "source_name": "LawSites (Bob Ambrogi)",
-      "source_priority": "critical",
-      "source_tier": "B",
-      "source_category": "Legal tech commentary",
-      "relevance_score": 7
-    },
-    {
       "title": "Relativity Acquires Document Automation Company Gavel, Extending Its Legal Data Platform Into Word",
       "url": "https://www.lawnext.com/2026/06/relativity-acquires-document-automation-company-gavel-extending-its-legal-data-platform-into-word.html",
       "summary": "Relativity, the Chicago-based legal data intelligence company best known for the e-discovery and litigation platform RelativityOne, has acquired Gavel, the Los Angeles-based document automation and AI drafting company founded by Dorna Moini (pictured above). Relativity said the move will enable it to extend Relativity&#8217;s AI platform into the place where lawyers actually write, Microsoft Word. [&#8230;]",
@@ -319,27 +319,39 @@
       "relevance_score": 7
     },
     {
-      "title": "What Lawyers Really Need To Know About Marketing",
-      "url": "https://abovethelaw.com/2026/07/what-lawyers-really-need-to-know-about-marketing/",
-      "summary": "Advice for lawyers at every stage of their career. The post What Lawyers Really Need To Know About Marketing appeared first on Above the Law .",
-      "published": "2026-07-17T17:49:00.000Z",
-      "source_id": "above-the-law-legaltech",
-      "source_name": "Above the Law (Legal Tech)",
-      "source_priority": "high",
+      "title": "Why Teens Deserve Access to Safe AI",
+      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "summary": "Article URL: https://openai.com/index/why-teens-deserve-access-safe-ai Comments URL: https://news.ycombinator.com/item?id=48954344 Points: 1 # Comments: 0",
+      "published": "2026-07-18T01:52:09.000Z",
+      "source_id": "hacker-news",
+      "source_name": "Hacker News (filtered)",
+      "source_priority": "low",
       "source_tier": "B",
-      "source_category": "Legal profession",
+      "source_category": "Community",
       "relevance_score": 7
     },
     {
-      "title": "Things Are Heating Up At This Newly Merged Global Megafirm &#8212; Literally",
-      "url": "https://abovethelaw.com/2026/07/things-are-heating-up-at-this-newly-merged-global-megafirm-literally/",
-      "summary": "New megafirm sends London lawyers home after its air conditioning gives out during a heatwave. The post Things Are Heating Up At This Newly Merged Global Megafirm &#8212; Literally appeared first on Above the Law .",
-      "published": "2026-07-17T17:01:00.000Z",
-      "source_id": "above-the-law-legaltech",
-      "source_name": "Above the Law (Legal Tech)",
-      "source_priority": "high",
+      "title": "Netflix Paid $587M for Ben Affleck's AI Company",
+      "url": "https://www.hollywoodreporter.com/business/business-news/netflix-price-ben-affleck-ai-company-revealed-1236651217/",
+      "summary": "Article URL: https://www.hollywoodreporter.com/business/business-news/netflix-price-ben-affleck-ai-company-revealed-1236651217/ Comments URL: https://news.ycombinator.com/item?id=48952849 Points: 4 # Comments: 1",
+      "published": "2026-07-17T22:22:51.000Z",
+      "source_id": "hacker-news",
+      "source_name": "Hacker News (filtered)",
+      "source_priority": "low",
       "source_tier": "B",
-      "source_category": "Legal profession",
+      "source_category": "Community",
+      "relevance_score": 7
+    },
+    {
+      "title": "Everybody's Weirded Out by AI–Except the People Who Foist It on Us",
+      "url": "https://newrepublic.com/article/213004/everybody-weirded-ai-except-people-foist-us",
+      "summary": "Article URL: https://newrepublic.com/article/213004/everybody-weirded-ai-except-people-foist-us Comments URL: https://news.ycombinator.com/item?id=48952445 Points: 62 # Comments: 61",
+      "published": "2026-07-17T21:24:07.000Z",
+      "source_id": "hacker-news",
+      "source_name": "Hacker News (filtered)",
+      "source_priority": "low",
+      "source_tier": "B",
+      "source_category": "Community",
       "relevance_score": 7
     },
     {
@@ -467,18 +479,6 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNVRaTmNLME8ydnc5d1FmeWhSUjdhTDg2dmdqR28wQ2lwSzBJbTYtTU5XekVsTWdaLVE3N2hJQlU2bEVRWlNhVG1GRTlab0c4Zko3UmtZamxkRGw2WTNlRkU1X05LZEE3OEpkbEtkdldrNFRJVnlPcFZlVDRVbElnbExXVk9zenVfOFh3QWNORTdIQVQxQnBuUW84NA?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPNVRaTmNLME8ydnc5d1FmeWhSUjdhTDg2dmdqR28wQ2lwSzBJbTYtTU5XekVsTWdaLVE3N2hJQlU2bEVRWlNhVG1GRTlab0c4Zko3UmtZamxkRGw2WTNlRkU1X05LZEE3OEpkbEtkdldrNFRJVnlPcFZlVDRVbElnbExXVk9zenVfOFh3QWNORTdIQVQxQnBuUW84NA?oc=5\" target=\"_blank\"&gt;Spellbook Raises $50m + CEO, Scott Stevenson Interview&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
       "published": "2025-10-09T07:00:00.000Z",
-      "source_id": "google-news-contract-ai",
-      "source_name": "Google News: contract AI",
-      "source_priority": "medium",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
-    },
-    {
-      "title": "Developers of the Heroes of Might &amp; Magic V remake on UE5 engine showed progress - unit models, spellbook, and more - ixbt.games",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZVdBNUZSR0hwc1JIRUlkcXNPM3NaLW92bTlEQjN4a3pkQkhRel9CUnozeGgtb1JSNDk0Z3JLRU9oN2RBMWpuc2VVTmN1ZHZlUkF4ZnhON2toLUF6WVBpQTJ3OWxRajFNUTJXUHJuLWs0ZVoxQmlXM1FkT2MtM1NsLXlERnduMjFGdUg4RTR3RUptS1hVZjBhX09weHkxN0dKUzNra2RMM18wanU2NTNEbmxCTko2Z1RiUkFuUDJxTENpRk1PTnIyMGwxWGhHdHRyX2s5Y0NUYVNfUXkzNk9tZVRKQ3pDZG1wVUFnNXdBeEhBMG9r0gH6AUFVX3lxTE1SRGN0Z2JmT0ZwM1F0WmZKUlhTd3BJaHhLOGVhZ2JMMF84ekNtU1hUZWROclFCQnM4OURuZE45N3BmVlQtVEZqQVZKUlFWb0toWDVTUi14amV5MGlYVkJjX2c3eUY4UjYyVmZYRGdCb3RBNE0tdE53Y2pha0xvb0RPTkxtRUppWFBPUXV2T2FUNllTTllVTjI1ZmxJWXVpLXNRNDZwVXcxTi1KTmVBMlVRblhHSDRNSEFpZG54X0c2NmIxUUczajQtYndnaHZJMG9MaV9RZDRmdW0zOVBIdzU5eUt4eHc1M3hDVDhmSjN5NDQ4S2hBRVByclE?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZVdBNUZSR0hwc1JIRUlkcXNPM3NaLW92bTlEQjN4a3pkQkhRel9CUnozeGgtb1JSNDk0Z3JLRU9oN2RBMWpuc2VVTmN1ZHZlUkF4ZnhON2toLUF6WVBpQTJ3OWxRajFNUTJXUHJuLWs0ZVoxQmlXM1FkT2MtM1NsLXlERnduMjFGdUg4RTR3RUptS1hVZjBhX09weHkxN0dKUzNra2RMM18wanU2NTNEbmxCTko2Z1RiUkFuUDJxTENpRk1PTnIyMGwxWGhHdHRyX2s5Y0NUYVNfUXkzNk9tZVRKQ3pDZG1wVUFnNXdBeEhBMG9r0gH6AUFVX3lxTE1SRGN0Z2JmT0ZwM1F0WmZKUlhTd3BJaHhLOGVhZ2JMMF84ekNtU1hUZWROclFCQnM4OURuZE45N3BmVlQtVEZqQVZKUlFWb0toWDVTUi1",
-      "published": "2026-07-14T10:34:30.000Z",
       "source_id": "google-news-contract-ai",
       "source_name": "Google News: contract AI",
       "source_priority": "medium",
