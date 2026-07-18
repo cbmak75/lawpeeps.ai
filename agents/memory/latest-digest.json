@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-18T19:14:32.535Z",
+  "generated": "2026-07-18T21:57:03.229Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 998,
+  "total_scanned": 1029,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -283,6 +283,42 @@
       "relevance_score": 7
     },
     {
+      "title": "$20/Month: The Price Ceiling Every AI Company Copied",
+      "url": "https://qainsights.com/20-month-the-price-ceiling-every-ai-company-copied/",
+      "summary": "Article URL: https://qainsights.com/20-month-the-price-ceiling-every-ai-company-copied/ Comments URL: https://news.ycombinator.com/item?id=48962535 Points: 2 # Comments: 0",
+      "published": "2026-07-18T21:19:30.000Z",
+      "source_id": "hacker-news",
+      "source_name": "Hacker News (filtered)",
+      "source_priority": "low",
+      "source_tier": "B",
+      "source_category": "Community",
+      "relevance_score": 7
+    },
+    {
+      "title": "I asked a psychiatrist I know about the effects of AI",
+      "url": "https://teadrivendevelopment.substack.com/p/i-asked-a-psychiatrist-i-know-about",
+      "summary": "Article URL: https://teadrivendevelopment.substack.com/p/i-asked-a-psychiatrist-i-know-about Comments URL: https://news.ycombinator.com/item?id=48962463 Points: 1 # Comments: 0",
+      "published": "2026-07-18T21:12:06.000Z",
+      "source_id": "hacker-news",
+      "source_name": "Hacker News (filtered)",
+      "source_priority": "low",
+      "source_tier": "B",
+      "source_category": "Community",
+      "relevance_score": 7
+    },
+    {
+      "title": "OpenAI Strategic Lead Defines Open-Source AI as Dystopian Hellscape",
+      "url": "https://twitter.com/deanwball/status/2078133895766114412",
+      "summary": "Article URL: https://twitter.com/deanwball/status/2078133895766114412 Comments URL: https://news.ycombinator.com/item?id=48960571 Points: 2 # Comments: 0",
+      "published": "2026-07-18T18:08:28.000Z",
+      "source_id": "hacker-news",
+      "source_name": "Hacker News (filtered)",
+      "source_priority": "low",
+      "source_tier": "B",
+      "source_category": "Community",
+      "relevance_score": 7
+    },
+    {
       "title": "The Practical Guide to AI-Powered Due Diligence for M&amp;A Professionals - Harvey",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YUjFPU3d4QWRFOWQyb0twMDItZUdSakJzckgxMllQVUxLOWtVX1BpbE50QkQ2MzFKeXYxMk9yVW1SSFJreW9IVlBOWFdQWE4zYkg3YVZwWEJhaEJ5amxPN3hNSmN6dw?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YUjFPU3d4QWRFOWQyb0twMDItZUdSakJzckgxMllQVUxLOWtVX1BpbE50QkQ2MzFKeXYxMk9yVW1SSFJreW9IVlBOWFdQWE4zYkg3YVZwWEJhaEJ5amxPN3hNSmN6dw?oc=5\" target=\"_blank\"&gt;The Practical Guide to AI-Powered Due Diligence for M&amp;A Professionals&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
@@ -416,8 +452,8 @@
     },
     {
       "title": "Developers of the Heroes of Might &amp; Magic V remake on UE5 engine showed progress - unit models, spellbook, and more - ixbt.games",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZVdBNUZSR0hwc1JIRUlkcXNPM3NaLW92bTlEQjN4a3pkQkhRel9CUnozeGgtb1JSNDk0Z3JLRU9oN2RBMWpuc2VVTmN1ZHZlUkF4ZnhON2toLUF6WVBpQTJ3OWxRajFNUTJXUHJuLWs0ZVoxQmlXM1FkT2MtM1NsLXlERnduMjFGdUg4RTR3RUptS1hVZjBhX09weHkxN0dKUzNra2RMM18wanU2NTNEbmxCTko2Z1RiUkFuUDJxTENpRk1PTnIyMGwxWGhHdHRyX2s5Y0NUYVNfUXkzNk9tZVRKQ3pDZG1wVUFnNXdBeEhBMG9r?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZVdBNUZSR0hwc1JIRUlkcXNPM3NaLW92bTlEQjN4a3pkQkhRel9CUnozeGgtb1JSNDk0Z3JLRU9oN2RBMWpuc2VVTmN1ZHZlUkF4ZnhON2toLUF6WVBpQTJ3OWxRajFNUTJXUHJuLWs0ZVoxQmlXM1FkT2MtM1NsLXlERnduMjFGdUg4RTR3RUptS1hVZjBhX09weHkxN0dKUzNra2RMM18wanU2NTNEbmxCTko2Z1RiUkFuUDJxTENpRk1PTnIyMGwxWGhHdHRyX2s5Y0NUYVNfUXkzNk9tZVRKQ3pDZG1wVUFnNXdBeEhBMG9r?oc=5\" target=\"_blank\"&gt;Developers of the Heroes of Might &amp; Magic V remake on UE5 engine showed progress - unit m",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZVdBNUZSR0hwc1JIRUlkcXNPM3NaLW92bTlEQjN4a3pkQkhRel9CUnozeGgtb1JSNDk0Z3JLRU9oN2RBMWpuc2VVTmN1ZHZlUkF4ZnhON2toLUF6WVBpQTJ3OWxRajFNUTJXUHJuLWs0ZVoxQmlXM1FkT2MtM1NsLXlERnduMjFGdUg4RTR3RUptS1hVZjBhX09weHkxN0dKUzNra2RMM18wanU2NTNEbmxCTko2Z1RiUkFuUDJxTENpRk1PTnIyMGwxWGhHdHRyX2s5Y0NUYVNfUXkzNk9tZVRKQ3pDZG1wVUFnNXdBeEhBMG9r0gH6AUFVX3lxTE1SRGN0Z2JmT0ZwM1F0WmZKUlhTd3BJaHhLOGVhZ2JMMF84ekNtU1hUZWROclFCQnM4OURuZE45N3BmVlQtVEZqQVZKUlFWb0toWDVTUi14amV5MGlYVkJjX2c3eUY4UjYyVmZYRGdCb3RBNE0tdE53Y2pha0xvb0RPTkxtRUppWFBPUXV2T2FUNllTTllVTjI1ZmxJWXVpLXNRNDZwVXcxTi1KTmVBMlVRblhHSDRNSEFpZG54X0c2NmIxUUczajQtYndnaHZJMG9MaV9RZDRmdW0zOVBIdzU5eUt4eHc1M3hDVDhmSjN5NDQ4S2hBRVByclE?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZVdBNUZSR0hwc1JIRUlkcXNPM3NaLW92bTlEQjN4a3pkQkhRel9CUnozeGgtb1JSNDk0Z3JLRU9oN2RBMWpuc2VVTmN1ZHZlUkF4ZnhON2toLUF6WVBpQTJ3OWxRajFNUTJXUHJuLWs0ZVoxQmlXM1FkT2MtM1NsLXlERnduMjFGdUg4RTR3RUptS1hVZjBhX09weHkxN0dKUzNra2RMM18wanU2NTNEbmxCTko2Z1RiUkFuUDJxTENpRk1PTnIyMGwxWGhHdHRyX2s5Y0NUYVNfUXkzNk9tZVRKQ3pDZG1wVUFnNXdBeEhBMG9r0gH6AUFVX3lxTE1SRGN0Z2JmT0ZwM1F0WmZKUlhTd3BJaHhLOGVhZ2JMMF84ekNtU1hUZWROclFCQnM4OURuZE45N3BmVlQtVEZqQVZKUlFWb0toWDVTUi1",
       "published": "2026-07-14T10:34:30.000Z",
       "source_id": "google-news-contract-ai",
       "source_name": "Google News: contract AI",
@@ -448,42 +484,6 @@
       "source_priority": "medium",
       "source_tier": "A",
       "source_category": "Aggregator",
-      "relevance_score": 6
-    },
-    {
-      "title": "Spellbook CEO Scott Stevenson exposes inflated ARR practices among AI startups - Crypto Briefing",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBnT3VzYkcxWXNlV1ZHclJyTzJLMEVIUjVUdGt3ZzJOY3JHNmNHNTlKMVc3RkpmbzdZaHlQWFJydXdrOHY0QnZ1VzhMQldYUkhQTmZuXy1Ya2ZRcnVFM0VzVDJZSHNoVG1Ud0dDWVBxc19WejRl?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBnT3VzYkcxWXNlV1ZHclJyTzJLMEVIUjVUdGt3ZzJOY3JHNmNHNTlKMVc3RkpmbzdZaHlQWFJydXdrOHY0QnZ1VzhMQldYUkhQTmZuXy1Ya2ZRcnVFM0VzVDJZSHNoVG1Ud0dDWVBxc19WejRl?oc=5\" target=\"_blank\"&gt;Spellbook CEO Scott Stevenson exposes inflated ARR practices among AI startups&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Crypto Briefing&lt;/font&gt;",
-      "published": "2026-05-22T07:00:00.000Z",
-      "source_id": "google-news-contract-ai",
-      "source_name": "Google News: contract AI",
-      "source_priority": "medium",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
-    },
-    {
-      "title": "This Open Source RP2040 Development Board Looks Like a Magic Spellbook - Hackster.io",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORnVSUlF6azgxa3lnMFFGVmU2dWdTeWRSOE1MV0JtdkViWVNhWkozazFKdy1Xb1FlS3RaTVRxeHExODhPdi1QY2I0UFVPMDdxX2hFdmpUUE5qeFpiX0xrNktLbUZ0Qm96ckY0UlI0enkyTmZVYmpQZmN2b3ByMV9zWnlGVFRnc3ZYLWdHQWdVU3U5WFJLb05YV2E0NlQzWHZCdUNXb2xnMmlsZnNtdzNhdnZ30gG3AUFVX3lxTE5FaHA3Szl0Z2N0ZWUySEJxOFVKUjdGeFdWcF96YUFqdXJpT2VJOG1pcUhwOXgtLWlHOWFXTGhxVVRJeTdZT21mLTJ3cmlydFJMT1hOX3ZhcDFkaUU5MWc5Z1FWV3Z1c2VFLU5pejVmai1Pa19hVUZ5ekc0YnFwWGlSWk9xbndOWVNTVm5FWUFkRE1DQjdoc0RiVnZFb0VjcU1PTS1QNkd4eHExV2ZwLUFVYVhHcHVqZw?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxORnVSUlF6azgxa3lnMFFGVmU2dWdTeWRSOE1MV0JtdkViWVNhWkozazFKdy1Xb1FlS3RaTVRxeHExODhPdi1QY2I0UFVPMDdxX2hFdmpUUE5qeFpiX0xrNktLbUZ0Qm96ckY0UlI0enkyTmZVYmpQZmN2b3ByMV9zWnlGVFRnc3ZYLWdHQWdVU3U5WFJLb05YV2E0NlQzWHZCdUNXb2xnMmlsZnNtdzNhdnZ30gG3AUFVX3lxTE5FaHA3Szl0Z2N0ZWUySEJxOFVKUjdGeFdWcF96YUFqdXJpT2VJOG1pcUhwOXgtLWlHOWFXTGhxVVRJeTdZT21mLTJ3cmlydFJMT1hOX3ZhcDFkaUU5MWc5Z1FWV3Z1c2VFLU5pejVmai1Pa19hVUZ5ekc0YnFwWGlSWk9xbndOWVNTVm5FWUFkRE1DQjdoc0R",
-      "published": "2026-05-28T12:11:48.000Z",
-      "source_id": "google-news-contract-ai",
-      "source_name": "Google News: contract AI",
-      "source_priority": "medium",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
-    },
-    {
-      "title": "LawNext Podcast: Amy Juers and Valerie Chan on Marketing Legal Tech in the Age of AI Search",
-      "url": "https://www.lawnext.com/2026/06/lawnext-podcast-amy-juers-and-valerie-chan-on-marketing-legal-tech-in-the-age-of-ai-search.html",
-      "summary": "Once upon a time, a legal tech vendor’s goal in getting seen by potential customers was to rank on the first page of Google search. But in the age of AI, that is no longer enough. Now, when a potential buyer asks ChatGPT, Claude or Gemini to recommend a vendor, what matters is whether the [&#8230;]",
-      "published": "2026-06-23T13:42:59.000Z",
-      "source_id": "lawsites",
-      "source_name": "LawSites (Bob Ambrogi)",
-      "source_priority": "critical",
-      "source_tier": "B",
-      "source_category": "Legal tech commentary",
       "relevance_score": 6
     }
   ]
