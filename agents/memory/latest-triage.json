@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-19T13:50:49.986Z",
+  "generated": "2026-07-19T16:02:40.862Z",
   "cycle_type": "triage",
   "tier_filter": null,
   "shortlist_size": 3,
@@ -17,26 +17,26 @@
       "id": "hacker-news-0",
       "score": 2,
       "category": "Social",
-      "suggested_angle": "General FT analysis on AI job displacement; no legal angle",
-      "why_now": "Out of scope for legal AI publication; generic labour economics commentary",
+      "suggested_angle": "MLB AI restriction has no legal tech relevance",
+      "why_now": "Prefilter matched 'Eve' (likely a keyword false positive); sports regulation not in scope",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
       "id": "hacker-news-1",
-      "score": 1,
-      "category": "Social",
-      "suggested_angle": "Protest theatre at OpenAI HQ; no legal or legal tech relevance",
-      "why_now": "Activist content, not editorial priority for legal AI publication",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "FT analysis of AI's impact on entry-level work; no legal vertical hook",
+      "why_now": "General AI labour commentary; no legal AI, legal tech, or regulatory angle",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
       "id": "hacker-news-2",
-      "score": 3,
-      "category": "Research",
-      "suggested_angle": "Developer personal project on parallelising Claude coding agents; interesting technique but not legal-domain specific",
-      "why_now": "Show HN is a maker project. No legal tech company, no legal use case, no adoption signal. Low news value.",
+      "score": 2,
+      "category": "Social",
+      "suggested_angle": "Anti-AI activism at OpenAI office; no legal policy or regulation news",
+      "why_now": "Protest coverage; no primary source on legal AI policy or regulation",
       "verdict": "drop",
       "duplicate_of": null
     }
@@ -45,18 +45,18 @@
     "enqueue_count": 0,
     "watch_count": 0,
     "drop_count": 3,
-    "notes": "All three items are out of scope: generic labour commentary, protest theatre, and a solo developer's coding tool. None meet editorial criteria for legal AI, legal tech, regulation, or firm adoption."
+    "notes": "All three items are general-interest AI news with no legal tech, legal AI, regulation, immigration, or firm adoption angle. No editorial fit."
   },
   "enqueued": 0,
   "usage": {
-    "input_tokens": 2604,
+    "input_tokens": 2626,
     "cache_creation_input_tokens": 0,
     "cache_read_input_tokens": 0,
     "cache_creation": {
       "ephemeral_5m_input_tokens": 0,
       "ephemeral_1h_input_tokens": 0
     },
-    "output_tokens": 409,
+    "output_tokens": 394,
     "service_tier": "standard",
     "inference_geo": "not_available"
   }

@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-19T13:40:37.867Z",
+  "generated": "2026-07-19T16:02:35.828Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 1040,
+  "total_scanned": 1036,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -112,18 +112,6 @@
       "source_priority": "medium",
       "source_tier": "A",
       "source_category": "Aggregator",
-      "relevance_score": 9
-    },
-    {
-      "title": "Show HN: Shikigami, run AI coding agents in parallel, each in a Git worktree",
-      "url": "https://shikigami.dev/",
-      "summary": "Hello all, I'm a software developer. Over the last few months more and more of my work has turned into using coding agents instead of typing the whole code myself. Usually a few claude sessions at once, sometimes codex, one per feature or per revealed bug. I ran them in a split terminal for a few weeks, and quickly spotted two main problems. The first is that I couldn't easily tell which agent was stuck waiting on me and which was still working, so I'd cycle through sessions and checking on them",
-      "published": "2026-07-19T08:48:47.000Z",
-      "source_id": "hacker-news",
-      "source_name": "Hacker News (filtered)",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "Community",
       "relevance_score": 9
     },
     {
@@ -295,6 +283,18 @@
       "relevance_score": 7
     },
     {
+      "title": "MLB restricts dugout iPad use to prevent AI help with strategy. Mets involved",
+      "url": "https://apnews.com/article/mlb-ai-ipads-ac940e2490557438f440514977832a74",
+      "summary": "Article URL: https://apnews.com/article/mlb-ai-ipads-ac940e2490557438f440514977832a74 Comments URL: https://news.ycombinator.com/item?id=48968817 Points: 2 # Comments: 2",
+      "published": "2026-07-19T15:06:21.000Z",
+      "source_id": "hacker-news",
+      "source_name": "Hacker News (filtered)",
+      "source_priority": "low",
+      "source_tier": "B",
+      "source_category": "Community",
+      "relevance_score": 7
+    },
+    {
       "title": "AI isn't destroying entry-level jobs. It's changing them",
       "url": "https://www.ft.com/content/6cb9570b-dccd-46f5-b42a-4d0b7b5de35a",
       "summary": "Article URL: https://www.ft.com/content/6cb9570b-dccd-46f5-b42a-4d0b7b5de35a Comments URL: https://news.ycombinator.com/item?id=48967897 Points: 1 # Comments: 1",
@@ -309,7 +309,7 @@
     {
       "title": "Anti-AI protest reaches OpenAI HQ",
       "url": "https://www.msn.com/en-in/money/topstories/anti-ai-protest-reaches-openai-hq-why-protesters-left-body-bags-outside-office/",
-      "summary": "Article URL: https://www.msn.com/en-in/money/topstories/anti-ai-protest-reaches-openai-hq-why-protesters-left-body-bags-outside-office/ Comments URL: https://news.ycombinator.com/item?id=48967131 Points: 4 # Comments: 1",
+      "summary": "Article URL: https://www.msn.com/en-in/money/topstories/anti-ai-protest-reaches-openai-hq-why-protesters-left-body-bags-outside-office/ Comments URL: https://news.ycombinator.com/item?id=48967131 Points: 4 # Comments: 3",
       "published": "2026-07-19T11:31:57.000Z",
       "source_id": "hacker-news",
       "source_name": "Hacker News (filtered)",
