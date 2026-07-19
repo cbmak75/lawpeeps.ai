@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-19T08:29:02.426Z",
+  "generated": "2026-07-19T10:39:38.132Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 1025,
+  "total_scanned": 1026,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -112,6 +112,18 @@
       "source_priority": "medium",
       "source_tier": "A",
       "source_category": "Aggregator",
+      "relevance_score": 9
+    },
+    {
+      "title": "Show HN: Shikigami, run AI coding agents in parallel, each in a Git worktree",
+      "url": "https://shikigami.dev/",
+      "summary": "Hello all, I'm a software developer. Over the last few months more and more of my work has turned into using coding agents instead of typing the whole code myself. Usually a few claude sessions at once, sometimes codex, one per feature or per revealed bug. I ran them in a split terminal for a few weeks, and quickly spotted two main problems. The first is that I couldn't easily tell which agent was stuck waiting on me and which was still working, so I'd cycle through sessions and checking on them",
+      "published": "2026-07-19T08:48:47.000Z",
+      "source_id": "hacker-news",
+      "source_name": "Hacker News (filtered)",
+      "source_priority": "low",
+      "source_tier": "B",
+      "source_category": "Community",
       "relevance_score": 9
     },
     {
@@ -259,18 +271,6 @@
       "relevance_score": 7
     },
     {
-      "title": "AI should have senior lawyers sharpening their hunting spears - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxON0tWR1RwMXZzZGFaOFVfSkVRT01nWl9ZRWFOX0hPNllIMnVqTTJUa2hLR0VWX0owamVtclRVRDNBTFZ5T0dYNEVEb0kxQVdPTW1BSFRBM2lvbzVOSjdDbW80MDIxZVhSUVVNNG1pQkJRS0dmUVl6OGdCcDJ2T0JCdjhhMkc?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxON0tWR1RwMXZzZGFaOFVfSkVRT01nWl9ZRWFOX0hPNllIMnVqTTJUa2hLR0VWX0owamVtclRVRDNBTFZ5T0dYNEVEb0kxQVdPTW1BSFRBM2lvbzVOSjdDbW80MDIxZVhSUVVNNG1pQkJRS0dmUVl6OGdCcDJ2T0JCdjhhMkc?oc=5\" target=\"_blank\"&gt;AI should have senior lawyers sharpening their hunting spears&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Financial Times&lt;/font&gt;",
-      "published": "2026-07-19T04:00:12.000Z",
-      "source_id": "google-news-law-firm-ai",
-      "source_name": "Google News: law firm AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 7
-    },
-    {
       "title": "Juro Goes Direct to ChatGPT For Contract AI - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWTB4VVlWclpYMExWSFdxaWpHaXdNYXQ3UnQyWGJKemgtOGtoanNPVWZrVHRuVWdma00xUnhaTlF5TXl4SjQycDFLZjNwb0xMTHljWm9Lc3I4V0NvTnY2RXVFeGJfUHV3MzhTNnJPeGdEdmNqcUQza0ZpU3hmUFBHc3ZqUEF2dUNnVW8yN2NETHBMZw?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQWTB4VVlWclpYMExWSFdxaWpHaXdNYXQ3UnQyWGJKemgtOGtoanNPVWZrVHRuVWdma00xUnhaTlF5TXl4SjQycDFLZjNwb0xMTHljWm9Lc3I4V0NvTnY2RXVFeGJfUHV3MzhTNnJPeGdEdmNqcUQza0ZpU3hmUFBHc3ZqUEF2dUNnVW8yN2NETHBMZw?oc=5\" target=\"_blank\"&gt;Juro Goes Direct to ChatGPT For Contract AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
@@ -323,30 +323,6 @@
       "url": "https://news.ycombinator.com/item?id=48965516",
       "summary": "So am looking for more normal people, experienced people using AI, but I feel like whenever I hit youtube or other platforms the AI culture is way deep in the trenches and don't feel like this is how the majority of people tackle work, especially at their jobs. What I see is mostly solo-devs going full battlestar gallactica on things. And I just want to see other people, normal people talk about and show how they use these new tools. I'm also more interested in the first principles of things and",
       "published": "2026-07-19T06:35:29.000Z",
-      "source_id": "hacker-news",
-      "source_name": "Hacker News (filtered)",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "Community",
-      "relevance_score": 7
-    },
-    {
-      "title": "Show HN: Zlvox – 25 Free Developer Tools (AI, JSON, PDF) with Zero Tracking",
-      "url": "https://zlvox.com/",
-      "summary": "Article URL: https://zlvox.com/ Comments URL: https://news.ycombinator.com/item?id=48965137 Points: 3 # Comments: 2",
-      "published": "2026-07-19T05:02:30.000Z",
-      "source_id": "hacker-news",
-      "source_name": "Hacker News (filtered)",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "Community",
-      "relevance_score": 7
-    },
-    {
-      "title": "Show HN - Online developer profiles with embedded AI hypeman",
-      "url": "https://engineerprofiles.com",
-      "summary": "Article URL: https://engineerprofiles.com Comments URL: https://news.ycombinator.com/item?id=48964896 Points: 1 # Comments: 0",
-      "published": "2026-07-19T04:10:23.000Z",
       "source_id": "hacker-news",
       "source_name": "Hacker News (filtered)",
       "source_priority": "low",
@@ -479,6 +455,30 @@
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZVdBNUZSR0hwc1JIRUlkcXNPM3NaLW92bTlEQjN4a3pkQkhRel9CUnozeGgtb1JSNDk0Z3JLRU9oN2RBMWpuc2VVTmN1ZHZlUkF4ZnhON2toLUF6WVBpQTJ3OWxRajFNUTJXUHJuLWs0ZVoxQmlXM1FkT2MtM1NsLXlERnduMjFGdUg4RTR3RUptS1hVZjBhX09weHkxN0dKUzNra2RMM18wanU2NTNEbmxCTko2Z1RiUkFuUDJxTENpRk1PTnIyMGwxWGhHdHRyX2s5Y0NUYVNfUXkzNk9tZVRKQ3pDZG1wVUFnNXdBeEhBMG9r0gH6AUFVX3lxTE1SRGN0Z2JmT0ZwM1F0WmZKUlhTd3BJaHhLOGVhZ2JMMF84ekNtU1hUZWROclFCQnM4OURuZE45N3BmVlQtVEZqQVZKUlFWb0toWDVTUi14amV5MGlYVkJjX2c3eUY4UjYyVmZYRGdCb3RBNE0tdE53Y2pha0xvb0RPTkxtRUppWFBPUXV2T2FUNllTTllVTjI1ZmxJWXVpLXNRNDZwVXcxTi1KTmVBMlVRblhHSDRNSEFpZG54X0c2NmIxUUczajQtYndnaHZJMG9MaV9RZDRmdW0zOVBIdzU5eUt4eHc1M3hDVDhmSjN5NDQ4S2hBRVByclE?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZVdBNUZSR0hwc1JIRUlkcXNPM3NaLW92bTlEQjN4a3pkQkhRel9CUnozeGgtb1JSNDk0Z3JLRU9oN2RBMWpuc2VVTmN1ZHZlUkF4ZnhON2toLUF6WVBpQTJ3OWxRajFNUTJXUHJuLWs0ZVoxQmlXM1FkT2MtM1NsLXlERnduMjFGdUg4RTR3RUptS1hVZjBhX09weHkxN0dKUzNra2RMM18wanU2NTNEbmxCTko2Z1RiUkFuUDJxTENpRk1PTnIyMGwxWGhHdHRyX2s5Y0NUYVNfUXkzNk9tZVRKQ3pDZG1wVUFnNXdBeEhBMG9r0gH6AUFVX3lxTE1SRGN0Z2JmT0ZwM1F0WmZKUlhTd3BJaHhLOGVhZ2JMMF84ekNtU1hUZWROclFCQnM4OURuZE45N3BmVlQtVEZqQVZKUlFWb0toWDVTUi1",
       "published": "2026-07-14T10:34:30.000Z",
+      "source_id": "google-news-contract-ai",
+      "source_name": "Google News: contract AI",
+      "source_priority": "medium",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
+    },
+    {
+      "title": "Legaltech Rundown: Spellbook Launches iManage Integration, Norm Law Announces New Big Law Hires, and More - Law.com",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONHBNemtNcXRjaFFudFBJRG0xV0M5QlJ2dlhGWm0xcFluNjVJSW1GNVpVU09MQktGZ3Rwcy1scXBVdGNxeFRuY3oyVkRMZVBEMnBwV2szTTAybTZHVkJmdy1mcl9RTDBjRGx0RFVEeU9Kd3loZ2hRT0trWW1mUGJTY3BQUlBzQ203dzB4ZEFULTJUbGxFZXV5WmNLYnhBaW9ubE91WjVZbUpWZE1MemZfUkV3dkl6YWFhanJCVlA3UFVTZ2pna1ItMkJEelM0dnRDelhoZjVRcmN2ZHBXdWJickpUYjJlY0dDUFE?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxONHBNemtNcXRjaFFudFBJRG0xV0M5QlJ2dlhGWm0xcFluNjVJSW1GNVpVU09MQktGZ3Rwcy1scXBVdGNxeFRuY3oyVkRMZVBEMnBwV2szTTAybTZHVkJmdy1mcl9RTDBjRGx0RFVEeU9Kd3loZ2hRT0trWW1mUGJTY3BQUlBzQ203dzB4ZEFULTJUbGxFZXV5WmNLYnhBaW9ubE91WjVZbUpWZE1MemZfUkV3dkl6YWFhanJCVlA3UFVTZ2pna1ItMkJEelM0dnRDelhoZjVRcmN2ZHBXdWJickpUYjJlY0dDUFE?oc=5\" target=\"_blank\"&gt;Legaltech Rundown: Spellbook Launches iManage Integration, Norm Law Announces New Big Law Hires, and More&",
+      "published": "2026-05-01T07:00:00.000Z",
+      "source_id": "google-news-contract-ai",
+      "source_name": "Google News: contract AI",
+      "source_priority": "medium",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
+    },
+    {
+      "title": "Spellbook on Track for US$100M ARR this Year - Entrevestor",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41c1pKSUJCbkYtbXFsUmpLV1dfeGNxSlZtU1B0bEZ6U0tZOXlSVFp5U3V5LTR6RG01amxrNUp1bFhRT0FhVmhxeS1oNks4Q1pfcFpWYXFqcHdaM29XWUtGVjJCdzYydTR3dFNadWtpNEQ1YlRNX2tNOV9BU0U?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE41c1pKSUJCbkYtbXFsUmpLV1dfeGNxSlZtU1B0bEZ6U0tZOXlSVFp5U3V5LTR6RG01amxrNUp1bFhRT0FhVmhxeS1oNks4Q1pfcFpWYXFqcHdaM29XWUtGVjJCdzYydTR3dFNadWtpNEQ1YlRNX2tNOV9BU0U?oc=5\" target=\"_blank\"&gt;Spellbook on Track for US$100M ARR this Year&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Entrevestor&lt;/font&gt;",
+      "published": "2026-03-04T08:00:00.000Z",
       "source_id": "google-news-contract-ai",
       "source_name": "Google News: contract AI",
       "source_priority": "medium",
