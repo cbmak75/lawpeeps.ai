@@ -1,63 +1,14 @@
 {
-  "generated": "2026-07-19T16:02:40.862Z",
+  "generated": "2026-07-19T19:16:24.420Z",
   "cycle_type": "triage",
-  "tier_filter": null,
-  "shortlist_size": 3,
+  "shortlist_size": 0,
+  "picks": [],
   "prefilter": {
     "total": 40,
-    "accepted": 3,
+    "accepted": 0,
     "borderline": 0,
-    "rejected": 37,
-    "rejected_as_duplicate": 37,
-    "accept_rate": 8
-  },
-  "model": "claude-haiku-4-5-20251001",
-  "picks": [
-    {
-      "id": "hacker-news-0",
-      "score": 2,
-      "category": "Social",
-      "suggested_angle": "MLB AI restriction has no legal tech relevance",
-      "why_now": "Prefilter matched 'Eve' (likely a keyword false positive); sports regulation not in scope",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "hacker-news-1",
-      "score": 3,
-      "category": "Research",
-      "suggested_angle": "FT analysis of AI's impact on entry-level work; no legal vertical hook",
-      "why_now": "General AI labour commentary; no legal AI, legal tech, or regulatory angle",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "hacker-news-2",
-      "score": 2,
-      "category": "Social",
-      "suggested_angle": "Anti-AI activism at OpenAI office; no legal policy or regulation news",
-      "why_now": "Protest coverage; no primary source on legal AI policy or regulation",
-      "verdict": "drop",
-      "duplicate_of": null
-    }
-  ],
-  "summary": {
-    "enqueue_count": 0,
-    "watch_count": 0,
-    "drop_count": 3,
-    "notes": "All three items are general-interest AI news with no legal tech, legal AI, regulation, immigration, or firm adoption angle. No editorial fit."
-  },
-  "enqueued": 0,
-  "usage": {
-    "input_tokens": 2626,
-    "cache_creation_input_tokens": 0,
-    "cache_read_input_tokens": 0,
-    "cache_creation": {
-      "ephemeral_5m_input_tokens": 0,
-      "ephemeral_1h_input_tokens": 0
-    },
-    "output_tokens": 394,
-    "service_tier": "standard",
-    "inference_geo": "not_available"
+    "rejected": 40,
+    "rejected_as_duplicate": 40,
+    "accept_rate": 0
   }
 }
