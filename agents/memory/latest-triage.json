@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-19T10:39:48.170Z",
+  "generated": "2026-07-19T13:50:49.986Z",
   "cycle_type": "triage",
   "tier_filter": null,
   "shortlist_size": 3,
@@ -15,28 +15,28 @@
   "picks": [
     {
       "id": "hacker-news-0",
-      "score": 3,
+      "score": 2,
       "category": "Social",
-      "suggested_angle": "Developer workflow tool for parallel AI coding agents; no legal angle.",
-      "why_now": "Outside editorial scope; general dev tooling, not legal AI or legal tech.",
+      "suggested_angle": "General FT analysis on AI job displacement; no legal angle",
+      "why_now": "Out of scope for legal AI publication; generic labour economics commentary",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
       "id": "hacker-news-1",
-      "score": 3,
+      "score": 1,
       "category": "Social",
-      "suggested_angle": "Startup pitch for generic AI workforce; no legal vertical focus.",
-      "why_now": "Generic enterprise AI infrastructure; not legal tech, no legal sector signal.",
+      "suggested_angle": "Protest theatre at OpenAI HQ; no legal or legal tech relevance",
+      "why_now": "Activist content, not editorial priority for legal AI publication",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
       "id": "hacker-news-2",
-      "score": 2,
-      "category": "Social",
-      "suggested_angle": "Community discussion thread on AI adoption patterns; aggregated commentary.",
-      "why_now": "Low-value community Q&A with no primary source, no legal context, no news hook.",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "Developer personal project on parallelising Claude coding agents; interesting technique but not legal-domain specific",
+      "why_now": "Show HN is a maker project. No legal tech company, no legal use case, no adoption signal. Low news value.",
       "verdict": "drop",
       "duplicate_of": null
     }
@@ -45,18 +45,18 @@
     "enqueue_count": 0,
     "watch_count": 0,
     "drop_count": 3,
-    "notes": "All three items are general software/AI community content with zero legal, legal tech, or legal AI relevance. None match editorial focus."
+    "notes": "All three items are out of scope: generic labour commentary, protest theatre, and a solo developer's coding tool. None meet editorial criteria for legal AI, legal tech, regulation, or firm adoption."
   },
   "enqueued": 0,
   "usage": {
-    "input_tokens": 2528,
+    "input_tokens": 2604,
     "cache_creation_input_tokens": 0,
     "cache_read_input_tokens": 0,
     "cache_creation": {
       "ephemeral_5m_input_tokens": 0,
       "ephemeral_1h_input_tokens": 0
     },
-    "output_tokens": 383,
+    "output_tokens": 409,
     "service_tier": "standard",
     "inference_geo": "not_available"
   }

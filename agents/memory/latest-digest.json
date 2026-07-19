@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-19T10:39:38.132Z",
+  "generated": "2026-07-19T13:40:37.867Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 1026,
+  "total_scanned": 1040,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -199,18 +199,6 @@
       "relevance_score": 8
     },
     {
-      "title": "Harvey AI's 12x token surge reveals that legal AI has crossed from experiment to infrastructure - Startup Fortune",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd2E2WDlBRmduLTdnWkZfLV90MkJWaEZwZVZQeFl1OTN6NjBmTTZ5aTdTOUx2VFRmcHRYMjUtV2E4ZzFld0N5QTZJNU1zRDFfQ1NCSGhRMFdTLU5Uclc4ck1kcDQxX0dlM3NBaXI0V1FqSk45NTcyRUU5NHRfb3F5bFRXOEhLVmgwUmJzWkQ3WUdPYUtiSnpXcEd3QU5iWXpHR0MxYVdXejRiMlN6ZUJ5SGk5Ql9obXNSTUhVUnpubw?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOd2E2WDlBRmduLTdnWkZfLV90MkJWaEZwZVZQeFl1OTN6NjBmTTZ5aTdTOUx2VFRmcHRYMjUtV2E4ZzFld0N5QTZJNU1zRDFfQ1NCSGhRMFdTLU5Uclc4ck1kcDQxX0dlM3NBaXI0V1FqSk45NTcyRUU5NHRfb3F5bFRXOEhLVmgwUmJzWkQ3WUdPYUtiSnpXcEd3QU5iWXpHR0MxYVdXejRiMlN6ZUJ5SGk5Ql9obXNSTUhVUnpubw?oc=5\" target=\"_blank\"&gt;Harvey AI's 12x token surge reveals that legal AI has crossed from experiment to infrastructure&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Startup Fo",
-      "published": "2026-06-19T07:00:00.000Z",
-      "source_id": "google-news-harvey-luminance",
-      "source_name": "Google News: Harvey OR Luminance",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 8
-    },
-    {
       "title": "GPT-5 Launches: Harvey, Spellbook, Legora + TR Already Have It - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPakxDaENfTFFVRjVLRjZQSWplRnJwcUFCQWRtNkUyaUh4T1RvT1Rkc0R3NVZxb095ODN4eGIyREhjTUJTTDFvcmN0cV81OE5Md2k0WS1IVGRJWGdaT1BFaFJDUjdRSkU1ZXZqQTFFUXBQVmFpSndTNFVsb3BEMjN1MnJueW11QmZSWWpzZWhJVndMVk1qSlY1bzhlQQ?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPakxDaENfTFFVRjVLRjZQSWplRnJwcUFCQWRtNkUyaUh4T1RvT1Rkc0R3NVZxb095ODN4eGIyREhjTUJTTDFvcmN0cV81OE5Md2k0WS1IVGRJWGdaT1BFaFJDUjdRSkU1ZXZqQTFFUXBQVmFpSndTNFVsb3BEMjN1MnJueW11QmZSWWpzZWhJVndMVk1qSlY1bzhlQQ?oc=5\" target=\"_blank\"&gt;GPT-5 Launches: Harvey, Spellbook, Legora + TR Already Have It&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
@@ -307,10 +295,10 @@
       "relevance_score": 7
     },
     {
-      "title": "Prodigy – AI Workforce for professional teams",
-      "url": "https://news.ycombinator.com/item?id=48965750",
-      "summary": "Hello folks! I am Samay, founder of Prodigy. We're building an AI infrastructure that provides on-demand subagents who work like autonomous teammates alongside your team. How are we any different? 1. Our Prodigy brain indexes every bit of information from tools used by your company. This includes emails, documents, meetings, conversations, git work, CRM etc. The agents communicate with the brain instead of humans. 2. The Prodigy orchestrator spins up agents with designated roles and goals. Each ",
-      "published": "2026-07-19T07:34:01.000Z",
+      "title": "AI isn't destroying entry-level jobs. It's changing them",
+      "url": "https://www.ft.com/content/6cb9570b-dccd-46f5-b42a-4d0b7b5de35a",
+      "summary": "Article URL: https://www.ft.com/content/6cb9570b-dccd-46f5-b42a-4d0b7b5de35a Comments URL: https://news.ycombinator.com/item?id=48967897 Points: 1 # Comments: 1",
+      "published": "2026-07-19T13:05:42.000Z",
       "source_id": "hacker-news",
       "source_name": "Hacker News (filtered)",
       "source_priority": "low",
@@ -319,10 +307,10 @@
       "relevance_score": 7
     },
     {
-      "title": "Ask HN: How do you as a normal swe use AI?",
-      "url": "https://news.ycombinator.com/item?id=48965516",
-      "summary": "So am looking for more normal people, experienced people using AI, but I feel like whenever I hit youtube or other platforms the AI culture is way deep in the trenches and don't feel like this is how the majority of people tackle work, especially at their jobs. What I see is mostly solo-devs going full battlestar gallactica on things. And I just want to see other people, normal people talk about and show how they use these new tools. I'm also more interested in the first principles of things and",
-      "published": "2026-07-19T06:35:29.000Z",
+      "title": "Anti-AI protest reaches OpenAI HQ",
+      "url": "https://www.msn.com/en-in/money/topstories/anti-ai-protest-reaches-openai-hq-why-protesters-left-body-bags-outside-office/",
+      "summary": "Article URL: https://www.msn.com/en-in/money/topstories/anti-ai-protest-reaches-openai-hq-why-protesters-left-body-bags-outside-office/ Comments URL: https://news.ycombinator.com/item?id=48967131 Points: 4 # Comments: 1",
+      "published": "2026-07-19T11:31:57.000Z",
       "source_id": "hacker-news",
       "source_name": "Hacker News (filtered)",
       "source_priority": "low",
@@ -479,6 +467,18 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41c1pKSUJCbkYtbXFsUmpLV1dfeGNxSlZtU1B0bEZ6U0tZOXlSVFp5U3V5LTR6RG01amxrNUp1bFhRT0FhVmhxeS1oNks4Q1pfcFpWYXFqcHdaM29XWUtGVjJCdzYydTR3dFNadWtpNEQ1YlRNX2tNOV9BU0U?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE41c1pKSUJCbkYtbXFsUmpLV1dfeGNxSlZtU1B0bEZ6U0tZOXlSVFp5U3V5LTR6RG01amxrNUp1bFhRT0FhVmhxeS1oNks4Q1pfcFpWYXFqcHdaM29XWUtGVjJCdzYydTR3dFNadWtpNEQ1YlRNX2tNOV9BU0U?oc=5\" target=\"_blank\"&gt;Spellbook on Track for US$100M ARR this Year&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Entrevestor&lt;/font&gt;",
       "published": "2026-03-04T08:00:00.000Z",
+      "source_id": "google-news-contract-ai",
+      "source_name": "Google News: contract AI",
+      "source_priority": "medium",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
+    },
+    {
+      "title": "Spellbook CEO Scott Stevenson exposes inflated ARR practices among AI startups - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBnT3VzYkcxWXNlV1ZHclJyTzJLMEVIUjVUdGt3ZzJOY3JHNmNHNTlKMVc3RkpmbzdZaHlQWFJydXdrOHY0QnZ1VzhMQldYUkhQTmZuXy1Ya2ZRcnVFM0VzVDJZSHNoVG1Ud0dDWVBxc19WejRl?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBnT3VzYkcxWXNlV1ZHclJyTzJLMEVIUjVUdGt3ZzJOY3JHNmNHNTlKMVc3RkpmbzdZaHlQWFJydXdrOHY0QnZ1VzhMQldYUkhQTmZuXy1Ya2ZRcnVFM0VzVDJZSHNoVG1Ud0dDWVBxc19WejRl?oc=5\" target=\"_blank\"&gt;Spellbook CEO Scott Stevenson exposes inflated ARR practices among AI startups&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Crypto Briefing&lt;/font&gt;",
+      "published": "2026-05-22T07:00:00.000Z",
       "source_id": "google-news-contract-ai",
       "source_name": "Google News: contract AI",
       "source_priority": "medium",
