@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-18T21:57:03.229Z",
+  "generated": "2026-07-19T03:35:08.903Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 1029,
+  "total_scanned": 1016,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -283,10 +283,10 @@
       "relevance_score": 7
     },
     {
-      "title": "$20/Month: The Price Ceiling Every AI Company Copied",
-      "url": "https://qainsights.com/20-month-the-price-ceiling-every-ai-company-copied/",
-      "summary": "Article URL: https://qainsights.com/20-month-the-price-ceiling-every-ai-company-copied/ Comments URL: https://news.ycombinator.com/item?id=48962535 Points: 2 # Comments: 0",
-      "published": "2026-07-18T21:19:30.000Z",
+      "title": "No, an AI cannot know the future and never will..",
+      "url": "https://pulkitsharma.substack.com/p/no-an-ai-cannot-know-the-future-and",
+      "summary": "Article URL: https://pulkitsharma.substack.com/p/no-an-ai-cannot-know-the-future-and Comments URL: https://news.ycombinator.com/item?id=48964113 Points: 2 # Comments: 0",
+      "published": "2026-07-19T01:15:43.000Z",
       "source_id": "hacker-news",
       "source_name": "Hacker News (filtered)",
       "source_priority": "low",
@@ -295,22 +295,10 @@
       "relevance_score": 7
     },
     {
-      "title": "I asked a psychiatrist I know about the effects of AI",
-      "url": "https://teadrivendevelopment.substack.com/p/i-asked-a-psychiatrist-i-know-about",
-      "summary": "Article URL: https://teadrivendevelopment.substack.com/p/i-asked-a-psychiatrist-i-know-about Comments URL: https://news.ycombinator.com/item?id=48962463 Points: 1 # Comments: 0",
-      "published": "2026-07-18T21:12:06.000Z",
-      "source_id": "hacker-news",
-      "source_name": "Hacker News (filtered)",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "Community",
-      "relevance_score": 7
-    },
-    {
-      "title": "OpenAI Strategic Lead Defines Open-Source AI as Dystopian Hellscape",
-      "url": "https://twitter.com/deanwball/status/2078133895766114412",
-      "summary": "Article URL: https://twitter.com/deanwball/status/2078133895766114412 Comments URL: https://news.ycombinator.com/item?id=48960571 Points: 2 # Comments: 0",
-      "published": "2026-07-18T18:08:28.000Z",
+      "title": "Show HN: Ilya Sutskever's AI reading list into a learning RPG – using kimi k3",
+      "url": "https://ilya-papers-quest.naigap.com/#/",
+      "summary": "I wanted to take kimi k3 for a spin. It turned my simple one sentence prompt to this. Repo here. https://github.com/praveer13/ilya-papers-quest Well, I'm mindblown. Very humbling for me as a software engineer. Took couple hours for it to build this completely autonomously. And it was all from its mobile app. It couldn't render this though from within the app - it does have a feature to preview any website and publish it on kimi's domain - but it didn't work for this. I had to put it on github pa",
+      "published": "2026-07-18T22:54:18.000Z",
       "source_id": "hacker-news",
       "source_name": "Hacker News (filtered)",
       "source_priority": "low",
@@ -479,6 +467,18 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41c1pKSUJCbkYtbXFsUmpLV1dfeGNxSlZtU1B0bEZ6U0tZOXlSVFp5U3V5LTR6RG01amxrNUp1bFhRT0FhVmhxeS1oNks4Q1pfcFpWYXFqcHdaM29XWUtGVjJCdzYydTR3dFNadWtpNEQ1YlRNX2tNOV9BU0U?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE41c1pKSUJCbkYtbXFsUmpLV1dfeGNxSlZtU1B0bEZ6U0tZOXlSVFp5U3V5LTR6RG01amxrNUp1bFhRT0FhVmhxeS1oNks4Q1pfcFpWYXFqcHdaM29XWUtGVjJCdzYydTR3dFNadWtpNEQ1YlRNX2tNOV9BU0U?oc=5\" target=\"_blank\"&gt;Spellbook on Track for US$100M ARR this Year&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Entrevestor&lt;/font&gt;",
       "published": "2026-03-04T08:00:00.000Z",
+      "source_id": "google-news-contract-ai",
+      "source_name": "Google News: contract AI",
+      "source_priority": "medium",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
+    },
+    {
+      "title": "Spellbook CEO Scott Stevenson exposes inflated ARR practices among AI startups - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBnT3VzYkcxWXNlV1ZHclJyTzJLMEVIUjVUdGt3ZzJOY3JHNmNHNTlKMVc3RkpmbzdZaHlQWFJydXdrOHY0QnZ1VzhMQldYUkhQTmZuXy1Ya2ZRcnVFM0VzVDJZSHNoVG1Ud0dDWVBxc19WejRl?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBnT3VzYkcxWXNlV1ZHclJyTzJLMEVIUjVUdGt3ZzJOY3JHNmNHNTlKMVc3RkpmbzdZaHlQWFJydXdrOHY0QnZ1VzhMQldYUkhQTmZuXy1Ya2ZRcnVFM0VzVDJZSHNoVG1Ud0dDWVBxc19WejRl?oc=5\" target=\"_blank\"&gt;Spellbook CEO Scott Stevenson exposes inflated ARR practices among AI startups&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Crypto Briefing&lt;/font&gt;",
+      "published": "2026-05-22T07:00:00.000Z",
       "source_id": "google-news-contract-ai",
       "source_name": "Google News: contract AI",
       "source_priority": "medium",
