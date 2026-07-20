@@ -1,62 +1,80 @@
 {
-  "generated": "2026-07-20T19:51:26.971Z",
+  "generated": "2026-07-20T22:07:11.913Z",
   "cycle_type": "triage",
   "tier_filter": null,
-  "shortlist_size": 3,
+  "shortlist_size": 5,
   "prefilter": {
     "total": 40,
-    "accepted": 2,
+    "accepted": 4,
     "borderline": 1,
-    "rejected": 37,
-    "rejected_as_duplicate": 37,
-    "accept_rate": 5
+    "rejected": 35,
+    "rejected_as_duplicate": 35,
+    "accept_rate": 10
   },
   "model": "claude-haiku-4-5-20251001",
   "picks": [
     {
+      "id": "google-news-legal-ai-1",
+      "score": 7,
+      "category": "Legal AI",
+      "suggested_angle": "Stanford HAI on legibility and explainability crisis in legal AI systems",
+      "why_now": "Tier A source (Google News critical); substantive critique of legal AI transparency and interpretability gap, aligns with editorial thread on AI responsibility and accuracy",
+      "verdict": "watch",
+      "duplicate_of": null
+    },
+    {
       "id": "arxiv-cs-ai-0",
       "score": 2,
       "category": "Research",
-      "suggested_angle": "Academic paper on LLM-driven AutoML for OCR; no legal or regulatory angle.",
-      "why_now": "Pure ML research with no connection to legal AI, legal tech, or regulation.",
+      "suggested_angle": "Academic paper on OCR neural architecture search",
+      "why_now": "Out of scope: pure ML research with no legal application hook, no legal tech angle despite keyword match on LLM names",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
-      "id": "arxiv-cs-ai-1",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "Academic study of toxicity detection in code-mixed text; no legal application.",
-      "why_now": "General AI safety/NLP work; no legal sector relevance.",
+      "id": "hacker-news-2",
+      "score": 3,
+      "category": "Legal AI",
+      "suggested_angle": "Open-source memory framework for Claude code context retention",
+      "why_now": "Addresses real UX pain (session amnesia) but is a single developer side project; not a major firm or funded legal AI play; lacks primary news hook beyond GitHub launch",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
-      "id": "arxiv-cs-ai-2",
+      "id": "arxiv-cs-ai-3",
       "score": 2,
       "category": "Research",
-      "suggested_angle": "Comparative evaluation of LLMs for financial market analysis; no legal angle.",
-      "why_now": "Finance/trading application of LLMs; outside editorial remit entirely.",
+      "suggested_angle": "Academic study on toxicity detection reliability across languages",
+      "why_now": "Out of scope: linguistic/NLP research on content moderation; no legal tech or legal AI application",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-4",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "LLM performance benchmarking on financial market analysis",
+      "why_now": "Out of scope: fintech, not legal; no legal AI angle despite LLM keywords",
       "verdict": "drop",
       "duplicate_of": null
     }
   ],
   "summary": {
     "enqueue_count": 0,
-    "watch_count": 0,
-    "drop_count": 3,
-    "notes": "All three arXiv papers are general AI research with no legal, regulatory, legal tech, or immigration law angle. None match editorial focus."
+    "watch_count": 1,
+    "drop_count": 4,
+    "notes": "Weak shortlist: 4x pure academic/research papers out of scope, 1x Stanford HAI piece on legal AI legibility warrants editor review but needs source verification (Google News feed, not primary link)"
   },
   "enqueued": 0,
   "usage": {
-    "input_tokens": 2608,
+    "input_tokens": 3209,
     "cache_creation_input_tokens": 0,
     "cache_read_input_tokens": 0,
     "cache_creation": {
       "ephemeral_5m_input_tokens": 0,
       "ephemeral_1h_input_tokens": 0
     },
-    "output_tokens": 399,
+    "output_tokens": 653,
     "service_tier": "standard",
     "inference_geo": "not_available"
   }

@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-20T19:51:16.881Z",
+  "generated": "2026-07-20T22:06:59.813Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 1208,
+  "total_scanned": 1228,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -127,6 +127,18 @@
       "relevance_score": 9
     },
     {
+      "title": "Show HN: Cognikernel- Local Memory for AI Coding Assistants",
+      "url": "https://github.com/KanishkNoir/cognikernel",
+      "summary": "Every coding session in claude code/ codex starts blindly. It forgets the archiectural decisions you made in a session you ran yesterday/ a week ago or a month ago. We end up depending on maintaining a Claude.md file or diff markdown files that these agents rely on their memory features. I started building CogniKernel to solve this problem. Instead of relying on markdown memory files, CogniKernel observes the coding session itself. It captures decisions, constraints, architectural decisions, pro",
+      "published": "2026-07-20T20:20:10.000Z",
+      "source_id": "hacker-news",
+      "source_name": "Hacker News (filtered)",
+      "source_priority": "low",
+      "source_tier": "B",
+      "source_category": "Community",
+      "relevance_score": 9
+    },
+    {
       "title": "Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook partners with CBA; DeepIP raises $25m - Legal IT Insider",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcXJGTU9ucEc1azNNOTZ3eWI1dldHblpjS0lIdG9jTy1YSE1SSEdlWXlqa041bzd4R052ckZLZG1TQnh6eUE1bFhEV0FyYlFndF84Z1hTczZXZ0IzOVRoMF9jWHhkMXp2X2tjenNUMktCZWM1eVlvM0tjZEpvX2ZoeUpaTUN5UTZUaDJEWWdvVDFJZWpGYTZiQV8ycEc1dEJRMTJCWktEV3IwX3FoX1F6cFk5dkJ1VUtHaURCWmlBTUpTcFRJQVk3cmYxODlsMEpjQnRMdHkwLWNoR1lzT01jRmJlSjJwdw?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcXJGTU9ucEc1azNNOTZ3eWI1dldHblpjS0lIdG9jTy1YSE1SSEdlWXlqa041bzd4R052ckZLZG1TQnh6eUE1bFhEV0FyYlFndF84Z1hTczZXZ0IzOVRoMF9jWHhkMXp2X2tjenNUMktCZWM1eVlvM0tjZEpvX2ZoeUpaTUN5UTZUaDJEWWdvVDFJZWpGYTZiQV8ycEc1dEJRMTJCWktEV3IwX3FoX1F6cFk5dkJ1VUtHaURCWmlBTUpTcFRJQVk3cmYxODlsMEpjQnRMdHkwLWNoR1lzT01jRmJlSjJwdw?oc=5\" target=\"_blank\"&gt;Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook partners with CBA; De",
@@ -247,18 +259,6 @@
       "relevance_score": 8
     },
     {
-      "title": "Harvey acquires US investment firm-focused AI platform Benchmark - The Global Legal Post",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYmJOSnYtXzY5VHZ3WXkyQXBobHdwR0pIb0lsZEVyYlNqVERpdlI1RDB4U3Ywb1YwdGIxelFydk9xNUtuUTdCZXBQeldfV1BWWFVXMVA2RU92WElqRnRQc1J1MzdBMTd5NTVsOGRjMTZ3OExyWnNaZk5DY0w5OVRuTzUwRV85TTdPenBEZ0s5VmI4V0lBYWQwR01XNFFyU3hWbkFBUGo0WTZpbE9ZTy1USkx3?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPYmJOSnYtXzY5VHZ3WXkyQXBobHdwR0pIb0lsZEVyYlNqVERpdlI1RDB4U3Ywb1YwdGIxelFydk9xNUtuUTdCZXBQeldfV1BWWFVXMVA2RU92WElqRnRQc1J1MzdBMTd5NTVsOGRjMTZ3OExyWnNaZk5DY0w5OVRuTzUwRV85TTdPenBEZ0s5VmI4V0lBYWQwR01XNFFyU3hWbkFBUGo0WTZpbE9ZTy1USkx3?oc=5\" target=\"_blank\"&gt;Harvey acquires US investment firm-focused AI platform Benchmark&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Global Legal Post&lt;/font&gt;",
-      "published": "2026-07-20T15:17:00.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 7
-    },
-    {
       "title": "Legal AI Firm Harvey Expands Into Investment Workflows With Benchmark Acquisition - citybiz",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNWFjS1dGYzlBMUlNOFRvamNLMjhwV1kzbjlJbHplR1VWU0VHaWFSSVFvRnUtR2JYSVVzZ0ZjcUREOV9IQ3NTb0RwNUhlczA3eHNxNVJaam53dExUSi1EZTBnOFhOMEduWkZXSjV0OC1sRWZKUVk4bnJjeGtTeW5POXVWSmFha1VlcEV1eVI2LW42ZjhZNVNLWllFMjJud25GbTNVemFPQXhaRFJnVUI3WDhxUTZDRkhlY09nTg?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQNWFjS1dGYzlBMUlNOFRvamNLMjhwV1kzbjlJbHplR1VWU0VHaWFSSVFvRnUtR2JYSVVzZ0ZjcUREOV9IQ3NTb0RwNUhlczA3eHNxNVJaam53dExUSi1EZTBnOFhOMEduWkZXSjV0OC1sRWZKUVk4bnJjeGtTeW5POXVWSmFha1VlcEV1eVI2LW42ZjhZNVNLWllFMjJud25GbTNVemFPQXhaRFJnVUI3WDhxUTZDRkhlY09nTg?oc=5\" target=\"_blank\"&gt;Legal AI Firm Harvey Expands Into Investment Workflows With Benchmark Acquisition&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;citybiz&lt;/font&gt;",
@@ -331,27 +331,27 @@
       "relevance_score": 7
     },
     {
-      "title": "What The 2026 FIFA World Cup Taught Us About Global Events",
-      "url": "https://abovethelaw.com/2026/07/what-the-2026-fifa-world-cup-taught-us-about-global-events/",
-      "summary": "The 2026 FIFA World Cup succeeded because millions of moving parts operated within carefully constructed legal frameworks that most fans never noticed. The post What The 2026 FIFA World Cup Taught Us About Global Events appeared first on Above the Law .",
-      "published": "2026-07-20T15:33:09.000Z",
-      "source_id": "above-the-law-legaltech",
-      "source_name": "Above the Law (Legal Tech)",
-      "source_priority": "high",
+      "title": "AI Could Shrink Income Tax Revenue and Threaten Economies",
+      "url": "https://www.bloomberg.com/news/features/2026-07-16/how-ai-could-shrink-income-tax-revenue-and-threaten-economies",
+      "summary": "Article URL: https://www.bloomberg.com/news/features/2026-07-16/how-ai-could-shrink-income-tax-revenue-and-threaten-economies Comments URL: https://news.ycombinator.com/item?id=48984802 Points: 2 # Comments: 2",
+      "published": "2026-07-20T20:58:43.000Z",
+      "source_id": "hacker-news",
+      "source_name": "Hacker News (filtered)",
+      "source_priority": "low",
       "source_tier": "B",
-      "source_category": "Legal profession",
+      "source_category": "Community",
       "relevance_score": 7
     },
     {
-      "title": "‘We’re not done’ &#8211; Hogan Lovells Cadwalader&#8217;s CEO on what comes after the biggest law firm merger in history",
-      "url": "https://www.legalbusiness.co.uk/law-firms/were-not-done-hogan-lovells-cadwaladers-ceo-on-what-comes-after-the-biggest-law-firm-merger-in-history/",
-      "summary": "‘You can’t fake it in New York; you either get recognition as a local firm or you don’t.&#8217; Two weeks after the largest-ever law firm merger went live, Hogan Lovells Cadwalader CEO Miguel Zaldivar is explaining the divergence in practice strengths between London and New York that drove the tie-up, as well as discussing the &#8230; Continue reading \"‘We’re not done’ &#8211; Hogan Lovells Cadwalader&#8217;s CEO on what comes after the biggest law firm merger in history\"",
-      "published": "2026-07-20T14:24:38.000Z",
-      "source_id": "legal-business",
-      "source_name": "Legal Business",
-      "source_priority": "medium",
+      "title": "Show HN: Provena: Open-Source Library for AI Agent Context Governance",
+      "url": "https://github.com/rajfirke/provena",
+      "summary": "Looking for contributors! We have 7 contributors and We have 11 \"good first issue\" labels and 17 \"help wanted\" issues. All well-scoped with code examples. Project: Nobody governs the context input layer. Tools exist to govern what agents DO (Microsoft AGT), what agents SAY (Guardrails AI), and how agents COMMUNICATE (NeMo). But the data flowing INTO the context window — retriever results, tool outputs, agent messages — is completely ungoverned. That's what Provena fixes Comments URL: https://new",
+      "published": "2026-07-20T20:31:34.000Z",
+      "source_id": "hacker-news",
+      "source_name": "Hacker News (filtered)",
+      "source_priority": "low",
       "source_tier": "B",
-      "source_category": "Legal profession",
+      "source_category": "Community",
       "relevance_score": 7
     },
     {
@@ -389,6 +389,18 @@
       "source_tier": "B",
       "source_category": "Research",
       "relevance_score": 7
+    },
+    {
+      "title": "Legal AI’s Legibility Problem - Stanford HAI",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhRF8wYkl3WXp3ZUFtSHM1U1l6ZlJsLXEtYVB5UFg4ZVRZd3FhLVVHZ3luWWJRdVpoWHVINXpfb0g1TWxwNXA1NXFXN2ZCLU82VkNJUHhVLU9xV2tUMHd2c2JaWFNYSzFzZ1E?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBhRF8wYkl3WXp3ZUFtSHM1U1l6ZlJsLXEtYVB5UFg4ZVRZd3FhLVVHZ3luWWJRdVpoWHVINXpfb0g1TWxwNXA1NXFXN2ZCLU82VkNJUHhVLU9xV2tUMHd2c2JaWFNYSzFzZ1E?oc=5\" target=\"_blank\"&gt;Legal AI’s Legibility Problem&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Stanford HAI&lt;/font&gt;",
+      "published": "2026-07-20T20:48:40.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
     },
     {
       "title": ":Harvey:’s Top 5 Product Releases of 2025 - Harvey",
@@ -467,18 +479,6 @@
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdTUxWl9Vcno3OFNsblRLb0YyVC1uS20xR256VDRpTnV0RFNWZ3gxREx5S3FGRk4zeV9LXzlOMDVubm1VWEJVMXdZQWluNklWaF9ObTRpaTJNbUtDUUduQ3RPV25xVGd0UXRkRjRNa1BzYzVqTXZua0FUYXpRZDNmN1FKNGpEbUN5YVh4V01HYkZITXpyVWtyYU91LTVnTWpyeFcxN2p3cTVkNWF0SzNUMzRDWDM1c29hU3JrWEE2VFRxay1Nc0R1WWlLb2hodkNSczVtTllnUHJ1a2x1?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdTUxWl9Vcno3OFNsblRLb0YyVC1uS20xR256VDRpTnV0RFNWZ3gxREx5S3FGRk4zeV9LXzlOMDVubm1VWEJVMXdZQWluNklWaF9ObTRpaTJNbUtDUUduQ3RPV25xVGd0UXRkRjRNa1BzYzVqTXZua0FUYXpRZDNmN1FKNGpEbUN5YVh4V01HYkZITXpyVWtyYU91LTVnTWpyeFcxN2p3cTVkNWF0SzNUMzRDWDM1c29hU3JrWEE2VFRxay1Nc0R1WWlLb2hodkNSczVtTllnUHJ1a2x1?oc=5\" target=\"_blank\"&gt;Someone is Smoking Crack, or Harvey AI is Just a Proxy to Participate in an OpenAI $1 Trillion IPO?&lt;/a&gt;&amp;nbsp;&amp;n",
       "published": "2025-10-31T07:00:00.000Z",
-      "source_id": "google-news-harvey-luminance",
-      "source_name": "Google News: Harvey OR Luminance",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
-    },
-    {
-      "title": "Preview: Access :Harvey:, Wherever You’re Working - Harvey",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0djUyLXFEbzcwVDBaN3k4T0FOX0pBTzRyLXBka01pN2VhYlFqTEdaVkxsYUM1aUVsb0FMUm9pVElZUUNVdXE3SU1vd3Z5RlVURFhmR0RMVFlJQmtZMW5Oa0VB?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0djUyLXFEbzcwVDBaN3k4T0FOX0pBTzRyLXBka01pN2VhYlFqTEdaVkxsYUM1aUVsb0FMUm9pVElZUUNVdXE3SU1vd3Z5RlVURFhmR0RMVFlJQmtZMW5Oa0VB?oc=5\" target=\"_blank\"&gt;Preview: Access :Harvey:, Wherever You’re Working&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
-      "published": "2025-09-10T07:00:00.000Z",
       "source_id": "google-news-harvey-luminance",
       "source_name": "Google News: Harvey OR Luminance",
       "source_priority": "critical",
