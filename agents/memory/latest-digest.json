@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-20T16:38:21.814Z",
+  "generated": "2026-07-20T19:51:16.881Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 1217,
+  "total_scanned": 1208,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -247,18 +247,6 @@
       "relevance_score": 8
     },
     {
-      "title": "AI Is Shifting the Bottleneck: Actionstep’s Triona Buckley on Building Smarter Mid-Market Law Firms",
-      "url": "https://www.geeklawblog.com/2026/07/ai-is-shifting-the-bottleneck-actionsteps-triona-buckley-on-building-smarter-mid-market-law-firms.html",
-      "summary": "In this episode of The Geek in Review, Greg Lambert hosts a solo conversation with Triona Buckley , Chief Product Officer at Actionstep , about generative AI&rsquo;s growing influence on mid-market law firms. Buckley challenges a common assumption about legal AI: faster task completion does not always remove friction. An associate might produce a draft within seconds, only to transfer the burden upstream to a senior lawyer responsible for reviewing sources, reconstructing reasoning, and correcti",
-      "published": "2026-07-20T12:56:39.000Z",
-      "source_id": "three-geeks",
-      "source_name": "3 Geeks and a Law Blog",
-      "source_priority": "medium",
-      "source_tier": "B",
-      "source_category": "Legal operations",
-      "relevance_score": 8
-    },
-    {
       "title": "Harvey acquires US investment firm-focused AI platform Benchmark - The Global Legal Post",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYmJOSnYtXzY5VHZ3WXkyQXBobHdwR0pIb0lsZEVyYlNqVERpdlI1RDB4U3Ywb1YwdGIxelFydk9xNUtuUTdCZXBQeldfV1BWWFVXMVA2RU92WElqRnRQc1J1MzdBMTd5NTVsOGRjMTZ3OExyWnNaZk5DY0w5OVRuTzUwRV85TTdPenBEZ0s5VmI4V0lBYWQwR01XNFFyU3hWbkFBUGo0WTZpbE9ZTy1USkx3?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPYmJOSnYtXzY5VHZ3WXkyQXBobHdwR0pIb0lsZEVyYlNqVERpdlI1RDB4U3Ywb1YwdGIxelFydk9xNUtuUTdCZXBQeldfV1BWWFVXMVA2RU92WElqRnRQc1J1MzdBMTd5NTVsOGRjMTZ3OExyWnNaZk5DY0w5OVRuTzUwRV85TTdPenBEZ0s5VmI4V0lBYWQwR01XNFFyU3hWbkFBUGo0WTZpbE9ZTy1USkx3?oc=5\" target=\"_blank\"&gt;Harvey acquires US investment firm-focused AI platform Benchmark&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Global Legal Post&lt;/font&gt;",
@@ -479,6 +467,18 @@
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdTUxWl9Vcno3OFNsblRLb0YyVC1uS20xR256VDRpTnV0RFNWZ3gxREx5S3FGRk4zeV9LXzlOMDVubm1VWEJVMXdZQWluNklWaF9ObTRpaTJNbUtDUUduQ3RPV25xVGd0UXRkRjRNa1BzYzVqTXZua0FUYXpRZDNmN1FKNGpEbUN5YVh4V01HYkZITXpyVWtyYU91LTVnTWpyeFcxN2p3cTVkNWF0SzNUMzRDWDM1c29hU3JrWEE2VFRxay1Nc0R1WWlLb2hodkNSczVtTllnUHJ1a2x1?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdTUxWl9Vcno3OFNsblRLb0YyVC1uS20xR256VDRpTnV0RFNWZ3gxREx5S3FGRk4zeV9LXzlOMDVubm1VWEJVMXdZQWluNklWaF9ObTRpaTJNbUtDUUduQ3RPV25xVGd0UXRkRjRNa1BzYzVqTXZua0FUYXpRZDNmN1FKNGpEbUN5YVh4V01HYkZITXpyVWtyYU91LTVnTWpyeFcxN2p3cTVkNWF0SzNUMzRDWDM1c29hU3JrWEE2VFRxay1Nc0R1WWlLb2hodkNSczVtTllnUHJ1a2x1?oc=5\" target=\"_blank\"&gt;Someone is Smoking Crack, or Harvey AI is Just a Proxy to Participate in an OpenAI $1 Trillion IPO?&lt;/a&gt;&amp;nbsp;&amp;n",
       "published": "2025-10-31T07:00:00.000Z",
+      "source_id": "google-news-harvey-luminance",
+      "source_name": "Google News: Harvey OR Luminance",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
+    },
+    {
+      "title": "Preview: Access :Harvey:, Wherever You’re Working - Harvey",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0djUyLXFEbzcwVDBaN3k4T0FOX0pBTzRyLXBka01pN2VhYlFqTEdaVkxsYUM1aUVsb0FMUm9pVElZUUNVdXE3SU1vd3Z5RlVURFhmR0RMVFlJQmtZMW5Oa0VB?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0djUyLXFEbzcwVDBaN3k4T0FOX0pBTzRyLXBka01pN2VhYlFqTEdaVkxsYUM1aUVsb0FMUm9pVElZUUNVdXE3SU1vd3Z5RlVURFhmR0RMVFlJQmtZMW5Oa0VB?oc=5\" target=\"_blank\"&gt;Preview: Access :Harvey:, Wherever You’re Working&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
+      "published": "2025-09-10T07:00:00.000Z",
       "source_id": "google-news-harvey-luminance",
       "source_name": "Google News: Harvey OR Luminance",
       "source_priority": "critical",

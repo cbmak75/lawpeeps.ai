@@ -1,15 +1,15 @@
 {
-  "generated": "2026-07-20T16:38:30.309Z",
+  "generated": "2026-07-20T19:51:26.971Z",
   "cycle_type": "triage",
   "tier_filter": null,
-  "shortlist_size": 4,
+  "shortlist_size": 3,
   "prefilter": {
     "total": 40,
-    "accepted": 3,
+    "accepted": 2,
     "borderline": 1,
-    "rejected": 36,
-    "rejected_as_duplicate": 36,
-    "accept_rate": 8
+    "rejected": 37,
+    "rejected_as_duplicate": 37,
+    "accept_rate": 5
   },
   "model": "claude-haiku-4-5-20251001",
   "picks": [
@@ -17,55 +17,46 @@
       "id": "arxiv-cs-ai-0",
       "score": 2,
       "category": "Research",
-      "suggested_angle": "Academic research on LLM-driven OCR has no legal AI application",
-      "why_now": "Fails editorial focus entirely—pure computer vision research, no legal angle",
+      "suggested_angle": "Academic paper on LLM-driven AutoML for OCR; no legal or regulatory angle.",
+      "why_now": "Pure ML research with no connection to legal AI, legal tech, or regulation.",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
-      "id": "three-geeks-1",
-      "score": 6,
-      "category": "Adoption",
-      "suggested_angle": "Actionstep CPO on how generative AI shifts productivity bottlenecks in mid-market law firms",
-      "why_now": "Firm adoption story with product leader commentary; timely but secondary source (podcast interview, not primary news)",
-      "verdict": "watch",
+      "id": "arxiv-cs-ai-1",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Academic study of toxicity detection in code-mixed text; no legal application.",
+      "why_now": "General AI safety/NLP work; no legal sector relevance.",
+      "verdict": "drop",
       "duplicate_of": null
     },
     {
       "id": "arxiv-cs-ai-2",
       "score": 2,
       "category": "Research",
-      "suggested_angle": "Academic study on toxicity detection reliability; no legal application stated",
-      "why_now": "Fails editorial focus—NLP/moderation research with no legal AI hook despite keyword matching",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-3",
-      "score": 1,
-      "category": "Research",
-      "suggested_angle": "LLM evaluation for financial market analysis; entirely outside legal vertical",
-      "why_now": "Trading/fintech research, not legal AI; keyword match on LLM/GPT/Claude is noise",
+      "suggested_angle": "Comparative evaluation of LLMs for financial market analysis; no legal angle.",
+      "why_now": "Finance/trading application of LLMs; outside editorial remit entirely.",
       "verdict": "drop",
       "duplicate_of": null
     }
   ],
   "summary": {
     "enqueue_count": 0,
-    "watch_count": 1,
+    "watch_count": 0,
     "drop_count": 3,
-    "notes": "Three arXiv papers fail legal angle test. Actionstep interview is adoption-relevant but secondary; hold for verification of newsworthiness vs. product promotion."
+    "notes": "All three arXiv papers are general AI research with no legal, regulatory, legal tech, or immigration law angle. None match editorial focus."
   },
   "enqueued": 0,
   "usage": {
-    "input_tokens": 2838,
+    "input_tokens": 2608,
     "cache_creation_input_tokens": 0,
     "cache_read_input_tokens": 0,
     "cache_creation": {
       "ephemeral_5m_input_tokens": 0,
       "ephemeral_1h_input_tokens": 0
     },
-    "output_tokens": 524,
+    "output_tokens": 399,
     "service_tier": "standard",
     "inference_geo": "not_available"
   }
