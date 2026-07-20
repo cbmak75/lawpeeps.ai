@@ -1,14 +1,54 @@
 {
-  "generated": "2026-07-19T21:59:24.732Z",
+  "generated": "2026-07-20T03:49:54.660Z",
   "cycle_type": "triage",
-  "shortlist_size": 0,
-  "picks": [],
+  "tier_filter": null,
+  "shortlist_size": 2,
   "prefilter": {
     "total": 40,
-    "accepted": 0,
+    "accepted": 2,
     "borderline": 0,
-    "rejected": 40,
-    "rejected_as_duplicate": 40,
-    "accept_rate": 0
+    "rejected": 38,
+    "rejected_as_duplicate": 38,
+    "accept_rate": 5
+  },
+  "model": "claude-haiku-4-5-20251001",
+  "picks": [
+    {
+      "id": "legal-futures-0",
+      "score": 4,
+      "category": "Policy",
+      "suggested_angle": "Academic barristers pitch access-to-justice institutes to address 3.5m annual service gaps",
+      "why_now": "Genuine policy proposal on legal access, but lacks AI/legal tech angle and no independent news hook beyond the announcement itself",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "hacker-news-1",
+      "score": 2,
+      "category": "Social",
+      "suggested_angle": "OpenAI scorecard piece aggregated to Hacker News with minimal engagement",
+      "why_now": "OpenAI marketing content with no legal-specific angle, zero HN engagement (2 points, 0 comments), low-value aggregation",
+      "verdict": "drop",
+      "duplicate_of": null
+    }
+  ],
+  "summary": {
+    "enqueue_count": 0,
+    "watch_count": 0,
+    "drop_count": 2,
+    "notes": "Both items lack substantive legal AI or legal tech news hooks. Legal-Futures piece is policy commentary without regulatory or adoption angle; OpenAI item is unfocused marketing with negligible reach."
+  },
+  "enqueued": 0,
+  "usage": {
+    "input_tokens": 2361,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+      "ephemeral_5m_input_tokens": 0,
+      "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 336,
+    "service_tier": "standard",
+    "inference_geo": "not_available"
   }
 }
