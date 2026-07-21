@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-21T11:13:29.067Z",
+  "generated": "2026-07-21T14:10:30.116Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 1536,
+  "total_scanned": 1538,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -139,15 +139,15 @@
       "relevance_score": 9
     },
     {
-      "title": "Job ad: Immigration Solicitor/Senior Caseworker",
-      "url": "https://freemovement.org.uk/job-ad-immigration-solicitor-senior-caseworker/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=job-ad-immigration-solicitor-senior-caseworker",
-      "summary": "The Migrant and Refugee Children’s Legal Unit at Islington Law Centre has a much-respected Immigration Team. We are a Peer Review category 1 Legal Aid Immigration provider and we have considerable experience across the range of immigration and asylum work, running cases at all levels of the Tribunal and Court system including the Administrative Court, [&#8230;]",
-      "published": "2026-07-21T06:40:00.000Z",
-      "source_id": "free-movement",
-      "source_name": "Free Movement",
-      "source_priority": "high",
-      "source_tier": "A",
-      "source_category": "Immigration law",
+      "title": "New lord chancellor has a 'golden opportunity' - Society",
+      "url": "https://www.lawgazette.co.uk/news/new-lord-chancellor-has-a-golden-opportunity-society/5127440.article",
+      "summary": "Chancery Lane repeats calls on Norris to reverse curbs on jury trials and to increase legal aid.",
+      "published": "2026-07-21T13:50:00.000Z",
+      "source_id": "law-society-gazette",
+      "source_name": "Law Society Gazette",
+      "source_priority": "medium",
+      "source_tier": "B",
+      "source_category": "Legal profession",
       "relevance_score": 9
     },
     {
@@ -379,27 +379,15 @@
       "relevance_score": 7
     },
     {
-      "title": "Job ad: Immigration Solicitor/Supervisor- Islington Law Centre",
-      "url": "https://freemovement.org.uk/job-ad-immigration-solicitor-supervisor-islington-law-centre/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=job-ad-immigration-solicitor-supervisor-islington-law-centre",
-      "summary": "Asylum &#38; Immigration Solicitor/Supervisor Salary: £45,126 &#8211; £49,210 dependent on qualifications and experience. Plus 3% auto enrolment pension contribution. 35 hour week. Excellent Terms and Conditions. ISLINGTON LAW CENTRE is one of the largest Law Centres in the country. We are seeking an experienced IAAS Level 2 or above Asylum and Immigration Solicitor with Supervisor [&#8230;]",
-      "published": "2026-07-21T06:30:00.000Z",
+      "title": "Job ad: Immigration Solicitor/Senior Caseworker",
+      "url": "https://freemovement.org.uk/job-ad-immigration-solicitor-senior-caseworker/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=job-ad-immigration-solicitor-senior-caseworker",
+      "summary": "The Migrant and Refugee Children’s Legal Unit at Islington Law Centre has a much-respected Immigration Team. We are a Peer Review category 1 Legal Aid Immigration provider and we have considerable experience across the range of immigration and asylum work, running cases at all levels of the Tribunal and Court system including the Administrative Court, [&#8230;]",
+      "published": "2026-07-21T06:40:00.000Z",
       "source_id": "free-movement",
       "source_name": "Free Movement",
       "source_priority": "high",
       "source_tier": "A",
       "source_category": "Immigration law",
-      "relevance_score": 7
-    },
-    {
-      "title": "AI Is Accelerating – Your DMS Will Determine Whether You Keep Pace",
-      "url": "https://www.artificiallawyer.com/2026/07/21/ai-is-accelerating-your-dms-will-determine-whether-you-keep-pace/",
-      "summary": "By Neil Araujo, CEO, iManage. In a relatively short span of time, it&#8217;s become increasingly clear that AI will have a profound impact on the ...",
-      "published": "2026-07-21T06:48:40.000Z",
-      "source_id": "artificial-lawyer",
-      "source_name": "Artificial Lawyer",
-      "source_priority": "critical",
-      "source_tier": "B",
-      "source_category": "Legal AI",
       "relevance_score": 7
     },
     {
@@ -427,6 +415,42 @@
       "relevance_score": 7
     },
     {
+      "title": "The AI Tension In Healthcare: Patent Strategy, FDA Reality, And HIPAA Constraints",
+      "url": "https://medcitynews.com/2026/07/the-ai-tension-in-healthcare-patent-strategy-fda-reality-and-hipaa-constraints/",
+      "summary": "These three legal regimes are pulling in different directions, and the developers that navigate them well will be the ones that plan for all three from the start. The post The AI Tension In Healthcare: Patent Strategy, FDA Reality, And HIPAA Constraints appeared first on Above the Law .",
+      "published": "2026-07-21T14:03:00.000Z",
+      "source_id": "above-the-law-legaltech",
+      "source_name": "Above the Law (Legal Tech)",
+      "source_priority": "high",
+      "source_tier": "B",
+      "source_category": "Legal profession",
+      "relevance_score": 7
+    },
+    {
+      "title": "Morning Docket: 07.21.26",
+      "url": "https://abovethelaw.com/2026/07/morning-docket-07-21-26/",
+      "summary": "* Anthropic settles copyright case for $1.5B dollars. [ Reuters ] * Roughly half of Americans think the Supreme Court decides the cases based on politics. The other half are currently assisting a Nigerian prince recover his money. [ ABA Journal ] * The entire American AI industry runs on financing that looks an awful lot like Enron. Good news for future eDiscovery demos in about 5 years! [ Bloomberg Law News ] * Court hits pause on Paramount merger. [ CNBC ] * Arizona Supreme Court rules that at",
+      "published": "2026-07-21T13:20:06.000Z",
+      "source_id": "above-the-law-legaltech",
+      "source_name": "Above the Law (Legal Tech)",
+      "source_priority": "high",
+      "source_tier": "B",
+      "source_category": "Legal profession",
+      "relevance_score": 7
+    },
+    {
+      "title": "&#8216;Clearly a stronger business than last year&#8217; &#8211; Travers hits revenue record with 9% growth",
+      "url": "https://www.legalbusiness.co.uk/law-firms/clearly-a-stronger-business-than-last-year-travers-hits-revenue-record-with-9-growth/",
+      "summary": "Travers Smith has posted turnover growth of 9% to hit a new record of £229.4m, with managing partner Edmund Reed hailing the firm as &#8216;clearly a stronger business than last year&#8217;. The revenue increase, up from last year’s £210m, marks a return to growth after the firm saw a 2% dip during 2024-25. Profit per &#8230; Continue reading \"&#8216;Clearly a stronger business than last year&#8217; &#8211; Travers hits revenue record with 9% growth\"",
+      "published": "2026-07-21T11:33:36.000Z",
+      "source_id": "legal-business",
+      "source_name": "Legal Business",
+      "source_priority": "medium",
+      "source_tier": "B",
+      "source_category": "Legal profession",
+      "relevance_score": 7
+    },
+    {
       "title": "Gateley CEO steps down as revenue creeps up amid share price struggles",
       "url": "https://www.legalbusiness.co.uk/law-firms/gateley-ceo-steps-down-as-revenue-creeps-up-amid-share-price-struggles/",
       "summary": "Gateley chief executive officer Rod Waldie (pictured) has stepped down for &#8216;personal, health-related reasons,&#8217; with the announcement coming as the firm reveals its financial results for 2025-26. Waldie has spent just over six years leading the listed law firm, replacing Michael Ward in May 2020. He joined Gateley in 2010 when it acquired the Manchester &#8230; Continue reading \"Gateley CEO steps down as revenue creeps up amid share price struggles\"",
@@ -451,33 +475,9 @@
       "relevance_score": 7
     },
     {
-      "title": "Non-lawyer Norris picked as lord chancellor",
-      "url": "https://www.lawgazette.co.uk/news/non-lawyer-norris-picked-as-lord-chancellor/5127432.article",
-      "summary": "Ellie Reeves MP promoted to attorney general in Andy Burnham's first cabinet.",
-      "published": "2026-07-21T05:49:00.000Z",
-      "source_id": "law-society-gazette",
-      "source_name": "Law Society Gazette",
-      "source_priority": "medium",
-      "source_tier": "B",
-      "source_category": "Legal profession",
-      "relevance_score": 7
-    },
-    {
       "title": "PlanFlip: Attacking Multi-Agent LLM Systems via Planning-Phase Prompt Injection",
       "url": "https://arxiv.org/abs/2607.16199",
       "summary": "arXiv:2607.16199v1 Announce Type: new Abstract: Multi-agent LLM systems increasingly rely on a Planner to decompose goals into sub-task sequences that downstream Executor and Critic agents execute and audit. We identify the planning phase as a critical attack surface: a single injection into the Planner's context achieves cascade amplification, corrupting all downstream sub-tasks simultaneously. We introduce PlanFlip, a framework comprising four planning-phase prompt injection attacks -- GoalSub",
-      "published": "2026-07-21T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI (keyword-filtered)",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "Research",
-      "relevance_score": 7
-    },
-    {
-      "title": "Deterministic Replay for AI Agent Systems",
-      "url": "https://arxiv.org/abs/2607.16200",
-      "summary": "arXiv:2607.16200v1 Announce Type: new Abstract: AI agent systems that couple large language models (LLMs) with external tools and APIs are inherently non-deterministic: LLM sampling variance, external API state, CDN infrastructure headers, and execution-environment noise collectively prevent any prior agent run from being faithfully re-executed. Existing observability platforms capture execution logs but cannot reproduce a run in isolation. We present agrepl, a developer-first CLI framework for ",
       "published": "2026-07-21T04:00:00.000Z",
       "source_id": "arxiv-cs-ai",
       "source_name": "arXiv cs.AI (keyword-filtered)",
