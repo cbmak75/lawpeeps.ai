@@ -1,31 +1,107 @@
 {
-  "generated": "2026-07-21T08:40:11.724Z",
+  "generated": "2026-07-21T11:13:37.072Z",
   "cycle_type": "triage",
   "tier_filter": null,
-  "shortlist_size": 20,
+  "shortlist_size": 8,
   "prefilter": {
     "total": 40,
-    "accepted": 27,
+    "accepted": 8,
     "borderline": 0,
-    "rejected": 13,
-    "rejected_as_duplicate": 13,
-    "accept_rate": 68
+    "rejected": 32,
+    "rejected_as_duplicate": 32,
+    "accept_rate": 20
   },
   "model": "claude-haiku-4-5-20251001",
-  "picks": [],
+  "picks": [
+    {
+      "id": "arxiv-cs-ai-0",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Academic paper on multimodal LLM food recognition",
+      "why_now": "Narrow ML research with no legal AI angle despite keyword match",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-1",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "Security research on multi-agent LLM attack surface",
+      "why_now": "Relevant to LLM safety but not legal-specific; academic preprint with no legal practice implications",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-2",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Constraint programming optimization technique",
+      "why_now": "Pure ML research with no legal relevance despite keyword match",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-3",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Multi-agent coordination fairness framework",
+      "why_now": "Pure ML research with no legal relevance",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-4",
+      "score": 4,
+      "category": "Research",
+      "suggested_angle": "LLMs generate proofs in Banach space theory via human-AI collaboration",
+      "why_now": "Demonstrates AI-assisted academic discovery but no legal application angle",
+      "verdict": "watch",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-5",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Image processing technique for multi-exposure fusion",
+      "why_now": "Computer vision research; keyword match ('Luminance') is false positive",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-6",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "Autonomous coding agents self-improve on datasets",
+      "why_now": "Academic paper on autoresearch but no legal-specific application",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "law-society-gazette-7",
+      "score": 5,
+      "category": "Policy",
+      "suggested_angle": "New Lord Chancellor Norris and Attorney General Reeves appointed; implications for legal regulation and AI policy under new administration",
+      "why_now": "Cabinet shift affects SRA/judiciary/MoJ oversight of legal AI; primary source from Law Society Gazette",
+      "verdict": "watch",
+      "duplicate_of": null
+    }
+  ],
   "summary": {
-    "notes": "parse_failed"
+    "enqueue_count": 0,
+    "watch_count": 2,
+    "drop_count": 6,
+    "notes": "Shortlist is 75% off-topic ML papers (false positives from keyword prefilter). Only arxiv-cs-ai-4 (AI proofs in mathematics) and law-society-gazette-7 (cabinet reshuffle) merit hold for editorial review; neither is ready to enqueue without UK legal regulation angle confirmation."
   },
   "enqueued": 0,
   "usage": {
-    "input_tokens": 5646,
+    "input_tokens": 3422,
     "cache_creation_input_tokens": 0,
     "cache_read_input_tokens": 0,
     "cache_creation": {
       "ephemeral_5m_input_tokens": 0,
       "ephemeral_1h_input_tokens": 0
     },
-    "output_tokens": 2000,
+    "output_tokens": 911,
     "service_tier": "standard",
     "inference_geo": "not_available"
   }
