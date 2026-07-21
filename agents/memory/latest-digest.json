@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-20T22:06:59.813Z",
+  "generated": "2026-07-21T03:29:00.188Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 1228,
+  "total_scanned": 1217,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -127,18 +127,6 @@
       "relevance_score": 9
     },
     {
-      "title": "Show HN: Cognikernel- Local Memory for AI Coding Assistants",
-      "url": "https://github.com/KanishkNoir/cognikernel",
-      "summary": "Every coding session in claude code/ codex starts blindly. It forgets the archiectural decisions you made in a session you ran yesterday/ a week ago or a month ago. We end up depending on maintaining a Claude.md file or diff markdown files that these agents rely on their memory features. I started building CogniKernel to solve this problem. Instead of relying on markdown memory files, CogniKernel observes the coding session itself. It captures decisions, constraints, architectural decisions, pro",
-      "published": "2026-07-20T20:20:10.000Z",
-      "source_id": "hacker-news",
-      "source_name": "Hacker News (filtered)",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "Community",
-      "relevance_score": 9
-    },
-    {
       "title": "Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook partners with CBA; DeepIP raises $25m - Legal IT Insider",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcXJGTU9ucEc1azNNOTZ3eWI1dldHblpjS0lIdG9jTy1YSE1SSEdlWXlqa041bzd4R052ckZLZG1TQnh6eUE1bFhEV0FyYlFndF84Z1hTczZXZ0IzOVRoMF9jWHhkMXp2X2tjenNUMktCZWM1eVlvM0tjZEpvX2ZoeUpaTUN5UTZUaDJEWWdvVDFJZWpGYTZiQV8ycEc1dEJRMTJCWktEV3IwX3FoX1F6cFk5dkJ1VUtHaURCWmlBTUpTcFRJQVk3cmYxODlsMEpjQnRMdHkwLWNoR1lzT01jRmJlSjJwdw?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcXJGTU9ucEc1azNNOTZ3eWI1dldHblpjS0lIdG9jTy1YSE1SSEdlWXlqa041bzd4R052ckZLZG1TQnh6eUE1bFhEV0FyYlFndF84Z1hTczZXZ0IzOVRoMF9jWHhkMXp2X2tjenNUMktCZWM1eVlvM0tjZEpvX2ZoeUpaTUN5UTZUaDJEWWdvVDFJZWpGYTZiQV8ycEc1dEJRMTJCWktEV3IwX3FoX1F6cFk5dkJ1VUtHaURCWmlBTUpTcFRJQVk3cmYxODlsMEpjQnRMdHkwLWNoR1lzT01jRmJlSjJwdw?oc=5\" target=\"_blank\"&gt;Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook partners with CBA; De",
@@ -259,18 +247,6 @@
       "relevance_score": 8
     },
     {
-      "title": "Legal AI Firm Harvey Expands Into Investment Workflows With Benchmark Acquisition - citybiz",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNWFjS1dGYzlBMUlNOFRvamNLMjhwV1kzbjlJbHplR1VWU0VHaWFSSVFvRnUtR2JYSVVzZ0ZjcUREOV9IQ3NTb0RwNUhlczA3eHNxNVJaam53dExUSi1EZTBnOFhOMEduWkZXSjV0OC1sRWZKUVk4bnJjeGtTeW5POXVWSmFha1VlcEV1eVI2LW42ZjhZNVNLWllFMjJud25GbTNVemFPQXhaRFJnVUI3WDhxUTZDRkhlY09nTg?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQNWFjS1dGYzlBMUlNOFRvamNLMjhwV1kzbjlJbHplR1VWU0VHaWFSSVFvRnUtR2JYSVVzZ0ZjcUREOV9IQ3NTb0RwNUhlczA3eHNxNVJaam53dExUSi1EZTBnOFhOMEduWkZXSjV0OC1sRWZKUVk4bnJjeGtTeW5POXVWSmFha1VlcEV1eVI2LW42ZjhZNVNLWllFMjJud25GbTNVemFPQXhaRFJnVUI3WDhxUTZDRkhlY09nTg?oc=5\" target=\"_blank\"&gt;Legal AI Firm Harvey Expands Into Investment Workflows With Benchmark Acquisition&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;citybiz&lt;/font&gt;",
-      "published": "2026-07-20T10:21:30.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 7
-    },
-    {
       "title": "The Legal AI Scaffold Changes Everything – Claude Study - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQU4tdGFPSGFaaGo0NGRvdnhxMUhYQ3pSd18td3lld2ZRd2xiQkVwWUQ0Z1lhR3IwdGstdE5STUVBTzdqdkxvbnhWUTVwZ0Y5MDNqT1hHV0RDUGVldzI5R2JrdEtaZ2NfYWNDVERjN1o5QWFqeGFTTEp6VDB1S19id3VoOUZUbzQ0eDdwNzJHNzdvYzRNWUh5cFV6UnhXOE0?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNQU4tdGFPSGFaaGo0NGRvdnhxMUhYQ3pSd18td3lld2ZRd2xiQkVwWUQ0Z1lhR3IwdGstdE5STUVBTzdqdkxvbnhWUTVwZ0Y5MDNqT1hHV0RDUGVldzI5R2JrdEtaZ2NfYWNDVERjN1o5QWFqeGFTTEp6VDB1S19id3VoOUZUbzQ0eDdwNzJHNzdvYzRNWUh5cFV6UnhXOE0?oc=5\" target=\"_blank\"&gt;The Legal AI Scaffold Changes Everything – Claude Study&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
@@ -319,10 +295,10 @@
       "relevance_score": 7
     },
     {
-      "title": "3 Contract Intelligence Use Cases Every Legal Team Should Know",
-      "url": "https://abovethelaw.com/2026/07/3-contract-intelligence-use-cases-every-legal-team-should-know/",
-      "summary": "[Sponsored] Some challenges show up no matter what industry you’re in. Contracting is one of them. The post 3 Contract Intelligence Use Cases Every Legal Team Should Know appeared first on Above the Law .",
-      "published": "2026-07-20T16:12:14.000Z",
+      "title": "Supreme Court Takes Up Case Of Most Expensive Six-Pack Of Bud Light Ever &#8212; See Also",
+      "url": "https://abovethelaw.com/2026/07/supreme-court-takes-up-case-of-most-expensive-six-pack-of-bud-light-ever-see-also/",
+      "summary": "Just ‘Plane’ Wrong : Alaska wants to take a man's $95,000 plane because he didn't notice a passenger bringing a six-pack of Bud on board. By the state's reasoning, it's perfectly reasonable that it's only a $1,500 fine, but a $95,000 forfeiture . The Trump Administration Has A Theory About Who Shouldn't Be Litigating The Biglaw EO Case: It argues Susman Godfrey is conflicted out of the case. Send In The Clowns : Trump brings DOJ into his lawsuit against the BBC after the news organization refuse",
+      "published": "2026-07-20T23:33:00.000Z",
       "source_id": "above-the-law-legaltech",
       "source_name": "Above the Law (Legal Tech)",
       "source_priority": "high",
@@ -331,27 +307,15 @@
       "relevance_score": 7
     },
     {
-      "title": "AI Could Shrink Income Tax Revenue and Threaten Economies",
-      "url": "https://www.bloomberg.com/news/features/2026-07-16/how-ai-could-shrink-income-tax-revenue-and-threaten-economies",
-      "summary": "Article URL: https://www.bloomberg.com/news/features/2026-07-16/how-ai-could-shrink-income-tax-revenue-and-threaten-economies Comments URL: https://news.ycombinator.com/item?id=48984802 Points: 2 # Comments: 2",
-      "published": "2026-07-20T20:58:43.000Z",
-      "source_id": "hacker-news",
-      "source_name": "Hacker News (filtered)",
-      "source_priority": "low",
+      "title": "Norris takes over as Lord Chancellor as Reeves becomes AG",
+      "url": "https://www.legalfutures.co.uk/latest-news/norris-takes-over-as-lord-chancellor-as-reeves-becomes-ag",
+      "summary": "A former trade union organiser with no legal background was yesterday named as the new Lord Chancellor and secretary of state for justice. The post Norris takes over as Lord Chancellor as Reeves becomes AG appeared first on Legal Futures .",
+      "published": "2026-07-20T23:06:15.000Z",
+      "source_id": "legal-futures",
+      "source_name": "Legal Futures",
+      "source_priority": "high",
       "source_tier": "B",
-      "source_category": "Community",
-      "relevance_score": 7
-    },
-    {
-      "title": "Show HN: Provena: Open-Source Library for AI Agent Context Governance",
-      "url": "https://github.com/rajfirke/provena",
-      "summary": "Looking for contributors! We have 7 contributors and We have 11 \"good first issue\" labels and 17 \"help wanted\" issues. All well-scoped with code examples. Project: Nobody governs the context input layer. Tools exist to govern what agents DO (Microsoft AGT), what agents SAY (Guardrails AI), and how agents COMMUNICATE (NeMo). But the data flowing INTO the context window — retriever results, tool outputs, agent messages — is completely ungoverned. That's what Provena fixes Comments URL: https://new",
-      "published": "2026-07-20T20:31:34.000Z",
-      "source_id": "hacker-news",
-      "source_name": "Hacker News (filtered)",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "Community",
+      "source_category": "Legal business",
       "relevance_score": 7
     },
     {
@@ -391,10 +355,10 @@
       "relevance_score": 7
     },
     {
-      "title": "Legal AI’s Legibility Problem - Stanford HAI",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhRF8wYkl3WXp3ZUFtSHM1U1l6ZlJsLXEtYVB5UFg4ZVRZd3FhLVVHZ3luWWJRdVpoWHVINXpfb0g1TWxwNXA1NXFXN2ZCLU82VkNJUHhVLU9xV2tUMHd2c2JaWFNYSzFzZ1E?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBhRF8wYkl3WXp3ZUFtSHM1U1l6ZlJsLXEtYVB5UFg4ZVRZd3FhLVVHZ3luWWJRdVpoWHVINXpfb0g1TWxwNXA1NXFXN2ZCLU82VkNJUHhVLU9xV2tUMHd2c2JaWFNYSzFzZ1E?oc=5\" target=\"_blank\"&gt;Legal AI’s Legibility Problem&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Stanford HAI&lt;/font&gt;",
-      "published": "2026-07-20T20:48:40.000Z",
+      "title": "Legal AI Firm Harvey Expands Into Investment Workflows With Benchmark Acquisition - citybiz",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNWFjS1dGYzlBMUlNOFRvamNLMjhwV1kzbjlJbHplR1VWU0VHaWFSSVFvRnUtR2JYSVVzZ0ZjcUREOV9IQ3NTb0RwNUhlczA3eHNxNVJaam53dExUSi1EZTBnOFhOMEduWkZXSjV0OC1sRWZKUVk4bnJjeGtTeW5POXVWSmFha1VlcEV1eVI2LW42ZjhZNVNLWllFMjJud25GbTNVemFPQXhaRFJnVUI3WDhxUTZDRkhlY09nTg?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQNWFjS1dGYzlBMUlNOFRvamNLMjhwV1kzbjlJbHplR1VWU0VHaWFSSVFvRnUtR2JYSVVzZ0ZjcUREOV9IQ3NTb0RwNUhlczA3eHNxNVJaam53dExUSi1EZTBnOFhOMEduWkZXSjV0OC1sRWZKUVk4bnJjeGtTeW5POXVWSmFha1VlcEV1eVI2LW42ZjhZNVNLWllFMjJud25GbTNVemFPQXhaRFJnVUI3WDhxUTZDRkhlY09nTg?oc=5\" target=\"_blank\"&gt;Legal AI Firm Harvey Expands Into Investment Workflows With Benchmark Acquisition&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;citybiz&lt;/font&gt;",
+      "published": "2026-07-20T10:21:30.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
@@ -482,6 +446,42 @@
       "source_id": "google-news-harvey-luminance",
       "source_name": "Google News: Harvey OR Luminance",
       "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
+    },
+    {
+      "title": "Preview: Access :Harvey:, Wherever You’re Working - Harvey",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0djUyLXFEbzcwVDBaN3k4T0FOX0pBTzRyLXBka01pN2VhYlFqTEdaVkxsYUM1aUVsb0FMUm9pVElZUUNVdXE3SU1vd3Z5RlVURFhmR0RMVFlJQmtZMW5Oa0VB?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0djUyLXFEbzcwVDBaN3k4T0FOX0pBTzRyLXBka01pN2VhYlFqTEdaVkxsYUM1aUVsb0FMUm9pVElZUUNVdXE3SU1vd3Z5RlVURFhmR0RMVFlJQmtZMW5Oa0VB?oc=5\" target=\"_blank\"&gt;Preview: Access :Harvey:, Wherever You’re Working&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
+      "published": "2025-09-10T07:00:00.000Z",
+      "source_id": "google-news-harvey-luminance",
+      "source_name": "Google News: Harvey OR Luminance",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
+    },
+    {
+      "title": "Harvey Ai Number of Employees 2026 | Employee Count &amp; Headcount Data - Revelio Labs",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjWG9CNFREdTBDYkhqeWhzSk1pVGhScVduQk8zdG5LUzJVZ2ZaQXhUazJ3OXdPemZ4UjlENkxCOTYtTm5xOFZZZjlDb3doREwxdUdQMm9rbnhfYWhxLUwyRHJvSVFDeVdEWnc?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBjWG9CNFREdTBDYkhqeWhzSk1pVGhScVduQk8zdG5LUzJVZ2ZaQXhUazJ3OXdPemZ4UjlENkxCOTYtTm5xOFZZZjlDb3doREwxdUdQMm9rbnhfYWhxLUwyRHJvSVFDeVdEWnc?oc=5\" target=\"_blank\"&gt;Harvey Ai Number of Employees 2026 | Employee Count &amp; Headcount Data&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Revelio Labs&lt;/font&gt;",
+      "published": "2026-04-22T15:13:24.000Z",
+      "source_id": "google-news-harvey-luminance",
+      "source_name": "Google News: Harvey OR Luminance",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
+    },
+    {
+      "title": "Spellbook Raises $50m + CEO, Scott Stevenson Interview - Artificial Lawyer",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNVRaTmNLME8ydnc5d1FmeWhSUjdhTDg2dmdqR28wQ2lwSzBJbTYtTU5XekVsTWdaLVE3N2hJQlU2bEVRWlNhVG1GRTlab0c4Zko3UmtZamxkRGw2WTNlRkU1X05LZEE3OEpkbEtkdldrNFRJVnlPcFZlVDRVbElnbExXVk9zenVfOFh3QWNORTdIQVQxQnBuUW84NA?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPNVRaTmNLME8ydnc5d1FmeWhSUjdhTDg2dmdqR28wQ2lwSzBJbTYtTU5XekVsTWdaLVE3N2hJQlU2bEVRWlNhVG1GRTlab0c4Zko3UmtZamxkRGw2WTNlRkU1X05LZEE3OEpkbEtkdldrNFRJVnlPcFZlVDRVbElnbExXVk9zenVfOFh3QWNORTdIQVQxQnBuUW84NA?oc=5\" target=\"_blank\"&gt;Spellbook Raises $50m + CEO, Scott Stevenson Interview&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
+      "published": "2025-10-09T07:00:00.000Z",
+      "source_id": "google-news-contract-ai",
+      "source_name": "Google News: contract AI",
+      "source_priority": "medium",
       "source_tier": "A",
       "source_category": "Aggregator",
       "relevance_score": 6
