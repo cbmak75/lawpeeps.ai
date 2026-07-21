@@ -1,71 +1,31 @@
 {
-  "generated": "2026-07-21T03:29:06.272Z",
+  "generated": "2026-07-21T08:40:11.724Z",
   "cycle_type": "triage",
   "tier_filter": null,
-  "shortlist_size": 4,
+  "shortlist_size": 20,
   "prefilter": {
     "total": 40,
-    "accepted": 3,
-    "borderline": 1,
-    "rejected": 36,
-    "rejected_as_duplicate": 36,
-    "accept_rate": 8
+    "accepted": 27,
+    "borderline": 0,
+    "rejected": 13,
+    "rejected_as_duplicate": 13,
+    "accept_rate": 68
   },
   "model": "claude-haiku-4-5-20251001",
-  "picks": [
-    {
-      "id": "arxiv-cs-ai-0",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "Academic paper on LLM-driven AutoML for OCR; no legal application",
-      "why_now": "Prefilter caught 'LLM, GPT, Claude' keywords but this is pure computer vision research with zero legal vertical relevance",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "legal-futures-1",
-      "score": 6,
-      "category": "Regulatory",
-      "suggested_angle": "New Lord Chancellor appointment may signal shift in MoJ AI/legal tech policy direction",
-      "why_now": "Lord Chancellor controls justice ministry AI strategy; change of personnel could presage policy shifts relevant to court AI pilots and SRA oversight",
-      "verdict": "watch",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-2",
-      "score": 1,
-      "category": "Research",
-      "suggested_angle": "Academic paper on toxicity detection in multilingual NLP; no legal angle despite keyword match",
-      "why_now": "Prefilter noise: 'Litera' and 'Eve' matches are incidental; this is pure NLP research on content moderation, not legal AI",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-3",
-      "score": 1,
-      "category": "Research",
-      "suggested_angle": "Academic evaluation of LLMs for financial market analysis; no legal application",
-      "why_now": "Off-topic: keyword prefilter caught 'LLM, GPT, Claude' but this is quantitative finance research, not legal tech or legal AI",
-      "verdict": "drop",
-      "duplicate_of": null
-    }
-  ],
+  "picks": [],
   "summary": {
-    "enqueue_count": 0,
-    "watch_count": 1,
-    "drop_count": 3,
-    "notes": "Shortlist dominated by off-topic arXiv papers caught by keyword noise. One regulatory watch item (Lord Chancellor) worth monitoring for policy implications but no immediate news hook. No primary-source legal AI stories."
+    "notes": "parse_failed"
   },
   "enqueued": 0,
   "usage": {
-    "input_tokens": 2772,
+    "input_tokens": 5646,
     "cache_creation_input_tokens": 0,
     "cache_read_input_tokens": 0,
     "cache_creation": {
       "ephemeral_5m_input_tokens": 0,
       "ephemeral_1h_input_tokens": 0
     },
-    "output_tokens": 583,
+    "output_tokens": 2000,
     "service_tier": "standard",
     "inference_geo": "not_available"
   }
