@@ -1,89 +1,116 @@
 {
-  "generated": "2026-07-21T16:37:41.692Z",
+  "generated": "2026-07-21T19:42:59.495Z",
   "cycle_type": "triage",
   "tier_filter": null,
-  "shortlist_size": 6,
+  "shortlist_size": 9,
   "prefilter": {
     "total": 40,
-    "accepted": 6,
+    "accepted": 9,
     "borderline": 0,
-    "rejected": 34,
-    "rejected_as_duplicate": 34,
-    "accept_rate": 15
+    "rejected": 31,
+    "rejected_as_duplicate": 31,
+    "accept_rate": 23
   },
   "model": "claude-haiku-4-5-20251001",
   "picks": [
     {
-      "id": "above-the-law-legaltech-3",
-      "score": 7,
-      "category": "Legal AI",
-      "suggested_angle": "Anthropic copyright settlement at $1.5B signals IP reckoning for large language models in legal sector",
-      "why_now": "Major funding-adjacent story: Anthropic (watch-list company) settlement is material news for legal AI ecosystem, embedded in Morning Docket aggregation",
-      "verdict": "enqueue",
-      "duplicate_of": null
-    },
-    {
-      "id": "law-society-gazette-0",
-      "score": 4,
-      "category": "Policy",
-      "suggested_angle": "Law Society renews calls on Lord Chancellor for legal aid and jury trial reform",
-      "why_now": "UK regulatory environment commentary but lacks AI angle and new hook beyond repeating existing positions",
+      "id": "above-the-law-legaltech-0",
+      "score": 2,
+      "category": "Social",
+      "suggested_angle": "Not legal AI or legal tech news",
+      "why_now": "Political attack piece unrelated to lawpeeps.ai editorial remit",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
-      "id": "above-the-law-legaltech-2",
-      "score": 3,
+      "id": "law-society-gazette-1",
+      "score": 6,
+      "category": "Regulatory",
+      "suggested_angle": "Law Society calls on new Lord Chancellor to expand legal aid and jury access; AI impact unclear",
+      "why_now": "New Ministry of Justice leadership creates policy window, but this is generic lobbying rather than AI-specific story",
+      "verdict": "watch",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-2",
+      "score": 1,
       "category": "Research",
-      "suggested_angle": "Healthcare AI faces competing regulatory regimes (patent, FDA, HIPAA)",
-      "why_now": "Tangentially legal but not legal AI, not UK-focused, general constraint analysis without new reporting",
+      "suggested_angle": "Not legal AI research; food portion estimation in healthcare",
+      "why_now": "Keyword match is false positive; no legal application",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "above-the-law-legaltech-3",
+      "score": 4,
+      "category": "Legal AI",
+      "suggested_angle": "Healthcare AI navigates patent, FDA, HIPAA regimes; legal tech implications peripheral",
+      "why_now": "Commentary on healthcare AI rather than legal AI or legal tech",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
       "id": "law-society-gazette-4",
-      "score": 2,
+      "score": 3,
       "category": "Policy",
-      "suggested_angle": "Climate justice ICJ opinion poses UK compensation risk",
-      "why_now": "Not legal AI, not legal tech, off-editorial scope",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "hacker-news-1",
-      "score": 1,
-      "category": "Social",
-      "suggested_angle": "Startup launches AI-agent-only MMO game",
-      "why_now": "No legal angle, no AI governance angle, game entertainment product",
+      "suggested_angle": "ICJ climate justice opinion could expose UK to massive claims; AI not involved",
+      "why_now": "Climate law policy, not legal AI news",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
       "id": "arxiv-cs-ai-5",
-      "score": 2,
+      "score": 1,
       "category": "Research",
-      "suggested_angle": "Constraint programming research on energetic reasoning optimization",
-      "why_now": "Pure CS theory, no legal application, no watch-list company tie-in",
+      "suggested_angle": "Constraint programming optimization; no legal application",
+      "why_now": "False positive; pure CS research unrelated to legal domain",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-6",
+      "score": 1,
+      "category": "Research",
+      "suggested_angle": "Multi-agent coordination in decentralized systems; no legal application",
+      "why_now": "False positive; distributed systems research unrelated to legal",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-7",
+      "score": 5,
+      "category": "Research",
+      "suggested_angle": "LLMs contribute to mathematical discovery; potential precedent for AI in knowledge work but not law-specific",
+      "why_now": "Interesting capability demo but not legal AI or legal tech news; open thread on AI accuracy in specialised domains only tangentially relevant",
+      "verdict": "watch",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-8",
+      "score": 1,
+      "category": "Research",
+      "suggested_angle": "Computer vision for multi-exposure image fusion; no legal application",
+      "why_now": "False positive; image processing research unrelated to legal",
       "verdict": "drop",
       "duplicate_of": null
     }
   ],
   "summary": {
-    "enqueue_count": 1,
-    "watch_count": 0,
-    "drop_count": 5,
-    "notes": "Only Anthropic settlement in Above the Law Morning Docket qualifies; it's embedded in aggregation but signals material IP/funding story worth editor review. Five items out of scope or low-value commentary."
+    "enqueue_count": 0,
+    "watch_count": 2,
+    "drop_count": 7,
+    "notes": "Shortlist is heavily contaminated with non-legal-AI noise (computer vision, constraint programming, healthcare, climate policy, political commentary). No stories meet enqueue threshold. Watch items: Law Society govt engagement (possible regulatory angle if AI mentioned) and LLM mathematical research (capability demo with tangential relevance to legal knowledge work). Recommend tightening keyword filter to reduce false positives."
   },
-  "enqueued": 1,
+  "enqueued": 0,
   "usage": {
-    "input_tokens": 3053,
+    "input_tokens": 3609,
     "cache_creation_input_tokens": 0,
     "cache_read_input_tokens": 0,
     "cache_creation": {
       "ephemeral_5m_input_tokens": 0,
       "ephemeral_1h_input_tokens": 0
     },
-    "output_tokens": 730,
+    "output_tokens": 1037,
     "service_tier": "standard",
     "inference_geo": "not_available"
   }
