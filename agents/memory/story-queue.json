@@ -2349,7 +2349,52 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "Morning Docket: 07.21.26",
+      "slug": "morning-docket-07-21-26",
+      "score": 7,
+      "category": "Legal AI",
+      "story_type": "news",
+      "research_brief": "* Anthropic settles copyright case for $1.5B dollars. [ Reuters ] * Roughly half of Americans think the Supreme Court decides the cases based on politics. The other half are currently assisting a Nigerian prince recover his money. [ ABA Journal ] * The entire American AI industry runs on financing that looks an awful lot like Enron. Good news for future eDiscovery demos in about 5 years! [ Bloomberg Law News ] * Court hits pause on Paramount merger. [ CNBC ] * Arizona Supreme Court rules that at",
+      "primary_source": "https://abovethelaw.com/2026/07/morning-docket-07-21-26/",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "Anthropic copyright settlement at $1.5B signals IP reckoning for large language models in legal sector",
+      "why_now": "Major funding-adjacent story: Anthropic (watch-list company) settlement is material news for legal AI ecosystem, embedded in Morning Docket aggregation",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Above the Law (Legal Tech)",
+      "source_tier": "B",
+      "prefilter_score": 8,
+      "matched_terms": [
+        "Anthropic"
+      ],
+      "fingerprint": {
+        "entities": [
+          "anthropic",
+          "supreme court"
+        ],
+        "numerics": [
+          "1.5bn"
+        ],
+        "keywords": [],
+        "title_tokens": [
+          "morning",
+          "docket"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-07-21T16:37:41.685Z",
+      "queued_at": "2026-07-21T16:37:41.691Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-07-16T14:11:03.318Z"
+  "last_updated": "2026-07-21T16:37:41.691Z"
 }

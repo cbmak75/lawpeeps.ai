@@ -1,125 +1,89 @@
 {
-  "generated": "2026-07-21T14:10:44.731Z",
+  "generated": "2026-07-21T16:37:41.692Z",
   "cycle_type": "triage",
   "tier_filter": null,
-  "shortlist_size": 10,
+  "shortlist_size": 6,
   "prefilter": {
     "total": 40,
-    "accepted": 10,
+    "accepted": 6,
     "borderline": 0,
-    "rejected": 30,
-    "rejected_as_duplicate": 30,
-    "accept_rate": 25
+    "rejected": 34,
+    "rejected_as_duplicate": 34,
+    "accept_rate": 15
   },
   "model": "claude-haiku-4-5-20251001",
   "picks": [
     {
-      "id": "above-the-law-legaltech-9",
-      "score": 6,
+      "id": "above-the-law-legaltech-3",
+      "score": 7,
       "category": "Legal AI",
-      "suggested_angle": "Anthropic copyright settlement signals shift in AI liability for legal sector",
-      "why_now": "Morning docket roundup mentions $1.5B Anthropic copyright settlement; relevant to legal AI risk landscape but needs independent verification of settlement terms and legal sector implications",
-      "verdict": "watch",
+      "suggested_angle": "Anthropic copyright settlement at $1.5B signals IP reckoning for large language models in legal sector",
+      "why_now": "Major funding-adjacent story: Anthropic (watch-list company) settlement is material news for legal AI ecosystem, embedded in Morning Docket aggregation",
+      "verdict": "enqueue",
       "duplicate_of": null
     },
     {
-      "id": "law-society-gazette-1",
+      "id": "law-society-gazette-0",
       "score": 4,
-      "category": "Regulatory",
-      "suggested_angle": "Law Society restates calls on new Lord Chancellor for legal aid and jury trial reform",
-      "why_now": "Law Society advocacy piece; mentions 'Eve' in keyword match but summary shows focus on jury trials and legal aid, not legal AI—likely a false positive from keyword filter",
+      "category": "Policy",
+      "suggested_angle": "Law Society renews calls on Lord Chancellor for legal aid and jury trial reform",
+      "why_now": "UK regulatory environment commentary but lacks AI angle and new hook beyond repeating existing positions",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
-      "id": "arxiv-cs-ai-2",
+      "id": "above-the-law-legaltech-2",
       "score": 3,
       "category": "Research",
-      "suggested_angle": "Multi-agent LLM systems vulnerable to planning-phase prompt injection attacks",
-      "why_now": "Academic paper on LLM security; of interest to legal AI builders but not a breaking story or primary industry development",
+      "suggested_angle": "Healthcare AI faces competing regulatory regimes (patent, FDA, HIPAA)",
+      "why_now": "Tangentially legal but not legal AI, not UK-focused, general constraint analysis without new reporting",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
-      "id": "arxiv-cs-ai-0",
+      "id": "law-society-gazette-4",
       "score": 2,
-      "category": "Research",
-      "suggested_angle": "Multimodal LLM research on food portion estimation using geometry",
-      "why_now": "Not legal or legal AI relevant; keyword filter false positive",
+      "category": "Policy",
+      "suggested_angle": "Climate justice ICJ opinion poses UK compensation risk",
+      "why_now": "Not legal AI, not legal tech, off-editorial scope",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
-      "id": "arxiv-cs-ai-3",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "Constraint programming optimization via supervised learning",
-      "why_now": "General CS research; not legal AI relevant; keyword filter false positive",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-4",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "Multi-agent coordination fairness in decentralized systems",
-      "why_now": "General CS research; not legal AI relevant; keyword filter false positive",
+      "id": "hacker-news-1",
+      "score": 1,
+      "category": "Social",
+      "suggested_angle": "Startup launches AI-agent-only MMO game",
+      "why_now": "No legal angle, no AI governance angle, game entertainment product",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
       "id": "arxiv-cs-ai-5",
-      "score": 3,
-      "category": "Research",
-      "suggested_angle": "AI systems generate novel mathematical proofs in Banach space theory",
-      "why_now": "Academic paper showing LLM capability in mathematical discovery; tangentially relevant to legal AI reasoning but not a breaking story for legal sector",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-6",
       "score": 2,
       "category": "Research",
-      "suggested_angle": "Multi-exposure fusion via implicit neural representation",
-      "why_now": "Computer vision research; not legal AI relevant; keyword filter false positive",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-7",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "Autonomous research agents optimize code against evaluation metrics",
-      "why_now": "General AI research; not legal AI relevant; keyword filter false positive",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "above-the-law-legaltech-8",
-      "score": 3,
-      "category": "Policy",
-      "suggested_angle": "Patent, FDA and HIPAA regimes create conflicting incentives for healthcare AI developers",
-      "why_now": "Healthcare AI policy analysis; not legal AI or legal tech focused; keyword filter likely false positive on 'Eve'",
+      "suggested_angle": "Constraint programming research on energetic reasoning optimization",
+      "why_now": "Pure CS theory, no legal application, no watch-list company tie-in",
       "verdict": "drop",
       "duplicate_of": null
     }
   ],
   "summary": {
-    "enqueue_count": 0,
-    "watch_count": 1,
-    "drop_count": 9,
-    "notes": "Shortlist heavily contaminated by keyword filter false positives (arXiv papers on general ML, healthcare policy). One item (Anthropic copyright settlement) warrants investigation but needs independent confirmation before enqueueing. Recent coverage on Anthropic and legal AI funding already extensive. No regulatory statements, no named company funding rounds, no primary source legal AI stories. Recommend tightening keyword filter to exclude generic CS/ML arXiv papers and healthcare content."
+    "enqueue_count": 1,
+    "watch_count": 0,
+    "drop_count": 5,
+    "notes": "Only Anthropic settlement in Above the Law Morning Docket qualifies; it's embedded in aggregation but signals material IP/funding story worth editor review. Five items out of scope or low-value commentary."
   },
-  "enqueued": 0,
+  "enqueued": 1,
   "usage": {
-    "input_tokens": 3794,
+    "input_tokens": 3053,
     "cache_creation_input_tokens": 0,
     "cache_read_input_tokens": 0,
     "cache_creation": {
       "ephemeral_5m_input_tokens": 0,
       "ephemeral_1h_input_tokens": 0
     },
-    "output_tokens": 1207,
+    "output_tokens": 730,
     "service_tier": "standard",
     "inference_geo": "not_available"
   }
