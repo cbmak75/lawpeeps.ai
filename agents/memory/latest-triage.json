@@ -1,15 +1,15 @@
 {
-  "generated": "2026-07-21T19:42:59.495Z",
+  "generated": "2026-07-21T22:08:36.700Z",
   "cycle_type": "triage",
   "tier_filter": null,
-  "shortlist_size": 9,
+  "shortlist_size": 8,
   "prefilter": {
     "total": 40,
-    "accepted": 9,
+    "accepted": 8,
     "borderline": 0,
-    "rejected": 31,
-    "rejected_as_duplicate": 31,
-    "accept_rate": 23
+    "rejected": 32,
+    "rejected_as_duplicate": 32,
+    "accept_rate": 20
   },
   "model": "claude-haiku-4-5-20251001",
   "picks": [
@@ -17,80 +17,71 @@
       "id": "above-the-law-legaltech-0",
       "score": 2,
       "category": "Social",
-      "suggested_angle": "Not legal AI or legal tech news",
-      "why_now": "Political attack piece unrelated to lawpeeps.ai editorial remit",
+      "suggested_angle": "Political commentary on DOJ investigation threats unrelated to legal tech.",
+      "why_now": "Failed prefilter: matched 'Litera' but story is pure political commentary with no legal AI, legal tech, or regulatory angle.",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
-      "id": "law-society-gazette-1",
-      "score": 6,
-      "category": "Regulatory",
-      "suggested_angle": "Law Society calls on new Lord Chancellor to expand legal aid and jury access; AI impact unclear",
-      "why_now": "New Ministry of Justice leadership creates policy window, but this is generic lobbying rather than AI-specific story",
+      "id": "arxiv-cs-ai-1",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Multimodal LLM research on food portion estimation.",
+      "why_now": "Unrelated to legal AI or legal tech; generic ML research with no vertical application.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "law-society-gazette-2",
+      "score": 4,
+      "category": "Policy",
+      "suggested_angle": "Law Society lobbies new Lord Chancellor on jury trials and legal aid.",
+      "why_now": "Matched 'legal AI' and 'Eve' but summary shows pure policy advocacy with no AI content; low signal.",
       "verdict": "watch",
       "duplicate_of": null
     },
     {
-      "id": "arxiv-cs-ai-2",
+      "id": "arxiv-cs-ai-3",
       "score": 1,
       "category": "Research",
-      "suggested_angle": "Not legal AI research; food portion estimation in healthcare",
-      "why_now": "Keyword match is false positive; no legal application",
+      "suggested_angle": "Constraint programming optimization paper.",
+      "why_now": "Generic CS research; false positive on keyword filter ('Eve' likely matched on unrelated term); no legal relevance.",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
-      "id": "above-the-law-legaltech-3",
-      "score": 4,
-      "category": "Legal AI",
-      "suggested_angle": "Healthcare AI navigates patent, FDA, HIPAA regimes; legal tech implications peripheral",
-      "why_now": "Commentary on healthcare AI rather than legal AI or legal tech",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "law-society-gazette-4",
-      "score": 3,
-      "category": "Policy",
-      "suggested_angle": "ICJ climate justice opinion could expose UK to massive claims; AI not involved",
-      "why_now": "Climate law policy, not legal AI news",
+      "id": "arxiv-cs-ai-4",
+      "score": 1,
+      "category": "Research",
+      "suggested_angle": "Multi-agent coordination fairness in decentralized systems.",
+      "why_now": "Generic AI research unrelated to legal tech or law; keyword-filter noise.",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
       "id": "arxiv-cs-ai-5",
-      "score": 1,
+      "score": 5,
       "category": "Research",
-      "suggested_angle": "Constraint programming optimization; no legal application",
-      "why_now": "False positive; pure CS research unrelated to legal domain",
-      "verdict": "drop",
+      "suggested_angle": "AI assists mathematical discovery and proofs in Banach space theory; model reasoning as research tool.",
+      "why_now": "Demonstrates LLM capability in high-assurance reasoning domain; signals potential for legal reasoning tasks; open editorial thread on AI accuracy in high-stakes contexts.",
+      "verdict": "watch",
       "duplicate_of": null
     },
     {
       "id": "arxiv-cs-ai-6",
       "score": 1,
       "category": "Research",
-      "suggested_angle": "Multi-agent coordination in decentralized systems; no legal application",
-      "why_now": "False positive; distributed systems research unrelated to legal",
+      "suggested_angle": "Multi-exposure image fusion via neural representation.",
+      "why_now": "Computer vision paper; matched 'Luminance' (keyword only, unrelated to company); no legal relevance.",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
       "id": "arxiv-cs-ai-7",
-      "score": 5,
+      "score": 3,
       "category": "Research",
-      "suggested_angle": "LLMs contribute to mathematical discovery; potential precedent for AI in knowledge work but not law-specific",
-      "why_now": "Interesting capability demo but not legal AI or legal tech news; open thread on AI accuracy in specialised domains only tangentially relevant",
-      "verdict": "watch",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-8",
-      "score": 1,
-      "category": "Research",
-      "suggested_angle": "Computer vision for multi-exposure image fusion; no legal application",
-      "why_now": "False positive; image processing research unrelated to legal",
+      "suggested_angle": "Autonomous coding agents self-improve against metrics; autoresearch pattern.",
+      "why_now": "Tangentially relevant to agentic AI and autonomous systems capability, but dataset is Quran recitation (no legal relevance); keyword-filter false positive.",
       "verdict": "drop",
       "duplicate_of": null
     }
@@ -98,19 +89,19 @@
   "summary": {
     "enqueue_count": 0,
     "watch_count": 2,
-    "drop_count": 7,
-    "notes": "Shortlist is heavily contaminated with non-legal-AI noise (computer vision, constraint programming, healthcare, climate policy, political commentary). No stories meet enqueue threshold. Watch items: Law Society govt engagement (possible regulatory angle if AI mentioned) and LLM mathematical research (capability demo with tangential relevance to legal knowledge work). Recommend tightening keyword filter to reduce false positives."
+    "drop_count": 6,
+    "notes": "Shortlist is heavily noise: 6 pure research papers (keyword-filter artifacts), 1 political commentary, 1 Law Society lobbying piece. Two watch flags: Law Society piece (unclear if AI angle exists in full text) and arxiv-cs-ai-5 (mathematical proof assistants have oblique bearing on legal reasoning assurance)."
   },
   "enqueued": 0,
   "usage": {
-    "input_tokens": 3609,
+    "input_tokens": 3451,
     "cache_creation_input_tokens": 0,
     "cache_read_input_tokens": 0,
     "cache_creation": {
       "ephemeral_5m_input_tokens": 0,
       "ephemeral_1h_input_tokens": 0
     },
-    "output_tokens": 1037,
+    "output_tokens": 1005,
     "service_tier": "standard",
     "inference_geo": "not_available"
   }

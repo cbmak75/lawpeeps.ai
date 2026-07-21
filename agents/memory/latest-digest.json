@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-21T19:42:48.918Z",
+  "generated": "2026-07-21T22:08:26.751Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 1527,
+  "total_scanned": 1536,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -148,18 +148,6 @@
       "source_priority": "medium",
       "source_tier": "A",
       "source_category": "Aggregator",
-      "relevance_score": 9
-    },
-    {
-      "title": "New lord chancellor has a 'golden opportunity' - Society",
-      "url": "https://www.lawgazette.co.uk/news/new-lord-chancellor-has-a-golden-opportunity-society/5127440.article",
-      "summary": "Chancery Lane repeats calls on Norris to reverse curbs on jury trials and to increase legal aid.",
-      "published": "2026-07-21T13:50:00.000Z",
-      "source_id": "law-society-gazette",
-      "source_name": "Law Society Gazette",
-      "source_priority": "medium",
-      "source_tier": "B",
-      "source_category": "Legal profession",
       "relevance_score": 9
     },
     {
@@ -355,10 +343,10 @@
       "relevance_score": 7
     },
     {
-      "title": "John Yoo Wants DOJ To Investigate Mamdani For Crime He Literally Did Not Commit",
-      "url": "https://abovethelaw.com/2026/07/john-yoo-wants-doj-to-investigate-mamdani-for-crime-he-literally-did-not-commit/",
-      "summary": "Torture memo thug appears on Fox News to casually threaten the NYC mayor -- and all of us. The post John Yoo Wants DOJ To Investigate Mamdani For Crime He Literally Did Not Commit appeared first on Above the Law .",
-      "published": "2026-07-21T18:32:00.000Z",
+      "title": "Lawyers Learning You Can&#8217;t Square Peg AI Into eDiscovery Round Holes",
+      "url": "https://abovethelaw.com/2026/07/lawyers-learning-you-cant-square-peg-ai-into-ediscovery-round-holes/",
+      "summary": "Everyone has a vague notion of 'AI,' but when it comes to discovery, we already built better tech a decade ago. The post Lawyers Learning You Can&#8217;t Square Peg AI Into eDiscovery Round Holes appeared first on Above the Law .",
+      "published": "2026-07-21T20:44:00.000Z",
       "source_id": "above-the-law-legaltech",
       "source_name": "Above the Law (Legal Tech)",
       "source_priority": "high",
@@ -367,10 +355,10 @@
       "relevance_score": 7
     },
     {
-      "title": "The AI Tension In Healthcare: Patent Strategy, FDA Reality, And HIPAA Constraints",
-      "url": "https://medcitynews.com/2026/07/the-ai-tension-in-healthcare-patent-strategy-fda-reality-and-hipaa-constraints/",
-      "summary": "These three legal regimes are pulling in different directions, and the developers that navigate them well will be the ones that plan for all three from the start. The post The AI Tension In Healthcare: Patent Strategy, FDA Reality, And HIPAA Constraints appeared first on Above the Law .",
-      "published": "2026-07-21T14:03:00.000Z",
+      "title": "John Yoo Wants DOJ To Investigate Mamdani For Crime He Literally Did Not Commit",
+      "url": "https://abovethelaw.com/2026/07/john-yoo-wants-doj-to-investigate-mamdani-for-crime-he-literally-did-not-commit/",
+      "summary": "Torture memo thug appears on Fox News to casually threaten the NYC mayor -- and all of us. The post John Yoo Wants DOJ To Investigate Mamdani For Crime He Literally Did Not Commit appeared first on Above the Law .",
+      "published": "2026-07-21T18:32:00.000Z",
       "source_id": "above-the-law-legaltech",
       "source_name": "Above the Law (Legal Tech)",
       "source_priority": "high",
@@ -391,24 +379,12 @@
       "relevance_score": 7
     },
     {
-      "title": "In depth: ICJ opinion could land UK with massive climate justice bill",
-      "url": "https://www.lawgazette.co.uk/news-focus/in-depth-icj-opinion-could-land-uk-with-massive-climate-justice-bill/5127441.article",
-      "summary": "Thinktank calls for action to prevent landmark advisory opinion on carbon emissions landing the UK with climate compensation claims running into the trillions of pounds.",
-      "published": "2026-07-21T14:57:00.000Z",
+      "title": "New lord chancellor has a 'golden opportunity' - Society",
+      "url": "https://www.lawgazette.co.uk/news/new-lord-chancellor-has-a-golden-opportunity-society/5127440.article",
+      "summary": "Chancery Lane repeats calls on Norris to reverse curbs on jury trials and to increase legal aid.",
+      "published": "2026-07-21T13:50:00.000Z",
       "source_id": "law-society-gazette",
       "source_name": "Law Society Gazette",
-      "source_priority": "medium",
-      "source_tier": "B",
-      "source_category": "Legal profession",
-      "relevance_score": 7
-    },
-    {
-      "title": "Labour MP who called himself a &#8216;solicitor&#8217; despite never qualifying lands top cabinet job in Burnham&#8217;s new government",
-      "url": "https://www.legalcheek.com/2026/07/labour-mp-who-called-himself-a-solicitor-despite-never-qualifying-lands-top-cabinet-job-in-burnhams-new-government/",
-      "summary": "Jonathan Reynolds back as Business Sec The post Labour MP who called himself a &#8216;solicitor&#8217; despite never qualifying lands top cabinet job in Burnham&#8217;s new government appeared first on Legal Cheek .",
-      "published": "2026-07-21T14:54:28.000Z",
-      "source_id": "legal-cheek",
-      "source_name": "Legal Cheek",
       "source_priority": "medium",
       "source_tier": "B",
       "source_category": "Legal profession",
@@ -485,6 +461,30 @@
       "source_tier": "B",
       "source_category": "Research",
       "relevance_score": 7
+    },
+    {
+      "title": "Autoresearch with Coding Agents: Generalizers and Metric-Maximizers on Quran Recitation Data",
+      "url": "https://arxiv.org/abs/2607.18064",
+      "summary": "arXiv:2607.18064v1 Announce Type: cross Abstract: Coding agents can now be left alone to improve software against a score. In this pattern--recently popularized as \"autoresearch\"--the agent receives a dataset, an evaluation script, and one editable file, and iterates without supervision: modify the code, measure, keep the change if the score improves. But what does the agent actually optimize--the developer's intent, or the literal number? We ran this loop on a real production task: deciding whi",
+      "published": "2026-07-21T04:00:00.000Z",
+      "source_id": "arxiv-cs-ai",
+      "source_name": "arXiv cs.AI (keyword-filtered)",
+      "source_priority": "low",
+      "source_tier": "B",
+      "source_category": "Research",
+      "relevance_score": 7
+    },
+    {
+      "title": "Legal AI Assistant And Atty Ad Platform Vikk AI Raises $4.2M - Law360",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZzJja2ZlSHAzSV9IVUN0VmZCTGM3MnlsOHNOZnpDb2xZczgtNGczZ3JPRHpSbFpJVFI0djVUYk15NjBOcVRYXzlDbjFabGhKQVFvemZZUE8wN3djMmV3bnNsS2xkRjhhY0xXUDJoQU9OaU9NSjRrOHNTekIzVmR1TEV1SFFQYWQzUzBNUGRldElLd003MkNPSXR2UnExelZ10gFeQVVfeXFMTkx5WEU4cVRtcjE0ZlF5SGpBUS1oRU5JWWQ2Y1AtRmhsR1RvbDF4VF9paXhBdzRoQmxIYkotR2haZXNSSnlOTExhVklNWDY0eDlGWm5yRVBtNWNwNlBlQQ?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPZzJja2ZlSHAzSV9IVUN0VmZCTGM3MnlsOHNOZnpDb2xZczgtNGczZ3JPRHpSbFpJVFI0djVUYk15NjBOcVRYXzlDbjFabGhKQVFvemZZUE8wN3djMmV3bnNsS2xkRjhhY0xXUDJoQU9OaU9NSjRrOHNTekIzVmR1TEV1SFFQYWQzUzBNUGRldElLd003MkNPSXR2UnExelZ10gFeQVVfeXFMTkx5WEU4cVRtcjE0ZlF5SGpBUS1oRU5JWWQ2Y1AtRmhsR1RvbDF4VF9paXhBdzRoQmxIYkotR2haZXNSSnlOTExhVklNWDY0eDlGWm5yRVBtNWNwNlBlQQ?oc=5\" target=\"_blank\"&gt;Legal AI Assistant And Atty Ad Platform Vikk AI Raises $4.2M&lt;/a&gt;&amp;",
+      "published": "2026-07-21T19:24:00.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
     }
   ]
 }
