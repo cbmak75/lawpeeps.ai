@@ -1,98 +1,31 @@
 {
-  "generated": "2026-07-22T03:27:56.160Z",
+  "generated": "2026-07-22T08:40:42.567Z",
   "cycle_type": "triage",
   "tier_filter": null,
-  "shortlist_size": 7,
+  "shortlist_size": 20,
   "prefilter": {
     "total": 40,
-    "accepted": 7,
+    "accepted": 28,
     "borderline": 0,
-    "rejected": 33,
-    "rejected_as_duplicate": 33,
-    "accept_rate": 18
+    "rejected": 12,
+    "rejected_as_duplicate": 12,
+    "accept_rate": 70
   },
   "model": "claude-haiku-4-5-20251001",
-  "picks": [
-    {
-      "id": "legal-futures-1",
-      "score": 5,
-      "category": "Adoption",
-      "suggested_angle": "Gateley's AI and automation-driven headcount cuts as revenue grows",
-      "why_now": "Listed firm results with staff reductions signal real adoption pressure, but story lacks explicit AI/tech angle confirmation",
-      "verdict": "watch",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-0",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "Dietary assessment via multimodal LLMs",
-      "why_now": "Pure AI research with no legal angle; keyword match on LLM/GPT/Claude is too broad",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-2",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "Constraint programming optimization",
-      "why_now": "Generic CS research; matched keywords (Litera, Eve) are false positives with no legal context",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-3",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "Decentralized multi-agent coordination fairness",
-      "why_now": "Abstract systems research unrelated to legal AI; keyword matches are noise",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-4",
-      "score": 3,
-      "category": "Research",
-      "suggested_angle": "LLMs contribute to mathematical theorem discovery and proof generation",
-      "why_now": "Demonstrates AI capability in rigorous reasoning that could inform legal research potential, but not directly legal",
-      "verdict": "watch",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-5",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "Multi-exposure image fusion via neural networks",
-      "why_now": "Computer vision research; keyword match on Luminance is false positive",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-6",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "Autonomous coding agents for dataset improvement",
-      "why_now": "Generic AI agent research; no legal relevance despite broad keyword filtering",
-      "verdict": "drop",
-      "duplicate_of": null
-    }
-  ],
+  "picks": [],
   "summary": {
-    "enqueue_count": 0,
-    "watch_count": 2,
-    "drop_count": 5,
-    "notes": "Shortlist heavily contaminated by arXiv keyword-matching noise. Legal Futures story on Gateley needs independent confirmation of AI/automation angle. arxiv-cs-ai-4 on mathematical proof generation has peripheral relevance to legal reasoning capability but not yet actionable."
+    "notes": "parse_failed"
   },
   "enqueued": 0,
   "usage": {
-    "input_tokens": 3304,
+    "input_tokens": 5650,
     "cache_creation_input_tokens": 0,
     "cache_read_input_tokens": 0,
     "cache_creation": {
       "ephemeral_5m_input_tokens": 0,
       "ephemeral_1h_input_tokens": 0
     },
-    "output_tokens": 807,
+    "output_tokens": 2000,
     "service_tier": "standard",
     "inference_geo": "not_available"
   }
