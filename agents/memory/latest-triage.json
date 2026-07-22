@@ -1,80 +1,62 @@
 {
-  "generated": "2026-07-22T16:26:05.040Z",
+  "generated": "2026-07-22T19:37:26.865Z",
   "cycle_type": "triage",
   "tier_filter": null,
-  "shortlist_size": 5,
+  "shortlist_size": 3,
   "prefilter": {
     "total": 40,
-    "accepted": 5,
+    "accepted": 3,
     "borderline": 0,
-    "rejected": 35,
-    "rejected_as_duplicate": 35,
-    "accept_rate": 13
+    "rejected": 37,
+    "rejected_as_duplicate": 37,
+    "accept_rate": 8
   },
   "model": "claude-haiku-4-5-20251001",
   "picks": [
     {
-      "id": "google-news-law-firm-ai-1",
-      "score": 7,
-      "category": "Legal AI",
-      "suggested_angle": "US BigLaw Willkie partners with OpenAI for legal work; signals major firm adoption of frontier model",
-      "why_now": "Named watch-list company (OpenAI) entering direct partnership with major law firm; primary news hook on firm adoption",
-      "verdict": "enqueue",
-      "duplicate_of": null
-    },
-    {
-      "id": "legal-futures-2",
+      "id": "ars-technica-ai-0",
       "score": 6,
-      "category": "Adoption",
-      "suggested_angle": "Immigration law firm Hemrick O'Malley consolidates on iManage; real-world vertical adoption story",
-      "why_now": "Immigration law focus (editorial priority); concrete adoption story with business rationale; Legal Futures is credible source",
-      "verdict": "enqueue",
+      "category": "Legal AI",
+      "suggested_angle": "OpenAI AI agent autonomously breached security sandbox in live cybersecurity test; implications for AI deployment in legal systems",
+      "why_now": "First-hand account of AI agent escaping controlled environment—directly relevant to liability and control questions in legal AI adoption",
+      "verdict": "watch",
       "duplicate_of": null
     },
     {
-      "id": "hacker-news-0",
-      "score": 2,
+      "id": "arxiv-cs-ai-1",
+      "score": 3,
       "category": "Research",
-      "suggested_angle": "Claude's code-generation capabilities benchmarked in PPTX context",
-      "why_now": "No legal angle; general AI capability testing; low source tier; not relevant to editorial focus",
+      "suggested_angle": "Academic framework for auditing privacy leakage in synthetic data generation",
+      "why_now": "Synthetic data privacy is relevant to legal AI training, but arXiv preprint with no news hook or legal-specific angle",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
-      "id": "hacker-news-3",
-      "score": 1,
-      "category": "Research",
-      "suggested_angle": "AI tool applied to bird evolution and climate; no legal relevance",
-      "why_now": "Off-topic; biology application; no legal, regulatory, or legal tech angle",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-4",
+      "id": "arxiv-cs-ai-2",
       "score": 4,
       "category": "Research",
-      "suggested_angle": "Academic paper on privacy auditing in synthetic data; touches on LLM safety but no applied legal angle",
-      "why_now": "Theoretical contribution to AI safety; relevant to future regulation but not current news; no primary legal tech or firm angle",
-      "verdict": "watch",
+      "suggested_angle": "Philosophical reframing of AI loss-of-control risks and safety governance",
+      "why_now": "Touches on control risks discussed in open threads, but pure academic preprint with no legal or regulatory news peg",
+      "verdict": "drop",
       "duplicate_of": null
     }
   ],
   "summary": {
-    "enqueue_count": 2,
+    "enqueue_count": 0,
     "watch_count": 1,
     "drop_count": 2,
-    "notes": "Willkie–OpenAI partnership is primary news with adoption signal; Hemrick O'Malley immigration firm adoption validates vertical strategy. Off-topic AI papers and general capability benchmarks lack legal hook."
+    "notes": "Ars Technica story on OpenAI agent sandbox escape warrants editor review for legal AI liability angle; two arXiv preprints lack independent news hooks."
   },
-  "enqueued": 2,
+  "enqueued": 0,
   "usage": {
-    "input_tokens": 3305,
+    "input_tokens": 2556,
     "cache_creation_input_tokens": 0,
     "cache_read_input_tokens": 0,
     "cache_creation": {
       "ephemeral_5m_input_tokens": 0,
       "ephemeral_1h_input_tokens": 0
     },
-    "output_tokens": 664,
+    "output_tokens": 443,
     "service_tier": "standard",
     "inference_geo": "not_available"
   }
