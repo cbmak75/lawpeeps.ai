@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-22T19:37:16.929Z",
+  "generated": "2026-07-22T22:11:16.274Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 1339,
+  "total_scanned": 1359,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -100,6 +100,18 @@
       "source_priority": "critical",
       "source_tier": "B",
       "source_category": "Legal tech commentary",
+      "relevance_score": 10
+    },
+    {
+      "title": "AI agent went rogue and hacked startup by itself, OpenAI reveals",
+      "url": "https://www.theguardian.com/technology/2026/jul/22/openai-says-its-models-went-rogue-and-hacked-startup-in-unprecedented-incident",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/jul/22/openai-says-its-models-went-rogue-and-hacked-startup-in-unprecedented-incident Comments URL: https://news.ycombinator.com/item?id=49014108 Points: 1 # Comments: 0",
+      "published": "2026-07-22T22:06:32.000Z",
+      "source_id": "hacker-news",
+      "source_name": "Hacker News (filtered)",
+      "source_priority": "low",
+      "source_tier": "B",
+      "source_category": "Community",
       "relevance_score": 10
     },
     {
@@ -331,30 +343,6 @@
       "relevance_score": 8
     },
     {
-      "title": "OpenAI Partners With Willkie to Build Custom Legal AI Tools - Bloomberg Law News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdDN0bU93M3NvdzNwVUNaUFh2TU0yODd5bEc0OHVjc243dmFkNVRsQi1YdFpPa0RRUk5XbF9mUm05Yll6enB3RkNfVVByY29ab0YyUWVWdGdtNk92S0FYTmdyc3BkM0tIU1NFN25QNlN4cFJjbHpjYU9jbl81a012alVUb1d1Um5aTHZ1Nm9CcjlGQXFjNE5WRU96RC1yWGpxZGRkME1MOW5PTFc4?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNdDN0bU93M3NvdzNwVUNaUFh2TU0yODd5bEc0OHVjc243dmFkNVRsQi1YdFpPa0RRUk5XbF9mUm05Yll6enB3RkNfVVByY29ab0YyUWVWdGdtNk92S0FYTmdyc3BkM0tIU1NFN25QNlN4cFJjbHpjYU9jbl81a012alVUb1d1Um5aTHZ1Nm9CcjlGQXFjNE5WRU96RC1yWGpxZGRkME1MOW5PTFc4?oc=5\" target=\"_blank\"&gt;OpenAI Partners With Willkie to Build Custom Legal AI Tools&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Bloomberg Law News&lt;/font&gt;",
-      "published": "2026-07-22T09:00:00.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 7
-    },
-    {
-      "title": "Breaking: OpenAI Cracks New Deal To Build Legal AI Tools As Sam Altman Eyes $1 Trillion IPO - CoinGape",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZHZETU5TQXdUcGhqVlF0UVRlUlJCdTB5eDNxb3pLamlXTHZMdDktZTlKTEdnR3FHdUhZWTdzV3dNUUotREJNbUFMZGgxak92Tlh4R0NraGhPWmJOd24xQWVsaE84RldoVmZDa1hUV283ZUNQbmZZQUIzUFUxaHRTQzh0a1dWQk1JYzdRV1I3U0VuWG0xaFYwRUozTzRMdl95SGxRdw?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQZHZETU5TQXdUcGhqVlF0UVRlUlJCdTB5eDNxb3pLamlXTHZMdDktZTlKTEdnR3FHdUhZWTdzV3dNUUotREJNbUFMZGgxak92Tlh4R0NraGhPWmJOd24xQWVsaE84RldoVmZDa1hUV283ZUNQbmZZQUIzUFUxaHRTQzh0a1dWQk1JYzdRV1I3U0VuWG0xaFYwRUozTzRMdl95SGxRdw?oc=5\" target=\"_blank\"&gt;Breaking: OpenAI Cracks New Deal To Build Legal AI Tools As Sam Altman Eyes $1 Trillion IPO&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;CoinGape&lt;/font&gt;",
-      "published": "2026-07-22T09:58:00.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 7
-    },
-    {
       "title": "Breaking: OpenAI Cracks New Deal To Build Legal AI Tools As Sam Altman Eyes $1 Trillion IPO - Cryptonews.net",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBvTHVGSGk1aXNpbF9ncHVMME9mZGJtS0w5NjU0ZEs2T0NmTGR2a0d4OU9pMmtMMTZpMWlVSzlmcXRDclROQW1hdFc2aTZ5VUE1bThIdzJtOFY?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBvTHVGSGk1aXNpbF9ncHVMME9mZGJtS0w5NjU0ZEs2T0NmTGR2a0d4OU9pMmtMMTZpMWlVSzlmcXRDclROQW1hdFc2aTZ5VUE1bThIdzJtOFY?oc=5\" target=\"_blank\"&gt;Breaking: OpenAI Cracks New Deal To Build Legal AI Tools As Sam Altman Eyes $1 Trillion IPO&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Cryptonews.net&lt;/font&gt;",
@@ -373,6 +361,18 @@
       "published": "2026-06-22T07:00:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 7
+    },
+    {
+      "title": "Willkie Farr And OpenAI Building Proprietary AI Named After Guy Who Would Not Have Cut A Deal With Trump - Above the Law",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc3hGS2I1enhsbmVZcldKUmhtZkk4cGVKMERYQW1Ea1pTMUdER2lsNjMtNDhBRlZMUWx4NkZ5MndsZ0RnUEl4VHRpUmwzbGhGODM5Wk9qbHEwM1N1RHlTaEM0QWpZSTkzb0daUEJjWkZHVTBXS3RiVnl5T0JDUnBHa2NTX3E4aUJUMXhhcmRERGdBcGdWN3ZzbjBXWG1jSTdYcUJmZlQ1V2RjZXlLLTh1dDdWWWRjZGJKVmJaaVdoTktvNGtMUjlpVGlUQjFRc3R6eHBn?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc3hGS2I1enhsbmVZcldKUmhtZkk4cGVKMERYQW1Ea1pTMUdER2lsNjMtNDhBRlZMUWx4NkZ5MndsZ0RnUEl4VHRpUmwzbGhGODM5Wk9qbHEwM1N1RHlTaEM0QWpZSTkzb0daUEJjWkZHVTBXS3RiVnl5T0JDUnBHa2NTX3E4aUJUMXhhcmRERGdBcGdWN3ZzbjBXWG1jSTdYcUJmZlQ1V2RjZXlLLTh1dDdWWWRjZGJKVmJaaVdoTktvNGtMUjlpVGlUQjFRc3R6eHBn?oc=5\" target=\"_blank\"&gt;Willkie Farr And OpenAI Building Proprietary AI Named After Guy Who Would Not Have Cut A Deal With Trump&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt",
+      "published": "2026-07-22T20:00:00.000Z",
+      "source_id": "google-news-law-firm-ai",
+      "source_name": "Google News: law firm AI",
       "source_priority": "critical",
       "source_tier": "A",
       "source_category": "Aggregator",
@@ -427,6 +427,42 @@
       "relevance_score": 7
     },
     {
+      "title": "Matt Damon Still Can’t Believe He Was Ketanji Brown Jackson’s College Scene Partner",
+      "url": "https://abovethelaw.com/2026/07/matt-damon-still-cant-believe-he-was-ketanji-brown-jacksons-college-scene-partner/",
+      "summary": "Justice Ketanji Brown Jackson's college memories gave the actor a story he'll never stop telling. The post Matt Damon Still Can’t Believe He Was Ketanji Brown Jackson’s College Scene Partner appeared first on Above the Law .",
+      "published": "2026-07-22T21:29:00.000Z",
+      "source_id": "above-the-law-legaltech",
+      "source_name": "Above the Law (Legal Tech)",
+      "source_priority": "high",
+      "source_tier": "B",
+      "source_category": "Legal profession",
+      "relevance_score": 7
+    },
+    {
+      "title": "Senate Democrats Reintroduce Supreme Court Term Limits Bill, And The Polling Has Never Been Friendlier",
+      "url": "https://abovethelaw.com/2026/07/senate-democrats-reintroduce-supreme-court-term-limits-bill-and-the-polling-has-never-been-friendlier/",
+      "summary": "Popular with Republican voters, not so much with Republican Senators... The post Senate Democrats Reintroduce Supreme Court Term Limits Bill, And The Polling Has Never Been Friendlier appeared first on Above the Law .",
+      "published": "2026-07-22T20:44:00.000Z",
+      "source_id": "above-the-law-legaltech",
+      "source_name": "Above the Law (Legal Tech)",
+      "source_priority": "high",
+      "source_tier": "B",
+      "source_category": "Legal profession",
+      "relevance_score": 7
+    },
+    {
+      "title": "Willkie Farr And OpenAI Building Proprietary AI Named After Guy Who Would Not Have Cut A Deal With Trump",
+      "url": "https://abovethelaw.com/2026/07/willkie-farr-and-openai-building-proprietary-ai-named-after-guy-who-would-not-have-cut-a-deal-with-trump/",
+      "summary": "The firm's AI platform is called Wendell after Wendell Willkie. They could do with some of his advice. The post Willkie Farr And OpenAI Building Proprietary AI Named After Guy Who Would Not Have Cut A Deal With Trump appeared first on Above the Law .",
+      "published": "2026-07-22T20:00:00.000Z",
+      "source_id": "above-the-law-legaltech",
+      "source_name": "Above the Law (Legal Tech)",
+      "source_priority": "high",
+      "source_tier": "B",
+      "source_category": "Legal profession",
+      "relevance_score": 7
+    },
+    {
       "title": "2026: A Rule Of Law Odyssey",
       "url": "https://abovethelaw.com/2026/07/2026-a-rule-of-law-odyssey/",
       "summary": "Maybe in several years, we can get it back. The post 2026: A Rule Of Law Odyssey appeared first on Above the Law .",
@@ -439,30 +475,6 @@
       "relevance_score": 7
     },
     {
-      "title": "Hemrick O&#8217;Malley PLLC selects iManage to consolidate document and email management across its legal team",
-      "url": "https://www.legalfutures.co.uk/associate-news/hemrick-omalley-pllc-selects-imanage-to-consolidate-document-and-email-management-across-its-legal-team",
-      "summary": "Immigration law firm replaces fragmented systems with iManage Work to reduce manual effort and give legal professionals a single, governed workspace The post Hemrick O&#8217;Malley PLLC selects iManage to consolidate document and email management across its legal team appeared first on Legal Futures .",
-      "published": "2026-07-22T15:59:17.000Z",
-      "source_id": "legal-futures",
-      "source_name": "Legal Futures",
-      "source_priority": "high",
-      "source_tier": "B",
-      "source_category": "Legal business",
-      "relevance_score": 7
-    },
-    {
-      "title": "Why data will define the AI-ready law firm",
-      "url": "https://www.legalfutures.co.uk/associate-news/why-data-will-define-the-ai-ready-law-firm",
-      "summary": "Artificial intelligence (AI) has become one of the most talked-about developments in the legal sector, promising to transform everything from client service to case management. The post Why data will define the AI-ready law firm appeared first on Legal Futures .",
-      "published": "2026-07-22T15:51:12.000Z",
-      "source_id": "legal-futures",
-      "source_name": "Legal Futures",
-      "source_priority": "high",
-      "source_tier": "B",
-      "source_category": "Legal business",
-      "relevance_score": 7
-    },
-    {
       "title": "OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face",
       "url": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/",
       "summary": "\"This is day one for cybersecurity in the age of agents,\" Hugging Face CEO says.",
@@ -472,18 +484,6 @@
       "source_priority": "low",
       "source_tier": "B",
       "source_category": "General AI",
-      "relevance_score": 7
-    },
-    {
-      "title": "Reframing AI Loss of Control: What Control Is, How to Have It, How to Lose It",
-      "url": "https://arxiv.org/abs/2606.12442",
-      "summary": "arXiv:2606.12442v2 Announce Type: replace-cross Abstract: At present, loss of control risks have gained much prominence in public discussion, particularly in relation to AI, with extensive discourse present among academics, frontier labs, and even governments. However, in the existing literature, the concept seems to rest on surprisingly weak foundations, where even those that discuss loss of control extensively do not first establish what control is and what exactly is being lost. Our paper aim",
-      "published": "2026-07-22T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI (keyword-filtered)",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "Research",
       "relevance_score": 7
     }
   ]

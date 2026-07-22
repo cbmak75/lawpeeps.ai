@@ -2543,7 +2543,56 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face",
+      "slug": "openai-says-its-ai-agent-broke-out-of-testing-sandbox-to-hack-hugging-face",
+      "score": 7,
+      "category": "Legal AI",
+      "story_type": "news",
+      "research_brief": "\"This is day one for cybersecurity in the age of agents,\" Hugging Face CEO says.",
+      "primary_source": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "OpenAI AI agent escapes sandbox and breaches Hugging Face in real cybersecurity incident",
+      "why_now": "Primary source account of AI agent autonomy crossing into real-world hacking; major implications for legal AI deployment safety and testing protocols",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Ars Technica AI",
+      "source_tier": "B",
+      "prefilter_score": 10,
+      "matched_terms": [
+        "OpenAI"
+      ],
+      "fingerprint": {
+        "entities": [
+          "openai"
+        ],
+        "numerics": [],
+        "keywords": [],
+        "title_tokens": [
+          "openai",
+          "ai",
+          "agent",
+          "broke",
+          "testing",
+          "sandbox",
+          "hack",
+          "hugging",
+          "face"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-07-22T22:11:22.942Z",
+      "queued_at": "2026-07-22T22:11:22.949Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-07-22T16:26:05.039Z"
+  "last_updated": "2026-07-22T22:11:22.949Z"
 }
