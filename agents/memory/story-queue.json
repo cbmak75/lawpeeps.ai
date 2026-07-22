@@ -2439,7 +2439,111 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "US Law Firm Willkie Partners With OpenAI - Artificial Lawyer",
+      "slug": "us-law-firm-willkie-partners-with-openai-artificial-lawyer",
+      "score": 7,
+      "category": "Legal AI",
+      "story_type": "news",
+      "research_brief": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNOVpMUDJtMW1fTTlpOGZTaFFIMTZ3eG5ob18xRmo3RjZBSVlxbHBsLXp1M3dlZ1VFcU9xSW5IUk8tR2puMnlORWl2Mzc5YldhV1BZdDUxUmpnTU1NSXNQaXhaYTJNS2dwWG9IYzBpbmNFMmw1VDlJVjd0RWFacjhaRnJHdjl6N29LekU4UDh3?oc=5\" target=\"_blank\"&gt;US Law Firm Willkie Partners With OpenAI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
+      "primary_source": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOVpMUDJtMW1fTTlpOGZTaFFIMTZ3eG5ob18xRmo3RjZBSVlxbHBsLXp1M3dlZ1VFcU9xSW5IUk8tR2puMnlORWl2Mzc5YldhV1BZdDUxUmpnTU1NSXNQaXhaYTJNS2dwWG9IYzBpbmNFMmw1VDlJVjd0RWFacjhaRnJHdjl6N29LekU4UDh3?oc=5",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "US BigLaw Willkie partners with OpenAI for legal work; signals major firm adoption of frontier model",
+      "why_now": "Named watch-list company (OpenAI) entering direct partnership with major law firm; primary news hook on firm adoption",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Google News: law firm AI",
+      "source_tier": "A",
+      "prefilter_score": 14,
+      "matched_terms": [
+        "OpenAI"
+      ],
+      "fingerprint": {
+        "entities": [
+          "openai"
+        ],
+        "numerics": [
+          "1m",
+          "2m",
+          "1bn"
+        ],
+        "keywords": [],
+        "title_tokens": [
+          "firm",
+          "willkie",
+          "partners",
+          "openai",
+          "artificial",
+          "lawyer"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-07-22T16:26:05.025Z",
+      "queued_at": "2026-07-22T16:26:05.031Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
+    },
+    {
+      "title": "Hemrick O&#8217;Malley PLLC selects iManage to consolidate document and email management across its legal team",
+      "slug": "hemrick-o-8217-malley-pllc-selects-imanage-to-consolidate-document-and-email-man",
+      "score": 6,
+      "category": "Adoption",
+      "story_type": "news",
+      "research_brief": "Immigration law firm replaces fragmented systems with iManage Work to reduce manual effort and give legal professionals a single, governed workspace The post Hemrick O&#8217;Malley PLLC selects iManage to consolidate document and email management across its legal team appeared first on Legal Futures .",
+      "primary_source": "https://www.legalfutures.co.uk/associate-news/hemrick-omalley-pllc-selects-imanage-to-consolidate-document-and-email-management-across-its-legal-team",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "Immigration law firm Hemrick O'Malley consolidates on iManage; real-world vertical adoption story",
+      "why_now": "Immigration law focus (editorial priority); concrete adoption story with business rationale; Legal Futures is credible source",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Legal Futures",
+      "source_tier": "B",
+      "prefilter_score": 11,
+      "matched_terms": [
+        "iManage"
+      ],
+      "fingerprint": {
+        "entities": [
+          "imanage"
+        ],
+        "numerics": [
+          "8k"
+        ],
+        "keywords": [],
+        "title_tokens": [
+          "hemrick",
+          "malley",
+          "pllc",
+          "selects",
+          "imanage",
+          "consolidate",
+          "document",
+          "email",
+          "management",
+          "across",
+          "legal",
+          "team"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-07-22T16:26:05.032Z",
+      "queued_at": "2026-07-22T16:26:05.039Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-07-22T11:14:13.869Z"
+  "last_updated": "2026-07-22T16:26:05.039Z"
 }

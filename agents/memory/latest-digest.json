@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-22T14:12:44.512Z",
+  "generated": "2026-07-22T16:25:54.447Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 1359,
+  "total_scanned": 1347,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -55,18 +55,6 @@
       "relevance_score": 10
     },
     {
-      "title": "US Law Firm Willkie Partners With OpenAI",
-      "url": "https://www.artificiallawyer.com/2026/07/22/us-law-firm-willkie-partners-with-openai/",
-      "summary": "Major US law firm, Willkie, is partnering with OpenAI to develop ‘AI solutions across the firm&#8217;s legal and business operations, including a firmwide rollout of ...",
-      "published": "2026-07-22T11:40:27.000Z",
-      "source_id": "artificial-lawyer",
-      "source_name": "Artificial Lawyer",
-      "source_priority": "critical",
-      "source_tier": "B",
-      "source_category": "Legal AI",
-      "relevance_score": 10
-    },
-    {
       "title": "On LawNext: Legal Research for Everyone: Inside the CourtListener-Claude Partnership",
       "url": "https://www.lawnext.com/2026/07/on-lawnext-legal-research-for-everyone-inside-the-courtlistener-claude-partnership.html",
       "summary": "Last month, when Anthropic, developer of the popular AI assistant Claude, announced a major push into legal, much of the coverage in the media and the buzz on social media focused on what the announcement meant for law firms, in-house legal teams, and the legal tech ecosystem. But the less talked about side of the story [&#8230;]",
@@ -113,30 +101,6 @@
       "source_tier": "B",
       "source_category": "Legal tech commentary",
       "relevance_score": 10
-    },
-    {
-      "title": "OpenAI Partners With Willkie to Build Custom Legal AI Tools - Bloomberg Law News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdDN0bU93M3NvdzNwVUNaUFh2TU0yODd5bEc0OHVjc243dmFkNVRsQi1YdFpPa0RRUk5XbF9mUm05Yll6enB3RkNfVVByY29ab0YyUWVWdGdtNk92S0FYTmdyc3BkM0tIU1NFN25QNlN4cFJjbHpjYU9jbl81a012alVUb1d1Um5aTHZ1Nm9CcjlGQXFjNE5WRU96RC1yWGpxZGRkME1MOW5PTFc4?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNdDN0bU93M3NvdzNwVUNaUFh2TU0yODd5bEc0OHVjc243dmFkNVRsQi1YdFpPa0RRUk5XbF9mUm05Yll6enB3RkNfVVByY29ab0YyUWVWdGdtNk92S0FYTmdyc3BkM0tIU1NFN25QNlN4cFJjbHpjYU9jbl81a012alVUb1d1Um5aTHZ1Nm9CcjlGQXFjNE5WRU96RC1yWGpxZGRkME1MOW5PTFc4?oc=5\" target=\"_blank\"&gt;OpenAI Partners With Willkie to Build Custom Legal AI Tools&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Bloomberg Law News&lt;/font&gt;",
-      "published": "2026-07-22T09:00:00.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 9
-    },
-    {
-      "title": "Breaking: OpenAI Cracks New Deal To Build Legal AI Tools As Sam Altman Eyes $1 Trillion IPO - CoinGape",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZHZETU5TQXdUcGhqVlF0UVRlUlJCdTB5eDNxb3pLamlXTHZMdDktZTlKTEdnR3FHdUhZWTdzV3dNUUotREJNbUFMZGgxak92Tlh4R0NraGhPWmJOd24xQWVsaE84RldoVmZDa1hUV283ZUNQbmZZQUIzUFUxaHRTQzh0a1dWQk1JYzdRV1I3U0VuWG0xaFYwRUozTzRMdl95SGxRdw?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQZHZETU5TQXdUcGhqVlF0UVRlUlJCdTB5eDNxb3pLamlXTHZMdDktZTlKTEdnR3FHdUhZWTdzV3dNUUotREJNbUFMZGgxak92Tlh4R0NraGhPWmJOd24xQWVsaE84RldoVmZDa1hUV283ZUNQbmZZQUIzUFUxaHRTQzh0a1dWQk1JYzdRV1I3U0VuWG0xaFYwRUozTzRMdl95SGxRdw?oc=5\" target=\"_blank\"&gt;Breaking: OpenAI Cracks New Deal To Build Legal AI Tools As Sam Altman Eyes $1 Trillion IPO&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;CoinGape&lt;/font&gt;",
-      "published": "2026-07-22T09:58:00.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 9
     },
     {
       "title": "Breaking: OpenAI Cracks New Deal To Build Legal AI Tools As Sam Altman Eyes $1 Trillion IPO - Cryptonews.net",
@@ -187,39 +151,15 @@
       "relevance_score": 9
     },
     {
-      "title": "HALLMARK: Diagnosing Three Failure Modes in LLM Citation Verifiers",
-      "url": "https://arxiv.org/abs/2607.18360",
-      "summary": "arXiv:2607.18360v1 Announce Type: cross Abstract: Large language models (LLMs) now routinely draft literature reviews and assist with academic writing, which means a higher risk of fabricated references: GPTZero found 53 papers with hallucinated citations among NeurIPS 2025's accepted set. Rule- and LLM-based verifiers are emerging, but no shared benchmark compares them and gives detailed failure diagnostics. We close that gap with HALLMARK (Hallucination benchmark): 2,526 BibTeX entries spannin",
-      "published": "2026-07-22T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI (keyword-filtered)",
+      "title": "I Had 11 AI Subagents Test Every PPTX Skill for Claude Code. Here's What Works",
+      "url": "https://www.bulaev.net/p/i-had-11-ai-subagents-test-every",
+      "summary": "Article URL: https://www.bulaev.net/p/i-had-11-ai-subagents-test-every Comments URL: https://news.ycombinator.com/item?id=49008916 Points: 1 # Comments: 0",
+      "published": "2026-07-22T16:02:48.000Z",
+      "source_id": "hacker-news",
+      "source_name": "Hacker News (filtered)",
       "source_priority": "low",
       "source_tier": "B",
-      "source_category": "Research",
-      "relevance_score": 9
-    },
-    {
-      "title": "Robust Reasoning Benchmark",
-      "url": "https://arxiv.org/abs/2604.08571",
-      "summary": "arXiv:2604.08571v3 Announce Type: replace-cross Abstract: While Large Language Models (LLMs) achieve high performance on standard mathematical benchmarks, their problem-solving abilities depend on the context and textual formatting. We introduce the Robust Reasoning Benchmark (RRB), a pipeline of 13 deterministic textual perturbations applied to AIME 2024 and AIME 2025. Evaluating 8 state-of-the-art models, we find that frontier models are largely resilient, with the notable exception of Claude,",
-      "published": "2026-07-22T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI (keyword-filtered)",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "Research",
-      "relevance_score": 9
-    },
-    {
-      "title": "Phantoms and Disclosures: A Statistical Framework for Auditing Privacy in Synthetic Data",
-      "url": "https://arxiv.org/abs/2606.16952",
-      "summary": "arXiv:2606.16952v2 Announce Type: replace-cross Abstract: The rapid adoption of generative AI and Large Language Models (LLMs) has spurred interest in synthetic data as a privacy-preserving alternative to sensitive real-world datasets. However, generating high-utility synthetic data often carries the risk of memorizing and regurgitating private information from the training corpus. In this work, we present a customizable empirical auditing framework designed to detect and explain such data discl",
-      "published": "2026-07-22T04:00:00.000Z",
-      "source_id": "arxiv-cs-ai",
-      "source_name": "arXiv cs.AI (keyword-filtered)",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "Research",
+      "source_category": "Community",
       "relevance_score": 9
     },
     {
@@ -355,9 +295,9 @@
       "relevance_score": 8
     },
     {
-      "title": "Reframing AI Loss of Control: What Control Is, How to Have It, How to Lose It",
-      "url": "https://arxiv.org/abs/2606.12442",
-      "summary": "arXiv:2606.12442v2 Announce Type: replace-cross Abstract: At present, loss of control risks have gained much prominence in public discussion, particularly in relation to AI, with extensive discourse present among academics, frontier labs, and even governments. However, in the existing literature, the concept seems to rest on surprisingly weak foundations, where even those that discuss loss of control extensively do not first establish what control is and what exactly is being lost. Our paper aim",
+      "title": "HALLMARK: Diagnosing Three Failure Modes in LLM Citation Verifiers",
+      "url": "https://arxiv.org/abs/2607.18360",
+      "summary": "arXiv:2607.18360v1 Announce Type: cross Abstract: Large language models (LLMs) now routinely draft literature reviews and assist with academic writing, which means a higher risk of fabricated references: GPTZero found 53 papers with hallucinated citations among NeurIPS 2025's accepted set. Rule- and LLM-based verifiers are emerging, but no shared benchmark compares them and gives detailed failure diagnostics. We close that gap with HALLMARK (Hallucination benchmark): 2,526 BibTeX entries spannin",
       "published": "2026-07-22T04:00:00.000Z",
       "source_id": "arxiv-cs-ai",
       "source_name": "arXiv cs.AI (keyword-filtered)",
@@ -365,6 +305,54 @@
       "source_tier": "B",
       "source_category": "Research",
       "relevance_score": 8
+    },
+    {
+      "title": "Robust Reasoning Benchmark",
+      "url": "https://arxiv.org/abs/2604.08571",
+      "summary": "arXiv:2604.08571v3 Announce Type: replace-cross Abstract: While Large Language Models (LLMs) achieve high performance on standard mathematical benchmarks, their problem-solving abilities depend on the context and textual formatting. We introduce the Robust Reasoning Benchmark (RRB), a pipeline of 13 deterministic textual perturbations applied to AIME 2024 and AIME 2025. Evaluating 8 state-of-the-art models, we find that frontier models are largely resilient, with the notable exception of Claude,",
+      "published": "2026-07-22T04:00:00.000Z",
+      "source_id": "arxiv-cs-ai",
+      "source_name": "arXiv cs.AI (keyword-filtered)",
+      "source_priority": "low",
+      "source_tier": "B",
+      "source_category": "Research",
+      "relevance_score": 8
+    },
+    {
+      "title": "Phantoms and Disclosures: A Statistical Framework for Auditing Privacy in Synthetic Data",
+      "url": "https://arxiv.org/abs/2606.16952",
+      "summary": "arXiv:2606.16952v2 Announce Type: replace-cross Abstract: The rapid adoption of generative AI and Large Language Models (LLMs) has spurred interest in synthetic data as a privacy-preserving alternative to sensitive real-world datasets. However, generating high-utility synthetic data often carries the risk of memorizing and regurgitating private information from the training corpus. In this work, we present a customizable empirical auditing framework designed to detect and explain such data discl",
+      "published": "2026-07-22T04:00:00.000Z",
+      "source_id": "arxiv-cs-ai",
+      "source_name": "arXiv cs.AI (keyword-filtered)",
+      "source_priority": "low",
+      "source_tier": "B",
+      "source_category": "Research",
+      "relevance_score": 8
+    },
+    {
+      "title": "OpenAI Partners With Willkie to Build Custom Legal AI Tools - Bloomberg Law News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdDN0bU93M3NvdzNwVUNaUFh2TU0yODd5bEc0OHVjc243dmFkNVRsQi1YdFpPa0RRUk5XbF9mUm05Yll6enB3RkNfVVByY29ab0YyUWVWdGdtNk92S0FYTmdyc3BkM0tIU1NFN25QNlN4cFJjbHpjYU9jbl81a012alVUb1d1Um5aTHZ1Nm9CcjlGQXFjNE5WRU96RC1yWGpxZGRkME1MOW5PTFc4?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNdDN0bU93M3NvdzNwVUNaUFh2TU0yODd5bEc0OHVjc243dmFkNVRsQi1YdFpPa0RRUk5XbF9mUm05Yll6enB3RkNfVVByY29ab0YyUWVWdGdtNk92S0FYTmdyc3BkM0tIU1NFN25QNlN4cFJjbHpjYU9jbl81a012alVUb1d1Um5aTHZ1Nm9CcjlGQXFjNE5WRU96RC1yWGpxZGRkME1MOW5PTFc4?oc=5\" target=\"_blank\"&gt;OpenAI Partners With Willkie to Build Custom Legal AI Tools&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Bloomberg Law News&lt;/font&gt;",
+      "published": "2026-07-22T09:00:00.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 7
+    },
+    {
+      "title": "Breaking: OpenAI Cracks New Deal To Build Legal AI Tools As Sam Altman Eyes $1 Trillion IPO - CoinGape",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZHZETU5TQXdUcGhqVlF0UVRlUlJCdTB5eDNxb3pLamlXTHZMdDktZTlKTEdnR3FHdUhZWTdzV3dNUUotREJNbUFMZGgxak92Tlh4R0NraGhPWmJOd24xQWVsaE84RldoVmZDa1hUV283ZUNQbmZZQUIzUFUxaHRTQzh0a1dWQk1JYzdRV1I3U0VuWG0xaFYwRUozTzRMdl95SGxRdw?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQZHZETU5TQXdUcGhqVlF0UVRlUlJCdTB5eDNxb3pLamlXTHZMdDktZTlKTEdnR3FHdUhZWTdzV3dNUUotREJNbUFMZGgxak92Tlh4R0NraGhPWmJOd24xQWVsaE84RldoVmZDa1hUV283ZUNQbmZZQUIzUFUxaHRTQzh0a1dWQk1JYzdRV1I3U0VuWG0xaFYwRUozTzRMdl95SGxRdw?oc=5\" target=\"_blank\"&gt;Breaking: OpenAI Cracks New Deal To Build Legal AI Tools As Sam Altman Eyes $1 Trillion IPO&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;CoinGape&lt;/font&gt;",
+      "published": "2026-07-22T09:58:00.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 7
     },
     {
       "title": "The Legal AI Scaffold Changes Everything – Claude Study - Artificial Lawyer",
@@ -427,18 +415,6 @@
       "relevance_score": 7
     },
     {
-      "title": "NetDocuments Launches Expert Witness + Plaintiff Apps",
-      "url": "https://www.artificiallawyer.com/2026/07/22/netdocuments-launches-expert-witness-plaintiff-apps/",
-      "summary": "NetDocuments is continuing its expansion drive into AI tools with a collection of new apps. For AL, the most significant ones are those related to ...",
-      "published": "2026-07-22T10:40:54.000Z",
-      "source_id": "artificial-lawyer",
-      "source_name": "Artificial Lawyer",
-      "source_priority": "critical",
-      "source_tier": "B",
-      "source_category": "Legal AI",
-      "relevance_score": 7
-    },
-    {
       "title": "Relativity Acquires Document Automation Company Gavel, Extending Its Legal Data Platform Into Word",
       "url": "https://www.lawnext.com/2026/06/relativity-acquires-document-automation-company-gavel-extending-its-legal-data-platform-into-word.html",
       "summary": "Relativity, the Chicago-based legal data intelligence company best known for the e-discovery and litigation platform RelativityOne, has acquired Gavel, the Los Angeles-based document automation and AI drafting company founded by Dorna Moini (pictured above). Relativity said the move will enable it to extend Relativity&#8217;s AI platform into the place where lawyers actually write, Microsoft Word. [&#8230;]",
@@ -463,22 +439,46 @@
       "relevance_score": 7
     },
     {
-      "title": "CMS UK growth outpaces firmwide performance as global revenue nears €2.2bn",
-      "url": "https://www.legalbusiness.co.uk/law-firms/cms-uk-growth-outpaces-firmwide-performance-as-global-revenue-nears-e2-2bn/",
-      "summary": "CMS has posted a 4.8% increase in global revenues to just under €2.2bn, with revenues for the UK LLP rising at a faster pace, as the firm embarks on its new four-year strategy. The increase in global turnover to €2.173bn for the 2025 calendar year comes after the firm passed the €2bn mark for the &#8230; Continue reading \"CMS UK growth outpaces firmwide performance as global revenue nears €2.2bn\"",
-      "published": "2026-07-22T09:59:54.000Z",
-      "source_id": "legal-business",
-      "source_name": "Legal Business",
-      "source_priority": "medium",
+      "title": "Hemrick O&#8217;Malley PLLC selects iManage to consolidate document and email management across its legal team",
+      "url": "https://www.legalfutures.co.uk/associate-news/hemrick-omalley-pllc-selects-imanage-to-consolidate-document-and-email-management-across-its-legal-team",
+      "summary": "Immigration law firm replaces fragmented systems with iManage Work to reduce manual effort and give legal professionals a single, governed workspace The post Hemrick O&#8217;Malley PLLC selects iManage to consolidate document and email management across its legal team appeared first on Legal Futures .",
+      "published": "2026-07-22T15:59:17.000Z",
+      "source_id": "legal-futures",
+      "source_name": "Legal Futures",
+      "source_priority": "high",
       "source_tier": "B",
-      "source_category": "Legal profession",
+      "source_category": "Legal business",
       "relevance_score": 7
     },
     {
-      "title": "Show HN: I made YAFL – a E2EE file handoff for AI agents",
-      "url": "https://yafl.dev",
-      "summary": "Hi HN. I build with coding agents across a laptop and a couple of VPS's, and I kept hitting the same stupid interruption: the agent finishes a build, produces a report or a dataset, and then I become the transport layer. SSH, scp -P, path archaeology. Or worse – cat the file into the context window and even pay tokens to move bytes. YAFL is a file layer the agents call themselves. One MCP tool call up, one down. Example: I'm on my phone, I spot a clumsy screen in my own app – or a nicely done on",
-      "published": "2026-07-22T14:12:01.000Z",
+      "title": "Why data will define the AI-ready law firm",
+      "url": "https://www.legalfutures.co.uk/associate-news/why-data-will-define-the-ai-ready-law-firm",
+      "summary": "Artificial intelligence (AI) has become one of the most talked-about developments in the legal sector, promising to transform everything from client service to case management. The post Why data will define the AI-ready law firm appeared first on Legal Futures .",
+      "published": "2026-07-22T15:51:12.000Z",
+      "source_id": "legal-futures",
+      "source_name": "Legal Futures",
+      "source_priority": "high",
+      "source_tier": "B",
+      "source_category": "Legal business",
+      "relevance_score": 7
+    },
+    {
+      "title": "AI tool reveals climate shifts may have fueled bursts of bird evolution",
+      "url": "https://news.umich.edu/ai-tool-reveals-climate-shifts-may-have-fueled-bursts-of-bird-evolution/",
+      "summary": "Article URL: https://news.umich.edu/ai-tool-reveals-climate-shifts-may-have-fueled-bursts-of-bird-evolution/ Comments URL: https://news.ycombinator.com/item?id=49008243 Points: 2 # Comments: 0",
+      "published": "2026-07-22T15:21:03.000Z",
+      "source_id": "hacker-news",
+      "source_name": "Hacker News (filtered)",
+      "source_priority": "low",
+      "source_tier": "B",
+      "source_category": "Community",
+      "relevance_score": 7
+    },
+    {
+      "title": "Show HN: Anakin – API for your AI agents to access the most difficult websites",
+      "url": "https://anakin.io",
+      "summary": "Every second thing I build needs to access the web, and I was frustrated with not finding something that just works all the time. With my team, we built this because I wanted to enable access to extremely difficult websites and apps for every AI agent. We have solved this cat-and-mouse problem with self-healing built in. It's one API to get data from hostile sites, and it can do easy sites too. You POST a URL and get back Markdown, JSON, HTML, a screenshot, or all of them. That same call handles",
+      "published": "2026-07-22T15:12:00.000Z",
       "source_id": "hacker-news",
       "source_name": "Hacker News (filtered)",
       "source_priority": "low",

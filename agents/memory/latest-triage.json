@@ -1,71 +1,80 @@
 {
-  "generated": "2026-07-22T14:22:57.118Z",
+  "generated": "2026-07-22T16:26:05.040Z",
   "cycle_type": "triage",
   "tier_filter": null,
-  "shortlist_size": 4,
+  "shortlist_size": 5,
   "prefilter": {
     "total": 40,
-    "accepted": 4,
+    "accepted": 5,
     "borderline": 0,
-    "rejected": 36,
-    "rejected_as_duplicate": 36,
-    "accept_rate": 10
+    "rejected": 35,
+    "rejected_as_duplicate": 35,
+    "accept_rate": 13
   },
   "model": "claude-haiku-4-5-20251001",
   "picks": [
     {
-      "id": "google-news-law-firm-ai-0",
+      "id": "google-news-law-firm-ai-1",
+      "score": 7,
+      "category": "Legal AI",
+      "suggested_angle": "US BigLaw Willkie partners with OpenAI for legal work; signals major firm adoption of frontier model",
+      "why_now": "Named watch-list company (OpenAI) entering direct partnership with major law firm; primary news hook on firm adoption",
+      "verdict": "enqueue",
+      "duplicate_of": null
+    },
+    {
+      "id": "legal-futures-2",
       "score": 6,
       "category": "Adoption",
-      "suggested_angle": "Willkie's OpenAI partnership signals major US firm bet on LLM integration",
-      "why_now": "Named watchlist company (OpenAI) + major law firm adoption, but unclear if this is primary news or Artificial Lawyer commentary",
-      "verdict": "watch",
+      "suggested_angle": "Immigration law firm Hemrick O'Malley consolidates on iManage; real-world vertical adoption story",
+      "why_now": "Immigration law focus (editorial priority); concrete adoption story with business rationale; Legal Futures is credible source",
+      "verdict": "enqueue",
       "duplicate_of": null
     },
     {
-      "id": "arxiv-cs-ai-1",
+      "id": "hacker-news-0",
       "score": 2,
       "category": "Research",
-      "suggested_angle": "Academic framework for auditing privacy leakage in synthetic data",
-      "why_now": "Relevant to AI governance but arXiv preprint with no legal application angle, low newsworthiness for legal AI publication",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-2",
-      "score": 1,
-      "category": "Research",
-      "suggested_angle": "Philosophical reframing of AI loss-of-control risk discourse",
-      "why_now": "Pure academic philosophy, no legal or legal tech application, outside editorial scope",
+      "suggested_angle": "Claude's code-generation capabilities benchmarked in PPTX context",
+      "why_now": "No legal angle; general AI capability testing; low source tier; not relevant to editorial focus",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
       "id": "hacker-news-3",
-      "score": 2,
-      "category": "Social",
-      "suggested_angle": "Developer tool for secure file transfer between AI agents",
-      "why_now": "Hobby project, no legal tech angle, no adoption or regulatory signal",
+      "score": 1,
+      "category": "Research",
+      "suggested_angle": "AI tool applied to bird evolution and climate; no legal relevance",
+      "why_now": "Off-topic; biology application; no legal, regulatory, or legal tech angle",
       "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-4",
+      "score": 4,
+      "category": "Research",
+      "suggested_angle": "Academic paper on privacy auditing in synthetic data; touches on LLM safety but no applied legal angle",
+      "why_now": "Theoretical contribution to AI safety; relevant to future regulation but not current news; no primary legal tech or firm angle",
+      "verdict": "watch",
       "duplicate_of": null
     }
   ],
   "summary": {
-    "enqueue_count": 0,
+    "enqueue_count": 2,
     "watch_count": 1,
-    "drop_count": 3,
-    "notes": "Only google-news item has potential (watchlist company + adoption) but source is Google News aggregation of Artificial Lawyer; needs verification of primary sourcing before enqueue. Three arXiv/HN items out of scope."
+    "drop_count": 2,
+    "notes": "Willkie–OpenAI partnership is primary news with adoption signal; Hemrick O'Malley immigration firm adoption validates vertical strategy. Off-topic AI papers and general capability benchmarks lack legal hook."
   },
-  "enqueued": 0,
+  "enqueued": 2,
   "usage": {
-    "input_tokens": 3061,
+    "input_tokens": 3305,
     "cache_creation_input_tokens": 0,
     "cache_read_input_tokens": 0,
     "cache_creation": {
       "ephemeral_5m_input_tokens": 0,
       "ephemeral_1h_input_tokens": 0
     },
-    "output_tokens": 536,
+    "output_tokens": 664,
     "service_tier": "standard",
     "inference_geo": "not_available"
   }
