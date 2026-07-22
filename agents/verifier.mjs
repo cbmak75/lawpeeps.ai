@@ -1,51 +1,44 @@
 /**
- * verifier.mjs -- Verification Agent (v2)
+ * verifier.mjs -- Verification Agent (v4, Gemini)
  *
  * Independent fact-checker. Takes a drafted article, extracts
- * every factual claim, verifies them via web search, and returns
- * a structured report. No personality, no editorial voice -- just
- * methodical verification.
+ * every factual claim, verifies them, and returns a structured
+ * report. No personality, no editorial voice -- just methodical
+ * verification.
  *
- * Called by mm!ke after drafting. Runs as a single API call with
- * web search to stay within rate limits.
+ * v4 changes (token minimisation):
+ *   - The primary source URL is fetched deterministically in Node
+ *     (free) and its text is passed to the model, so most core claims
+ *     verify against the source document without any search.
+ *   - Search grounding (Google Search via the Gemini API) is attached
+ *     only for amber/red stories, and the search budget is cut to a
+ *     maximum of 3 targeted searches.
+ *   - Anthropic SDK and web_search tool removed. Anthropic web search
+ *     was billed per search plus all result tokens as Sonnet input --
+ *     the most expensive single call in the v3 pipeline.
  *
  * Run standalone: node agents/verifier.mjs [article-path]
- * Expects: ANTHROPIC_API_KEY
+ * Expects: GEMINI_API_KEY
  */
 
-import Anthropic from '@anthropic-ai/sdk';
 import { readFileSync, writeFileSync, existsSync } from 'fs';
 import { dirname } from 'path';
 import { fileURLToPath } from 'url';
-import { withRetry } from './rate-limit-helper.mjs';
+import { generate, MODELS } from './llm.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
-const client = new Anthropic();
 
 // ── Single combined prompt: extract claims AND verify in one pass ──
-// This avoids making two separate API calls (extraction + verification)
-// which was a major contributor to rate-limit issues in v1.
 
-function buildVerificationPrompt(articleContent, articleMeta) {
-  return `You are a fact-checker. Read this draft article and verify its factual claims.
-
-## Article metadata
-Title: ${articleMeta.title || 'Untitled'}
-Category: ${articleMeta.category || 'unknown'}
-
-## Article content
-
-${articleContent}
+const VERIFIER_SYSTEM = `You are a fact-checker for lawpeeps.ai, a legal AI publication. Read the draft article in the user message and verify its factual claims.
 
 ## Your task
 
-1. Read the article and identify every checkable factual claim (not opinions or analysis).
-2. Classify each claim as: core (story falls apart without it), supporting (adds context), or peripheral (nice to have).
-3. For CORE claims: search the web to verify them. Find the primary source if possible.
-4. For SUPPORTING claims: verify if you can do so efficiently. One search per claim maximum.
-5. For PERIPHERAL claims: note them but do not search unless trivially verifiable.
-
-Be surgical with searches. Prioritise core claims. 5-8 targeted searches total, not more.
+1. Identify every checkable factual claim (not opinions or analysis).
+2. Classify each claim as core (story falls apart without it), supporting (adds context), or peripheral (nice to have).
+3. Verify claims against the primary source text if it is included in the user message. Most core claims should be checkable there without searching.
+4. If search is available to you, use it only for core claims the primary source cannot settle. Maximum 3 targeted searches total.
+5. For PERIPHERAL claims: note them but do not search.
 
 ## Verification standards
 
@@ -57,19 +50,19 @@ Be surgical with searches. Prioritise core claims. 5-8 targeted searches total, 
 
 ## Output format
 
-Return a JSON object:
+Return a JSON object only. No preamble.
 
 {
-  "verification_run": "${new Date().toISOString()}",
-  "article_title": "${(articleMeta.title || '').replace(/"/g, '\\"')}",
+  "verification_run": "ISO timestamp",
+  "article_title": "the title",
   "claims": [
     {
       "id": 1,
-      "claim": "The exact factual assertion",
+      "claim": "exact assertion",
       "type": "financial | regulatory | product | personnel | legal | statistical | timeline",
       "criticality": "core | supporting | peripheral",
       "status": "verified | partially_verified | unverified | contradicted | outdated",
-      "evidence": "What you found, with URLs",
+      "evidence": "what you found with URLs",
       "primary_source_url": "URL or null",
       "confidence": "high | medium | low"
     }
@@ -83,34 +76,90 @@ Return a JSON object:
     "outdated": 0,
     "core_claims_status": "X of Y core claims verified",
     "recommended_staging": "green | amber | red",
-    "staging_rationale": "Explanation",
-    "disclosures_needed": ["Any disclosures that should appear in the article"],
-    "claims_to_remove": ["Any claims that should be removed"],
-    "claims_to_flag": ["Claims that should remain but with verification status noted"]
+    "staging_rationale": "explanation",
+    "disclosures_needed": [],
+    "claims_to_remove": [],
+    "claims_to_flag": []
   },
-  "search_queries_used": ["All queries run"]
+  "search_queries_used": []
+}`;
+
+// ── Primary source fetch (free, deterministic) ──
+// Pulling the source document into the prompt lets the model verify
+// most core claims without a single search.
+
+const SOURCE_TEXT_CAP = 8000; // chars, roughly 2k tokens
+
+async function fetchSourceText(url, timeout = 15000) {
+  if (!url || !/^https?:\/\//i.test(url)) return null;
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), timeout);
+  try {
+    const res = await fetch(url, {
+      signal: controller.signal,
+      headers: { 'User-Agent': 'lawpeeps.ai/verifier (editorial bot)' }
+    });
+    clearTimeout(timer);
+    if (!res.ok) return null;
+    const html = await res.text();
+    const text = html
+      .replace(/<script[\s\S]*?<\/script>/gi, ' ')
+      .replace(/<style[\s\S]*?<\/style>/gi, ' ')
+      .replace(/<[^>]+>/g, ' ')
+      .replace(/&[a-z#0-9]+;/gi, ' ')
+      .replace(/\s+/g, ' ')
+      .trim();
+    return text ? text.slice(0, SOURCE_TEXT_CAP) : null;
+  } catch {
+    clearTimeout(timer);
+    return null;
+  }
 }
 
-Return ONLY the JSON.`;
+function buildVerificationUserMessage(articleContent, articleMeta, sourceText, sourceUrl) {
+  const sourceSection = sourceText
+    ? `## Primary source text (fetched from ${sourceUrl})
+
+${sourceText}
+
+`
+    : '';
+
+  return `## Article metadata
+Title: ${articleMeta.title || 'Untitled'}
+Category: ${articleMeta.category || 'unknown'}
+Verification run: ${new Date().toISOString()}
+
+${sourceSection}## Article content
+
+${articleContent}
+
+Verify now. Return only the JSON.`;
 }
 
 // ── Run verification ──
 
-async function verifyArticle(articleContent, articleMeta) {
-  console.log(`[verifier] Verifying: ${articleMeta.title || 'untitled'}`);
+async function verifyArticle(articleContent, articleMeta, options = {}) {
+  const { skipWebSearch = false, primarySourceUrl = null } = options;
+  console.log(`[verifier] Verifying: ${articleMeta.title || 'untitled'}${skipWebSearch ? ' (no search grounding)' : ''}`);
 
-  const prompt = buildVerificationPrompt(articleContent, articleMeta);
+  const sourceText = await fetchSourceText(primarySourceUrl);
+  if (primarySourceUrl) {
+    console.log(`[verifier] Primary source ${sourceText ? `fetched (${sourceText.length} chars)` : 'could not be fetched'}: ${primarySourceUrl}`);
+  }
 
-  const response = await withRetry(() => client.messages.create({
-    model: 'claude-sonnet-4-20250514',
-    max_tokens: 8000,
-    tools: [{ type: 'web_search_20250305', name: 'web_search' }],
-    messages: [{ role: 'user', content: prompt }]
-  }), 'verifier');
+  const userMessage = buildVerificationUserMessage(articleContent, articleMeta, sourceText, primarySourceUrl);
 
-  let resultText = '';
-  for (const block of response.content) {
-    if (block.type === 'text') resultText += block.text;
+  const { text: resultText, usage } = await generate({
+    model: MODELS.verifier,
+    system: VERIFIER_SYSTEM,
+    user: userMessage,
+    maxTokens: 4000,
+    useSearch: !skipWebSearch,
+    label: 'verifier'
+  });
+  if (usage) {
+    console.log(`[verifier] Tokens: ${usage.input_tokens || '?'} in, ${usage.output_tokens || '?'} out`);
   }
 
   let report;

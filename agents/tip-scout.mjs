@@ -11,10 +11,9 @@
  * This means a good tip can go from submission to PR in minutes.
  *
  * Run: node agents/tip-scout.mjs
- * Expects: ANTHROPIC_API_KEY, GITHUB_TOKEN, TIP_PAYLOAD (JSON)
+ * Expects: GEMINI_API_KEY, GITHUB_TOKEN, TIP_PAYLOAD (JSON)
  */
 
-import Anthropic from '@anthropic-ai/sdk';
 import { readFileSync, writeFileSync, existsSync, mkdirSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
@@ -22,7 +21,7 @@ import { execSync } from 'child_process';
 
 import { enqueue, claimNext, markPublished, markKilled } from './queue.mjs';
 import { verifyArticle } from './verifier.mjs';
-import { withRetry } from './rate-limit-helper.mjs';
+import { generate, MODELS } from './llm.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const MEMORY_DIR = join(__dirname, 'memory');
@@ -34,8 +33,6 @@ const KNOWLEDGE_PATH = join(MEMORY_DIR, 'knowledge.json');
 const WEIGHTING_PATH = join(MEMORY_DIR, 'weighting-tracker.json');
 
 if (!existsSync(MEMORY_DIR)) mkdirSync(MEMORY_DIR, { recursive: true });
-
-const client = new Anthropic();
 
 // ── Parse tip from environment ──
 
@@ -307,17 +304,13 @@ async function run() {
   const ctx = loadContext();
   const prompt = buildInvestigationPrompt(tip, ctx);
 
-  const response = await withRetry(() => client.messages.create({
-    model: 'claude-sonnet-4-20250514',
-    max_tokens: 8000,
-    tools: [{ type: 'web_search_20250305', name: 'web_search' }],
-    messages: [{ role: 'user', content: prompt }]
-  }), 'tip-scout');
-
-  let resultText = '';
-  for (const block of response.content) {
-    if (block.type === 'text') resultText += block.text;
-  }
+  const { text: resultText } = await generate({
+    model: MODELS.verifier,
+    user: prompt,
+    maxTokens: 4000,
+    useSearch: true,
+    label: 'tip-scout'
+  });
 
   let investigation;
   try {
@@ -352,17 +345,13 @@ async function run() {
   const systemPrompt = loadSystemPrompt();
   const writingPrompt = buildWritingPrompt(investigation);
 
-  const writeResponse = await withRetry(() => client.messages.create({
-    model: 'claude-sonnet-4-20250514',
-    max_tokens: 16000,
+  const { text: writeText } = await generate({
+    model: MODELS.editor,
     system: systemPrompt,
-    messages: [{ role: 'user', content: writingPrompt }]
-  }), 'tip-scout-write');
-
-  let writeText = '';
-  for (const block of writeResponse.content) {
-    if (block.type === 'text') writeText += block.text;
-  }
+    user: writingPrompt,
+    maxTokens: 8000,
+    label: 'tip-scout-write'
+  });
 
   const article = parseArticle(writeText);
   if (!article) {

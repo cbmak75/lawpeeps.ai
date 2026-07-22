@@ -7,13 +7,12 @@
  * by identifying and adding valuable new sources.
  *
  * Run: node agents/discover.mjs
- * Expects: ANTHROPIC_API_KEY
+ * Expects: GEMINI_API_KEY
  */
 
-import Anthropic from '@anthropic-ai/sdk';
 import { readFileSync, writeFileSync, existsSync } from 'fs';
 import { join, dirname } from 'path';
-import { withRetry } from './rate-limit-helper.mjs';
+import { generate, MODELS } from './llm.mjs';
 import { fileURLToPath } from 'url';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
@@ -25,7 +24,6 @@ const EDITORIAL_LOG_PATH = join(MEMORY_DIR, 'editorial-log.json');
 const POSITIONS_PATH = join(MEMORY_DIR, 'positions.json');
 const KNOWLEDGE_PATH = join(MEMORY_DIR, 'knowledge.json');
 
-const client = new Anthropic();
 
 // ── Load memory context ──
 
@@ -171,21 +169,14 @@ async function runDiscovery() {
 
   const prompt = buildDiscoveryPrompt(digest, sources, memory);
 
-  console.log('[discover] Calling Claude with web search enabled...');
-  const response = await withRetry(() => client.messages.create({
-    model: 'claude-sonnet-4-20250514',
-    max_tokens: 8000,
-    tools: [{ type: 'web_search_20250305', name: 'web_search' }],
-    messages: [{ role: 'user', content: prompt }]
-  }), 'discover');
-
-  // Extract the text response (may be after tool use blocks)
-  let resultText = '';
-  for (const block of response.content) {
-    if (block.type === 'text') {
-      resultText += block.text;
-    }
-  }
+  console.log('[discover] Calling Gemini with search grounding enabled...');
+  const { text: resultText } = await generate({
+    model: MODELS.verifier,
+    user: prompt,
+    maxTokens: 8000,
+    useSearch: true,
+    label: 'discover'
+  });
 
   // Parse JSON from response
   let discovery;
@@ -208,7 +199,7 @@ async function runDiscovery() {
   // Add metadata
   discovery.generated = new Date().toISOString();
   discovery.cycle_type = 'discovery';
-  discovery.model = 'claude-sonnet-4-20250514';
+  discovery.model = MODELS.verifier;
 
   // Auto-curate sources if recommendations exist
   if (discovery.new_source_recommendations?.length > 0) {

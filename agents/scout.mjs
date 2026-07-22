@@ -1,314 +1,80 @@
 /**
- * scout.mjs -- Scout Agent
+ * scout.mjs -- Scout orchestrator (v4)
  *
- * The journalist on the beat. Runs independently of mm!ke on its
- * own schedule. Scans RSS feeds, searches the web for stories the
- * feeds missed, researches the best candidates, and deposits
- * fully-briefed stories into the queue for mm!ke to curate.
+ * The scout does not use an LLM for discovery. It runs the ingestion
+ * chain:
  *
- * The scout does NOT write articles. It produces structured research
- * briefs -- the raw material mm!ke needs to do his job.
+ *   monitor (RSS fetch + deterministic score)
+ *     -> prefilter (keyword + watchlist gate, no LLM)
+ *     -> triage (ONE batched Gemini Flash-Lite call, skipped when
+ *        nothing new survives the triage-once gate)
+ *     -> queue (editor picks up next cycle)
  *
- * Run: node agents/scout.mjs
- * Expects: ANTHROPIC_API_KEY
+ * Previously the scout ran a single Sonnet + web_search call that
+ * did discovery AND research AND scoring in one shot. That call
+ * cost roughly 10-30 cents per run, burned the rate limit, and
+ * returned hallucinated "stories" when feeds were quiet.
+ *
+ * The v4 flow is free (Gemini free tier), scales with the size of
+ * the source list without scaling API usage, and skips the API
+ * entirely on cycles with nothing new.
+ *
+ * Run: node agents/scout.mjs [--tier A|B]
  */
 
-import Anthropic from '@anthropic-ai/sdk';
-import { readFileSync, writeFileSync, existsSync, mkdirSync } from 'fs';
-import { join, dirname } from 'path';
-import { fileURLToPath } from 'url';
-
+import { prune, stats } from './queue.mjs';
 import { runMonitor } from './monitor.mjs';
-import { enqueue, stats, prune } from './queue.mjs';
-import { withRetry } from './rate-limit-helper.mjs';
+import { runTriage } from './triage.mjs';
 
-const __dirname = dirname(fileURLToPath(import.meta.url));
-const MEMORY_DIR = join(__dirname, 'memory');
-const SOURCES_PATH = join(__dirname, 'sources.json');
-const EDITORIAL_LOG_PATH = join(MEMORY_DIR, 'editorial-log.json');
-const POSITIONS_PATH = join(MEMORY_DIR, 'positions.json');
-const KNOWLEDGE_PATH = join(MEMORY_DIR, 'knowledge.json');
-const DISCOVERY_PATH = join(MEMORY_DIR, 'latest-discovery.json');
-
-if (!existsSync(MEMORY_DIR)) mkdirSync(MEMORY_DIR, { recursive: true });
-
-const client = new Anthropic();
-
-// ── Load memory context for the scout ──
-
-function loadScoutContext() {
-  const ctx = {};
-
-  if (existsSync(EDITORIAL_LOG_PATH)) {
-    const log = JSON.parse(readFileSync(EDITORIAL_LOG_PATH, 'utf-8'));
-    ctx.recentCoverage = (log.entries || []).slice(-30)
-      .map(e => `- ${e.title} (${e.publishDate || 'undated'})`)
-      .join('\n');
-  }
-
-  // Also load story queue so scout knows what's already been filed
-  const QUEUE_PATH = join(MEMORY_DIR, '..', 'memory', 'story-queue.json');
-  const queuePath = join(MEMORY_DIR, 'story-queue.json');
-  if (existsSync(queuePath)) {
-    const q = JSON.parse(readFileSync(queuePath, 'utf-8'));
-    const queuedTitles = (q.stories || [])
-      .filter(s => s.status !== 'killed')
-      .map(s => `- ${s.title} [${s.status}]`)
-      .join('\n');
-    ctx.recentCoverage = (ctx.recentCoverage || '') + '\n\nAlready in the story queue:\n' + queuedTitles;
-  }
-
-  if (existsSync(POSITIONS_PATH)) {
-    const p = JSON.parse(readFileSync(POSITIONS_PATH, 'utf-8'));
-    ctx.openQuestions = (p.open_questions || []).map(q => `- ${q}`).join('\n');
-    ctx.trackedThemes = (p.tracked_themes || [])
-      .map(t => `- ${t.theme}: ${t.status}`).join('\n');
-  }
-
-  if (existsSync(KNOWLEDGE_PATH)) {
-    const k = JSON.parse(readFileSync(KNOWLEDGE_PATH, 'utf-8'));
-    ctx.knownEntities = Object.entries(k.entities || {})
-      .slice(0, 30)
-      .map(([name, data]) => `- ${name}: ${data.description || 'known entity'}`)
-      .join('\n');
-  }
-
-  const sources = JSON.parse(readFileSync(SOURCES_PATH, 'utf-8'));
-  ctx.keywords = sources.scoring.keywords.join(', ');
-  ctx.watchList = sources.scoring.watch_list_companies.join(', ');
-
-  return ctx;
-}
-
-// ── Build the scout prompt ──
-// This is ONE prompt that covers discovery + research in a single agent call.
-// The agent searches, finds stories, researches them, and returns structured briefs.
-
-function buildScoutPrompt(digest, ctx) {
-  const digestSummary = (digest.items || [])
-    .slice(0, 15)
-    .map(i => `- [${i.source_id}] ${i.title} (score: ${i.relevance_score})`)
-    .join('\n');
-
-  const today = new Date().toISOString().split('T')[0];
-
-  return `You are a news scout for lawpeeps.ai, a legal AI publication. Your job is to find and research stories, then return structured briefs for the editor.
-
-## IMPORTANT: Recency requirement
-
-Today's date is ${today}. You are looking for stories from the LAST 48 HOURS ONLY. Do not file briefs about older stories, historical events, or developments from weeks or months ago. lawpeeps.ai is a news publication -- we cover what is happening now, not what happened last month. If a story is more than 48 hours old, skip it unless it is a genuinely breaking development that nobody has covered yet.
-
-When searching, include date qualifiers (e.g. "legal AI news this week", "legal AI April 2026") to ensure you find current stories.
-
-## What the RSS feeds found
-
-The monitoring agent scanned ${digest.sources_checked || 0} feeds and found ${digest.item_count || 0} candidates. Top items:
-
-${digestSummary || 'No items from feeds this cycle.'}
-
-## Recent coverage -- DO NOT DUPLICATE
-
-The following stories have already been covered or queued. Do NOT file a brief about the same underlying story, even if you find a different angle or framing. If the core facts (same company, same ruling, same policy announcement, same event) overlap with anything below, SKIP IT. A different headline or angle on the same news is still a duplicate.
-
-${ctx.recentCoverage || 'No recent coverage recorded.'}
-
-## Open questions the editor is tracking
-
-${ctx.openQuestions || 'None yet.'}
-
-## Themes being watched
-
-${ctx.trackedThemes || 'None yet.'}
-
-## Editorial focus
-
-Keywords: ${ctx.keywords}
-Watch list companies: ${ctx.watchList}
-
-## Reader tips
-
-Some items in the RSS digest above may be tagged [TIP] -- these are submissions from readers via the lawpeeps.ai tip line. Tips deserve extra attention: someone took the time to write in, so investigate them seriously. If a tip leads to a viable story, include "tip_origin": true in the story brief so mm!ke knows to credit the tipster (if they requested credit). Tips are not automatically good stories -- they still need to meet our editorial standards -- but they should not be dismissed without investigation.
-
-## Your task
-
-Do two things:
-
-### 1. Discover stories the feeds missed
-
-Search the web for legal AI developments FROM THE LAST 48 HOURS. Focus on:
-- Product launches, funding rounds, acquisitions in legal AI
-- Regulatory developments (SRA, Law Society, EU AI Act, international)
-- Court decisions involving AI
-- Notable firm adoptions or public statements about AI
-- Academic research with practical legal AI implications
-
-Run 3-4 targeted searches maximum. Quality over quantity.
-
-### 2. Research the best candidates
-
-From the RSS digest AND your web discoveries, identify the 2-3 most newsworthy stories. For each one, research it:
-- Verify the core claim (find the primary source)
-- Build context (background, who is involved, broader trends)
-- Find additional angles or competing perspectives
-- Check whether other publications have already covered it
-
-### 3. Return structured briefs
-
-Return a JSON object with this structure:
-
-{
-  "scout_run": "${new Date().toISOString()}",
-  "stories": [
-    {
-      "title": "Headline-style title",
-      "slug": "url-friendly-slug-max-80-chars",
-      "score": 1-10,
-      "category": "Legal AI | Regulatory | Funding | Adoption | Research | Policy | Immigration AI",
-      "story_type": "news | analysis | profile | commentary",
-      "research_brief": "3-5 paragraph summary covering what happened, why it matters, the context, and any competing perspectives",
-      "primary_source": "URL",
-      "primary_source_verified": true/false,
-      "additional_sources": [
-        { "url": "...", "description": "What this adds" }
-      ],
-      "key_facts": [
-        { "claim": "Specific factual claim", "source": "URL", "verified": true/false }
-      ],
-      "suggested_angle": "The most interesting angle for lawpeeps.ai",
-      "serves_50_percent_rule": true/false,
-      "fifty_percent_note": "Why or why not",
-      "existing_coverage": "Whether other outlets have covered this and how",
-      "estimated_staging": "green | amber | red",
-      "verification_notes": "Anything the verification agent should pay special attention to",
-      "tip_origin": false,
-      "tip_credit": "anonymous or name if tipster requested credit"
-    }
-  ],
-  "knowledge_updates": [
-    { "entity": "Name", "update": "What we now know" }
-  ],
-  "search_queries_used": ["list of searches run"]
-}
-
-Return ONLY the JSON object.`;
-}
-
-// ── Update knowledge base ──
-
-function updateKnowledge(updates) {
-  let knowledge = { entities: {}, last_updated: null };
-  if (existsSync(KNOWLEDGE_PATH)) {
-    knowledge = JSON.parse(readFileSync(KNOWLEDGE_PATH, 'utf-8'));
-  }
-
-  for (const update of updates) {
-    const key = update.entity.toLowerCase();
-    if (!knowledge.entities[key]) {
-      knowledge.entities[key] = {
-        name: update.entity,
-        first_seen: new Date().toISOString().split('T')[0],
-        updates: []
-      };
-    }
-    knowledge.entities[key].last_updated = new Date().toISOString().split('T')[0];
-    knowledge.entities[key].updates.push({
-      date: new Date().toISOString().split('T')[0],
-      content: update.update
-    });
-    if (knowledge.entities[key].updates.length > 20) {
-      knowledge.entities[key].updates = knowledge.entities[key].updates.slice(-20);
-    }
-  }
-
-  knowledge.last_updated = new Date().toISOString();
-  writeFileSync(KNOWLEDGE_PATH, JSON.stringify(knowledge, null, 2));
-}
-
-// ── Run the scout ──
-
-async function runScout() {
-  const startTime = Date.now();
+async function runScout({ tierFilter = null } = {}) {
+  const t0 = Date.now();
   console.log(`\n${'='.repeat(60)}`);
-  console.log(`[scout] SCOUT RUN STARTING: ${new Date().toISOString()}`);
+  console.log(`[scout] SCOUT RUN: ${new Date().toISOString()}${tierFilter ? ` (tier ${tierFilter})` : ''}`);
   console.log(`${'='.repeat(60)}\n`);
 
-  // Prune old queue entries
   prune();
 
-  // Phase 1: Monitor RSS (no API call)
-  console.log('[scout] Scanning RSS feeds...');
+  if (tierFilter) {
+    process.env.MONITOR_TIER = tierFilter;
+  }
+
+  // Phase 1: ingestion (no API call)
   const digest = await runMonitor();
-  console.log(`[scout] RSS scan complete: ${digest.item_count} items from ${digest.sources_checked} sources`);
+  console.log(`[scout] Monitor: ${digest.item_count} items from ${digest.sources_checked} feeds`);
 
-  // Phase 2: Discovery + Research (single API call with web search)
-  console.log('[scout] Searching and researching...');
-  const ctx = loadScoutContext();
-  const prompt = buildScoutPrompt(digest, ctx);
-
-  const response = await withRetry(() => client.messages.create({
-    model: 'claude-sonnet-4-20250514',
-    max_tokens: 10000,
-    tools: [{ type: 'web_search_20250305', name: 'web_search' }],
-    messages: [{ role: 'user', content: prompt }]
-  }), 'scout');
-
-  // Extract text response
-  let resultText = '';
-  for (const block of response.content) {
-    if (block.type === 'text') resultText += block.text;
+  if (digest.item_count === 0) {
+    console.log('[scout] No items from feeds this cycle. Nothing to triage.');
+    const elapsed = Math.round((Date.now() - t0) / 1000);
+    console.log(`[scout] Run complete in ${elapsed}s`);
+    return { enqueued: 0, digest_count: 0 };
   }
 
-  // Parse JSON
-  let scoutResult;
-  try {
-    const jsonMatch = resultText.match(/```(?:json)?\s*([\s\S]*?)```/) || [null, resultText];
-    scoutResult = JSON.parse(jsonMatch[1].trim());
-  } catch (err) {
-    console.error('[scout] Failed to parse scout response:', err.message);
-    scoutResult = { stories: [], knowledge_updates: [], search_queries_used: [] };
-  }
-
-  // Deposit stories into the queue
-  let enqueued = 0;
-  for (const story of (scoutResult.stories || [])) {
-    if (story.score >= 5) {
-      const added = enqueue(story);
-      if (added) enqueued++;
-    } else {
-      console.log(`[scout] Skipped low-score story: ${story.title} (${story.score})`);
-    }
-  }
-
-  // Update knowledge base
-  if (scoutResult.knowledge_updates?.length > 0) {
-    updateKnowledge(scoutResult.knowledge_updates);
-    console.log(`[scout] Updated knowledge base: ${scoutResult.knowledge_updates.length} entities`);
-  }
-
-  // Save discovery log for reference
-  writeFileSync(DISCOVERY_PATH, JSON.stringify({
-    ...scoutResult,
-    generated: new Date().toISOString(),
-    cycle_type: 'scout'
-  }, null, 2));
+  // Phase 2: triage (at most one batched Gemini call)
+  const triage = await runTriage({ tierFilter });
 
   const queueStats = stats();
-  const elapsed = Math.round((Date.now() - startTime) / 1000);
+  const elapsed = Math.round((Date.now() - t0) / 1000);
 
   console.log(`\n${'='.repeat(60)}`);
-  console.log(`[scout] SCOUT RUN COMPLETE (${elapsed}s)`);
-  console.log(`[scout] Stories found: ${scoutResult.stories?.length || 0}`);
-  console.log(`[scout] Stories enqueued: ${enqueued}`);
+  console.log(`[scout] SCOUT COMPLETE (${elapsed}s)`);
+  console.log(`[scout] Ingested: ${digest.item_count} | Enqueued: ${triage.enqueued}`);
   console.log(`[scout] Queue: ${queueStats.pending} pending, ${queueStats.published} published`);
   console.log(`${'='.repeat(60)}\n`);
 
-  return scoutResult;
+  return {
+    enqueued: triage.enqueued,
+    digest_count: digest.item_count,
+    picks: triage.picks
+  };
 }
 
 export { runScout };
 
 if (process.argv[1] && process.argv[1].endsWith('scout.mjs')) {
-  runScout().catch(err => {
+  const tierArg = process.argv.includes('--tier')
+    ? process.argv[process.argv.indexOf('--tier') + 1]
+    : null;
+  runScout({ tierFilter: tierArg }).catch(err => {
     console.error('[scout] Fatal error:', err);
     process.exit(1);
   });

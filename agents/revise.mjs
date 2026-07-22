@@ -5,22 +5,23 @@
  * Fetches review comments, reads the article, calls Claude to revise,
  * and commits the changes back to the PR branch.
  *
- * Requires: ANTHROPIC_API_KEY, GITHUB_TOKEN environment variables
+ * Requires: GEMINI_API_KEY, GITHUB_TOKEN environment variables
  */
 
 import { readFileSync, writeFileSync, readdirSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 
+import { generate, MODELS } from './llm.mjs';
+
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const REPO_ROOT = join(__dirname, '..');
 const CONTENT_DIR = join(REPO_ROOT, 'src', 'content', 'articles');
 
-const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY;
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
 
-if (!ANTHROPIC_API_KEY) {
-  console.error('ANTHROPIC_API_KEY environment variable is required');
+if (!process.env.GEMINI_API_KEY) {
+  console.error('GEMINI_API_KEY environment variable is required');
   process.exit(1);
 }
 
@@ -38,28 +39,16 @@ function loadSystemPrompt() {
 // ─── Claude API ────────────────────────────────────────────────────
 
 async function callClaude(systemPrompt, userMessage, maxTokens = 4096) {
-  const response = await fetch('https://api.anthropic.com/v1/messages', {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json',
-      'x-api-key': ANTHROPIC_API_KEY,
-      'anthropic-version': '2023-06-01',
-    },
-    body: JSON.stringify({
-      model: 'claude-sonnet-4-20250514',
-      max_tokens: maxTokens,
-      system: systemPrompt,
-      messages: [{ role: 'user', content: userMessage }],
-    }),
+  // v4: routed through the shared Gemini client (free tier). Function
+  // name kept so call sites stay unchanged.
+  const { text } = await generate({
+    model: MODELS.editor,
+    system: systemPrompt,
+    user: userMessage,
+    maxTokens,
+    label: 'revise'
   });
-
-  if (!response.ok) {
-    const error = await response.text();
-    throw new Error(`Claude API error ${response.status}: ${error}`);
-  }
-
-  const data = await response.json();
-  return data.content[0].text;
+  return text;
 }
 
 // ─── GitHub API ────────────────────────────────────────────────────

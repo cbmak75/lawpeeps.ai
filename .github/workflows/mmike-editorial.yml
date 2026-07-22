@@ -1,16 +1,15 @@
 name: "mm!ke Editorial Cycle"
 
-# mm!ke runs every 2 hours during UK daytime (7am-10pm BST/GMT).
-# He picks the best story from the queue, writes it, sends it to
-# the verifier, and stages a PR. One story per cycle.
+# mm!ke runs once a day. He picks the best story from the queue,
+# writes it, sends it to the verifier, and stages a PR.
 #
 # UK timezone: BST (UTC+1) Mar-Oct, GMT (UTC+0) Nov-Feb.
-# To cover 7am-10pm BST, we run 6am-9pm UTC (safe for both).
-# That is: 06, 08, 10, 12, 14, 16, 18, 20 UTC.
+# 08 UTC lands at roughly 9am BST.
+# v4: reduced from 3x/day to 1x/day and moved to the Gemini free tier.
 
 on:
   schedule:
-    - cron: '0 6,8,10,12,14,16,18,20 * * *'
+    - cron: '0 8 * * *'
   workflow_dispatch:
     inputs:
       reason:
@@ -41,9 +40,7 @@ jobs:
           node-version: '20'
 
       - name: Install dependencies
-        run: |
-          npm install @anthropic-ai/sdk sharp
-          npm install
+        run: npm install
 
       - name: Configure Git identity
         run: |
@@ -52,7 +49,7 @@ jobs:
 
       - name: Run editorial cycle
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: node agents/editor.mjs
 

@@ -1,18 +1,28 @@
-# Agent pipeline architecture (v3)
+# Agent pipeline architecture (v4)
 
-Three layers. Only the last one pays for Claude.
+Three layers, all LLM work on the Gemini API free tier (`GEMINI_API_KEY` from Google AI Studio). Nothing in the pipeline pays per token any more; the constraint is now requests per day, not spend. All calls go through the shared client in `llm.mjs`.
+
+## Why v3 blew the budget (post-mortem)
+
+Three leaks, all fixed in v4:
+
+1. **Re-triage.** Nothing recorded which items had already been triaged. An RSS item sits in its feed for days, so at a 20-minute tier A cadence the same shortlist was re-sent to the API up to 72 times a day. Fixed by `memory/triaged-urls.json`: every item sent to triage is recorded and never sent again (14-day retention, capped at 2,000 entries). Most scout runs now make no API call at all.
+2. **Prompt caching that never hit.** `cache_control: ephemeral` has a 5-minute TTL. Cycles ran 20 minutes to 8 hours apart, so every call paid the 25% cache-write surcharge and never got a cache read. All caching removed.
+3. **Verifier web search on Sonnet.** Billed per search plus all result tokens as input, 5 to 8 searches per article. Replaced by a free deterministic fetch of the primary source URL (text passed into the prompt), with Gemini search grounding attached only for amber/red stories and capped at 3 searches.
 
 ## Layer 1 -- ingestion (no API spend)
 
-`monitor.mjs` fetches every RSS feed in `sources.json`, parses items, dedupes by URL, scores by keyword and watch-list match, and writes `memory/latest-digest.json`. Supports a tier filter via the `MONITOR_TIER` env var so tier A feeds (primary signal, polled every 15 to 30 minutes) and tier B feeds (commentary, polled every 2 to 6 hours) can run on separate cron schedules.
+`monitor.mjs` fetches every RSS feed in `sources.json`, parses items, dedupes by URL, scores by keyword and watch-list match, and writes `memory/latest-digest.json`. Supports a tier filter via the `MONITOR_TIER` env var. Unchanged from v3.
 
-## Layer 2 -- triage (one cheap Haiku call per cycle)
+## Layer 2 -- triage (at most one Gemini Flash-Lite call per cycle)
 
-`prefilter.mjs` applies a deterministic gate: items below `min_score_threshold` or without a watch-list hit are rejected without touching the API. A shortlist of up to 20 is passed to `triage.mjs`, which sends a single batched call to Haiku 4.5 with the stable system prompt cached. Haiku returns JSON picks. Top picks (score >= 6 and verdict=enqueue) are written to the story queue. Typical cost per run: fractions of a penny.
+`prefilter.mjs` applies a deterministic gate: items below `min_score_threshold` or without a watch-list hit are rejected without touching the API. Survivors are checked against `triaged-urls.json`; anything already judged is dropped. If the remaining shortlist is empty the cycle ends with zero API calls. Otherwise up to 20 items go to `triage.mjs`, which sends a single batched call to Gemini Flash-Lite (`GEMINI_MODEL_TRIAGE`) and gets JSON picks back. Top picks (score >= 6 and verdict=enqueue) are written to the story queue. Recent-coverage context is capped at 25 entries and item summaries at 200 chars.
 
-## Layer 3 -- drafting and verification (Sonnet, the only expensive layer)
+## Layer 3 -- drafting and verification (Gemini Flash)
 
-`editor.mjs` claims one story at a time from the queue and drafts it with Sonnet. The system prompt is cached so repeat draft calls pay roughly 10% of the first call's input cost. `verifier.mjs` then runs a single Sonnet call with the web search tool enabled to check claims in the finished draft. Both use `max_tokens` ceilings sized for the actual output (editor 4k, verifier 6k) rather than the 16k / 10k wasted ceilings in v2.
+`editor.mjs` claims one story from the queue and drafts it with Gemini Flash (`GEMINI_MODEL_EDITOR`). `verifier.mjs` fetches the primary source URL in Node (free), passes up to 8,000 chars of its text to a single Gemini Flash call (`GEMINI_MODEL_VERIFIER`), and attaches Google Search grounding only when the triage brief estimated the story amber or red. Output ceilings: editor 4k, verifier 4k.
+
+`rate-limit-helper.mjs`, `research.mjs` and `verify.mjs` were deleted in v4; retry logic lives in `llm.mjs`. The `revise`, `tip-scout` and `discover` agents were also ported to the shared Gemini client.
 
 ## What's no longer in the pipeline
 
@@ -20,16 +30,18 @@ The old `scout.mjs` ran a Sonnet + web search call that did discovery, research,
 
 The old `discover.mjs` ran a Sonnet + web search call to "find stories RSS missed". Replaced by Google News RSS query feeds inside `sources.json`, which are just feeds the monitor scans normally. The current `discover.mjs` is a deterministic standing-query maintainer (no API spend).
 
-The old `research.mjs` ran a Sonnet + web search call on one candidate per cycle. The new pipeline skips this step: the editor drafts from the triage brief, and the verifier does claim-level fact-checking. `research.mjs` is retained but no longer invoked by the default flow.
+The old `research.mjs` ran a Sonnet + web search call on one candidate per cycle. Removed from the repo. The new pipeline skips this step: the editor drafts from the triage brief, and the verifier does claim-level fact-checking.
 
-## Cron schedule
+The old `verify.mjs` ran a two-call Sonnet + web search pipeline (claim extraction, then verification). Removed from the repo. Replaced by `verifier.mjs`, which combines extraction and verification into a single cached call.
 
-Suggested, for a solo pipeline aiming at one published piece per day:
+## Cron schedule (v4)
 
-- Every 20 minutes: `npm run scout:a` -- tier A ingestion and triage
-- Every 3 hours: `npm run scout:b` -- tier B ingestion and triage
-- Every 1 hour: `npm run editorial` -- claim next story, draft, verify, stage PR
+- Hourly: `scout:a` -- tier A ingestion and triage (GitHub Actions: `mmike-scout-tier-a.yml`). The triage-once gate means most runs make no API call.
+- Every 6 hours: `scout:b` -- tier B ingestion and triage (GitHub Actions: `mmike-scout.yml`)
+- Once a day (08 UTC): `editorial` -- claim next story, draft, verify, stage PR (GitHub Actions: `mmike-editorial.yml`)
 - Daily: `npm run discover` -- dry run of standing-query maintenance (run `discover:apply` once a week after reviewing the dry run)
+
+Worst-case daily API usage: 24 triage calls + 1 draft + 1 verify = 26 requests, far inside the free tier's daily request allowance. Typical usage is much lower because triage skips cycles with nothing new.
 
 ## Configuring X / Twitter bridges
 
@@ -42,19 +54,20 @@ Until bridges are configured, monitor will log "Skipping (bridge not configured)
 
 ## Cost envelope
 
-Estimated monthly spend with a daily publish cadence and prompt caching warmed:
+Zero. The whole pipeline runs on the Gemini API free tier. The constraints that matter now:
 
-- Triage: Haiku, roughly 3 pounds a month at every-20-minute cadence
-- Editor draft: Sonnet, roughly 25 to 35 pounds a month at one piece per day
-- Verifier: Sonnet with web search, roughly 8 to 15 pounds a month at one verification per published piece
+- Requests per day and per minute on the free tier (check live limits for the key in Google AI Studio; they change).
+- Free-tier prompts and responses may be used by Google to improve their products. Everything sent is public RSS content and editorial prompts, so this is acceptable. Do not route anything confidential through this pipeline.
+- GitHub Actions minutes (the repo is public, so these are free too).
 
-Total envelope in the 35 to 55 pound range per month. Well below the old pipeline's likely spend once it started running at cadence.
+If a paid upgrade is ever wanted for drafting quality, the cheap options as at July 2026 are Gemini Flash-Lite (~$0.10/$0.40 per million tokens) or DeepSeek (~$0.14/$0.28); swapping models is a one-line env change per stage.
 
 ## Where to watch the numbers
 
 - `memory/latest-digest.json` -- what monitor pulled
-- `memory/latest-triage.json` -- what Haiku picked, including token usage
+- `memory/latest-triage.json` -- what triage picked, including token usage
+- `memory/triaged-urls.json` -- what has already been triaged (the re-triage guard)
 - `memory/story-queue.json` -- what's in the editor's queue
 - `memory/editorial-log.json` -- what the editor published
 
-If spend looks off, check the `usage` block in `latest-triage.json` first (it is the only stage that scales with source count).
+If the free-tier daily request limit is ever hit, check `latest-triage.json` first: `skipped_already_triaged` should be non-zero on most cycles. If it is always zero, the triage-once gate is not persisting (check that the scout workflow commits `agents/memory/` back to main).

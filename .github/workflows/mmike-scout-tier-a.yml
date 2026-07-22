@@ -1,32 +1,34 @@
-name: "mm!ke Scout Tier B"
+name: "mm!ke Scout Tier A"
 
-# Tier B scout: commentary and long-tail sources polled every 6 hours.
-# Does not write articles or create PRs.
-# Tier A (primary signal) runs on a faster schedule in mmike-scout-tier-a.yml.
+# Tier A scout: primary signal feeds polled hourly.
+# Uses the deterministic monitor plus at most one free-tier Gemini triage
+# call per cycle (skipped entirely when there is nothing new to triage).
+# Tier B runs on a slower schedule in mmike-scout.yml.
 
 on:
   schedule:
-    # Every 6 hours: midnight, 6am, noon, 6pm UTC
-    - cron: '0 0,6,12,18 * * *'
+    # Hourly. The triage-once gate means most runs make no API call,
+    # so frequency now costs Actions minutes, not tokens.
+    - cron: '0 * * * *'
   workflow_dispatch:
     inputs:
       reason:
         description: 'Reason for manual trigger'
         required: false
-        default: 'Manual scout run'
+        default: 'Manual tier A scout run'
 
 permissions:
   contents: write
 
 # Prevent overlapping runs if a cycle is slow
 concurrency:
-  group: mmike-scout-tier-b
+  group: mmike-scout-tier-a
   cancel-in-progress: false
 
 jobs:
   scout:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 10
 
     steps:
       - name: Checkout repository
@@ -49,16 +51,16 @@ jobs:
           git config user.name "mm!ke"
           git config user.email "mmike@lawpeeps.ai"
 
-      - name: Run scout (tier B)
+      - name: Run scout (tier A)
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          MONITOR_TIER: B
-        run: node agents/scout.mjs --tier B
+          MONITOR_TIER: A
+        run: node agents/scout.mjs --tier A
 
       - name: Commit queue and memory updates
         run: |
           git add agents/memory/ agents/sources.json || true
-          git diff --cached --quiet || git commit -m "scout B: queue and memory update $(date -u +%Y-%m-%dT%H:%M)"
+          git diff --cached --quiet || git commit -m "scout A: queue update $(date -u +%Y-%m-%dT%H:%M)"
           git pull --rebase origin main || true
           git push origin main || true
 
@@ -66,9 +68,8 @@ jobs:
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: scout-${{ github.run_number }}
+          name: scout-tier-a-${{ github.run_number }}
           path: |
             agents/memory/latest-digest.json
-            agents/memory/latest-discovery.json
             agents/memory/story-queue.json
-          retention-days: 7
+          retention-days: 3

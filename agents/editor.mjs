@@ -14,10 +14,9 @@
  *   6. Reflect: update memory, positions, knowledge
  *
  * Run: node agents/editor.mjs
- * Expects: ANTHROPIC_API_KEY, GITHUB_TOKEN
+ * Expects: GEMINI_API_KEY, GITHUB_TOKEN
  */
 
-import Anthropic from '@anthropic-ai/sdk';
 import { readFileSync, writeFileSync, existsSync, mkdirSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
@@ -26,7 +25,7 @@ import { execSync } from 'child_process';
 import { claimNext, markPublished, markKilled, stats } from './queue.mjs';
 import { verifyArticle } from './verifier.mjs';
 import { generateOgImage } from './og-image.mjs';
-import { withRetry } from './rate-limit-helper.mjs';
+import { generate, MODELS } from './llm.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const MEMORY_DIR = join(__dirname, 'memory');
@@ -40,8 +39,6 @@ const KNOWLEDGE_PATH = join(MEMORY_DIR, 'knowledge.json');
 const WEIGHTING_PATH = join(MEMORY_DIR, 'weighting-tracker.json');
 
 if (!existsSync(MEMORY_DIR)) mkdirSync(MEMORY_DIR, { recursive: true });
-
-const client = new Anthropic();
 
 // ── Load system prompt ──
 
@@ -451,26 +448,19 @@ async function runEditorialCycle() {
   const memory = loadMemoryContext();
   const writingPrompt = buildWritingPrompt(story, memory);
 
-  // The system prompt is stable across runs: cache it so repeat calls
-  // only pay for the short user message plus output. Caches up to 90%
-  // of input token cost on warm calls. max_tokens is a ceiling: a
+  // v4: single Gemini Flash call on the free tier. No prompt caching --
+  // the old ephemeral cache (5-minute TTL) never hit between cycles and
+  // just added a write surcharge. maxTokens is a ceiling: a
   // well-prompted 800-word article uses ~2,500 output tokens.
-  const writeResponse = await withRetry(() => client.messages.create({
-    model: 'claude-sonnet-4-20250514',
-    max_tokens: 4000,
-    system: [
-      {
-        type: 'text',
-        text: systemPrompt,
-        cache_control: { type: 'ephemeral' }
-      }
-    ],
-    messages: [{ role: 'user', content: writingPrompt }]
-  }), 'editor-write');
-
-  let writeText = '';
-  for (const block of writeResponse.content) {
-    if (block.type === 'text') writeText += block.text;
+  const { text: writeText, usage: writeUsage } = await generate({
+    model: MODELS.editor,
+    system: systemPrompt,
+    user: writingPrompt,
+    maxTokens: 4000,
+    label: 'editor-write'
+  });
+  if (writeUsage) {
+    console.log(`[editor] Tokens: ${writeUsage.input_tokens || '?'} in, ${writeUsage.output_tokens || '?'} out`);
   }
 
   const article = parseArticle(writeText);
@@ -484,9 +474,15 @@ async function runEditorialCycle() {
 
   console.log(`[editor] Drafted: "${article.meta.title || article.slug}"`);
 
-  // Step 3: Verify (web search -- but no competition with scout)
+  // Step 3: Verify. The verifier fetches the primary source directly
+  // (free, deterministic) and only attaches search grounding for
+  // amber/red stories.
   console.log('\n--- STEP 3: VERIFY ---\n');
-  const verificationReport = await verifyArticle(article.body, article.meta);
+  const skipWebSearch = (story.estimated_staging || 'amber') === 'green';
+  const verificationReport = await verifyArticle(article.body, article.meta, {
+    skipWebSearch,
+    primarySourceUrl: story.primary_source || null
+  });
   article.verificationReport = verificationReport;
 
   const stagingOrder = { green: 0, amber: 1, red: 2 };

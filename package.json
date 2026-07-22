@@ -16,12 +16,9 @@
     "triage": "node agents/triage.mjs",
     "discover": "node agents/discover.mjs",
     "discover:apply": "node agents/discover.mjs --apply",
-    "research": "node agents/research.mjs",
-    "verify": "node agents/verify.mjs",
     "dedupe:scan": "node agents/dedupe.mjs --scan"
   },
   "dependencies": {
-    "@anthropic-ai/sdk": "^0.39.0",
     "@astrojs/rss": "^4.0.0",
     "@astrojs/sitemap": "^3.0.0",
     "astro": "^5.7.0"
