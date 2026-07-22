@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-22T11:14:02.395Z",
+  "generated": "2026-07-22T14:12:44.512Z",
   "cycle_type": "monitoring",
   "item_count": 40,
   "total_scanned": 1359,
@@ -41,6 +41,30 @@
       "source_tier": "B",
       "source_category": "Legal operations",
       "relevance_score": 12
+    },
+    {
+      "title": "Willkie Farr partners with OpenAI to develop proprietary AI platforms and solutions - Legal IT Insider",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRWYzS1RQSXhWYnkweHRKTGd5RHlQT0J1S1dHNm5UeFgwR3RQaVpRWVdNbGVnbC15MzB3UnhST1BCMXpGUkNHN01kckJsc1FVdDVvR21uR05pUFNVdWV1Vkp4ZllYRnVENW5kRE5EYzhoVFYyZk5nUjBhdTd2M0FnZ0pCQkJCSkZFN0N1cVpSZ3kyUXJ2S1lyVDdqRUJwTW9LSGo3TVl5TXhfdmlPc1EtckVB?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPRWYzS1RQSXhWYnkweHRKTGd5RHlQT0J1S1dHNm5UeFgwR3RQaVpRWVdNbGVnbC15MzB3UnhST1BCMXpGUkNHN01kckJsc1FVdDVvR21uR05pUFNVdWV1Vkp4ZllYRnVENW5kRE5EYzhoVFYyZk5nUjBhdTd2M0FnZ0pCQkJCSkZFN0N1cVpSZ3kyUXJ2S1lyVDdqRUJwTW9LSGo3TVl5TXhfdmlPc1EtckVB?oc=5\" target=\"_blank\"&gt;Willkie Farr partners with OpenAI to develop proprietary AI platforms and solutions&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Legal IT Insider&lt;/font&gt;",
+      "published": "2026-07-22T12:31:09.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 10
+    },
+    {
+      "title": "US Law Firm Willkie Partners With OpenAI",
+      "url": "https://www.artificiallawyer.com/2026/07/22/us-law-firm-willkie-partners-with-openai/",
+      "summary": "Major US law firm, Willkie, is partnering with OpenAI to develop ‘AI solutions across the firm&#8217;s legal and business operations, including a firmwide rollout of ...",
+      "published": "2026-07-22T11:40:27.000Z",
+      "source_id": "artificial-lawyer",
+      "source_name": "Artificial Lawyer",
+      "source_priority": "critical",
+      "source_tier": "B",
+      "source_category": "Legal AI",
+      "relevance_score": 10
     },
     {
       "title": "On LawNext: Legal Research for Everyone: Inside the CourtListener-Claude Partnership",
@@ -355,6 +379,18 @@
       "relevance_score": 7
     },
     {
+      "title": "US Law Firm Willkie Partners With OpenAI - Artificial Lawyer",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOVpMUDJtMW1fTTlpOGZTaFFIMTZ3eG5ob18xRmo3RjZBSVlxbHBsLXp1M3dlZ1VFcU9xSW5IUk8tR2puMnlORWl2Mzc5YldhV1BZdDUxUmpnTU1NSXNQaXhaYTJNS2dwWG9IYzBpbmNFMmw1VDlJVjd0RWFacjhaRnJHdjl6N29LekU4UDh3?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNOVpMUDJtMW1fTTlpOGZTaFFIMTZ3eG5ob18xRmo3RjZBSVlxbHBsLXp1M3dlZ1VFcU9xSW5IUk8tR2puMnlORWl2Mzc5YldhV1BZdDUxUmpnTU1NSXNQaXhaYTJNS2dwWG9IYzBpbmNFMmw1VDlJVjd0RWFacjhaRnJHdjl6N29LekU4UDh3?oc=5\" target=\"_blank\"&gt;US Law Firm Willkie Partners With OpenAI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
+      "published": "2026-07-22T11:43:18.000Z",
+      "source_id": "google-news-law-firm-ai",
+      "source_name": "Google News: law firm AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 7
+    },
+    {
       "title": "Legal AI giant Harvey acquires Hexus as competition heats up in legal tech - TechCrunch",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWtsRnRNeWxYZWEwaERMRVJaRWVfQm41MzVDeDJBM1ZIOEstUW5DaTB5UUhjUXE5Sml2QU40RzdZaWlqeUpid3dELUpLTHlKbVNRNmRObWtrZ1dSSXd3R20wSDY3TkVUOHVwRzlZOTh1b1FraXZlNGpuUnBPcXdIU2oxbVZzMTZDVzVNMDRDcGR0NC1oQ2pfMGlUY25YSHBZaHJUTEljdzU5LWREa0E?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWtsRnRNeWxYZWEwaERMRVJaRWVfQm41MzVDeDJBM1ZIOEstUW5DaTB5UUhjUXE5Sml2QU40RzdZaWlqeUpid3dELUpLTHlKbVNRNmRObWtrZ1dSSXd3R20wSDY3TkVUOHVwRzlZOTh1b1FraXZlNGpuUnBPcXdIU2oxbVZzMTZDVzVNMDRDcGR0NC1oQ2pfMGlUY25YSHBZaHJUTEljdzU5LWREa0E?oc=5\" target=\"_blank\"&gt;Legal AI giant Harvey acquires Hexus as competition heats up in legal tech&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;TechCrunch&lt;/font&gt;",
@@ -427,18 +463,6 @@
       "relevance_score": 7
     },
     {
-      "title": "This Judge Is Just Begging For A Benchslap &#8212; See Also",
-      "url": "https://abovethelaw.com/2026/07/this-judge-is-just-begging-for-a-benchslap-see-also/",
-      "summary": "Judge VanDyke Has Taken To Asking The Supreme Court For Favors: Of the benchslap variety. Full Metal Briefing : Todd Blanche feared DOJ would get \"skullfucked\" by the courts. The Tortured Logic Of John Yoo : Yoo tells Fox News that the DOJ should probe Zohran Mamdani for thought crime, which is as scary as it is buffonish . No Merger, No Problem : Linklaters is doing just fine when it comes to revenue, thank you very much . The Process Is The Process : Generative AI is all over the legal industr",
-      "published": "2026-07-21T23:35:00.000Z",
-      "source_id": "above-the-law-legaltech",
-      "source_name": "Above the Law (Legal Tech)",
-      "source_priority": "high",
-      "source_tier": "B",
-      "source_category": "Legal profession",
-      "relevance_score": 7
-    },
-    {
       "title": "CMS UK growth outpaces firmwide performance as global revenue nears €2.2bn",
       "url": "https://www.legalbusiness.co.uk/law-firms/cms-uk-growth-outpaces-firmwide-performance-as-global-revenue-nears-e2-2bn/",
       "summary": "CMS has posted a 4.8% increase in global revenues to just under €2.2bn, with revenues for the UK LLP rising at a faster pace, as the firm embarks on its new four-year strategy. The increase in global turnover to €2.173bn for the 2025 calendar year comes after the firm passed the €2bn mark for the &#8230; Continue reading \"CMS UK growth outpaces firmwide performance as global revenue nears €2.2bn\"",
@@ -451,34 +475,10 @@
       "relevance_score": 7
     },
     {
-      "title": "OpenAI's latest AI agent escaped security controls and hacked a tech company",
-      "url": "https://www.washingtonpost.com/technology/2026/07/21/openais-latest-ai-agent-escaped-security-controls-hacked-tech-company/",
-      "summary": "Article URL: https://www.washingtonpost.com/technology/2026/07/21/openais-latest-ai-agent-escaped-security-controls-hacked-tech-company/ Comments URL: https://news.ycombinator.com/item?id=49004459 Points: 3 # Comments: 0",
-      "published": "2026-07-22T10:23:43.000Z",
-      "source_id": "hacker-news",
-      "source_name": "Hacker News (filtered)",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "Community",
-      "relevance_score": 7
-    },
-    {
-      "title": "OpenAI says AI models went rogue during testing",
-      "url": "https://www.reuters.com/technology/openai-says-ai-models-went-rogue-during-testing-triggering-unprecedented-breach-2026-07-21/",
-      "summary": "Article URL: https://www.reuters.com/technology/openai-says-ai-models-went-rogue-during-testing-triggering-unprecedented-breach-2026-07-21/ Comments URL: https://news.ycombinator.com/item?id=49003455 Points: 2 # Comments: 0",
-      "published": "2026-07-22T08:25:58.000Z",
-      "source_id": "hacker-news",
-      "source_name": "Hacker News (filtered)",
-      "source_priority": "low",
-      "source_tier": "B",
-      "source_category": "Community",
-      "relevance_score": 7
-    },
-    {
-      "title": "Help MitM atks denl of srvce. Reliable AI",
-      "url": "https://news.ycombinator.com/item?id=49002711",
-      "summary": "HELP MitM+ Denial of service hacks. PRO state level. THE patent pending tech at the core of all the new \"Too powerful\" models. Independent Inventor, attached for months. Oppressed. I'd appropriated. Work stolen. Documentation exist, mapped the network. Now is everything wish they can't but they still got of my files locked up in an accessible didn't create a serious problem. Can't make this up!!! Please. Comments URL: https://news.ycombinator.com/item?id=49002711 Points: 1 # Comments: 1",
-      "published": "2026-07-22T06:46:08.000Z",
+      "title": "Show HN: I made YAFL – a E2EE file handoff for AI agents",
+      "url": "https://yafl.dev",
+      "summary": "Hi HN. I build with coding agents across a laptop and a couple of VPS's, and I kept hitting the same stupid interruption: the agent finishes a build, produces a report or a dataset, and then I become the transport layer. SSH, scp -P, path archaeology. Or worse – cat the file into the context window and even pay tokens to move bytes. YAFL is a file layer the agents call themselves. One MCP tool call up, one down. Example: I'm on my phone, I spot a clumsy screen in my own app – or a nicely done on",
+      "published": "2026-07-22T14:12:01.000Z",
       "source_id": "hacker-news",
       "source_name": "Hacker News (filtered)",
       "source_priority": "low",
