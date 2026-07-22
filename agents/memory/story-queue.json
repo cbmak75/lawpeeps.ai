@@ -2394,7 +2394,52 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "NetDocuments Launches Expert Witness + Plaintiff Apps",
+      "slug": "netdocuments-launches-expert-witness-plaintiff-apps",
+      "score": 7,
+      "category": "Legal AI",
+      "story_type": "news",
+      "research_brief": "NetDocuments is continuing its expansion drive into AI tools with a collection of new apps. For AL, the most significant ones are those related to ...",
+      "primary_source": "https://www.artificiallawyer.com/2026/07/22/netdocuments-launches-expert-witness-plaintiff-apps/",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "NetDocuments expands AI tooling into litigation workflow with expert witness and plaintiff discovery apps",
+      "why_now": "Product launch from established legal tech player; primary source from credible legal AI publication; fits watch-list adoption pattern",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Artificial Lawyer",
+      "source_tier": "B",
+      "prefilter_score": 12,
+      "matched_terms": [
+        "NetDocuments"
+      ],
+      "fingerprint": {
+        "entities": [
+          "netdocuments"
+        ],
+        "numerics": [],
+        "keywords": [],
+        "title_tokens": [
+          "netdocuments",
+          "expert",
+          "witness",
+          "plaintiff",
+          "apps"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-07-22T11:14:13.863Z",
+      "queued_at": "2026-07-22T11:14:13.869Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-07-21T16:37:41.691Z"
+  "last_updated": "2026-07-22T11:14:13.869Z"
 }
