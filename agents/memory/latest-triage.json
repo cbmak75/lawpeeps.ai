@@ -1,38 +1,83 @@
 {
-  "generated": "2026-07-23T08:08:19.552Z",
+  "generated": "2026-07-23T08:21:58.591Z",
   "cycle_type": "triage",
-  "tier_filter": "A",
-  "shortlist_size": 1,
+  "tier_filter": "B",
+  "shortlist_size": 6,
   "prefilter": {
     "total": 40,
-    "accepted": 2,
+    "accepted": 31,
     "borderline": 0,
-    "rejected": 38,
-    "rejected_as_duplicate": 38,
-    "accept_rate": 5
+    "rejected": 9,
+    "rejected_as_duplicate": 9,
+    "accept_rate": 78
   },
   "model": "gemini-flash-lite-latest",
   "picks": [
     {
-      "id": "free-movement-0",
-      "score": 6,
-      "category": "Regulatory",
-      "suggested_angle": "High Court sets limits on Home Office sponsor licence revocations over unstated dishonesty allegations.",
-      "why_now": "Primary source case law analysis relevant to immigration practitioners dealing with Home Office procedural fairness.",
-      "verdict": "enqueue",
+      "id": "arxiv-cs-ai-0",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "Preemptive hardening techniques for agentic workflows",
+      "why_now": "General computer science preprint without a direct legal industry application hook.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-1",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Cross-agent attack attribution in distributed LLMs",
+      "why_now": "Purely academic ML security paper with no immediate relevance to legal tech or regulation.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-2",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Multimodal LLMs for computational humor",
+      "why_now": "Irrelevant to legal AI editorial focus.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-3",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "LLM essay scoring via reinforcement learning",
+      "why_now": "Educational technology research paper outside publication scope.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-4",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Supply chain risk warning with temporal graph networks",
+      "why_now": "Supply chain logistics focus rather than legal tech.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-5",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Ontology curation using frontier LLM agents",
+      "why_now": "Bioinformatics and phenotype annotation research.",
+      "verdict": "drop",
       "duplicate_of": null
     }
   ],
   "summary": {
-    "enqueue_count": 1,
+    "enqueue_count": 0,
     "watch_count": 0,
-    "drop_count": 0,
-    "notes": "Processed 1 immigration law case analysis item for potential inclusion."
+    "drop_count": 6,
+    "notes": "All shortlisted items are general computer science arXiv preprints lacking a direct legal AI or regulatory hook."
   },
-  "enqueued": 1,
+  "enqueued": 0,
   "usage": {
-    "input_tokens": 2193,
-    "output_tokens": 175,
-    "total_tokens": 2368
+    "input_tokens": 2982,
+    "output_tokens": 609,
+    "total_tokens": 3591
   }
 }
