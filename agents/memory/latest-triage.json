@@ -1,15 +1,56 @@
 {
-  "generated": "2026-07-23T18:06:07.393Z",
+  "generated": "2026-07-23T19:06:59.743Z",
   "cycle_type": "triage",
-  "shortlist_size": 0,
-  "picks": [],
+  "tier_filter": "B",
+  "shortlist_size": 3,
   "prefilter": {
     "total": 40,
-    "accepted": 1,
+    "accepted": 17,
     "borderline": 0,
-    "rejected": 39,
-    "rejected_as_duplicate": 39,
-    "accept_rate": 3
+    "rejected": 23,
+    "rejected_as_duplicate": 23,
+    "accept_rate": 43
   },
-  "skipped_already_triaged": 1
+  "model": "gemini-flash-lite-latest",
+  "picks": [
+    {
+      "id": "above-the-law-legaltech-0",
+      "score": 2,
+      "category": "Social",
+      "suggested_angle": null,
+      "why_now": "General career advice piece with no legal AI or tech relevance.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "above-the-law-legaltech-1",
+      "score": 2,
+      "category": "Social",
+      "suggested_angle": null,
+      "why_now": "General bar exam commentary with no legal AI or regulatory hook.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "ars-technica-ai-2",
+      "score": 4,
+      "category": "Funding",
+      "suggested_angle": null,
+      "why_now": "Macro tech industry news on Google's AI spending, but lacks a direct legal vertical hook.",
+      "verdict": "drop",
+      "duplicate_of": null
+    }
+  ],
+  "summary": {
+    "enqueue_count": 0,
+    "watch_count": 0,
+    "drop_count": 3,
+    "notes": "All shortlist items are general tech or career commentary lacking direct relevance to legal AI, regulation, or our core editorial focus."
+  },
+  "enqueued": 0,
+  "usage": {
+    "input_tokens": 2448,
+    "output_tokens": 349,
+    "total_tokens": 2797
+  }
 }
