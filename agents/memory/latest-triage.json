@@ -1,38 +1,209 @@
 {
-  "generated": "2026-07-23T01:30:32.718Z",
+  "generated": "2026-07-23T02:13:22.843Z",
   "cycle_type": "triage",
-  "tier_filter": "A",
-  "shortlist_size": 1,
+  "tier_filter": "B",
+  "shortlist_size": 20,
   "prefilter": {
     "total": 40,
-    "accepted": 1,
+    "accepted": 21,
     "borderline": 0,
-    "rejected": 39,
-    "rejected_as_duplicate": 39,
-    "accept_rate": 3
+    "rejected": 19,
+    "rejected_as_duplicate": 19,
+    "accept_rate": 53
   },
   "model": "gemini-flash-lite-latest",
   "picks": [
     {
-      "id": "google-news-legal-ai-0",
+      "id": "above-the-law-legaltech-0",
+      "score": 2,
+      "category": "Social",
+      "suggested_angle": "Matt Damon's college throwback adds levity to legal circles.",
+      "why_now": "Purely cultural celebrity trivia with zero relevance to legal AI, regulation, or legal tech.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "above-the-law-legaltech-1",
+      "score": 3,
+      "category": "Policy",
+      "suggested_angle": "Supreme Court term limits back in Senate focus.",
+      "why_now": "General US judicial politics, lacking any legal tech or regulatory angle for our readership.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-2",
       "score": 4,
+      "category": "Research",
+      "suggested_angle": "Benchmarking robust reasoning in LLMs.",
+      "why_now": "Pure computer science preprint without a direct legal domain application.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-3",
+      "score": 4,
+      "category": "Research",
+      "suggested_angle": "Auditing privacy risks in synthetic data generation.",
+      "why_now": "General data privacy research; no specific legal tech application.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-4",
+      "score": 4,
+      "category": "Research",
+      "suggested_angle": "Latency-aware query routing for dynamic LLM workloads.",
+      "why_now": "Infrastructure optimization paper lacking specific legal workflow integration.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-5",
+      "score": 4,
+      "category": "Research",
+      "suggested_angle": "Steering vectors for trustworthy LLM inference.",
+      "why_now": "General alignment research without direct legal reasoning focus.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-6",
+      "score": 5,
+      "category": "Research",
+      "suggested_angle": "Evaluating schema-constrained ordering agents for transactional tasks.",
+      "why_now": "Relevant to automated document drafting and transaction processing agents.",
+      "verdict": "watch",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-7",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Multi-agent systems for metabolic modeling.",
+      "why_now": "Strictly bioinformatics focus.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-8",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "Simulating synthetic populations with LLM personas.",
+      "why_now": "Social science simulation research rather than legal tech.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-9",
+      "score": 4,
+      "category": "Research",
+      "suggested_angle": "Constrained LLM generation over grammar fragments for code.",
+      "why_now": "Software engineering utility, tangential to legal document automation.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-10",
+      "score": 5,
+      "category": "Research",
+      "suggested_angle": "Benchmarking LLM agent security in high-performance computing.",
+      "why_now": "Highlights enterprise security risks relevant to legal AI deployment.",
+      "verdict": "watch",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-11",
+      "score": 4,
+      "category": "Research",
+      "suggested_angle": "Reframing the discourse on AI loss of control.",
+      "why_now": "Broad theoretical AI safety paper rather than legal industry regulation.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-12",
+      "score": 4,
+      "category": "Research",
+      "suggested_angle": "Selective fact-checking via evidence chain evaluation.",
+      "why_now": "General hallucination mitigation research.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-13",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "Misalignment of deepfake research regarding non-consensual imagery.",
+      "why_now": "Important ethical critique, but outside core legal tech coverage.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-14",
+      "score": 5,
       "category": "Legal AI",
-      "suggested_angle": "Moving beyond basic chatbots requires fundamental technical literacy across legal teams.",
-      "why_now": "General thought piece in IFLR offering little new hard news or exclusive reporting.",
+      "suggested_angle": "Tracking operational hallucination and safety drift in autonomous agents.",
+      "why_now": "Directly impacts liability discussions when deploying multi-turn legal AI agents.",
+      "verdict": "watch",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-15",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Semantic primes for emotion in LLMs.",
+      "why_now": "Cognitive modeling of AI emotion, irrelevant to legal practice.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-16",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "Shapley-based reward attribution for parallel reasoning.",
+      "why_now": "Reinforcement learning optimization detail.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-17",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Robot brain architectures for general intelligence.",
+      "why_now": "Robotics focus.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-18",
+      "score": 5,
+      "category": "Legal AI",
+      "suggested_angle": "Graph-based workflow pathways for long-running business processes using LangGraph.",
+      "why_now": "Practical architectural guide for law firms building bespoke automation workflows.",
+      "verdict": "watch",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-19",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "Decision-relevant insight and forgetting as higher-order learning.",
+      "why_now": "Abstract cognitive theory of machine learning.",
       "verdict": "drop",
       "duplicate_of": null
     }
   ],
   "summary": {
     "enqueue_count": 0,
-    "watch_count": 0,
-    "drop_count": 1,
-    "notes": "Dropped single generic opinion piece from IFLR due to lack of hard news hook."
+    "watch_count": 4,
+    "drop_count": 16,
+    "notes": "No immediate primary scoops or regulatory announcements; queued a few relevant technical preprints for watchlist consideration."
   },
   "enqueued": 0,
   "usage": {
-    "input_tokens": 2417,
-    "output_tokens": 180,
-    "total_tokens": 2597
+    "input_tokens": 5394,
+    "output_tokens": 1902,
+    "total_tokens": 7296
   }
 }
