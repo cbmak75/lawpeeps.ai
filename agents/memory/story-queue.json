@@ -1652,7 +1652,63 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "High Court quashes sponsor licence revocation over unspoken dishonesty allegation",
+      "slug": "high-court-quashes-sponsor-licence-revocation-over-unspoken-dishonesty-allegatio",
+      "score": 6,
+      "category": "Regulatory",
+      "story_type": "news",
+      "research_brief": "The High Court has quashed the revocation of a construction company&#8217;s sponsor licence in R (Blue Inn Ltd) v Secretary of State for the Home Department [2026] EWHC 1649 (Admin). The court found that the Home Office was alleging dishonesty in substance without saying it and without complying with the procedural fairness safeguards that such an allegation [&#8230;]",
+      "primary_source": "https://freemovement.org.uk/sponsor-licence-revocation-quashed-dishonesty/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=sponsor-licence-revocation-quashed-dishonesty",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "High Court sets limits on Home Office sponsor licence revocations over unstated dishonesty allegations.",
+      "why_now": "Primary source case law analysis relevant to immigration practitioners dealing with Home Office procedural fairness.",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Free Movement",
+      "source_tier": "A",
+      "prefilter_score": 11,
+      "matched_terms": [
+        "sponsor licence"
+      ],
+      "fingerprint": {
+        "entities": [
+          "home office",
+          "high court"
+        ],
+        "numerics": [
+          "8k",
+          "2026y",
+          "2k"
+        ],
+        "keywords": [
+          "sponsor licence"
+        ],
+        "title_tokens": [
+          "high",
+          "court",
+          "quashes",
+          "sponsor",
+          "licence",
+          "revocation",
+          "unspoken",
+          "dishonesty",
+          "allegation"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-07-23T08:08:19.549Z",
+      "queued_at": "2026-07-23T08:08:19.552Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-07-23T01:30:22.839Z"
+  "last_updated": "2026-07-23T08:08:19.552Z"
 }

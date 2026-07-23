@@ -1,15 +1,38 @@
 {
-  "generated": "2026-07-23T05:13:50.332Z",
+  "generated": "2026-07-23T08:08:19.552Z",
   "cycle_type": "triage",
-  "shortlist_size": 0,
-  "picks": [],
+  "tier_filter": "A",
+  "shortlist_size": 1,
   "prefilter": {
     "total": 40,
-    "accepted": 1,
+    "accepted": 2,
     "borderline": 0,
-    "rejected": 39,
-    "rejected_as_duplicate": 39,
-    "accept_rate": 3
+    "rejected": 38,
+    "rejected_as_duplicate": 38,
+    "accept_rate": 5
   },
-  "skipped_already_triaged": 1
+  "model": "gemini-flash-lite-latest",
+  "picks": [
+    {
+      "id": "free-movement-0",
+      "score": 6,
+      "category": "Regulatory",
+      "suggested_angle": "High Court sets limits on Home Office sponsor licence revocations over unstated dishonesty allegations.",
+      "why_now": "Primary source case law analysis relevant to immigration practitioners dealing with Home Office procedural fairness.",
+      "verdict": "enqueue",
+      "duplicate_of": null
+    }
+  ],
+  "summary": {
+    "enqueue_count": 1,
+    "watch_count": 0,
+    "drop_count": 0,
+    "notes": "Processed 1 immigration law case analysis item for potential inclusion."
+  },
+  "enqueued": 1,
+  "usage": {
+    "input_tokens": 2193,
+    "output_tokens": 175,
+    "total_tokens": 2368
+  }
 }
