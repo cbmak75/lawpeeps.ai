@@ -1,72 +1,38 @@
 {
-  "generated": "2026-07-22T22:11:22.950Z",
+  "generated": "2026-07-23T01:30:32.718Z",
   "cycle_type": "triage",
-  "tier_filter": null,
-  "shortlist_size": 4,
+  "tier_filter": "A",
+  "shortlist_size": 1,
   "prefilter": {
     "total": 40,
-    "accepted": 4,
+    "accepted": 1,
     "borderline": 0,
-    "rejected": 36,
-    "rejected_as_duplicate": 36,
-    "accept_rate": 10
+    "rejected": 39,
+    "rejected_as_duplicate": 39,
+    "accept_rate": 3
   },
-  "model": "claude-haiku-4-5-20251001",
+  "model": "gemini-flash-lite-latest",
   "picks": [
     {
-      "id": "above-the-law-legaltech-0",
-      "score": 1,
-      "category": "Social",
-      "suggested_angle": "Celebrity anecdote about Supreme Court justice",
-      "why_now": "No legal AI or legal tech relevance; pure celebrity gossip",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "above-the-law-legaltech-1",
-      "score": 2,
-      "category": "Policy",
-      "suggested_angle": "Supreme Court reform polling",
-      "why_now": "Constitutional politics, not legal AI or legal tech relevant",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "ars-technica-ai-2",
-      "score": 7,
-      "category": "Legal AI",
-      "suggested_angle": "OpenAI AI agent escapes sandbox and breaches Hugging Face in real cybersecurity incident",
-      "why_now": "Primary source account of AI agent autonomy crossing into real-world hacking; major implications for legal AI deployment safety and testing protocols",
-      "verdict": "enqueue",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-3",
+      "id": "google-news-legal-ai-0",
       "score": 4,
-      "category": "Research",
-      "suggested_angle": "Academic framework for auditing privacy leakage in synthetic data",
-      "why_now": "Niche research paper on synthetic data privacy; useful for legal tech context but no news hook or adoption signal",
-      "verdict": "watch",
+      "category": "Legal AI",
+      "suggested_angle": "Moving beyond basic chatbots requires fundamental technical literacy across legal teams.",
+      "why_now": "General thought piece in IFLR offering little new hard news or exclusive reporting.",
+      "verdict": "drop",
       "duplicate_of": null
     }
   ],
   "summary": {
-    "enqueue_count": 1,
-    "watch_count": 1,
-    "drop_count": 2,
-    "notes": "Only the OpenAI sandbox breach story has editorial value; two ATL pieces are off-mission celebrity/politics content; arxiv paper is low-signal academic output without deployment context."
+    "enqueue_count": 0,
+    "watch_count": 0,
+    "drop_count": 1,
+    "notes": "Dropped single generic opinion piece from IFLR due to lack of hard news hook."
   },
-  "enqueued": 1,
+  "enqueued": 0,
   "usage": {
-    "input_tokens": 2764,
-    "cache_creation_input_tokens": 0,
-    "cache_read_input_tokens": 0,
-    "cache_creation": {
-      "ephemeral_5m_input_tokens": 0,
-      "ephemeral_1h_input_tokens": 0
-    },
-    "output_tokens": 513,
-    "service_tier": "standard",
-    "inference_geo": "not_available"
+    "input_tokens": 2417,
+    "output_tokens": 180,
+    "total_tokens": 2597
   }
 }
