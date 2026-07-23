@@ -1,38 +1,74 @@
 {
-  "generated": "2026-07-23T12:21:21.097Z",
+  "generated": "2026-07-23T13:44:34.491Z",
   "cycle_type": "triage",
-  "tier_filter": "A",
-  "shortlist_size": 1,
+  "tier_filter": "B",
+  "shortlist_size": 5,
   "prefilter": {
     "total": 40,
-    "accepted": 2,
+    "accepted": 22,
     "borderline": 0,
-    "rejected": 38,
-    "rejected_as_duplicate": 38,
-    "accept_rate": 5
+    "rejected": 18,
+    "rejected_as_duplicate": 18,
+    "accept_rate": 55
   },
   "model": "gemini-flash-lite-latest",
   "picks": [
     {
-      "id": "crunchbase-news-0",
-      "score": 4,
+      "id": "artificial-lawyer-0",
+      "score": 8,
       "category": "Legal AI",
-      "suggested_angle": "Why on-premise AI infrastructure matters for law firms handling sensitive data.",
-      "why_now": "General tech commentary piece without a direct hook to specific legal sector adoption or regulation.",
+      "suggested_angle": "Harvey expands footprint by deploying legal AI platform within Microsoft's CELA division",
+      "why_now": "Major platform adoption story involving a premier watchlist company and a tech giant, covered by a tier-1 legal tech source.",
+      "verdict": "enqueue",
+      "duplicate_of": null
+    },
+    {
+      "id": "hacker-news-1",
+      "score": 2,
+      "category": "Social",
+      "suggested_angle": null,
+      "why_now": "General coding community link with no direct legal sector relevance.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "hacker-news-2",
+      "score": 2,
+      "category": "Social",
+      "suggested_angle": null,
+      "why_now": "General competitor monitoring tool with no legal vertical application.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "hacker-news-3",
+      "score": 2,
+      "category": "Social",
+      "suggested_angle": null,
+      "why_now": "Consumer hobbyist USB AI agent project, irrelevant to regulated legal tech.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "hacker-news-4",
+      "score": 2,
+      "category": "Social",
+      "suggested_angle": null,
+      "why_now": "General developer memory tool for AI agents, no legal connection.",
       "verdict": "drop",
       "duplicate_of": null
     }
   ],
   "summary": {
-    "enqueue_count": 0,
+    "enqueue_count": 1,
     "watch_count": 0,
-    "drop_count": 1,
-    "notes": "Dropped general tech guest commentary on on-prem vs cloud infrastructure as it lacks a specific legal or regulatory hook."
+    "drop_count": 4,
+    "notes": "Strong primary source adoption story for Harvey; all generic Hacker News developer tools dropped."
   },
-  "enqueued": 0,
+  "enqueued": 1,
   "usage": {
-    "input_tokens": 2129,
-    "output_tokens": 180,
-    "total_tokens": 2309
+    "input_tokens": 2759,
+    "output_tokens": 510,
+    "total_tokens": 3269
   }
 }

@@ -1708,7 +1708,56 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "Harvey Deepens Microsoft Relationship",
+      "slug": "harvey-deepens-microsoft-relationship",
+      "score": 8,
+      "category": "Legal AI",
+      "story_type": "news",
+      "research_brief": "Harvey has deepened its engagement with Microsoft, in this case via providing its legal AI platform to the tech giant&#8217;s Corporate, External, and Legal Affairs ...",
+      "primary_source": "https://www.artificiallawyer.com/2026/07/23/harvey-deepens-microsoft-relationship/",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "Harvey expands footprint by deploying legal AI platform within Microsoft's CELA division",
+      "why_now": "Major platform adoption story involving a premier watchlist company and a tech giant, covered by a tier-1 legal tech source.",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Artificial Lawyer",
+      "source_tier": "B",
+      "prefilter_score": 14,
+      "matched_terms": [
+        "legal AI",
+        "Harvey"
+      ],
+      "fingerprint": {
+        "entities": [
+          "harvey"
+        ],
+        "numerics": [
+          "8k"
+        ],
+        "keywords": [
+          "legal ai"
+        ],
+        "title_tokens": [
+          "harvey",
+          "deepens",
+          "microsoft",
+          "relationship"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-07-23T13:44:34.489Z",
+      "queued_at": "2026-07-23T13:44:34.490Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-07-23T08:08:19.552Z"
+  "last_updated": "2026-07-23T13:44:34.491Z"
 }
