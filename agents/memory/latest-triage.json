@@ -1,15 +1,38 @@
 {
-  "generated": "2026-07-23T10:57:41.951Z",
+  "generated": "2026-07-23T12:21:21.097Z",
   "cycle_type": "triage",
-  "shortlist_size": 0,
-  "picks": [],
+  "tier_filter": "A",
+  "shortlist_size": 1,
   "prefilter": {
     "total": 40,
-    "accepted": 1,
+    "accepted": 2,
     "borderline": 0,
-    "rejected": 39,
-    "rejected_as_duplicate": 39,
-    "accept_rate": 3
+    "rejected": 38,
+    "rejected_as_duplicate": 38,
+    "accept_rate": 5
   },
-  "skipped_already_triaged": 1
+  "model": "gemini-flash-lite-latest",
+  "picks": [
+    {
+      "id": "crunchbase-news-0",
+      "score": 4,
+      "category": "Legal AI",
+      "suggested_angle": "Why on-premise AI infrastructure matters for law firms handling sensitive data.",
+      "why_now": "General tech commentary piece without a direct hook to specific legal sector adoption or regulation.",
+      "verdict": "drop",
+      "duplicate_of": null
+    }
+  ],
+  "summary": {
+    "enqueue_count": 0,
+    "watch_count": 0,
+    "drop_count": 1,
+    "notes": "Dropped general tech guest commentary on on-prem vs cloud infrastructure as it lacks a specific legal or regulatory hook."
+  },
+  "enqueued": 0,
+  "usage": {
+    "input_tokens": 2129,
+    "output_tokens": 180,
+    "total_tokens": 2309
+  }
 }
