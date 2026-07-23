@@ -1,83 +1,15 @@
 {
-  "generated": "2026-07-23T08:21:58.591Z",
+  "generated": "2026-07-23T10:57:41.951Z",
   "cycle_type": "triage",
-  "tier_filter": "B",
-  "shortlist_size": 6,
+  "shortlist_size": 0,
+  "picks": [],
   "prefilter": {
     "total": 40,
-    "accepted": 31,
+    "accepted": 1,
     "borderline": 0,
-    "rejected": 9,
-    "rejected_as_duplicate": 9,
-    "accept_rate": 78
+    "rejected": 39,
+    "rejected_as_duplicate": 39,
+    "accept_rate": 3
   },
-  "model": "gemini-flash-lite-latest",
-  "picks": [
-    {
-      "id": "arxiv-cs-ai-0",
-      "score": 3,
-      "category": "Research",
-      "suggested_angle": "Preemptive hardening techniques for agentic workflows",
-      "why_now": "General computer science preprint without a direct legal industry application hook.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-1",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "Cross-agent attack attribution in distributed LLMs",
-      "why_now": "Purely academic ML security paper with no immediate relevance to legal tech or regulation.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-2",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "Multimodal LLMs for computational humor",
-      "why_now": "Irrelevant to legal AI editorial focus.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-3",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "LLM essay scoring via reinforcement learning",
-      "why_now": "Educational technology research paper outside publication scope.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-4",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "Supply chain risk warning with temporal graph networks",
-      "why_now": "Supply chain logistics focus rather than legal tech.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-5",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "Ontology curation using frontier LLM agents",
-      "why_now": "Bioinformatics and phenotype annotation research.",
-      "verdict": "drop",
-      "duplicate_of": null
-    }
-  ],
-  "summary": {
-    "enqueue_count": 0,
-    "watch_count": 0,
-    "drop_count": 6,
-    "notes": "All shortlisted items are general computer science arXiv preprints lacking a direct legal AI or regulatory hook."
-  },
-  "enqueued": 0,
-  "usage": {
-    "input_tokens": 2982,
-    "output_tokens": 609,
-    "total_tokens": 3591
-  }
+  "skipped_already_triaged": 1
 }
