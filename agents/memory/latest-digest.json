@@ -1,23 +1,11 @@
 {
-  "generated": "2026-07-24T21:53:56.631Z",
+  "generated": "2026-07-24T22:51:28.407Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 678,
+  "total_scanned": 677,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
-    {
-      "title": "While legal tech startups chase funding, LexisNexis is closing in on £2bn revenue - Non-Billable",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSGxCMXVzR19mTExXTnIwanFTM1Z1QTJhQkJkaTZWa1dacnFhdHlMSVY5N21tclJvbnlRTUc5RkhqR1laTkVHUkxFQkxGa0Rhckp1TlpWQ0FIOElrcEUtZGNrb2pKOVNTSkNhWDVJSDQ3SE1nX2F1QXE1WFUwQXJsNmQyQVhyczhMWUxHS1o1aw?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQSGxCMXVzR19mTExXTnIwanFTM1Z1QTJhQkJkaTZWa1dacnFhdHlMSVY5N21tclJvbnlRTUc5RkhqR1laTkVHUkxFQkxGa0Rhckp1TlpWQ0FIOElrcEUtZGNrb2pKOVNTSkNhWDVJSDQ3SE1nX2F1QXE1WFUwQXJsNmQyQVhyczhMWUxHS1o1aw?oc=5\" target=\"_blank\"&gt;While legal tech startups chase funding, LexisNexis is closing in on £2bn revenue&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Non-Billable&lt;/font&gt;",
-      "published": "2026-07-24T16:20:00.000Z",
-      "source_id": "google-news-legal-tech-funding",
-      "source_name": "Google News: legal tech funding",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 9
-    },
     {
       "title": "Harvey Forum + Shared Spaces, Clio, Spellbook, Legal Innovators - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWDZZRVZBVWx3ckRDeE96a1ZYWTJxVldZUHNwYWl2eHdrUDZKc2xXSmRYVHRheXlISnI5SVpKdmlYTHdOWVRwb3VneFBHMlZhcnlyOWNiZHJuUkNTLXhINlgwRnJzZlNCU0JYQ2k2R2RrUFN3dlRoT3k0ckM5NDRZRHZ2UjAzQWVfQXNRcm9lM2w2LVdmRUxvMmwyVXkzS2Y2XzlnTTNn?oc=5",
@@ -131,6 +119,18 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbUJTclpSVnFvUEpHZ1pEM3hMZ2pCb3pWY1B2WWV1UWptckhYU1QySW5BU1NBbmZ5Y0dabEtxUGgzTEhRU2Q2dlQxaE5lWm1JUXVXTGpabXFCcWFZZXJnM2ZOcDRlWWl1aXVBZWpLMnJoUkZRenNOZ2lKOV9TaDJfMWoyUmsycnVCNU14Q2xBaU5Pb1k1Z195WllyYnJEcGc?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPbUJTclpSVnFvUEpHZ1pEM3hMZ2pCb3pWY1B2WWV1UWptckhYU1QySW5BU1NBbmZ5Y0dabEtxUGgzTEhRU2Q2dlQxaE5lWm1JUXVXTGpabXFCcWFZZXJnM2ZOcDRlWWl1aXVBZWpLMnJoUkZRenNOZ2lKOV9TaDJfMWoyUmsycnVCNU14Q2xBaU5Pb1k1Z195WllyYnJEcGc?oc=5\" target=\"_blank\"&gt;Willkie teams up with OpenAI to build legal tech tools&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Legal Cheek&lt;/font&gt;",
       "published": "2026-07-24T15:01:02.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 7
+    },
+    {
+      "title": "While legal tech startups chase funding, LexisNexis is closing in on £2bn revenue - Non-Billable",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSGxCMXVzR19mTExXTnIwanFTM1Z1QTJhQkJkaTZWa1dacnFhdHlMSVY5N21tclJvbnlRTUc5RkhqR1laTkVHUkxFQkxGa0Rhckp1TlpWQ0FIOElrcEUtZGNrb2pKOVNTSkNhWDVJSDQ3SE1nX2F1QXE1WFUwQXJsNmQyQVhyczhMWUxHS1o1aw?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQSGxCMXVzR19mTExXTnIwanFTM1Z1QTJhQkJkaTZWa1dacnFhdHlMSVY5N21tclJvbnlRTUc5RkhqR1laTkVHUkxFQkxGa0Rhckp1TlpWQ0FIOElrcEUtZGNrb2pKOVNTSkNhWDVJSDQ3SE1nX2F1QXE1WFUwQXJsNmQyQVhyczhMWUxHS1o1aw?oc=5\" target=\"_blank\"&gt;While legal tech startups chase funding, LexisNexis is closing in on £2bn revenue&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Non-Billable&lt;/font&gt;",
+      "published": "2026-07-24T16:20:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",

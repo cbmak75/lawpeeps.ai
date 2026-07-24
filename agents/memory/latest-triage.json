@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-24T21:53:57.583Z",
+  "generated": "2026-07-24T22:51:28.435Z",
   "cycle_type": "triage",
-  "tier_filter": "A",
-  "shortlist_size": 1,
+  "shortlist_size": 0,
+  "picks": [],
   "prefilter": {
     "total": 40,
     "accepted": 1,
@@ -11,28 +11,5 @@
     "rejected_as_duplicate": 39,
     "accept_rate": 3
   },
-  "model": "gemini-flash-lite-latest",
-  "picks": [
-    {
-      "id": "google-news-legal-ai-0",
-      "score": 3,
-      "category": "Legal AI",
-      "suggested_angle": "Promotional showcase of early-stage legal tech startups.",
-      "why_now": "It is a standard marketing and demo event announcement lacking independent news value or exclusive product breakdowns.",
-      "verdict": "drop",
-      "duplicate_of": null
-    }
-  ],
-  "summary": {
-    "enqueue_count": 0,
-    "watch_count": 0,
-    "drop_count": 1,
-    "notes": "Dropped single promotional demo day listing due to lack of independent news hook."
-  },
-  "enqueued": 0,
-  "usage": {
-    "input_tokens": 2473,
-    "output_tokens": 178,
-    "total_tokens": 2651
-  }
+  "skipped_already_triaged": 1
 }
