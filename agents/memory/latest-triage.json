@@ -1,15 +1,74 @@
 {
-  "generated": "2026-07-24T12:11:24.754Z",
+  "generated": "2026-07-24T13:25:39.569Z",
   "cycle_type": "triage",
-  "shortlist_size": 0,
-  "picks": [],
+  "tier_filter": "B",
+  "shortlist_size": 5,
   "prefilter": {
     "total": 40,
-    "accepted": 1,
+    "accepted": 24,
     "borderline": 0,
-    "rejected": 39,
-    "rejected_as_duplicate": 39,
-    "accept_rate": 3
+    "rejected": 16,
+    "rejected_as_duplicate": 16,
+    "accept_rate": 60
   },
-  "skipped_already_triaged": 1
+  "model": "gemini-flash-lite-latest",
+  "picks": [
+    {
+      "id": "artificial-lawyer-0",
+      "score": 8,
+      "category": "Legal AI",
+      "suggested_angle": "Artificial Lawyer highlights latest market moves featuring Lexis, Spellbook, and Google.",
+      "why_now": "Artificial Lawyer is a primary curation source for legal tech trends, meeting our threshold for coverage.",
+      "verdict": "enqueue",
+      "duplicate_of": null
+    },
+    {
+      "id": "hacker-news-1",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "Engineering governance for AI-generated pull requests.",
+      "why_now": "Too generic to software engineering rather than specifically legal AI or regulation.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-2",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "DN-Hypo-Pipeline workflow for LLM hypothesis generation.",
+      "why_now": "Academic computer science paper with no direct legal or regulatory angle.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "law-society-gazette-3",
+      "score": 4,
+      "category": "Adoption",
+      "suggested_angle": "Herbert Smith Freehills Kramer posts £1.8bn revenue in first post-merger year.",
+      "why_now": "General law firm financial news without a strong legal AI or regulatory hook.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "hacker-news-4",
+      "score": 3,
+      "category": "Social",
+      "suggested_angle": "Local bookstore fights false Google AI summary.",
+      "why_now": "General consumer tech interest story, lacks specific legal tech or regulatory focus.",
+      "verdict": "drop",
+      "duplicate_of": null
+    }
+  ],
+  "summary": {
+    "enqueue_count": 1,
+    "watch_count": 0,
+    "drop_count": 4,
+    "notes": "Enqueued Artificial Lawyer roundup; dropped non-legal tech items."
+  },
+  "enqueued": 1,
+  "usage": {
+    "input_tokens": 2839,
+    "output_tokens": 557,
+    "total_tokens": 3396
+  }
 }

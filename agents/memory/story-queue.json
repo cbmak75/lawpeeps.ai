@@ -1803,7 +1803,56 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "Lexis $$$, Spellbook / Google, Legal Innovators Nordics",
+      "slug": "lexis-spellbook-google-legal-innovators-nordics",
+      "score": 8,
+      "category": "Legal AI",
+      "story_type": "news",
+      "research_brief": "We start this week’s Wrap with news that the Claude Crash earlier this year, which hit market sentiment and wiped billions off the value of ...",
+      "primary_source": "https://www.artificiallawyer.com/2026/07/24/lexis-spellbook-google-legal-innovators-nordics/",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "Artificial Lawyer highlights latest market moves featuring Lexis, Spellbook, and Google.",
+      "why_now": "Artificial Lawyer is a primary curation source for legal tech trends, meeting our threshold for coverage.",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Artificial Lawyer",
+      "source_tier": "B",
+      "prefilter_score": 14,
+      "matched_terms": [
+        "Claude",
+        "Spellbook"
+      ],
+      "fingerprint": {
+        "entities": [
+          "spellbook"
+        ],
+        "numerics": [],
+        "keywords": [
+          "claude"
+        ],
+        "title_tokens": [
+          "lexis",
+          "spellbook",
+          "google",
+          "legal",
+          "innovators",
+          "nordics"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-07-24T13:25:39.566Z",
+      "queued_at": "2026-07-24T13:25:39.568Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-07-24T02:09:26.422Z"
+  "last_updated": "2026-07-24T13:25:39.568Z"
 }
