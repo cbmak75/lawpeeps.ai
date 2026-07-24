@@ -1,15 +1,209 @@
 {
-  "generated": "2026-07-24T07:29:00.468Z",
+  "generated": "2026-07-24T08:16:44.950Z",
   "cycle_type": "triage",
-  "shortlist_size": 0,
-  "picks": [],
+  "tier_filter": "B",
+  "shortlist_size": 20,
   "prefilter": {
     "total": 40,
-    "accepted": 1,
+    "accepted": 34,
     "borderline": 0,
-    "rejected": 39,
-    "rejected_as_duplicate": 39,
-    "accept_rate": 3
+    "rejected": 6,
+    "rejected_as_duplicate": 6,
+    "accept_rate": 85
   },
-  "skipped_already_triaged": 1
+  "model": "gemini-flash-lite-latest",
+  "picks": [
+    {
+      "id": "arxiv-cs-ai-0",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Multi-agent architecture for economic theory.",
+      "why_now": "Pure academic CS paper with no direct legal application.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-1",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Safety risks in direct vs mediated LLM exposure.",
+      "why_now": "General AI safety research, not specific to law or regulation.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-2",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Inference optimization benchmark for AI agents.",
+      "why_now": "Too technical and generic for legal AI publication focus.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-3",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "GenAI and agency in education.",
+      "why_now": "Focuses on education rather than legal practice or regulation.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-4",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Knowledge injection and hallucination mitigation in MoE models.",
+      "why_now": "Core machine learning research paper.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-5",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "Solving Prolog problems using Claude prompts.",
+      "why_now": "Academic experiment; low relevance to commercial legal tech.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-6",
+      "score": 4,
+      "category": "Research",
+      "suggested_angle": "Benchmarking fairness in multimodal LLM unlearning for compliance.",
+      "why_now": "Touches on AI regulation compliance but remains a standard arXiv preprint.",
+      "verdict": "watch",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-7",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Evaluating LLM watermarks in medical texts.",
+      "why_now": "Medical sector focus.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-8",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Stochastic sampling and model diversity in LLMs.",
+      "why_now": "Theoretical machine learning.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-9",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Meta planning for extractive LLMs.",
+      "why_now": "Pure optimization research.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-10",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Robust critics defending LLMs against multi-turn attacks.",
+      "why_now": "General AI security research.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-11",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Unified kernels for LLM sampling and speculative decoding.",
+      "why_now": "Hardware and inference level engineering.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-12",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Mitigating representation collapse in long-context LLMs.",
+      "why_now": "Model architecture research.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-13",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Information-theoretic control of LLM reasoning flows.",
+      "why_now": "General reasoning paper.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-14",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Reliability-aware LLM alignment from inconsistent human feedback.",
+      "why_now": "RLHF research.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-15",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "Autonomous disproofs of mathematical conjectures with GPT-5.5 Pro.",
+      "why_now": "Speculative or futuristic benchmark testing, not immediate legal workflow news.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-16",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Scaling LLM annotation agents for online recommendation.",
+      "why_now": "E-commerce and recommendation focus.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-17",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "Auditing provenance sensitivity in LLM agent action selection.",
+      "why_now": "Relevant to agentic risk, but purely academic.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-18",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Empirical investigation of trustworthiness in zero-shot LLM summarizers.",
+      "why_now": "General NLP evaluation.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-19",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Safeguards for speech-to-speech LLM assistants in automotive applications.",
+      "why_now": "Automotive sector focus.",
+      "verdict": "drop",
+      "duplicate_of": null
+    }
+  ],
+  "summary": {
+    "enqueue_count": 0,
+    "watch_count": 1,
+    "drop_count": 19,
+    "notes": "All shortlisted items are general computer science arXiv preprints lacking direct legal industry, regulatory, or firm-adoption focus."
+  },
+  "enqueued": 0,
+  "usage": {
+    "input_tokens": 5376,
+    "output_tokens": 1849,
+    "total_tokens": 7225
+  }
 }
