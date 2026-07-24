@@ -1852,7 +1852,57 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "TIM-backed VC fund invests in Brazilian legal AI unicorn - BNamericas",
+      "slug": "tim-backed-vc-fund-invests-in-brazilian-legal-ai-unicorn-bnamericas",
+      "score": 7,
+      "category": "Funding",
+      "story_type": "news",
+      "research_brief": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPWjBjSldfN1ZHTXY1VVlyVWxScUJJaDhOdTBuWi1fMnhUTWJRZEFVdVFpcVZ1MVpKTUlNYmJFRERMZVVoMFFPR1oxcDB2cHBuOThUWm54LUN4OHNSX1lucEViVjJnM0lnT0ZRTmxvM2ZkYVBnZGIxQUNCYy1wUHZ2eU84cC0xSEF1VURYdGJuZ09rRDhUZHc?oc=5\" target=\"_blank\"&gt;TIM-backed VC fund invests in Brazilian legal AI unicorn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;BNamericas&lt;/font&gt;",
+      "primary_source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWjBjSldfN1ZHTXY1VVlyVWxScUJJaDhOdTBuWi1fMnhUTWJRZEFVdVFpcVZ1MVpKTUlNYmJFRERMZVVoMFFPR1oxcDB2cHBuOThUWm54LUN4OHNSX1lucEViVjJnM0lnT0ZRTmxvM2ZkYVBnZGIxQUNCYy1wUHZ2eU84cC0xSEF1VURYdGJuZ09rRDhUZHc?oc=5",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "TIM-backed VC investment signals continued global momentum for legal AI unicorns outside the US and UK.",
+      "why_now": "Covers significant international capital flowing into the legal AI vertical, fulfilling our funding round criteria.",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Google News: legal AI",
+      "source_tier": "A",
+      "prefilter_score": 12,
+      "matched_terms": [
+        "legal AI"
+      ],
+      "fingerprint": {
+        "entities": [],
+        "numerics": [
+          "1m"
+        ],
+        "keywords": [
+          "legal ai"
+        ],
+        "title_tokens": [
+          "backed",
+          "fund",
+          "invests",
+          "brazilian",
+          "legal",
+          "ai",
+          "unicorn",
+          "bnamericas"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-07-24T20:09:29.675Z",
+      "queued_at": "2026-07-24T20:09:29.678Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-07-24T13:25:39.568Z"
+  "last_updated": "2026-07-24T20:09:29.678Z"
 }
