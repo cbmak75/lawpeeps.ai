@@ -1,38 +1,38 @@
 {
-  "generated": "2026-07-24T20:09:29.679Z",
+  "generated": "2026-07-24T21:53:57.583Z",
   "cycle_type": "triage",
   "tier_filter": "A",
   "shortlist_size": 1,
   "prefilter": {
     "total": 40,
-    "accepted": 3,
+    "accepted": 1,
     "borderline": 0,
-    "rejected": 37,
-    "rejected_as_duplicate": 37,
-    "accept_rate": 8
+    "rejected": 39,
+    "rejected_as_duplicate": 39,
+    "accept_rate": 3
   },
   "model": "gemini-flash-lite-latest",
   "picks": [
     {
       "id": "google-news-legal-ai-0",
-      "score": 7,
-      "category": "Funding",
-      "suggested_angle": "TIM-backed VC investment signals continued global momentum for legal AI unicorns outside the US and UK.",
-      "why_now": "Covers significant international capital flowing into the legal AI vertical, fulfilling our funding round criteria.",
-      "verdict": "enqueue",
+      "score": 3,
+      "category": "Legal AI",
+      "suggested_angle": "Promotional showcase of early-stage legal tech startups.",
+      "why_now": "It is a standard marketing and demo event announcement lacking independent news value or exclusive product breakdowns.",
+      "verdict": "drop",
       "duplicate_of": null
     }
   ],
   "summary": {
-    "enqueue_count": 1,
+    "enqueue_count": 0,
     "watch_count": 0,
-    "drop_count": 0,
-    "notes": "Processed international legal AI funding story successfully."
+    "drop_count": 1,
+    "notes": "Dropped single promotional demo day listing due to lack of independent news hook."
   },
-  "enqueued": 1,
+  "enqueued": 0,
   "usage": {
-    "input_tokens": 2352,
-    "output_tokens": 179,
-    "total_tokens": 2531
+    "input_tokens": 2473,
+    "output_tokens": 178,
+    "total_tokens": 2651
   }
 }
