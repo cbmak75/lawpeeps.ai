@@ -1,38 +1,83 @@
 {
-  "generated": "2026-07-24T18:09:37.905Z",
+  "generated": "2026-07-24T19:17:52.245Z",
   "cycle_type": "triage",
-  "tier_filter": "A",
-  "shortlist_size": 1,
+  "tier_filter": "B",
+  "shortlist_size": 6,
   "prefilter": {
     "total": 40,
-    "accepted": 2,
-    "borderline": 0,
-    "rejected": 38,
-    "rejected_as_duplicate": 38,
-    "accept_rate": 5
+    "accepted": 17,
+    "borderline": 2,
+    "rejected": 21,
+    "rejected_as_duplicate": 21,
+    "accept_rate": 43
   },
   "model": "gemini-flash-lite-latest",
   "picks": [
     {
-      "id": "google-news-legal-ai-0",
-      "score": 6,
-      "category": "Policy",
-      "suggested_angle": "Academic proposals for legal AI governance highlight growing pressure on regulators.",
-      "why_now": "Timely policy discussion as legal AI adoption outpaces existing frameworks.",
-      "verdict": "watch",
+      "id": "above-the-law-legaltech-0",
+      "score": 4,
+      "category": "Adoption",
+      "suggested_angle": "BigLaw merger milestones hit revenue targets, but light on AI specifics.",
+      "why_now": "One-year check-in on a major transatlantic merger, though primarily financial rather than legal tech focused.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "hacker-news-1",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "Theoretical limits of AI interpretability touch on legal reliability concerns.",
+      "why_now": "General tech discussion on structural limits, too tangential for a legal AI publication.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-2",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "New research highlights persistent jailbreak vulnerabilities in open-weight LLMs.",
+      "why_now": "Academic paper drop on security safeguards, lacking a direct legal or regulatory hook.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-3",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "Natural language optimization modeling via simplification-based verification.",
+      "why_now": "Early-stage computer science preprint without immediate practical application to legal tech.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "hacker-news-4",
+      "score": 2,
+      "category": "Social",
+      "suggested_angle": "Developer community debates the best AI coding workflows.",
+      "why_now": "Crowdsourced general developer thread with no specific legal or professional services angle.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "hacker-news-5",
+      "score": 2,
+      "category": "Adoption",
+      "suggested_angle": "New tool addresses SSH execution liability for autonomous AI agents.",
+      "why_now": "Niche infrastructure release for AI agents, too far removed from core legal AI workflows.",
+      "verdict": "drop",
       "duplicate_of": null
     }
   ],
   "summary": {
     "enqueue_count": 0,
-    "watch_count": 1,
-    "drop_count": 0,
-    "notes": "One candidate item assessed for policy relevance; placed on watch pending more primary detail."
+    "watch_count": 0,
+    "drop_count": 6,
+    "notes": "All candidate items lack direct relevance to legal AI, regulation, or immigration tech; all dropped."
   },
   "enqueued": 0,
   "usage": {
-    "input_tokens": 2442,
-    "output_tokens": 175,
-    "total_tokens": 2617
+    "input_tokens": 2969,
+    "output_tokens": 670,
+    "total_tokens": 3639
   }
 }
