@@ -1,15 +1,209 @@
 {
-  "generated": "2026-07-24T01:26:40.232Z",
+  "generated": "2026-07-24T02:09:26.423Z",
   "cycle_type": "triage",
-  "shortlist_size": 0,
-  "picks": [],
+  "tier_filter": "B",
+  "shortlist_size": 20,
   "prefilter": {
     "total": 40,
-    "accepted": 1,
+    "accepted": 20,
     "borderline": 0,
-    "rejected": 39,
-    "rejected_as_duplicate": 39,
-    "accept_rate": 3
+    "rejected": 20,
+    "rejected_as_duplicate": 20,
+    "accept_rate": 50
   },
-  "skipped_already_triaged": 1
+  "model": "gemini-flash-lite-latest",
+  "picks": [
+    {
+      "id": "arxiv-cs-ai-0",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "LLM freight market delegation economics",
+      "why_now": "Too academic and tangential to core legal practice or regulation.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-1",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Multimodal vision for poverty mapping",
+      "why_now": "Not relevant to legal tech or regulation.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "above-the-law-legaltech-2",
+      "score": 4,
+      "category": "Social",
+      "suggested_angle": "Fretzin rules for legal business development",
+      "why_now": "General practice management advice without an AI or regulatory hook.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "above-the-law-legaltech-3",
+      "score": 3,
+      "category": "Social",
+      "suggested_angle": "Todd Blanche confirmation strategy commentary",
+      "why_now": "Political commentary, low legal tech value.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "law-society-gazette-4",
+      "score": 8,
+      "category": "Regulatory",
+      "suggested_angle": "Canadian lawyer suspended over ChatGPT fake citations",
+      "why_now": "Adds to the global tally of judicial penalties for unverified LLM use in litigation.",
+      "verdict": "enqueue",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-5",
+      "score": 4,
+      "category": "Research",
+      "suggested_angle": "NEXUS structured runtime safety for agentic tools",
+      "why_now": "Pure computer science research paper without an immediate legal application.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-6",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "Rewarding better thinking for LLM preference alignment",
+      "why_now": "Standard ML alignment paper.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-7",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "BaseRT inference optimization on Apple M5",
+      "why_now": "Hardware-specific optimization, no direct legal sector relevance.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-8",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "Integrity of peer-to-peer distributed LLM inference",
+      "why_now": "Distributed computing theory.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-9",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "Dream rehearsal for continual reinforcement learning",
+      "why_now": "General RL theory.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-10",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "Tiny Schiller German drama corpus",
+      "why_now": "Niche dataset release for German literary texts.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-11",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "Lifted representation hypothesis in language models",
+      "why_now": "Theoretical NLP paper.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-12",
+      "score": 4,
+      "category": "Research",
+      "suggested_angle": "GraphContainer for debugging Graph RAG methods",
+      "why_now": "Relevant to legal knowledge retrieval systems, but still early-stage arXiv research.",
+      "verdict": "watch",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-13",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "Mitigating scaffolding collapse in Socratic tutors",
+      "why_now": "Educational tech focus.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-14",
+      "score": 5,
+      "category": "Research",
+      "suggested_angle": "CrackedPDFs benchmark for hidden prompt injection",
+      "why_now": "Document security and prompt injection are critical risks for legal document analysis tools.",
+      "verdict": "watch",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-15",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Symbol and footprint database for electronic components",
+      "why_now": "PCB design automation, irrelevant to law.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-16",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "MOF-Sleuth for CIF auditing",
+      "why_now": "Materials science focus.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-17",
+      "score": 5,
+      "category": "Research",
+      "suggested_angle": "ChannelGuard analysis of multi-agent security composition",
+      "why_now": "Highlights security vulnerabilities in multi-agent legal workflow architectures.",
+      "verdict": "watch",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-18",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "REGEN replay-recycling distillation with offline RL",
+      "why_now": "Core machine learning optimization.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-19",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "D3VL autonomous driving video understanding",
+      "why_now": "Autonomous vehicle computer vision.",
+      "verdict": "drop",
+      "duplicate_of": null
+    }
+  ],
+  "summary": {
+    "enqueue_count": 1,
+    "watch_count": 3,
+    "drop_count": 16,
+    "notes": "Triaged 20 shortlist items; prioritized the Canadian lawyer ChatGPT suspension for immediate coverage, watched select security/RAG arXiv papers, and dropped marketing puff and irrelevant CS preprints."
+  },
+  "enqueued": 1,
+  "usage": {
+    "input_tokens": 5395,
+    "output_tokens": 1862,
+    "total_tokens": 7257
+  }
 }

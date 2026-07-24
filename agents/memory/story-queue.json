@@ -1757,7 +1757,53 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "Canadian lawyer who misled judge about ChatGPT use is suspended",
+      "slug": "canadian-lawyer-who-misled-judge-about-chatgpt-use-is-suspended",
+      "score": 8,
+      "category": "Regulatory",
+      "story_type": "news",
+      "research_brief": "More examples emerge of punishments handed to lawyers who cite false case citations.",
+      "primary_source": "https://www.lawgazette.co.uk/news/canadian-lawyer-who-misled-judge-about-chatgpt-use-is-suspended/5127463.article",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "Canadian lawyer suspended over ChatGPT fake citations",
+      "why_now": "Adds to the global tally of judicial penalties for unverified LLM use in litigation.",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Law Society Gazette",
+      "source_tier": "B",
+      "prefilter_score": 8,
+      "matched_terms": [
+        "GPT"
+      ],
+      "fingerprint": {
+        "entities": [],
+        "numerics": [],
+        "keywords": [
+          "gpt"
+        ],
+        "title_tokens": [
+          "canadian",
+          "lawyer",
+          "misled",
+          "judge",
+          "chatgpt",
+          "suspended"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-07-24T02:09:26.419Z",
+      "queued_at": "2026-07-24T02:09:26.422Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-07-23T13:44:34.491Z"
+  "last_updated": "2026-07-24T02:09:26.422Z"
 }
