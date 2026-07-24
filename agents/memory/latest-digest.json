@@ -1,23 +1,11 @@
 {
-  "generated": "2026-07-23T23:48:30.804Z",
+  "generated": "2026-07-24T01:26:40.204Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 753,
+  "total_scanned": 752,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
-    {
-      "title": ":Harvey: Expands Collaboration with Microsoft on Legal AI - Harvey",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMFFnQ1ZFcTlDWXkzWnJMb0lURklNa2hMRXVEMmZ6dW9wYzFmaWJhUEdDRjVjYnA1RTRWZDF5cXlTZ2xQTjZ1QUlCNnJHa2tkcmYyRFpCNmg3dHFTR1llLUFLZG5yZjF1LWVIU3p3R1YzQW5ReW10WElLeG9xQWlyX3h5RXViYlY3b0E?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNMFFnQ1ZFcTlDWXkzWnJMb0lURklNa2hMRXVEMmZ6dW9wYzFmaWJhUEdDRjVjYnA1RTRWZDF5cXlTZ2xQTjZ1QUlCNnJHa2tkcmYyRFpCNmg3dHFTR1llLUFLZG5yZjF1LWVIU3p3R1YzQW5ReW10WElLeG9xQWlyX3h5RXViYlY3b0E?oc=5\" target=\"_blank\"&gt;:Harvey: Expands Collaboration with Microsoft on Legal AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
-      "published": "2026-07-23T18:12:35.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 9
-    },
     {
       "title": "Harvey Forum + Shared Spaces, Clio, Spellbook, Legal Innovators - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWDZZRVZBVWx3ckRDeE96a1ZYWTJxVldZUHNwYWl2eHdrUDZKc2xXSmRYVHRheXlISnI5SVpKdmlYTHdOWVRwb3VneFBHMlZhcnlyOWNiZHJuUkNTLXhINlgwRnJzZlNCU0JYQ2k2R2RrUFN3dlRoT3k0ckM5NDRZRHZ2UjAzQWVfQXNRcm9lM2w2LVdmRUxvMmwyVXkzS2Y2XzlnTTNn?oc=5",
@@ -103,6 +91,18 @@
       "relevance_score": 8
     },
     {
+      "title": "Vancouver, B.C.-based legal tech company Clio hits $5B valuation after acquiring vLex - GeekWire",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZDZQTjk5RERxN0wzYzNka1d4bXhBTzR5RWdfai1qRjBlaEpzVVhSaUdPRkZVeld4ai1mOXpwcTZnZFZ2eVp2ajd0RXBjMGUwcGlVaEhtR01fTU1KUF82cFQ1Z3VrQWV2N1dzWTViTHNPTFB6N08xZjNJbkhkbXBUMkZlWlNwQ3ZpOGFEakJ0cFhON0NDZ1c0dGI0RndUdTBtaFh0b1hNWk1mQWg2SVV1aVdrcw?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOZDZQTjk5RERxN0wzYzNka1d4bXhBTzR5RWdfai1qRjBlaEpzVVhSaUdPRkZVeld4ai1mOXpwcTZnZFZ2eVp2ajd0RXBjMGUwcGlVaEhtR01fTU1KUF82cFQ1Z3VrQWV2N1dzWTViTHNPTFB6N08xZjNJbkhkbXBUMkZlWlNwQ3ZpOGFEakJ0cFhON0NDZ1c0dGI0RndUdTBtaFh0b1hNWk1mQWg2SVV1aVdrcw?oc=5\" target=\"_blank\"&gt;Vancouver, B.C.-based legal tech company Clio hits $5B valuation after acquiring vLex&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;GeekWire&lt;/font&gt;",
+      "published": "2025-11-10T08:00:00.000Z",
+      "source_id": "google-news-legal-tech-funding",
+      "source_name": "Google News: legal tech funding",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 8
+    },
+    {
       "title": "Anthropic Fable 5 Now Available - Harvey",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aSTM0YkZnWnpsXzJjTUN0NUhhREVOSzA5RDdmbGFONDhqcU9Nb2llMVRDbVp6MEpBejZ3TDl5dGx4TEFWRm9mRHZaZ0VOZWdYX0ZkRlR0LXFFb1M2RlNaV3RmU2lBSWg1S1E?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9aSTM0YkZnWnpsXzJjTUN0NUhhREVOSzA5RDdmbGFONDhqcU9Nb2llMVRDbVp6MEpBejZ3TDl5dGx4TEFWRm9mRHZaZ0VOZWdYX0ZkRlR0LXFFb1M2RlNaV3RmU2lBSWg1S1E?oc=5\" target=\"_blank\"&gt;Anthropic Fable 5 Now Available&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
@@ -139,10 +139,10 @@
       "relevance_score": 8
     },
     {
-      "title": "Making content AI-ready: How Heather McMaster’s legal expertise powers the next generation of CoCounsel Legal - Thomson Reuters Legal Solutions",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE15WG1OOTRFb2M1M1YtbkwyQTdpWDN1Vng2cElHMHEwX2pOSWo2bWx5X19DeUMwLXdMUmlaRHdlYjdQRXRJTGZ6aVNyTVV1Tnl3LUh0M29ieGFkVEpRS2ktRUx2b2FsQXFXS0dNWnJpZlR4UE5RREpHU2NFSQ?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE15WG1OOTRFb2M1M1YtbkwyQTdpWDN1Vng2cElHMHEwX2pOSWo2bWx5X19DeUMwLXdMUmlaRHdlYjdQRXRJTGZ6aVNyTVV1Tnl3LUh0M29ieGFkVEpRS2ktRUx2b2FsQXFXS0dNWnJpZlR4UE5RREpHU2NFSQ?oc=5\" target=\"_blank\"&gt;Making content AI-ready: How Heather McMaster’s legal expertise powers the next generation of CoCounsel Legal&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Thomson Reuters Legal Solutions&lt;/font&gt;",
-      "published": "2026-07-23T20:03:58.000Z",
+      "title": ":Harvey: Expands Collaboration with Microsoft on Legal AI - Harvey",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMFFnQ1ZFcTlDWXkzWnJMb0lURklNa2hMRXVEMmZ6dW9wYzFmaWJhUEdDRjVjYnA1RTRWZDF5cXlTZ2xQTjZ1QUlCNnJHa2tkcmYyRFpCNmg3dHFTR1llLUFLZG5yZjF1LWVIU3p3R1YzQW5ReW10WElLeG9xQWlyX3h5RXViYlY3b0E?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNMFFnQ1ZFcTlDWXkzWnJMb0lURklNa2hMRXVEMmZ6dW9wYzFmaWJhUEdDRjVjYnA1RTRWZDF5cXlTZ2xQTjZ1QUlCNnJHa2tkcmYyRFpCNmg3dHFTR1llLUFLZG5yZjF1LWVIU3p3R1YzQW5ReW10WElLeG9xQWlyX3h5RXViYlY3b0E?oc=5\" target=\"_blank\"&gt;:Harvey: Expands Collaboration with Microsoft on Legal AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
+      "published": "2026-07-23T18:12:35.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
@@ -151,10 +151,10 @@
       "relevance_score": 7
     },
     {
-      "title": "Get to know the CoCounsel Legal Practice Navigators - Thomson Reuters Legal Solutions",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTFp0WFNBcElidi1LWXJ5emNQV3ZSWEFPMU1JUmRJMEZOdGZPNnU2NEgycDdwOVlNNEUwU2lJNjVfZzBwbzNmN3pHeTA3MjVwcDRUVEdxU3MyTTNXeFM3TVRPMS1WVGU5aVVzVmdIYnQ2RTdic3BSM2xHTnB6dTZfdFNUVzNaRTNpUXYtUU1mbHpNTl84?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNTFp0WFNBcElidi1LWXJ5emNQV3ZSWEFPMU1JUmRJMEZOdGZPNnU2NEgycDdwOVlNNEUwU2lJNjVfZzBwbzNmN3pHeTA3MjVwcDRUVEdxU3MyTTNXeFM3TVRPMS1WVGU5aVVzVmdIYnQ2RTdic3BSM2xHTnB6dTZfdFNUVzNaRTNpUXYtUU1mbHpNTl84?oc=5\" target=\"_blank\"&gt;Get to know the CoCounsel Legal Practice Navigators&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Thomson Reuters Legal Solutions&lt;/font&gt;",
-      "published": "2026-07-23T18:03:57.000Z",
+      "title": "Making content AI-ready: How Heather McMaster’s legal expertise powers the next generation of CoCounsel Legal - Thomson Reuters Legal Solutions",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE15WG1OOTRFb2M1M1YtbkwyQTdpWDN1Vng2cElHMHEwX2pOSWo2bWx5X19DeUMwLXdMUmlaRHdlYjdQRXRJTGZ6aVNyTVV1Tnl3LUh0M29ieGFkVEpRS2ktRUx2b2FsQXFXS0dNWnJpZlR4UE5RREpHU2NFSQ?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE15WG1OOTRFb2M1M1YtbkwyQTdpWDN1Vng2cElHMHEwX2pOSWo2bWx5X19DeUMwLXdMUmlaRHdlYjdQRXRJTGZ6aVNyTVV1Tnl3LUh0M29ieGFkVEpRS2ktRUx2b2FsQXFXS0dNWnJpZlR4UE5RREpHU2NFSQ?oc=5\" target=\"_blank\"&gt;Making content AI-ready: How Heather McMaster’s legal expertise powers the next generation of CoCounsel Legal&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Thomson Reuters Legal Solutions&lt;/font&gt;",
+      "published": "2026-07-23T20:03:58.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
@@ -427,18 +427,6 @@
       "relevance_score": 6
     },
     {
-      "title": "Harvey Deepens Microsoft Relationship - Artificial Lawyer",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbFVxODRtck5XTlhIVTVjV0NiQ2FxM1VrVnBLbVF0SmdzN2EyNi1IN0VldDRjUlphcmhRNzdKd1l0LXV2TXJUWkF3TUVxZUlnMjlGNjRPQ0JJLXc3T25Ec0dXMFR2WUdWYVp1U0xkZUVoajdaREZmRmFVZmhRR1ZsN2NPRks2X1V2bmc?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNbFVxODRtck5XTlhIVTVjV0NiQ2FxM1VrVnBLbVF0SmdzN2EyNi1IN0VldDRjUlphcmhRNzdKd1l0LXV2TXJUWkF3TUVxZUlnMjlGNjRPQ0JJLXc3T25Ec0dXMFR2WUdWYVp1U0xkZUVoajdaREZmRmFVZmhRR1ZsN2NPRks2X1V2bmc?oc=5\" target=\"_blank\"&gt;Harvey Deepens Microsoft Relationship&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
-      "published": "2026-07-23T12:45:20.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 5
-    },
-    {
       "title": "OpenAI Partners With Willkie to Build Custom Legal AI Tools - Bloomberg Law News",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdDN0bU93M3NvdzNwVUNaUFh2TU0yODd5bEc0OHVjc243dmFkNVRsQi1YdFpPa0RRUk5XbF9mUm05Yll6enB3RkNfVVByY29ab0YyUWVWdGdtNk92S0FYTmdyc3BkM0tIU1NFN25QNlN4cFJjbHpjYU9jbl81a012alVUb1d1Um5aTHZ1Nm9CcjlGQXFjNE5WRU96RC1yWGpxZGRkME1MOW5PTFc4?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNdDN0bU93M3NvdzNwVUNaUFh2TU0yODd5bEc0OHVjc243dmFkNVRsQi1YdFpPa0RRUk5XbF9mUm05Yll6enB3RkNfVVByY29ab0YyUWVWdGdtNk92S0FYTmdyc3BkM0tIU1NFN25QNlN4cFJjbHpjYU9jbl81a012alVUb1d1Um5aTHZ1Nm9CcjlGQXFjNE5WRU96RC1yWGpxZGRkME1MOW5PTFc4?oc=5\" target=\"_blank\"&gt;OpenAI Partners With Willkie to Build Custom Legal AI Tools&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Bloomberg Law News&lt;/font&gt;",
@@ -451,10 +439,10 @@
       "relevance_score": 5
     },
     {
-      "title": "Microsoft’s Corporate, External, and Legal Affairs team selects Harvey - Legal IT Insider",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT19wS1BUeFhkNWpQYmJHc05aeHJBazlEYVdiR3ZGY0hwbkdLMW5jYU1XTTNXeFhIMmw3NDdsS1VCRXJSRlE0VUotZTBOTEJRNFVNWmZvVzRKbW1YZmlwN0xIZW9vT01jT3ZOV0NxNGpqNnNXRGFqQkJ0dzlxWXJYRjItUkt1R2llOFVNZzlQam9xb1AtX3JFSWFCOHU?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPT19wS1BUeFhkNWpQYmJHc05aeHJBazlEYVdiR3ZGY0hwbkdLMW5jYU1XTTNXeFhIMmw3NDdsS1VCRXJSRlE0VUotZTBOTEJRNFVNWmZvVzRKbW1YZmlwN0xIZW9vT01jT3ZOV0NxNGpqNnNXRGFqQkJ0dzlxWXJYRjItUkt1R2llOFVNZzlQam9xb1AtX3JFSWFCOHU?oc=5\" target=\"_blank\"&gt;Microsoft’s Corporate, External, and Legal Affairs team selects Harvey&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Legal IT Insider&lt;/font&gt;",
-      "published": "2026-07-23T11:59:24.000Z",
+      "title": "Get to know the CoCounsel Legal Practice Navigators - Thomson Reuters Legal Solutions",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTFp0WFNBcElidi1LWXJ5emNQV3ZSWEFPMU1JUmRJMEZOdGZPNnU2NEgycDdwOVlNNEUwU2lJNjVfZzBwbzNmN3pHeTA3MjVwcDRUVEdxU3MyTTNXeFM3TVRPMS1WVGU5aVVzVmdIYnQ2RTdic3BSM2xHTnB6dTZfdFNUVzNaRTNpUXYtUU1mbHpNTl84?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNTFp0WFNBcElidi1LWXJ5emNQV3ZSWEFPMU1JUmRJMEZOdGZPNnU2NEgycDdwOVlNNEUwU2lJNjVfZzBwbzNmN3pHeTA3MjVwcDRUVEdxU3MyTTNXeFM3TVRPMS1WVGU5aVVzVmdIYnQ2RTdic3BSM2xHTnB6dTZfdFNUVzNaRTNpUXYtUU1mbHpNTl84?oc=5\" target=\"_blank\"&gt;Get to know the CoCounsel Legal Practice Navigators&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Thomson Reuters Legal Solutions&lt;/font&gt;",
+      "published": "2026-07-23T18:03:57.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
@@ -479,6 +467,18 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUFpJQjBKRjQ5V1l2YzVaMDJuelJ3U3hJN0V6M2R5eVczRE00VXU2Z2sybTZDUHdkY3VJYmtjQzYxdjY5Um80bUJSenlfRjhyS1NGeTdGRjc3anBFWE00OXJlQVJtd09iZklHM0E5SkQwUHYtdm9rWERZN0RLQ2NxLUFCMzlnb0JJQmRYeEZfcDhXRGlKdWdZbTBSSGpvcG5fRjJKYjhqMnBnMjhheDNtNkx6SXFsOElsUkthYXNDMVVGLXo4LUd6WVhJZk8?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPUFpJQjBKRjQ5V1l2YzVaMDJuelJ3U3hJN0V6M2R5eVczRE00VXU2Z2sybTZDUHdkY3VJYmtjQzYxdjY5Um80bUJSenlfRjhyS1NGeTdGRjc3anBFWE00OXJlQVJtd09iZklHM0E5SkQwUHYtdm9rWERZN0RLQ2NxLUFCMzlnb0JJQmRYeEZfcDhXRGlKdWdZbTBSSGpvcG5fRjJKYjhqMnBnMjhheDNtNkx6SXFsOElsUkthYXNDMVVGLXo4LUd6WVhJZk8?oc=5\" target=\"_blank\"&gt;Beyond chatbots: how technical literacy defines the next era of legal AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;IFLR&lt;/font&gt",
       "published": "2026-07-10T13:51:07.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 5
+    },
+    {
+      "title": "Qanooni AI: Legal AI vendors must prove how they prevent hallucinated citations - Legal Futures",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY0hmNjFNb2ZPelNSSGs2aTVUQkVkYzZUZHBlX2dOYWszNTNGV3FpTGNreE91endZQjl3cGdfR1AzdnBPMXZjaWVYWUduenBUdmtXMm1aV2xmWUlYYldzQ3BrLW9hUUwzMXBYTFhzV1dvYlBOaTdxOGpBTFVsTnU4RkVhOV9PVHJtRGx6SjltZVVpWUExWHdmbkVieE9lcENvYWZwNkFfTGhCVzV4OGJhdnp5d2FuTm9JZkVDZlZQSkg1UQ?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY0hmNjFNb2ZPelNSSGs2aTVUQkVkYzZUZHBlX2dOYWszNTNGV3FpTGNreE91endZQjl3cGdfR1AzdnBPMXZjaWVYWUduenBUdmtXMm1aV2xmWUlYYldzQ3BrLW9hUUwzMXBYTFhzV1dvYlBOaTdxOGpBTFVsTnU4RkVhOV9PVHJtRGx6SjltZVVpWUExWHdmbkVieE9lcENvYWZwNkFfTGhCVzV4OGJhdnp5d2FuTm9JZkVDZlZQSkg1UQ?oc=5\" target=\"_blank\"&gt;Qanooni AI: Legal AI vendors must prove how they prevent hallucinated citations&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Legal Futures&lt;/font",
+      "published": "2026-07-03T10:18:23.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
