@@ -1,38 +1,15 @@
 {
-  "generated": "2026-07-25T18:59:46.950Z",
+  "generated": "2026-07-25T20:04:00.260Z",
   "cycle_type": "triage",
-  "tier_filter": "B",
-  "shortlist_size": 1,
+  "shortlist_size": 0,
+  "picks": [],
   "prefilter": {
     "total": 40,
-    "accepted": 2,
+    "accepted": 1,
     "borderline": 0,
-    "rejected": 38,
-    "rejected_as_duplicate": 38,
-    "accept_rate": 5
+    "rejected": 39,
+    "rejected_as_duplicate": 39,
+    "accept_rate": 3
   },
-  "model": "gemini-flash-lite-latest",
-  "picks": [
-    {
-      "id": "hacker-news-0",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "Cybersecurity threats to critical infrastructure using AI",
-      "why_now": "This is a general cybersecurity / operational technology incident report by Dragos, with no specific focus on legal AI, law firms, regulation, or immigration law, making it irrelevant to our core editorial focus.",
-      "verdict": "drop",
-      "duplicate_of": null
-    }
-  ],
-  "summary": {
-    "enqueue_count": 0,
-    "watch_count": 0,
-    "drop_count": 1,
-    "notes": "Dropped unrelated cybersecurity article on OT water utility attack."
-  },
-  "enqueued": 0,
-  "usage": {
-    "input_tokens": 2165,
-    "output_tokens": 185,
-    "total_tokens": 2350
-  }
+  "skipped_already_triaged": 1
 }
