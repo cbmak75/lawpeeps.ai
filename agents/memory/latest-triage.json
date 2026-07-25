@@ -1,83 +1,15 @@
 {
-  "generated": "2026-07-25T02:09:13.131Z",
+  "generated": "2026-07-25T04:54:22.024Z",
   "cycle_type": "triage",
-  "tier_filter": "B",
-  "shortlist_size": 6,
+  "shortlist_size": 0,
+  "picks": [],
   "prefilter": {
     "total": 40,
-    "accepted": 19,
+    "accepted": 1,
     "borderline": 0,
-    "rejected": 21,
-    "rejected_as_duplicate": 21,
-    "accept_rate": 48
+    "rejected": 39,
+    "rejected_as_duplicate": 39,
+    "accept_rate": 3
   },
-  "model": "gemini-flash-lite-latest",
-  "picks": [
-    {
-      "id": "above-the-law-legaltech-0",
-      "score": 5,
-      "category": "Legal AI",
-      "suggested_angle": "Did a US politician use ChatGPT for a criminal referral?",
-      "why_now": "Touches on political use of LLMs in legal contexts, though light on deep legal tech analysis.",
-      "verdict": "watch",
-      "duplicate_of": null
-    },
-    {
-      "id": "ars-technica-ai-1",
-      "score": 4,
-      "category": "Research",
-      "suggested_angle": "Anthropic's Opus 5 focuses on token efficiency over capability leaps.",
-      "why_now": "General AI hardware/model updates; low direct legal relevance.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "hacker-news-2",
-      "score": 3,
-      "category": "Social",
-      "suggested_angle": "Ed Zitron discusses the AI bubble risks.",
-      "why_now": "General macro commentary, not specific to legal AI or regulation.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "ars-technica-ai-3",
-      "score": 4,
-      "category": "Policy",
-      "suggested_angle": "Canadian legislator caught reading unedited LLM output in parliament.",
-      "why_now": "Illustrates ongoing political awkwardness with AI adoption, but low regulatory or legal tech substance.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "hacker-news-4",
-      "score": 6,
-      "category": "Adoption",
-      "suggested_angle": "Security vulnerability exposes enterprise networks to rogue AI agents via malicious ChatGPT links.",
-      "why_now": "Important enterprise security implication for law firms deploying consumer and enterprise AI tools.",
-      "verdict": "enqueue",
-      "duplicate_of": null
-    },
-    {
-      "id": "hacker-news-5",
-      "score": 3,
-      "category": "Research",
-      "suggested_angle": "Overture maps knowledge graph prototype for grounding LLMs.",
-      "why_now": "Too technical and far removed from legal workflow applications.",
-      "verdict": "drop",
-      "duplicate_of": null
-    }
-  ],
-  "summary": {
-    "enqueue_count": 1,
-    "watch_count": 1,
-    "drop_count": 4,
-    "notes": "Filtered out general AI macro commentary and hardware news; enqueued enterprise security threat story."
-  },
-  "enqueued": 1,
-  "usage": {
-    "input_tokens": 3064,
-    "output_tokens": 655,
-    "total_tokens": 3719
-  }
+  "skipped_already_triaged": 1
 }
