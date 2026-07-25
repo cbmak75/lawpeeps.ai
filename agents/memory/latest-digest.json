@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-24T23:53:56.615Z",
+  "generated": "2026-07-25T01:26:53.770Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 675,
+  "total_scanned": 673,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -167,18 +167,6 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQjRDZjlOZWFUczUwekhxYWpsMXU3eWNsbUNmRVRDSnctRlh5STlnY25mOVF3MllSV0ttMHo1YTl0SXg3SU4zckZoQk1WbVdiSE5XZ0J1TWZfYnM1ajdXdTJrcDcyZnRWOVRPWDN3anFZaWFrOEExanZYd1cyemRZV3FTZVPSAYoBQVVfeXFMTWNHSm1qQUtzcFBneVU4Y2k1OWpIMDJzeVpVbVdiUVFWOWY4SHFjcUxSOS1GcE1sa25aRG43YXVFclYteV83aDdYVVVtNEJsbTZucnB5bC1pRzRRUjR1R1c2MXlkSHJFVGZtWmVKTERxaTVHRC1JWjg4YXB3dXZ2cTctVEFGTld4RVJB?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOQjRDZjlOZWFUczUwekhxYWpsMXU3eWNsbUNmRVRDSnctRlh5STlnY25mOVF3MllSV0ttMHo1YTl0SXg3SU4zckZoQk1WbVdiSE5XZ0J1TWZfYnM1ajdXdTJrcDcyZnRWOVRPWDN3anFZaWFrOEExanZYd1cyemRZV3FTZVPSAYoBQVVfeXFMTWNHSm1qQUtzcFBneVU4Y2k1OWpIMDJzeVpVbVdiUVFWOWY4SHFjcUxSOS1GcE1sa25aRG43YXVFclYteV83aDdYVVVtNEJsbTZucnB5bC1pRzRRUjR1R1c2MXlkSHJFVGZtWmVKTERxaTVHRC1JWjg4YXB3dXZ2cTctVEFGTld4RVJB?oc=5\" target=\"_blank\"&gt;Meet the Presenters: Legal AI Demo Day (Summer 2026)&",
       "published": "2026-07-24T21:26:17.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
-    },
-    {
-      "title": "TIM-backed VC fund invests in Brazilian legal AI unicorn - BNamericas",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWjBjSldfN1ZHTXY1VVlyVWxScUJJaDhOdTBuWi1fMnhUTWJRZEFVdVFpcVZ1MVpKTUlNYmJFRERMZVVoMFFPR1oxcDB2cHBuOThUWm54LUN4OHNSX1lucEViVjJnM0lnT0ZRTmxvM2ZkYVBnZGIxQUNCYy1wUHZ2eU84cC0xSEF1VURYdGJuZ09rRDhUZHc?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPWjBjSldfN1ZHTXY1VVlyVWxScUJJaDhOdTBuWi1fMnhUTWJRZEFVdVFpcVZ1MVpKTUlNYmJFRERMZVVoMFFPR1oxcDB2cHBuOThUWm54LUN4OHNSX1lucEViVjJnM0lnT0ZRTmxvM2ZkYVBnZGIxQUNCYy1wUHZ2eU84cC0xSEF1VURYdGJuZ09rRDhUZHc?oc=5\" target=\"_blank\"&gt;TIM-backed VC fund invests in Brazilian legal AI unicorn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;BNamericas&lt;/font&gt;",
-      "published": "2026-07-24T18:29:26.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
@@ -439,10 +427,10 @@
       "relevance_score": 5
     },
     {
-      "title": "Legaltech Rundown: NetDocuments Releases New Apps, Epiq Announces New Agentic AI Features, and More - Law.com",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYzNaTWxKMUdmVkE3aDV5czd2NVUxMG5qN2EzcURPeVJESE81SlNYOTZVbFJ5TnpVcG5ibWFWSzJQOS1zZ2thMzZobW1SZTFOUElwZzVFM0xNakRkVnZVT25GR09wZjRfSEJremRVZlVHTDJFd0ZrTFIxdmhVVzRFUF9Bem9iN0I5Um5YbzRzc1FoeWw0TFhiYmNMcS1fLU5xQjNTcHdBSDNYbEVuQ24tVjRuQzRxc3dIMmpqbU03WTJxWnZXQ0hTNUx0RjZPbHlGYVp1NVJEZUpoYUk?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYzNaTWxKMUdmVkE3aDV5czd2NVUxMG5qN2EzcURPeVJESE81SlNYOTZVbFJ5TnpVcG5ibWFWSzJQOS1zZ2thMzZobW1SZTFOUElwZzVFM0xNakRkVnZVT25GR09wZjRfSEJremRVZlVHTDJFd0ZrTFIxdmhVVzRFUF9Bem9iN0I5Um5YbzRzc1FoeWw0TFhiYmNMcS1fLU5xQjNTcHdBSDNYbEVuQ24tVjRuQzRxc3dIMmpqbU03WTJxWnZXQ0hTNUx0RjZPbHlGYVp1NVJEZUpoYUk?oc=5\" target=\"_blank\"&gt;Legaltech Rundown: NetDocuments Releases New Apps, Epiq Announces New Agentic AI Features, and More&lt;/a&gt;&amp;nbsp;&amp;nb",
-      "published": "2026-07-24T17:05:00.000Z",
+      "title": "AI for Legal Brief and Motion Writing: Faster Drafts, Stronger Arguments - Harvey",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjNFEyNG16eGlHVktlazhKbmxLaUtBR20yVmVoVHVWbDVEbnVfeFY2SlIyQi1PZy0yU0IzQUJubGlhNEppbUNFRTh1eElpLUwtOFk4cTlweGdxVnJRemc?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjNFEyNG16eGlHVktlazhKbmxLaUtBR20yVmVoVHVWbDVEbnVfeFY2SlIyQi1PZy0yU0IzQUJubGlhNEppbUNFRTh1eElpLUwtOFk4cTlweGdxVnJRemc?oc=5\" target=\"_blank\"&gt;AI for Legal Brief and Motion Writing: Faster Drafts, Stronger Arguments&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
+      "published": "2026-07-24T17:37:23.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
@@ -451,10 +439,10 @@
       "relevance_score": 5
     },
     {
-      "title": "AI for Legal Brief and Motion Writing: Faster Drafts, Stronger Arguments - Harvey",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjNFEyNG16eGlHVktlazhKbmxLaUtBR20yVmVoVHVWbDVEbnVfeFY2SlIyQi1PZy0yU0IzQUJubGlhNEppbUNFRTh1eElpLUwtOFk4cTlweGdxVnJRemc?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjNFEyNG16eGlHVktlazhKbmxLaUtBR20yVmVoVHVWbDVEbnVfeFY2SlIyQi1PZy0yU0IzQUJubGlhNEppbUNFRTh1eElpLUwtOFk4cTlweGdxVnJRemc?oc=5\" target=\"_blank\"&gt;AI for Legal Brief and Motion Writing: Faster Drafts, Stronger Arguments&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
-      "published": "2026-07-24T17:37:23.000Z",
+      "title": "Legaltech Rundown: NetDocuments Releases New Apps, Epiq Announces New Agentic AI Features, and More - Law.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYzNaTWxKMUdmVkE3aDV5czd2NVUxMG5qN2EzcURPeVJESE81SlNYOTZVbFJ5TnpVcG5ibWFWSzJQOS1zZ2thMzZobW1SZTFOUElwZzVFM0xNakRkVnZVT25GR09wZjRfSEJremRVZlVHTDJFd0ZrTFIxdmhVVzRFUF9Bem9iN0I5Um5YbzRzc1FoeWw0TFhiYmNMcS1fLU5xQjNTcHdBSDNYbEVuQ24tVjRuQzRxc3dIMmpqbU03WTJxWnZXQ0hTNUx0RjZPbHlGYVp1NVJEZUpoYUk?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYzNaTWxKMUdmVkE3aDV5czd2NVUxMG5qN2EzcURPeVJESE81SlNYOTZVbFJ5TnpVcG5ibWFWSzJQOS1zZ2thMzZobW1SZTFOUElwZzVFM0xNakRkVnZVT25GR09wZjRfSEJremRVZlVHTDJFd0ZrTFIxdmhVVzRFUF9Bem9iN0I5Um5YbzRzc1FoeWw0TFhiYmNMcS1fLU5xQjNTcHdBSDNYbEVuQ24tVjRuQzRxc3dIMmpqbU03WTJxWnZXQ0hTNUx0RjZPbHlGYVp1NVJEZUpoYUk?oc=5\" target=\"_blank\"&gt;Legaltech Rundown: NetDocuments Releases New Apps, Epiq Announces New Agentic AI Features, and More&lt;/a&gt;&amp;nbsp;&amp;nb",
+      "published": "2026-07-24T17:05:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
@@ -479,6 +467,18 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON29yWkx6TnprRmNac3lObVViVmxxRnMxYk00MjJFOFFLdDBJOWtDY1R6ckxWa0tFTWgxY0ZvVzJGR2x5T09rX0hOVE1xM1ZUbVdSMHBnUVpsSmI3X2JucUFIUUdoUlplaEFCbXdjTHhpblYyM09jNkZtNlh4SzZtamM2em5LX19SdElfWU1EMUxITUljZUdHLWRUbjRWVTd6U0JVWVItaG83N2VyYTdzWHJYb0N5QVRrSXc?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxON29yWkx6TnprRmNac3lObVViVmxxRnMxYk00MjJFOFFLdDBJOWtDY1R6ckxWa0tFTWgxY0ZvVzJGR2x5T09rX0hOVE1xM1ZUbVdSMHBnUVpsSmI3X2JucUFIUUdoUlplaEFCbXdjTHhpblYyM09jNkZtNlh4SzZtamM2em5LX19SdElfWU1EMUxITUljZUdHLWRUbjRWVTd6U0JVWVItaG83N2VyYTdzWHJYb0N5QVRrSXc?oc=5\" target=\"_blank\"&gt;Anthropic’s expansion of legal AI tools is good for lawyers, experts say&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Global Legal Post&lt;/font&gt;",
       "published": "2026-05-26T07:00:00.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 5
+    },
+    {
+      "title": "Legal AI News – Willkie Teams Up with OpenAI to Accelerate Firmwide AI Innovation and Proprietary Platforms - LawFuel.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWWs2amJydzQyVWVtU2Y3Vm52aUcwUDhpMFRRSEZXb29lZzRxaEl5VVphVlU5WWVOYlFnVHkwdnFzamk5M1Q0aTNNQ21mc0syejgzVnNyWnBUWVNDSUdiNmxVU19sNEM0LVpySzVzMjRGVmF4QXlrcU80R3hsaW1fMkVuWnBkbWxGYnBHcHprVFVkaldvRHlGNHdMbk9YUlk0SUhQWHFXSXNFY21oTF95dzczdVhSWlNCVXZZUGJKbmx0SXFSRi05clJn?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNWWs2amJydzQyVWVtU2Y3Vm52aUcwUDhpMFRRSEZXb29lZzRxaEl5VVphVlU5WWVOYlFnVHkwdnFzamk5M1Q0aTNNQ21mc0syejgzVnNyWnBUWVNDSUdiNmxVU19sNEM0LVpySzVzMjRGVmF4QXlrcU80R3hsaW1fMkVuWnBkbWxGYnBHcHprVFVkaldvRHlGNHdMbk9YUlk0SUhQWHFXSXNFY21oTF95dzczdVhSWlNCVXZZUGJKbmx0SXFSRi05clJn?oc=5\" target=\"_blank\"&gt;Legal AI News – Willkie Teams Up with OpenAI to Accelerate Firmwide AI Innovation and Proprietary Platforms&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font col",
+      "published": "2026-07-23T08:47:26.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
