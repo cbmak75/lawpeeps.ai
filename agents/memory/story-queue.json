@@ -1902,7 +1902,59 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "One ChatGPT link could smuggle a rogue AI agent into your company",
+      "slug": "one-chatgpt-link-could-smuggle-a-rogue-ai-agent-into-your-company",
+      "score": 6,
+      "category": "Adoption",
+      "story_type": "news",
+      "research_brief": "Article URL: https://www.theregister.com/security/2026/07/23/one-chatgpt-link-could-smuggle-a-rogue-ai-agent-into-your-company/5275116 Comments URL: https://news.ycombinator.com/item?id=49041967 Points: 2 # Comments: 0",
+      "primary_source": "https://www.theregister.com/security/2026/07/23/one-chatgpt-link-could-smuggle-a-rogue-ai-agent-into-your-company/5275116",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "Security vulnerability exposes enterprise networks to rogue AI agents via malicious ChatGPT links.",
+      "why_now": "Important enterprise security implication for law firms deploying consumer and enterprise AI tools.",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Hacker News (filtered)",
+      "source_tier": "B",
+      "prefilter_score": 8,
+      "matched_terms": [
+        "GPT"
+      ],
+      "fingerprint": {
+        "entities": [],
+        "numerics": [
+          "2026y",
+          "5m",
+          "49m"
+        ],
+        "keywords": [
+          "gpt"
+        ],
+        "title_tokens": [
+          "chatgpt",
+          "link",
+          "smuggle",
+          "rogue",
+          "ai",
+          "agent",
+          "your",
+          "company"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-07-25T02:09:13.128Z",
+      "queued_at": "2026-07-25T02:09:13.131Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-07-24T20:09:29.678Z"
+  "last_updated": "2026-07-25T02:09:13.131Z"
 }
