@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-26T15:53:46.158Z",
+  "generated": "2026-07-26T16:44:21.095Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 755,
+  "total_scanned": 754,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -115,18 +115,6 @@
       "relevance_score": 8
     },
     {
-      "title": "NetDocuments and Epiq Agentic AI Legal Tech Updates - quasa.io",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYkNqSlltLXhOR25WNXNOanBTQWVPZ3owRWpENlp4eXFpbVhrUmViVTFZZ2FaNVE2cEVrRmJOM0dBWTF5amRDNVo2N0JibmpQdXJRWE4xTVN1RGhfZHRaa0RfSWIzNE1FSWZpUFEwMUM2S1dOczZlMDY5dS1ESC1UMElDUUVWYVM4U2xONmd3?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNYkNqSlltLXhOR25WNXNOanBTQWVPZ3owRWpENlp4eXFpbVhrUmViVTFZZ2FaNVE2cEVrRmJOM0dBWTF5amRDNVo2N0JibmpQdXJRWE4xTVN1RGhfZHRaa0RfSWIzNE1FSWZpUFEwMUM2S1dOczZlMDY5dS1ESC1UMElDUUVWYVM4U2xONmd3?oc=5\" target=\"_blank\"&gt;NetDocuments and Epiq Agentic AI Legal Tech Updates&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;quasa.io&lt;/font&gt;",
-      "published": "2026-07-26T04:41:00.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 7
-    },
-    {
       "title": "The Legal AI Scaffold Changes Everything – Claude Study - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQU4tdGFPSGFaaGo0NGRvdnhxMUhYQ3pSd18td3lld2ZRd2xiQkVwWUQ0Z1lhR3IwdGstdE5STUVBTzdqdkxvbnhWUTVwZ0Y5MDNqT1hHV0RDUGVldzI5R2JrdEtaZ2NfYWNDVERjN1o5QWFqeGFTTEp6VDB1S19id3VoOUZUbzQ0eDdwNzJHNzdvYzRNWUh5cFV6UnhXOE0?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNQU4tdGFPSGFaaGo0NGRvdnhxMUhYQ3pSd18td3lld2ZRd2xiQkVwWUQ0Z1lhR3IwdGstdE5STUVBTzdqdkxvbnhWUTVwZ0Y5MDNqT1hHV0RDUGVldzI5R2JrdEtaZ2NfYWNDVERjN1o5QWFqeGFTTEp6VDB1S19id3VoOUZUbzQ0eDdwNzJHNzdvYzRNWUh5cFV6UnhXOE0?oc=5\" target=\"_blank\"&gt;The Legal AI Scaffold Changes Everything – Claude Study&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
@@ -149,6 +137,18 @@
       "source_tier": "A",
       "source_category": "Aggregator",
       "relevance_score": 7
+    },
+    {
+      "title": "NetDocuments and Epiq Agentic AI Legal Tech Updates - quasa.io",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYkNqSlltLXhOR25WNXNOanBTQWVPZ3owRWpENlp4eXFpbVhrUmViVTFZZ2FaNVE2cEVrRmJOM0dBWTF5amRDNVo2N0JibmpQdXJRWE4xTVN1RGhfZHRaa0RfSWIzNE1FSWZpUFEwMUM2S1dOczZlMDY5dS1ESC1UMElDUUVWYVM4U2xONmd3?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNYkNqSlltLXhOR25WNXNOanBTQWVPZ3owRWpENlp4eXFpbVhrUmViVTFZZ2FaNVE2cEVrRmJOM0dBWTF5amRDNVo2N0JibmpQdXJRWE4xTVN1RGhfZHRaa0RfSWIzNE1FSWZpUFEwMUM2S1dOczZlMDY5dS1ESC1UMElDUUVWYVM4U2xONmd3?oc=5\" target=\"_blank\"&gt;NetDocuments and Epiq Agentic AI Legal Tech Updates&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;quasa.io&lt;/font&gt;",
+      "published": "2026-07-26T04:41:00.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
     },
     {
       "title": "OpenAI hires Ironclad co-founder as tech giant moves into legaltech - The Global Legal Post",
