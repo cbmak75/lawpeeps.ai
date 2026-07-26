@@ -1,15 +1,47 @@
 {
-  "generated": "2026-07-26T12:54:13.308Z",
+  "generated": "2026-07-26T13:08:39.665Z",
   "cycle_type": "triage",
-  "shortlist_size": 0,
-  "picks": [],
+  "tier_filter": "B",
+  "shortlist_size": 2,
   "prefilter": {
     "total": 40,
-    "accepted": 1,
+    "accepted": 2,
     "borderline": 0,
-    "rejected": 39,
-    "rejected_as_duplicate": 39,
-    "accept_rate": 3
+    "rejected": 38,
+    "rejected_as_duplicate": 38,
+    "accept_rate": 5
   },
-  "skipped_already_triaged": 1
+  "model": "gemini-flash-lite-latest",
+  "picks": [
+    {
+      "id": "hacker-news-0",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "General AI/ML learning mapping tools",
+      "why_now": "Generic developer utility with no direct connection to legal practice, regulation, or legal tech platforms.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "hacker-news-1",
+      "score": 4,
+      "category": "Policy",
+      "suggested_angle": "OpenAI safety guardrails under scrutiny as WSJ highlights biological weapon risks",
+      "why_now": "General AI safety and model guardrail story rather than legal AI, though general AI risk regulation occasionally intersects with legal compliance.",
+      "verdict": "drop",
+      "duplicate_of": null
+    }
+  ],
+  "summary": {
+    "enqueue_count": 0,
+    "watch_count": 0,
+    "drop_count": 2,
+    "notes": "Both shortlist items are general tech/AI stories lacking a specific legal, regulatory, or immigration angle."
+  },
+  "enqueued": 0,
+  "usage": {
+    "input_tokens": 2326,
+    "output_tokens": 280,
+    "total_tokens": 2606
+  }
 }
