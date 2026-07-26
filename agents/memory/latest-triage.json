@@ -1,15 +1,38 @@
 {
-  "generated": "2026-07-26T08:05:02.771Z",
+  "generated": "2026-07-26T08:17:34.968Z",
   "cycle_type": "triage",
-  "shortlist_size": 0,
-  "picks": [],
+  "tier_filter": "B",
+  "shortlist_size": 1,
   "prefilter": {
     "total": 40,
-    "accepted": 1,
-    "borderline": 0,
+    "accepted": 0,
+    "borderline": 1,
     "rejected": 39,
     "rejected_as_duplicate": 39,
-    "accept_rate": 3
+    "accept_rate": 0
   },
-  "skipped_already_triaged": 1
+  "model": "gemini-flash-lite-latest",
+  "picks": [
+    {
+      "id": "hacker-news-0",
+      "score": 3,
+      "category": "Legal AI",
+      "suggested_angle": "Developer guardrails for AI coding agents",
+      "why_now": "General software engineering content with no specific legal industry application or UK regulatory angle.",
+      "verdict": "drop",
+      "duplicate_of": null
+    }
+  ],
+  "summary": {
+    "enqueue_count": 0,
+    "watch_count": 0,
+    "drop_count": 1,
+    "notes": "Dropped general software development shortlist item lacking legal industry relevance."
+  },
+  "enqueued": 0,
+  "usage": {
+    "input_tokens": 2155,
+    "output_tokens": 166,
+    "total_tokens": 2321
+  }
 }
