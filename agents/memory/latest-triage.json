@@ -1,38 +1,15 @@
 {
-  "generated": "2026-07-26T19:03:46.068Z",
+  "generated": "2026-07-26T20:03:36.130Z",
   "cycle_type": "triage",
-  "tier_filter": "B",
-  "shortlist_size": 1,
+  "shortlist_size": 0,
+  "picks": [],
   "prefilter": {
     "total": 40,
     "accepted": 1,
-    "borderline": 1,
-    "rejected": 38,
-    "rejected_as_duplicate": 38,
+    "borderline": 0,
+    "rejected": 39,
+    "rejected_as_duplicate": 39,
     "accept_rate": 3
   },
-  "model": "gemini-flash-lite-latest",
-  "picks": [
-    {
-      "id": "hacker-news-0",
-      "score": 2,
-      "category": "Legal AI",
-      "suggested_angle": "Generic developer terminal wrapper tool lacks legal sector relevance.",
-      "why_now": "It is a general-purpose developer utility with no specific connection to law firms, legal tech, or regulatory compliance.",
-      "verdict": "drop",
-      "duplicate_of": null
-    }
-  ],
-  "summary": {
-    "enqueue_count": 0,
-    "watch_count": 0,
-    "drop_count": 1,
-    "notes": "Dropped unrelated developer side-project from Hacker News."
-  },
-  "enqueued": 0,
-  "usage": {
-    "input_tokens": 2127,
-    "output_tokens": 170,
-    "total_tokens": 2297
-  }
+  "skipped_already_triaged": 1
 }
