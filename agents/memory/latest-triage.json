@@ -1,38 +1,15 @@
 {
-  "generated": "2026-07-27T02:27:05.293Z",
+  "generated": "2026-07-27T05:37:26.807Z",
   "cycle_type": "triage",
-  "tier_filter": "B",
-  "shortlist_size": 1,
+  "shortlist_size": 0,
+  "picks": [],
   "prefilter": {
     "total": 40,
     "accepted": 1,
-    "borderline": 1,
-    "rejected": 38,
-    "rejected_as_duplicate": 38,
+    "borderline": 0,
+    "rejected": 39,
+    "rejected_as_duplicate": 39,
     "accept_rate": 3
   },
-  "model": "gemini-flash-lite-latest",
-  "picks": [
-    {
-      "id": "legal-futures-0",
-      "score": 4,
-      "category": "Regulatory",
-      "suggested_angle": "Axiom Ince fallout hits profession with £39m compensation bill",
-      "why_now": "Provides a final accounting on one of the largest regulatory failures in recent UK solicitor history.",
-      "verdict": "drop",
-      "duplicate_of": null
-    }
-  ],
-  "summary": {
-    "enqueue_count": 0,
-    "watch_count": 0,
-    "drop_count": 1,
-    "notes": "Dropped Axiom Ince compensation story as it falls outside the core legal AI / UK regulation of tech focus for lawpeeps.ai."
-  },
-  "enqueued": 0,
-  "usage": {
-    "input_tokens": 2158,
-    "output_tokens": 186,
-    "total_tokens": 2344
-  }
+  "skipped_already_triaged": 1
 }
