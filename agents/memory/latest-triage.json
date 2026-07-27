@@ -1,15 +1,38 @@
 {
-  "generated": "2026-07-27T21:00:47.219Z",
+  "generated": "2026-07-27T22:49:28.629Z",
   "cycle_type": "triage",
-  "shortlist_size": 0,
-  "picks": [],
+  "tier_filter": "A",
+  "shortlist_size": 1,
   "prefilter": {
     "total": 40,
-    "accepted": 2,
+    "accepted": 3,
     "borderline": 0,
-    "rejected": 38,
-    "rejected_as_duplicate": 38,
-    "accept_rate": 5
+    "rejected": 37,
+    "rejected_as_duplicate": 37,
+    "accept_rate": 8
   },
-  "skipped_already_triaged": 2
+  "model": "gemini-flash-lite-latest",
+  "picks": [
+    {
+      "id": "google-news-legal-ai-0",
+      "score": 3,
+      "category": "Adoption",
+      "suggested_angle": "Real estate news with zero legal AI product substance.",
+      "why_now": "Commercial real estate lease signing for a legal tech firm has no news value for legal AI product or regulatory coverage.",
+      "verdict": "drop",
+      "duplicate_of": null
+    }
+  ],
+  "summary": {
+    "enqueue_count": 0,
+    "watch_count": 0,
+    "drop_count": 1,
+    "notes": "Dropped commercial real estate lease story due to lack of legal AI product or regulatory substance."
+  },
+  "enqueued": 0,
+  "usage": {
+    "input_tokens": 2348,
+    "output_tokens": 184,
+    "total_tokens": 2532
+  }
 }
