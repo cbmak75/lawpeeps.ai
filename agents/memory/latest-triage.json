@@ -1,15 +1,56 @@
 {
-  "generated": "2026-07-27T19:08:54.189Z",
+  "generated": "2026-07-27T19:19:20.727Z",
   "cycle_type": "triage",
-  "shortlist_size": 0,
-  "picks": [],
+  "tier_filter": "B",
+  "shortlist_size": 3,
   "prefilter": {
     "total": 40,
-    "accepted": 2,
+    "accepted": 19,
     "borderline": 0,
-    "rejected": 38,
-    "rejected_as_duplicate": 38,
-    "accept_rate": 5
+    "rejected": 21,
+    "rejected_as_duplicate": 21,
+    "accept_rate": 48
   },
-  "skipped_already_triaged": 2
+  "model": "gemini-flash-lite-latest",
+  "picks": [
+    {
+      "id": "above-the-law-legaltech-0",
+      "score": 4,
+      "category": "Legal AI",
+      "suggested_angle": "Why technology bans in legal workflows fail to address root compliance risks.",
+      "why_now": "General commentary piece on tech bans without a specific new regulatory anchor or product launch.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "ars-technica-ai-1",
+      "score": 7,
+      "category": "Policy",
+      "suggested_angle": "Copyright implications as ChatGPT restricts direct requests to mimic author styles.",
+      "why_now": "Directly impacts IP and generative AI guardrails with broad implications for legal drafting and content generation.",
+      "verdict": "enqueue",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-2",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "Technical paper on SLMs for radio-astronomy code optimization.",
+      "why_now": "Too far removed from core legal AI, regulatory, or legal tech verticals.",
+      "verdict": "drop",
+      "duplicate_of": null
+    }
+  ],
+  "summary": {
+    "enqueue_count": 1,
+    "watch_count": 0,
+    "drop_count": 2,
+    "notes": "Enqueued Ars Technica's piece on ChatGPT style-blocking for its copyright/IP relevance; dropped generic ATL commentary and radio-astronomy arXiv paper."
+  },
+  "enqueued": 1,
+  "usage": {
+    "input_tokens": 2463,
+    "output_tokens": 399,
+    "total_tokens": 2862
+  }
 }

@@ -1954,7 +1954,55 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "ChatGPT starts blocking direct requests to copy an author&#039;s style",
+      "slug": "chatgpt-starts-blocking-direct-requests-to-copy-an-author-039-s-style",
+      "score": 7,
+      "category": "Policy",
+      "story_type": "news",
+      "research_brief": "New behavior capturing a writer's \"broad qualities\" could have legal implications.",
+      "primary_source": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "Copyright implications as ChatGPT restricts direct requests to mimic author styles.",
+      "why_now": "Directly impacts IP and generative AI guardrails with broad implications for legal drafting and content generation.",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Ars Technica AI",
+      "source_tier": "B",
+      "prefilter_score": 8,
+      "matched_terms": [
+        "GPT"
+      ],
+      "fingerprint": {
+        "entities": [],
+        "numerics": [],
+        "keywords": [
+          "gpt"
+        ],
+        "title_tokens": [
+          "chatgpt",
+          "starts",
+          "blocking",
+          "direct",
+          "requests",
+          "copy",
+          "author",
+          "style"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-07-27T19:19:20.723Z",
+      "queued_at": "2026-07-27T19:19:20.726Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-07-25T02:09:13.131Z"
+  "last_updated": "2026-07-27T19:19:20.726Z"
 }
