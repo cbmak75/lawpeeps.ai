@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-27T05:37:26.772Z",
+  "generated": "2026-07-27T09:24:52.477Z",
   "cycle_type": "monitoring",
   "item_count": 40,
   "total_scanned": 752,
@@ -29,6 +29,18 @@
       "source_tier": "A",
       "source_category": "Aggregator",
       "relevance_score": 9
+    },
+    {
+      "title": "Why Fake Cititations are becoming the Biggest Trust Problem in Legal AI - Bar and Bench",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWHdhWjYxN1p2QmxJRjVfdTV1NGlveUdZWkFJZXJIWV9WR203Ulc5RFZ2eEtjTlg5MGVLNURSYXlfZ2RiYWJVYTVNZUVDQlg5UTJDSFBxeEZNUVk5aFFKd0JQTFF2WU1WOVAzTVlmTWxucXBfZzlhbDB5cXF4ckdkXzlYMllMUktKcmdLcEhDc0JyUWtaYm9LNXY3SjEwMFZXWjhXZy1MU1FuWHViVXpz?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOWHdhWjYxN1p2QmxJRjVfdTV1NGlveUdZWkFJZXJIWV9WR203Ulc5RFZ2eEtjTlg5MGVLNURSYXlfZ2RiYWJVYTVNZUVDQlg5UTJDSFBxeEZNUVk5aFFKd0JQTFF2WU1WOVAzTVlmTWxucXBfZzlhbDB5cXF4ckdkXzlYMllMUktKcmdLcEhDc0JyUWtaYm9LNXY3SjEwMFZXWjhXZy1MU1FuWHViVXpz?oc=5\" target=\"_blank\"&gt;Why Fake Cititations are becoming the Biggest Trust Problem in Legal AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Bar and Bench&lt;/font&gt;",
+      "published": "2026-07-27T05:40:26.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 8
     },
     {
       "title": "Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook partners with CBA; DeepIP raises $25m - Legal IT Insider",
@@ -139,6 +151,18 @@
       "relevance_score": 7
     },
     {
+      "title": "Should Clients Expect Price Cuts Due To Legal AI? - Artificial Lawyer",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTllBQlk1aUFKeGQ1RHZ5ai1QLXlBWEs2WEcxR0s4ZzZNZzM0YTQ5ZURsbnNEWmVCYzlDbnc5TlVReW9nUHhnSG5oRDJseWZqLWdKWDVGZ2E5VmRFVTFxbFd0WmZsbEMtNkkxb090UWowWkRnQVpvWlNrT1FrcGVaQ3Q0SmNHcEczX3piNXhWMlpiZ3dpeDgtcQ?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPTllBQlk1aUFKeGQ1RHZ5ai1QLXlBWEs2WEcxR0s4ZzZNZzM0YTQ5ZURsbnNEWmVCYzlDbnc5TlVReW9nUHhnSG5oRDJseWZqLWdKWDVGZ2E5VmRFVTFxbFd0WmZsbEMtNkkxb090UWowWkRnQVpvWlNrT1FrcGVaQ3Q0SmNHcEczX3piNXhWMlpiZ3dpeDgtcQ?oc=5\" target=\"_blank\"&gt;Should Clients Expect Price Cuts Due To Legal AI?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
+      "published": "2026-07-27T07:37:52.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
+    },
+    {
       "title": "OpenAI hires Ironclad co-founder as tech giant moves into legaltech - The Global Legal Post",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaUR0RkgzbVhTczZLZjRFMnRpN2JLT0l3OUllYnVVWEFKbFVqNzl0ZGc1a29tMWdKY3EyUGpndXlaX09UY1VBZVBoRy02S1ZPMHpzV0ZCTDc5ZnpWSTRfNnl2SmhiYU5EODFaTW5JbU5ld3Bkc2NHbF9STmo4RzhMWTBuUTlfU3BoYXdkZHloWlNNZ1lLbldPSDYzYXptYnRlTzZaYkhMODI2TmlxWk1oSzNDZHNnZw?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPaUR0RkgzbVhTczZLZjRFMnRpN2JLT0l3OUllYnVVWEFKbFVqNzl0ZGc1a29tMWdKY3EyUGpndXlaX09UY1VBZVBoRy02S1ZPMHpzV0ZCTDc5ZnpWSTRfNnl2SmhiYU5EODFaTW5JbU5ld3Bkc2NHbF9STmo4RzhMWTBuUTlfU3BoYXdkZHloWlNNZ1lLbldPSDYzYXptYnRlTzZaYkhMODI2TmlxWk1oSzNDZHNnZw?oc=5\" target=\"_blank\"&gt;OpenAI hires Ironclad co-founder as tech giant moves into legaltech&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Global Legal Post&lt;/font&gt;",
@@ -211,10 +235,10 @@
       "relevance_score": 6
     },
     {
-      "title": ":Harvey:’s iManage Integration - Harvey",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NWWt2LTZETkl6M2txVzBjWUd6SUJnYWZwN2NKYmJpXy1GS2pDUlc4Y2lNazJFRTYyYWc3MGhXQU1STHVDa2hLWE9rV000a0dkQUQzaXRpdEZ5UlVDTFhDSTEwMGM?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NWWt2LTZETkl6M2txVzBjWUd6SUJnYWZwN2NKYmJpXy1GS2pDUlc4Y2lNazJFRTYyYWc3MGhXQU1STHVDa2hLWE9rV000a0dkQUQzaXRpdEZ5UlVDTFhDSTEwMGM?oc=5\" target=\"_blank\"&gt;:Harvey:’s iManage Integration&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
-      "published": "2025-08-11T07:00:00.000Z",
+      "title": "Someone is Smoking Crack, or Harvey AI is Just a Proxy to Participate in an OpenAI $1 Trillion IPO? - Medium",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdTUxWl9Vcno3OFNsblRLb0YyVC1uS20xR256VDRpTnV0RFNWZ3gxREx5S3FGRk4zeV9LXzlOMDVubm1VWEJVMXdZQWluNklWaF9ObTRpaTJNbUtDUUduQ3RPV25xVGd0UXRkRjRNa1BzYzVqTXZua0FUYXpRZDNmN1FKNGpEbUN5YVh4V01HYkZITXpyVWtyYU91LTVnTWpyeFcxN2p3cTVkNWF0SzNUMzRDWDM1c29hU3JrWEE2VFRxay1Nc0R1WWlLb2hodkNSczVtTllnUHJ1a2x1?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdTUxWl9Vcno3OFNsblRLb0YyVC1uS20xR256VDRpTnV0RFNWZ3gxREx5S3FGRk4zeV9LXzlOMDVubm1VWEJVMXdZQWluNklWaF9ObTRpaTJNbUtDUUduQ3RPV25xVGd0UXRkRjRNa1BzYzVqTXZua0FUYXpRZDNmN1FKNGpEbUN5YVh4V01HYkZITXpyVWtyYU91LTVnTWpyeFcxN2p3cTVkNWF0SzNUMzRDWDM1c29hU3JrWEE2VFRxay1Nc0R1WWlLb2hodkNSczVtTllnUHJ1a2x1?oc=5\" target=\"_blank\"&gt;Someone is Smoking Crack, or Harvey AI is Just a Proxy to Participate in an OpenAI $1 Trillion IPO?&lt;/a&gt;&amp;nbsp;&amp;n",
+      "published": "2025-10-31T07:00:00.000Z",
       "source_id": "google-news-harvey-luminance",
       "source_name": "Google News: Harvey OR Luminance",
       "source_priority": "critical",
@@ -223,10 +247,10 @@
       "relevance_score": 6
     },
     {
-      "title": "Someone is Smoking Crack, or Harvey AI is Just a Proxy to Participate in an OpenAI $1 Trillion IPO? - Medium",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdTUxWl9Vcno3OFNsblRLb0YyVC1uS20xR256VDRpTnV0RFNWZ3gxREx5S3FGRk4zeV9LXzlOMDVubm1VWEJVMXdZQWluNklWaF9ObTRpaTJNbUtDUUduQ3RPV25xVGd0UXRkRjRNa1BzYzVqTXZua0FUYXpRZDNmN1FKNGpEbUN5YVh4V01HYkZITXpyVWtyYU91LTVnTWpyeFcxN2p3cTVkNWF0SzNUMzRDWDM1c29hU3JrWEE2VFRxay1Nc0R1WWlLb2hodkNSczVtTllnUHJ1a2x1?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdTUxWl9Vcno3OFNsblRLb0YyVC1uS20xR256VDRpTnV0RFNWZ3gxREx5S3FGRk4zeV9LXzlOMDVubm1VWEJVMXdZQWluNklWaF9ObTRpaTJNbUtDUUduQ3RPV25xVGd0UXRkRjRNa1BzYzVqTXZua0FUYXpRZDNmN1FKNGpEbUN5YVh4V01HYkZITXpyVWtyYU91LTVnTWpyeFcxN2p3cTVkNWF0SzNUMzRDWDM1c29hU3JrWEE2VFRxay1Nc0R1WWlLb2hodkNSczVtTllnUHJ1a2x1?oc=5\" target=\"_blank\"&gt;Someone is Smoking Crack, or Harvey AI is Just a Proxy to Participate in an OpenAI $1 Trillion IPO?&lt;/a&gt;&amp;nbsp;&amp;n",
-      "published": "2025-10-31T07:00:00.000Z",
+      "title": ":Harvey:’s iManage Integration - Harvey",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NWWt2LTZETkl6M2txVzBjWUd6SUJnYWZwN2NKYmJpXy1GS2pDUlc4Y2lNazJFRTYyYWc3MGhXQU1STHVDa2hLWE9rV000a0dkQUQzaXRpdEZ5UlVDTFhDSTEwMGM?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NWWt2LTZETkl6M2txVzBjWUd6SUJnYWZwN2NKYmJpXy1GS2pDUlc4Y2lNazJFRTYyYWc3MGhXQU1STHVDa2hLWE9rV000a0dkQUQzaXRpdEZ5UlVDTFhDSTEwMGM?oc=5\" target=\"_blank\"&gt;:Harvey:’s iManage Integration&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
+      "published": "2025-08-11T07:00:00.000Z",
       "source_id": "google-news-harvey-luminance",
       "source_name": "Google News: Harvey OR Luminance",
       "source_priority": "critical",
@@ -455,30 +479,6 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQzJDM2Zxdks1eDYzTDNNZ1RuRXZ6Njh2SFFuVFFITmxhdF9lYzR3ZVRzZ1R6bEFnMHNNTHdodzJaVmxMNlZSWlp4S2xhY0VWdThHV3JQVktjNTlfUzE2QlhucDlTNFhhOTRCYUl2aDMyaHUzR3B4T2YtazktdnpmVFg4X0RJdkJqWFVQaVJNcDJsejF0YWpMelNkamhkbTQ4R0F0STdVTWpqRlBTMFBnUkF4R2s1U1d1NGVNYzFKcjFiTllL?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQQzJDM2Zxdks1eDYzTDNNZ1RuRXZ6Njh2SFFuVFFITmxhdF9lYzR3ZVRzZ1R6bEFnMHNNTHdodzJaVmxMNlZSWlp4S2xhY0VWdThHV3JQVktjNTlfUzE2QlhucDlTNFhhOTRCYUl2aDMyaHUzR3B4T2YtazktdnpmVFg4X0RJdkJqWFVQaVJNcDJsejF0YWpMelNkamhkbTQ4R0F0STdVTWpqRlBTMFBnUkF4R2s1U1d1NGVNYzFKcjFiTllL?oc=5\" target=\"_blank\"&gt;Harvey announces partnership with Swiss legal AI intelligence platform DeepJudge&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Global Legal Po",
       "published": "2026-05-21T07:00:00.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 5
-    },
-    {
-      "title": "Claude for Legal: What the industry needs to know - Legal IT Insider",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaTk1d0FIT01YOFFzWUlxSFh6cGZza21GcEx0VWY4VWNnd1FnNkx2eDE2ZFNPZmZadDRGVmZoSTBlSEJjR21fanp4MzNWTGF1QTR2SDlCdlNka25MU0kySG5oSUZQdnRnbDhPMHhyX3dlbFN0eFdFZkdEVEZ5OE5RSUJGNA?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOaTk1d0FIT01YOFFzWUlxSFh6cGZza21GcEx0VWY4VWNnd1FnNkx2eDE2ZFNPZmZadDRGVmZoSTBlSEJjR21fanp4MzNWTGF1QTR2SDlCdlNka25MU0kySG5oSUZQdnRnbDhPMHhyX3dlbFN0eFdFZkdEVEZ5OE5RSUJGNA?oc=5\" target=\"_blank\"&gt;Claude for Legal: What the industry needs to know&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Legal IT Insider&lt;/font&gt;",
-      "published": "2026-05-13T07:00:00.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 5
-    },
-    {
-      "title": "Harvey’s next move: building its own legal AI model - Non-Billable",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRHU1R3NHaFQ1ODduU1I0WFlDWFpzd2lKQnU4bDhMX0xBMXZybi1PaGlqcnBRbzJXRmFQNDFpdDRHYU9iclNkeGF3RW5SeXFsWmhSQnhLVmxQT0FDUHZYZ21SNDVZSlZqeTNYVEZzb2UtbkI0WmwxQzVVMXp3Z0JMZUgxcjlPY2lCaWhObVF3?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPRHU1R3NHaFQ1ODduU1I0WFlDWFpzd2lKQnU4bDhMX0xBMXZybi1PaGlqcnBRbzJXRmFQNDFpdDRHYU9iclNkeGF3RW5SeXFsWmhSQnhLVmxQT0FDUHZYZ21SNDVZSlZqeTNYVEZzb2UtbkI0WmwxQzVVMXp3Z0JMZUgxcjlPY2lCaWhObVF3?oc=5\" target=\"_blank\"&gt;Harvey’s next move: building its own legal AI model&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Non-Billable&lt;/font&gt;",
-      "published": "2026-06-18T07:00:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",

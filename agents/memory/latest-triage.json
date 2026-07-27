@@ -1,15 +1,38 @@
 {
-  "generated": "2026-07-27T05:37:26.807Z",
+  "generated": "2026-07-27T09:24:53.345Z",
   "cycle_type": "triage",
-  "shortlist_size": 0,
-  "picks": [],
+  "tier_filter": "A",
+  "shortlist_size": 1,
   "prefilter": {
     "total": 40,
-    "accepted": 1,
+    "accepted": 2,
     "borderline": 0,
-    "rejected": 39,
-    "rejected_as_duplicate": 39,
-    "accept_rate": 3
+    "rejected": 38,
+    "rejected_as_duplicate": 38,
+    "accept_rate": 5
   },
-  "skipped_already_triaged": 1
+  "model": "gemini-flash-lite-latest",
+  "picks": [
+    {
+      "id": "google-news-legal-ai-0",
+      "score": 4,
+      "category": "Legal AI",
+      "suggested_angle": "Addressing the persistent threat of AI hallucinations and fake citations in legal practice.",
+      "why_now": "The piece touches on general trust issues, but lacks a unique primary source or fresh regulatory hook given recent coverage of law firm AI chat warnings.",
+      "verdict": "drop",
+      "duplicate_of": null
+    }
+  ],
+  "summary": {
+    "enqueue_count": 0,
+    "watch_count": 0,
+    "drop_count": 1,
+    "notes": "Single low-scoring aggregator piece dropped due to lack of primary source or news hook."
+  },
+  "enqueued": 0,
+  "usage": {
+    "input_tokens": 2377,
+    "output_tokens": 194,
+    "total_tokens": 2571
+  }
 }
