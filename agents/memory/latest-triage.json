@@ -1,47 +1,15 @@
 {
-  "generated": "2026-07-27T14:21:18.767Z",
+  "generated": "2026-07-27T15:35:36.517Z",
   "cycle_type": "triage",
-  "tier_filter": "B",
-  "shortlist_size": 2,
+  "shortlist_size": 0,
+  "picks": [],
   "prefilter": {
     "total": 40,
-    "accepted": 28,
+    "accepted": 2,
     "borderline": 0,
-    "rejected": 12,
-    "rejected_as_duplicate": 12,
-    "accept_rate": 70
+    "rejected": 38,
+    "rejected_as_duplicate": 38,
+    "accept_rate": 5
   },
-  "model": "gemini-flash-lite-latest",
-  "picks": [
-    {
-      "id": "arxiv-cs-ai-0",
-      "score": 3,
-      "category": "Research",
-      "suggested_angle": "Enterprise LLM routing techniques for legal tech architectures.",
-      "why_now": "Pure computer science preprint on LLM routing without specific application to legal workflows or legal AI systems.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-1",
-      "score": 3,
-      "category": "Research",
-      "suggested_angle": "Multimodal LLM jailbreaks and safety alignment vulnerabilities.",
-      "why_now": "General AI safety research paper without a direct, specific hook for legal tech, regulation, or practice.",
-      "verdict": "drop",
-      "duplicate_of": null
-    }
-  ],
-  "summary": {
-    "enqueue_count": 0,
-    "watch_count": 0,
-    "drop_count": 2,
-    "notes": "Both shortlisted items are general computer science arXiv preprints lacking a direct legal or regulatory focus."
-  },
-  "enqueued": 0,
-  "usage": {
-    "input_tokens": 2326,
-    "output_tokens": 280,
-    "total_tokens": 2606
-  }
+  "skipped_already_triaged": 2
 }
