@@ -1,38 +1,83 @@
 {
-  "generated": "2026-07-28T19:05:31.763Z",
+  "generated": "2026-07-28T19:16:02.843Z",
   "cycle_type": "triage",
-  "tier_filter": "A",
-  "shortlist_size": 1,
+  "tier_filter": "B",
+  "shortlist_size": 6,
   "prefilter": {
     "total": 40,
-    "accepted": 3,
+    "accepted": 19,
     "borderline": 0,
-    "rejected": 37,
-    "rejected_as_duplicate": 37,
-    "accept_rate": 8
+    "rejected": 21,
+    "rejected_as_duplicate": 21,
+    "accept_rate": 48
   },
   "model": "gemini-flash-lite-latest",
   "picks": [
     {
-      "id": "google-news-legal-ai-0",
+      "id": "hacker-news-0",
       "score": 2,
+      "category": "Social",
+      "suggested_angle": null,
+      "why_now": "General opinion piece with no direct nexus to legal AI, regulation, or legal tech.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "above-the-law-legaltech-1",
+      "score": 3,
       "category": "Legal AI",
-      "suggested_angle": "Low-value aggregator roundup of legal AI tools.",
-      "why_now": "Generic content lacking primary reporting or unique news value.",
+      "suggested_angle": null,
+      "why_now": "Sponsored webinar content rather than hard news or primary reporting.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "hacker-news-2",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "Generic engineering blog post about indie AI design.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "thomson-reuters-institute-3",
+      "score": 5,
+      "category": "Policy",
+      "suggested_angle": "Addressing shadow AI governance in public sector and legal agencies",
+      "why_now": "Useful overview of internal security risks, though light on specific legal sector regulatory enforcement actions.",
+      "verdict": "watch",
+      "duplicate_of": null
+    },
+    {
+      "id": "hacker-news-4",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "General database architecture discussion unrelated to legal tech verticals.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "hacker-news-5",
+      "score": 4,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "OpenAI research publication on scientific computing, too distant from legal AI or immigration workflows.",
       "verdict": "drop",
       "duplicate_of": null
     }
   ],
   "summary": {
     "enqueue_count": 0,
-    "watch_count": 0,
-    "drop_count": 1,
-    "notes": "Dropped single low-value aggregation piece from Bloomberg Law."
+    "watch_count": 1,
+    "drop_count": 5,
+    "notes": "Low-value shortlist today consisting largely of general tech, sponsored content, and broad engineering discussions without direct legal AI or regulatory angles."
   },
   "enqueued": 0,
   "usage": {
-    "input_tokens": 2374,
-    "output_tokens": 161,
-    "total_tokens": 2535
+    "input_tokens": 3030,
+    "output_tokens": 602,
+    "total_tokens": 3632
   }
 }
