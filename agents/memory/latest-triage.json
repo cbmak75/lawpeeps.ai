@@ -1,15 +1,47 @@
 {
-  "generated": "2026-07-28T12:30:22.678Z",
+  "generated": "2026-07-28T13:53:05.131Z",
   "cycle_type": "triage",
-  "shortlist_size": 0,
-  "picks": [],
+  "tier_filter": "B",
+  "shortlist_size": 2,
   "prefilter": {
     "total": 40,
-    "accepted": 1,
+    "accepted": 24,
     "borderline": 0,
-    "rejected": 39,
-    "rejected_as_duplicate": 39,
-    "accept_rate": 3
+    "rejected": 16,
+    "rejected_as_duplicate": 16,
+    "accept_rate": 60
   },
-  "skipped_already_triaged": 1
+  "model": "gemini-flash-lite-latest",
+  "picks": [
+    {
+      "id": "legal-cheek-0",
+      "score": 2,
+      "category": "Social",
+      "suggested_angle": "Milbank bonuses ignore tech investment trends.",
+      "why_now": "Standard junior pay reporting with no legal AI or tech angle.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "hacker-news-1",
+      "score": 1,
+      "category": "Social",
+      "suggested_angle": "Literary theory for AI developers.",
+      "why_now": "General software engineering essay with no direct relevance to legal AI or regulation.",
+      "verdict": "drop",
+      "duplicate_of": null
+    }
+  ],
+  "summary": {
+    "enqueue_count": 0,
+    "watch_count": 0,
+    "drop_count": 2,
+    "notes": "Neither candidate item meets editorial criteria for legal AI, tech, or regulation."
+  },
+  "enqueued": 0,
+  "usage": {
+    "input_tokens": 2343,
+    "output_tokens": 255,
+    "total_tokens": 2598
+  }
 }
