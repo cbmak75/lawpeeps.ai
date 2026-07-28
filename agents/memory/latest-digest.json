@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-28T10:21:25.687Z",
+  "generated": "2026-07-28T12:30:22.648Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 755,
+  "total_scanned": 677,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -367,18 +367,6 @@
       "relevance_score": 5
     },
     {
-      "title": "Willkie teams up with OpenAI to build legal tech tools - Legal Cheek",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbUJTclpSVnFvUEpHZ1pEM3hMZ2pCb3pWY1B2WWV1UWptckhYU1QySW5BU1NBbmZ5Y0dabEtxUGgzTEhRU2Q2dlQxaE5lWm1JUXVXTGpabXFCcWFZZXJnM2ZOcDRlWWl1aXVBZWpLMnJoUkZRenNOZ2lKOV9TaDJfMWoyUmsycnVCNU14Q2xBaU5Pb1k1Z195WllyYnJEcGc?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPbUJTclpSVnFvUEpHZ1pEM3hMZ2pCb3pWY1B2WWV1UWptckhYU1QySW5BU1NBbmZ5Y0dabEtxUGgzTEhRU2Q2dlQxaE5lWm1JUXVXTGpabXFCcWFZZXJnM2ZOcDRlWWl1aXVBZWpLMnJoUkZRenNOZ2lKOV9TaDJfMWoyUmsycnVCNU14Q2xBaU5Pb1k1Z195WllyYnJEcGc?oc=5\" target=\"_blank\"&gt;Willkie teams up with OpenAI to build legal tech tools&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Legal Cheek&lt;/font&gt;",
-      "published": "2026-07-24T15:01:02.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 5
-    },
-    {
       "title": "OpenAI Partners With Willkie to Build Custom Legal AI Tools - Bloomberg Law News",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdDN0bU93M3NvdzNwVUNaUFh2TU0yODd5bEc0OHVjc243dmFkNVRsQi1YdFpPa0RRUk5XbF9mUm05Yll6enB3RkNfVVByY29ab0YyUWVWdGdtNk92S0FYTmdyc3BkM0tIU1NFN25QNlN4cFJjbHpjYU9jbl81a012alVUb1d1Um5aTHZ1Nm9CcjlGQXFjNE5WRU96RC1yWGpxZGRkME1MOW5PTFc4?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNdDN0bU93M3NvdzNwVUNaUFh2TU0yODd5bEc0OHVjc243dmFkNVRsQi1YdFpPa0RRUk5XbF9mUm05Yll6enB3RkNfVVByY29ab0YyUWVWdGdtNk92S0FYTmdyc3BkM0tIU1NFN25QNlN4cFJjbHpjYU9jbl81a012alVUb1d1Um5aTHZ1Nm9CcjlGQXFjNE5WRU96RC1yWGpxZGRkME1MOW5PTFc4?oc=5\" target=\"_blank\"&gt;OpenAI Partners With Willkie to Build Custom Legal AI Tools&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Bloomberg Law News&lt;/font&gt;",
@@ -479,6 +467,18 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRHU1R3NHaFQ1ODduU1I0WFlDWFpzd2lKQnU4bDhMX0xBMXZybi1PaGlqcnBRbzJXRmFQNDFpdDRHYU9iclNkeGF3RW5SeXFsWmhSQnhLVmxQT0FDUHZYZ21SNDVZSlZqeTNYVEZzb2UtbkI0WmwxQzVVMXp3Z0JMZUgxcjlPY2lCaWhObVF3?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPRHU1R3NHaFQ1ODduU1I0WFlDWFpzd2lKQnU4bDhMX0xBMXZybi1PaGlqcnBRbzJXRmFQNDFpdDRHYU9iclNkeGF3RW5SeXFsWmhSQnhLVmxQT0FDUHZYZ21SNDVZSlZqeTNYVEZzb2UtbkI0WmwxQzVVMXp3Z0JMZUgxcjlPY2lCaWhObVF3?oc=5\" target=\"_blank\"&gt;Harvey’s next move: building its own legal AI model&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Non-Billable&lt;/font&gt;",
       "published": "2026-06-18T07:00:00.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 5
+    },
+    {
+      "title": "AI for court transcripts and ‘digital twins’: seven legal tech stories that you might have missed - The Law Society",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMUJRcWhsRXZ6bHZ3bWtXaUYyMFlIbFdoTFRTSm9fQlRjYXNPUEVvZ0R0WDRJQ2hLRlJMeDJ6VmhvX3ZrQnJuNktFYWpCS2QwTW1xSV9BN3ROMUFPT3AtYVpxR0Fwd0pfTlZ3S3gxaHRHQWNZQ2dNSU1uM3pqWEdyb0VWWEs5ZzUzUldDTjRXTDJ0T2pPY29aWWFBclpqenplYUJhcnhBX2xLLUxXT2dHM1hTaVZxcTAzZnpIeGtEd29DaWlNRVNRTGkzMXFPNFUzU1FTN3VxUmdKZWZXRXJZ?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMUJRcWhsRXZ6bHZ3bWtXaUYyMFlIbFdoTFRTSm9fQlRjYXNPUEVvZ0R0WDRJQ2hLRlJMeDJ6VmhvX3ZrQnJuNktFYWpCS2QwTW1xSV9BN3ROMUFPT3AtYVpxR0Fwd0pfTlZ3S3gxaHRHQWNZQ2dNSU1uM3pqWEdyb0VWWEs5ZzUzUldDTjRXTDJ0T2pPY29aWWFBclpqenplYUJhcnhBX2xLLUxXT2dHM1hTaVZxcTAzZnpIeGtEd29DaWlNRVNRTGkzMXFPNFUzU1FTN3VxUmdKZWZXRXJZ?oc=5\" target=\"_blank\"&gt;AI for court transcripts and ‘digital twins’: seven legal tech stories that you might have missed&lt;/a&gt;&amp;nbsp;&amp",
+      "published": "2026-05-06T07:00:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
