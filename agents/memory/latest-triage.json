@@ -1,15 +1,38 @@
 {
-  "generated": "2026-07-28T07:30:27.358Z",
+  "generated": "2026-07-28T08:25:06.491Z",
   "cycle_type": "triage",
-  "shortlist_size": 0,
-  "picks": [],
+  "tier_filter": "B",
+  "shortlist_size": 1,
   "prefilter": {
     "total": 40,
-    "accepted": 1,
+    "accepted": 32,
     "borderline": 0,
-    "rejected": 39,
-    "rejected_as_duplicate": 39,
-    "accept_rate": 3
+    "rejected": 8,
+    "rejected_as_duplicate": 8,
+    "accept_rate": 80
   },
-  "skipped_already_triaged": 1
+  "model": "gemini-flash-lite-latest",
+  "picks": [
+    {
+      "id": "hacker-news-0",
+      "score": 2,
+      "category": "Social",
+      "suggested_angle": "None",
+      "why_now": "Unverified user support complaint on Hacker News with no direct legal industry hook.",
+      "verdict": "drop",
+      "duplicate_of": null
+    }
+  ],
+  "summary": {
+    "enqueue_count": 0,
+    "watch_count": 0,
+    "drop_count": 1,
+    "notes": "Dropped irrelevant Hacker News customer support complaint."
+  },
+  "enqueued": 0,
+  "usage": {
+    "input_tokens": 2151,
+    "output_tokens": 151,
+    "total_tokens": 2302
+  }
 }
