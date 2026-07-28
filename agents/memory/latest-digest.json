@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-28T17:16:40.609Z",
+  "generated": "2026-07-28T19:04:22.170Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 754,
+  "total_scanned": 753,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -139,16 +139,16 @@
       "relevance_score": 7
     },
     {
-      "title": "Exclusive: Co-Founded By Former Whoop CTO, Throne Science Raises $10M To Track Gut Health From The Toilet",
-      "url": "https://news.crunchbase.com/health-wellness-biotech/throne-science-microbiome-gut-health-toilet-camera-startup-john-capodilupo-whoop/",
-      "summary": "Throne Science, a startup that makes an AI-powered toilet camera to track gut health and hydration, has raised $10 million in a Series A round led by Will Ventures, it told Crunchbase News exclusively. Emerson Collective, Workshop, LEAD VC, Salt VC, Accomplice, Moxxie Ventures, and several other investors also participated in the financing. The round [&#8230;]",
-      "published": "2026-07-28T13:00:09.000Z",
-      "source_id": "crunchbase-news",
-      "source_name": "Crunchbase News",
-      "source_priority": "high",
+      "title": "Best Legal AI Tools for In-House Counsel and Law Firms - Bloomberg Law",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNmowcjNuZDNLVmZTRGpQeUdsRmNDTV8wNWNmSllBYl9RYS1xYTNpenkxNGhnQW5jZVdTUU94SDdzTmR1T1VSMFF1cUlIV0VyXzJoZFEzNGh1N3kyU3JpaWdBNnJmdG1ETDl5ZFNNN0dXamIxUlVnYll5YkhnYXpqWkYwM3RpVEpnd1cyeFhMYXJpYW1KLXFxdV9RSUJHTXptRnYzbXRCLUt0cnA1elE?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNNmowcjNuZDNLVmZTRGpQeUdsRmNDTV8wNWNmSllBYl9RYS1xYTNpenkxNGhnQW5jZVdTUU94SDdzTmR1T1VSMFF1cUlIV0VyXzJoZFEzNGh1N3kyU3JpaWdBNnJmdG1ETDl5ZFNNN0dXamIxUlVnYll5YkhnYXpqWkYwM3RpVEpnd1cyeFhMYXJpYW1KLXFxdV9RSUJHTXptRnYzbXRCLUt0cnA1elE?oc=5\" target=\"_blank\"&gt;Best Legal AI Tools for In-House Counsel and Law Firms&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Bloomberg Law&lt;/font&gt;",
+      "published": "2026-07-28T18:29:30.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
       "source_tier": "A",
-      "source_category": "Funding / M&A",
-      "relevance_score": 7
+      "source_category": "Aggregator",
+      "relevance_score": 6
     },
     {
       "title": "Cathy Mulrow-Peattie and Sabrina Janeiro Present on Legal AI Technology - Hinshaw &amp; Culbertson LLP",
@@ -391,18 +391,6 @@
       "relevance_score": 5
     },
     {
-      "title": "What Chinese Open-Weight AI Models Mean for Legal Tech - Law.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcl9ETUtBbWRxSHNwdnNkUllMRWk1MWhZMWwyMmk3TDBKWFJPcVpsZExRTGlzQ0JQbEpvTzR4NHZEaHpCV3RxenNDSFZWZ2RQTkNNQm5pbnRSUzVoaS1fRTZpWV84dGxZOUdYUGFiOWQ4Y1RDMTJ6OEh6LXZuanJVYmxSaHZPREhKNllHVkUwN2pWSGxZR0w0MUNyNnBQNENNVDhj?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQcl9ETUtBbWRxSHNwdnNkUllMRWk1MWhZMWwyMmk3TDBKWFJPcVpsZExRTGlzQ0JQbEpvTzR4NHZEaHpCV3RxenNDSFZWZ2RQTkNNQm5pbnRSUzVoaS1fRTZpWV84dGxZOUdYUGFiOWQ4Y1RDMTJ6OEh6LXZuanJVYmxSaHZPREhKNllHVkUwN2pWSGxZR0w0MUNyNnBQNENNVDhj?oc=5\" target=\"_blank\"&gt;What Chinese Open-Weight AI Models Mean for Legal Tech&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Law.com&lt;/font&gt;",
-      "published": "2026-07-27T18:29:00.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 5
-    },
-    {
       "title": "Anthropic’s expansion of legal AI tools is good for lawyers, experts say - The Global Legal Post",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON29yWkx6TnprRmNac3lObVViVmxxRnMxYk00MjJFOFFLdDBJOWtDY1R6ckxWa0tFTWgxY0ZvVzJGR2x5T09rX0hOVE1xM1ZUbVdSMHBnUVpsSmI3X2JucUFIUUdoUlplaEFCbXdjTHhpblYyM09jNkZtNlh4SzZtamM2em5LX19SdElfWU1EMUxITUljZUdHLWRUbjRWVTd6U0JVWVItaG83N2VyYTdzWHJYb0N5QVRrSXc?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxON29yWkx6TnprRmNac3lObVViVmxxRnMxYk00MjJFOFFLdDBJOWtDY1R6ckxWa0tFTWgxY0ZvVzJGR2x5T09rX0hOVE1xM1ZUbVdSMHBnUVpsSmI3X2JucUFIUUdoUlplaEFCbXdjTHhpblYyM09jNkZtNlh4SzZtamM2em5LX19SdElfWU1EMUxITUljZUdHLWRUbjRWVTd6U0JVWVItaG83N2VyYTdzWHJYb0N5QVRrSXc?oc=5\" target=\"_blank\"&gt;Anthropic’s expansion of legal AI tools is good for lawyers, experts say&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Global Legal Post&lt;/font&gt;",
@@ -479,6 +467,18 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQzJDM2Zxdks1eDYzTDNNZ1RuRXZ6Njh2SFFuVFFITmxhdF9lYzR3ZVRzZ1R6bEFnMHNNTHdodzJaVmxMNlZSWlp4S2xhY0VWdThHV3JQVktjNTlfUzE2QlhucDlTNFhhOTRCYUl2aDMyaHUzR3B4T2YtazktdnpmVFg4X0RJdkJqWFVQaVJNcDJsejF0YWpMelNkamhkbTQ4R0F0STdVTWpqRlBTMFBnUkF4R2s1U1d1NGVNYzFKcjFiTllL?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQQzJDM2Zxdks1eDYzTDNNZ1RuRXZ6Njh2SFFuVFFITmxhdF9lYzR3ZVRzZ1R6bEFnMHNNTHdodzJaVmxMNlZSWlp4S2xhY0VWdThHV3JQVktjNTlfUzE2QlhucDlTNFhhOTRCYUl2aDMyaHUzR3B4T2YtazktdnpmVFg4X0RJdkJqWFVQaVJNcDJsejF0YWpMelNkamhkbTQ4R0F0STdVTWpqRlBTMFBnUkF4R2s1U1d1NGVNYzFKcjFiTllL?oc=5\" target=\"_blank\"&gt;Harvey announces partnership with Swiss legal AI intelligence platform DeepJudge&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Global Legal Po",
       "published": "2026-05-21T07:00:00.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 5
+    },
+    {
+      "title": "Claude for Legal: What the industry needs to know - Legal IT Insider",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaTk1d0FIT01YOFFzWUlxSFh6cGZza21GcEx0VWY4VWNnd1FnNkx2eDE2ZFNPZmZadDRGVmZoSTBlSEJjR21fanp4MzNWTGF1QTR2SDlCdlNka25MU0kySG5oSUZQdnRnbDhPMHhyX3dlbFN0eFdFZkdEVEZ5OE5RSUJGNA?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOaTk1d0FIT01YOFFzWUlxSFh6cGZza21GcEx0VWY4VWNnd1FnNkx2eDE2ZFNPZmZadDRGVmZoSTBlSEJjR21fanp4MzNWTGF1QTR2SDlCdlNka25MU0kySG5oSUZQdnRnbDhPMHhyX3dlbFN0eFdFZkdEVEZ5OE5RSUJGNA?oc=5\" target=\"_blank\"&gt;Claude for Legal: What the industry needs to know&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Legal IT Insider&lt;/font&gt;",
+      "published": "2026-05-13T07:00:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
