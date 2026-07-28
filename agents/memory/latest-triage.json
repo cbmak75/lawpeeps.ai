@@ -1,15 +1,47 @@
 {
-  "generated": "2026-07-28T01:22:21.932Z",
+  "generated": "2026-07-28T02:02:31.033Z",
   "cycle_type": "triage",
-  "shortlist_size": 0,
-  "picks": [],
+  "tier_filter": "B",
+  "shortlist_size": 2,
   "prefilter": {
     "total": 40,
-    "accepted": 1,
+    "accepted": 20,
     "borderline": 0,
-    "rejected": 39,
-    "rejected_as_duplicate": 39,
-    "accept_rate": 3
+    "rejected": 20,
+    "rejected_as_duplicate": 20,
+    "accept_rate": 50
   },
-  "skipped_already_triaged": 1
+  "model": "gemini-flash-lite-latest",
+  "picks": [
+    {
+      "id": "above-the-law-legaltech-0",
+      "score": 2,
+      "category": "Social",
+      "suggested_angle": "General bar exam advice for students",
+      "why_now": "Purely evergreen/motivational student advice with no legal AI or tech relevance.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-1",
+      "score": 5,
+      "category": "Research",
+      "suggested_angle": "Declarative security frameworks for LLM agents handling external tools",
+      "why_now": "Relevant to secure AI agent deployment, though a bit academic for immediate legal tech application without a specific legal workflow tie-in.",
+      "verdict": "watch",
+      "duplicate_of": null
+    }
+  ],
+  "summary": {
+    "enqueue_count": 0,
+    "watch_count": 1,
+    "drop_count": 1,
+    "notes": "Dropped non-tech ATL bar exam fluff; watching academic AI agent security paper as a potential background reference."
+  },
+  "enqueued": 0,
+  "usage": {
+    "input_tokens": 2322,
+    "output_tokens": 286,
+    "total_tokens": 2608
+  }
 }
