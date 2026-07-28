@@ -1,33 +1,24 @@
 {
-  "generated": "2026-07-28T13:53:05.131Z",
+  "generated": "2026-07-28T15:10:30.219Z",
   "cycle_type": "triage",
-  "tier_filter": "B",
-  "shortlist_size": 2,
+  "tier_filter": "A",
+  "shortlist_size": 1,
   "prefilter": {
     "total": 40,
-    "accepted": 24,
+    "accepted": 2,
     "borderline": 0,
-    "rejected": 16,
-    "rejected_as_duplicate": 16,
-    "accept_rate": 60
+    "rejected": 38,
+    "rejected_as_duplicate": 38,
+    "accept_rate": 5
   },
   "model": "gemini-flash-lite-latest",
   "picks": [
     {
-      "id": "legal-cheek-0",
-      "score": 2,
+      "id": "google-news-legal-ai-0",
+      "score": 3,
       "category": "Social",
-      "suggested_angle": "Milbank bonuses ignore tech investment trends.",
-      "why_now": "Standard junior pay reporting with no legal AI or tech angle.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "hacker-news-1",
-      "score": 1,
-      "category": "Social",
-      "suggested_angle": "Literary theory for AI developers.",
-      "why_now": "General software engineering essay with no direct relevance to legal AI or regulation.",
+      "suggested_angle": "Law firm marketing event on legal AI tech.",
+      "why_now": "Standard law firm webinar/presentation announcement with no new primary insights or regulatory shifts.",
       "verdict": "drop",
       "duplicate_of": null
     }
@@ -35,13 +26,13 @@
   "summary": {
     "enqueue_count": 0,
     "watch_count": 0,
-    "drop_count": 2,
-    "notes": "Neither candidate item meets editorial criteria for legal AI, tech, or regulation."
+    "drop_count": 1,
+    "notes": "Dropped law firm promotional event announcement as low-value marketing content."
   },
   "enqueued": 0,
   "usage": {
-    "input_tokens": 2343,
-    "output_tokens": 255,
-    "total_tokens": 2598
+    "input_tokens": 2402,
+    "output_tokens": 172,
+    "total_tokens": 2574
   }
 }
