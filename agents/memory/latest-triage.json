@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-28T15:10:30.219Z",
+  "generated": "2026-07-28T17:16:40.636Z",
   "cycle_type": "triage",
-  "tier_filter": "A",
-  "shortlist_size": 1,
+  "shortlist_size": 0,
+  "picks": [],
   "prefilter": {
     "total": 40,
     "accepted": 2,
@@ -11,28 +11,5 @@
     "rejected_as_duplicate": 38,
     "accept_rate": 5
   },
-  "model": "gemini-flash-lite-latest",
-  "picks": [
-    {
-      "id": "google-news-legal-ai-0",
-      "score": 3,
-      "category": "Social",
-      "suggested_angle": "Law firm marketing event on legal AI tech.",
-      "why_now": "Standard law firm webinar/presentation announcement with no new primary insights or regulatory shifts.",
-      "verdict": "drop",
-      "duplicate_of": null
-    }
-  ],
-  "summary": {
-    "enqueue_count": 0,
-    "watch_count": 0,
-    "drop_count": 1,
-    "notes": "Dropped law firm promotional event announcement as low-value marketing content."
-  },
-  "enqueued": 0,
-  "usage": {
-    "input_tokens": 2402,
-    "output_tokens": 172,
-    "total_tokens": 2574
-  }
+  "skipped_already_triaged": 2
 }

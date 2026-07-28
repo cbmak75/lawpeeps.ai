@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-28T15:10:29.207Z",
+  "generated": "2026-07-28T17:16:40.609Z",
   "cycle_type": "monitoring",
   "item_count": 40,
   "total_scanned": 754,
@@ -31,18 +31,6 @@
       "relevance_score": 9
     },
     {
-      "title": "Top Legal AI Startups Funded in 2026 (Harvey, Legora, Ironclad) - AI Funding Tracker",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10MGJkNVo1c0RqNmhuZWpialozbzBsejY0eWFVUkxsdHM0SG44M1BYM3VtZm92MVlmWGdIaGl0bF9VZkpacEs3R01yT3hBajlpMmxNUmlxV25NWWY3UW1ReA?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE10MGJkNVo1c0RqNmhuZWpialozbzBsejY0eWFVUkxsdHM0SG44M1BYM3VtZm92MVlmWGdIaGl0bF9VZkpacEs3R01yT3hBajlpMmxNUmlxV25NWWY3UW1ReA?oc=5\" target=\"_blank\"&gt;Top Legal AI Startups Funded in 2026 (Harvey, Legora, Ironclad)&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;AI Funding Tracker&lt;/font&gt;",
-      "published": "2026-05-21T07:00:00.000Z",
-      "source_id": "google-news-legal-tech-funding",
-      "source_name": "Google News: legal tech funding",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 8
-    },
-    {
       "title": "Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook partners with CBA; DeepIP raises $25m - Legal IT Insider",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcXJGTU9ucEc1azNNOTZ3eWI1dldHblpjS0lIdG9jTy1YSE1SSEdlWXlqa041bzd4R052ckZLZG1TQnh6eUE1bFhEV0FyYlFndF84Z1hTczZXZ0IzOVRoMF9jWHhkMXp2X2tjenNUMktCZWM1eVlvM0tjZEpvX2ZoeUpaTUN5UTZUaDJEWWdvVDFJZWpGYTZiQV8ycEc1dEJRMTJCWktEV3IwX3FoX1F6cFk5dkJ1VUtHaURCWmlBTUpTcFRJQVk3cmYxODlsMEpjQnRMdHkwLWNoR1lzT01jRmJlSjJwdw?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcXJGTU9ucEc1azNNOTZ3eWI1dldHblpjS0lIdG9jTy1YSE1SSEdlWXlqa041bzd4R052ckZLZG1TQnh6eUE1bFhEV0FyYlFndF84Z1hTczZXZ0IzOVRoMF9jWHhkMXp2X2tjenNUMktCZWM1eVlvM0tjZEpvX2ZoeUpaTUN5UTZUaDJEWWdvVDFJZWpGYTZiQV8ycEc1dEJRMTJCWktEV3IwX3FoX1F6cFk5dkJ1VUtHaURCWmlBTUpTcFRJQVk3cmYxODlsMEpjQnRMdHkwLWNoR1lzT01jRmJlSjJwdw?oc=5\" target=\"_blank\"&gt;Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook partners with CBA; De",
@@ -55,10 +43,34 @@
       "relevance_score": 8
     },
     {
+      "title": "Top Legal AI Startups Funded in 2026 (Harvey, Legora, Ironclad) - AI Funding Tracker",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10MGJkNVo1c0RqNmhuZWpialozbzBsejY0eWFVUkxsdHM0SG44M1BYM3VtZm92MVlmWGdIaGl0bF9VZkpacEs3R01yT3hBajlpMmxNUmlxV25NWWY3UW1ReA?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE10MGJkNVo1c0RqNmhuZWpialozbzBsejY0eWFVUkxsdHM0SG44M1BYM3VtZm92MVlmWGdIaGl0bF9VZkpacEs3R01yT3hBajlpMmxNUmlxV25NWWY3UW1ReA?oc=5\" target=\"_blank\"&gt;Top Legal AI Startups Funded in 2026 (Harvey, Legora, Ironclad)&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;AI Funding Tracker&lt;/font&gt;",
+      "published": "2026-05-21T07:00:00.000Z",
+      "source_id": "google-news-legal-tech-funding",
+      "source_name": "Google News: legal tech funding",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 8
+    },
+    {
       "title": "Why legal tech giant Harvey is raising cash like OpenAI - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaDhOaTN1RzVmZmxWa1U2TTZyTW9ucXRjZjU2RHUzT0RoMTJQb1BvZ1hpbUgwTUFZS3U5UHV1R21abHdrRDR3cFlWTC1SY3J2WUN1YWlwSlY0Y0VpVjVYSXV2dk93YjhuU0NXYTE5QnBiVHF5bHVLRHdWbzMxdVB3MU0zMFh1TzF0U1JmOA?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQaDhOaTN1RzVmZmxWa1U2TTZyTW9ucXRjZjU2RHUzT0RoMTJQb1BvZ1hpbUgwTUFZS3U5UHV1R21abHdrRDR3cFlWTC1SY3J2WUN1YWlwSlY0Y0VpVjVYSXV2dk93YjhuU0NXYTE5QnBiVHF5bHVLRHdWbzMxdVB3MU0zMFh1TzF0U1JmOA?oc=5\" target=\"_blank\"&gt;Why legal tech giant Harvey is raising cash like OpenAI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Business Insider&lt;/font&gt;",
       "published": "2026-03-26T07:00:00.000Z",
+      "source_id": "google-news-legal-tech-funding",
+      "source_name": "Google News: legal tech funding",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 8
+    },
+    {
+      "title": "EvenUp, AI Software For Personal Injury Law, Doubles Valuation To $2B As Legal Tech Funding Hits Record High - Crunchbase News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY2p6WWxfeE1ZZDJxQXJPOWtrR2VZdkxlSkFtck03QWJtOU1YcGtHUFBlZllXMXkxeXRlcHhfZU9vR0VMU1JUS0FYMGNUSXZ0UnVRSU5YRVZuWERkU29MVFYzYjNtdHN6OUZGU3JlNWpLcDI3eTRwam5fVkhUSzU2WFdtX0daQUNseG50YzRpTQ?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQY2p6WWxfeE1ZZDJxQXJPOWtrR2VZdkxlSkFtck03QWJtOU1YcGtHUFBlZllXMXkxeXRlcHhfZU9vR0VMU1JUS0FYMGNUSXZ0UnVRSU5YRVZuWERkU29MVFYzYjNtdHN6OUZGU3JlNWpLcDI3eTRwam5fVkhUSzU2WFdtX0daQUNseG50YzRpTQ?oc=5\" target=\"_blank\"&gt;EvenUp, AI Software For Personal Injury Law, Doubles Valuation To $2B As Legal Tech Funding Hits Record High&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Crunchbase News&lt;/font&gt;",
+      "published": "2025-10-07T07:00:00.000Z",
       "source_id": "google-news-legal-tech-funding",
       "source_name": "Google News: legal tech funding",
       "source_priority": "critical",
@@ -415,10 +427,10 @@
       "relevance_score": 5
     },
     {
-      "title": "Beyond chatbots: how technical literacy defines the next era of legal AI - IFLR",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUFpJQjBKRjQ5V1l2YzVaMDJuelJ3U3hJN0V6M2R5eVczRE00VXU2Z2sybTZDUHdkY3VJYmtjQzYxdjY5Um80bUJSenlfRjhyS1NGeTdGRjc3anBFWE00OXJlQVJtd09iZklHM0E5SkQwUHYtdm9rWERZN0RLQ2NxLUFCMzlnb0JJQmRYeEZfcDhXRGlKdWdZbTBSSGpvcG5fRjJKYjhqMnBnMjhheDNtNkx6SXFsOElsUkthYXNDMVVGLXo4LUd6WVhJZk8?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPUFpJQjBKRjQ5V1l2YzVaMDJuelJ3U3hJN0V6M2R5eVczRE00VXU2Z2sybTZDUHdkY3VJYmtjQzYxdjY5Um80bUJSenlfRjhyS1NGeTdGRjc3anBFWE00OXJlQVJtd09iZklHM0E5SkQwUHYtdm9rWERZN0RLQ2NxLUFCMzlnb0JJQmRYeEZfcDhXRGlKdWdZbTBSSGpvcG5fRjJKYjhqMnBnMjhheDNtNkx6SXFsOElsUkthYXNDMVVGLXo4LUd6WVhJZk8?oc=5\" target=\"_blank\"&gt;Beyond chatbots: how technical literacy defines the next era of legal AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;IFLR&lt;/font&gt",
-      "published": "2026-07-10T13:51:07.000Z",
+      "title": "What Legal AI Benchmarks Reveal That Model Names Don’t - Artificial Lawyer",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUDVZYWQ2dy05eC1DNmZnQ09zb0xYcG9ZeFkwNkFzd3VHS2hBTEt6WTZpcVcxd2E2VjVPUzlXM1B0azl3VG9mLU1OQk1oMXVUN3RqRDlYVzF2MjZfSHdXa25NYl9JVzI2RzljWUhHd3BIYk52OEpXZUtjVDZ4OGRNal96UXAxWV9tMnc4aHd1UmNBREg2NlEwTGQwN1hXeWc?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPUDVZYWQ2dy05eC1DNmZnQ09zb0xYcG9ZeFkwNkFzd3VHS2hBTEt6WTZpcVcxd2E2VjVPUzlXM1B0azl3VG9mLU1OQk1oMXVUN3RqRDlYVzF2MjZfSHdXa25NYl9JVzI2RzljWUhHd3BIYk52OEpXZUtjVDZ4OGRNal96UXAxWV9tMnc4aHd1UmNBREg2NlEwTGQwN1hXeWc?oc=5\" target=\"_blank\"&gt;What Legal AI Benchmarks Reveal That Model Names Don’t&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
+      "published": "2026-06-22T07:00:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
@@ -427,10 +439,10 @@
       "relevance_score": 5
     },
     {
-      "title": "What Legal AI Benchmarks Reveal That Model Names Don’t - Artificial Lawyer",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUDVZYWQ2dy05eC1DNmZnQ09zb0xYcG9ZeFkwNkFzd3VHS2hBTEt6WTZpcVcxd2E2VjVPUzlXM1B0azl3VG9mLU1OQk1oMXVUN3RqRDlYVzF2MjZfSHdXa25NYl9JVzI2RzljWUhHd3BIYk52OEpXZUtjVDZ4OGRNal96UXAxWV9tMnc4aHd1UmNBREg2NlEwTGQwN1hXeWc?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPUDVZYWQ2dy05eC1DNmZnQ09zb0xYcG9ZeFkwNkFzd3VHS2hBTEt6WTZpcVcxd2E2VjVPUzlXM1B0azl3VG9mLU1OQk1oMXVUN3RqRDlYVzF2MjZfSHdXa25NYl9JVzI2RzljWUhHd3BIYk52OEpXZUtjVDZ4OGRNal96UXAxWV9tMnc4aHd1UmNBREg2NlEwTGQwN1hXeWc?oc=5\" target=\"_blank\"&gt;What Legal AI Benchmarks Reveal That Model Names Don’t&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
-      "published": "2026-06-22T07:00:00.000Z",
+      "title": "Beyond chatbots: how technical literacy defines the next era of legal AI - IFLR",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUFpJQjBKRjQ5V1l2YzVaMDJuelJ3U3hJN0V6M2R5eVczRE00VXU2Z2sybTZDUHdkY3VJYmtjQzYxdjY5Um80bUJSenlfRjhyS1NGeTdGRjc3anBFWE00OXJlQVJtd09iZklHM0E5SkQwUHYtdm9rWERZN0RLQ2NxLUFCMzlnb0JJQmRYeEZfcDhXRGlKdWdZbTBSSGpvcG5fRjJKYjhqMnBnMjhheDNtNkx6SXFsOElsUkthYXNDMVVGLXo4LUd6WVhJZk8?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPUFpJQjBKRjQ5V1l2YzVaMDJuelJ3U3hJN0V6M2R5eVczRE00VXU2Z2sybTZDUHdkY3VJYmtjQzYxdjY5Um80bUJSenlfRjhyS1NGeTdGRjc3anBFWE00OXJlQVJtd09iZklHM0E5SkQwUHYtdm9rWERZN0RLQ2NxLUFCMzlnb0JJQmRYeEZfcDhXRGlKdWdZbTBSSGpvcG5fRjJKYjhqMnBnMjhheDNtNkx6SXFsOElsUkthYXNDMVVGLXo4LUd6WVhJZk8?oc=5\" target=\"_blank\"&gt;Beyond chatbots: how technical literacy defines the next era of legal AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;IFLR&lt;/font&gt",
+      "published": "2026-07-10T13:51:07.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
@@ -467,18 +479,6 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQzJDM2Zxdks1eDYzTDNNZ1RuRXZ6Njh2SFFuVFFITmxhdF9lYzR3ZVRzZ1R6bEFnMHNNTHdodzJaVmxMNlZSWlp4S2xhY0VWdThHV3JQVktjNTlfUzE2QlhucDlTNFhhOTRCYUl2aDMyaHUzR3B4T2YtazktdnpmVFg4X0RJdkJqWFVQaVJNcDJsejF0YWpMelNkamhkbTQ4R0F0STdVTWpqRlBTMFBnUkF4R2s1U1d1NGVNYzFKcjFiTllL?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQQzJDM2Zxdks1eDYzTDNNZ1RuRXZ6Njh2SFFuVFFITmxhdF9lYzR3ZVRzZ1R6bEFnMHNNTHdodzJaVmxMNlZSWlp4S2xhY0VWdThHV3JQVktjNTlfUzE2QlhucDlTNFhhOTRCYUl2aDMyaHUzR3B4T2YtazktdnpmVFg4X0RJdkJqWFVQaVJNcDJsejF0YWpMelNkamhkbTQ4R0F0STdVTWpqRlBTMFBnUkF4R2s1U1d1NGVNYzFKcjFiTllL?oc=5\" target=\"_blank\"&gt;Harvey announces partnership with Swiss legal AI intelligence platform DeepJudge&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Global Legal Po",
       "published": "2026-05-21T07:00:00.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 5
-    },
-    {
-      "title": "Claude for Legal: What the industry needs to know - Legal IT Insider",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaTk1d0FIT01YOFFzWUlxSFh6cGZza21GcEx0VWY4VWNnd1FnNkx2eDE2ZFNPZmZadDRGVmZoSTBlSEJjR21fanp4MzNWTGF1QTR2SDlCdlNka25MU0kySG5oSUZQdnRnbDhPMHhyX3dlbFN0eFdFZkdEVEZ5OE5RSUJGNA?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOaTk1d0FIT01YOFFzWUlxSFh6cGZza21GcEx0VWY4VWNnd1FnNkx2eDE2ZFNPZmZadDRGVmZoSTBlSEJjR21fanp4MzNWTGF1QTR2SDlCdlNka25MU0kySG5oSUZQdnRnbDhPMHhyX3dlbFN0eFdFZkdEVEZ5OE5RSUJGNA?oc=5\" target=\"_blank\"&gt;Claude for Legal: What the industry needs to know&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Legal IT Insider&lt;/font&gt;",
-      "published": "2026-05-13T07:00:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
