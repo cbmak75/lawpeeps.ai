@@ -1,83 +1,15 @@
 {
-  "generated": "2026-07-28T19:16:02.843Z",
+  "generated": "2026-07-28T20:56:57.994Z",
   "cycle_type": "triage",
-  "tier_filter": "B",
-  "shortlist_size": 6,
+  "shortlist_size": 0,
+  "picks": [],
   "prefilter": {
     "total": 40,
-    "accepted": 19,
+    "accepted": 2,
     "borderline": 0,
-    "rejected": 21,
-    "rejected_as_duplicate": 21,
-    "accept_rate": 48
+    "rejected": 38,
+    "rejected_as_duplicate": 38,
+    "accept_rate": 5
   },
-  "model": "gemini-flash-lite-latest",
-  "picks": [
-    {
-      "id": "hacker-news-0",
-      "score": 2,
-      "category": "Social",
-      "suggested_angle": null,
-      "why_now": "General opinion piece with no direct nexus to legal AI, regulation, or legal tech.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "above-the-law-legaltech-1",
-      "score": 3,
-      "category": "Legal AI",
-      "suggested_angle": null,
-      "why_now": "Sponsored webinar content rather than hard news or primary reporting.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "hacker-news-2",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": null,
-      "why_now": "Generic engineering blog post about indie AI design.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "thomson-reuters-institute-3",
-      "score": 5,
-      "category": "Policy",
-      "suggested_angle": "Addressing shadow AI governance in public sector and legal agencies",
-      "why_now": "Useful overview of internal security risks, though light on specific legal sector regulatory enforcement actions.",
-      "verdict": "watch",
-      "duplicate_of": null
-    },
-    {
-      "id": "hacker-news-4",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": null,
-      "why_now": "General database architecture discussion unrelated to legal tech verticals.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "hacker-news-5",
-      "score": 4,
-      "category": "Research",
-      "suggested_angle": null,
-      "why_now": "OpenAI research publication on scientific computing, too distant from legal AI or immigration workflows.",
-      "verdict": "drop",
-      "duplicate_of": null
-    }
-  ],
-  "summary": {
-    "enqueue_count": 0,
-    "watch_count": 1,
-    "drop_count": 5,
-    "notes": "Low-value shortlist today consisting largely of general tech, sponsored content, and broad engineering discussions without direct legal AI or regulatory angles."
-  },
-  "enqueued": 0,
-  "usage": {
-    "input_tokens": 3030,
-    "output_tokens": 602,
-    "total_tokens": 3632
-  }
+  "skipped_already_triaged": 2
 }
