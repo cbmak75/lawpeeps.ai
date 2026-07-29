@@ -1,38 +1,15 @@
 {
-  "generated": "2026-07-29T15:03:30.189Z",
+  "generated": "2026-07-29T17:02:39.181Z",
   "cycle_type": "triage",
-  "tier_filter": "A",
-  "shortlist_size": 1,
+  "shortlist_size": 0,
+  "picks": [],
   "prefilter": {
     "total": 40,
-    "accepted": 2,
+    "accepted": 1,
     "borderline": 0,
-    "rejected": 38,
-    "rejected_as_duplicate": 38,
-    "accept_rate": 5
+    "rejected": 39,
+    "rejected_as_duplicate": 39,
+    "accept_rate": 3
   },
-  "model": "gemini-flash-lite-latest",
-  "picks": [
-    {
-      "id": "google-news-legal-ai-0",
-      "score": 4,
-      "category": "Legal AI",
-      "suggested_angle": "Artists' legal victories against AI platforms offer lessons for IP protection and litigation strategy.",
-      "why_now": "General interest tech reporting rather than direct legal tech or law firm regulatory news.",
-      "verdict": "drop",
-      "duplicate_of": null
-    }
-  ],
-  "summary": {
-    "enqueue_count": 0,
-    "watch_count": 0,
-    "drop_count": 1,
-    "notes": "Dropped general artist IP article as it falls outside core legal AI/tech publishing focus."
-  },
-  "enqueued": 0,
-  "usage": {
-    "input_tokens": 2374,
-    "output_tokens": 178,
-    "total_tokens": 2552
-  }
+  "skipped_already_triaged": 1
 }
