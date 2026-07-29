@@ -1,15 +1,83 @@
 {
-  "generated": "2026-07-29T12:54:29.984Z",
+  "generated": "2026-07-29T13:57:11.997Z",
   "cycle_type": "triage",
-  "shortlist_size": 0,
-  "picks": [],
+  "tier_filter": "B",
+  "shortlist_size": 6,
   "prefilter": {
     "total": 40,
-    "accepted": 1,
+    "accepted": 25,
     "borderline": 0,
-    "rejected": 39,
-    "rejected_as_duplicate": 39,
-    "accept_rate": 3
+    "rejected": 15,
+    "rejected_as_duplicate": 15,
+    "accept_rate": 63
   },
-  "skipped_already_triaged": 1
+  "model": "gemini-flash-lite-latest",
+  "picks": [
+    {
+      "id": "law-society-gazette-0",
+      "score": 5,
+      "category": "Regulatory",
+      "suggested_angle": "Charity pushes for permanent public record of ombudsman legal complaints",
+      "why_now": "Highlights transparency debates in UK legal regulation and dispute resolution.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "above-the-law-legaltech-1",
+      "score": 3,
+      "category": "Social",
+      "suggested_angle": "Morning legal industry roundup",
+      "why_now": "General aggregation with no direct legal AI or UK regulation angle.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "above-the-law-legaltech-2",
+      "score": 4,
+      "category": "Adoption",
+      "suggested_angle": "NextGen bar exam software glitches highlight testing technology risks",
+      "why_now": "Examines software reliability failures in high-stakes legal testing environments.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-3",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "New multi-view visualization generation model for LLMs",
+      "why_now": "General computer science research preprint lacking direct legal application.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-4",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Knowledge-enhanced memory evolution for remote sensing agents",
+      "why_now": "Purely remote sensing and geoscience focus without legal tech relevance.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-5",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "Temporal granularity-adaptive framework for long video understanding",
+      "why_now": "General multimodal LLM architecture paper without specific legal domain benchmarking.",
+      "verdict": "drop",
+      "duplicate_of": null
+    }
+  ],
+  "summary": {
+    "enqueue_count": 0,
+    "watch_count": 0,
+    "drop_count": 6,
+    "notes": "All shortlist items dropped as they fall outside the core legal AI, UK regulation, and immigration tech focus or lack sufficient editorial value."
+  },
+  "enqueued": 0,
+  "usage": {
+    "input_tokens": 2982,
+    "output_tokens": 648,
+    "total_tokens": 3630
+  }
 }
