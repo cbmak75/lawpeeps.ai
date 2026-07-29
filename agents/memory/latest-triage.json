@@ -1,15 +1,173 @@
 {
-  "generated": "2026-07-29T01:23:22.407Z",
+  "generated": "2026-07-29T02:05:24.837Z",
   "cycle_type": "triage",
-  "shortlist_size": 0,
-  "picks": [],
+  "tier_filter": "B",
+  "shortlist_size": 16,
   "prefilter": {
     "total": 40,
-    "accepted": 1,
+    "accepted": 17,
     "borderline": 0,
-    "rejected": 39,
-    "rejected_as_duplicate": 39,
-    "accept_rate": 3
+    "rejected": 23,
+    "rejected_as_duplicate": 23,
+    "accept_rate": 43
   },
-  "skipped_already_triaged": 1
+  "model": "gemini-flash-lite-latest",
+  "picks": [
+    {
+      "id": "hacker-news-0",
+      "score": 3,
+      "category": "Legal AI",
+      "suggested_angle": "OpenAI drops new transcription models, but what does it mean for legal transcription?",
+      "why_now": "Minor developer documentation release without direct legal sector hooks.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "hacker-news-1",
+      "score": 4,
+      "category": "Research",
+      "suggested_angle": "Revisiting the books3 dataset controversy and copyright implications for generative AI.",
+      "why_now": "Older Atlantic article resurfaced on Hacker News; lacks fresh legal news angle.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "above-the-law-legaltech-2",
+      "score": 3,
+      "category": "Social",
+      "suggested_angle": "SCOTUS decorum: Gorsuch and Sotomayor's working relationship.",
+      "why_now": "General legal culture commentary with no AI or regulatory nexus.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-3",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "Multi-turn safety architectures for generative AI in mental health support.",
+      "why_now": "Academic paper on mental health safety architectures, too far from core legal tech/regulation scope.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-4",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "Exploring high-level semantic intelligence in recent AI architectures.",
+      "why_now": "Broad theoretical computer science preprint.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-5",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Multimodal mining of battery literature using X-ray absorption spectroscopy data.",
+      "why_now": "Materials science paper; irrelevant to legal AI.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-6",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "Persistent workspaces for long-lived coding agent teams using Claude Code.",
+      "why_now": "General software engineering tooling paper.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-7",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "Evaluating LLMs for symbolic security protocol analysis.",
+      "why_now": "Cybersecurity verification research paper.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-8",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "Testing LLM consistency and reliability beyond simple accuracy benchmarks.",
+      "why_now": "Standard academic preprint on LLM reliability evaluation.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-9",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "Horizontal scaling laws for mixture-of-LLMs architectures.",
+      "why_now": "Core ML infrastructure paper.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-10",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "Collaborative serving optimizations for multiple concurrent LLM workflows.",
+      "why_now": "Systems engineering preprint on model serving efficiency.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-11",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "Multi-objective evidence reasoning for clinical decision-making literature.",
+      "why_now": "Medical informatics paper.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-12",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "Verification-first biological novelty screening using LLM research agents.",
+      "why_now": "Biotech research automation preprint.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-13",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "Memory-induced inference-time adaptation for continual learning in small language models.",
+      "why_now": "Machine learning optimization paper.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-14",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "Long-context multi-session medical dialogue benchmarking for LLMs.",
+      "why_now": "Medical NLP benchmark release.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-15",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "Temporal context reinstatement and episodic-like order memory in long-context LLMs.",
+      "why_now": "Cognitive modeling preprint for neural networks.",
+      "verdict": "drop",
+      "duplicate_of": null
+    }
+  ],
+  "summary": {
+    "enqueue_count": 0,
+    "watch_count": 0,
+    "drop_count": 16,
+    "notes": "All shortlisted items are either generic developer docs, old recycled reporting, general legal culture commentary, or out-of-scope CS/AI research preprints lacking a direct legal or regulatory nexus."
+  },
+  "enqueued": 0,
+  "usage": {
+    "input_tokens": 4722,
+    "output_tokens": 1572,
+    "total_tokens": 6294
+  }
 }
