@@ -2002,7 +2002,58 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat",
+      "slug": "a-dark-money-campaign-is-paying-influencers-to-frame-chinese-ai-as-a-threat",
+      "score": 7,
+      "category": "Policy",
+      "story_type": "news",
+      "research_brief": "Article URL: https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/ Comments URL: https://news.ycombinator.com/item?id=49101395 Points: 5 # Comments: 1",
+      "primary_source": "https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "Lobbying and influence campaigns involving major AI players like OpenAI.",
+      "why_now": "Wired investigative piece touching on foundational model policy influence.",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Hacker News (filtered)",
+      "source_tier": "B",
+      "prefilter_score": 7,
+      "matched_terms": [
+        "OpenAI"
+      ],
+      "fingerprint": {
+        "entities": [
+          "openai"
+        ],
+        "numerics": [
+          "49m"
+        ],
+        "keywords": [],
+        "title_tokens": [
+          "dark",
+          "money",
+          "campaign",
+          "paying",
+          "influencers",
+          "frame",
+          "chinese",
+          "ai",
+          "threat"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-07-29T19:06:00.240Z",
+      "queued_at": "2026-07-29T19:06:00.242Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-07-27T19:19:20.726Z"
+  "last_updated": "2026-07-29T19:06:00.243Z"
 }

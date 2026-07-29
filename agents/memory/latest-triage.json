@@ -1,15 +1,83 @@
 {
-  "generated": "2026-07-29T18:52:21.965Z",
+  "generated": "2026-07-29T19:06:00.243Z",
   "cycle_type": "triage",
-  "shortlist_size": 0,
-  "picks": [],
+  "tier_filter": "B",
+  "shortlist_size": 6,
   "prefilter": {
     "total": 40,
-    "accepted": 1,
+    "accepted": 22,
     "borderline": 0,
-    "rejected": 39,
-    "rejected_as_duplicate": 39,
-    "accept_rate": 3
+    "rejected": 18,
+    "rejected_as_duplicate": 18,
+    "accept_rate": 55
   },
-  "skipped_already_triaged": 1
+  "model": "gemini-flash-lite-latest",
+  "picks": [
+    {
+      "id": "ars-technica-ai-0",
+      "score": 3,
+      "category": "Legal AI",
+      "suggested_angle": "Anthropic security updates and bug discovery rates.",
+      "why_now": "General security news rather than legal tech or regulatory focus.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "hacker-news-1",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Developer utilities for context preservation.",
+      "why_now": "Purely general software engineering gist with no legal angle.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "hacker-news-2",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Terminal tools for undoing AI actions.",
+      "why_now": "General developer tooling, low relevance to legal practitioners.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "hacker-news-3",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Isolated environments for AI agents.",
+      "why_now": "General developer tooling utility.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "hacker-news-4",
+      "score": 7,
+      "category": "Policy",
+      "suggested_angle": "Lobbying and influence campaigns involving major AI players like OpenAI.",
+      "why_now": "Wired investigative piece touching on foundational model policy influence.",
+      "verdict": "enqueue",
+      "duplicate_of": null
+    },
+    {
+      "id": "hacker-news-5",
+      "score": 2,
+      "category": "Social",
+      "suggested_angle": "Software project management theories in the age of AI.",
+      "why_now": "General discussion thread on Hacker News.",
+      "verdict": "drop",
+      "duplicate_of": null
+    }
+  ],
+  "summary": {
+    "enqueue_count": 1,
+    "watch_count": 0,
+    "drop_count": 5,
+    "notes": "Filtered out general developer gists and security news; kept Wired investigation on AI lobbying."
+  },
+  "enqueued": 1,
+  "usage": {
+    "input_tokens": 3009,
+    "output_tokens": 598,
+    "total_tokens": 3607
+  }
 }
