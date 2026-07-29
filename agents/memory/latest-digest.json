@@ -1,23 +1,11 @@
 {
-  "generated": "2026-07-28T23:48:59.258Z",
+  "generated": "2026-07-29T01:23:22.375Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 751,
+  "total_scanned": 752,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
-    {
-      "title": "Goldman Sachs, JPMorgan Invest In Legal AI Co. Harvey - Law360",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLUNwaVZLdjVzdVNrNGV6aXROaWRPc0pkR1Z1a1kyLXg4VGd2MTRpdHNobVpKZ0RBYURzMGgyVTZKUWZNdUd1NURKUlk3RFJYVk1SeDRMMjVhM0RXVHpqdTRzdGN5U2J0SmdnZ0YzS3RhcGxSRVB4LXVvcFUtY0ZyOXg4S3c3bnVUVDg2dDdDNVVEVmFvUXfSAV5BVV95cUxONU9WRmFTUm42TVlIN2I5dVdxRTNaNFNEWHAtUEYyeFJPeWkxX1plb0pLVDBCczRlN3dyemtsZm51WnhyRjFkdVBOaUhrVjVjS2ZzMkh1am1RRXB0Ukxn?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPLUNwaVZLdjVzdVNrNGV6aXROaWRPc0pkR1Z1a1kyLXg4VGd2MTRpdHNobVpKZ0RBYURzMGgyVTZKUWZNdUd1NURKUlk3RFJYVk1SeDRMMjVhM0RXVHpqdTRzdGN5U2J0SmdnZ0YzS3RhcGxSRVB4LXVvcFUtY0ZyOXg4S3c3bnVUVDg2dDdDNVVEVmFvUXfSAV5BVV95cUxONU9WRmFTUm42TVlIN2I5dVdxRTNaNFNEWHAtUEYyeFJPeWkxX1plb0pLVDBCczRlN3dyemtsZm51WnhyRjFkdVBOaUhrVjVjS2ZzMkh1am1RRXB0Ukxn?oc=5\" target=\"_blank\"&gt;Goldman Sachs, JPMorgan Invest In Legal AI Co. Harvey&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;fo",
-      "published": "2026-07-28T20:01:00.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 9
-    },
     {
       "title": "Harvey Forum + Shared Spaces, Clio, Spellbook, Legal Innovators - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWDZZRVZBVWx3ckRDeE96a1ZYWTJxVldZUHNwYWl2eHdrUDZKc2xXSmRYVHRheXlISnI5SVpKdmlYTHdOWVRwb3VneFBHMlZhcnlyOWNiZHJuUkNTLXhINlgwRnJzZlNCU0JYQ2k2R2RrUFN3dlRoT3k0ckM5NDRZRHZ2UjAzQWVfQXNRcm9lM2w2LVdmRUxvMmwyVXkzS2Y2XzlnTTNn?oc=5",
@@ -175,10 +163,10 @@
       "relevance_score": 7
     },
     {
-      "title": "Best Legal AI Tools for In-House Counsel and Law Firms - Bloomberg Law",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNmowcjNuZDNLVmZTRGpQeUdsRmNDTV8wNWNmSllBYl9RYS1xYTNpenkxNGhnQW5jZVdTUU94SDdzTmR1T1VSMFF1cUlIV0VyXzJoZFEzNGh1N3kyU3JpaWdBNnJmdG1ETDl5ZFNNN0dXamIxUlVnYll5YkhnYXpqWkYwM3RpVEpnd1cyeFhMYXJpYW1KLXFxdV9RSUJHTXptRnYzbXRCLUt0cnA1elE?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNNmowcjNuZDNLVmZTRGpQeUdsRmNDTV8wNWNmSllBYl9RYS1xYTNpenkxNGhnQW5jZVdTUU94SDdzTmR1T1VSMFF1cUlIV0VyXzJoZFEzNGh1N3kyU3JpaWdBNnJmdG1ETDl5ZFNNN0dXamIxUlVnYll5YkhnYXpqWkYwM3RpVEpnd1cyeFhMYXJpYW1KLXFxdV9RSUJHTXptRnYzbXRCLUt0cnA1elE?oc=5\" target=\"_blank\"&gt;Best Legal AI Tools for In-House Counsel and Law Firms&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Bloomberg Law&lt;/font&gt;",
-      "published": "2026-07-28T18:29:30.000Z",
+      "title": "OpenAI hires Ironclad co-founder as tech giant moves into legaltech - The Global Legal Post",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaUR0RkgzbVhTczZLZjRFMnRpN2JLT0l3OUllYnVVWEFKbFVqNzl0ZGc1a29tMWdKY3EyUGpndXlaX09UY1VBZVBoRy02S1ZPMHpzV0ZCTDc5ZnpWSTRfNnl2SmhiYU5EODFaTW5JbU5ld3Bkc2NHbF9STmo4RzhMWTBuUTlfU3BoYXdkZHloWlNNZ1lLbldPSDYzYXptYnRlTzZaYkhMODI2TmlxWk1oSzNDZHNnZw?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPaUR0RkgzbVhTczZLZjRFMnRpN2JLT0l3OUllYnVVWEFKbFVqNzl0ZGc1a29tMWdKY3EyUGpndXlaX09UY1VBZVBoRy02S1ZPMHpzV0ZCTDc5ZnpWSTRfNnl2SmhiYU5EODFaTW5JbU5ld3Bkc2NHbF9STmo4RzhMWTBuUTlfU3BoYXdkZHloWlNNZ1lLbldPSDYzYXptYnRlTzZaYkhMODI2TmlxWk1oSzNDZHNnZw?oc=5\" target=\"_blank\"&gt;OpenAI hires Ironclad co-founder as tech giant moves into legaltech&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Global Legal Post&lt;/font&gt;",
+      "published": "2026-06-02T07:00:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
@@ -479,6 +467,18 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQzJDM2Zxdks1eDYzTDNNZ1RuRXZ6Njh2SFFuVFFITmxhdF9lYzR3ZVRzZ1R6bEFnMHNNTHdodzJaVmxMNlZSWlp4S2xhY0VWdThHV3JQVktjNTlfUzE2QlhucDlTNFhhOTRCYUl2aDMyaHUzR3B4T2YtazktdnpmVFg4X0RJdkJqWFVQaVJNcDJsejF0YWpMelNkamhkbTQ4R0F0STdVTWpqRlBTMFBnUkF4R2s1U1d1NGVNYzFKcjFiTllL?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQQzJDM2Zxdks1eDYzTDNNZ1RuRXZ6Njh2SFFuVFFITmxhdF9lYzR3ZVRzZ1R6bEFnMHNNTHdodzJaVmxMNlZSWlp4S2xhY0VWdThHV3JQVktjNTlfUzE2QlhucDlTNFhhOTRCYUl2aDMyaHUzR3B4T2YtazktdnpmVFg4X0RJdkJqWFVQaVJNcDJsejF0YWpMelNkamhkbTQ4R0F0STdVTWpqRlBTMFBnUkF4R2s1U1d1NGVNYzFKcjFiTllL?oc=5\" target=\"_blank\"&gt;Harvey announces partnership with Swiss legal AI intelligence platform DeepJudge&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Global Legal Po",
       "published": "2026-05-21T07:00:00.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 5
+    },
+    {
+      "title": "Claude for Legal: What the industry needs to know - Legal IT Insider",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaTk1d0FIT01YOFFzWUlxSFh6cGZza21GcEx0VWY4VWNnd1FnNkx2eDE2ZFNPZmZadDRGVmZoSTBlSEJjR21fanp4MzNWTGF1QTR2SDlCdlNka25MU0kySG5oSUZQdnRnbDhPMHhyX3dlbFN0eFdFZkdEVEZ5OE5RSUJGNA?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOaTk1d0FIT01YOFFzWUlxSFh6cGZza21GcEx0VWY4VWNnd1FnNkx2eDE2ZFNPZmZadDRGVmZoSTBlSEJjR21fanp4MzNWTGF1QTR2SDlCdlNka25MU0kySG5oSUZQdnRnbDhPMHhyX3dlbFN0eFdFZkdEVEZ5OE5RSUJGNA?oc=5\" target=\"_blank\"&gt;Claude for Legal: What the industry needs to know&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Legal IT Insider&lt;/font&gt;",
+      "published": "2026-05-13T07:00:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
