@@ -1,15 +1,56 @@
 {
-  "generated": "2026-07-30T12:22:23.677Z",
+  "generated": "2026-07-30T13:46:53.228Z",
   "cycle_type": "triage",
-  "shortlist_size": 0,
-  "picks": [],
+  "tier_filter": "B",
+  "shortlist_size": 3,
   "prefilter": {
     "total": 40,
-    "accepted": 1,
+    "accepted": 24,
     "borderline": 0,
-    "rejected": 39,
-    "rejected_as_duplicate": 39,
-    "accept_rate": 3
+    "rejected": 16,
+    "rejected_as_duplicate": 16,
+    "accept_rate": 60
   },
-  "skipped_already_triaged": 1
+  "model": "gemini-flash-lite-latest",
+  "picks": [
+    {
+      "id": "arxiv-cs-ai-0",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "Autonomous LLM agents applied to intelligent document processing pipelines.",
+      "why_now": "Pure arXiv paper on document processing pipelines lacking a specific legal or immigration application hook.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-1",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "Decoupled visual processing for multimodal LLMs.",
+      "why_now": "Pure technical machine learning research without direct legal industry applicability.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-2",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "Latent reasoning for foundation recommendation models.",
+      "why_now": "General recommendation systems research with no legal tech or regulatory context.",
+      "verdict": "drop",
+      "duplicate_of": null
+    }
+  ],
+  "summary": {
+    "enqueue_count": 0,
+    "watch_count": 0,
+    "drop_count": 3,
+    "notes": "All shortlist items are pure arXiv machine learning papers lacking direct legal, immigration, or regulatory application hooks."
+  },
+  "enqueued": 0,
+  "usage": {
+    "input_tokens": 2469,
+    "output_tokens": 355,
+    "total_tokens": 2824
+  }
 }
