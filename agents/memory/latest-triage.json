@@ -1,92 +1,15 @@
 {
-  "generated": "2026-07-30T19:17:38.789Z",
+  "generated": "2026-07-30T20:53:50.538Z",
   "cycle_type": "triage",
-  "tier_filter": "B",
-  "shortlist_size": 7,
+  "shortlist_size": 0,
+  "picks": [],
   "prefilter": {
     "total": 40,
-    "accepted": 18,
-    "borderline": 1,
-    "rejected": 21,
-    "rejected_as_duplicate": 21,
-    "accept_rate": 45
+    "accepted": 2,
+    "borderline": 0,
+    "rejected": 38,
+    "rejected_as_duplicate": 38,
+    "accept_rate": 5
   },
-  "model": "gemini-flash-lite-latest",
-  "picks": [
-    {
-      "id": "ars-technica-ai-0",
-      "score": 3,
-      "category": "Research",
-      "suggested_angle": "Google updates robotics models.",
-      "why_now": "Not relevant to legal tech or AI regulation.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "hacker-news-1",
-      "score": 3,
-      "category": "Policy",
-      "suggested_angle": "Physical security issues at data center sites.",
-      "why_now": "General infrastructure news, lacks specific legal or regulatory nexus.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "above-the-law-legaltech-2",
-      "score": 5,
-      "category": "Adoption",
-      "suggested_angle": "Sponsored content on agentic AI in contract management.",
-      "why_now": "Sponsored webinar promotion with limited primary reporting value.",
-      "verdict": "watch",
-      "duplicate_of": null
-    },
-    {
-      "id": "above-the-law-legaltech-3",
-      "score": 6,
-      "category": "Legal AI",
-      "suggested_angle": "The rising challenge of fabricated AI evidence in litigation.",
-      "why_now": "Addresses evidentiary reliability risks in courts, aligning with ongoing litigation concerns.",
-      "verdict": "watch",
-      "duplicate_of": null
-    },
-    {
-      "id": "hacker-news-4",
-      "score": 2,
-      "category": "Policy",
-      "suggested_angle": "Google Chrome security updates.",
-      "why_now": "Generic browser security update.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "hacker-news-5",
-      "score": 3,
-      "category": "Research",
-      "suggested_angle": "Perspectives on AI development workflows.",
-      "why_now": "Developer opinion piece without legal vertical relevance.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "hacker-news-6",
-      "score": 5,
-      "category": "Legal AI",
-      "suggested_angle": "Open source differential-privacy gateway for LLM agents.",
-      "why_now": "Technical tool for secure data handling, relevant to legal tech privacy requirements but early-stage.",
-      "verdict": "watch",
-      "duplicate_of": null
-    }
-  ],
-  "summary": {
-    "enqueue_count": 0,
-    "watch_count": 3,
-    "drop_count": 4,
-    "notes": "Low-value shortlist with no strong primary legal AI news hooks today; dropped generic tech and retained a few items for possible commentary."
-  },
-  "enqueued": 0,
-  "usage": {
-    "input_tokens": 3190,
-    "output_tokens": 708,
-    "total_tokens": 3898
-  }
+  "skipped_already_triaged": 2
 }
