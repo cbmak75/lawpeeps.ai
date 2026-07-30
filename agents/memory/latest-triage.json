@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-30T17:15:06.316Z",
+  "generated": "2026-07-30T19:06:34.042Z",
   "cycle_type": "triage",
-  "tier_filter": "A",
-  "shortlist_size": 1,
+  "shortlist_size": 0,
+  "picks": [],
   "prefilter": {
     "total": 40,
     "accepted": 2,
@@ -11,28 +11,5 @@
     "rejected_as_duplicate": 38,
     "accept_rate": 5
   },
-  "model": "gemini-flash-lite-latest",
-  "picks": [
-    {
-      "id": "google-news-legal-ai-0",
-      "score": 4,
-      "category": "Legal AI",
-      "suggested_angle": "Filevine offers free professional legal AI tools with LOIS Explore launch",
-      "why_now": "Standard vendor press release announcing a free tier of a proprietary legal AI assistant.",
-      "verdict": "drop",
-      "duplicate_of": null
-    }
-  ],
-  "summary": {
-    "enqueue_count": 0,
-    "watch_count": 0,
-    "drop_count": 1,
-    "notes": "Dropped the Filevine press release due to low independent news value."
-  },
-  "enqueued": 0,
-  "usage": {
-    "input_tokens": 2417,
-    "output_tokens": 172,
-    "total_tokens": 2589
-  }
+  "skipped_already_triaged": 2
 }

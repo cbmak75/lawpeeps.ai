@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-30T17:13:17.712Z",
+  "generated": "2026-07-30T19:06:34.013Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 775,
+  "total_scanned": 777,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -67,9 +67,9 @@
       "relevance_score": 8
     },
     {
-      "title": "EvenUp, AI Software For Personal Injury Law, Doubles Valuation To $2B As Legal Tech Funding Hits Record High - news.crunchbase.com",
+      "title": "EvenUp, AI Software For Personal Injury Law, Doubles Valuation To $2B As Legal Tech Funding Hits Record High - Crunchbase News",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY2p6WWxfeE1ZZDJxQXJPOWtrR2VZdkxlSkFtck03QWJtOU1YcGtHUFBlZllXMXkxeXRlcHhfZU9vR0VMU1JUS0FYMGNUSXZ0UnVRSU5YRVZuWERkU29MVFYzYjNtdHN6OUZGU3JlNWpLcDI3eTRwam5fVkhUSzU2WFdtX0daQUNseG50YzRpTQ?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQY2p6WWxfeE1ZZDJxQXJPOWtrR2VZdkxlSkFtck03QWJtOU1YcGtHUFBlZllXMXkxeXRlcHhfZU9vR0VMU1JUS0FYMGNUSXZ0UnVRSU5YRVZuWERkU29MVFYzYjNtdHN6OUZGU3JlNWpLcDI3eTRwam5fVkhUSzU2WFdtX0daQUNseG50YzRpTQ?oc=5\" target=\"_blank\"&gt;EvenUp, AI Software For Personal Injury Law, Doubles Valuation To $2B As Legal Tech Funding Hits Record High&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;news.crunchbase.com&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQY2p6WWxfeE1ZZDJxQXJPOWtrR2VZdkxlSkFtck03QWJtOU1YcGtHUFBlZllXMXkxeXRlcHhfZU9vR0VMU1JUS0FYMGNUSXZ0UnVRSU5YRVZuWERkU29MVFYzYjNtdHN6OUZGU3JlNWpLcDI3eTRwam5fVkhUSzU2WFdtX0daQUNseG50YzRpTQ?oc=5\" target=\"_blank\"&gt;EvenUp, AI Software For Personal Injury Law, Doubles Valuation To $2B As Legal Tech Funding Hits Record High&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Crunchbase News&lt;/font&gt;",
       "published": "2025-10-07T07:00:00.000Z",
       "source_id": "google-news-legal-tech-funding",
       "source_name": "Google News: legal tech funding",
@@ -127,9 +127,9 @@
       "relevance_score": 7
     },
     {
-      "title": "The Legal AI Scaffold Changes Everything – Claude Study - Artificial Lawyer",
+      "title": "The Legal AI Scaffold Changes Everything – Claude Study - artificiallawyer.com",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQU4tdGFPSGFaaGo0NGRvdnhxMUhYQ3pSd18td3lld2ZRd2xiQkVwWUQ0Z1lhR3IwdGstdE5STUVBTzdqdkxvbnhWUTVwZ0Y5MDNqT1hHV0RDUGVldzI5R2JrdEtaZ2NfYWNDVERjN1o5QWFqeGFTTEp6VDB1S19id3VoOUZUbzQ0eDdwNzJHNzdvYzRNWUh5cFV6UnhXOE0?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNQU4tdGFPSGFaaGo0NGRvdnhxMUhYQ3pSd18td3lld2ZRd2xiQkVwWUQ0Z1lhR3IwdGstdE5STUVBTzdqdkxvbnhWUTVwZ0Y5MDNqT1hHV0RDUGVldzI5R2JrdEtaZ2NfYWNDVERjN1o5QWFqeGFTTEp6VDB1S19id3VoOUZUbzQ0eDdwNzJHNzdvYzRNWUh5cFV6UnhXOE0?oc=5\" target=\"_blank\"&gt;The Legal AI Scaffold Changes Everything – Claude Study&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNQU4tdGFPSGFaaGo0NGRvdnhxMUhYQ3pSd18td3lld2ZRd2xiQkVwWUQ0Z1lhR3IwdGstdE5STUVBTzdqdkxvbnhWUTVwZ0Y5MDNqT1hHV0RDUGVldzI5R2JrdEtaZ2NfYWNDVERjN1o5QWFqeGFTTEp6VDB1S19id3VoOUZUbzQ0eDdwNzJHNzdvYzRNWUh5cFV6UnhXOE0?oc=5\" target=\"_blank\"&gt;The Legal AI Scaffold Changes Everything – Claude Study&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;artificiallawyer.com&lt;/font&gt;",
       "published": "2026-06-22T07:00:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
@@ -151,18 +151,6 @@
       "relevance_score": 7
     },
     {
-      "title": "Founder Traits And One Big AI Test: How Former NEA Partner Vanessa Larco Picks Winners",
-      "url": "https://news.crunchbase.com/seed/vanessa-larco-nea-premise-vc-investment-thesis-seed-ai/",
-      "summary": "Crunchbase News talks with former NEA partner Vanessa Larco about how she evaluates startups based on founder potential rather than initial ideas and how she looks for teams that leverage AI to make products dramatically faster, cheaper, or easier to use.",
-      "published": "2026-07-30T13:00:44.000Z",
-      "source_id": "crunchbase-news",
-      "source_name": "Crunchbase News",
-      "source_priority": "high",
-      "source_tier": "A",
-      "source_category": "Funding / M&A",
-      "relevance_score": 7
-    },
-    {
       "title": "Filevine Launches LOIS Explore: Professional-Grade Legal AI Now Free to Use - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWS1rY3RKNzZhWjE5VmNuSGVxR3RjRlBPZDB3dVlheHJZMDZQekZ0SE9vcEZYaS1iQ2tEb09DZEFjaG1XRlVRRlBNb0JFMDRhUUdFb0lKWXlvZ2U3RzZTUnM3ZnNmZExCZUxROFFjdkxzSEMtUFNTcW9VWmwtV016Y3NDSlp4YnJybXBLWEUtUnZlLWxtN1hpUWk3T29BcDNwZ3lvOEZQc1NPeDZYOTU1SkVwZVZhM00zRVZ2RktTUm1uaHBoRUlvMi1R?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQWS1rY3RKNzZhWjE5VmNuSGVxR3RjRlBPZDB3dVlheHJZMDZQekZ0SE9vcEZYaS1iQ2tEb09DZEFjaG1XRlVRRlBNb0JFMDRhUUdFb0lKWXlvZ2U3RzZTUnM3ZnNmZExCZUxROFFjdkxzSEMtUFNTcW9VWmwtV016Y3NDSlp4YnJybXBLWEUtUnZlLWxtN1hpUWk3T29BcDNwZ3lvOEZQc1NPeDZYOTU1SkVwZVZhM00zRVZ2RktTUm1uaHBoRUlvMi1R?oc=5\" target=\"_blank\"&gt;Filevine Launches LOIS Explore: Professional-Grade Legal AI Now Free to Use&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;PR Newswire&lt;/",
@@ -175,7 +163,7 @@
       "relevance_score": 6
     },
     {
-      "title": "Vikk AI Raises $4.2M in Funding to Expand Legal AI Platform and AI-Powered Lawyer Advertising - theaiinsider.tech",
+      "title": "Vikk AI Raises $4.2M in Funding to Expand Legal AI Platform and AI-Powered Lawyer Advertising - AI Insider",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcDZyLXhQMlIwRnhEV0ZfRW1aWUxCY3JLakJNY29DdnRIa3h4YkxtbzY3YmlYY3owdVQtbDJlQk13S3dsWnE0X0hfdUQzTVJFaVotaGtZNWwzMy1MaU5aWXhMOUNCMTFvQ09WVkdRRHpvZ1F0X1RQYkFVdUtNWEtTTFFENmVHNG13UDE0OWlfdnpQb3BLUEFBejV5VDRaN0c4TVJPZmQxUXo3NlB6REwwbnB4WEJzWFExMUl2X3dKWUlEdDlWQTM2V0dn?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNcDZyLXhQMlIwRnhEV0ZfRW1aWUxCY3JLakJNY29DdnRIa3h4YkxtbzY3YmlYY3owdVQtbDJlQk13S3dsWnE0X0hfdUQzTVJFaVotaGtZNWwzMy1MaU5aWXhMOUNCMTFvQ09WVkdRRHpvZ1F0X1RQYkFVdUtNWEtTTFFENmVHNG13UDE0OWlfdnpQb3BLUEFBejV5VDRaN0c4TVJPZmQxUXo3NlB6REwwbnB4WEJzWFExMUl2X3dKWUlEdDlWQTM2V0dn?oc=5\" target=\"_blank\"&gt;Vikk AI Raises $4.2M in Funding to Expand Legal AI Platform and AI-Powered Lawyer Advertising&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&g",
       "published": "2026-07-30T16:33:04.000Z",
@@ -271,9 +259,9 @@
       "relevance_score": 6
     },
     {
-      "title": "Harvey AI Number of Employees 2026 | Employee Count &amp; Headcount Data - reveliolabs.com",
+      "title": "Harvey AI Number of Employees 2026 | Employee Count &amp; Headcount Data - Revelio Labs",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KTk5TLXY5ZGxUTTJxLXRkaUpoNTdwWk01Q3R1R1JaYVM4OVdLYTNhZjVkY3JTbUZDdGY3WDd1SUY2cWUtbkJEWjdubjNKYXN0czNqMVcyNHN0cUd3TFlQbjZvZTJlZ1BL?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KTk5TLXY5ZGxUTTJxLXRkaUpoNTdwWk01Q3R1R1JaYVM4OVdLYTNhZjVkY3JTbUZDdGY3WDd1SUY2cWUtbkJEWjdubjNKYXN0czNqMVcyNHN0cUd3TFlQbjZvZTJlZ1BL?oc=5\" target=\"_blank\"&gt;Harvey AI Number of Employees 2026 | Employee Count &amp; Headcount Data&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;reveliolabs.com&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KTk5TLXY5ZGxUTTJxLXRkaUpoNTdwWk01Q3R1R1JaYVM4OVdLYTNhZjVkY3JTbUZDdGY3WDd1SUY2cWUtbkJEWjdubjNKYXN0czNqMVcyNHN0cUd3TFlQbjZvZTJlZ1BL?oc=5\" target=\"_blank\"&gt;Harvey AI Number of Employees 2026 | Employee Count &amp; Headcount Data&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Revelio Labs&lt;/font&gt;",
       "published": "2026-04-22T15:13:24.000Z",
       "source_id": "google-news-harvey-luminance",
       "source_name": "Google News: Harvey OR Luminance",
@@ -367,7 +355,7 @@
       "relevance_score": 6
     },
     {
-      "title": "This Open Source RP2040 Development Board Looks Like a Magic Spellbook - hackster.io",
+      "title": "This Open Source RP2040 Development Board Looks Like a Magic Spellbook - Hackster.io",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORnVSUlF6azgxa3lnMFFGVmU2dWdTeWRSOE1MV0JtdkViWVNhWkozazFKdy1Xb1FlS3RaTVRxeHExODhPdi1QY2I0UFVPMDdxX2hFdmpUUE5qeFpiX0xrNktLbUZ0Qm96ckY0UlI0enkyTmZVYmpQZmN2b3ByMV9zWnlGVFRnc3ZYLWdHQWdVU3U5WFJLb05YV2E0NlQzWHZCdUNXb2xnMmlsZnNtdzNhdnZ30gG3AUFVX3lxTE5FaHA3Szl0Z2N0ZWUySEJxOFVKUjdGeFdWcF96YUFqdXJpT2VJOG1pcUhwOXgtLWlHOWFXTGhxVVRJeTdZT21mLTJ3cmlydFJMT1hOX3ZhcDFkaUU5MWc5Z1FWV3Z1c2VFLU5pejVmai1Pa19hVUZ5ekc0YnFwWGlSWk9xbndOWVNTVm5FWUFkRE1DQjdoc0RiVnZFb0VjcU1PTS1QNkd4eHExV2ZwLUFVYVhHcHVqZw?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxORnVSUlF6azgxa3lnMFFGVmU2dWdTeWRSOE1MV0JtdkViWVNhWkozazFKdy1Xb1FlS3RaTVRxeHExODhPdi1QY2I0UFVPMDdxX2hFdmpUUE5qeFpiX0xrNktLbUZ0Qm96ckY0UlI0enkyTmZVYmpQZmN2b3ByMV9zWnlGVFRnc3ZYLWdHQWdVU3U5WFJLb05YV2E0NlQzWHZCdUNXb2xnMmlsZnNtdzNhdnZ30gG3AUFVX3lxTE5FaHA3Szl0Z2N0ZWUySEJxOFVKUjdGeFdWcF96YUFqdXJpT2VJOG1pcUhwOXgtLWlHOWFXTGhxVVRJeTdZT21mLTJ3cmlydFJMT1hOX3ZhcDFkaUU5MWc5Z1FWV3Z1c2VFLU5pejVmai1Pa19hVUZ5ekc0YnFwWGlSWk9xbndOWVNTVm5FWUFkRE1DQjdoc0R",
       "published": "2026-05-28T12:11:48.000Z",
@@ -415,9 +403,9 @@
       "relevance_score": 5
     },
     {
-      "title": "OpenAI Partners With Willkie to Build Custom Legal AI Tools - Bloomberg Law News",
+      "title": "OpenAI Partners With Willkie to Build Custom Legal AI Tools - news.bloomberglaw.com",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdDN0bU93M3NvdzNwVUNaUFh2TU0yODd5bEc0OHVjc243dmFkNVRsQi1YdFpPa0RRUk5XbF9mUm05Yll6enB3RkNfVVByY29ab0YyUWVWdGdtNk92S0FYTmdyc3BkM0tIU1NFN25QNlN4cFJjbHpjYU9jbl81a012alVUb1d1Um5aTHZ1Nm9CcjlGQXFjNE5WRU96RC1yWGpxZGRkME1MOW5PTFc4?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNdDN0bU93M3NvdzNwVUNaUFh2TU0yODd5bEc0OHVjc243dmFkNVRsQi1YdFpPa0RRUk5XbF9mUm05Yll6enB3RkNfVVByY29ab0YyUWVWdGdtNk92S0FYTmdyc3BkM0tIU1NFN25QNlN4cFJjbHpjYU9jbl81a012alVUb1d1Um5aTHZ1Nm9CcjlGQXFjNE5WRU96RC1yWGpxZGRkME1MOW5PTFc4?oc=5\" target=\"_blank\"&gt;OpenAI Partners With Willkie to Build Custom Legal AI Tools&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Bloomberg Law News&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNdDN0bU93M3NvdzNwVUNaUFh2TU0yODd5bEc0OHVjc243dmFkNVRsQi1YdFpPa0RRUk5XbF9mUm05Yll6enB3RkNfVVByY29ab0YyUWVWdGdtNk92S0FYTmdyc3BkM0tIU1NFN25QNlN4cFJjbHpjYU9jbl81a012alVUb1d1Um5aTHZ1Nm9CcjlGQXFjNE5WRU96RC1yWGpxZGRkME1MOW5PTFc4?oc=5\" target=\"_blank\"&gt;OpenAI Partners With Willkie to Build Custom Legal AI Tools&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;news.bloomberglaw.com&lt;/font&gt;",
       "published": "2026-07-22T07:00:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
@@ -451,9 +439,9 @@
       "relevance_score": 5
     },
     {
-      "title": "What Legal AI Benchmarks Reveal That Model Names Don’t - Artificial Lawyer",
+      "title": "What Legal AI Benchmarks Reveal That Model Names Don’t - artificiallawyer.com",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUDVZYWQ2dy05eC1DNmZnQ09zb0xYcG9ZeFkwNkFzd3VHS2hBTEt6WTZpcVcxd2E2VjVPUzlXM1B0azl3VG9mLU1OQk1oMXVUN3RqRDlYVzF2MjZfSHdXa25NYl9JVzI2RzljWUhHd3BIYk52OEpXZUtjVDZ4OGRNal96UXAxWV9tMnc4aHd1UmNBREg2NlEwTGQwN1hXeWc?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPUDVZYWQ2dy05eC1DNmZnQ09zb0xYcG9ZeFkwNkFzd3VHS2hBTEt6WTZpcVcxd2E2VjVPUzlXM1B0azl3VG9mLU1OQk1oMXVUN3RqRDlYVzF2MjZfSHdXa25NYl9JVzI2RzljWUhHd3BIYk52OEpXZUtjVDZ4OGRNal96UXAxWV9tMnc4aHd1UmNBREg2NlEwTGQwN1hXeWc?oc=5\" target=\"_blank\"&gt;What Legal AI Benchmarks Reveal That Model Names Don’t&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPUDVZYWQ2dy05eC1DNmZnQ09zb0xYcG9ZeFkwNkFzd3VHS2hBTEt6WTZpcVcxd2E2VjVPUzlXM1B0azl3VG9mLU1OQk1oMXVUN3RqRDlYVzF2MjZfSHdXa25NYl9JVzI2RzljWUhHd3BIYk52OEpXZUtjVDZ4OGRNal96UXAxWV9tMnc4aHd1UmNBREg2NlEwTGQwN1hXeWc?oc=5\" target=\"_blank\"&gt;What Legal AI Benchmarks Reveal That Model Names Don’t&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;artificiallawyer.com&lt;/font&gt;",
       "published": "2026-06-22T07:00:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
@@ -463,9 +451,9 @@
       "relevance_score": 5
     },
     {
-      "title": "Harvey’s next move: building its own legal AI model - Non-Billable",
+      "title": "Harvey’s next move: building its own legal AI model - nonbillable.co.uk",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRHU1R3NHaFQ1ODduU1I0WFlDWFpzd2lKQnU4bDhMX0xBMXZybi1PaGlqcnBRbzJXRmFQNDFpdDRHYU9iclNkeGF3RW5SeXFsWmhSQnhLVmxQT0FDUHZYZ21SNDVZSlZqeTNYVEZzb2UtbkI0WmwxQzVVMXp3Z0JMZUgxcjlPY2lCaWhObVF3?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPRHU1R3NHaFQ1ODduU1I0WFlDWFpzd2lKQnU4bDhMX0xBMXZybi1PaGlqcnBRbzJXRmFQNDFpdDRHYU9iclNkeGF3RW5SeXFsWmhSQnhLVmxQT0FDUHZYZ21SNDVZSlZqeTNYVEZzb2UtbkI0WmwxQzVVMXp3Z0JMZUgxcjlPY2lCaWhObVF3?oc=5\" target=\"_blank\"&gt;Harvey’s next move: building its own legal AI model&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Non-Billable&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPRHU1R3NHaFQ1ODduU1I0WFlDWFpzd2lKQnU4bDhMX0xBMXZybi1PaGlqcnBRbzJXRmFQNDFpdDRHYU9iclNkeGF3RW5SeXFsWmhSQnhLVmxQT0FDUHZYZ21SNDVZSlZqeTNYVEZzb2UtbkI0WmwxQzVVMXp3Z0JMZUgxcjlPY2lCaWhObVF3?oc=5\" target=\"_blank\"&gt;Harvey’s next move: building its own legal AI model&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;nonbillable.co.uk&lt;/font&gt;",
       "published": "2026-06-18T07:00:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
@@ -479,6 +467,18 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQzJDM2Zxdks1eDYzTDNNZ1RuRXZ6Njh2SFFuVFFITmxhdF9lYzR3ZVRzZ1R6bEFnMHNNTHdodzJaVmxMNlZSWlp4S2xhY0VWdThHV3JQVktjNTlfUzE2QlhucDlTNFhhOTRCYUl2aDMyaHUzR3B4T2YtazktdnpmVFg4X0RJdkJqWFVQaVJNcDJsejF0YWpMelNkamhkbTQ4R0F0STdVTWpqRlBTMFBnUkF4R2s1U1d1NGVNYzFKcjFiTllL?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQQzJDM2Zxdks1eDYzTDNNZ1RuRXZ6Njh2SFFuVFFITmxhdF9lYzR3ZVRzZ1R6bEFnMHNNTHdodzJaVmxMNlZSWlp4S2xhY0VWdThHV3JQVktjNTlfUzE2QlhucDlTNFhhOTRCYUl2aDMyaHUzR3B4T2YtazktdnpmVFg4X0RJdkJqWFVQaVJNcDJsejF0YWpMelNkamhkbTQ4R0F0STdVTWpqRlBTMFBnUkF4R2s1U1d1NGVNYzFKcjFiTllL?oc=5\" target=\"_blank\"&gt;Harvey announces partnership with Swiss legal AI intelligence platform DeepJudge&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Global Legal Po",
       "published": "2026-05-21T07:00:00.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 5
+    },
+    {
+      "title": "Claude for Legal: What the industry needs to know - Legal IT Insider",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaTk1d0FIT01YOFFzWUlxSFh6cGZza21GcEx0VWY4VWNnd1FnNkx2eDE2ZFNPZmZadDRGVmZoSTBlSEJjR21fanp4MzNWTGF1QTR2SDlCdlNka25MU0kySG5oSUZQdnRnbDhPMHhyX3dlbFN0eFdFZkdEVEZ5OE5RSUJGNA?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOaTk1d0FIT01YOFFzWUlxSFh6cGZza21GcEx0VWY4VWNnd1FnNkx2eDE2ZFNPZmZadDRGVmZoSTBlSEJjR21fanp4MzNWTGF1QTR2SDlCdlNka25MU0kySG5oSUZQdnRnbDhPMHhyX3dlbFN0eFdFZkdEVEZ5OE5RSUJGNA?oc=5\" target=\"_blank\"&gt;Claude for Legal: What the industry needs to know&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Legal IT Insider&lt;/font&gt;",
+      "published": "2026-05-13T07:00:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
