@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-30T15:00:47.208Z",
+  "generated": "2026-07-30T17:15:06.316Z",
   "cycle_type": "triage",
   "tier_filter": "A",
   "shortlist_size": 1,
@@ -17,8 +17,8 @@
       "id": "google-news-legal-ai-0",
       "score": 4,
       "category": "Legal AI",
-      "suggested_angle": "Roundup of secondary legal tech items from the Law Society",
-      "why_now": "Low-value aggregation piece covering multiple disparate themes without a single primary news hook.",
+      "suggested_angle": "Filevine offers free professional legal AI tools with LOIS Explore launch",
+      "why_now": "Standard vendor press release announcing a free tier of a proprietary legal AI assistant.",
       "verdict": "drop",
       "duplicate_of": null
     }
@@ -27,12 +27,12 @@
     "enqueue_count": 0,
     "watch_count": 0,
     "drop_count": 1,
-    "notes": "Dropped single low-value aggregation roundup."
+    "notes": "Dropped the Filevine press release due to low independent news value."
   },
   "enqueued": 0,
   "usage": {
-    "input_tokens": 2438,
-    "output_tokens": 171,
-    "total_tokens": 2609
+    "input_tokens": 2417,
+    "output_tokens": 172,
+    "total_tokens": 2589
   }
 }
