@@ -1,74 +1,15 @@
 {
-  "generated": "2026-07-30T01:55:10.320Z",
+  "generated": "2026-07-30T04:45:28.337Z",
   "cycle_type": "triage",
-  "tier_filter": "B",
-  "shortlist_size": 5,
+  "shortlist_size": 0,
+  "picks": [],
   "prefilter": {
     "total": 40,
-    "accepted": 20,
-    "borderline": 2,
-    "rejected": 18,
-    "rejected_as_duplicate": 18,
-    "accept_rate": 50
+    "accepted": 1,
+    "borderline": 0,
+    "rejected": 39,
+    "rejected_as_duplicate": 39,
+    "accept_rate": 3
   },
-  "model": "gemini-flash-lite-latest",
-  "picks": [
-    {
-      "id": "legal-futures-0",
-      "score": 6,
-      "category": "Regulatory",
-      "suggested_angle": "Solicitor struck off for misleading SRA during incompetence probe.",
-      "why_now": "Direct SRA disciplinary action involving regulatory deception.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "above-the-law-legaltech-1",
-      "score": 3,
-      "category": "Social",
-      "suggested_angle": "Critique of speculative infrastructure fantasies in tech commentary.",
-      "why_now": "General opinion piece with no direct legal AI or regulatory hook.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-2",
-      "score": 4,
-      "category": "Research",
-      "suggested_angle": "New arXiv preprint on long-context memory compaction for AI agents.",
-      "why_now": "Pure technical ML paper without an immediate legal sector application.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-3",
-      "score": 4,
-      "category": "Research",
-      "suggested_angle": "Natural-language workflow compilation for aligned agent execution.",
-      "why_now": "General agentic workflow research without direct legal context.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-4",
-      "score": 4,
-      "category": "Research",
-      "suggested_angle": "Impact of LLMs on Capture the Flag cybersecurity competitions.",
-      "why_now": "Cybersecurity and general AI evaluation focus rather than legal tech.",
-      "verdict": "drop",
-      "duplicate_of": null
-    }
-  ],
-  "summary": {
-    "enqueue_count": 0,
-    "watch_count": 0,
-    "drop_count": 5,
-    "notes": "No items met the threshold for legal AI, UK regulation, or relevant funding/adoption criteria in this batch."
-  },
-  "enqueued": 0,
-  "usage": {
-    "input_tokens": 2844,
-    "output_tokens": 540,
-    "total_tokens": 3384
-  }
+  "skipped_already_triaged": 1
 }
