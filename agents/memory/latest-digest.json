@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-30T20:53:50.505Z",
+  "generated": "2026-07-30T21:57:36.436Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 777,
+  "total_scanned": 776,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -127,18 +127,6 @@
       "relevance_score": 8
     },
     {
-      "title": "Goldman Sachs and JP Morgan invest in Harvey - The Global Legal Post",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTml2NlN5a1duQzU3QU1hemNrbnRCZEhFVGpNUWw4cDE1bC1PU29DUThhUHhjMkJpYlRfaWxseWo4YUY2eTAySEp2Z3M0cml3cUtwQWJjMGVyd294Xy1vbjhMb3ZXaEtEemdXTjFsTG9pN19Mc3lkNjF2bXZCUFI5bnY3S1VaM2hhbzJTQXh1TVRMTU5tclE?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQTml2NlN5a1duQzU3QU1hemNrbnRCZEhFVGpNUWw4cDE1bC1PU29DUThhUHhjMkJpYlRfaWxseWo4YUY2eTAySEp2Z3M0cml3cUtwQWJjMGVyd294Xy1vbjhMb3ZXaEtEemdXTjFsTG9pN19Mc3lkNjF2bXZCUFI5bnY3S1VaM2hhbzJTQXh1TVRMTU5tclE?oc=5\" target=\"_blank\"&gt;Goldman Sachs and JP Morgan invest in Harvey&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Global Legal Post&lt;/font&gt;",
-      "published": "2026-07-30T15:52:00.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 7
-    },
-    {
       "title": "The Legal AI Scaffold Changes Everything – Claude Study - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQU4tdGFPSGFaaGo0NGRvdnhxMUhYQ3pSd18td3lld2ZRd2xiQkVwWUQ0Z1lhR3IwdGstdE5STUVBTzdqdkxvbnhWUTVwZ0Y5MDNqT1hHV0RDUGVldzI5R2JrdEtaZ2NfYWNDVERjN1o5QWFqeGFTTEp6VDB1S19id3VoOUZUbzQ0eDdwNzJHNzdvYzRNWUh5cFV6UnhXOE0?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNQU4tdGFPSGFaaGo0NGRvdnhxMUhYQ3pSd18td3lld2ZRd2xiQkVwWUQ0Z1lhR3IwdGstdE5STUVBTzdqdkxvbnhWUTVwZ0Y5MDNqT1hHV0RDUGVldzI5R2JrdEtaZ2NfYWNDVERjN1o5QWFqeGFTTEp6VDB1S19id3VoOUZUbzQ0eDdwNzJHNzdvYzRNWUh5cFV6UnhXOE0?oc=5\" target=\"_blank\"&gt;The Legal AI Scaffold Changes Everything – Claude Study&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
@@ -167,18 +155,6 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUmVLd0s1TXFweUkwNEdEcFRTT2laR1pqUEh3RFBRSVFzUEVqYjd1cEFXaml0b09tUFp2ZUVSU0hWb3MzUXY1YlB2d0REZE1mY1pMY3l6YVlycmtnd19XY3E3cHVxZUs1UUczWW9qbW9LS2doWVBVRGJzSDdfa0RscmtVRGpucmNnWU9BZUNxM196YUQxQVBaSWJyTdIBVkFVX3lxTE1LU1NZNDdpQmJmcjhQaUZLWjl1Zm9FYkJsSlZEd2cxRXVBWWdQajF5NjRvdFhTWTFyU1Q2MGIwXy0tbDl0WXVWZnh5MWtXUU9fZ0h6NDF3?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNUmVLd0s1TXFweUkwNEdEcFRTT2laR1pqUEh3RFBRSVFzUEVqYjd1cEFXaml0b09tUFp2ZUVSU0hWb3MzUXY1YlB2d0REZE1mY1pMY3l6YVlycmtnd19XY3E3cHVxZUs1UUczWW9qbW9LS2doWVBVRGJzSDdfa0RscmtVRGpucmNnWU9BZUNxM196YUQxQVBaSWJyTdIBVkFVX3lxTE1LU1NZNDdpQmJmcjhQaUZLWjl1Zm9FYkJsSlZEd2cxRXVBWWdQajF5NjRvdFhTWTFyU1Q2MGIwXy0tbDl0WXVWZnh5MWtXUU9fZ0h6NDF3?oc=5\" target=\"_blank\"&gt;Linklaters' Legal AI Leader Coming To NY For US M&amp;A Work&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt",
       "published": "2026-07-30T19:48:00.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
-    },
-    {
-      "title": "Filevine Launches LOIS Explore: Professional-Grade Legal AI Now Free to Use - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWS1rY3RKNzZhWjE5VmNuSGVxR3RjRlBPZDB3dVlheHJZMDZQekZ0SE9vcEZYaS1iQ2tEb09DZEFjaG1XRlVRRlBNb0JFMDRhUUdFb0lKWXlvZ2U3RzZTUnM3ZnNmZExCZUxROFFjdkxzSEMtUFNTcW9VWmwtV016Y3NDSlp4YnJybXBLWEUtUnZlLWxtN1hpUWk3T29BcDNwZ3lvOEZQc1NPeDZYOTU1SkVwZVZhM00zRVZ2RktTUm1uaHBoRUlvMi1R?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQWS1rY3RKNzZhWjE5VmNuSGVxR3RjRlBPZDB3dVlheHJZMDZQekZ0SE9vcEZYaS1iQ2tEb09DZEFjaG1XRlVRRlBNb0JFMDRhUUdFb0lKWXlvZ2U3RzZTUnM3ZnNmZExCZUxROFFjdkxzSEMtUFNTcW9VWmwtV016Y3NDSlp4YnJybXBLWEUtUnZlLWxtN1hpUWk3T29BcDNwZ3lvOEZQc1NPeDZYOTU1SkVwZVZhM00zRVZ2RktTUm1uaHBoRUlvMi1R?oc=5\" target=\"_blank\"&gt;Filevine Launches LOIS Explore: Professional-Grade Legal AI Now Free to Use&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;PR Newswire&lt;/",
-      "published": "2026-07-30T15:45:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
@@ -367,9 +343,9 @@
       "relevance_score": 6
     },
     {
-      "title": "Spellbook on Track for US$100M ARR this Year - entrevestor.com",
+      "title": "Spellbook on Track for US$100M ARR this Year - Entrevestor",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41c1pKSUJCbkYtbXFsUmpLV1dfeGNxSlZtU1B0bEZ6U0tZOXlSVFp5U3V5LTR6RG01amxrNUp1bFhRT0FhVmhxeS1oNks4Q1pfcFpWYXFqcHdaM29XWUtGVjJCdzYydTR3dFNadWtpNEQ1YlRNX2tNOV9BU0U?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE41c1pKSUJCbkYtbXFsUmpLV1dfeGNxSlZtU1B0bEZ6U0tZOXlSVFp5U3V5LTR6RG01amxrNUp1bFhRT0FhVmhxeS1oNks4Q1pfcFpWYXFqcHdaM29XWUtGVjJCdzYydTR3dFNadWtpNEQ1YlRNX2tNOV9BU0U?oc=5\" target=\"_blank\"&gt;Spellbook on Track for US$100M ARR this Year&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;entrevestor.com&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE41c1pKSUJCbkYtbXFsUmpLV1dfeGNxSlZtU1B0bEZ6U0tZOXlSVFp5U3V5LTR6RG01amxrNUp1bFhRT0FhVmhxeS1oNks4Q1pfcFpWYXFqcHdaM29XWUtGVjJCdzYydTR3dFNadWtpNEQ1YlRNX2tNOV9BU0U?oc=5\" target=\"_blank\"&gt;Spellbook on Track for US$100M ARR this Year&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Entrevestor&lt;/font&gt;",
       "published": "2026-03-04T08:00:00.000Z",
       "source_id": "google-news-contract-ai",
       "source_name": "Google News: contract AI",
@@ -379,7 +355,7 @@
       "relevance_score": 6
     },
     {
-      "title": "This Open Source RP2040 Development Board Looks Like a Magic Spellbook - Hackster.io",
+      "title": "This Open Source RP2040 Development Board Looks Like a Magic Spellbook - hackster.io",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORnVSUlF6azgxa3lnMFFGVmU2dWdTeWRSOE1MV0JtdkViWVNhWkozazFKdy1Xb1FlS3RaTVRxeHExODhPdi1QY2I0UFVPMDdxX2hFdmpUUE5qeFpiX0xrNktLbUZ0Qm96ckY0UlI0enkyTmZVYmpQZmN2b3ByMV9zWnlGVFRnc3ZYLWdHQWdVU3U5WFJLb05YV2E0NlQzWHZCdUNXb2xnMmlsZnNtdzNhdnZ30gG3AUFVX3lxTE5FaHA3Szl0Z2N0ZWUySEJxOFVKUjdGeFdWcF96YUFqdXJpT2VJOG1pcUhwOXgtLWlHOWFXTGhxVVRJeTdZT21mLTJ3cmlydFJMT1hOX3ZhcDFkaUU5MWc5Z1FWV3Z1c2VFLU5pejVmai1Pa19hVUZ5ekc0YnFwWGlSWk9xbndOWVNTVm5FWUFkRE1DQjdoc0RiVnZFb0VjcU1PTS1QNkd4eHExV2ZwLUFVYVhHcHVqZw?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxORnVSUlF6azgxa3lnMFFGVmU2dWdTeWRSOE1MV0JtdkViWVNhWkozazFKdy1Xb1FlS3RaTVRxeHExODhPdi1QY2I0UFVPMDdxX2hFdmpUUE5qeFpiX0xrNktLbUZ0Qm96ckY0UlI0enkyTmZVYmpQZmN2b3ByMV9zWnlGVFRnc3ZYLWdHQWdVU3U5WFJLb05YV2E0NlQzWHZCdUNXb2xnMmlsZnNtdzNhdnZ30gG3AUFVX3lxTE5FaHA3Szl0Z2N0ZWUySEJxOFVKUjdGeFdWcF96YUFqdXJpT2VJOG1pcUhwOXgtLWlHOWFXTGhxVVRJeTdZT21mLTJ3cmlydFJMT1hOX3ZhcDFkaUU5MWc5Z1FWV3Z1c2VFLU5pejVmai1Pa19hVUZ5ekc0YnFwWGlSWk9xbndOWVNTVm5FWUFkRE1DQjdoc0R",
       "published": "2026-05-28T12:11:48.000Z",
@@ -407,6 +383,30 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ZcXo0Q2FxV2s2X2RmUnQyVlNOTFhWS2tfQjhrYzFoQWhYQmNqbkdHOEJIVk8wYnlHS1VHZDZuLVJ5RlFWZVo5V3FxZjhQRkE5a19iWnNnbnNZU1Q4VllR?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ZcXo0Q2FxV2s2X2RmUnQyVlNOTFhWS2tfQjhrYzFoQWhYQmNqbkdHOEJIVk8wYnlHS1VHZDZuLVJ5RlFWZVo5V3FxZjhQRkE5a19iWnNnbnNZU1Q4VllR?oc=5\" target=\"_blank\"&gt;AI Maturity in Legal and Why Some Teams Move Faster&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
       "published": "2026-07-30T11:39:44.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 5
+    },
+    {
+      "title": "Goldman Sachs and JP Morgan invest in Harvey - The Global Legal Post",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTml2NlN5a1duQzU3QU1hemNrbnRCZEhFVGpNUWw4cDE1bC1PU29DUThhUHhjMkJpYlRfaWxseWo4YUY2eTAySEp2Z3M0cml3cUtwQWJjMGVyd294Xy1vbjhMb3ZXaEtEemdXTjFsTG9pN19Mc3lkNjF2bXZCUFI5bnY3S1VaM2hhbzJTQXh1TVRMTU5tclE?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQTml2NlN5a1duQzU3QU1hemNrbnRCZEhFVGpNUWw4cDE1bC1PU29DUThhUHhjMkJpYlRfaWxseWo4YUY2eTAySEp2Z3M0cml3cUtwQWJjMGVyd294Xy1vbjhMb3ZXaEtEemdXTjFsTG9pN19Mc3lkNjF2bXZCUFI5bnY3S1VaM2hhbzJTQXh1TVRMTU5tclE?oc=5\" target=\"_blank\"&gt;Goldman Sachs and JP Morgan invest in Harvey&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Global Legal Post&lt;/font&gt;",
+      "published": "2026-07-30T15:52:00.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 5
+    },
+    {
+      "title": "Can You Trust AI to Redline a Contract? What Every Lawyer Should Know - Law.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOb1Zib0VsM0NzQ3E2dUh2dFlxcmV3Vk1valBuNWVsWmxaRDdzc25UV3JyMExJQzJvN2R1bjBENzR1U20yVWtIQTdzVTJLY1poVlBVWEl3Skpkb1VScEpmaGJYUXh5ZzcwcnpMb1lEUm9OR01QeUpMVVRtbW5COExLeGRYRE45Vzd2d252d1NPS3luV1FFQXFyeWZCUDZVNUJmQUE?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOb1Zib0VsM0NzQ3E2dUh2dFlxcmV3Vk1valBuNWVsWmxaRDdzc25UV3JyMExJQzJvN2R1bjBENzR1U20yVWtIQTdzVTJLY1poVlBVWEl3Skpkb1VScEpmaGJYUXh5ZzcwcnpMb1lEUm9OR01QeUpMVVRtbW5COExLeGRYRE45Vzd2d252d1NPS3luV1FFQXFyeWZCUDZVNUJmQUE?oc=5\" target=\"_blank\"&gt;Can You Trust AI to Redline a Contract? What Every Lawyer Should Know&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Law.com&lt;/font&gt;",
+      "published": "2026-07-30T13:53:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
