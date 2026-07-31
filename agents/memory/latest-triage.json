@@ -1,38 +1,38 @@
 {
-  "generated": "2026-07-31T13:51:40.700Z",
+  "generated": "2026-07-31T15:12:39.061Z",
   "cycle_type": "triage",
-  "tier_filter": "B",
+  "tier_filter": "A",
   "shortlist_size": 1,
   "prefilter": {
     "total": 40,
-    "accepted": 23,
+    "accepted": 2,
     "borderline": 0,
-    "rejected": 17,
-    "rejected_as_duplicate": 17,
-    "accept_rate": 57
+    "rejected": 38,
+    "rejected_as_duplicate": 38,
+    "accept_rate": 5
   },
   "model": "gemini-flash-lite-latest",
   "picks": [
     {
-      "id": "hacker-news-0",
-      "score": 2,
-      "category": "Social",
-      "suggested_angle": null,
-      "why_now": "General discussion piece on assisted dying legislation; completely unrelated to legal AI, regulation, or our editorial focus.",
-      "verdict": "drop",
+      "id": "google-news-legal-ai-0",
+      "score": 6,
+      "category": "Legal AI",
+      "suggested_angle": "Why IP and patent law are becoming the next battleground for specialised legal AI tools.",
+      "why_now": "Offers a thematic look at where legal tech venture and product development are pivoting next beyond general contract review and research.",
+      "verdict": "watch",
       "duplicate_of": null
     }
   ],
   "summary": {
     "enqueue_count": 0,
-    "watch_count": 0,
-    "drop_count": 1,
-    "notes": "Dropped non-relevant Hacker News item on assisted dying."
+    "watch_count": 1,
+    "drop_count": 0,
+    "notes": "Single general trend piece from Law360 placed on watch list for potential follow-up if specific tooling emerges."
   },
   "enqueued": 0,
   "usage": {
-    "input_tokens": 2165,
-    "output_tokens": 159,
-    "total_tokens": 2324
+    "input_tokens": 2447,
+    "output_tokens": 197,
+    "total_tokens": 2644
   }
 }
