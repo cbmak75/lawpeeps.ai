@@ -1,15 +1,38 @@
 {
-  "generated": "2026-07-31T19:04:55.355Z",
+  "generated": "2026-07-31T19:16:34.435Z",
   "cycle_type": "triage",
-  "shortlist_size": 0,
-  "picks": [],
+  "tier_filter": "B",
+  "shortlist_size": 1,
   "prefilter": {
     "total": 40,
-    "accepted": 2,
+    "accepted": 21,
     "borderline": 0,
-    "rejected": 38,
-    "rejected_as_duplicate": 38,
-    "accept_rate": 5
+    "rejected": 19,
+    "rejected_as_duplicate": 19,
+    "accept_rate": 53
   },
-  "skipped_already_triaged": 2
+  "model": "gemini-flash-lite-latest",
+  "picks": [
+    {
+      "id": "above-the-law-legaltech-0",
+      "score": 2,
+      "category": "Social",
+      "suggested_angle": "None",
+      "why_now": "The article is about financial literacy and social justice with no connection to legal AI, regulation, or core publication themes.",
+      "verdict": "drop",
+      "duplicate_of": null
+    }
+  ],
+  "summary": {
+    "enqueue_count": 0,
+    "watch_count": 0,
+    "drop_count": 1,
+    "notes": "Dropped off-topic content unrelated to legal AI or tech editorial scope."
+  },
+  "enqueued": 0,
+  "usage": {
+    "input_tokens": 2139,
+    "output_tokens": 174,
+    "total_tokens": 2313
+  }
 }
