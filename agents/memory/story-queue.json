@@ -2053,7 +2053,52 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "Committee to draw up online code of practice",
+      "slug": "committee-to-draw-up-online-code-of-practice",
+      "score": 8,
+      "category": "Policy",
+      "story_type": "news",
+      "research_brief": "Voluntary code will ’support the development of a digital justice system that is accessible to everyone'.",
+      "primary_source": "https://www.lawgazette.co.uk/practice/committee-to-draw-up-online-code-of-practice/5127550.article",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "UK digital justice code of practice takes shape.",
+      "why_now": "Direct relevance to UK regulatory policy and digital justice system development.",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Law Society Gazette",
+      "source_tier": "B",
+      "prefilter_score": 7,
+      "matched_terms": [
+        "Eve"
+      ],
+      "fingerprint": {
+        "entities": [
+          "eve"
+        ],
+        "numerics": [],
+        "keywords": [],
+        "title_tokens": [
+          "committee",
+          "draw",
+          "online",
+          "code",
+          "practice"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-07-31T02:13:59.619Z",
+      "queued_at": "2026-07-31T02:13:59.622Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-07-29T19:06:00.243Z"
+  "last_updated": "2026-07-31T02:13:59.622Z"
 }
