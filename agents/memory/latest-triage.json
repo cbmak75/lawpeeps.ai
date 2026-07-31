@@ -1,38 +1,15 @@
 {
-  "generated": "2026-07-31T04:15:40.386Z",
+  "generated": "2026-07-31T07:44:05.970Z",
   "cycle_type": "triage",
-  "tier_filter": "A",
-  "shortlist_size": 1,
+  "shortlist_size": 0,
+  "picks": [],
   "prefilter": {
     "total": 40,
-    "accepted": 2,
+    "accepted": 1,
     "borderline": 0,
-    "rejected": 38,
-    "rejected_as_duplicate": 38,
-    "accept_rate": 5
+    "rejected": 39,
+    "rejected_as_duplicate": 39,
+    "accept_rate": 3
   },
-  "model": "gemini-flash-lite-latest",
-  "picks": [
-    {
-      "id": "google-news-legal-ai-0",
-      "score": 3,
-      "category": "Legal AI",
-      "suggested_angle": "How law firms can mitigate risk when rolling out AI enterprise-wide.",
-      "why_now": "It is a standard thought-piece/marketing article on deployment risks with no distinct primary source or breaking news hook.",
-      "verdict": "drop",
-      "duplicate_of": null
-    }
-  ],
-  "summary": {
-    "enqueue_count": 0,
-    "watch_count": 0,
-    "drop_count": 1,
-    "notes": "Dropped the single shortlist item due to low-value aggregation and lack of a news hook."
-  },
-  "enqueued": 0,
-  "usage": {
-    "input_tokens": 2372,
-    "output_tokens": 185,
-    "total_tokens": 2557
-  }
+  "skipped_already_triaged": 1
 }
