@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-31T21:55:19.141Z",
+  "generated": "2026-07-31T22:49:11.811Z",
   "cycle_type": "triage",
-  "tier_filter": "A",
-  "shortlist_size": 1,
+  "shortlist_size": 0,
+  "picks": [],
   "prefilter": {
     "total": 40,
     "accepted": 2,
@@ -11,28 +11,5 @@
     "rejected_as_duplicate": 38,
     "accept_rate": 5
   },
-  "model": "gemini-flash-lite-latest",
-  "picks": [
-    {
-      "id": "google-news-contract-ai-0",
-      "score": 4,
-      "category": "Legal AI",
-      "suggested_angle": "Agiloft broadens contract lifecycle management with new Astra AI tooling.",
-      "why_now": "Vendor press release regarding product launch with little independent reporting or novel legal hook.",
-      "verdict": "drop",
-      "duplicate_of": null
-    }
-  ],
-  "summary": {
-    "enqueue_count": 0,
-    "watch_count": 0,
-    "drop_count": 1,
-    "notes": "Dropped single vendor press release due to lack of independent news hook."
-  },
-  "enqueued": 0,
-  "usage": {
-    "input_tokens": 2353,
-    "output_tokens": 177,
-    "total_tokens": 2530
-  }
+  "skipped_already_triaged": 2
 }
