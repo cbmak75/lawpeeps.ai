@@ -1,23 +1,11 @@
 {
-  "generated": "2026-07-31T20:51:45.474Z",
+  "generated": "2026-07-31T21:55:18.154Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 705,
+  "total_scanned": 702,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
-    {
-      "title": "The Year Legal AI Becomes Core Infrastructure - Harvey",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQM1FoRzB1UllvekZhdk12TmhyQ25NQUE2Zkd4NWd3cWRRWnVoZFBlRllYZU4tVFg0MWhfY0VtTFFZeE14Z2V3dVVObVJsZnNITEdqS0ZwMXh4R1MxVVl5dzVCUHBfOHlIckV3WGxFQ1J2bTZoaUJIV18zYWR2b0xzakZZdms?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQM1FoRzB1UllvekZhdk12TmhyQ25NQUE2Zkd4NWd3cWRRWnVoZFBlRllYZU4tVFg0MWhfY0VtTFFZeE14Z2V3dVVObVJsZnNITEdqS0ZwMXh4R1MxVVl5dzVCUHBfOHlIckV3WGxFQ1J2bTZoaUJIV18zYWR2b0xzakZZdms?oc=5\" target=\"_blank\"&gt;The Year Legal AI Becomes Core Infrastructure&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
-      "published": "2026-07-31T15:15:09.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 9
-    },
     {
       "title": "Harvey Forum + Shared Spaces, Clio, Spellbook, Legal Innovators - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWDZZRVZBVWx3ckRDeE96a1ZYWTJxVldZUHNwYWl2eHdrUDZKc2xXSmRYVHRheXlISnI5SVpKdmlYTHdOWVRwb3VneFBHMlZhcnlyOWNiZHJuUkNTLXhINlgwRnJzZlNCU0JYQ2k2R2RrUFN3dlRoT3k0ckM5NDRZRHZ2UjAzQWVfQXNRcm9lM2w2LVdmRUxvMmwyVXkzS2Y2XzlnTTNn?oc=5",
@@ -43,7 +31,7 @@
       "relevance_score": 9
     },
     {
-      "title": "BKL unifies legal AI stack with Harvey, domestic tools, and ChatGPT Enterprise - CHOSUNBIZ - Chosunbiz",
+      "title": "BKL unifies legal AI stack with Harvey, domestic tools, and ChatGPT Enterprise - CHOSUNBIZ - biz.chosun.com",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaDRtcUZFMUFrRHF5RkMydnVDcEpCSXltOXFUVjZ3b2JRNnV4MWRYcTBmY203OVRGcldxckswM3FoUnh0MXBxU1gyZHM2SXM2OVl2SE1qcVI5azVhYXFfMzhqM1YyLUlYM0Y4blhqOUlIYTRtNXRGZU5yN09fb3J3etIBlAFBVV95cUxOOGk2Z2JlMWU0eHJmYkpaNXU5UGpyOWJOTWtvSWY4d1JFX0tEM1oyYTFiSHBoS0szejgzcTB2Nm96ck9xWThSQkF4cWRHRXJqejdqSDdlZVAtb3RnT0ZxMHQyTjdRRnNGYU1zWE9BelFyUEsyc0pvQjBEdmtGY0hYR2pJaU9wN1ZuQzVKT1B3ZDNKdExk?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQaDRtcUZFMUFrRHF5RkMydnVDcEpCSXltOXFUVjZ3b2JRNnV4MWRYcTBmY203OVRGcldxckswM3FoUnh0MXBxU1gyZHM2SXM2OVl2SE1qcVI5azVhYXFfMzhqM1YyLUlYM0Y4blhqOUlIYTRtNXRGZU5yN09fb3J3etIBlAFBVV95cUxOOGk2Z2JlMWU0eHJmYkpaNXU5UGpyOWJOTWtvSWY4d1JFX0tEM1oyYTFiSHBoS0szejgzcTB2Nm96ck9xWThSQkF4cWRHRXJqejdqSDdlZVAtb3RnT0ZxMHQyTjdRRnNGYU1zWE9BelFyUEsyc0pvQjBEdmtGY0hYR2pJaU9wN1ZuQzVKT1B3ZDNKdExk?oc=5\" target=\"_blank\"&gt;BKL unifies legal AI stack with Harvey, domes",
       "published": "2026-07-31T05:26:00.000Z",
@@ -55,7 +43,7 @@
       "relevance_score": 8
     },
     {
-      "title": "Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook partners with CBA; DeepIP raises $25m - Legal IT Insider",
+      "title": "Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook partners with CBA; DeepIP raises $25m - legaltechnology.com",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcXJGTU9ucEc1azNNOTZ3eWI1dldHblpjS0lIdG9jTy1YSE1SSEdlWXlqa041bzd4R052ckZLZG1TQnh6eUE1bFhEV0FyYlFndF84Z1hTczZXZ0IzOVRoMF9jWHhkMXp2X2tjenNUMktCZWM1eVlvM0tjZEpvX2ZoeUpaTUN5UTZUaDJEWWdvVDFJZWpGYTZiQV8ycEc1dEJRMTJCWktEV3IwX3FoX1F6cFk5dkJ1VUtHaURCWmlBTUpTcFRJQVk3cmYxODlsMEpjQnRMdHkwLWNoR1lzT01jRmJlSjJwdw?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcXJGTU9ucEc1azNNOTZ3eWI1dldHblpjS0lIdG9jTy1YSE1SSEdlWXlqa041bzd4R052ckZLZG1TQnh6eUE1bFhEV0FyYlFndF84Z1hTczZXZ0IzOVRoMF9jWHhkMXp2X2tjenNUMktCZWM1eVlvM0tjZEpvX2ZoeUpaTUN5UTZUaDJEWWdvVDFJZWpGYTZiQV8ycEc1dEJRMTJCWktEV3IwX3FoX1F6cFk5dkJ1VUtHaURCWmlBTUpTcFRJQVk3cmYxODlsMEpjQnRMdHkwLWNoR1lzT01jRmJlSjJwdw?oc=5\" target=\"_blank\"&gt;Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook partners with CBA; De",
       "published": "2026-03-04T08:00:00.000Z",
@@ -139,6 +127,18 @@
       "relevance_score": 8
     },
     {
+      "title": "The Year Legal AI Becomes Core Infrastructure - Harvey",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQM1FoRzB1UllvekZhdk12TmhyQ25NQUE2Zkd4NWd3cWRRWnVoZFBlRllYZU4tVFg0MWhfY0VtTFFZeE14Z2V3dVVObVJsZnNITEdqS0ZwMXh4R1MxVVl5dzVCUHBfOHlIckV3WGxFQ1J2bTZoaUJIV18zYWR2b0xzakZZdms?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQM1FoRzB1UllvekZhdk12TmhyQ25NQUE2Zkd4NWd3cWRRWnVoZFBlRllYZU4tVFg0MWhfY0VtTFFZeE14Z2V3dVVObVJsZnNITEdqS0ZwMXh4R1MxVVl5dzVCUHBfOHlIckV3WGxFQ1J2bTZoaUJIV18zYWR2b0xzakZZdms?oc=5\" target=\"_blank\"&gt;The Year Legal AI Becomes Core Infrastructure&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
+      "published": "2026-07-31T15:15:09.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 7
+    },
+    {
       "title": "The AI gap in Canadian law: What every legal leader needs to act on now - Thomson Reuters Legal Solutions",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeUh5V3pnR1F3cjgtN291SUJKcG5mTzdhQm5FNHdGV3Qta21VWXVsT2JwdVU3NUVGd1RqY0xWVUw3bENCWEZ2cjR0Nkp6ZDYzRFV0dDNvcU5BVXZ3dFJWZzBjaUR6aDJreUhncnJyYmQ4UHBfSmZJMFItZEVPZXhpcXlTZC1fcnh0eUo4ZFIxTFBOOUFQbUppMWJDNWgtWWlETXEwVFJaXzg3UDA1clE?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOeUh5V3pnR1F3cjgtN291SUJKcG5mTzdhQm5FNHdGV3Qta21VWXVsT2JwdVU3NUVGd1RqY0xWVUw3bENCWEZ2cjR0Nkp6ZDYzRFV0dDNvcU5BVXZ3dFJWZzBjaUR6aDJreUhncnJyYmQ4UHBfSmZJMFItZEVPZXhpcXlTZC1fcnh0eUo4ZFIxTFBOOUFQbUppMWJDNWgtWWlETXEwVFJaXzg3UDA1clE?oc=5\" target=\"_blank\"&gt;The AI gap in Canadian law: What every legal leader needs to act on now&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Thomson Reuters Legal Solutions&lt;/font&gt;",
@@ -187,12 +187,24 @@
       "relevance_score": 6
     },
     {
-      "title": "Legal AI Unicorn Harvey Lands Major Backing from Goldman Sachs and JP Morgan - lawfuel.com",
+      "title": "Legal AI Unicorn Harvey Lands Major Backing from Goldman Sachs and JP Morgan - LawFuel.com",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTmdHN3NxeWFfYTBqY0dLQk1VcjlwRXZLcGRPVGVGODctdF9VWFRleHBDZmhadFVTbGFubnI5RzV5a2prU1dTaWpUd1kwQjhPaFpxaHJPOFhJeEZnY3B3OUw4Y3JxSEZaa2x6eFZmc3pLaGUxSEpjTjhCRmlsdGFka0pJLXdOZVloSFkwZzlUbHg5aDQ4Sk5LRG0xYTJONlpzMEF2Xw?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNTmdHN3NxeWFfYTBqY0dLQk1VcjlwRXZLcGRPVGVGODctdF9VWFRleHBDZmhadFVTbGFubnI5RzV5a2prU1dTaWpUd1kwQjhPaFpxaHJPOFhJeEZnY3B3OUw4Y3JxSEZaa2x6eFZmc3pLaGUxSEpjTjhCRmlsdGFka0pJLXdOZVloSFkwZzlUbHg5aDQ4Sk5LRG0xYTJONlpzMEF2Xw?oc=5\" target=\"_blank\"&gt;Legal AI Unicorn Harvey Lands Major Backing from Goldman Sachs and JP Morgan&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;lawfuel.com&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNTmdHN3NxeWFfYTBqY0dLQk1VcjlwRXZLcGRPVGVGODctdF9VWFRleHBDZmhadFVTbGFubnI5RzV5a2prU1dTaWpUd1kwQjhPaFpxaHJPOFhJeEZnY3B3OUw4Y3JxSEZaa2x6eFZmc3pLaGUxSEpjTjhCRmlsdGFka0pJLXdOZVloSFkwZzlUbHg5aDQ4Sk5LRG0xYTJONlpzMEF2Xw?oc=5\" target=\"_blank\"&gt;Legal AI Unicorn Harvey Lands Major Backing from Goldman Sachs and JP Morgan&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;LawFuel.com&lt;/font&gt;",
       "published": "2026-07-31T00:34:23.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
+    },
+    {
+      "title": "Harvey AI Number of Employees 2026 | Employee Count &amp; Headcount Data - Revelio Labs",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KTk5TLXY5ZGxUTTJxLXRkaUpoNTdwWk01Q3R1R1JaYVM4OVdLYTNhZjVkY3JTbUZDdGY3WDd1SUY2cWUtbkJEWjdubjNKYXN0czNqMVcyNHN0cUd3TFlQbjZvZTJlZ1BL?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KTk5TLXY5ZGxUTTJxLXRkaUpoNTdwWk01Q3R1R1JaYVM4OVdLYTNhZjVkY3JTbUZDdGY3WDd1SUY2cWUtbkJEWjdubjNKYXN0czNqMVcyNHN0cUd3TFlQbjZvZTJlZ1BL?oc=5\" target=\"_blank\"&gt;Harvey AI Number of Employees 2026 | Employee Count &amp; Headcount Data&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Revelio Labs&lt;/font&gt;",
+      "published": "2026-07-29T15:17:02.000Z",
+      "source_id": "google-news-harvey-luminance",
+      "source_name": "Google News: Harvey OR Luminance",
       "source_priority": "critical",
       "source_tier": "A",
       "source_category": "Aggregator",
@@ -235,9 +247,9 @@
       "relevance_score": 6
     },
     {
-      "title": "Eversheds Sutherland’s global co-CEO Keith Froud talks Harvey, AI adoption and ROI - Legal IT Insider",
+      "title": "Eversheds Sutherland’s global co-CEO Keith Froud talks Harvey, AI adoption and ROI - legaltechnology.com",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOUJDMnROZUthMW13YnFBdlRCb0YwZE50ZmlPQ2tOZTNzd0tpa1lUd24xZTRINTkyazN6VzBJZFNrSXQtUUkyRklNblNNVW9HeUFHMGpaRGE4WFZBb0hISk1yVVdTSzBEVk9UN2pTeWlsaUxndWozWUtIM29wZEJnWDhkRnZrTURfZy1la3VqeW52SnBQWGFpNGdLSG50ZzNWbzhVVmhybE44ZEpvMkE?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPOUJDMnROZUthMW13YnFBdlRCb0YwZE50ZmlPQ2tOZTNzd0tpa1lUd24xZTRINTkyazN6VzBJZFNrSXQtUUkyRklNblNNVW9HeUFHMGpaRGE4WFZBb0hISk1yVVdTSzBEVk9UN2pTeWlsaUxndWozWUtIM29wZEJnWDhkRnZrTURfZy1la3VqeW52SnBQWGFpNGdLSG50ZzNWbzhVVmhybE44ZEpvMkE?oc=5\" target=\"_blank\"&gt;Eversheds Sutherland’s global co-CEO Keith Froud talks Harvey, AI adoption and ROI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Legal IT Insider&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPOUJDMnROZUthMW13YnFBdlRCb0YwZE50ZmlPQ2tOZTNzd0tpa1lUd24xZTRINTkyazN6VzBJZFNrSXQtUUkyRklNblNNVW9HeUFHMGpaRGE4WFZBb0hISk1yVVdTSzBEVk9UN2pTeWlsaUxndWozWUtIM29wZEJnWDhkRnZrTURfZy1la3VqeW52SnBQWGFpNGdLSG50ZzNWbzhVVmhybE44ZEpvMkE?oc=5\" target=\"_blank\"&gt;Eversheds Sutherland’s global co-CEO Keith Froud talks Harvey, AI adoption and ROI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;legaltechnology.com&lt;/font&gt;",
       "published": "2026-02-11T08:00:00.000Z",
       "source_id": "google-news-harvey-luminance",
       "source_name": "Google News: Harvey OR Luminance",
@@ -283,10 +295,10 @@
       "relevance_score": 6
     },
     {
-      "title": "Harvey AI Number of Employees 2026 | Employee Count &amp; Headcount Data - Revelio Labs",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KTk5TLXY5ZGxUTTJxLXRkaUpoNTdwWk01Q3R1R1JaYVM4OVdLYTNhZjVkY3JTbUZDdGY3WDd1SUY2cWUtbkJEWjdubjNKYXN0czNqMVcyNHN0cUd3TFlQbjZvZTJlZ1BL?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KTk5TLXY5ZGxUTTJxLXRkaUpoNTdwWk01Q3R1R1JaYVM4OVdLYTNhZjVkY3JTbUZDdGY3WDd1SUY2cWUtbkJEWjdubjNKYXN0czNqMVcyNHN0cUd3TFlQbjZvZTJlZ1BL?oc=5\" target=\"_blank\"&gt;Harvey AI Number of Employees 2026 | Employee Count &amp; Headcount Data&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Revelio Labs&lt;/font&gt;",
-      "published": "2026-04-22T15:13:24.000Z",
+      "title": ":Harvey:’s iManage Integration - Harvey",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NWWt2LTZETkl6M2txVzBjWUd6SUJnYWZwN2NKYmJpXy1GS2pDUlc4Y2lNazJFRTYyYWc3MGhXQU1STHVDa2hLWE9rV000a0dkQUQzaXRpdEZ5UlVDTFhDSTEwMGM?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NWWt2LTZETkl6M2txVzBjWUd6SUJnYWZwN2NKYmJpXy1GS2pDUlc4Y2lNazJFRTYyYWc3MGhXQU1STHVDa2hLWE9rV000a0dkQUQzaXRpdEZ5UlVDTFhDSTEwMGM?oc=5\" target=\"_blank\"&gt;:Harvey:’s iManage Integration&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
+      "published": "2025-08-11T07:00:00.000Z",
       "source_id": "google-news-harvey-luminance",
       "source_name": "Google News: Harvey OR Luminance",
       "source_priority": "critical",
@@ -295,13 +307,25 @@
       "relevance_score": 6
     },
     {
-      "title": ":Harvey:’s iManage Integration - Harvey",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NWWt2LTZETkl6M2txVzBjWUd6SUJnYWZwN2NKYmJpXy1GS2pDUlc4Y2lNazJFRTYyYWc3MGhXQU1STHVDa2hLWE9rV000a0dkQUQzaXRpdEZ5UlVDTFhDSTEwMGM?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NWWt2LTZETkl6M2txVzBjWUd6SUJnYWZwN2NKYmJpXy1GS2pDUlc4Y2lNazJFRTYyYWc3MGhXQU1STHVDa2hLWE9rV000a0dkQUQzaXRpdEZ5UlVDTFhDSTEwMGM?oc=5\" target=\"_blank\"&gt;:Harvey:’s iManage Integration&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
-      "published": "2025-08-11T07:00:00.000Z",
+      "title": "Harvey AI will speed up 'diligence' and transform the economy in different ways: Harvey AI CEO - Fox Business",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGZzVJbmVJeTVpQjU0TTFfNDY1eEdDdThXb2lyT25sYlpuajc5NDdTSzFzSVYwMEhxdnhMTUc4Sll5amFBb3JPN3VOaU5zYTZQS1JoRVJDcTVsSGM?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGZzVJbmVJeTVpQjU0TTFfNDY1eEdDdThXb2lyT25sYlpuajc5NDdTSzFzSVYwMEhxdnhMTUc4Sll5amFBb3JPN3VOaU5zYTZQS1JoRVJDcTVsSGM?oc=5\" target=\"_blank\"&gt;Harvey AI will speed up 'diligence' and transform the economy in different ways: Harvey AI CEO&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Fox Business&lt;/font&gt;",
+      "published": "2026-04-20T07:00:00.000Z",
       "source_id": "google-news-harvey-luminance",
       "source_name": "Google News: Harvey OR Luminance",
       "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
+    },
+    {
+      "title": "Agiloft Announces Agiloft Astra, Expanding Access to Contract AI for Legal, Procurement and Finance Teams - Legal Reader",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQlpFdFdPLVFfZjJ6TGNzcGxnaXNVRGQxLTI2Y0VKaU9veUhLaE5tZWhabVA4ZkJqb1NXUHpReGxMTkN0OFlhcU9oQ2ZmSjZ5VjUyYmROTlA0M3NVMHE0NmlPZFlrdk02RXdJWndmMmwtUzNUd0ZDN3RnbHEyZVI4Yzl1OA?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQQlpFdFdPLVFfZjJ6TGNzcGxnaXNVRGQxLTI2Y0VKaU9veUhLaE5tZWhabVA4ZkJqb1NXUHpReGxMTkN0OFlhcU9oQ2ZmSjZ5VjUyYmROTlA0M3NVMHE0NmlPZFlrdk02RXdJWndmMmwtUzNUd0ZDN3RnbHEyZVI4Yzl1OA?oc=5\" target=\"_blank\"&gt;Agiloft Announces Agiloft Astra, Expanding Access to Contract AI for Legal, Procurement and Finance Teams&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Legal Reader&lt;/font&gt;",
+      "published": "2026-07-31T21:20:50.000Z",
+      "source_id": "google-news-contract-ai",
+      "source_name": "Google News: contract AI",
+      "source_priority": "medium",
       "source_tier": "A",
       "source_category": "Aggregator",
       "relevance_score": 6
@@ -427,9 +451,9 @@
       "relevance_score": 5
     },
     {
-      "title": "Anthropic’s expansion of legal AI tools is good for lawyers, experts say - globallegalpost.com",
+      "title": "Anthropic’s expansion of legal AI tools is good for lawyers, experts say - The Global Legal Post",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON29yWkx6TnprRmNac3lObVViVmxxRnMxYk00MjJFOFFLdDBJOWtDY1R6ckxWa0tFTWgxY0ZvVzJGR2x5T09rX0hOVE1xM1ZUbVdSMHBnUVpsSmI3X2JucUFIUUdoUlplaEFCbXdjTHhpblYyM09jNkZtNlh4SzZtamM2em5LX19SdElfWU1EMUxITUljZUdHLWRUbjRWVTd6U0JVWVItaG83N2VyYTdzWHJYb0N5QVRrSXc?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxON29yWkx6TnprRmNac3lObVViVmxxRnMxYk00MjJFOFFLdDBJOWtDY1R6ckxWa0tFTWgxY0ZvVzJGR2x5T09rX0hOVE1xM1ZUbVdSMHBnUVpsSmI3X2JucUFIUUdoUlplaEFCbXdjTHhpblYyM09jNkZtNlh4SzZtamM2em5LX19SdElfWU1EMUxITUljZUdHLWRUbjRWVTd6U0JVWVItaG83N2VyYTdzWHJYb0N5QVRrSXc?oc=5\" target=\"_blank\"&gt;Anthropic’s expansion of legal AI tools is good for lawyers, experts say&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;globallegalpost.com&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxON29yWkx6TnprRmNac3lObVViVmxxRnMxYk00MjJFOFFLdDBJOWtDY1R6ckxWa0tFTWgxY0ZvVzJGR2x5T09rX0hOVE1xM1ZUbVdSMHBnUVpsSmI3X2JucUFIUUdoUlplaEFCbXdjTHhpblYyM09jNkZtNlh4SzZtamM2em5LX19SdElfWU1EMUxITUljZUdHLWRUbjRWVTd6U0JVWVItaG83N2VyYTdzWHJYb0N5QVRrSXc?oc=5\" target=\"_blank\"&gt;Anthropic’s expansion of legal AI tools is good for lawyers, experts say&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Global Legal Post&lt;/font&gt;",
       "published": "2026-05-26T07:00:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
@@ -457,30 +481,6 @@
       "published": "2026-06-22T07:00:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 5
-    },
-    {
-      "title": "Harvey’s next move: building its own legal AI model - Non-Billable",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRHU1R3NHaFQ1ODduU1I0WFlDWFpzd2lKQnU4bDhMX0xBMXZybi1PaGlqcnBRbzJXRmFQNDFpdDRHYU9iclNkeGF3RW5SeXFsWmhSQnhLVmxQT0FDUHZYZ21SNDVZSlZqeTNYVEZzb2UtbkI0WmwxQzVVMXp3Z0JMZUgxcjlPY2lCaWhObVF3?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPRHU1R3NHaFQ1ODduU1I0WFlDWFpzd2lKQnU4bDhMX0xBMXZybi1PaGlqcnBRbzJXRmFQNDFpdDRHYU9iclNkeGF3RW5SeXFsWmhSQnhLVmxQT0FDUHZYZ21SNDVZSlZqeTNYVEZzb2UtbkI0WmwxQzVVMXp3Z0JMZUgxcjlPY2lCaWhObVF3?oc=5\" target=\"_blank\"&gt;Harvey’s next move: building its own legal AI model&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Non-Billable&lt;/font&gt;",
-      "published": "2026-06-18T07:00:00.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 5
-    },
-    {
-      "title": "Legal AI adoption: How law firms and legal departments achieve time savings and revenue growth - Wolters Kluwer",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbDBxN0hGdEY2bi1IaUt3T0xiLUZ4S1hUdXI5UFRnVnBtRllfN2hJeUVmN3pibnhwOThmTGJoZUNIQWQxUlJjTHhKbkY1QXlGZUZ4R281NXlrTVE0TDJlLVFnSEpmV3ZiWUtudDROUGczTGtvVEZTRjdrMG9NZ2ppejc1Y2pwaWNnQU96ZkJsdGg5TXpjbm04aG1naDRtZw?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNbDBxN0hGdEY2bi1IaUt3T0xiLUZ4S1hUdXI5UFRnVnBtRllfN2hJeUVmN3pibnhwOThmTGJoZUNIQWQxUlJjTHhKbkY1QXlGZUZ4R281NXlrTVE0TDJlLVFnSEpmV3ZiWUtudDROUGczTGtvVEZTRjdrMG9NZ2ppejc1Y2pwaWNnQU96ZkJsdGg5TXpjbm04aG1naDRtZw?oc=5\" target=\"_blank\"&gt;Legal AI adoption: How law firms and legal departments achieve time savings and revenue growth&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Wolters Kluwer&lt;/font&gt;",
-      "published": "2026-03-10T15:53:49.000Z",
-      "source_id": "google-news-law-firm-ai",
-      "source_name": "Google News: law firm AI",
       "source_priority": "critical",
       "source_tier": "A",
       "source_category": "Aggregator",
