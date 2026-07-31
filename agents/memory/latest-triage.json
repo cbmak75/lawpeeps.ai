@@ -1,15 +1,38 @@
 {
-  "generated": "2026-07-31T12:50:12.237Z",
+  "generated": "2026-07-31T13:51:40.700Z",
   "cycle_type": "triage",
-  "shortlist_size": 0,
-  "picks": [],
+  "tier_filter": "B",
+  "shortlist_size": 1,
   "prefilter": {
     "total": 40,
-    "accepted": 2,
+    "accepted": 23,
     "borderline": 0,
-    "rejected": 38,
-    "rejected_as_duplicate": 38,
-    "accept_rate": 5
+    "rejected": 17,
+    "rejected_as_duplicate": 17,
+    "accept_rate": 57
   },
-  "skipped_already_triaged": 2
+  "model": "gemini-flash-lite-latest",
+  "picks": [
+    {
+      "id": "hacker-news-0",
+      "score": 2,
+      "category": "Social",
+      "suggested_angle": null,
+      "why_now": "General discussion piece on assisted dying legislation; completely unrelated to legal AI, regulation, or our editorial focus.",
+      "verdict": "drop",
+      "duplicate_of": null
+    }
+  ],
+  "summary": {
+    "enqueue_count": 0,
+    "watch_count": 0,
+    "drop_count": 1,
+    "notes": "Dropped non-relevant Hacker News item on assisted dying."
+  },
+  "enqueued": 0,
+  "usage": {
+    "input_tokens": 2165,
+    "output_tokens": 159,
+    "total_tokens": 2324
+  }
 }
