@@ -1,15 +1,15 @@
 {
-  "generated": "2026-07-31T10:27:24.498Z",
+  "generated": "2026-07-31T12:50:12.237Z",
   "cycle_type": "triage",
   "shortlist_size": 0,
   "picks": [],
   "prefilter": {
     "total": 40,
-    "accepted": 1,
+    "accepted": 2,
     "borderline": 0,
-    "rejected": 39,
-    "rejected_as_duplicate": 39,
-    "accept_rate": 3
+    "rejected": 38,
+    "rejected_as_duplicate": 38,
+    "accept_rate": 5
   },
-  "skipped_already_triaged": 1
+  "skipped_already_triaged": 2
 }
