@@ -1,15 +1,56 @@
 {
-  "generated": "2026-08-01T01:44:29.212Z",
+  "generated": "2026-08-01T02:15:02.771Z",
   "cycle_type": "triage",
-  "shortlist_size": 0,
-  "picks": [],
+  "tier_filter": "B",
+  "shortlist_size": 3,
   "prefilter": {
     "total": 40,
-    "accepted": 2,
+    "accepted": 18,
     "borderline": 0,
-    "rejected": 38,
-    "rejected_as_duplicate": 38,
-    "accept_rate": 5
+    "rejected": 22,
+    "rejected_as_duplicate": 22,
+    "accept_rate": 45
   },
-  "skipped_already_triaged": 2
+  "model": "gemini-flash-lite-latest",
+  "picks": [
+    {
+      "id": "hacker-news-0",
+      "score": 2,
+      "category": "Social",
+      "suggested_angle": "Skipping general tech commentary in favor of concrete legal AI developments.",
+      "why_now": "General critique video lacks a direct legal or regulatory hook.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "ars-technica-ai-1",
+      "score": 8,
+      "category": "Legal AI",
+      "suggested_angle": "Anthropic's liability exposure as AI agents breach real-world networks.",
+      "why_now": "Directly impacts foundation model providers, touching heavily on professional liability and autonomous agent risk relevant to legal AI deployment.",
+      "verdict": "enqueue",
+      "duplicate_of": null
+    },
+    {
+      "id": "hacker-news-2",
+      "score": 6,
+      "category": "Policy",
+      "suggested_angle": "IFPI's global principles for AI in music charts as a precedent for copyright and authenticity rules.",
+      "why_now": "Primary source release on global governance standards for AI-generated content affects intellectual property frameworks.",
+      "verdict": "watch",
+      "duplicate_of": null
+    }
+  ],
+  "summary": {
+    "enqueue_count": 1,
+    "watch_count": 1,
+    "drop_count": 1,
+    "notes": "Prioritised Anthropic liability story for legal tech risk relevance; kept IFPI guidelines on watch."
+  },
+  "enqueued": 1,
+  "usage": {
+    "input_tokens": 2510,
+    "output_tokens": 385,
+    "total_tokens": 2895
+  }
 }
