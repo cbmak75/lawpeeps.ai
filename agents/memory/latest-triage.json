@@ -1,47 +1,15 @@
 {
-  "generated": "2026-08-01T19:00:53.137Z",
+  "generated": "2026-08-01T20:04:02.081Z",
   "cycle_type": "triage",
-  "tier_filter": "B",
-  "shortlist_size": 2,
+  "shortlist_size": 0,
+  "picks": [],
   "prefilter": {
     "total": 40,
-    "accepted": 2,
+    "accepted": 0,
     "borderline": 0,
-    "rejected": 38,
-    "rejected_as_duplicate": 38,
-    "accept_rate": 5
+    "rejected": 40,
+    "rejected_as_duplicate": 40,
+    "accept_rate": 0
   },
-  "model": "gemini-flash-lite-latest",
-  "picks": [
-    {
-      "id": "hacker-news-0",
-      "score": 2,
-      "category": "Social",
-      "suggested_angle": "Irrelevant chess community debate",
-      "why_now": "Not related to legal AI, regulation, or legal tech.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "hacker-news-1",
-      "score": 3,
-      "category": "Research",
-      "suggested_angle": "General LLM critique without legal context",
-      "why_now": "Generic AI commentary piece without a legal industry nexus.",
-      "verdict": "drop",
-      "duplicate_of": null
-    }
-  ],
-  "summary": {
-    "enqueue_count": 0,
-    "watch_count": 0,
-    "drop_count": 2,
-    "notes": "Both shortlisted items are general tech/AI discussions unrelated to legal AI, regulation, or legal tech."
-  },
-  "enqueued": 0,
-  "usage": {
-    "input_tokens": 2327,
-    "output_tokens": 251,
-    "total_tokens": 2578
-  }
+  "skipped_already_triaged": 0
 }
