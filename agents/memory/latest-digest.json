@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-02T15:51:30.073Z",
+  "generated": "2026-08-02T16:43:59.522Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 702,
+  "total_scanned": 701,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -151,18 +151,6 @@
       "relevance_score": 7
     },
     {
-      "title": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier - WIRED",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0RnNOUnNIRk0wb2FJR0ViSElsc1c4UTRQX2Q5M05SbU5vbF9HQUItbktGNWtVaThGLURGWlBQenlEWUpNeGRQak1OblFZZHdtVngzVkd4ZWNRSnhydHEwaFFGZHdOYll1N2xleEtRZDd3VW9jd3Z0c3pKSQ?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFB0RnNOUnNIRk0wb2FJR0ViSElsc1c4UTRQX2Q5M05SbU5vbF9HQUItbktGNWtVaThGLURGWlBQenlEWUpNeGRQak1OblFZZHdtVngzVkd4ZWNRSnhydHEwaFFGZHdOYll1N2xleEtRZDd3VW9jd3Z0c3pKSQ?oc=5\" target=\"_blank\"&gt;The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;WIRED&lt;/font&gt;",
-      "published": "2026-08-01T09:30:00.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
-    },
-    {
       "title": "Harvey AI Number of Employees 2026 | Employee Count &amp; Headcount Data - Revelio Labs",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KTk5TLXY5ZGxUTTJxLXRkaUpoNTdwWk01Q3R1R1JaYVM4OVdLYTNhZjVkY3JTbUZDdGY3WDd1SUY2cWUtbkJEWjdubjNKYXN0czNqMVcyNHN0cUd3TFlQbjZvZTJlZ1BL?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KTk5TLXY5ZGxUTTJxLXRkaUpoNTdwWk01Q3R1R1JaYVM4OVdLYTNhZjVkY3JTbUZDdGY3WDd1SUY2cWUtbkJEWjdubjNKYXN0czNqMVcyNHN0cUd3TFlQbjZvZTJlZ1BL?oc=5\" target=\"_blank\"&gt;Harvey AI Number of Employees 2026 | Employee Count &amp; Headcount Data&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Revelio Labs&lt;/font&gt;",
@@ -307,7 +295,7 @@
       "relevance_score": 6
     },
     {
-      "title": "Legaltech Rundown: Spellbook Launches iManage Integration, Norm Law Announces New Big Law Hires, and More - law.com",
+      "title": "Legaltech Rundown: Spellbook Launches iManage Integration, Norm Law Announces New Big Law Hires, and More - Law.com",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONHBNemtNcXRjaFFudFBJRG0xV0M5QlJ2dlhGWm0xcFluNjVJSW1GNVpVU09MQktGZ3Rwcy1scXBVdGNxeFRuY3oyVkRMZVBEMnBwV2szTTAybTZHVkJmdy1mcl9RTDBjRGx0RFVEeU9Kd3loZ2hRT0trWW1mUGJTY3BQUlBzQ203dzB4ZEFULTJUbGxFZXV5WmNLYnhBaW9ubE91WjVZbUpWZE1MemZfUkV3dkl6YWFhanJCVlA3UFVTZ2pna1ItMkJEelM0dnRDelhoZjVRcmN2ZHBXdWJickpUYjJlY0dDUFE?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxONHBNemtNcXRjaFFudFBJRG0xV0M5QlJ2dlhGWm0xcFluNjVJSW1GNVpVU09MQktGZ3Rwcy1scXBVdGNxeFRuY3oyVkRMZVBEMnBwV2szTTAybTZHVkJmdy1mcl9RTDBjRGx0RFVEeU9Kd3loZ2hRT0trWW1mUGJTY3BQUlBzQ203dzB4ZEFULTJUbGxFZXV5WmNLYnhBaW9ubE91WjVZbUpWZE1MemZfUkV3dkl6YWFhanJCVlA3UFVTZ2pna1ItMkJEelM0dnRDelhoZjVRcmN2ZHBXdWJickpUYjJlY0dDUFE?oc=5\" target=\"_blank\"&gt;Legaltech Rundown: Spellbook Launches iManage Integration, Norm Law Announces New Big Law Hires, and More&",
       "published": "2026-05-01T07:00:00.000Z",
@@ -479,6 +467,18 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQzJDM2Zxdks1eDYzTDNNZ1RuRXZ6Njh2SFFuVFFITmxhdF9lYzR3ZVRzZ1R6bEFnMHNNTHdodzJaVmxMNlZSWlp4S2xhY0VWdThHV3JQVktjNTlfUzE2QlhucDlTNFhhOTRCYUl2aDMyaHUzR3B4T2YtazktdnpmVFg4X0RJdkJqWFVQaVJNcDJsejF0YWpMelNkamhkbTQ4R0F0STdVTWpqRlBTMFBnUkF4R2s1U1d1NGVNYzFKcjFiTllL?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQQzJDM2Zxdks1eDYzTDNNZ1RuRXZ6Njh2SFFuVFFITmxhdF9lYzR3ZVRzZ1R6bEFnMHNNTHdodzJaVmxMNlZSWlp4S2xhY0VWdThHV3JQVktjNTlfUzE2QlhucDlTNFhhOTRCYUl2aDMyaHUzR3B4T2YtazktdnpmVFg4X0RJdkJqWFVQaVJNcDJsejF0YWpMelNkamhkbTQ4R0F0STdVTWpqRlBTMFBnUkF4R2s1U1d1NGVNYzFKcjFiTllL?oc=5\" target=\"_blank\"&gt;Harvey announces partnership with Swiss legal AI intelligence platform DeepJudge&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Global Legal Po",
       "published": "2026-05-21T07:00:00.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 5
+    },
+    {
+      "title": "Claude for Legal: What the industry needs to know - Legal IT Insider",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaTk1d0FIT01YOFFzWUlxSFh6cGZza21GcEx0VWY4VWNnd1FnNkx2eDE2ZFNPZmZadDRGVmZoSTBlSEJjR21fanp4MzNWTGF1QTR2SDlCdlNka25MU0kySG5oSUZQdnRnbDhPMHhyX3dlbFN0eFdFZkdEVEZ5OE5RSUJGNA?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOaTk1d0FIT01YOFFzWUlxSFh6cGZza21GcEx0VWY4VWNnd1FnNkx2eDE2ZFNPZmZadDRGVmZoSTBlSEJjR21fanp4MzNWTGF1QTR2SDlCdlNka25MU0kySG5oSUZQdnRnbDhPMHhyX3dlbFN0eFdFZkdEVEZ5OE5RSUJGNA?oc=5\" target=\"_blank\"&gt;Claude for Legal: What the industry needs to know&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Legal IT Insider&lt;/font&gt;",
+      "published": "2026-05-13T07:00:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
