@@ -1,15 +1,209 @@
 {
-  "generated": "2026-08-03T08:58:20.821Z",
+  "generated": "2026-08-03T09:33:54.768Z",
   "cycle_type": "triage",
-  "shortlist_size": 0,
-  "picks": [],
+  "tier_filter": "B",
+  "shortlist_size": 20,
   "prefilter": {
     "total": 40,
-    "accepted": 0,
+    "accepted": 32,
     "borderline": 0,
-    "rejected": 40,
-    "rejected_as_duplicate": 40,
-    "accept_rate": 0
+    "rejected": 8,
+    "rejected_as_duplicate": 8,
+    "accept_rate": 80
   },
-  "skipped_already_triaged": 0
+  "model": "gemini-flash-lite-latest",
+  "picks": [
+    {
+      "id": "arxiv-cs-ai-0",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "None",
+      "why_now": "Pure academic pre-print on LLM evaluation benchmarks with no direct legal tech or regulatory application.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-1",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "None",
+      "why_now": "Technical paper on diffusion LLMs and inference budgets; irrelevant to legal AI publication focus.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-2",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "None",
+      "why_now": "Academic computer science paper on bilevel reinforcement learning.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-3",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "None",
+      "why_now": "Purely academic study of reasoning energy in chain-of-thought trajectories.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-4",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "None",
+      "why_now": "Neuro-symbolic thinking framework research paper without legal domain connection.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-5",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "None",
+      "why_now": "Agentic mathematical tool-flow verification research paper.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-6",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "None",
+      "why_now": "Metaphor-induced algorithmic steering in LLM code generation.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-7",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "None",
+      "why_now": "Academic defense mechanism against unauthorized LLM exploitation.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-8",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "None",
+      "why_now": "Software engineering research paper on LLM repair agents.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-9",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "None",
+      "why_now": "Code editing deletion avoidance paper for software developers.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-10",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "None",
+      "why_now": "Benchmarking distributive bias in resource allocation; general AI ethics rather than legal tech.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-11",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "None",
+      "why_now": "Adversarial training optimization research for general LLMs.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-12",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "None",
+      "why_now": "Academic paper discussing scientific productivity metrics and LLM adoption detection.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-13",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "None",
+      "why_now": "Audio-visual speech recognition cross-modal fusion paper.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-14",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "None",
+      "why_now": "Retail dynamics simulation using LLM agents.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-15",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "None",
+      "why_now": "Reinforcement learning for summarization tasks.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-16",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "None",
+      "why_now": "Incomplete OWL ontology reasoning neural-symbolic framework.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-17",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "None",
+      "why_now": "GPU reallocation architecture for post-training.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-18",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "None",
+      "why_now": "Task transformation for self-verifiable rewards in open-ended LLMs.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-19",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "None",
+      "why_now": "Open-domain relational triplet extraction prompt optimization.",
+      "verdict": "drop",
+      "duplicate_of": null
+    }
+  ],
+  "summary": {
+    "enqueue_count": 0,
+    "watch_count": 0,
+    "drop_count": 20,
+    "notes": "All candidate items are generic arXiv computer science pre-prints with no direct relevance to legal AI, regulation, or legal tech."
+  },
+  "enqueued": 0,
+  "usage": {
+    "input_tokens": 5354,
+    "output_tokens": 1766,
+    "total_tokens": 7120
+  }
 }
