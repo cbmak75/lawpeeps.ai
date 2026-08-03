@@ -1,92 +1,15 @@
 {
-  "generated": "2026-08-03T19:24:10.285Z",
+  "generated": "2026-08-03T20:53:02.412Z",
   "cycle_type": "triage",
-  "tier_filter": "B",
-  "shortlist_size": 7,
+  "shortlist_size": 0,
+  "picks": [],
   "prefilter": {
     "total": 40,
-    "accepted": 19,
+    "accepted": 1,
     "borderline": 0,
-    "rejected": 21,
-    "rejected_as_duplicate": 21,
-    "accept_rate": 48
+    "rejected": 39,
+    "rejected_as_duplicate": 39,
+    "accept_rate": 3
   },
-  "model": "gemini-flash-lite-latest",
-  "picks": [
-    {
-      "id": "above-the-law-legaltech-0",
-      "score": 8,
-      "category": "Legal AI",
-      "suggested_angle": "Descrybe's open-source plumbing positions it as the go-to backend for Anthropic's legal research tool integrations.",
-      "why_now": "Directly ties into foundational model providers launching legal-specific workflows and open-source infrastructure.",
-      "verdict": "enqueue",
-      "duplicate_of": null
-    },
-    {
-      "id": "law-society-gazette-1",
-      "score": 8,
-      "category": "Regulatory",
-      "suggested_angle": "HMCTS opens up court listing data for computational analysis, introducing strict rules on high-risk developments.",
-      "why_now": "Major UK regulatory/judicial development regarding legal tech access to court data.",
-      "verdict": "enqueue",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-2",
-      "score": 3,
-      "category": "Research",
-      "suggested_angle": "Clinical safety limits of LLMs.",
-      "why_now": "Out of scope for legal AI (medical focus).",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-3",
-      "score": 3,
-      "category": "Research",
-      "suggested_angle": "Ontology-aware agents for scientific tools.",
-      "why_now": "Pure computer science preprint without a direct legal industry hook.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-4",
-      "score": 3,
-      "category": "Research",
-      "suggested_angle": "Multi-reward RL policy decomposition.",
-      "why_now": "Pure machine learning theory preprint.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-5",
-      "score": 3,
-      "category": "Research",
-      "suggested_angle": "GenAI in educational equity.",
-      "why_now": "Educational/sociological focus rather than legal tech.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-6",
-      "score": 3,
-      "category": "Research",
-      "suggested_angle": "LLMs in emotional support tasks.",
-      "why_now": "Mental health and conversational AI focus.",
-      "verdict": "drop",
-      "duplicate_of": null
-    }
-  ],
-  "summary": {
-    "enqueue_count": 2,
-    "watch_count": 0,
-    "drop_count": 5,
-    "notes": "Selected the ATL integration piece and the HMCTS court data licensing story; dropped all general arXiv preprints."
-  },
-  "enqueued": 2,
-  "usage": {
-    "input_tokens": 3142,
-    "output_tokens": 738,
-    "total_tokens": 3880
-  }
+  "skipped_already_triaged": 1
 }
