@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-03T01:29:32.698Z",
+  "generated": "2026-08-03T02:14:35.695Z",
   "cycle_type": "triage",
-  "shortlist_size": 0,
-  "picks": [],
+  "tier_filter": "B",
+  "shortlist_size": 1,
   "prefilter": {
     "total": 40,
     "accepted": 1,
@@ -11,5 +11,28 @@
     "rejected_as_duplicate": 39,
     "accept_rate": 3
   },
-  "skipped_already_triaged": 1
+  "model": "gemini-flash-lite-latest",
+  "picks": [
+    {
+      "id": "hacker-news-0",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "General software engineering/local LLM tutorial in the D language with no specific legal, regulatory, or immigration angle.",
+      "verdict": "drop",
+      "duplicate_of": null
+    }
+  ],
+  "summary": {
+    "enqueue_count": 0,
+    "watch_count": 0,
+    "drop_count": 1,
+    "notes": "Dropped general tech tutorial lacking any legal AI or regulatory relevance."
+  },
+  "enqueued": 0,
+  "usage": {
+    "input_tokens": 2212,
+    "output_tokens": 162,
+    "total_tokens": 2374
+  }
 }
