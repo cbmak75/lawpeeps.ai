@@ -2196,7 +2196,97 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "Descrybe Open-Sources Its Legal Research Plumbing",
+      "slug": "descrybe-open-sources-its-legal-research-plumbing",
+      "score": 8,
+      "category": "Legal AI",
+      "story_type": "news",
+      "research_brief": "Anthropic's own legal repo tells lawyers to connect a research tool before they do anything else. Descrybe is ready to be the thing on the other end. The post Descrybe Open-Sources Its Legal Research Plumbing appeared first on Above the Law .",
+      "primary_source": "https://abovethelaw.com/2026/08/descrybe-open-sources-its-legal-research-plumbing/",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "Descrybe's open-source plumbing positions it as the go-to backend for Anthropic's legal research tool integrations.",
+      "why_now": "Directly ties into foundational model providers launching legal-specific workflows and open-source infrastructure.",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Above the Law (Legal Tech)",
+      "source_tier": "B",
+      "prefilter_score": 8,
+      "matched_terms": [
+        "Anthropic"
+      ],
+      "fingerprint": {
+        "entities": [
+          "anthropic"
+        ],
+        "numerics": [],
+        "keywords": [],
+        "title_tokens": [
+          "descrybe",
+          "open",
+          "sources",
+          "legal",
+          "research",
+          "plumbing"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-08-03T19:24:10.278Z",
+      "queued_at": "2026-08-03T19:24:10.280Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
+    },
+    {
+      "title": "Courts listing data opened up for (some) re-use",
+      "slug": "courts-listing-data-opened-up-for-some-re-use",
+      "score": 8,
+      "category": "Regulatory",
+      "story_type": "news",
+      "research_brief": "HMCTS announces licences for computational analysis - but with restrictions on 'high risk' developments.",
+      "primary_source": "https://www.lawgazette.co.uk/news/courts-listing-data-opened-up-for-some-re-use/5127573.article",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "HMCTS opens up court listing data for computational analysis, introducing strict rules on high-risk developments.",
+      "why_now": "Major UK regulatory/judicial development regarding legal tech access to court data.",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Law Society Gazette",
+      "source_tier": "B",
+      "prefilter_score": 7,
+      "matched_terms": [
+        "Eve"
+      ],
+      "fingerprint": {
+        "entities": [
+          "eve"
+        ],
+        "numerics": [],
+        "keywords": [],
+        "title_tokens": [
+          "courts",
+          "listing",
+          "data",
+          "opened"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-08-03T19:24:10.281Z",
+      "queued_at": "2026-08-03T19:24:10.284Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-08-03T14:27:30.332Z"
+  "last_updated": "2026-08-03T19:24:10.284Z"
 }
