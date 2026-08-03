@@ -2146,7 +2146,57 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "Brad Blickstein on Private Equity Thinking, AI Pricing, and the Law Firm Business Model",
+      "slug": "brad-blickstein-on-private-equity-thinking-ai-pricing-and-the-law-firm-business-",
+      "score": 7,
+      "category": "Adoption",
+      "story_type": "news",
+      "research_brief": "We welcome back Brad Blickstein , CEO at Blickstein Group , to discuss how private equity principles may provide law firms with an alternative approach to profitability, governance, and even long-term growth. Blickstein&rsquo;s new book, WWPED: What Would Private Equity Do? was written to walk firms through how treating topics like pricing, technology, talent, and client relationships as part of the enterprise value instead of overhead expenses after year-end partnership distributions. Pulling f",
+      "primary_source": "https://www.geeklawblog.com/2026/08/brad-blickstein-on-private-equity-thinking-ai-pricing-and-the-law-firm-business-model.html",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "How private equity thinking and alternative pricing models are shifting law firm business structures alongside AI.",
+      "why_now": "Brad Blickstein provides valuable industry insight on alternative firm profitability models tied to modern tech pricing.",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "3 Geeks and a Law Blog",
+      "source_tier": "B",
+      "prefilter_score": 7,
+      "matched_terms": [
+        "Eve"
+      ],
+      "fingerprint": {
+        "entities": [
+          "eve"
+        ],
+        "numerics": [],
+        "keywords": [],
+        "title_tokens": [
+          "brad",
+          "blickstein",
+          "private",
+          "equity",
+          "thinking",
+          "ai",
+          "pricing",
+          "firm",
+          "business",
+          "model"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-08-03T14:27:30.329Z",
+      "queued_at": "2026-08-03T14:27:30.332Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-08-01T02:15:02.771Z"
+  "last_updated": "2026-08-03T14:27:30.332Z"
 }
