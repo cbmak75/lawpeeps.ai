@@ -1,83 +1,38 @@
 {
-  "generated": "2026-08-03T14:27:30.333Z",
+  "generated": "2026-08-03T15:36:06.322Z",
   "cycle_type": "triage",
-  "tier_filter": "B",
-  "shortlist_size": 6,
+  "tier_filter": "A",
+  "shortlist_size": 1,
   "prefilter": {
     "total": 40,
-    "accepted": 26,
+    "accepted": 2,
     "borderline": 0,
-    "rejected": 14,
-    "rejected_as_duplicate": 14,
-    "accept_rate": 65
+    "rejected": 38,
+    "rejected_as_duplicate": 38,
+    "accept_rate": 5
   },
   "model": "gemini-flash-lite-latest",
   "picks": [
     {
-      "id": "hacker-news-0",
-      "score": 4,
-      "category": "Legal AI",
-      "suggested_angle": "Enterprise AI layers expand into general operations.",
-      "why_now": "Generic enterprise AI open-source framework with no specific legal sector focus.",
+      "id": "crunchbase-news-0",
+      "score": 2,
+      "category": "Social",
+      "suggested_angle": "General tech leadership career paths",
+      "why_now": "The article discusses general product manager to CEO tracks and lacks any specific legal, regulatory, or legal tech vertical focus, making it irrelevant for lawpeeps.ai.",
       "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "hacker-news-1",
-      "score": 4,
-      "category": "Research",
-      "suggested_angle": "Simple markdown wikis outperform complex AI agent memory tools.",
-      "why_now": "Interesting general software architecture insight, but lacks a direct legal tech connection.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "hacker-news-2",
-      "score": 4,
-      "category": "Adoption",
-      "suggested_angle": "Critique of ubiquitous AI adoption strategies.",
-      "why_now": "Too general and anecdotal for a legal AI publication.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "above-the-law-legaltech-3",
-      "score": 5,
-      "category": "Legal AI",
-      "suggested_angle": "Roundup of general legal and tech news.",
-      "why_now": "Standard morning news roundup containing miscellaneous legal and political items.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "three-geeks-4",
-      "score": 7,
-      "category": "Adoption",
-      "suggested_angle": "How private equity thinking and alternative pricing models are shifting law firm business structures alongside AI.",
-      "why_now": "Brad Blickstein provides valuable industry insight on alternative firm profitability models tied to modern tech pricing.",
-      "verdict": "enqueue",
-      "duplicate_of": null
-    },
-    {
-      "id": "law-society-gazette-5",
-      "score": 6,
-      "category": "Regulatory",
-      "suggested_angle": "New medico-legal chambers launched to tackle expert witness shortages in the UK.",
-      "why_now": "Relevant UK legal sector practice update, though light on direct AI angles.",
-      "verdict": "watch",
       "duplicate_of": null
     }
   ],
   "summary": {
-    "enqueue_count": 1,
-    "watch_count": 1,
-    "drop_count": 4,
-    "notes": "Filtered out generic tech items; enqueued the 3 Geeks piece on law firm business models and private equity/AI pricing."
+    "enqueue_count": 0,
+    "watch_count": 0,
+    "drop_count": 1,
+    "notes": "Dropped general tech career article due to lack of legal or legal-tech relevance."
   },
-  "enqueued": 1,
+  "enqueued": 0,
   "usage": {
-    "input_tokens": 2932,
-    "output_tokens": 656,
-    "total_tokens": 3588
+    "input_tokens": 2143,
+    "output_tokens": 181,
+    "total_tokens": 2324
   }
 }
