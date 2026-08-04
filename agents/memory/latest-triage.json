@@ -1,195 +1,33 @@
 {
-  "generated": "2026-08-04T13:59:19.422Z",
+  "generated": "2026-08-04T16:05:02.930Z",
   "cycle_type": "triage",
-  "tier_filter": "B",
-  "shortlist_size": 20,
+  "tier_filter": "A",
+  "shortlist_size": 2,
   "prefilter": {
     "total": 40,
-    "accepted": 23,
+    "accepted": 2,
     "borderline": 0,
-    "rejected": 17,
-    "rejected_as_duplicate": 17,
-    "accept_rate": 57
+    "rejected": 38,
+    "rejected_as_duplicate": 38,
+    "accept_rate": 5
   },
   "model": "gemini-flash-lite-latest",
   "picks": [
     {
-      "id": "arxiv-cs-ai-0",
-      "score": 2,
-      "category": "Research",
+      "id": "google-news-legal-ai-0",
+      "score": 3,
+      "category": "Legal AI",
       "suggested_angle": null,
-      "why_now": "Generic K-12 teacher education paper with zero connection to legal AI or UK regulation.",
+      "why_now": "Vendor press release lacking independent editorial substance or hard news hook.",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
-      "id": "arxiv-cs-ai-1",
-      "score": 2,
-      "category": "Research",
+      "id": "google-news-legal-ai-1",
+      "score": 4,
+      "category": "Legal AI",
       "suggested_angle": null,
-      "why_now": "General technical paper on GPU energy attribution for batched LLM serving, lacking any specific legal vertical relevance.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-2",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": null,
-      "why_now": "Pure computer science theory on sequence models; no legal sector application.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-3",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": null,
-      "why_now": "General RAG-based misinformation mitigation for SMEs, not specific to law or legal tech.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-4",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": null,
-      "why_now": "Generic LLM evaluation optimization paper.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-5",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": null,
-      "why_now": "General AI agent memory research with no legal sector context.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-6",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": null,
-      "why_now": "General streaming LLM agent evaluation paper.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-7",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": null,
-      "why_now": "Elastic memory for LLM agents is out of scope without a legal tech application.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-8",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": null,
-      "why_now": "Spatial reasoning uncertainty quantification in LLMs is irrelevant to legal AI workflows.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-9",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": null,
-      "why_now": "General trace-conditioned answer consistency for uncertainty quantification.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-10",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": null,
-      "why_now": "Production LLM serving trace compression research.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-11",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": null,
-      "why_now": "Diffusion LLM decoding for mathematical reasoning has no legal vertical connection.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-12",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": null,
-      "why_now": "Foundation model for logic rule induction, but purely theoretical and not focused on legal reasoning or statutes.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-13",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": null,
-      "why_now": "Changepoint attribution statistical method with no legal application.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-14",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": null,
-      "why_now": "Thermochemical plastic upcycling ML paper; false positive on keywords.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-15",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": null,
-      "why_now": "Fair null-space projections for machine learning kernel methods.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-16",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": null,
-      "why_now": "General personalization of LLM agents using small policy models.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-17",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": null,
-      "why_now": "Multimodal interpretation of polysemous words.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-18",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": null,
-      "why_now": "Local uncertainty repair for block-parallel speculative decoding.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-19",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": null,
-      "why_now": "Automated heuristic design for NP-hard combinatorial optimization using LLMs.",
+      "why_now": "Generic regional commentary piece without a specific regulatory or corporate development.",
       "verdict": "drop",
       "duplicate_of": null
     }
@@ -197,13 +35,13 @@
   "summary": {
     "enqueue_count": 0,
     "watch_count": 0,
-    "drop_count": 20,
-    "notes": "All candidate stories are out-of-scope arXiv computer science preprints without legal vertical or regulatory relevance."
+    "drop_count": 2,
+    "notes": "Both candidate stories are low-value aggregation or vendor-driven press releases with no hard news hook."
   },
   "enqueued": 0,
   "usage": {
-    "input_tokens": 5285,
-    "output_tokens": 1769,
-    "total_tokens": 7054
+    "input_tokens": 2753,
+    "output_tokens": 249,
+    "total_tokens": 3002
   }
 }
