@@ -2286,7 +2286,66 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "Legal tech startup NYAI raises $1.5 Mn in seed round - Entrackr",
+      "slug": "legal-tech-startup-nyai-raises-1-5-mn-in-seed-round-entrackr",
+      "score": 7,
+      "category": "Funding",
+      "story_type": "news",
+      "research_brief": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPUHNHSmpScklCVzA0WWVXU3ltYW9fODZnbzVuTlFkUnU1bHBsRlBoTTVXZjRjUWp0QXhWTDVPWEk0a0ktTE45bWxpRXAwVF9WUjZURmtYOWUwODROSFVPRUR2aVFFX0JYZXkxWWxRUk45cXlfZ3FBQ1NHTjBLWGQ5QnUtUENGeEM2b2pQd0pESFR6Y2vSAZMBQVVfeXFMT1BzR0pqUnJJQlcwNFllV1N5bWFvXzg2Z281bk5RZFJ1NWxwbEZQaE01V2Y0Y1FqdEF4Vkw1T1hJNGtJLUxOOW1saUVwMFRfVlI2VEZrWDllMDg0TkhVT0VEdmlRRV9CWGV5MVlsUVJOOXF5X2dxQUNTR04wS1hkOUJ1LVBDRnhDNm9qUHdKREhUemNr?oc=5\" target=\"_blank\"&gt;Legal tech startup NY",
+      "primary_source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUHNHSmpScklCVzA0WWVXU3ltYW9fODZnbzVuTlFkUnU1bHBsRlBoTTVXZjRjUWp0QXhWTDVPWEk0a0ktTE45bWxpRXAwVF9WUjZURmtYOWUwODROSFVPRUR2aVFFX0JYZXkxWWxRUk45cXlfZ3FBQ1NHTjBLWGQ5QnUtUENGeEM2b2pQd0pESFR6Y2vSAZMBQVVfeXFMT1BzR0pqUnJJQlcwNFllV1N5bWFvXzg2Z281bk5RZFJ1NWxwbEZQaE01V2Y0Y1FqdEF4Vkw1T1hJNGtJLUxOOW1saUVwMFRfVlI2VEZrWDllMDg0TkhVT0VEdmlRRV9CWGV5MVlsUVJOOXF5X2dxQUNTR04wS1hkOUJ1LVBDRnhDNm9qUHdKREhUemNr?oc=5",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "Seed funding rounds show ongoing investor appetite for early-stage legal tech despite macroeconomic tightening.",
+      "why_now": "New seed funding announcement for legal tech startup NYAI provides fresh data on early-stage investment trends.",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Google News: legal AI",
+      "source_tier": "A",
+      "prefilter_score": 14,
+      "matched_terms": [
+        "LLM",
+        "legal tech"
+      ],
+      "fingerprint": {
+        "entities": [],
+        "numerics": [
+          "1.5m",
+          "1bn",
+          "0k",
+          "45bn",
+          "2bn",
+          "5bn",
+          "281bn",
+          "5m"
+        ],
+        "keywords": [
+          "llm",
+          "legal tech"
+        ],
+        "title_tokens": [
+          "legal",
+          "tech",
+          "startup",
+          "nyai",
+          "raises",
+          "seed",
+          "round",
+          "entrackr"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-08-04T11:13:28.034Z",
+      "queued_at": "2026-08-04T11:13:28.037Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-08-03T19:24:10.284Z"
+  "last_updated": "2026-08-04T11:13:28.037Z"
 }
