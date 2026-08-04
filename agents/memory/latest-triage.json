@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-04T16:05:02.930Z",
+  "generated": "2026-08-04T18:21:33.602Z",
   "cycle_type": "triage",
-  "tier_filter": "A",
-  "shortlist_size": 2,
+  "shortlist_size": 0,
+  "picks": [],
   "prefilter": {
     "total": 40,
     "accepted": 2,
@@ -11,37 +11,5 @@
     "rejected_as_duplicate": 38,
     "accept_rate": 5
   },
-  "model": "gemini-flash-lite-latest",
-  "picks": [
-    {
-      "id": "google-news-legal-ai-0",
-      "score": 3,
-      "category": "Legal AI",
-      "suggested_angle": null,
-      "why_now": "Vendor press release lacking independent editorial substance or hard news hook.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "google-news-legal-ai-1",
-      "score": 4,
-      "category": "Legal AI",
-      "suggested_angle": null,
-      "why_now": "Generic regional commentary piece without a specific regulatory or corporate development.",
-      "verdict": "drop",
-      "duplicate_of": null
-    }
-  ],
-  "summary": {
-    "enqueue_count": 0,
-    "watch_count": 0,
-    "drop_count": 2,
-    "notes": "Both candidate stories are low-value aggregation or vendor-driven press releases with no hard news hook."
-  },
-  "enqueued": 0,
-  "usage": {
-    "input_tokens": 2753,
-    "output_tokens": 249,
-    "total_tokens": 3002
-  }
+  "skipped_already_triaged": 2
 }
