@@ -1,47 +1,15 @@
 {
-  "generated": "2026-08-04T19:23:57.037Z",
+  "generated": "2026-08-04T20:16:57.023Z",
   "cycle_type": "triage",
-  "tier_filter": "B",
-  "shortlist_size": 2,
+  "shortlist_size": 0,
+  "picks": [],
   "prefilter": {
     "total": 40,
-    "accepted": 17,
+    "accepted": 2,
     "borderline": 0,
-    "rejected": 23,
-    "rejected_as_duplicate": 23,
-    "accept_rate": 43
+    "rejected": 38,
+    "rejected_as_duplicate": 38,
+    "accept_rate": 5
   },
-  "model": "gemini-flash-lite-latest",
-  "picks": [
-    {
-      "id": "above-the-law-legaltech-0",
-      "score": 3,
-      "category": "Social",
-      "suggested_angle": "Focus on political appointments and legal personnel rather than legal tech.",
-      "why_now": "Purely political commentary without a core focus on legal AI, regulation, or technology.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "above-the-law-legaltech-1",
-      "score": 8,
-      "category": "Legal AI",
-      "suggested_angle": "LexisNexis pushes rapid prototyping with its new NYC Customer Innovation Lab, shifting legal tech deployment models.",
-      "why_now": "Major vendor innovation labs and bespoke rapid-development models directly impact legal AI adoption timelines for firms.",
-      "verdict": "enqueue",
-      "duplicate_of": null
-    }
-  ],
-  "summary": {
-    "enqueue_count": 1,
-    "watch_count": 0,
-    "drop_count": 1,
-    "notes": "Dropped the political appointment piece; kept and scored the LexisNexis rapid prototyping innovation lab story for the legal AI feed."
-  },
-  "enqueued": 1,
-  "usage": {
-    "input_tokens": 2355,
-    "output_tokens": 303,
-    "total_tokens": 2658
-  }
+  "skipped_already_triaged": 2
 }
