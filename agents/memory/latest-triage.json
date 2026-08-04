@@ -1,38 +1,15 @@
 {
-  "generated": "2026-08-04T11:13:28.038Z",
+  "generated": "2026-08-04T13:42:24.061Z",
   "cycle_type": "triage",
-  "tier_filter": "A",
-  "shortlist_size": 1,
+  "shortlist_size": 0,
+  "picks": [],
   "prefilter": {
     "total": 40,
-    "accepted": 1,
+    "accepted": 0,
     "borderline": 0,
-    "rejected": 39,
-    "rejected_as_duplicate": 39,
-    "accept_rate": 3
+    "rejected": 40,
+    "rejected_as_duplicate": 40,
+    "accept_rate": 0
   },
-  "model": "gemini-flash-lite-latest",
-  "picks": [
-    {
-      "id": "google-news-legal-ai-0",
-      "score": 7,
-      "category": "Funding",
-      "suggested_angle": "Seed funding rounds show ongoing investor appetite for early-stage legal tech despite macroeconomic tightening.",
-      "why_now": "New seed funding announcement for legal tech startup NYAI provides fresh data on early-stage investment trends.",
-      "verdict": "enqueue",
-      "duplicate_of": null
-    }
-  ],
-  "summary": {
-    "enqueue_count": 1,
-    "watch_count": 0,
-    "drop_count": 0,
-    "notes": "Processed 1 shortlist item: 1 enqueued funding story."
-  },
-  "enqueued": 1,
-  "usage": {
-    "input_tokens": 2502,
-    "output_tokens": 184,
-    "total_tokens": 2686
-  }
+  "skipped_already_triaged": 0
 }
