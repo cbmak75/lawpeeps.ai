@@ -2345,7 +2345,54 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "LexisNexis Bets On Build-A-Bear Model For Legal AI",
+      "slug": "lexisnexis-bets-on-build-a-bear-model-for-legal-ai",
+      "score": 8,
+      "category": "Legal AI",
+      "story_type": "news",
+      "research_brief": "New NYC Customer Innovation Lab promises prototypes in hours and products in weeks. The post LexisNexis Bets On Build-A-Bear Model For Legal AI appeared first on Above the Law .",
+      "primary_source": "https://abovethelaw.com/2026/08/lexisnexis-bets-on-build-a-bear-model-for-legal-ai/",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "LexisNexis pushes rapid prototyping with its new NYC Customer Innovation Lab, shifting legal tech deployment models.",
+      "why_now": "Major vendor innovation labs and bespoke rapid-development models directly impact legal AI adoption timelines for firms.",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Above the Law (Legal Tech)",
+      "source_tier": "B",
+      "prefilter_score": 9,
+      "matched_terms": [
+        "legal AI"
+      ],
+      "fingerprint": {
+        "entities": [],
+        "numerics": [],
+        "keywords": [
+          "legal ai"
+        ],
+        "title_tokens": [
+          "lexisnexis",
+          "bets",
+          "build",
+          "bear",
+          "model",
+          "legal",
+          "ai"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-08-04T19:23:57.034Z",
+      "queued_at": "2026-08-04T19:23:57.037Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-08-04T11:13:28.037Z"
+  "last_updated": "2026-08-04T19:23:57.037Z"
 }
