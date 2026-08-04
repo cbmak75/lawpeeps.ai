@@ -1,47 +1,15 @@
 {
-  "generated": "2026-08-04T02:00:30.779Z",
+  "generated": "2026-08-04T02:06:24.067Z",
   "cycle_type": "triage",
-  "tier_filter": "B",
-  "shortlist_size": 2,
+  "shortlist_size": 0,
+  "picks": [],
   "prefilter": {
     "total": 40,
-    "accepted": 21,
+    "accepted": 1,
     "borderline": 0,
-    "rejected": 19,
-    "rejected_as_duplicate": 19,
-    "accept_rate": 53
+    "rejected": 39,
+    "rejected_as_duplicate": 39,
+    "accept_rate": 3
   },
-  "model": "gemini-flash-lite-latest",
-  "picks": [
-    {
-      "id": "legal-futures-0",
-      "score": 3,
-      "category": "Social",
-      "suggested_angle": "Mindset advice on fee charging for law firm partners",
-      "why_now": "General practice advice with no direct connection to legal AI, regulation, or technology trends.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "ars-technica-ai-1",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "Military drone technology update",
-      "why_now": "Defence and military technology story with no relevance to legal practice, legal tech, or regulation.",
-      "verdict": "drop",
-      "duplicate_of": null
-    }
-  ],
-  "summary": {
-    "enqueue_count": 0,
-    "watch_count": 0,
-    "drop_count": 2,
-    "notes": "Both shortlist items are off-beat for legal AI editorial focus (one general law firm practice advice, one military drone tech)."
-  },
-  "enqueued": 0,
-  "usage": {
-    "input_tokens": 2306,
-    "output_tokens": 277,
-    "total_tokens": 2583
-  }
+  "skipped_already_triaged": 1
 }
