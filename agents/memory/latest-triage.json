@@ -1,24 +1,24 @@
 {
-  "generated": "2026-08-05T15:06:45.006Z",
+  "generated": "2026-08-05T17:17:14.398Z",
   "cycle_type": "triage",
   "tier_filter": "A",
   "shortlist_size": 1,
   "prefilter": {
     "total": 40,
-    "accepted": 2,
+    "accepted": 1,
     "borderline": 0,
-    "rejected": 38,
-    "rejected_as_duplicate": 38,
-    "accept_rate": 5
+    "rejected": 39,
+    "rejected_as_duplicate": 39,
+    "accept_rate": 3
   },
   "model": "gemini-flash-lite-latest",
   "picks": [
     {
       "id": "google-news-legal-ai-0",
-      "score": 3,
-      "category": "Legal AI",
-      "suggested_angle": "Speech Processing Solutions rolls out Philips SpeechLive Legal AI Assistant for document automation.",
-      "why_now": "Standard product launch press release with no independent news hook or regulatory scrutiny.",
+      "score": 4,
+      "category": "Adoption",
+      "suggested_angle": "Speech Processing Solutions rolls out Philips SpeechLive Legal AI Assistant for document creation.",
+      "why_now": "Standard vendor press release with little independent news hook or disruptive regulatory angle.",
       "verdict": "drop",
       "duplicate_of": null
     }
@@ -27,12 +27,12 @@
     "enqueue_count": 0,
     "watch_count": 0,
     "drop_count": 1,
-    "notes": "Dropped single press release item due to lack of independent news hook or editorial value."
+    "notes": "Dropped single press release candidate due to lack of independent newsworthiness."
   },
   "enqueued": 0,
   "usage": {
-    "input_tokens": 2473,
-    "output_tokens": 180,
-    "total_tokens": 2653
+    "input_tokens": 2463,
+    "output_tokens": 178,
+    "total_tokens": 2641
   }
 }
