@@ -1,33 +1,24 @@
 {
-  "generated": "2026-08-05T13:57:40.890Z",
+  "generated": "2026-08-05T15:06:45.006Z",
   "cycle_type": "triage",
-  "tier_filter": "B",
-  "shortlist_size": 2,
+  "tier_filter": "A",
+  "shortlist_size": 1,
   "prefilter": {
     "total": 40,
-    "accepted": 21,
+    "accepted": 2,
     "borderline": 0,
-    "rejected": 19,
-    "rejected_as_duplicate": 19,
-    "accept_rate": 53
+    "rejected": 38,
+    "rejected_as_duplicate": 38,
+    "accept_rate": 5
   },
   "model": "gemini-flash-lite-latest",
   "picks": [
     {
-      "id": "hacker-news-0",
-      "score": 2,
-      "category": "Social",
-      "suggested_angle": "General open-source AI education tool launch",
-      "why_now": "Generic consumer/developer AI tool with no specific legal, regulatory, or compliance angle.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "hacker-news-1",
-      "score": 2,
-      "category": "Social",
-      "suggested_angle": "On-device AI news aggregator utility launch",
-      "why_now": "General utility app with no nexus to legal tech, law firms, or regulation.",
+      "id": "google-news-legal-ai-0",
+      "score": 3,
+      "category": "Legal AI",
+      "suggested_angle": "Speech Processing Solutions rolls out Philips SpeechLive Legal AI Assistant for document automation.",
+      "why_now": "Standard product launch press release with no independent news hook or regulatory scrutiny.",
       "verdict": "drop",
       "duplicate_of": null
     }
@@ -35,13 +26,13 @@
   "summary": {
     "enqueue_count": 0,
     "watch_count": 0,
-    "drop_count": 2,
-    "notes": "Both shortlist items are general developer/consumer AI tools lacking any legal industry nexus."
+    "drop_count": 1,
+    "notes": "Dropped single press release item due to lack of independent news hook or editorial value."
   },
   "enqueued": 0,
   "usage": {
-    "input_tokens": 2285,
-    "output_tokens": 267,
-    "total_tokens": 2552
+    "input_tokens": 2473,
+    "output_tokens": 180,
+    "total_tokens": 2653
   }
 }
