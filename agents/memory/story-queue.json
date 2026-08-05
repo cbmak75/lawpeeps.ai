@@ -2392,7 +2392,53 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "Is This The Great Legal Tech Consolidation? - Artificial Lawyer",
+      "slug": "is-this-the-great-legal-tech-consolidation-artificial-lawyer",
+      "score": 8,
+      "category": "Legal AI",
+      "story_type": "news",
+      "research_brief": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOZ3hlR0lSRXVrQVVJZGdMUEJWdTNyZ01IYk1lcWQ0TnhmOUNIQ042dEtvZVlLWmVHNmQ4dWpWVWFJU2Vld1l5OTV5cHhJTndzSEwwcVhfeEJKcXBiV0VuVzIzWG9VNEV5elV3c2JMVUxqMTR0VHBGa2RVeEVMbGprbVUzWklaczNZYTJrOTd0Uy0?oc=5\" target=\"_blank\"&gt;Is This The Great Legal Tech Consolidation?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
+      "primary_source": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZ3hlR0lSRXVrQVVJZGdMUEJWdTNyZ01IYk1lcWQ0TnhmOUNIQ042dEtvZVlLWmVHNmQ4dWpWVWFJU2Vld1l5OTV5cHhJTndzSEwwcVhfeEJKcXBiV0VuVzIzWG9VNEV5elV3c2JMVUxqMTR0VHBGa2RVeEVMbGprbVUzWklaczNZYTJrOTd0Uy0?oc=5",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "Analyzing the shift toward market consolidation among legal tech giants as VC funding concentrates.",
+      "why_now": "Artificial Lawyer's latest commentary addresses the macro market trends following recent high-profile acquisitions and funding rounds.",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Google News: legal AI",
+      "source_tier": "A",
+      "prefilter_score": 12,
+      "matched_terms": [
+        "legal tech"
+      ],
+      "fingerprint": {
+        "entities": [],
+        "numerics": [],
+        "keywords": [
+          "legal tech"
+        ],
+        "title_tokens": [
+          "great",
+          "legal",
+          "tech",
+          "consolidation",
+          "artificial",
+          "lawyer"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-08-05T07:31:10.112Z",
+      "queued_at": "2026-08-05T07:31:10.115Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-08-04T19:23:57.037Z"
+  "last_updated": "2026-08-05T07:31:10.115Z"
 }
