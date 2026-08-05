@@ -1,15 +1,74 @@
 {
-  "generated": "2026-08-05T19:11:09.020Z",
+  "generated": "2026-08-05T19:22:24.650Z",
   "cycle_type": "triage",
-  "shortlist_size": 0,
-  "picks": [],
+  "tier_filter": "B",
+  "shortlist_size": 5,
   "prefilter": {
     "total": 40,
-    "accepted": 1,
+    "accepted": 15,
     "borderline": 0,
-    "rejected": 39,
-    "rejected_as_duplicate": 39,
-    "accept_rate": 3
+    "rejected": 25,
+    "rejected_as_duplicate": 25,
+    "accept_rate": 38
   },
-  "skipped_already_triaged": 1
+  "model": "gemini-flash-lite-latest",
+  "picks": [
+    {
+      "id": "above-the-law-legaltech-0",
+      "score": 2,
+      "category": "Social",
+      "suggested_angle": null,
+      "why_now": "General bar exam commentary without any legal AI or regulatory angle.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "above-the-law-legaltech-1",
+      "score": 3,
+      "category": "Adoption",
+      "suggested_angle": null,
+      "why_now": "Standard Biglaw lateral move (Brown Rudnick team hire) with no tech or AI component.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "above-the-law-legaltech-2",
+      "score": 2,
+      "category": "Policy",
+      "suggested_angle": null,
+      "why_now": "General tariff and trade policy discussion, unrelated to our legal AI/tech focus.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "hacker-news-3",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "General API/infrastructure discussion about voice models on Fireworks, unrelated to legal tech.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "ars-technica-ai-4",
+      "score": 2,
+      "category": "Funding",
+      "suggested_angle": null,
+      "why_now": "General aerospace earnings report, outside our legal AI and regulatory scope.",
+      "verdict": "drop",
+      "duplicate_of": null
+    }
+  ],
+  "summary": {
+    "enqueue_count": 0,
+    "watch_count": 0,
+    "drop_count": 5,
+    "notes": "None of the candidate stories meet our legal AI, regulatory, or immigration tech focus; all dropped."
+  },
+  "enqueued": 0,
+  "usage": {
+    "input_tokens": 2775,
+    "output_tokens": 523,
+    "total_tokens": 3298
+  }
 }
