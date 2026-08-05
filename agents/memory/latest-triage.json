@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-05T17:17:14.398Z",
+  "generated": "2026-08-05T19:11:09.020Z",
   "cycle_type": "triage",
-  "tier_filter": "A",
-  "shortlist_size": 1,
+  "shortlist_size": 0,
+  "picks": [],
   "prefilter": {
     "total": 40,
     "accepted": 1,
@@ -11,28 +11,5 @@
     "rejected_as_duplicate": 39,
     "accept_rate": 3
   },
-  "model": "gemini-flash-lite-latest",
-  "picks": [
-    {
-      "id": "google-news-legal-ai-0",
-      "score": 4,
-      "category": "Adoption",
-      "suggested_angle": "Speech Processing Solutions rolls out Philips SpeechLive Legal AI Assistant for document creation.",
-      "why_now": "Standard vendor press release with little independent news hook or disruptive regulatory angle.",
-      "verdict": "drop",
-      "duplicate_of": null
-    }
-  ],
-  "summary": {
-    "enqueue_count": 0,
-    "watch_count": 0,
-    "drop_count": 1,
-    "notes": "Dropped single press release candidate due to lack of independent newsworthiness."
-  },
-  "enqueued": 0,
-  "usage": {
-    "input_tokens": 2463,
-    "output_tokens": 178,
-    "total_tokens": 2641
-  }
+  "skipped_already_triaged": 1
 }
