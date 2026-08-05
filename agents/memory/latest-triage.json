@@ -1,74 +1,47 @@
 {
-  "generated": "2026-08-05T12:46:11.567Z",
+  "generated": "2026-08-05T13:57:40.890Z",
   "cycle_type": "triage",
-  "tier_filter": "A",
-  "shortlist_size": 5,
+  "tier_filter": "B",
+  "shortlist_size": 2,
   "prefilter": {
     "total": 40,
-    "accepted": 5,
+    "accepted": 21,
     "borderline": 0,
-    "rejected": 35,
-    "rejected_as_duplicate": 35,
-    "accept_rate": 13
+    "rejected": 19,
+    "rejected_as_duplicate": 19,
+    "accept_rate": 53
   },
   "model": "gemini-flash-lite-latest",
   "picks": [
     {
-      "id": "google-news-legal-ai-2",
-      "score": 8,
-      "category": "Funding",
-      "suggested_angle": "Wordsmith secures $14m Series B extension to fuel legal AI agents.",
-      "why_now": "Primary industry coverage of a notable legal AI funding round from Artificial Lawyer.",
-      "verdict": "enqueue",
+      "id": "hacker-news-0",
+      "score": 2,
+      "category": "Social",
+      "suggested_angle": "General open-source AI education tool launch",
+      "why_now": "Generic consumer/developer AI tool with no specific legal, regulatory, or compliance angle.",
+      "verdict": "drop",
       "duplicate_of": null
     },
     {
-      "id": "google-news-legal-ai-0",
-      "score": 5,
-      "category": "Funding",
-      "suggested_angle": "Wordsmith raises $14m Series B extension.",
-      "why_now": "Duplicates the Artificial Lawyer story with less detail.",
-      "verdict": "drop",
-      "duplicate_of": "google-news-legal-ai-2"
-    },
-    {
-      "id": "google-news-legal-ai-1",
-      "score": 5,
-      "category": "Funding",
-      "suggested_angle": "Wordsmith lands $14m for in-house AI tools.",
-      "why_now": "Duplicates the Wordsmith funding event already captured by Artificial Lawyer.",
-      "verdict": "drop",
-      "duplicate_of": "google-news-legal-ai-2"
-    },
-    {
-      "id": "google-news-legal-ai-3",
-      "score": 5,
-      "category": "Funding",
-      "suggested_angle": "Wordsmith AI lands $14M for enterprise legal agents.",
-      "why_now": "Duplicates the Wordsmith funding event already captured by Artificial Lawyer.",
-      "verdict": "drop",
-      "duplicate_of": "google-news-legal-ai-2"
-    },
-    {
-      "id": "crunchbase-news-4",
+      "id": "hacker-news-1",
       "score": 2,
-      "category": "Research",
-      "suggested_angle": "Edtech AI startup MagicSchool AI scaling with VC backing.",
-      "why_now": "Outside core legal AI editorial focus (edtech focus).",
+      "category": "Social",
+      "suggested_angle": "On-device AI news aggregator utility launch",
+      "why_now": "General utility app with no nexus to legal tech, law firms, or regulation.",
       "verdict": "drop",
       "duplicate_of": null
     }
   ],
   "summary": {
-    "enqueue_count": 1,
+    "enqueue_count": 0,
     "watch_count": 0,
-    "drop_count": 4,
-    "notes": "Picked the best source (Artificial Lawyer) for the Wordsmith funding round and dropped duplicates and off-topic edtech."
+    "drop_count": 2,
+    "notes": "Both shortlist items are general developer/consumer AI tools lacking any legal industry nexus."
   },
-  "enqueued": 1,
+  "enqueued": 0,
   "usage": {
-    "input_tokens": 3576,
-    "output_tokens": 598,
-    "total_tokens": 4174
+    "input_tokens": 2285,
+    "output_tokens": 267,
+    "total_tokens": 2552
   }
 }
