@@ -1,60 +1,24 @@
 {
-  "generated": "2026-08-05T19:22:24.650Z",
+  "generated": "2026-08-05T20:55:20.817Z",
   "cycle_type": "triage",
-  "tier_filter": "B",
-  "shortlist_size": 5,
+  "tier_filter": "A",
+  "shortlist_size": 1,
   "prefilter": {
     "total": 40,
-    "accepted": 15,
+    "accepted": 1,
     "borderline": 0,
-    "rejected": 25,
-    "rejected_as_duplicate": 25,
-    "accept_rate": 38
+    "rejected": 39,
+    "rejected_as_duplicate": 39,
+    "accept_rate": 3
   },
   "model": "gemini-flash-lite-latest",
   "picks": [
     {
-      "id": "above-the-law-legaltech-0",
-      "score": 2,
-      "category": "Social",
-      "suggested_angle": null,
-      "why_now": "General bar exam commentary without any legal AI or regulatory angle.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "above-the-law-legaltech-1",
-      "score": 3,
+      "id": "google-news-legal-ai-0",
+      "score": 4,
       "category": "Adoption",
-      "suggested_angle": null,
-      "why_now": "Standard Biglaw lateral move (Brown Rudnick team hire) with no tech or AI component.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "above-the-law-legaltech-2",
-      "score": 2,
-      "category": "Policy",
-      "suggested_angle": null,
-      "why_now": "General tariff and trade policy discussion, unrelated to our legal AI/tech focus.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "hacker-news-3",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": null,
-      "why_now": "General API/infrastructure discussion about voice models on Fireworks, unrelated to legal tech.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "ars-technica-ai-4",
-      "score": 2,
-      "category": "Funding",
-      "suggested_angle": null,
-      "why_now": "General aerospace earnings report, outside our legal AI and regulatory scope.",
+      "suggested_angle": "Speech Processing Solutions integrates legal AI assistant into Philips SpeechLive workflow",
+      "why_now": "Standard product launch press release with limited independent editorial hook or regulatory impact.",
       "verdict": "drop",
       "duplicate_of": null
     }
@@ -62,13 +26,13 @@
   "summary": {
     "enqueue_count": 0,
     "watch_count": 0,
-    "drop_count": 5,
-    "notes": "None of the candidate stories meet our legal AI, regulatory, or immigration tech focus; all dropped."
+    "drop_count": 1,
+    "notes": "Dropped single vendor press release lacking deep regulatory or market novelty."
   },
   "enqueued": 0,
   "usage": {
-    "input_tokens": 2775,
-    "output_tokens": 523,
-    "total_tokens": 3298
+    "input_tokens": 2399,
+    "output_tokens": 174,
+    "total_tokens": 2573
   }
 }
