@@ -1,38 +1,56 @@
 {
-  "generated": "2026-08-05T07:31:10.115Z",
+  "generated": "2026-08-05T08:27:36.202Z",
   "cycle_type": "triage",
-  "tier_filter": "A",
-  "shortlist_size": 1,
+  "tier_filter": "B",
+  "shortlist_size": 3,
   "prefilter": {
     "total": 40,
-    "accepted": 1,
+    "accepted": 29,
     "borderline": 0,
-    "rejected": 39,
-    "rejected_as_duplicate": 39,
-    "accept_rate": 3
+    "rejected": 11,
+    "rejected_as_duplicate": 11,
+    "accept_rate": 73
   },
   "model": "gemini-flash-lite-latest",
   "picks": [
     {
-      "id": "google-news-legal-ai-0",
-      "score": 8,
-      "category": "Legal AI",
-      "suggested_angle": "Analyzing the shift toward market consolidation among legal tech giants as VC funding concentrates.",
-      "why_now": "Artificial Lawyer's latest commentary addresses the macro market trends following recent high-profile acquisitions and funding rounds.",
-      "verdict": "enqueue",
+      "id": "arxiv-cs-ai-0",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "Generic academic preprint on multi-agent safety dilemmas without direct legal or regulatory context.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-1",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "General reinforcement learning research for search-augmented LLMs lacking specific applicability to legal tech or regulation.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-2",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "Technical paper on adaptive memory and parameter coordination for LLM agents with no direct connection to legal practice.",
+      "verdict": "drop",
       "duplicate_of": null
     }
   ],
   "summary": {
-    "enqueue_count": 1,
+    "enqueue_count": 0,
     "watch_count": 0,
-    "drop_count": 0,
-    "notes": "Processed Artificial Lawyer commentary on legal tech consolidation."
+    "drop_count": 3,
+    "notes": "All shortlisted items are general computer science preprints without a direct legal AI or regulatory hook."
   },
-  "enqueued": 1,
+  "enqueued": 0,
   "usage": {
-    "input_tokens": 2351,
-    "output_tokens": 180,
-    "total_tokens": 2531
+    "input_tokens": 2486,
+    "output_tokens": 348,
+    "total_tokens": 2834
   }
 }
