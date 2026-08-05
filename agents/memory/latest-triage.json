@@ -1,38 +1,15 @@
 {
-  "generated": "2026-08-05T01:59:26.748Z",
+  "generated": "2026-08-05T04:52:55.210Z",
   "cycle_type": "triage",
-  "tier_filter": "B",
-  "shortlist_size": 1,
+  "shortlist_size": 0,
+  "picks": [],
   "prefilter": {
     "total": 40,
-    "accepted": 20,
+    "accepted": 1,
     "borderline": 0,
-    "rejected": 20,
-    "rejected_as_duplicate": 20,
-    "accept_rate": 50
+    "rejected": 39,
+    "rejected_as_duplicate": 39,
+    "accept_rate": 3
   },
-  "model": "gemini-flash-lite-latest",
-  "picks": [
-    {
-      "id": "above-the-law-legaltech-0",
-      "score": 3,
-      "category": "Social",
-      "suggested_angle": "General business development advice for lawyers on LinkedIn.",
-      "why_now": "Pure soft-skill career advice with no direct connection to legal AI, regulation, or core tech developments.",
-      "verdict": "drop",
-      "duplicate_of": null
-    }
-  ],
-  "summary": {
-    "enqueue_count": 0,
-    "watch_count": 0,
-    "drop_count": 1,
-    "notes": "Dropped non-tech general advice piece as it falls outside our core legal AI and regulatory editorial focus."
-  },
-  "enqueued": 0,
-  "usage": {
-    "input_tokens": 2190,
-    "output_tokens": 180,
-    "total_tokens": 2370
-  }
+  "skipped_already_triaged": 1
 }
