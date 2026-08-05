@@ -1,38 +1,15 @@
 {
-  "generated": "2026-08-05T20:55:20.817Z",
+  "generated": "2026-08-05T22:04:30.591Z",
   "cycle_type": "triage",
-  "tier_filter": "A",
-  "shortlist_size": 1,
+  "shortlist_size": 0,
+  "picks": [],
   "prefilter": {
     "total": 40,
-    "accepted": 1,
+    "accepted": 0,
     "borderline": 0,
-    "rejected": 39,
-    "rejected_as_duplicate": 39,
-    "accept_rate": 3
+    "rejected": 40,
+    "rejected_as_duplicate": 40,
+    "accept_rate": 0
   },
-  "model": "gemini-flash-lite-latest",
-  "picks": [
-    {
-      "id": "google-news-legal-ai-0",
-      "score": 4,
-      "category": "Adoption",
-      "suggested_angle": "Speech Processing Solutions integrates legal AI assistant into Philips SpeechLive workflow",
-      "why_now": "Standard product launch press release with limited independent editorial hook or regulatory impact.",
-      "verdict": "drop",
-      "duplicate_of": null
-    }
-  ],
-  "summary": {
-    "enqueue_count": 0,
-    "watch_count": 0,
-    "drop_count": 1,
-    "notes": "Dropped single vendor press release lacking deep regulatory or market novelty."
-  },
-  "enqueued": 0,
-  "usage": {
-    "input_tokens": 2399,
-    "output_tokens": 174,
-    "total_tokens": 2573
-  }
+  "skipped_already_triaged": 0
 }

@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-05T20:55:19.688Z",
+  "generated": "2026-08-05T22:04:30.560Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 706,
+  "total_scanned": 707,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -139,10 +139,22 @@
       "relevance_score": 7
     },
     {
-      "title": "Wordsmith Extends Series B With $14 Million to Scale AI for In-House Legal Teams - unite.ai",
+      "title": "Wordsmith Extends Series B With $14 Million to Scale AI for In-House Legal Teams - Unite.AI",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTmJqUXBENjRGRWU0alBPajJxVFVFMnA4XzQtX0lPakRyYVl1NkIyNUM5S1ZsaGxTV2owc3RzLXRDb2c5NjFrQlM2ZzVucVhfRXA4MzI2SXRVN3NBWUhyaUVXUzJTc2hTQ1R0RXFDQkR0QVltNjBZNlJsSVVTQjByRmpZUmpZcllXUzBEZHotckpHTVlKa25fcHNWNS1Sd3Z6S1FN?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPTmJqUXBENjRGRWU0alBPajJxVFVFMnA4XzQtX0lPakRyYVl1NkIyNUM5S1ZsaGxTV2owc3RzLXRDb2c5NjFrQlM2ZzVucVhfRXA4MzI2SXRVN3NBWUhyaUVXUzJTc2hTQ1R0RXFDQkR0QVltNjBZNlJsSVVTQjByRmpZUmpZcllXUzBEZHotckpHTVlKa25fcHNWNS1Sd3Z6S1FN?oc=5\" target=\"_blank\"&gt;Wordsmith Extends Series B With $14 Million to Scale AI for In-House Legal Teams&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;unite.ai&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPTmJqUXBENjRGRWU0alBPajJxVFVFMnA4XzQtX0lPakRyYVl1NkIyNUM5S1ZsaGxTV2owc3RzLXRDb2c5NjFrQlM2ZzVucVhfRXA4MzI2SXRVN3NBWUhyaUVXUzJTc2hTQ1R0RXFDQkR0QVltNjBZNlJsSVVTQjByRmpZUmpZcllXUzBEZHotckpHTVlKa25fcHNWNS1Sd3Z6S1FN?oc=5\" target=\"_blank\"&gt;Wordsmith Extends Series B With $14 Million to Scale AI for In-House Legal Teams&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Unite.AI&lt;/font&gt;",
       "published": "2026-08-05T18:26:20.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 7
+    },
+    {
+      "title": "The Legal AI Scaffold Changes Everything – Claude Study - Artificial Lawyer",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQU4tdGFPSGFaaGo0NGRvdnhxMUhYQ3pSd18td3lld2ZRd2xiQkVwWUQ0Z1lhR3IwdGstdE5STUVBTzdqdkxvbnhWUTVwZ0Y5MDNqT1hHV0RDUGVldzI5R2JrdEtaZ2NfYWNDVERjN1o5QWFqeGFTTEp6VDB1S19id3VoOUZUbzQ0eDdwNzJHNzdvYzRNWUh5cFV6UnhXOE0?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNQU4tdGFPSGFaaGo0NGRvdnhxMUhYQ3pSd18td3lld2ZRd2xiQkVwWUQ0Z1lhR3IwdGstdE5STUVBTzdqdkxvbnhWUTVwZ0Y5MDNqT1hHV0RDUGVldzI5R2JrdEtaZ2NfYWNDVERjN1o5QWFqeGFTTEp6VDB1S19id3VoOUZUbzQ0eDdwNzJHNzdvYzRNWUh5cFV6UnhXOE0?oc=5\" target=\"_blank\"&gt;The Legal AI Scaffold Changes Everything – Claude Study&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
+      "published": "2026-06-22T07:00:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
@@ -175,18 +187,6 @@
       "relevance_score": 7
     },
     {
-      "title": "Speech Processing Solutions Launches Philips SpeechLive Legal AI Assistant for Faster, More Accurate Legal Document Creation - afp.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOGZxWEpZbmNienFLTjFLN3kydnh3Yjc3T01Ra0JVSzFwZ0FEZXUwdmkyY1liZld5RE1mbnJFYWlWa3NJUXVJYzl6VE5VVFpLNEdDNjdEdloxbjJPY2phMVNrY25uMTV6cTFUQVNkVzlJSHFKM0EtVmpvVDFwQk5yZmVQT3R2aGxHZG10Z2c3OHFLbFJJUUR1d3Y2Wlp5R1gyTzl3R20tQWVmR0ptOTFoUUxxMlQ4Zw?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOOGZxWEpZbmNienFLTjFLN3kydnh3Yjc3T01Ra0JVSzFwZ0FEZXUwdmkyY1liZld5RE1mbnJFYWlWa3NJUXVJYzl6VE5VVFpLNEdDNjdEdloxbjJPY2phMVNrY25uMTV6cTFUQVNkVzlJSHFKM0EtVmpvVDFwQk5yZmVQT3R2aGxHZG10Z2c3OHFLbFJJUUR1d3Y2Wlp5R1gyTzl3R20tQWVmR0ptOTFoUUxxMlQ4Zw?oc=5\" target=\"_blank\"&gt;Speech Processing Solutions Launches Philips SpeechLive Legal AI Assistant for Faster, More Accurate Legal Document Creation&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f",
-      "published": "2026-08-05T19:30:00.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
-    },
-    {
       "title": "OpenAI Debuts in South Korea's Law Firm Market with ChatGPT Enterprise Rollout at BKL - finance.biggo.com",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1rQWd1VmZYNG9uUW9nT3cxQTFQWlVyMXlnMExpc0dNQkRRNGxtcGN1VWFPOHY3S29ybDRGOHhaRWNDWVRZLWhxdmNEZ3dhWllhMGNTU05XVkpqTlY4c2RxNC01aGJsYnJ0Z0ZacTZoSVEtcXdBdVE?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1rQWd1VmZYNG9uUW9nT3cxQTFQWlVyMXlnMExpc0dNQkRRNGxtcGN1VWFPOHY3S29ybDRGOHhaRWNDWVRZLWhxdmNEZ3dhWllhMGNTU05XVkpqTlY4c2RxNC01aGJsYnJ0Z0ZacTZoSVEtcXdBdVE?oc=5\" target=\"_blank\"&gt;OpenAI Debuts in South Korea's Law Firm Market with ChatGPT Enterprise Rollout at BKL&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;finance.biggo.com&lt;/font&gt;",
@@ -199,9 +199,9 @@
       "relevance_score": 6
     },
     {
-      "title": "Harvey AI Number of Employees 2026 | Employee Count &amp; Headcount Data - reveliolabs.com",
+      "title": "Harvey AI Number of Employees 2026 | Employee Count &amp; Headcount Data - Revelio Labs",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KTk5TLXY5ZGxUTTJxLXRkaUpoNTdwWk01Q3R1R1JaYVM4OVdLYTNhZjVkY3JTbUZDdGY3WDd1SUY2cWUtbkJEWjdubjNKYXN0czNqMVcyNHN0cUd3TFlQbjZvZTJlZ1BL?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KTk5TLXY5ZGxUTTJxLXRkaUpoNTdwWk01Q3R1R1JaYVM4OVdLYTNhZjVkY3JTbUZDdGY3WDd1SUY2cWUtbkJEWjdubjNKYXN0czNqMVcyNHN0cUd3TFlQbjZvZTJlZ1BL?oc=5\" target=\"_blank\"&gt;Harvey AI Number of Employees 2026 | Employee Count &amp; Headcount Data&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;reveliolabs.com&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KTk5TLXY5ZGxUTTJxLXRkaUpoNTdwWk01Q3R1R1JaYVM4OVdLYTNhZjVkY3JTbUZDdGY3WDd1SUY2cWUtbkJEWjdubjNKYXN0czNqMVcyNHN0cUd3TFlQbjZvZTJlZ1BL?oc=5\" target=\"_blank\"&gt;Harvey AI Number of Employees 2026 | Employee Count &amp; Headcount Data&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Revelio Labs&lt;/font&gt;",
       "published": "2026-07-29T15:17:02.000Z",
       "source_id": "google-news-harvey-luminance",
       "source_name": "Google News: Harvey OR Luminance",
@@ -295,9 +295,9 @@
       "relevance_score": 6
     },
     {
-      "title": "Harvey AI will speed up 'diligence' and transform the economy in different ways: Harvey AI CEO - Fox Business",
+      "title": "Harvey AI will speed up 'diligence' and transform the economy in different ways: Harvey AI CEO - foxbusiness.com",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGZzVJbmVJeTVpQjU0TTFfNDY1eEdDdThXb2lyT25sYlpuajc5NDdTSzFzSVYwMEhxdnhMTUc4Sll5amFBb3JPN3VOaU5zYTZQS1JoRVJDcTVsSGM?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGZzVJbmVJeTVpQjU0TTFfNDY1eEdDdThXb2lyT25sYlpuajc5NDdTSzFzSVYwMEhxdnhMTUc4Sll5amFBb3JPN3VOaU5zYTZQS1JoRVJDcTVsSGM?oc=5\" target=\"_blank\"&gt;Harvey AI will speed up 'diligence' and transform the economy in different ways: Harvey AI CEO&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Fox Business&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGZzVJbmVJeTVpQjU0TTFfNDY1eEdDdThXb2lyT25sYlpuajc5NDdTSzFzSVYwMEhxdnhMTUc4Sll5amFBb3JPN3VOaU5zYTZQS1JoRVJDcTVsSGM?oc=5\" target=\"_blank\"&gt;Harvey AI will speed up 'diligence' and transform the economy in different ways: Harvey AI CEO&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;foxbusiness.com&lt;/font&gt;",
       "published": "2026-04-20T07:00:00.000Z",
       "source_id": "google-news-harvey-luminance",
       "source_name": "Google News: Harvey OR Luminance",
@@ -335,18 +335,6 @@
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONHBNemtNcXRjaFFudFBJRG0xV0M5QlJ2dlhGWm0xcFluNjVJSW1GNVpVU09MQktGZ3Rwcy1scXBVdGNxeFRuY3oyVkRMZVBEMnBwV2szTTAybTZHVkJmdy1mcl9RTDBjRGx0RFVEeU9Kd3loZ2hRT0trWW1mUGJTY3BQUlBzQ203dzB4ZEFULTJUbGxFZXV5WmNLYnhBaW9ubE91WjVZbUpWZE1MemZfUkV3dkl6YWFhanJCVlA3UFVTZ2pna1ItMkJEelM0dnRDelhoZjVRcmN2ZHBXdWJickpUYjJlY0dDUFE?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxONHBNemtNcXRjaFFudFBJRG0xV0M5QlJ2dlhGWm0xcFluNjVJSW1GNVpVU09MQktGZ3Rwcy1scXBVdGNxeFRuY3oyVkRMZVBEMnBwV2szTTAybTZHVkJmdy1mcl9RTDBjRGx0RFVEeU9Kd3loZ2hRT0trWW1mUGJTY3BQUlBzQ203dzB4ZEFULTJUbGxFZXV5WmNLYnhBaW9ubE91WjVZbUpWZE1MemZfUkV3dkl6YWFhanJCVlA3UFVTZ2pna1ItMkJEelM0dnRDelhoZjVRcmN2ZHBXdWJickpUYjJlY0dDUFE?oc=5\" target=\"_blank\"&gt;Legaltech Rundown: Spellbook Launches iManage Integration, Norm Law Announces New Big Law Hires, and More&",
       "published": "2026-05-01T07:00:00.000Z",
-      "source_id": "google-news-contract-ai",
-      "source_name": "Google News: contract AI",
-      "source_priority": "medium",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
-    },
-    {
-      "title": "Draftwise Promotes Josh Sandman to Chief Sales Officer Following Rapid Revenue Growth - citybiz",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWEJmQTJ6V3Y1aFN2VUVITUZtOEZLdUpnVmRCVDVrU3FlQWI1emIwVTBQam5XTDR0cEVCZFJJTVZqNE5zV0twLUhpWWVEYUlrak1vMFcwb1czaEs4LXpXRUptZTJDSktaWFhSQ1d3bnEtaXdyRnViVEZ0UENNaTF6eTEyc1M5SzV5MHVGZUhkMHF3Z3FteGIzS0FJT1hsRDBPWDVKUjRuRklfQ211YldQdUFZRXZ1Z2FTOUdmenJDVTNMQQ?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWEJmQTJ6V3Y1aFN2VUVITUZtOEZLdUpnVmRCVDVrU3FlQWI1emIwVTBQam5XTDR0cEVCZFJJTVZqNE5zV0twLUhpWWVEYUlrak1vMFcwb1czaEs4LXpXRUptZTJDSktaWFhSQ1d3bnEtaXdyRnViVEZ0UENNaTF6eTEyc1M5SzV5MHVGZUhkMHF3Z3FteGIzS0FJT1hsRDBPWDVKUjRuRklfQ211YldQdUFZRXZ1Z2FTOUdmenJDVTNMQQ?oc=5\" target=\"_blank\"&gt;Draftwise Promotes Josh Sandman to Chief Sales Officer Following Rapid Revenue Growth&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;citybiz&lt;/font",
-      "published": "2026-07-21T07:00:00.000Z",
       "source_id": "google-news-contract-ai",
       "source_name": "Google News: contract AI",
       "source_priority": "medium",
@@ -479,6 +467,18 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBib25seWtaRmxJU0ZWck9Ha0V6bzl3aWl1eGVXVEk4Z0U0X0F2emE1Ny02Z2hFVVVLaWN2MHpWZ1pnQkVpek1yVVNLOHdNYVJfOF9pNkR4VmZ0WkY4RVdUSm05bnV1bWI0a0VfTFZZUmNlTkRISFM2aERpSGFlcTQ?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBib25seWtaRmxJU0ZWck9Ha0V6bzl3aWl1eGVXVEk4Z0U0X0F2emE1Ny02Z2hFVVVLaWN2MHpWZ1pnQkVpek1yVVNLOHdNYVJfOF9pNkR4VmZ0WkY4RVdUSm05bnV1bWI0a0VfTFZZUmNlTkRISFM2aERpSGFlcTQ?oc=5\" target=\"_blank\"&gt;How We Use ELO Scores to Build Better Legal AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
       "published": "2026-07-30T11:38:28.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 5
+    },
+    {
+      "title": "Big AI v Big Law — Jude Law, Harvey Specter and why the legal AI arms race is only just beginning - Law Society of Scotland",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQT2dndHk0NjZaYkQwdjF5Sy1KN2doNzRSc3Q1anFiOVJRc3RxME81NURrOGt3WjNsbVVzNVlnQ1NaUmZBT0J4ajlYOS1CemoyRWJpY1p1RTJQODVHQ0xwZ09EUzZFYzVUUlhOckROTG1EOWVTR3MycFdXVXlkUXRyUUIxaFBseXEydlVkNkg2MHVMcVVvLURHS3U4Z0loZ2wwLWNfUlpOSlhuemNYVUcwelNDVkd6M08zUExNN2RkTWpObWJkZ0d0c0lmQUM5bGJMbWQ2Uzk3M3d6SWw0VUhxaF9ZdzZjZw?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQT2dndHk0NjZaYkQwdjF5Sy1KN2doNzRSc3Q1anFiOVJRc3RxME81NURrOGt3WjNsbVVzNVlnQ1NaUmZBT0J4ajlYOS1CemoyRWJpY1p1RTJQODVHQ0xwZ09EUzZFYzVUUlhOckROTG1EOWVTR3MycFdXVXlkUXRyUUIxaFBseXEydlVkNkg2MHVMcVVvLURHS3U4Z0loZ2wwLWNfUlpOSlhuemNYVUcwelNDVkd6M08zUExNN2RkTWpObWJkZ0d0c0lmQUM5bGJMbWQ2Uzk3M3d6SWw0VUhxaF9ZdzZjZw?oc=5\" target=\"_blank\"&gt;Big AI v Big Law — Jude Law, Harvey Specter and why the legal AI arms race is only just beginning&lt;/a&gt;&amp",
+      "published": "2026-07-09T12:56:28.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
