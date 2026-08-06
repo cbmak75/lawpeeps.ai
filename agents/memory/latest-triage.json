@@ -1,74 +1,38 @@
 {
-  "generated": "2026-08-06T13:52:43.180Z",
+  "generated": "2026-08-06T15:05:30.152Z",
   "cycle_type": "triage",
-  "tier_filter": "B",
-  "shortlist_size": 5,
+  "tier_filter": "A",
+  "shortlist_size": 1,
   "prefilter": {
     "total": 40,
-    "accepted": 20,
+    "accepted": 1,
     "borderline": 0,
-    "rejected": 20,
-    "rejected_as_duplicate": 20,
-    "accept_rate": 50
+    "rejected": 39,
+    "rejected_as_duplicate": 39,
+    "accept_rate": 3
   },
   "model": "gemini-flash-lite-latest",
   "picks": [
     {
-      "id": "arxiv-cs-ai-0",
-      "score": 3,
-      "category": "Research",
-      "suggested_angle": "Byzantine-tolerant RAG for legal knowledge systems",
-      "why_now": "General computer science preprint with no direct legal or regulatory application hook.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-1",
-      "score": 3,
-      "category": "Research",
-      "suggested_angle": "Hashing-based attention mechanisms for efficient long-context LLMs",
-      "why_now": "Pure ML architecture paper lacking a legal tech or immigration law connection.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-2",
-      "score": 3,
-      "category": "Research",
-      "suggested_angle": "Execution-consistency guidance for self-correcting code generation",
-      "why_now": "General software engineering research preprint, not specific to legal tech.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-3",
-      "score": 3,
-      "category": "Research",
-      "suggested_angle": "Dynamic decomposition and filtering for multi-hop RAG",
-      "why_now": "Academic RAG optimization paper without a distinct legal sector application.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-4",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "Cross-slice anisotropic reallocation for 3D medical volume understanding",
-      "why_now": "Medical imaging paper, entirely irrelevant to legal AI and regulation.",
-      "verdict": "drop",
+      "id": "google-news-legal-ai-0",
+      "score": 8,
+      "category": "Legal AI",
+      "suggested_angle": "Examining data security perimeters and risk management as law firms scale generative AI deployment.",
+      "why_now": "Legal IT Insider provides authoritative analysis on structural risk and security compliance which directly addresses core editorial themes on AI liability.",
+      "verdict": "enqueue",
       "duplicate_of": null
     }
   ],
   "summary": {
-    "enqueue_count": 0,
+    "enqueue_count": 1,
     "watch_count": 0,
-    "drop_count": 5,
-    "notes": "All candidate items are generic computer science preprints without direct relevance to legal AI, regulation, or immigration tech."
+    "drop_count": 0,
+    "notes": "Single high-value Legal IT Insider security analysis piece enqueued."
   },
-  "enqueued": 0,
+  "enqueued": 1,
   "usage": {
-    "input_tokens": 2825,
-    "output_tokens": 556,
-    "total_tokens": 3381
+    "input_tokens": 2388,
+    "output_tokens": 187,
+    "total_tokens": 2575
   }
 }

@@ -2686,7 +2686,58 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "Legal IT Insider Report: Beyond the perimeter – Security and risk in the age of legal AI - Legal IT Insider",
+      "slug": "legal-it-insider-report-beyond-the-perimeter-security-and-risk-in-the-age-of-leg",
+      "score": 8,
+      "category": "Legal AI",
+      "story_type": "news",
+      "research_brief": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOTmptcl9MTGxWcTgzWWN0UnRYTmMzSHFiUjI0V3ZYRkZaNWRFOFBleDJXbmIycVNkeldOVTVCQkNwV0RqLVNDeEJ0ZFlRdHlZQlNGSkl2NEVoRDNackNHRWNPSFVicjFja0s3U2tIRVNuTVUyMDh0NGlUeXZwaV85NzNaLTdBWU9lNmFPN1h1ZC02T2NLMkNpVy1nbzFZN2I0MkJhQzY1c1pBWWRaZXR0b1FFaFI?oc=5\" target=\"_blank\"&gt;Legal IT Insider Report: Beyond the perimeter – Security and risk in the age of legal AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Legal IT Insider&lt;/font&gt;",
+      "primary_source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTmptcl9MTGxWcTgzWWN0UnRYTmMzSHFiUjI0V3ZYRkZaNWRFOFBleDJXbmIycVNkeldOVTVCQkNwV0RqLVNDeEJ0ZFlRdHlZQlNGSkl2NEVoRDNackNHRWNPSFVicjFja0s3U2tIRVNuTVUyMDh0NGlUeXZwaV85NzNaLTdBWU9lNmFPN1h1ZC02T2NLMkNpVy1nbzFZN2I0MkJhQzY1c1pBWWRaZXR0b1FFaFI?oc=5",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "Examining data security perimeters and risk management as law firms scale generative AI deployment.",
+      "why_now": "Legal IT Insider provides authoritative analysis on structural risk and security compliance which directly addresses core editorial themes on AI liability.",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Google News: legal AI",
+      "source_tier": "A",
+      "prefilter_score": 12,
+      "matched_terms": [
+        "legal AI"
+      ],
+      "fingerprint": {
+        "entities": [],
+        "numerics": [
+          "9m",
+          "0m",
+          "0bn"
+        ],
+        "keywords": [
+          "legal ai"
+        ],
+        "title_tokens": [
+          "legal",
+          "insider",
+          "beyond",
+          "perimeter",
+          "security",
+          "risk",
+          "ai"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-08-06T15:05:30.148Z",
+      "queued_at": "2026-08-06T15:05:30.151Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-08-06T08:26:01.163Z"
+  "last_updated": "2026-08-06T15:05:30.151Z"
 }
