@@ -2737,7 +2737,59 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "SRA warns over &#8220;emerging&#8221; money laundering risks for law firms",
+      "slug": "sra-warns-over-8220-emerging-8221-money-laundering-risks-for-law-firms",
+      "score": 6,
+      "category": "Regulatory",
+      "story_type": "news",
+      "research_brief": "Acting for cash-intensive high street businesses and relying on existing due diligence are “emerging” risks in the fight against money laundering, the SRA has warned. The post SRA warns over &#8220;emerging&#8221; money laundering risks for law firms appeared first on Legal Futures .",
+      "primary_source": "https://www.legalfutures.co.uk/latest-news/sra-warns-over-emerging-money-laundering-risks-for-law-firms",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "SRA highlights cash-intensive businesses and AML risks as high street law firms face increased scrutiny.",
+      "why_now": "Direct regulatory guidance from the SRA affecting practice management and due diligence.",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Legal Futures",
+      "source_tier": "B",
+      "prefilter_score": 12,
+      "matched_terms": [
+        "SRA",
+        "Diligen"
+      ],
+      "fingerprint": {
+        "entities": [
+          "diligen",
+          "solicitors regulation authority"
+        ],
+        "numerics": [
+          "8k"
+        ],
+        "keywords": [
+          "sra"
+        ],
+        "title_tokens": [
+          "warns",
+          "emerging",
+          "money",
+          "laundering",
+          "risks",
+          "firms"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-08-06T23:53:43.666Z",
+      "queued_at": "2026-08-06T23:53:43.669Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-08-06T15:05:30.151Z"
+  "last_updated": "2026-08-06T23:53:43.669Z"
 }

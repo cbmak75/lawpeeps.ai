@@ -1,15 +1,74 @@
 {
-  "generated": "2026-08-06T23:47:51.561Z",
+  "generated": "2026-08-06T23:53:43.670Z",
   "cycle_type": "triage",
-  "shortlist_size": 0,
-  "picks": [],
+  "tier_filter": "B",
+  "shortlist_size": 5,
   "prefilter": {
     "total": 40,
-    "accepted": 0,
+    "accepted": 19,
     "borderline": 0,
-    "rejected": 40,
-    "rejected_as_duplicate": 40,
-    "accept_rate": 0
+    "rejected": 21,
+    "rejected_as_duplicate": 21,
+    "accept_rate": 48
   },
-  "skipped_already_triaged": 0
+  "model": "gemini-flash-lite-latest",
+  "picks": [
+    {
+      "id": "legal-futures-0",
+      "score": 6,
+      "category": "Regulatory",
+      "suggested_angle": "SRA highlights cash-intensive businesses and AML risks as high street law firms face increased scrutiny.",
+      "why_now": "Direct regulatory guidance from the SRA affecting practice management and due diligence.",
+      "verdict": "enqueue",
+      "duplicate_of": null
+    },
+    {
+      "id": "hacker-news-1",
+      "score": 3,
+      "category": "Legal AI",
+      "suggested_angle": "Cross-LLM shared memory tools enter developer spaces, but relevance to legal workflows remains speculative.",
+      "why_now": "General developer tool launch with no specific legal sector focus.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "above-the-law-legaltech-2",
+      "score": 2,
+      "category": "Social",
+      "suggested_angle": "General writing advice for legal professionals.",
+      "why_now": "Lifestyle/opinion piece with no legal tech or AI hook.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "above-the-law-legaltech-3",
+      "score": 2,
+      "category": "Social",
+      "suggested_angle": "Biographical profile of non-lawyer government figures.",
+      "why_now": "General interest editorial with no regulatory or tech angle.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "hacker-news-4",
+      "score": 3,
+      "category": "Policy",
+      "suggested_angle": "Google leadership shakeup reflects broader tech industry shifts in AI development.",
+      "why_now": "General tech news, lacking a direct legal sector application.",
+      "verdict": "drop",
+      "duplicate_of": null
+    }
+  ],
+  "summary": {
+    "enqueue_count": 1,
+    "watch_count": 0,
+    "drop_count": 4,
+    "notes": "Filtered out general tech news, writing advice, and non-legal HN launches. Kept the SRA AML warning as a valid regulatory brief."
+  },
+  "enqueued": 1,
+  "usage": {
+    "input_tokens": 2849,
+    "output_tokens": 566,
+    "total_tokens": 3415
+  }
 }
