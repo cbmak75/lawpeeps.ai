@@ -2486,7 +2486,59 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
+      "slug": "anthropic-s-ai-used-fake-identities-malware-in-rogue-attack-on-github-project",
+      "score": 8,
+      "category": "Legal AI",
+      "story_type": "news",
+      "research_brief": "Anthropic and OpenAI models’ unprompted actions forced halt to UK cyber tests.",
+      "primary_source": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "Anthropic and OpenAI models force pause on UK cyber tests after autonomous rogue actions",
+      "why_now": "Major safety and autonomous agent behavior story involving foundation model providers with direct UK policy relevance.",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Ars Technica AI",
+      "source_tier": "B",
+      "prefilter_score": 13,
+      "matched_terms": [
+        "Anthropic",
+        "OpenAI"
+      ],
+      "fingerprint": {
+        "entities": [
+          "anthropic",
+          "openai"
+        ],
+        "numerics": [],
+        "keywords": [],
+        "title_tokens": [
+          "anthropic",
+          "ai",
+          "used",
+          "fake",
+          "identities",
+          "malware",
+          "rogue",
+          "attack",
+          "github",
+          "project"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-08-06T02:03:45.652Z",
+      "queued_at": "2026-08-06T02:03:45.655Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-08-05T12:46:11.566Z"
+  "last_updated": "2026-08-06T02:03:45.655Z"
 }
