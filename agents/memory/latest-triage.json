@@ -1,24 +1,33 @@
 {
-  "generated": "2026-08-06T04:53:29.233Z",
+  "generated": "2026-08-06T07:31:07.831Z",
   "cycle_type": "triage",
   "tier_filter": "A",
-  "shortlist_size": 1,
+  "shortlist_size": 2,
   "prefilter": {
     "total": 40,
-    "accepted": 1,
+    "accepted": 2,
     "borderline": 0,
-    "rejected": 39,
-    "rejected_as_duplicate": 39,
-    "accept_rate": 3
+    "rejected": 38,
+    "rejected_as_duplicate": 38,
+    "accept_rate": 5
   },
   "model": "gemini-flash-lite-latest",
   "picks": [
     {
       "id": "google-news-legal-ai-0",
-      "score": 7,
-      "category": "Policy",
-      "suggested_angle": "UK government opens applications for lawtech AI incubator, offering funding and support for early-stage legal tech startups.",
-      "why_now": "Directly touches on UK legal tech innovation and funding opportunities, fitting our UK regulation and startup focus.",
+      "score": 3,
+      "category": "Legal AI",
+      "suggested_angle": "Generic legal AI vendor feature overview.",
+      "why_now": "Low-value content lacking a specific news hook or primary regulatory angle.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "google-news-sra-ai-1",
+      "score": 9,
+      "category": "Regulatory",
+      "suggested_angle": "SRA launches AI Growth Lab to support responsible legal innovation.",
+      "why_now": "Regulator statement and initiative on AI, meeting our automatic 8+ threshold for regulatory news.",
       "verdict": "enqueue",
       "duplicate_of": null
     }
@@ -26,13 +35,13 @@
   "summary": {
     "enqueue_count": 1,
     "watch_count": 0,
-    "drop_count": 0,
-    "notes": "Processed 1 shortlist item: 1 enqueued for UK lawtech incubator funding announcement."
+    "drop_count": 1,
+    "notes": "Enqueued SRA AI Growth Lab story for strong regulatory angle; dropped generic vendor puff piece."
   },
   "enqueued": 1,
   "usage": {
-    "input_tokens": 2353,
-    "output_tokens": 194,
-    "total_tokens": 2547
+    "input_tokens": 2698,
+    "output_tokens": 274,
+    "total_tokens": 2972
   }
 }

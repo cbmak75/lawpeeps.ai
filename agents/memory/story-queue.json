@@ -2589,7 +2589,58 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "SRA AI Growth Lab to Support Responsible Legal Innovation - Solicitor News",
+      "slug": "sra-ai-growth-lab-to-support-responsible-legal-innovation-solicitor-news",
+      "score": 9,
+      "category": "Regulatory",
+      "story_type": "news",
+      "research_brief": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9lZWlHbjJtbUc1cWFLZEJTNU14cXR0cS1vWDY2NWc2b3JTRnNEZnBwdFM1OTRBa1JQUC13aVNiUlVSbGt3SmdwVjF5aWZFNG4xTmQxOHViZkp2RjR2NWZWTmUtRGlROC1zVGpsWFJBRUktTVBKLUpFS0pJRmc?oc=5\" target=\"_blank\"&gt;SRA AI Growth Lab to Support Responsible Legal Innovation&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Solicitor News&lt;/font&gt;",
+      "primary_source": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9lZWlHbjJtbUc1cWFLZEJTNU14cXR0cS1vWDY2NWc2b3JTRnNEZnBwdFM1OTRBa1JQUC13aVNiUlVSbGt3SmdwVjF5aWZFNG4xTmQxOHViZkp2RjR2NWZWTmUtRGlROC1zVGpsWFJBRUktTVBKLUpFS0pJRmc?oc=5",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "SRA launches AI Growth Lab to support responsible legal innovation.",
+      "why_now": "Regulator statement and initiative on AI, meeting our automatic 8+ threshold for regulatory news.",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Google News: SRA AI",
+      "source_tier": "A",
+      "prefilter_score": 11,
+      "matched_terms": [
+        "SRA"
+      ],
+      "fingerprint": {
+        "entities": [
+          "solicitors regulation authority"
+        ],
+        "numerics": [
+          "2bn"
+        ],
+        "keywords": [
+          "sra"
+        ],
+        "title_tokens": [
+          "ai",
+          "growth",
+          "support",
+          "responsible",
+          "legal",
+          "innovation",
+          "solicitor"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-08-06T07:31:07.828Z",
+      "queued_at": "2026-08-06T07:31:07.830Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-08-06T04:53:29.232Z"
+  "last_updated": "2026-08-06T07:31:07.830Z"
 }
