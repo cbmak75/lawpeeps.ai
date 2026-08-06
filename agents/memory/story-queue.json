@@ -2640,7 +2640,53 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "Law Firms Need To Reassert Their AI Sovereignty, Here’s How",
+      "slug": "law-firms-need-to-reassert-their-ai-sovereignty-here-s-how",
+      "score": 7,
+      "category": "Legal AI",
+      "story_type": "news",
+      "research_brief": "By Jesse Hampton, Draftwise. ‘You essentially pay for intelligence twice, once with money, and again with something even more valuable: the proprietary knowledge you must ...",
+      "primary_source": "https://www.artificiallawyer.com/2026/08/06/law-firms-need-to-reassert-their-ai-sovereignty-heres-how/",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "DraftWise piece argues law firms must retain AI sovereignty over proprietary knowledge.",
+      "why_now": "Addresses a core strategic tension between legal tech vendors and law firm data ownership.",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Artificial Lawyer",
+      "source_tier": "B",
+      "prefilter_score": 12,
+      "matched_terms": [
+        "DraftWise",
+        "Eve"
+      ],
+      "fingerprint": {
+        "entities": [
+          "draftwise",
+          "eve"
+        ],
+        "numerics": [],
+        "keywords": [],
+        "title_tokens": [
+          "firms",
+          "reassert",
+          "ai",
+          "sovereignty"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-08-06T08:26:01.160Z",
+      "queued_at": "2026-08-06T08:26:01.163Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-08-06T07:31:07.830Z"
+  "last_updated": "2026-08-06T08:26:01.163Z"
 }

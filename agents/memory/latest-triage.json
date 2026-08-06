@@ -1,47 +1,200 @@
 {
-  "generated": "2026-08-06T07:31:07.831Z",
+  "generated": "2026-08-06T08:26:01.164Z",
   "cycle_type": "triage",
-  "tier_filter": "A",
-  "shortlist_size": 2,
+  "tier_filter": "B",
+  "shortlist_size": 19,
   "prefilter": {
     "total": 40,
-    "accepted": 2,
+    "accepted": 31,
     "borderline": 0,
-    "rejected": 38,
-    "rejected_as_duplicate": 38,
-    "accept_rate": 5
+    "rejected": 9,
+    "rejected_as_duplicate": 9,
+    "accept_rate": 78
   },
   "model": "gemini-flash-lite-latest",
   "picks": [
     {
-      "id": "google-news-legal-ai-0",
+      "id": "arxiv-cs-ai-0",
       "score": 3,
-      "category": "Legal AI",
-      "suggested_angle": "Generic legal AI vendor feature overview.",
-      "why_now": "Low-value content lacking a specific news hook or primary regulatory angle.",
+      "category": "Research",
+      "suggested_angle": "Financial advisory LLM agents need better personalized memory benchmarks.",
+      "why_now": "Pure arXiv paper on general financial agent memory, too far removed from direct legal AI practice.",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
-      "id": "google-news-sra-ai-1",
-      "score": 9,
-      "category": "Regulatory",
-      "suggested_angle": "SRA launches AI Growth Lab to support responsible legal innovation.",
-      "why_now": "Regulator statement and initiative on AI, meeting our automatic 8+ threshold for regulatory news.",
+      "id": "arxiv-cs-ai-1",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "Hierarchical graph memory improves long-term reasoning for LLM agents.",
+      "why_now": "Academic computer science preprint without immediate legal tech application.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-2",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "Case study explores feedback loops in C-to-Rust LLM code translation.",
+      "why_now": "Software engineering focus rather than legal tech or legal AI relevance.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "artificial-lawyer-3",
+      "score": 7,
+      "category": "Legal AI",
+      "suggested_angle": "DraftWise piece argues law firms must retain AI sovereignty over proprietary knowledge.",
+      "why_now": "Addresses a core strategic tension between legal tech vendors and law firm data ownership.",
       "verdict": "enqueue",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-4",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Generating traceable hazard scenarios from aviation reports using LLMs.",
+      "why_now": "Aviation safety domain-specific research with no legal sector tie-in.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-5",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Recurrent residual quantization offers progressive multi-precision for LLMs.",
+      "why_now": "Core machine learning infrastructure paper.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-6",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "Reconstructing hidden functionality and proprietary instructions from closed-source agent skills.",
+      "why_now": "Security and reverse-engineering research on LLM agents.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-7",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Tool-augmented evaluation of LLM chess commentary uncovers board hallucinations.",
+      "why_now": "Chess domain evaluation, irrelevant to legal practice.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-8",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "Model merging approach proposed for continual multimodal LLM unlearning.",
+      "why_now": "Technical machine learning paper on unlearning sensitive data.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-9",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "EASy framework targets efficiency in coordinating multi-agent LLM systems.",
+      "why_now": "General agentic systems research preprint.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-10",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Investigating LLM performance on proverb completion and selection benchmarks.",
+      "why_now": "Linguistic evaluation of LLMs on proverbs.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-11",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "Inference backends like vLLM or Ollama can unintentionally alter observed LLM behavior.",
+      "why_now": "Interesting technical note for developers, but lacks a direct legal hook.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-12",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Reinforcement learning applied to household consumption-savings behavior.",
+      "why_now": "Economics and household finance modeling paper.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-13",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "LLM-driven agent framework for multimodal AutoML in protein engineering.",
+      "why_now": "Biomedical protein engineering research.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-14",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Unified search method powered by LLMs for protein engineering literature.",
+      "why_now": "Biotech search tool preprint.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-15",
+      "score": 4,
+      "category": "Research",
+      "suggested_angle": "Co-optimizing RAG serving performance and quality for LLM generation.",
+      "why_now": "General retrieval-augmented generation optimization; too generic without a legal tech application.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-16",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Inline control architecture for LLMs in intelligent transportation systems.",
+      "why_now": "Transportation and vehicle-to-everything systems research.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-17",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "KV cache vector quantization with attention-preserving transforms for long-context LLMs.",
+      "why_now": "Core LLM inference optimization paper.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-18",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "Difficulty-aware joint search for optimizing code generation pipelines.",
+      "why_now": "Software engineering code generation preprint.",
+      "verdict": "drop",
       "duplicate_of": null
     }
   ],
   "summary": {
     "enqueue_count": 1,
     "watch_count": 0,
-    "drop_count": 1,
-    "notes": "Enqueued SRA AI Growth Lab story for strong regulatory angle; dropped generic vendor puff piece."
+    "drop_count": 18,
+    "notes": "Filtered out bulk arXiv preprints; kept Artificial Lawyer commentary on firm AI sovereignty."
   },
   "enqueued": 1,
   "usage": {
-    "input_tokens": 2698,
-    "output_tokens": 274,
-    "total_tokens": 2972
+    "input_tokens": 5127,
+    "output_tokens": 1866,
+    "total_tokens": 6993
   }
 }
