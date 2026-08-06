@@ -1,209 +1,38 @@
 {
-  "generated": "2026-08-06T02:03:45.656Z",
+  "generated": "2026-08-06T04:53:29.233Z",
   "cycle_type": "triage",
-  "tier_filter": "B",
-  "shortlist_size": 20,
+  "tier_filter": "A",
+  "shortlist_size": 1,
   "prefilter": {
     "total": 40,
-    "accepted": 21,
-    "borderline": 1,
-    "rejected": 18,
-    "rejected_as_duplicate": 18,
-    "accept_rate": 53
+    "accepted": 1,
+    "borderline": 0,
+    "rejected": 39,
+    "rejected_as_duplicate": 39,
+    "accept_rate": 3
   },
   "model": "gemini-flash-lite-latest",
   "picks": [
     {
-      "id": "arxiv-cs-ai-0",
-      "score": 3,
-      "category": "Research",
-      "suggested_angle": "LLM reviews vs human peer review in academic publishing",
-      "why_now": "Too generic to the broader AI literature; lacks specific legal AI or regulatory application.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "ars-technica-ai-1",
-      "score": 8,
-      "category": "Legal AI",
-      "suggested_angle": "Anthropic and OpenAI models force pause on UK cyber tests after autonomous rogue actions",
-      "why_now": "Major safety and autonomous agent behavior story involving foundation model providers with direct UK policy relevance.",
+      "id": "google-news-legal-ai-0",
+      "score": 7,
+      "category": "Policy",
+      "suggested_angle": "UK government opens applications for lawtech AI incubator, offering funding and support for early-stage legal tech startups.",
+      "why_now": "Directly touches on UK legal tech innovation and funding opportunities, fitting our UK regulation and startup focus.",
       "verdict": "enqueue",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-2",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "Benchmarking LLMs for secure Infrastructure-as-Code generation",
-      "why_now": "Pure computer science cloud infrastructure benchmark, no legal nexus.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-3",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "Disentangling context-length effects in long-context LLMs",
-      "why_now": "Standard ML methods paper without immediate legal tech or regulatory angle.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-4",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "Improving reproducibility through multi-level annotator modeling",
-      "why_now": "General AI safety and evaluation paper.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-5",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "Direct construction of disambiguated knowledge bases from LLMs",
-      "why_now": "General NLP knowledge base construction paper.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-6",
-      "score": 4,
-      "category": "Research",
-      "suggested_angle": "Independent evaluation of OpenAI's Privacy Filter across 42 benchmarks",
-      "why_now": "Interesting security research on enterprise privacy filters, but marginal for legal-specific workflows.",
-      "verdict": "watch",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-7",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "Interpreting black-box LLMs with sentence-level energy landscapes",
-      "why_now": "Pure ML theory paper.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "legal-futures-8",
-      "score": 5,
-      "category": "Regulatory",
-      "suggested_angle": "Veteran solicitor struck off for persistent explicit messages to female barrister",
-      "why_now": "Standard SRA disciplinary action, lacks any AI or technology angle.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "legal-futures-9",
-      "score": 5,
-      "category": "Regulatory",
-      "suggested_angle": "Personal injury justice gap dramatically widening according to new report",
-      "why_now": "Broader UK legal market access-to-justice story, but not legal AI focused.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-10",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "Escaping LLM homogeneity via meta-persona anchoring",
-      "why_now": "General LLM alignment and diversity research.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-11",
-      "score": 3,
-      "category": "Research",
-      "suggested_angle": "Planning and acting over tool-schema hypergraphs for tool-use LLM agents",
-      "why_now": "Agentic tool-use paper without legal automation specifics.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-12",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "Forward-only LLM tuning after one-shot calibration",
-      "why_now": "Core parameter-efficient post-training research.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-13",
-      "score": 3,
-      "category": "Research",
-      "suggested_angle": "Difficulty-graded benchmark and probe-guided training for LLM tool calls",
-      "why_now": "General benchmark paper for LLM function calling.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-14",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "Dynamic instance clustering in LLM-assisted evolutionary search",
-      "why_now": "Algorithmic optimization paper.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-15",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "Tracing the sources of LLM benchmark gains",
-      "why_now": "General ML evaluation methodology.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-16",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "Interactive semantic enrichment for database fields using LLMs",
-      "why_now": "Database tooling research.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-17",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "Agentic reasoning framework for time series forecasting",
-      "why_now": "Time series prediction paper.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-18",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "Outcome-masked group relative policy optimization for label-free RLVR",
-      "why_now": "Reinforcement learning theory paper.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-19",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "Learning unified memory management with local and global verifiers for LLM agents",
-      "why_now": "Agent memory architecture paper.",
-      "verdict": "drop",
       "duplicate_of": null
     }
   ],
   "summary": {
     "enqueue_count": 1,
-    "watch_count": 1,
-    "drop_count": 18,
-    "notes": "Filtered out bulk arXiv papers and non-AI legal news; retained the major Ars Technica safety/agent story."
+    "watch_count": 0,
+    "drop_count": 0,
+    "notes": "Processed 1 shortlist item: 1 enqueued for UK lawtech incubator funding announcement."
   },
   "enqueued": 1,
   "usage": {
-    "input_tokens": 5352,
-    "output_tokens": 1935,
-    "total_tokens": 7287
+    "input_tokens": 2353,
+    "output_tokens": 194,
+    "total_tokens": 2547
   }
 }

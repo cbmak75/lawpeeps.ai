@@ -2538,7 +2538,58 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "Applications open for government-funded AI lawtech incubator - Today's Family Lawyer",
+      "slug": "applications-open-for-government-funded-ai-lawtech-incubator-today-s-family-lawy",
+      "score": 7,
+      "category": "Policy",
+      "story_type": "news",
+      "research_brief": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOalpWU3NESjVSTnRha0VVOFV3X19LT3N1QTBMczhEUWxTaS1JVC1VTUtZRm40bzBUVEYxU3hoRG9sdWxsNXJ2YWRpOURqRWpPR3FzRU9hREVvamotMDJHNTJJQzdTWTQ5dDRwVlRGZWFzVUR6a1ZmNURqTzRGemNlY2dtRkZGNFRFdDF5cnk4TW90NklxaWstSXRB?oc=5\" target=\"_blank\"&gt;Applications open for government-funded AI lawtech incubator&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Today's Family Lawyer&lt;/font&gt;",
+      "primary_source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOalpWU3NESjVSTnRha0VVOFV3X19LT3N1QTBMczhEUWxTaS1JVC1VTUtZRm40bzBUVEYxU3hoRG9sdWxsNXJ2YWRpOURqRWpPR3FzRU9hREVvamotMDJHNTJJQzdTWTQ5dDRwVlRGZWFzVUR6a1ZmNURqTzRGemNlY2dtRkZGNFRFdDF5cnk4TW90NklxaWstSXRB?oc=5",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "UK government opens applications for lawtech AI incubator, offering funding and support for early-stage legal tech startups.",
+      "why_now": "Directly touches on UK legal tech innovation and funding opportunities, fitting our UK regulation and startup focus.",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Google News: legal AI",
+      "source_tier": "A",
+      "prefilter_score": 12,
+      "matched_terms": [
+        "lawtech"
+      ],
+      "fingerprint": {
+        "entities": [],
+        "numerics": [
+          "40bn"
+        ],
+        "keywords": [
+          "lawtech"
+        ],
+        "title_tokens": [
+          "applications",
+          "open",
+          "government",
+          "funded",
+          "ai",
+          "lawtech",
+          "incubator",
+          "family",
+          "lawyer"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-08-06T04:53:29.229Z",
+      "queued_at": "2026-08-06T04:53:29.232Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-08-06T02:03:45.655Z"
+  "last_updated": "2026-08-06T04:53:29.232Z"
 }
