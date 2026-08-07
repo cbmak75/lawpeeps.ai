@@ -2789,7 +2789,61 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "Epistemic Trustworthiness in Generative AI: A Normative Framework for Warranted Reliance in High-Stakes Workflows",
+      "slug": "epistemic-trustworthiness-in-generative-ai-a-normative-framework-for-warranted-r",
+      "score": 6,
+      "category": "Research",
+      "story_type": "news",
+      "research_brief": "arXiv:2608.05602v1 Announce Type: new Abstract: Generative AI systems are increasingly deployed in high-stakes professional contexts, where their outputs shape what users believe, how they reason, and what they treat as settled. This raises a central question for responsible AI: under what conditions is reliance on generative AI outputs epistemically warranted rather than behaviourally induced? Existing frameworks largely ask whether AI outputs are accurate, fair, explainable, safe, or trusted b",
+      "primary_source": "https://arxiv.org/abs/2608.05602",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "Normative frameworks for AI reliance in high-stakes workflows offer a lens for legal tech governance.",
+      "why_now": "Examines epistemic trustworthiness in generative AI for high-stakes workflows, relevant to legal and compliance tasks.",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "arXiv cs.AI (keyword-filtered)",
+      "source_tier": "B",
+      "prefilter_score": 11,
+      "matched_terms": [
+        "generative AI",
+        "Eve"
+      ],
+      "fingerprint": {
+        "entities": [
+          "eve"
+        ],
+        "numerics": [],
+        "keywords": [
+          "generative ai"
+        ],
+        "title_tokens": [
+          "epistemic",
+          "trustworthiness",
+          "generative",
+          "ai",
+          "normative",
+          "framework",
+          "warranted",
+          "reliance",
+          "high",
+          "stakes",
+          "workflows"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-08-07T07:06:22.042Z",
+      "queued_at": "2026-08-07T07:06:22.045Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-08-06T23:53:43.669Z"
+  "last_updated": "2026-08-07T07:06:22.045Z"
 }
