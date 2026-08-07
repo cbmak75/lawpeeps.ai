@@ -2843,7 +2843,56 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "Mastercard marathon on last lap as funder settles payout dispute",
+      "slug": "mastercard-marathon-on-last-lap-as-funder-settles-payout-dispute",
+      "score": 6,
+      "category": "Regulatory",
+      "story_type": "news",
+      "research_brief": "Development allows the process of distributing £100m to members of the opt-out class to begin later this year.",
+      "primary_source": "https://www.lawgazette.co.uk/news/mastercard-marathon-on-last-lap-as-funder-settles-payout-dispute/5127618.article",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "Mastercard opt-out class action settlement clears path for £100m payout distribution.",
+      "why_now": "Provides closure to a major UK collective proceedings case impacting large-scale consumer redress.",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Law Society Gazette",
+      "source_tier": "B",
+      "prefilter_score": 7,
+      "matched_terms": [
+        "Eve"
+      ],
+      "fingerprint": {
+        "entities": [
+          "eve"
+        ],
+        "numerics": [
+          "100m"
+        ],
+        "keywords": [],
+        "title_tokens": [
+          "mastercard",
+          "marathon",
+          "last",
+          "funder",
+          "settles",
+          "payout",
+          "dispute"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-08-07T12:51:28.145Z",
+      "queued_at": "2026-08-07T12:51:28.148Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-08-07T07:06:22.045Z"
+  "last_updated": "2026-08-07T12:51:28.148Z"
 }
