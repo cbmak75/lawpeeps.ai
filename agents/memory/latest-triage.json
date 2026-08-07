@@ -1,65 +1,15 @@
 {
-  "generated": "2026-08-07T18:47:02.538Z",
+  "generated": "2026-08-07T19:42:42.005Z",
   "cycle_type": "triage",
-  "tier_filter": "B",
-  "shortlist_size": 4,
+  "shortlist_size": 0,
+  "picks": [],
   "prefilter": {
     "total": 40,
-    "accepted": 17,
+    "accepted": 1,
     "borderline": 0,
-    "rejected": 23,
-    "rejected_as_duplicate": 23,
-    "accept_rate": 43
+    "rejected": 39,
+    "rejected_as_duplicate": 39,
+    "accept_rate": 3
   },
-  "model": "gemini-flash-lite-latest",
-  "picks": [
-    {
-      "id": "ars-technica-ai-0",
-      "score": 2,
-      "category": "Legal AI",
-      "suggested_angle": null,
-      "why_now": "Consumer hardware news irrelevant to legal AI practice or regulation.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "above-the-law-legaltech-1",
-      "score": 4,
-      "category": "Policy",
-      "suggested_angle": null,
-      "why_now": "Constitutional and immigration litigation update, but lacks a direct legal AI or tech angle despite prefilter hit.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "hacker-news-2",
-      "score": 5,
-      "category": "Policy",
-      "suggested_angle": "EU AI Act friction points for tech adoption",
-      "why_now": "Medium blog post discussing EU AI Act updates, but low-value aggregation without primary regulatory source.",
-      "verdict": "watch",
-      "duplicate_of": null
-    },
-    {
-      "id": "hacker-news-3",
-      "score": 3,
-      "category": "Adoption",
-      "suggested_angle": null,
-      "why_now": "General engineering hiring tool, unrelated to legal tech or legal AI.",
-      "verdict": "drop",
-      "duplicate_of": null
-    }
-  ],
-  "summary": {
-    "enqueue_count": 0,
-    "watch_count": 1,
-    "drop_count": 3,
-    "notes": "Filtered out non-legal consumer hardware, general software engineering tools, and off-topic constitutional items; keeping one policy piece on watch."
-  },
-  "enqueued": 0,
-  "usage": {
-    "input_tokens": 2672,
-    "output_tokens": 449,
-    "total_tokens": 3121
-  }
+  "skipped_already_triaged": 1
 }
