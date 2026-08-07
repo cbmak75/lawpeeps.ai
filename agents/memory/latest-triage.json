@@ -1,15 +1,38 @@
 {
-  "generated": "2026-08-07T15:42:24.973Z",
+  "generated": "2026-08-07T16:40:01.626Z",
   "cycle_type": "triage",
-  "shortlist_size": 0,
-  "picks": [],
+  "tier_filter": "A",
+  "shortlist_size": 1,
   "prefilter": {
     "total": 40,
-    "accepted": 1,
+    "accepted": 2,
     "borderline": 0,
-    "rejected": 39,
-    "rejected_as_duplicate": 39,
-    "accept_rate": 3
+    "rejected": 38,
+    "rejected_as_duplicate": 38,
+    "accept_rate": 5
   },
-  "skipped_already_triaged": 1
+  "model": "gemini-flash-lite-latest",
+  "picks": [
+    {
+      "id": "google-news-legal-ai-0",
+      "score": 3,
+      "category": "Legal AI",
+      "suggested_angle": "Wolters Kluwer talks service delivery redesign via AI.",
+      "why_now": "Standard vendor thought-leadership content lacking a concrete product launch, regulatory ruling, or hard news hook.",
+      "verdict": "drop",
+      "duplicate_of": null
+    }
+  ],
+  "summary": {
+    "enqueue_count": 0,
+    "watch_count": 0,
+    "drop_count": 1,
+    "notes": "Dropped the single vendor thought-leadership piece as low-value marketing content."
+  },
+  "enqueued": 0,
+  "usage": {
+    "input_tokens": 2368,
+    "output_tokens": 175,
+    "total_tokens": 2543
+  }
 }
