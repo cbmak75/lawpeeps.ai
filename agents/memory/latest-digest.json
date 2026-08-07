@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-07T16:40:00.567Z",
+  "generated": "2026-08-07T17:39:00.049Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 683,
+  "total_scanned": 684,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -19,10 +19,34 @@
       "relevance_score": 11
     },
     {
+      "title": "Harvey raises at a $15.5bn valuation - The Next Web",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbkpvX1A4MlVuYlJiX281REIyTmtRR2V0bTFTT3Y1U2RfU1UtSHFheGptZEYzT2FHRUxaZTFOeFJPMkNLZG1ubEJ2dGs0di1mdkstRW1RMkFSdjI5Ukd4UlhXc2xvLWEwU3drRUtPMGdUQmwyQ0JLYlNReEN5WkJQMmdjcnA2V1Y4Zjh3?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbkpvX1A4MlVuYlJiX281REIyTmtRR2V0bTFTT3Y1U2RfU1UtSHFheGptZEYzT2FHRUxaZTFOeFJPMkNLZG1ubEJ2dGs0di1mdkstRW1RMkFSdjI5Ukd4UlhXc2xvLWEwU3drRUtPMGdUQmwyQ0JLYlNReEN5WkJQMmdjcnA2V1Y4Zjh3?oc=5\" target=\"_blank\"&gt;Harvey raises at a $15.5bn valuation&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Next Web&lt;/font&gt;",
+      "published": "2026-08-07T17:29:49.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 9
+    },
+    {
       "title": "Harvey Forum + Shared Spaces, Clio, Spellbook, Legal Innovators - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWDZZRVZBVWx3ckRDeE96a1ZYWTJxVldZUHNwYWl2eHdrUDZKc2xXSmRYVHRheXlISnI5SVpKdmlYTHdOWVRwb3VneFBHMlZhcnlyOWNiZHJuUkNTLXhINlgwRnJzZlNCU0JYQ2k2R2RrUFN3dlRoT3k0ckM5NDRZRHZ2UjAzQWVfQXNRcm9lM2w2LVdmRUxvMmwyVXkzS2Y2XzlnTTNn?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNWDZZRVZBVWx3ckRDeE96a1ZYWTJxVldZUHNwYWl2eHdrUDZKc2xXSmRYVHRheXlISnI5SVpKdmlYTHdOWVRwb3VneFBHMlZhcnlyOWNiZHJuUkNTLXhINlgwRnJzZlNCU0JYQ2k2R2RrUFN3dlRoT3k0ckM5NDRZRHZ2UjAzQWVfQXNRcm9lM2w2LVdmRUxvMmwyVXkzS2Y2XzlnTTNn?oc=5\" target=\"_blank\"&gt;Harvey Forum + Shared Spaces, Clio, Spellbook, Legal Innovators&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
       "published": "2026-02-27T08:00:00.000Z",
+      "source_id": "google-news-contract-ai",
+      "source_name": "Google News: contract AI",
+      "source_priority": "medium",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 9
+    },
+    {
+      "title": "Legal Innovators Breakfast, Spellbook Live, Harvey, LegalOn, Wordsmith + - Artificial Lawyer",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQ0V4OXFrTjN3b1VqcDZJc1dIOEJ6RUIyS2VuWlh2blc0QkljNlV3MmcxQzRVdDZBQUxTN183UXFvV3RwYXFEb2pMVU5EdmdiWUwyTEQyZmE0d2poazZXMGhTeHR0WXE1YUZPaUJKNXVKMHBWYU1jRGstdjM2aXcweUs4MU1Tc1JqaWhmNFFfaVYzc3h6ZU1qbzhrTVlkQkk1WlcyRDRhNmNUQmNEdGNFSg?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPQ0V4OXFrTjN3b1VqcDZJc1dIOEJ6RUIyS2VuWlh2blc0QkljNlV3MmcxQzRVdDZBQUxTN183UXFvV3RwYXFEb2pMVU5EdmdiWUwyTEQyZmE0d2poazZXMGhTeHR0WXE1YUZPaUJKNXVKMHBWYU1jRGstdjM2aXcweUs4MU1Tc1JqaWhmNFFfaVYzc3h6ZU1qbzhrTVlkQkk1WlcyRDRhNmNUQmNEdGNFSg?oc=5\" target=\"_blank\"&gt;Legal Innovators Breakfast, Spellbook Live, Harvey, LegalOn, Wordsmith +&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
+      "published": "2026-03-06T08:00:00.000Z",
       "source_id": "google-news-contract-ai",
       "source_name": "Google News: contract AI",
       "source_priority": "medium",
@@ -151,6 +175,18 @@
       "relevance_score": 7
     },
     {
+      "title": "Harvey in Talks to Raise Funding at $15.5 Billion Valuation - The Information",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOGJHMEpPU1ZGVTdTNTNmNVR6SlhOSWFjQmNGczRFbkgwaEU4THdpaEItZVdPVnpPQUVOdVBtYjJldDRDMzNHOGRMbzR1N2VpUk9vSUxTYWNUMmtldmZGcG8yNlhrOENpZl93WGhUVFRYMnk2VGp4UEFMQV9jUjlwLTh6VlhScXZNSG5Yb1VwdVVaYTA?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPOGJHMEpPU1ZGVTdTNTNmNVR6SlhOSWFjQmNGczRFbkgwaEU4THdpaEItZVdPVnpPQUVOdVBtYjJldDRDMzNHOGRMbzR1N2VpUk9vSUxTYWNUMmtldmZGcG8yNlhrOENpZl93WGhUVFRYMnk2VGp4UEFMQV9jUjlwLTh6VlhScXZNSG5Yb1VwdVVaYTA?oc=5\" target=\"_blank\"&gt;Harvey in Talks to Raise Funding at $15.5 Billion Valuation&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Information&lt;/font&gt;",
+      "published": "2026-08-07T16:54:00.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 7
+    },
+    {
       "title": "Wordsmith AI extends Series B with $14M from Intact Private Capital and FT Ventures - Dealroom",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUVdJSzdiMFBaeDR6UzZtZXZxMUo5cGUxYzN3b1J4RlFuSzA5Z2xLaGcwdTZ6Tk5aSDNIQjN2SG5jQ0llaXhQRTduZTFYT2Y3ZDNtcEVLTmVHOWhrTlBZeTdJdXhHRnZTeVE3bVRGcGNXVGhHdjg0Tk5qbzh4RlRVUm1nei1kLTd2bkVsQzRDQjVCM1hZUTVJenpKNnc1SDZucTN1Zkw2TzlGd0FPNFp2VVB3?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQUVdJSzdiMFBaeDR6UzZtZXZxMUo5cGUxYzN3b1J4RlFuSzA5Z2xLaGcwdTZ6Tk5aSDNIQjN2SG5jQ0llaXhQRTduZTFYT2Y3ZDNtcEVLTmVHOWhrTlBZeTdJdXhHRnZTeVE3bVRGcGNXVGhHdjg0Tk5qbzh4RlRVUm1nei1kLTd2bkVsQzRDQjVCM1hZUTVJenpKNnc1SDZucTN1Zkw2TzlGd0FPNFp2VVB3?oc=5\" target=\"_blank\"&gt;Wordsmith AI extends Series B with $14M from Intact Private Capital and FT Ventures&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Dealroom&lt;/font&gt;",
@@ -208,30 +244,6 @@
       "source_priority": "medium",
       "source_tier": "A",
       "source_category": "Aggregator",
-      "relevance_score": 7
-    },
-    {
-      "title": "Meet Spellbook the GPT-3 Generative AI Word Add-In For Contracts - Artificial Lawyer",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORGNXbjRyVWRDZ01OLXlaM21tTjY5eUdNYktBdmsyTEhyUmxWUFc2T0QyWUUyX0lEZFZFWk9LeS1seXRyOTdBMkhSYzZyeWEwTnhDcks2ZmVyQm9GYV9EQ2RGUDBaXzFDUkZFclFvMmV1YkJ3UlY3QU0yY1A3NXJHeTAzakxKSF82aTZoRWdSaEFaQ1duMEtRb2lQcTRqVTJhTklvdy1wR00wSlBacGc?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxORGNXbjRyVWRDZ01OLXlaM21tTjY5eUdNYktBdmsyTEhyUmxWUFc2T0QyWUUyX0lEZFZFWk9LeS1seXRyOTdBMkhSYzZyeWEwTnhDcks2ZmVyQm9GYV9EQ2RGUDBaXzFDUkZFclFvMmV1YkJ3UlY3QU0yY1A3NXJHeTAzakxKSF82aTZoRWdSaEFaQ1duMEtRb2lQcTRqVTJhTklvdy1wR00wSlBacGc?oc=5\" target=\"_blank\"&gt;Meet Spellbook the GPT-3 Generative AI Word Add-In For Contracts&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
-      "published": "2022-11-09T08:00:00.000Z",
-      "source_id": "google-news-contract-ai",
-      "source_name": "Google News: contract AI",
-      "source_priority": "medium",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 7
-    },
-    {
-      "title": "No Summer Doldrums For Active Startup Investors In July",
-      "url": "https://news.crunchbase.com/venture/active-startup-investors-july-2026-khosla-yc-coatue-nvda/",
-      "summary": "Active startup investors kept up the pace in July, with familiar names topping the ranks in several metrics including most prolific venture dealmakers, most active lead backers, biggest spenders and highest-volume seed investors.",
-      "published": "2026-08-07T11:00:52.000Z",
-      "source_id": "crunchbase-news",
-      "source_name": "Crunchbase News",
-      "source_priority": "high",
-      "source_tier": "A",
-      "source_category": "Funding / M&A",
       "relevance_score": 7
     },
     {
@@ -403,7 +415,7 @@
       "relevance_score": 6
     },
     {
-      "title": "This Open Source RP2040 Development Board Looks Like a Magic Spellbook - hackster.io",
+      "title": "This Open Source RP2040 Development Board Looks Like a Magic Spellbook - Hackster.io",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORnVSUlF6azgxa3lnMFFGVmU2dWdTeWRSOE1MV0JtdkViWVNhWkozazFKdy1Xb1FlS3RaTVRxeHExODhPdi1QY2I0UFVPMDdxX2hFdmpUUE5qeFpiX0xrNktLbUZ0Qm96ckY0UlI0enkyTmZVYmpQZmN2b3ByMV9zWnlGVFRnc3ZYLWdHQWdVU3U5WFJLb05YV2E0NlQzWHZCdUNXb2xnMmlsZnNtdzNhdnZ30gG3AUFVX3lxTE5FaHA3Szl0Z2N0ZWUySEJxOFVKUjdGeFdWcF96YUFqdXJpT2VJOG1pcUhwOXgtLWlHOWFXTGhxVVRJeTdZT21mLTJ3cmlydFJMT1hOX3ZhcDFkaUU5MWc5Z1FWV3Z1c2VFLU5pejVmai1Pa19hVUZ5ekc0YnFwWGlSWk9xbndOWVNTVm5FWUFkRE1DQjdoc0RiVnZFb0VjcU1PTS1QNkd4eHExV2ZwLUFVYVhHcHVqZw?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxORnVSUlF6azgxa3lnMFFGVmU2dWdTeWRSOE1MV0JtdkViWVNhWkozazFKdy1Xb1FlS3RaTVRxeHExODhPdi1QY2I0UFVPMDdxX2hFdmpUUE5qeFpiX0xrNktLbUZ0Qm96ckY0UlI0enkyTmZVYmpQZmN2b3ByMV9zWnlGVFRnc3ZYLWdHQWdVU3U5WFJLb05YV2E0NlQzWHZCdUNXb2xnMmlsZnNtdzNhdnZ30gG3AUFVX3lxTE5FaHA3Szl0Z2N0ZWUySEJxOFVKUjdGeFdWcF96YUFqdXJpT2VJOG1pcUhwOXgtLWlHOWFXTGhxVVRJeTdZT21mLTJ3cmlydFJMT1hOX3ZhcDFkaUU5MWc5Z1FWV3Z1c2VFLU5pejVmai1Pa19hVUZ5ekc0YnFwWGlSWk9xbndOWVNTVm5FWUFkRE1DQjdoc0R",
       "published": "2026-05-28T12:11:48.000Z",
@@ -455,18 +467,6 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMFFnQ1ZFcTlDWXkzWnJMb0lURklNa2hMRXVEMmZ6dW9wYzFmaWJhUEdDRjVjYnA1RTRWZDF5cXlTZ2xQTjZ1QUlCNnJHa2tkcmYyRFpCNmg3dHFTR1llLUFLZG5yZjF1LWVIU3p3R1YzQW5ReW10WElLeG9xQWlyX3h5RXViYlY3b0E?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNMFFnQ1ZFcTlDWXkzWnJMb0lURklNa2hMRXVEMmZ6dW9wYzFmaWJhUEdDRjVjYnA1RTRWZDF5cXlTZ2xQTjZ1QUlCNnJHa2tkcmYyRFpCNmg3dHFTR1llLUFLZG5yZjF1LWVIU3p3R1YzQW5ReW10WElLeG9xQWlyX3h5RXViYlY3b0E?oc=5\" target=\"_blank\"&gt;:Harvey: Expands Collaboration with Microsoft on Legal AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
       "published": "2026-07-23T07:00:00.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 5
-    },
-    {
-      "title": "The Year Legal AI Becomes Core Infrastructure - Harvey",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQM1FoRzB1UllvekZhdk12TmhyQ25NQUE2Zkd4NWd3cWRRWnVoZFBlRllYZU4tVFg0MWhfY0VtTFFZeE14Z2V3dVVObVJsZnNITEdqS0ZwMXh4R1MxVVl5dzVCUHBfOHlIckV3WGxFQ1J2bTZoaUJIV18zYWR2b0xzakZZdms?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQM1FoRzB1UllvekZhdk12TmhyQ25NQUE2Zkd4NWd3cWRRWnVoZFBlRllYZU4tVFg0MWhfY0VtTFFZeE14Z2V3dVVObVJsZnNITEdqS0ZwMXh4R1MxVVl5dzVCUHBfOHlIckV3WGxFQ1J2bTZoaUJIV18zYWR2b0xzakZZdms?oc=5\" target=\"_blank\"&gt;The Year Legal AI Becomes Core Infrastructure&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
-      "published": "2026-07-31T15:15:09.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
