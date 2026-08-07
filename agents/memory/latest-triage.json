@@ -1,15 +1,38 @@
 {
-  "generated": "2026-08-07T02:01:09.663Z",
+  "generated": "2026-08-07T02:24:17.239Z",
   "cycle_type": "triage",
-  "shortlist_size": 0,
-  "picks": [],
+  "tier_filter": "B",
+  "shortlist_size": 1,
   "prefilter": {
     "total": 40,
-    "accepted": 0,
+    "accepted": 16,
     "borderline": 0,
-    "rejected": 40,
-    "rejected_as_duplicate": 40,
-    "accept_rate": 0
+    "rejected": 24,
+    "rejected_as_duplicate": 24,
+    "accept_rate": 40
   },
-  "skipped_already_triaged": 0
+  "model": "gemini-flash-lite-latest",
+  "picks": [
+    {
+      "id": "hacker-news-0",
+      "score": 4,
+      "category": "Regulatory",
+      "suggested_angle": "Examining EU AI Act content labelling enforcement mechanisms for tech developers",
+      "why_now": "General commentary on EU AI Act compliance without a specific legal sector or primary regulatory hook.",
+      "verdict": "drop",
+      "duplicate_of": null
+    }
+  ],
+  "summary": {
+    "enqueue_count": 0,
+    "watch_count": 0,
+    "drop_count": 1,
+    "notes": "Dropped Hacker News item as it lacks a direct legal sector hook or primary source value."
+  },
+  "enqueued": 0,
+  "usage": {
+    "input_tokens": 2171,
+    "output_tokens": 173,
+    "total_tokens": 2344
+  }
 }
