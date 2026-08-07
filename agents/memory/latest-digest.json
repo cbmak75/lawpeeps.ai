@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-07T19:42:41.980Z",
+  "generated": "2026-08-07T20:27:32.852Z",
   "cycle_type": "monitoring",
   "item_count": 40,
   "total_scanned": 683,
@@ -247,6 +247,18 @@
       "relevance_score": 7
     },
     {
+      "title": "The Week’s 10 Biggest Funding Rounds: A Big Week For Big Checks",
+      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-billion-dollar-raises-manufacturing-energy-ai/",
+      "summary": "Startups raised funding rounds with a lot of zeroes at the end this week, with three companies securing financings of $1 billion or more. Additionally, a robust lineup of companies in sectors including AI, e-commerce, cybersecurity, biotech and even mining also announced sizable new rounds.",
+      "published": "2026-08-07T19:52:22.000Z",
+      "source_id": "crunchbase-news",
+      "source_name": "Crunchbase News",
+      "source_priority": "high",
+      "source_tier": "A",
+      "source_category": "Funding / M&A",
+      "relevance_score": 7
+    },
+    {
       "title": "The next phase of legal AI: Redesigning service delivery - Wolters Kluwer",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOWFNTGc4T3BFMUlxcXVlNWRZQXlZb0FpTVNTT0Z2aFFTLW04V0FpOVRfUXFaWEJpVFNac2pvUVBGVVVnRzN5STUtLWlhcFpJS3pJWmdKOXlWdUp2OXY4d1Y2VUxteTl5MUoydVZKMjRudDJINDROMHRjRGlySkFhQzdDMTNIYXJfUW5EakREV3c0SjhnTTBCTENoc1ptTzBLU0g3RQ?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQOWFNTGc4T3BFMUlxcXVlNWRZQXlZb0FpTVNTT0Z2aFFTLW04V0FpOVRfUXFaWEJpVFNac2pvUVBGVVVnRzN5STUtLWlhcFpJS3pJWmdKOXlWdUp2OXY4d1Y2VUxteTl5MUoydVZKMjRudDJINDROMHRjRGlySkFhQzdDMTNIYXJfUW5EakREV3c0SjhnTTBCTENoc1ptTzBLU0g3RQ?oc=5\" target=\"_blank\"&gt;The next phase of legal AI: Redesigning service delivery&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Wolters Kluwer&lt;/font&gt;",
@@ -467,18 +479,6 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMFFnQ1ZFcTlDWXkzWnJMb0lURklNa2hMRXVEMmZ6dW9wYzFmaWJhUEdDRjVjYnA1RTRWZDF5cXlTZ2xQTjZ1QUlCNnJHa2tkcmYyRFpCNmg3dHFTR1llLUFLZG5yZjF1LWVIU3p3R1YzQW5ReW10WElLeG9xQWlyX3h5RXViYlY3b0E?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNMFFnQ1ZFcTlDWXkzWnJMb0lURklNa2hMRXVEMmZ6dW9wYzFmaWJhUEdDRjVjYnA1RTRWZDF5cXlTZ2xQTjZ1QUlCNnJHa2tkcmYyRFpCNmg3dHFTR1llLUFLZG5yZjF1LWVIU3p3R1YzQW5ReW10WElLeG9xQWlyX3h5RXViYlY3b0E?oc=5\" target=\"_blank\"&gt;:Harvey: Expands Collaboration with Microsoft on Legal AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
       "published": "2026-07-23T07:00:00.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 5
-    },
-    {
-      "title": "Big AI v Big Law — Jude Law, Harvey Specter and why the legal AI arms race is only just beginning - lawscot.org.uk",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQT2dndHk0NjZaYkQwdjF5Sy1KN2doNzRSc3Q1anFiOVJRc3RxME81NURrOGt3WjNsbVVzNVlnQ1NaUmZBT0J4ajlYOS1CemoyRWJpY1p1RTJQODVHQ0xwZ09EUzZFYzVUUlhOckROTG1EOWVTR3MycFdXVXlkUXRyUUIxaFBseXEydlVkNkg2MHVMcVVvLURHS3U4Z0loZ2wwLWNfUlpOSlhuemNYVUcwelNDVkd6M08zUExNN2RkTWpObWJkZ0d0c0lmQUM5bGJMbWQ2Uzk3M3d6SWw0VUhxaF9ZdzZjZw?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQT2dndHk0NjZaYkQwdjF5Sy1KN2doNzRSc3Q1anFiOVJRc3RxME81NURrOGt3WjNsbVVzNVlnQ1NaUmZBT0J4ajlYOS1CemoyRWJpY1p1RTJQODVHQ0xwZ09EUzZFYzVUUlhOckROTG1EOWVTR3MycFdXVXlkUXRyUUIxaFBseXEydlVkNkg2MHVMcVVvLURHS3U4Z0loZ2wwLWNfUlpOSlhuemNYVUcwelNDVkd6M08zUExNN2RkTWpObWJkZ0d0c0lmQUM5bGJMbWQ2Uzk3M3d6SWw0VUhxaF9ZdzZjZw?oc=5\" target=\"_blank\"&gt;Big AI v Big Law — Jude Law, Harvey Specter and why the legal AI arms race is only just beginning&lt;/a&gt;&amp",
-      "published": "2026-07-09T12:56:28.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
