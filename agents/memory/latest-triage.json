@@ -1,38 +1,15 @@
 {
-  "generated": "2026-08-07T14:04:13.749Z",
+  "generated": "2026-08-07T15:42:24.973Z",
   "cycle_type": "triage",
-  "tier_filter": "A",
-  "shortlist_size": 1,
+  "shortlist_size": 0,
+  "picks": [],
   "prefilter": {
     "total": 40,
-    "accepted": 2,
+    "accepted": 1,
     "borderline": 0,
-    "rejected": 38,
-    "rejected_as_duplicate": 38,
-    "accept_rate": 5
+    "rejected": 39,
+    "rejected_as_duplicate": 39,
+    "accept_rate": 3
   },
-  "model": "gemini-flash-lite-latest",
-  "picks": [
-    {
-      "id": "google-news-legal-tech-funding-0",
-      "score": 6,
-      "category": "Funding",
-      "suggested_angle": "UK legal AI startup Wordsmith features in latest regional tech funding roundups.",
-      "why_now": "Provides a useful data point on UK-specific legal tech investment activity.",
-      "verdict": "enqueue",
-      "duplicate_of": null
-    }
-  ],
-  "summary": {
-    "enqueue_count": 1,
-    "watch_count": 0,
-    "drop_count": 0,
-    "notes": "Single UK funding roundup item enqueued for tracking regional investment."
-  },
-  "enqueued": 1,
-  "usage": {
-    "input_tokens": 2374,
-    "output_tokens": 177,
-    "total_tokens": 2551
-  }
+  "skipped_already_triaged": 1
 }
