@@ -1,38 +1,15 @@
 {
-  "generated": "2026-08-07T22:24:33.358Z",
+  "generated": "2026-08-07T23:23:11.485Z",
   "cycle_type": "triage",
-  "tier_filter": "A",
-  "shortlist_size": 1,
+  "shortlist_size": 0,
+  "picks": [],
   "prefilter": {
     "total": 40,
-    "accepted": 1,
+    "accepted": 0,
     "borderline": 0,
-    "rejected": 39,
-    "rejected_as_duplicate": 39,
-    "accept_rate": 3
+    "rejected": 40,
+    "rejected_as_duplicate": 40,
+    "accept_rate": 0
   },
-  "model": "gemini-flash-lite-latest",
-  "picks": [
-    {
-      "id": "google-news-legal-ai-0",
-      "score": 4,
-      "category": "Legal AI",
-      "suggested_angle": "Roundup coverage of EU AI Act warnings and legal tech governance updates",
-      "why_now": "Low-value aggregation piece covering multiple unrelated topics without deep primary reporting.",
-      "verdict": "drop",
-      "duplicate_of": null
-    }
-  ],
-  "summary": {
-    "enqueue_count": 0,
-    "watch_count": 0,
-    "drop_count": 1,
-    "notes": "Dropped single aggregated news roundup in favor of primary reporting and deeper analysis pieces."
-  },
-  "enqueued": 0,
-  "usage": {
-    "input_tokens": 2417,
-    "output_tokens": 178,
-    "total_tokens": 2595
-  }
+  "skipped_already_triaged": 0
 }
