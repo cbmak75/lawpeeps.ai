@@ -2892,7 +2892,59 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "UK tech funding roundup: This week’s deals from OLIX to Wordsmith - UKTN",
+      "slug": "uk-tech-funding-roundup-this-week-s-deals-from-olix-to-wordsmith-uktn",
+      "score": 6,
+      "category": "Funding",
+      "story_type": "news",
+      "research_brief": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNR3kyclpRX19fMTU5Y3R6RFdEUUtaUUhRVVFXdThmUVVSNVhUNFBadjBnZEtqZTFwcXdNcUdKQ1N3QzlqclNLNzN6dDA3WE5xTERSZHZXQU9tdF9SaV9KUkMyblVkUTNtN1FjZHJsOFMtSVR3ZXBwSkdxQWNZQXVvTjRDNWNPWVpXNWp1Z3B4VElKNndIYnJaQWdWdV9GbDZoWWZQb1dWUQ?oc=5\" target=\"_blank\"&gt;UK tech funding roundup: This week’s deals from OLIX to Wordsmith&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;UKTN&lt;/font&gt;",
+      "primary_source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR3kyclpRX19fMTU5Y3R6RFdEUUtaUUhRVVFXdThmUVVSNVhUNFBadjBnZEtqZTFwcXdNcUdKQ1N3QzlqclNLNzN6dDA3WE5xTERSZHZXQU9tdF9SaV9KUkMyblVkUTNtN1FjZHJsOFMtSVR3ZXBwSkdxQWNZQXVvTjRDNWNPWVpXNWp1Z3B4VElKNndIYnJaQWdWdV9GbDZoWWZQb1dWUQ?oc=5",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "UK legal AI startup Wordsmith features in latest regional tech funding roundups.",
+      "why_now": "Provides a useful data point on UK-specific legal tech investment activity.",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Google News: legal tech funding",
+      "source_tier": "A",
+      "prefilter_score": 14,
+      "matched_terms": [
+        "Wordsmith"
+      ],
+      "fingerprint": {
+        "entities": [
+          "wordsmith"
+        ],
+        "numerics": [
+          "3k",
+          "9k",
+          "3bn"
+        ],
+        "keywords": [],
+        "title_tokens": [
+          "uk",
+          "tech",
+          "funding",
+          "roundup",
+          "deals",
+          "olix",
+          "wordsmith",
+          "uktn"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-08-07T14:04:13.744Z",
+      "queued_at": "2026-08-07T14:04:13.748Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-08-07T12:51:28.148Z"
+  "last_updated": "2026-08-07T14:04:13.748Z"
 }

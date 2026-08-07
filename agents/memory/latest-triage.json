@@ -1,74 +1,38 @@
 {
-  "generated": "2026-08-07T12:51:28.149Z",
+  "generated": "2026-08-07T14:04:13.749Z",
   "cycle_type": "triage",
-  "tier_filter": "B",
-  "shortlist_size": 5,
+  "tier_filter": "A",
+  "shortlist_size": 1,
   "prefilter": {
     "total": 40,
-    "accepted": 24,
+    "accepted": 2,
     "borderline": 0,
-    "rejected": 16,
-    "rejected_as_duplicate": 16,
-    "accept_rate": 60
+    "rejected": 38,
+    "rejected_as_duplicate": 38,
+    "accept_rate": 5
   },
   "model": "gemini-flash-lite-latest",
   "picks": [
     {
-      "id": "law-society-gazette-0",
+      "id": "google-news-legal-tech-funding-0",
       "score": 6,
-      "category": "Regulatory",
-      "suggested_angle": "Mastercard opt-out class action settlement clears path for £100m payout distribution.",
-      "why_now": "Provides closure to a major UK collective proceedings case impacting large-scale consumer redress.",
+      "category": "Funding",
+      "suggested_angle": "UK legal AI startup Wordsmith features in latest regional tech funding roundups.",
+      "why_now": "Provides a useful data point on UK-specific legal tech investment activity.",
       "verdict": "enqueue",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-1",
-      "score": 4,
-      "category": "Research",
-      "suggested_angle": "Hypothesis-driven exploration improves agent skill acquisition without manual maintenance.",
-      "why_now": "General AI research paper on agentic workflows and skill maintenance.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-2",
-      "score": 4,
-      "category": "Research",
-      "suggested_angle": "New benchmark evaluates personalized investment logic in large language models.",
-      "why_now": "Financial LLM benchmarking study with limited direct legal application.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-3",
-      "score": 4,
-      "category": "Research",
-      "suggested_angle": "Causal audit reveals limitations in multimodal LLM thinking-with-images visual tool use.",
-      "why_now": "Technical paper on multimodal AI accuracy and reliability.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-4",
-      "score": 4,
-      "category": "Research",
-      "suggested_angle": "TrajDebug traces error lifecycles to debug cascading failures in long-horizon agent trajectories.",
-      "why_now": "Technical AI agent debugging framework relevant to autonomous legal workflow development.",
-      "verdict": "drop",
       "duplicate_of": null
     }
   ],
   "summary": {
     "enqueue_count": 1,
     "watch_count": 0,
-    "drop_count": 4,
-    "notes": "Kept the Law Society Gazette Mastercard litigation update; dropped arXiv general ML preprints lacking direct legal tie-ins."
+    "drop_count": 0,
+    "notes": "Single UK funding roundup item enqueued for tracking regional investment."
   },
   "enqueued": 1,
   "usage": {
-    "input_tokens": 2810,
-    "output_tokens": 571,
-    "total_tokens": 3381
+    "input_tokens": 2374,
+    "output_tokens": 177,
+    "total_tokens": 2551
   }
 }
