@@ -1,15 +1,56 @@
 {
-  "generated": "2026-08-08T00:44:11.076Z",
+  "generated": "2026-08-08T01:11:02.418Z",
   "cycle_type": "triage",
-  "shortlist_size": 0,
-  "picks": [],
+  "tier_filter": "B",
+  "shortlist_size": 3,
   "prefilter": {
     "total": 40,
-    "accepted": 0,
+    "accepted": 18,
     "borderline": 0,
-    "rejected": 40,
-    "rejected_as_duplicate": 40,
-    "accept_rate": 0
+    "rejected": 22,
+    "rejected_as_duplicate": 22,
+    "accept_rate": 45
   },
-  "skipped_already_triaged": 0
+  "model": "gemini-flash-lite-latest",
+  "picks": [
+    {
+      "id": "above-the-law-legaltech-0",
+      "score": 3,
+      "category": "Social",
+      "suggested_angle": "Podcast summary on legal business development.",
+      "why_now": "Pure marketing and general practice advice with no legal AI or regulatory hook.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "above-the-law-legaltech-1",
+      "score": 3,
+      "category": "Social",
+      "suggested_angle": "Historical retrospective on the US Supreme Court.",
+      "why_now": "General legal history piece with no tech, AI, or regulatory news value for our publication.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-2",
+      "score": 4,
+      "category": "Research",
+      "suggested_angle": "LLMs threatening double-blind academic peer review.",
+      "why_now": "General AI academic governance paper, lacks direct nexus to legal tech, law firms, or legal regulation.",
+      "verdict": "drop",
+      "duplicate_of": null
+    }
+  ],
+  "summary": {
+    "enqueue_count": 0,
+    "watch_count": 0,
+    "drop_count": 3,
+    "notes": "All candidate items lack sufficient legal AI, regulatory, or vertical tech relevance to justify coverage."
+  },
+  "enqueued": 0,
+  "usage": {
+    "input_tokens": 2483,
+    "output_tokens": 368,
+    "total_tokens": 2851
+  }
 }
