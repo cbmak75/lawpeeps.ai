@@ -1,47 +1,15 @@
 {
-  "generated": "2026-08-08T06:42:09.447Z",
+  "generated": "2026-08-08T07:39:44.645Z",
   "cycle_type": "triage",
-  "tier_filter": "B",
-  "shortlist_size": 2,
+  "shortlist_size": 0,
+  "picks": [],
   "prefilter": {
     "total": 40,
-    "accepted": 2,
+    "accepted": 0,
     "borderline": 0,
-    "rejected": 38,
-    "rejected_as_duplicate": 38,
-    "accept_rate": 5
+    "rejected": 40,
+    "rejected_as_duplicate": 40,
+    "accept_rate": 0
   },
-  "model": "gemini-flash-lite-latest",
-  "picks": [
-    {
-      "id": "hacker-news-0",
-      "score": 2,
-      "category": "Legal AI",
-      "suggested_angle": "Generic sales automation tool launch",
-      "why_now": "Not related to legal tech, regulation, or our editorial focus.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "hacker-news-1",
-      "score": 3,
-      "category": "Social",
-      "suggested_angle": "Broader cultural trend in AI rather than legal tech or regulation.",
-      "why_now": "General interest AI piece from The Verge with no direct application to legal practice or regulation.",
-      "verdict": "drop",
-      "duplicate_of": null
-    }
-  ],
-  "summary": {
-    "enqueue_count": 0,
-    "watch_count": 0,
-    "drop_count": 2,
-    "notes": "Both shortlist items are outside the legal AI / regulatory focus of the publication."
-  },
-  "enqueued": 0,
-  "usage": {
-    "input_tokens": 2323,
-    "output_tokens": 260,
-    "total_tokens": 2583
-  }
+  "skipped_already_triaged": 0
 }
