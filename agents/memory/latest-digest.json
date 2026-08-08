@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-08T02:48:16.116Z",
+  "generated": "2026-08-08T04:02:48.020Z",
   "cycle_type": "monitoring",
   "item_count": 40,
   "total_scanned": 683,
@@ -19,18 +19,6 @@
       "relevance_score": 9
     },
     {
-      "title": "Anthropic Appoints Legal Tech Founder Robert Mahari as Head of Claude for Legal - Law.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQXpwcnUyU2o1dU53LW5WOFh3aFdkQVAtY2dzdG9ZdjNfNEJHVE9oRWxwczc0VDdyUGUtUWNxR3VKeU9rbGFkcFoyd082YzNsU3FJY3Y5NmdYTHZ0dXBsTEFIYjR4dnR3dDVlbnBDRlc1U1lNVk1Eb0h6X3NlUzN6OWFBLXpJUVdMZTd6QTduREU1SkhfZXVNWE1YRHRqWGdPamJncDEwanV1dXdxRVZSXzBKVEEyTGh1dEdwVWNWTzNTcXV0?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNQXpwcnUyU2o1dU53LW5WOFh3aFdkQVAtY2dzdG9ZdjNfNEJHVE9oRWxwczc0VDdyUGUtUWNxR3VKeU9rbGFkcFoyd082YzNsU3FJY3Y5NmdYTHZ0dXBsTEFIYjR4dnR3dDVlbnBDRlc1U1lNVk1Eb0h6X3NlUzN6OWFBLXpJUVdMZTd6QTduREU1SkhfZXVNWE1YRHRqWGdPamJncDEwanV1dXdxRVZSXzBKVEEyTGh1dEdwVWNWTzNTcXV0?oc=5\" target=\"_blank\"&gt;Anthropic Appoints Legal Tech Founder Robert Mahari as Head of Claude for Legal&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Law.com&lt;/font&gt;",
-      "published": "2026-08-07T15:15:00.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 9
-    },
-    {
       "title": "Harvey Forum + Shared Spaces, Clio, Spellbook, Legal Innovators - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWDZZRVZBVWx3ckRDeE96a1ZYWTJxVldZUHNwYWl2eHdrUDZKc2xXSmRYVHRheXlISnI5SVpKdmlYTHdOWVRwb3VneFBHMlZhcnlyOWNiZHJuUkNTLXhINlgwRnJzZlNCU0JYQ2k2R2RrUFN3dlRoT3k0ckM5NDRZRHZ2UjAzQWVfQXNRcm9lM2w2LVdmRUxvMmwyVXkzS2Y2XzlnTTNn?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNWDZZRVZBVWx3ckRDeE96a1ZYWTJxVldZUHNwYWl2eHdrUDZKc2xXSmRYVHRheXlISnI5SVpKdmlYTHdOWVRwb3VneFBHMlZhcnlyOWNiZHJuUkNTLXhINlgwRnJzZlNCU0JYQ2k2R2RrUFN3dlRoT3k0ckM5NDRZRHZ2UjAzQWVfQXNRcm9lM2w2LVdmRUxvMmwyVXkzS2Y2XzlnTTNn?oc=5\" target=\"_blank\"&gt;Harvey Forum + Shared Spaces, Clio, Spellbook, Legal Innovators&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
@@ -41,6 +29,18 @@
       "source_tier": "A",
       "source_category": "Aggregator",
       "relevance_score": 9
+    },
+    {
+      "title": "Anthropic Appoints Legal Tech Founder Robert Mahari as Head of Claude for Legal - Law.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQXpwcnUyU2o1dU53LW5WOFh3aFdkQVAtY2dzdG9ZdjNfNEJHVE9oRWxwczc0VDdyUGUtUWNxR3VKeU9rbGFkcFoyd082YzNsU3FJY3Y5NmdYTHZ0dXBsTEFIYjR4dnR3dDVlbnBDRlc1U1lNVk1Eb0h6X3NlUzN6OWFBLXpJUVdMZTd6QTduREU1SkhfZXVNWE1YRHRqWGdPamJncDEwanV1dXdxRVZSXzBKVEEyTGh1dEdwVWNWTzNTcXV0?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNQXpwcnUyU2o1dU53LW5WOFh3aFdkQVAtY2dzdG9ZdjNfNEJHVE9oRWxwczc0VDdyUGUtUWNxR3VKeU9rbGFkcFoyd082YzNsU3FJY3Y5NmdYTHZ0dXBsTEFIYjR4dnR3dDVlbnBDRlc1U1lNVk1Eb0h6X3NlUzN6OWFBLXpJUVdMZTd6QTduREU1SkhfZXVNWE1YRHRqWGdPamJncDEwanV1dXdxRVZSXzBKVEEyTGh1dEdwVWNWTzNTcXV0?oc=5\" target=\"_blank\"&gt;Anthropic Appoints Legal Tech Founder Robert Mahari as Head of Claude for Legal&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Law.com&lt;/font&gt;",
+      "published": "2026-08-07T15:15:00.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 8
     },
     {
       "title": "Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook partners with CBA; DeepIP raises $25m - Legal IT Insider",
@@ -139,9 +139,9 @@
       "relevance_score": 8
     },
     {
-      "title": "Harvey is raising at $15.5bn, up 40% in five months - The Next Web",
+      "title": "Harvey is raising at $15.5bn, up 40% in five months - thenextweb.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbkpvX1A4MlVuYlJiX281REIyTmtRR2V0bTFTT3Y1U2RfU1UtSHFheGptZEYzT2FHRUxaZTFOeFJPMkNLZG1ubEJ2dGs0di1mdkstRW1RMkFSdjI5Ukd4UlhXc2xvLWEwU3drRUtPMGdUQmwyQ0JLYlNReEN5WkJQMmdjcnA2V1Y4Zjh3?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbkpvX1A4MlVuYlJiX281REIyTmtRR2V0bTFTT3Y1U2RfU1UtSHFheGptZEYzT2FHRUxaZTFOeFJPMkNLZG1ubEJ2dGs0di1mdkstRW1RMkFSdjI5Ukd4UlhXc2xvLWEwU3drRUtPMGdUQmwyQ0JLYlNReEN5WkJQMmdjcnA2V1Y4Zjh3?oc=5\" target=\"_blank\"&gt;Harvey is raising at $15.5bn, up 40% in five months&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Next Web&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbkpvX1A4MlVuYlJiX281REIyTmtRR2V0bTFTT3Y1U2RfU1UtSHFheGptZEYzT2FHRUxaZTFOeFJPMkNLZG1ubEJ2dGs0di1mdkstRW1RMkFSdjI5Ukd4UlhXc2xvLWEwU3drRUtPMGdUQmwyQ0JLYlNReEN5WkJQMmdjcnA2V1Y4Zjh3?oc=5\" target=\"_blank\"&gt;Harvey is raising at $15.5bn, up 40% in five months&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;thenextweb.com&lt;/font&gt;",
       "published": "2026-08-07T18:08:40.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
@@ -223,18 +223,6 @@
       "relevance_score": 7
     },
     {
-      "title": "AI Therapy under the EU AI Act",
-      "url": "https://artificialintelligenceact.eu/ai-therapy-under-the-eu-ai-act/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=ai-therapy-under-the-eu-ai-act",
-      "summary": "This page aims to provide an overview of AI systems, and in particular general-purpose AI (GPAI) systems, used for the purpose of therapy or emotional support under the AI Act. It explores the obligations of providers of these AI systems both on the system as well as on the model level. Summary Coming up in [&#8230;]",
-      "published": "2026-08-07T15:31:26.000Z",
-      "source_id": "eu-ai-act-tracker",
-      "source_name": "EU AI Act Tracker",
-      "source_priority": "high",
-      "source_tier": "A",
-      "source_category": "Policy / AI regulation",
-      "relevance_score": 7
-    },
-    {
       "title": "Anthropic Hires ‘Head of Claude For Legal’ - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOFJQcGJEaHRyUlZTdWxGWWlqelBkZ0gwR3YyNmxxX1NRbU56YXBqVFl6MzNPNElOa0F5eEpDRXFGUThvQk9qbDNQeEZSMjE1ODF2blM3WkdTQnJTNnZhcTIzVFUwM1U4aE1hTjRKNVlKMEhuUTB2Y0Ztbkk1dG90bXd6ZnVPb0Z4ZHI0c253?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPOFJQcGJEaHRyUlZTdWxGWWlqelBkZ0gwR3YyNmxxX1NRbU56YXBqVFl6MzNPNElOa0F5eEpDRXFGUThvQk9qbDNQeEZSMjE1ODF2blM3WkdTQnJTNnZhcTIzVFUwM1U4aE1hTjRKNVlKMEhuUTB2Y0Ztbkk1dG90bXd6ZnVPb0Z4ZHI0c253?oc=5\" target=\"_blank\"&gt;Anthropic Hires ‘Head of Claude For Legal’&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
@@ -247,9 +235,9 @@
       "relevance_score": 6
     },
     {
-      "title": "Wordsmith AI extends Series B with $14M from Intact Private Capital and FT Ventures - app.dealroom.co",
+      "title": "Wordsmith AI extends Series B with $14M from Intact Private Capital and FT Ventures - Dealroom.co",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUVdJSzdiMFBaeDR6UzZtZXZxMUo5cGUxYzN3b1J4RlFuSzA5Z2xLaGcwdTZ6Tk5aSDNIQjN2SG5jQ0llaXhQRTduZTFYT2Y3ZDNtcEVLTmVHOWhrTlBZeTdJdXhHRnZTeVE3bVRGcGNXVGhHdjg0Tk5qbzh4RlRVUm1nei1kLTd2bkVsQzRDQjVCM1hZUTVJenpKNnc1SDZucTN1Zkw2TzlGd0FPNFp2VVB3?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQUVdJSzdiMFBaeDR6UzZtZXZxMUo5cGUxYzN3b1J4RlFuSzA5Z2xLaGcwdTZ6Tk5aSDNIQjN2SG5jQ0llaXhQRTduZTFYT2Y3ZDNtcEVLTmVHOWhrTlBZeTdJdXhHRnZTeVE3bVRGcGNXVGhHdjg0Tk5qbzh4RlRVUm1nei1kLTd2bkVsQzRDQjVCM1hZUTVJenpKNnc1SDZucTN1Zkw2TzlGd0FPNFp2VVB3?oc=5\" target=\"_blank\"&gt;Wordsmith AI extends Series B with $14M from Intact Private Capital and FT Ventures&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;app.dealroom.co&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQUVdJSzdiMFBaeDR6UzZtZXZxMUo5cGUxYzN3b1J4RlFuSzA5Z2xLaGcwdTZ6Tk5aSDNIQjN2SG5jQ0llaXhQRTduZTFYT2Y3ZDNtcEVLTmVHOWhrTlBZeTdJdXhHRnZTeVE3bVRGcGNXVGhHdjg0Tk5qbzh4RlRVUm1nei1kLTd2bkVsQzRDQjVCM1hZUTVJenpKNnc1SDZucTN1Zkw2TzlGd0FPNFp2VVB3?oc=5\" target=\"_blank\"&gt;Wordsmith AI extends Series B with $14M from Intact Private Capital and FT Ventures&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Dealroom.co&lt;/font&gt;",
       "published": "2026-08-06T21:16:09.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
@@ -355,6 +343,18 @@
       "relevance_score": 6
     },
     {
+      "title": "Harvey AI will speed up 'diligence' and transform the economy in different ways: Harvey AI CEO - Fox Business",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGZzVJbmVJeTVpQjU0TTFfNDY1eEdDdThXb2lyT25sYlpuajc5NDdTSzFzSVYwMEhxdnhMTUc4Sll5amFBb3JPN3VOaU5zYTZQS1JoRVJDcTVsSGM?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGZzVJbmVJeTVpQjU0TTFfNDY1eEdDdThXb2lyT25sYlpuajc5NDdTSzFzSVYwMEhxdnhMTUc4Sll5amFBb3JPN3VOaU5zYTZQS1JoRVJDcTVsSGM?oc=5\" target=\"_blank\"&gt;Harvey AI will speed up 'diligence' and transform the economy in different ways: Harvey AI CEO&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Fox Business&lt;/font&gt;",
+      "published": "2026-04-20T07:00:00.000Z",
+      "source_id": "google-news-harvey-luminance",
+      "source_name": "Google News: Harvey OR Luminance",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
+    },
+    {
       "title": "Scott Stevenson Interview: Spellbook ACM - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTHNMbHhCN1MxT09wblM2TERCUU5kNWZvNkxtbHRMSGU5aUR5UUpucmdNRXh2QmtKVWZ3LUVYdC1vemF6Ym9ydzNiR3VPNXdMX3g1bDRKaXVkdkswUUpweEpkODFoSmxMVUlpV3FjSGh0MVF1YzM2TVpEYkFSNERlakozQjdzYkUxcFJ5TA?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOTHNMbHhCN1MxT09wblM2TERCUU5kNWZvNkxtbHRMSGU5aUR5UUpucmdNRXh2QmtKVWZ3LUVYdC1vemF6Ym9ydzNiR3VPNXdMX3g1bDRKaXVkdkswUUpweEpkODFoSmxMVUlpV3FjSGh0MVF1YzM2TVpEYkFSNERlakozQjdzYkUxcFJ5TA?oc=5\" target=\"_blank\"&gt;Scott Stevenson Interview: Spellbook ACM&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
@@ -427,6 +427,18 @@
       "relevance_score": 6
     },
     {
+      "title": "AI Therapy under the EU AI Act",
+      "url": "https://artificialintelligenceact.eu/ai-therapy-under-the-eu-ai-act/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=ai-therapy-under-the-eu-ai-act",
+      "summary": "This page aims to provide an overview of AI systems, and in particular general-purpose AI (GPAI) systems, used for the purpose of therapy or emotional support under the AI Act. It explores the obligations of providers of these AI systems both on the system as well as on the model level. Summary Coming up in [&#8230;]",
+      "published": "2026-08-07T15:31:26.000Z",
+      "source_id": "eu-ai-act-tracker",
+      "source_name": "EU AI Act Tracker",
+      "source_priority": "high",
+      "source_tier": "A",
+      "source_category": "Policy / AI regulation",
+      "relevance_score": 6
+    },
+    {
       "title": "Vodafone pushes into legal tech market to co-develop AI platform - City AM",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTDBPOXlFRDBndll6QkxsUkdRRU4wcjdOMmhhVlR4SHppZGt2am9jaHgwckE0NFNhM2FvcFdkUUVJRV85QkYzLUpMV19VSnAwaHZzc1ZJdDFlZDU3bkk4UWdJV0xGVUxaemZYdTNhcXBzY09lTWU2THNDZ3JpRllwT2xzWjEzcWVJVkRURHVUS19Xdw?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPTDBPOXlFRDBndll6QkxsUkdRRU4wcjdOMmhhVlR4SHppZGt2am9jaHgwckE0NFNhM2FvcFdkUUVJRV85QkYzLUpMV19VSnAwaHZzc1ZJdDFlZDU3bkk4UWdJV0xGVUxaemZYdTNhcXBzY09lTWU2THNDZ3JpRllwT2xzWjEzcWVJVkRURHVUS19Xdw?oc=5\" target=\"_blank\"&gt;Vodafone pushes into legal tech market to co-develop AI platform&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;City AM&lt;/font&gt;",
@@ -467,18 +479,6 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMFFnQ1ZFcTlDWXkzWnJMb0lURklNa2hMRXVEMmZ6dW9wYzFmaWJhUEdDRjVjYnA1RTRWZDF5cXlTZ2xQTjZ1QUlCNnJHa2tkcmYyRFpCNmg3dHFTR1llLUFLZG5yZjF1LWVIU3p3R1YzQW5ReW10WElLeG9xQWlyX3h5RXViYlY3b0E?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNMFFnQ1ZFcTlDWXkzWnJMb0lURklNa2hMRXVEMmZ6dW9wYzFmaWJhUEdDRjVjYnA1RTRWZDF5cXlTZ2xQTjZ1QUlCNnJHa2tkcmYyRFpCNmg3dHFTR1llLUFLZG5yZjF1LWVIU3p3R1YzQW5ReW10WElLeG9xQWlyX3h5RXViYlY3b0E?oc=5\" target=\"_blank\"&gt;:Harvey: Expands Collaboration with Microsoft on Legal AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
       "published": "2026-07-23T07:00:00.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 5
-    },
-    {
-      "title": "The Year Legal AI Becomes Core Infrastructure - Harvey",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQM1FoRzB1UllvekZhdk12TmhyQ25NQUE2Zkd4NWd3cWRRWnVoZFBlRllYZU4tVFg0MWhfY0VtTFFZeE14Z2V3dVVObVJsZnNITEdqS0ZwMXh4R1MxVVl5dzVCUHBfOHlIckV3WGxFQ1J2bTZoaUJIV18zYWR2b0xzakZZdms?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQM1FoRzB1UllvekZhdk12TmhyQ25NQUE2Zkd4NWd3cWRRWnVoZFBlRllYZU4tVFg0MWhfY0VtTFFZeE14Z2V3dVVObVJsZnNITEdqS0ZwMXh4R1MxVVl5dzVCUHBfOHlIckV3WGxFQ1J2bTZoaUJIV18zYWR2b0xzakZZdms?oc=5\" target=\"_blank\"&gt;The Year Legal AI Becomes Core Infrastructure&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
-      "published": "2026-07-31T15:15:09.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
