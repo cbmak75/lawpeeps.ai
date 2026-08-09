@@ -1,15 +1,38 @@
 {
-  "generated": "2026-08-09T20:18:14.538Z",
+  "generated": "2026-08-09T21:20:22.675Z",
   "cycle_type": "triage",
-  "shortlist_size": 0,
-  "picks": [],
+  "tier_filter": "A",
+  "shortlist_size": 1,
   "prefilter": {
     "total": 40,
-    "accepted": 0,
+    "accepted": 1,
     "borderline": 0,
-    "rejected": 40,
-    "rejected_as_duplicate": 40,
-    "accept_rate": 0
+    "rejected": 39,
+    "rejected_as_duplicate": 39,
+    "accept_rate": 3
   },
-  "skipped_already_triaged": 0
+  "model": "gemini-flash-lite-latest",
+  "picks": [
+    {
+      "id": "google-news-legal-ai-0",
+      "score": 3,
+      "category": "Legal AI",
+      "suggested_angle": "South Korean legal AI iLex analyzes pop culture case 'The Glory'",
+      "why_now": "Low-value foreign case study that lacks direct UK/US relevance or primary regulatory impact.",
+      "verdict": "drop",
+      "duplicate_of": null
+    }
+  ],
+  "summary": {
+    "enqueue_count": 0,
+    "watch_count": 0,
+    "drop_count": 1,
+    "notes": "Dropped single low-relevance international case study."
+  },
+  "enqueued": 0,
+  "usage": {
+    "input_tokens": 2492,
+    "output_tokens": 177,
+    "total_tokens": 2669
+  }
 }
