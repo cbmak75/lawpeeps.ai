@@ -2993,7 +2993,61 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "Legal AI Is Rushing into Latin America to Solve a Problem It Cannot Touch - Law.com",
+      "slug": "legal-ai-is-rushing-into-latin-america-to-solve-a-problem-it-cannot-touch-law-co",
+      "score": 6,
+      "category": "Legal AI",
+      "story_type": "news",
+      "research_brief": "&lt;a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNV0lNT1diVEhaRVdVTFM3ZDJreFdsa3VOZmlsWVdvUVFCOHZTZHVIdDJCX3JKVFZkTGRncVc1MUo2aDVQdVpNOVlPdlRLSjFna1NqbU9jNmR2UTllMUNqTUp3emRITmZrbWNTOTF5SlhtNzVubGJGWU91WDVSakxwZUt0Vnp1ekl6SElXYmpEallrU1lsb18xS2ZuUnRvaGdRLWhfVi1DYWxfSS1PY1dsRjY4OW9aSTl0bmozRVFCbS1hYngwZVE?oc=5\" target=\"_blank\"&gt;Legal AI Is Rushing into Latin America to Solve a Problem It Cannot Touch&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Law.com&lt;/font&gt;",
+      "primary_source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNV0lNT1diVEhaRVdVTFM3ZDJreFdsa3VOZmlsWVdvUVFCOHZTZHVIdDJCX3JKVFZkTGRncVc1MUo2aDVQdVpNOVlPdlRLSjFna1NqbU9jNmR2UTllMUNqTUp3emRITmZrbWNTOTF5SlhtNzVubGJGWU91WDVSakxwZUt0Vnp1ekl6SElXYmpEallrU1lsb18xS2ZuUnRvaGdRLWhfVi1DYWxfSS1PY1dsRjY4OW9aSTl0bmozRVFCbS1hYngwZVE?oc=5",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "Examining the mismatch between Global North legal AI tools and regional Latin American legal system challenges.",
+      "why_now": "Offers a critical geopolitical counter-narrative to standard US/UK-centric legal tech hype cycles.",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Google News: legal AI",
+      "source_tier": "A",
+      "prefilter_score": 14,
+      "matched_terms": [
+        "legal AI",
+        "LLM"
+      ],
+      "fingerprint": {
+        "entities": [],
+        "numerics": [
+          "1m",
+          "0bn"
+        ],
+        "keywords": [
+          "legal ai",
+          "llm"
+        ],
+        "title_tokens": [
+          "legal",
+          "ai",
+          "rushing",
+          "latin",
+          "america",
+          "solve",
+          "problem",
+          "cannot",
+          "touch"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-08-10T22:25:02.725Z",
+      "queued_at": "2026-08-10T22:25:02.728Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-08-10T14:11:21.429Z"
+  "last_updated": "2026-08-10T22:25:02.728Z"
 }

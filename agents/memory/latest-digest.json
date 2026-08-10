@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-10T21:30:34.893Z",
+  "generated": "2026-08-10T22:25:01.632Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 684,
+  "total_scanned": 686,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -29,6 +29,18 @@
       "source_tier": "A",
       "source_category": "Aggregator",
       "relevance_score": 9
+    },
+    {
+      "title": "Legal AI Is Rushing into Latin America to Solve a Problem It Cannot Touch - Law.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNV0lNT1diVEhaRVdVTFM3ZDJreFdsa3VOZmlsWVdvUVFCOHZTZHVIdDJCX3JKVFZkTGRncVc1MUo2aDVQdVpNOVlPdlRLSjFna1NqbU9jNmR2UTllMUNqTUp3emRITmZrbWNTOTF5SlhtNzVubGJGWU91WDVSakxwZUt0Vnp1ekl6SElXYmpEallrU1lsb18xS2ZuUnRvaGdRLWhfVi1DYWxfSS1PY1dsRjY4OW9aSTl0bmozRVFCbS1hYngwZVE?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNV0lNT1diVEhaRVdVTFM3ZDJreFdsa3VOZmlsWVdvUVFCOHZTZHVIdDJCX3JKVFZkTGRncVc1MUo2aDVQdVpNOVlPdlRLSjFna1NqbU9jNmR2UTllMUNqTUp3emRITmZrbWNTOTF5SlhtNzVubGJGWU91WDVSakxwZUt0Vnp1ekl6SElXYmpEallrU1lsb18xS2ZuUnRvaGdRLWhfVi1DYWxfSS1PY1dsRjY4OW9aSTl0bmozRVFCbS1hYngwZVE?oc=5\" target=\"_blank\"&gt;Legal AI Is Rushing into Latin America to Solve a Problem It Cannot Touch&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Law.com&lt;/font&gt;",
+      "published": "2026-08-10T21:00:00.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 8
     },
     {
       "title": "Top Legal AI Startups Funded in 2026 (Harvey, Legora, Ironclad) - AI Funding Tracker",
@@ -259,9 +271,9 @@
       "relevance_score": 6
     },
     {
-      "title": "Harvey AI will speed up 'diligence' and transform the economy in different ways: Harvey AI CEO - Fox Business",
+      "title": "Harvey AI will speed up 'diligence' and transform the economy in different ways: Harvey AI CEO - foxbusiness.com",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGZzVJbmVJeTVpQjU0TTFfNDY1eEdDdThXb2lyT25sYlpuajc5NDdTSzFzSVYwMEhxdnhMTUc4Sll5amFBb3JPN3VOaU5zYTZQS1JoRVJDcTVsSGM?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGZzVJbmVJeTVpQjU0TTFfNDY1eEdDdThXb2lyT25sYlpuajc5NDdTSzFzSVYwMEhxdnhMTUc4Sll5amFBb3JPN3VOaU5zYTZQS1JoRVJDcTVsSGM?oc=5\" target=\"_blank\"&gt;Harvey AI will speed up 'diligence' and transform the economy in different ways: Harvey AI CEO&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Fox Business&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGZzVJbmVJeTVpQjU0TTFfNDY1eEdDdThXb2lyT25sYlpuajc5NDdTSzFzSVYwMEhxdnhMTUc4Sll5amFBb3JPN3VOaU5zYTZQS1JoRVJDcTVsSGM?oc=5\" target=\"_blank\"&gt;Harvey AI will speed up 'diligence' and transform the economy in different ways: Harvey AI CEO&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;foxbusiness.com&lt;/font&gt;",
       "published": "2026-04-20T07:00:00.000Z",
       "source_id": "google-news-harvey-luminance",
       "source_name": "Google News: Harvey OR Luminance",
@@ -467,18 +479,6 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUDVZYWQ2dy05eC1DNmZnQ09zb0xYcG9ZeFkwNkFzd3VHS2hBTEt6WTZpcVcxd2E2VjVPUzlXM1B0azl3VG9mLU1OQk1oMXVUN3RqRDlYVzF2MjZfSHdXa25NYl9JVzI2RzljWUhHd3BIYk52OEpXZUtjVDZ4OGRNal96UXAxWV9tMnc4aHd1UmNBREg2NlEwTGQwN1hXeWc?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPUDVZYWQ2dy05eC1DNmZnQ09zb0xYcG9ZeFkwNkFzd3VHS2hBTEt6WTZpcVcxd2E2VjVPUzlXM1B0azl3VG9mLU1OQk1oMXVUN3RqRDlYVzF2MjZfSHdXa25NYl9JVzI2RzljWUhHd3BIYk52OEpXZUtjVDZ4OGRNal96UXAxWV9tMnc4aHd1UmNBREg2NlEwTGQwN1hXeWc?oc=5\" target=\"_blank\"&gt;What Legal AI Benchmarks Reveal That Model Names Don’t&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
       "published": "2026-06-22T07:00:00.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 5
-    },
-    {
-      "title": "Harvey announces partnership with Swiss legal AI intelligence platform DeepJudge - The Global Legal Post",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQzJDM2Zxdks1eDYzTDNNZ1RuRXZ6Njh2SFFuVFFITmxhdF9lYzR3ZVRzZ1R6bEFnMHNNTHdodzJaVmxMNlZSWlp4S2xhY0VWdThHV3JQVktjNTlfUzE2QlhucDlTNFhhOTRCYUl2aDMyaHUzR3B4T2YtazktdnpmVFg4X0RJdkJqWFVQaVJNcDJsejF0YWpMelNkamhkbTQ4R0F0STdVTWpqRlBTMFBnUkF4R2s1U1d1NGVNYzFKcjFiTllL?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQQzJDM2Zxdks1eDYzTDNNZ1RuRXZ6Njh2SFFuVFFITmxhdF9lYzR3ZVRzZ1R6bEFnMHNNTHdodzJaVmxMNlZSWlp4S2xhY0VWdThHV3JQVktjNTlfUzE2QlhucDlTNFhhOTRCYUl2aDMyaHUzR3B4T2YtazktdnpmVFg4X0RJdkJqWFVQaVJNcDJsejF0YWpMelNkamhkbTQ4R0F0STdVTWpqRlBTMFBnUkF4R2s1U1d1NGVNYzFKcjFiTllL?oc=5\" target=\"_blank\"&gt;Harvey announces partnership with Swiss legal AI intelligence platform DeepJudge&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Global Legal Po",
-      "published": "2026-05-21T07:00:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
