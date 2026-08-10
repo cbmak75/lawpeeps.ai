@@ -1,15 +1,209 @@
 {
-  "generated": "2026-08-10T07:06:23.058Z",
+  "generated": "2026-08-10T07:21:11.471Z",
   "cycle_type": "triage",
-  "shortlist_size": 0,
-  "picks": [],
+  "tier_filter": "B",
+  "shortlist_size": 20,
   "prefilter": {
     "total": 40,
-    "accepted": 0,
+    "accepted": 32,
     "borderline": 0,
-    "rejected": 40,
-    "rejected_as_duplicate": 40,
-    "accept_rate": 0
+    "rejected": 8,
+    "rejected_as_duplicate": 8,
+    "accept_rate": 80
   },
-  "skipped_already_triaged": 0
+  "model": "gemini-flash-lite-latest",
+  "picks": [
+    {
+      "id": "arxiv-cs-ai-0",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "None",
+      "why_now": "Generic academic paper on LLM value alignment across Europe without direct legal or regulatory focus.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-1",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "None",
+      "why_now": "Irrelevant web development programmatic grader paper.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-2",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "None",
+      "why_now": "Personality evolution in LLM agents after life events has no legal nexus.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-3",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "None",
+      "why_now": "Scientific discovery evaluation paper.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-4",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "None",
+      "why_now": "Cybersecurity agent vulnerability injection paper.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-5",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "None",
+      "why_now": "International trade negotiation benchmark paper.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-6",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "None",
+      "why_now": "Inference latency and energy paper.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-7",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "None",
+      "why_now": "Visual counter-commonsense reasoning paper.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-8",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "None",
+      "why_now": "Sparse expert routing tokenizer-free LLM paper.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-9",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "None",
+      "why_now": "Visual token pruning paper.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-10",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "None",
+      "why_now": "Parallel algorithm portfolios paper.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-11",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "None",
+      "why_now": "Bellman credit assignment for LLM agents.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-12",
+      "score": 5,
+      "category": "Research",
+      "suggested_angle": "Can multi-agent splitting mitigate bias in automated legal triage?",
+      "why_now": "Simulation study touches on triage bias and resource allocation under constraints, marginally relevant to legal/administrative decision-making automation.",
+      "verdict": "watch",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-13",
+      "score": 4,
+      "category": "Research",
+      "suggested_angle": "None",
+      "why_now": "Clinical trial integrity assessments using LLMs; low relevance to core legal tech or regulation.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-14",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "None",
+      "why_now": "Geo-related LLM benchmark.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-15",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "None",
+      "why_now": "Hypothesis testing agent training paper.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-16",
+      "score": 4,
+      "category": "Research",
+      "suggested_angle": "Mitigating scoring bias in LLM-as-a-judge evaluations.",
+      "why_now": "Relevant to automated contract review and legal evaluation tools, but purely academic.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-17",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "None",
+      "why_now": "Software issue resolution agent paper.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-18",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "None",
+      "why_now": "Central bank tone measurement framework.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-19",
+      "score": 4,
+      "category": "Research",
+      "suggested_angle": "Evaluating the components of LLM agent performance in legal tasks.",
+      "why_now": "Touches on agent harnesses and evaluation challenges, but abstract and broad.",
+      "verdict": "drop",
+      "duplicate_of": null
+    }
+  ],
+  "summary": {
+    "enqueue_count": 0,
+    "watch_count": 1,
+    "drop_count": 19,
+    "notes": "Filtered out standard academic arXiv preprints with minimal direct legal, regulatory, or immigration tech angles."
+  },
+  "enqueued": 0,
+  "usage": {
+    "input_tokens": 5355,
+    "output_tokens": 1754,
+    "total_tokens": 7109
+  }
 }
