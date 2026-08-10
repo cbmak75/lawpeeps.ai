@@ -1,74 +1,15 @@
 {
-  "generated": "2026-08-10T18:49:11.036Z",
+  "generated": "2026-08-10T19:46:26.064Z",
   "cycle_type": "triage",
-  "tier_filter": "B",
-  "shortlist_size": 5,
+  "shortlist_size": 0,
+  "picks": [],
   "prefilter": {
     "total": 40,
-    "accepted": 16,
+    "accepted": 0,
     "borderline": 0,
-    "rejected": 24,
-    "rejected_as_duplicate": 24,
-    "accept_rate": 40
+    "rejected": 40,
+    "rejected_as_duplicate": 40,
+    "accept_rate": 0
   },
-  "model": "gemini-flash-lite-latest",
-  "picks": [
-    {
-      "id": "hacker-news-0",
-      "score": 2,
-      "category": "Policy",
-      "suggested_angle": "Sanders calls for AI pause",
-      "why_now": "General tech policy news without a specific legal sector application.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "hacker-news-1",
-      "score": 1,
-      "category": "Legal AI",
-      "suggested_angle": "Infrastructure management for AI fleets",
-      "why_now": "Purely technical infrastructure post with no legal or regulatory relevance.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "hacker-news-2",
-      "score": 2,
-      "category": "Funding",
-      "suggested_angle": "Hyperscaler leverage analysis",
-      "why_now": "Macro tech finance piece, not specific to legal tech or AI regulation.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "above-the-law-legaltech-3",
-      "score": 3,
-      "category": "Social",
-      "suggested_angle": "Lawyer marketing and podcasting guides",
-      "why_now": "Standard practice advice rather than legal tech or AI news.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "above-the-law-legaltech-4",
-      "score": 3,
-      "category": "Regulatory",
-      "suggested_angle": "Moderna vaccine approval and litigation impacts",
-      "why_now": "General healthcare legal/regulatory news outside core legal AI focus.",
-      "verdict": "drop",
-      "duplicate_of": null
-    }
-  ],
-  "summary": {
-    "enqueue_count": 0,
-    "watch_count": 0,
-    "drop_count": 5,
-    "notes": "All candidate stories lack direct relevance to legal AI, legal tech, or regulatory mandates for law."
-  },
-  "enqueued": 0,
-  "usage": {
-    "input_tokens": 2970,
-    "output_tokens": 525,
-    "total_tokens": 3495
-  }
+  "skipped_already_triaged": 0
 }
