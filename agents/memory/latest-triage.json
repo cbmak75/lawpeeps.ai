@@ -1,38 +1,15 @@
 {
-  "generated": "2026-08-10T14:11:21.430Z",
+  "generated": "2026-08-10T15:47:49.285Z",
   "cycle_type": "triage",
-  "tier_filter": "A",
-  "shortlist_size": 1,
+  "shortlist_size": 0,
+  "picks": [],
   "prefilter": {
     "total": 40,
-    "accepted": 1,
+    "accepted": 0,
     "borderline": 0,
-    "rejected": 39,
-    "rejected_as_duplicate": 39,
-    "accept_rate": 3
+    "rejected": 40,
+    "rejected_as_duplicate": 40,
+    "accept_rate": 0
   },
-  "model": "gemini-flash-lite-latest",
-  "picks": [
-    {
-      "id": "google-news-legal-ai-0",
-      "score": 8,
-      "category": "Legal AI",
-      "suggested_angle": "How legal consultants are positioning domain-specific solutions against generic foundation models.",
-      "why_now": "Artificial Lawyer piece directly addressing the tension between general-purpose LLMs and bespoke legal tech architecture.",
-      "verdict": "enqueue",
-      "duplicate_of": null
-    }
-  ],
-  "summary": {
-    "enqueue_count": 1,
-    "watch_count": 0,
-    "drop_count": 0,
-    "notes": "Single relevant Artificial Lawyer analysis piece on legal tech vs general LLMs."
-  },
-  "enqueued": 1,
-  "usage": {
-    "input_tokens": 2343,
-    "output_tokens": 177,
-    "total_tokens": 2520
-  }
+  "skipped_already_triaged": 0
 }
