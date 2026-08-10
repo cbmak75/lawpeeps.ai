@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-10T15:47:49.186Z",
+  "generated": "2026-08-10T16:40:55.014Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 684,
+  "total_scanned": 680,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -67,9 +67,9 @@
       "relevance_score": 8
     },
     {
-      "title": "EvenUp, AI Software For Personal Injury Law, Doubles Valuation To $2B As Legal Tech Funding Hits Record High - news.crunchbase.com",
+      "title": "EvenUp, AI Software For Personal Injury Law, Doubles Valuation To $2B As Legal Tech Funding Hits Record High - Crunchbase News",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY2p6WWxfeE1ZZDJxQXJPOWtrR2VZdkxlSkFtck03QWJtOU1YcGtHUFBlZllXMXkxeXRlcHhfZU9vR0VMU1JUS0FYMGNUSXZ0UnVRSU5YRVZuWERkU29MVFYzYjNtdHN6OUZGU3JlNWpLcDI3eTRwam5fVkhUSzU2WFdtX0daQUNseG50YzRpTQ?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQY2p6WWxfeE1ZZDJxQXJPOWtrR2VZdkxlSkFtck03QWJtOU1YcGtHUFBlZllXMXkxeXRlcHhfZU9vR0VMU1JUS0FYMGNUSXZ0UnVRSU5YRVZuWERkU29MVFYzYjNtdHN6OUZGU3JlNWpLcDI3eTRwam5fVkhUSzU2WFdtX0daQUNseG50YzRpTQ?oc=5\" target=\"_blank\"&gt;EvenUp, AI Software For Personal Injury Law, Doubles Valuation To $2B As Legal Tech Funding Hits Record High&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;news.crunchbase.com&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQY2p6WWxfeE1ZZDJxQXJPOWtrR2VZdkxlSkFtck03QWJtOU1YcGtHUFBlZllXMXkxeXRlcHhfZU9vR0VMU1JUS0FYMGNUSXZ0UnVRSU5YRVZuWERkU29MVFYzYjNtdHN6OUZGU3JlNWpLcDI3eTRwam5fVkhUSzU2WFdtX0daQUNseG50YzRpTQ?oc=5\" target=\"_blank\"&gt;EvenUp, AI Software For Personal Injury Law, Doubles Valuation To $2B As Legal Tech Funding Hits Record High&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Crunchbase News&lt;/font&gt;",
       "published": "2025-10-07T07:00:00.000Z",
       "source_id": "google-news-legal-tech-funding",
       "source_name": "Google News: legal tech funding",
@@ -283,9 +283,9 @@
       "relevance_score": 6
     },
     {
-      "title": "Harvey AI will speed up 'diligence' and transform the economy in different ways: Harvey AI CEO - foxbusiness.com",
+      "title": "Harvey AI will speed up 'diligence' and transform the economy in different ways: Harvey AI CEO - Fox Business",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGZzVJbmVJeTVpQjU0TTFfNDY1eEdDdThXb2lyT25sYlpuajc5NDdTSzFzSVYwMEhxdnhMTUc4Sll5amFBb3JPN3VOaU5zYTZQS1JoRVJDcTVsSGM?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGZzVJbmVJeTVpQjU0TTFfNDY1eEdDdThXb2lyT25sYlpuajc5NDdTSzFzSVYwMEhxdnhMTUc4Sll5amFBb3JPN3VOaU5zYTZQS1JoRVJDcTVsSGM?oc=5\" target=\"_blank\"&gt;Harvey AI will speed up 'diligence' and transform the economy in different ways: Harvey AI CEO&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;foxbusiness.com&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGZzVJbmVJeTVpQjU0TTFfNDY1eEdDdThXb2lyT25sYlpuajc5NDdTSzFzSVYwMEhxdnhMTUc4Sll5amFBb3JPN3VOaU5zYTZQS1JoRVJDcTVsSGM?oc=5\" target=\"_blank\"&gt;Harvey AI will speed up 'diligence' and transform the economy in different ways: Harvey AI CEO&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Fox Business&lt;/font&gt;",
       "published": "2026-04-20T07:00:00.000Z",
       "source_id": "google-news-harvey-luminance",
       "source_name": "Google News: Harvey OR Luminance",
@@ -367,6 +367,18 @@
       "relevance_score": 6
     },
     {
+      "title": "Anthropic Hires ‘Head of Claude For Legal’ - Artificial Lawyer",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOFJQcGJEaHRyUlZTdWxGWWlqelBkZ0gwR3YyNmxxX1NRbU56YXBqVFl6MzNPNElOa0F5eEpDRXFGUThvQk9qbDNQeEZSMjE1ODF2blM3WkdTQnJTNnZhcTIzVFUwM1U4aE1hTjRKNVlKMEhuUTB2Y0Ztbkk1dG90bXd6ZnVPb0Z4ZHI0c253?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPOFJQcGJEaHRyUlZTdWxGWWlqelBkZ0gwR3YyNmxxX1NRbU56YXBqVFl6MzNPNElOa0F5eEpDRXFGUThvQk9qbDNQeEZSMjE1ODF2blM3WkdTQnJTNnZhcTIzVFUwM1U4aE1hTjRKNVlKMEhuUTB2Y0Ztbkk1dG90bXd6ZnVPb0Z4ZHI0c253?oc=5\" target=\"_blank\"&gt;Anthropic Hires ‘Head of Claude For Legal’&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
+      "published": "2026-08-07T09:13:03.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 5
+    },
+    {
       "title": ":Harvey: Expands Collaboration with Microsoft on Legal AI - Harvey",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMFFnQ1ZFcTlDWXkzWnJMb0lURklNa2hMRXVEMmZ6dW9wYzFmaWJhUEdDRjVjYnA1RTRWZDF5cXlTZ2xQTjZ1QUlCNnJHa2tkcmYyRFpCNmg3dHFTR1llLUFLZG5yZjF1LWVIU3p3R1YzQW5ReW10WElLeG9xQWlyX3h5RXViYlY3b0E?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNMFFnQ1ZFcTlDWXkzWnJMb0lURklNa2hMRXVEMmZ6dW9wYzFmaWJhUEdDRjVjYnA1RTRWZDF5cXlTZ2xQTjZ1QUlCNnJHa2tkcmYyRFpCNmg3dHFTR1llLUFLZG5yZjF1LWVIU3p3R1YzQW5ReW10WElLeG9xQWlyX3h5RXViYlY3b0E?oc=5\" target=\"_blank\"&gt;:Harvey: Expands Collaboration with Microsoft on Legal AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
@@ -383,18 +395,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbkpvX1A4MlVuYlJiX281REIyTmtRR2V0bTFTT3Y1U2RfU1UtSHFheGptZEYzT2FHRUxaZTFOeFJPMkNLZG1ubEJ2dGs0di1mdkstRW1RMkFSdjI5Ukd4UlhXc2xvLWEwU3drRUtPMGdUQmwyQ0JLYlNReEN5WkJQMmdjcnA2V1Y4Zjh3?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbkpvX1A4MlVuYlJiX281REIyTmtRR2V0bTFTT3Y1U2RfU1UtSHFheGptZEYzT2FHRUxaZTFOeFJPMkNLZG1ubEJ2dGs0di1mdkstRW1RMkFSdjI5Ukd4UlhXc2xvLWEwU3drRUtPMGdUQmwyQ0JLYlNReEN5WkJQMmdjcnA2V1Y4Zjh3?oc=5\" target=\"_blank\"&gt;Harvey is raising at $15.5bn, up 40% in five months&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Next Web&lt;/font&gt;",
       "published": "2026-08-07T18:08:40.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 5
-    },
-    {
-      "title": "Anthropic Hires ‘Head of Claude For Legal’ - Artificial Lawyer",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOFJQcGJEaHRyUlZTdWxGWWlqelBkZ0gwR3YyNmxxX1NRbU56YXBqVFl6MzNPNElOa0F5eEpDRXFGUThvQk9qbDNQeEZSMjE1ODF2blM3WkdTQnJTNnZhcTIzVFUwM1U4aE1hTjRKNVlKMEhuUTB2Y0Ztbkk1dG90bXd6ZnVPb0Z4ZHI0c253?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPOFJQcGJEaHRyUlZTdWxGWWlqelBkZ0gwR3YyNmxxX1NRbU56YXBqVFl6MzNPNElOa0F5eEpDRXFGUThvQk9qbDNQeEZSMjE1ODF2blM3WkdTQnJTNnZhcTIzVFUwM1U4aE1hTjRKNVlKMEhuUTB2Y0Ztbkk1dG90bXd6ZnVPb0Z4ZHI0c253?oc=5\" target=\"_blank\"&gt;Anthropic Hires ‘Head of Claude For Legal’&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
-      "published": "2026-08-07T09:13:03.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
@@ -439,7 +439,7 @@
       "relevance_score": 5
     },
     {
-      "title": "Big AI v Big Law — Jude Law, Harvey Specter and why the legal AI arms race is only just beginning - lawscot.org.uk",
+      "title": "Big AI v Big Law — Jude Law, Harvey Specter and why the legal AI arms race is only just beginning - Law Society of Scotland",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQT2dndHk0NjZaYkQwdjF5Sy1KN2doNzRSc3Q1anFiOVJRc3RxME81NURrOGt3WjNsbVVzNVlnQ1NaUmZBT0J4ajlYOS1CemoyRWJpY1p1RTJQODVHQ0xwZ09EUzZFYzVUUlhOckROTG1EOWVTR3MycFdXVXlkUXRyUUIxaFBseXEydlVkNkg2MHVMcVVvLURHS3U4Z0loZ2wwLWNfUlpOSlhuemNYVUcwelNDVkd6M08zUExNN2RkTWpObWJkZ0d0c0lmQUM5bGJMbWQ2Uzk3M3d6SWw0VUhxaF9ZdzZjZw?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQT2dndHk0NjZaYkQwdjF5Sy1KN2doNzRSc3Q1anFiOVJRc3RxME81NURrOGt3WjNsbVVzNVlnQ1NaUmZBT0J4ajlYOS1CemoyRWJpY1p1RTJQODVHQ0xwZ09EUzZFYzVUUlhOckROTG1EOWVTR3MycFdXVXlkUXRyUUIxaFBseXEydlVkNkg2MHVMcVVvLURHS3U4Z0loZ2wwLWNfUlpOSlhuemNYVUcwelNDVkd6M08zUExNN2RkTWpObWJkZ0d0c0lmQUM5bGJMbWQ2Uzk3M3d6SWw0VUhxaF9ZdzZjZw?oc=5\" target=\"_blank\"&gt;Big AI v Big Law — Jude Law, Harvey Specter and why the legal AI arms race is only just beginning&lt;/a&gt;&amp",
       "published": "2026-07-09T12:56:28.000Z",
@@ -475,10 +475,10 @@
       "relevance_score": 5
     },
     {
-      "title": "What Legal AI Benchmarks Reveal That Model Names Don’t - Artificial Lawyer",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUDVZYWQ2dy05eC1DNmZnQ09zb0xYcG9ZeFkwNkFzd3VHS2hBTEt6WTZpcVcxd2E2VjVPUzlXM1B0azl3VG9mLU1OQk1oMXVUN3RqRDlYVzF2MjZfSHdXa25NYl9JVzI2RzljWUhHd3BIYk52OEpXZUtjVDZ4OGRNal96UXAxWV9tMnc4aHd1UmNBREg2NlEwTGQwN1hXeWc?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPUDVZYWQ2dy05eC1DNmZnQ09zb0xYcG9ZeFkwNkFzd3VHS2hBTEt6WTZpcVcxd2E2VjVPUzlXM1B0azl3VG9mLU1OQk1oMXVUN3RqRDlYVzF2MjZfSHdXa25NYl9JVzI2RzljWUhHd3BIYk52OEpXZUtjVDZ4OGRNal96UXAxWV9tMnc4aHd1UmNBREg2NlEwTGQwN1hXeWc?oc=5\" target=\"_blank\"&gt;What Legal AI Benchmarks Reveal That Model Names Don’t&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
-      "published": "2026-06-22T07:00:00.000Z",
+      "title": "Legal Tech Roundup: NYAI, Harvey, Legora - Law360",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb0N4eVpRMWtnTExmcjA1QjFLeHUxUFgwOVhzb1lGaUl0T1MzSUpreDl4ZkJYTDF0aWFsTW93LXRaMWdaTXlaNWhESWN4ZHdXZGphOTV3MHpHbk5icTZZYlBOYndpbE8xZnpHbWt1U0h2b2pPbmpMaTFMUDNaeFBqQXZTRTI4elRGMnBJ0gFeQVVfeXFMTU15WUhaQmc3SGkyb1UzRUpCR2xMdFdKYmY3dHFuMDlrSnJNamxXRHR4bzBUZEt1Vm5KZkxld2gtR1UtVmxqdVJCdnJ4VXJwQXRGUkdNQkFuNHhSbE01UQ?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb0N4eVpRMWtnTExmcjA1QjFLeHUxUFgwOVhzb1lGaUl0T1MzSUpreDl4ZkJYTDF0aWFsTW93LXRaMWdaTXlaNWhESWN4ZHdXZGphOTV3MHpHbk5icTZZYlBOYndpbE8xZnpHbWt1U0h2b2pPbmpMaTFMUDNaeFBqQXZTRTI4elRGMnBJ0gFeQVVfeXFMTU15WUhaQmc3SGkyb1UzRUpCR2xMdFdKYmY3dHFuMDlrSnJNamxXRHR4bzBUZEt1Vm5KZkxld2gtR1UtVmxqdVJCdnJ4VXJwQXRGUkdNQkFuNHhSbE01UQ?oc=5\" target=\"_blank\"&gt;Legal Tech Roundup: NYAI, Harvey, Legora&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Law36",
+      "published": "2026-08-07T18:18:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
