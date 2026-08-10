@@ -1,15 +1,56 @@
 {
-  "generated": "2026-08-10T00:50:13.241Z",
+  "generated": "2026-08-10T01:17:41.116Z",
   "cycle_type": "triage",
-  "shortlist_size": 0,
-  "picks": [],
+  "tier_filter": "B",
+  "shortlist_size": 3,
   "prefilter": {
     "total": 40,
-    "accepted": 1,
-    "borderline": 0,
-    "rejected": 39,
-    "rejected_as_duplicate": 39,
-    "accept_rate": 3
+    "accepted": 2,
+    "borderline": 1,
+    "rejected": 37,
+    "rejected_as_duplicate": 37,
+    "accept_rate": 5
   },
-  "skipped_already_triaged": 1
+  "model": "gemini-flash-lite-latest",
+  "picks": [
+    {
+      "id": "legal-futures-0",
+      "score": 4,
+      "category": "Policy",
+      "suggested_angle": "Legal aid crisis deepens as practitioners abandon core services.",
+      "why_now": "General legal aid market pressures, though lacks a direct legal AI or regulatory hook for lawpeeps.ai.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "legal-futures-1",
+      "score": 3,
+      "category": "Social",
+      "suggested_angle": "Addressing structural barriers for lawyer non-executive director roles.",
+      "why_now": "General profession trends report with no specific technology or regulatory angle.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "hacker-news-2",
+      "score": 3,
+      "category": "Legal AI",
+      "suggested_angle": "Self-hosted multi-agent tools for localized legal workflows.",
+      "why_now": "Generic developer tool with no specific legal sector application or legal-tech validation.",
+      "verdict": "drop",
+      "duplicate_of": null
+    }
+  ],
+  "summary": {
+    "enqueue_count": 0,
+    "watch_count": 0,
+    "drop_count": 3,
+    "notes": "None of the shortlist items meet the threshold for legal AI, UK regulation, or firm adoption focus today."
+  },
+  "enqueued": 0,
+  "usage": {
+    "input_tokens": 2465,
+    "output_tokens": 372,
+    "total_tokens": 2837
+  }
 }
