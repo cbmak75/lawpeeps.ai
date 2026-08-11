@@ -1,15 +1,65 @@
 {
-  "generated": "2026-08-11T12:37:21.123Z",
+  "generated": "2026-08-11T12:51:30.046Z",
   "cycle_type": "triage",
-  "shortlist_size": 0,
-  "picks": [],
+  "tier_filter": "B",
+  "shortlist_size": 4,
   "prefilter": {
     "total": 40,
-    "accepted": 0,
+    "accepted": 18,
     "borderline": 0,
-    "rejected": 40,
-    "rejected_as_duplicate": 40,
-    "accept_rate": 0
+    "rejected": 22,
+    "rejected_as_duplicate": 22,
+    "accept_rate": 45
   },
-  "skipped_already_triaged": 0
+  "model": "gemini-flash-lite-latest",
+  "picks": [
+    {
+      "id": "hacker-news-0",
+      "score": 4,
+      "category": "Research",
+      "suggested_angle": "Wired report explores new methods for uncovering AI reasoning traces.",
+      "why_now": "General AI capability research with limited direct legal application.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-1",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "Connecting bibliographic databases and formal proof libraries.",
+      "why_now": "Pure mathematical logic and database paper without legal tech relevance.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-2",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "Multilayer combinatorial fusion for value alignment in LLMs.",
+      "why_now": "Academic alignment paper with no immediate legal sector hook.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-3",
+      "score": 4,
+      "category": "Research",
+      "suggested_angle": "Decentralizing trust in LLM benchmarking and evaluation.",
+      "why_now": "General AI evaluation research lacking a specific legal or regulatory focus.",
+      "verdict": "drop",
+      "duplicate_of": null
+    }
+  ],
+  "summary": {
+    "enqueue_count": 0,
+    "watch_count": 0,
+    "drop_count": 4,
+    "notes": "All shortlisted items are general AI or academic computer science preprints without sufficient direct relevance to legal AI, regulation, or legal tech."
+  },
+  "enqueued": 0,
+  "usage": {
+    "input_tokens": 2659,
+    "output_tokens": 447,
+    "total_tokens": 3106
+  }
 }
