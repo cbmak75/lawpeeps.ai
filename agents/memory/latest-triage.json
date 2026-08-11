@@ -1,56 +1,15 @@
 {
-  "generated": "2026-08-11T01:15:36.916Z",
+  "generated": "2026-08-11T02:58:11.711Z",
   "cycle_type": "triage",
-  "tier_filter": "B",
-  "shortlist_size": 3,
+  "shortlist_size": 0,
+  "picks": [],
   "prefilter": {
     "total": 40,
-    "accepted": 17,
-    "borderline": 1,
-    "rejected": 22,
-    "rejected_as_duplicate": 22,
-    "accept_rate": 43
+    "accepted": 0,
+    "borderline": 0,
+    "rejected": 40,
+    "rejected_as_duplicate": 40,
+    "accept_rate": 0
   },
-  "model": "gemini-flash-lite-latest",
-  "picks": [
-    {
-      "id": "above-the-law-legaltech-0",
-      "score": 3,
-      "category": "Policy",
-      "suggested_angle": "Examining vague political commentary without clear legal tech tie-ins.",
-      "why_now": "The summary and content lack a solid connection to legal AI or regulation.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "hacker-news-1",
-      "score": 4,
-      "category": "Legal AI",
-      "suggested_angle": "How watermarking and provenance tracking affect legal AI document verification.",
-      "why_now": "Primary support document from Anthropic regarding AI content marking, but lacks a specific legal sector application.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "hacker-news-2",
-      "score": 3,
-      "category": "Adoption",
-      "suggested_angle": "Developer tooling for managing multi-agent Claude sessions in legal workflows.",
-      "why_now": "Niche developer utility rather than substantive legal AI adoption news.",
-      "verdict": "drop",
-      "duplicate_of": null
-    }
-  ],
-  "summary": {
-    "enqueue_count": 0,
-    "watch_count": 0,
-    "drop_count": 3,
-    "notes": "All candidate items lack sufficient legal AI/tech specificity or are low-value primary docs without a direct legal hook."
-  },
-  "enqueued": 0,
-  "usage": {
-    "input_tokens": 2457,
-    "output_tokens": 381,
-    "total_tokens": 2838
-  }
+  "skipped_already_triaged": 0
 }
