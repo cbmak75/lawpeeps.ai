@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-10T23:24:05.327Z",
+  "generated": "2026-08-11T00:49:30.102Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 685,
+  "total_scanned": 684,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -109,18 +109,6 @@
       "published": "2026-06-22T07:00:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 7
-    },
-    {
-      "title": "AI Won’t Fix Your Law Firm. It Will Reveal It. - JD Supra",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSmpLbjZFRGJyY3BPMlVsQ25XQVppRXBNXzd4UERUeEZ3SE9oN3RONHVIZnZUQnFKeHJSQ0I0cWtzSUFlQlp2b1VSQjFfeXVuUVBQaVBYRlVxNEthbUpsTFBMR2JUTXdwUDRjSkI3N3RqYTRaTF9YWlJQdGRxbTFhck55RQ?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPSmpLbjZFRGJyY3BPMlVsQ25XQVppRXBNXzd4UERUeEZ3SE9oN3RONHVIZnZUQnFKeHJSQ0I0cWtzSUFlQlp2b1VSQjFfeXVuUVBQaVBYRlVxNEthbUpsTFBMR2JUTXdwUDRjSkI3N3RqYTRaTF9YWlJQdGRxbTFhck55RQ?oc=5\" target=\"_blank\"&gt;AI Won’t Fix Your Law Firm. It Will Reveal It.&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;JD Supra&lt;/font&gt;",
-      "published": "2026-08-10T18:11:18.000Z",
-      "source_id": "google-news-law-firm-ai",
-      "source_name": "Google News: law firm AI",
       "source_priority": "critical",
       "source_tier": "A",
       "source_category": "Aggregator",
@@ -403,7 +391,7 @@
       "relevance_score": 5
     },
     {
-      "title": "AI Co. Anthropic Hires Legal Lead For Claude Chatbot - Law360",
+      "title": "AI Co. Anthropic Hires Legal Lead For Claude Chatbot - law360.com",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN3RwLU9UTnpKTlZoQ3R1MFAyUjZhOW5zMlVRNkROcnBnVzFMbGxvZjRfTm9DZm9uWmRNUTc3eXE0a2tNYlBEbTdMWWFSS0toQkxtRGhFMUpORU9pOTZSUnJHMEFFbC1rNWpNc0Vqbmlkd2V5amJIeGs1LXN4WkNmZmpVa3k5Sk50VC1PbTIzZEhiZnpjRVNhTGRVb2twUdIBXkFVX3lxTFByQXlobHp2RWctdXg5QTFDVExUb1pyMlpNUkp6VUxjUklwM3VmNlRpOTRSLWdwV1RIM1hSSnEwVUhGWVlYUVJUM3Qyb0ZzUDVMS1ppdWQzZUZQTmQyVmc?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNN3RwLU9UTnpKTlZoQ3R1MFAyUjZhOW5zMlVRNkROcnBnVzFMbGxvZjRfTm9DZm9uWmRNUTc3eXE0a2tNYlBEbTdMWWFSS0toQkxtRGhFMUpORU9pOTZSUnJHMEFFbC1rNWpNc0Vqbmlkd2V5amJIeGs1LXN4WkNmZmpVa3k5Sk50VC1PbTIzZEhiZnpjRVNhTGRVb2twUdIBXkFVX3lxTFByQXlobHp2RWctdXg5QTFDVExUb1pyMlpNUkp6VUxjUklwM3VmNlRpOTRSLWdwV1RIM1hSSnEwVUhGWVlYUVJUM3Qyb0ZzUDVMS1ppdWQzZUZQTmQyVmc?oc=5\" target=\"_blank\"&gt;AI Co. Anthropic Hires Legal Lead For Claude Chatbot&lt;/a&gt;&amp;nbsp;&amp;n",
       "published": "2026-08-07T19:29:00.000Z",
@@ -427,9 +415,9 @@
       "relevance_score": 5
     },
     {
-      "title": "Legal Tech Roundup: NYAI, Harvey, Legora - Law360",
+      "title": "Legal Tech Roundup: NYAI, Harvey, Legora - law360.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb0N4eVpRMWtnTExmcjA1QjFLeHUxUFgwOVhzb1lGaUl0T1MzSUpreDl4ZkJYTDF0aWFsTW93LXRaMWdaTXlaNWhESWN4ZHdXZGphOTV3MHpHbk5icTZZYlBOYndpbE8xZnpHbWt1U0h2b2pPbmpMaTFMUDNaeFBqQXZTRTI4elRGMnBJ0gFeQVVfeXFMTU15WUhaQmc3SGkyb1UzRUpCR2xMdFdKYmY3dHFuMDlrSnJNamxXRHR4bzBUZEt1Vm5KZkxld2gtR1UtVmxqdVJCdnJ4VXJwQXRGUkdNQkFuNHhSbE01UQ?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb0N4eVpRMWtnTExmcjA1QjFLeHUxUFgwOVhzb1lGaUl0T1MzSUpreDl4ZkJYTDF0aWFsTW93LXRaMWdaTXlaNWhESWN4ZHdXZGphOTV3MHpHbk5icTZZYlBOYndpbE8xZnpHbWt1U0h2b2pPbmpMaTFMUDNaeFBqQXZTRTI4elRGMnBJ0gFeQVVfeXFMTU15WUhaQmc3SGkyb1UzRUpCR2xMdFdKYmY3dHFuMDlrSnJNamxXRHR4bzBUZEt1Vm5KZkxld2gtR1UtVmxqdVJCdnJ4VXJwQXRGUkdNQkFuNHhSbE01UQ?oc=5\" target=\"_blank\"&gt;Legal Tech Roundup: NYAI, Harvey, Legora&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Law36",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb0N4eVpRMWtnTExmcjA1QjFLeHUxUFgwOVhzb1lGaUl0T1MzSUpreDl4ZkJYTDF0aWFsTW93LXRaMWdaTXlaNWhESWN4ZHdXZGphOTV3MHpHbk5icTZZYlBOYndpbE8xZnpHbWt1U0h2b2pPbmpMaTFMUDNaeFBqQXZTRTI4elRGMnBJ0gFeQVVfeXFMTU15WUhaQmc3SGkyb1UzRUpCR2xMdFdKYmY3dHFuMDlrSnJNamxXRHR4bzBUZEt1Vm5KZkxld2gtR1UtVmxqdVJCdnJ4VXJwQXRGUkdNQkFuNHhSbE01UQ?oc=5\" target=\"_blank\"&gt;Legal Tech Roundup: NYAI, Harvey, Legora&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;law36",
       "published": "2026-08-07T18:18:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
@@ -451,7 +439,7 @@
       "relevance_score": 5
     },
     {
-      "title": "Big AI v Big Law — Jude Law, Harvey Specter and why the legal AI arms race is only just beginning - lawscot.org.uk",
+      "title": "Big AI v Big Law — Jude Law, Harvey Specter and why the legal AI arms race is only just beginning - Law Society of Scotland",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQT2dndHk0NjZaYkQwdjF5Sy1KN2doNzRSc3Q1anFiOVJRc3RxME81NURrOGt3WjNsbVVzNVlnQ1NaUmZBT0J4ajlYOS1CemoyRWJpY1p1RTJQODVHQ0xwZ09EUzZFYzVUUlhOckROTG1EOWVTR3MycFdXVXlkUXRyUUIxaFBseXEydlVkNkg2MHVMcVVvLURHS3U4Z0loZ2wwLWNfUlpOSlhuemNYVUcwelNDVkd6M08zUExNN2RkTWpObWJkZ0d0c0lmQUM5bGJMbWQ2Uzk3M3d6SWw0VUhxaF9ZdzZjZw?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQT2dndHk0NjZaYkQwdjF5Sy1KN2doNzRSc3Q1anFiOVJRc3RxME81NURrOGt3WjNsbVVzNVlnQ1NaUmZBT0J4ajlYOS1CemoyRWJpY1p1RTJQODVHQ0xwZ09EUzZFYzVUUlhOckROTG1EOWVTR3MycFdXVXlkUXRyUUIxaFBseXEydlVkNkg2MHVMcVVvLURHS3U4Z0loZ2wwLWNfUlpOSlhuemNYVUcwelNDVkd6M08zUExNN2RkTWpObWJkZ0d0c0lmQUM5bGJMbWQ2Uzk3M3d6SWw0VUhxaF9ZdzZjZw?oc=5\" target=\"_blank\"&gt;Big AI v Big Law — Jude Law, Harvey Specter and why the legal AI arms race is only just beginning&lt;/a&gt;&amp",
       "published": "2026-07-09T12:56:28.000Z",
@@ -479,6 +467,18 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUDVZYWQ2dy05eC1DNmZnQ09zb0xYcG9ZeFkwNkFzd3VHS2hBTEt6WTZpcVcxd2E2VjVPUzlXM1B0azl3VG9mLU1OQk1oMXVUN3RqRDlYVzF2MjZfSHdXa25NYl9JVzI2RzljWUhHd3BIYk52OEpXZUtjVDZ4OGRNal96UXAxWV9tMnc4aHd1UmNBREg2NlEwTGQwN1hXeWc?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPUDVZYWQ2dy05eC1DNmZnQ09zb0xYcG9ZeFkwNkFzd3VHS2hBTEt6WTZpcVcxd2E2VjVPUzlXM1B0azl3VG9mLU1OQk1oMXVUN3RqRDlYVzF2MjZfSHdXa25NYl9JVzI2RzljWUhHd3BIYk52OEpXZUtjVDZ4OGRNal96UXAxWV9tMnc4aHd1UmNBREg2NlEwTGQwN1hXeWc?oc=5\" target=\"_blank\"&gt;What Legal AI Benchmarks Reveal That Model Names Don’t&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
       "published": "2026-06-22T07:00:00.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 5
+    },
+    {
+      "title": "Harvey announces partnership with Swiss legal AI intelligence platform DeepJudge - The Global Legal Post",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQzJDM2Zxdks1eDYzTDNNZ1RuRXZ6Njh2SFFuVFFITmxhdF9lYzR3ZVRzZ1R6bEFnMHNNTHdodzJaVmxMNlZSWlp4S2xhY0VWdThHV3JQVktjNTlfUzE2QlhucDlTNFhhOTRCYUl2aDMyaHUzR3B4T2YtazktdnpmVFg4X0RJdkJqWFVQaVJNcDJsejF0YWpMelNkamhkbTQ4R0F0STdVTWpqRlBTMFBnUkF4R2s1U1d1NGVNYzFKcjFiTllL?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQQzJDM2Zxdks1eDYzTDNNZ1RuRXZ6Njh2SFFuVFFITmxhdF9lYzR3ZVRzZ1R6bEFnMHNNTHdodzJaVmxMNlZSWlp4S2xhY0VWdThHV3JQVktjNTlfUzE2QlhucDlTNFhhOTRCYUl2aDMyaHUzR3B4T2YtazktdnpmVFg4X0RJdkJqWFVQaVJNcDJsejF0YWpMelNkamhkbTQ4R0F0STdVTWpqRlBTMFBnUkF4R2s1U1d1NGVNYzFKcjFiTllL?oc=5\" target=\"_blank\"&gt;Harvey announces partnership with Swiss legal AI intelligence platform DeepJudge&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Global Legal Po",
+      "published": "2026-05-21T07:00:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
