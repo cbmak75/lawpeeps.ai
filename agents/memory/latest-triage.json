@@ -1,15 +1,74 @@
 {
-  "generated": "2026-08-11T18:44:00.554Z",
+  "generated": "2026-08-11T18:55:09.639Z",
   "cycle_type": "triage",
-  "shortlist_size": 0,
-  "picks": [],
+  "tier_filter": "B",
+  "shortlist_size": 5,
   "prefilter": {
     "total": 40,
-    "accepted": 0,
+    "accepted": 13,
     "borderline": 0,
-    "rejected": 40,
-    "rejected_as_duplicate": 40,
-    "accept_rate": 0
+    "rejected": 27,
+    "rejected_as_duplicate": 27,
+    "accept_rate": 33
   },
-  "skipped_already_triaged": 0
+  "model": "gemini-flash-lite-latest",
+  "picks": [
+    {
+      "id": "above-the-law-legaltech-0",
+      "score": 3,
+      "category": "Legal AI",
+      "suggested_angle": "Bloomberg Law's product focus on less flashy AI features.",
+      "why_now": "General commentary piece on legal AI user experience with no specific primary news hook.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "above-the-law-legaltech-1",
+      "score": 2,
+      "category": "Social",
+      "suggested_angle": "Political commentary on Peter Navarro.",
+      "why_now": "General legal commentary unrelated to legal tech, regulation, or immigration AI.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "law-society-gazette-2",
+      "score": 3,
+      "category": "Regulatory",
+      "suggested_angle": "Supreme Court employment law judgment preview.",
+      "why_now": "Standard employment litigation update without an AI or tech nexus.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "hacker-news-3",
+      "score": 2,
+      "category": "Legal AI",
+      "suggested_angle": "Generic SaaS customer support agent launch.",
+      "why_now": "Not specific to the legal vertical.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "hacker-news-4",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Edge AI on Raspberry Pi using Google LiteRT and Gemma.",
+      "why_now": "General developer technology update with no direct legal tech or regulatory angle.",
+      "verdict": "drop",
+      "duplicate_of": null
+    }
+  ],
+  "summary": {
+    "enqueue_count": 0,
+    "watch_count": 0,
+    "drop_count": 5,
+    "notes": "All shortlisted items lack a direct legal AI, legal tech, or regulatory angle suitable for lawpeeps.ai."
+  },
+  "enqueued": 0,
+  "usage": {
+    "input_tokens": 2837,
+    "output_tokens": 541,
+    "total_tokens": 3378
+  }
 }
