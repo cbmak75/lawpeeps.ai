@@ -1,11 +1,23 @@
 {
-  "generated": "2026-08-11T09:48:26.976Z",
+  "generated": "2026-08-11T10:40:40.014Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 684,
+  "total_scanned": 685,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
+    {
+      "title": "Chinese LLM takes top spot in Harvey Lab-AA legal AI benchmark - Global Times",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBKaWFZV3NoSG93YlMwdG5Ici1rRFlDbnpwWFdnMkhoTEVaVGVoSW40X2t1ZUtOM3hrV2dzWC1yR0d2Z2V6M2lUSnc3TUx1UUIyajlCX1hCb1VMajB1ZGNCMEd3?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBKaWFZV3NoSG93YlMwdG5Ici1rRFlDbnpwWFdnMkhoTEVaVGVoSW40X2t1ZUtOM3hrV2dzWC1yR0d2Z2V6M2lUSnc3TUx1UUIyajlCX1hCb1VMajB1ZGNCMEd3?oc=5\" target=\"_blank\"&gt;Chinese LLM takes top spot in Harvey Lab-AA legal AI benchmark&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Global Times&lt;/font&gt;",
+      "published": "2026-08-11T09:03:00.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 11
+    },
     {
       "title": "Harvey Forum + Shared Spaces, Clio, Spellbook, Legal Innovators - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWDZZRVZBVWx3ckRDeE96a1ZYWTJxVldZUHNwYWl2eHdrUDZKc2xXSmRYVHRheXlISnI5SVpKdmlYTHdOWVRwb3VneFBHMlZhcnlyOWNiZHJuUkNTLXhINlgwRnJzZlNCU0JYQ2k2R2RrUFN3dlRoT3k0ckM5NDRZRHZ2UjAzQWVfQXNRcm9lM2w2LVdmRUxvMmwyVXkzS2Y2XzlnTTNn?oc=5",
@@ -95,6 +107,18 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPakxDaENfTFFVRjVLRjZQSWplRnJwcUFCQWRtNkUyaUh4T1RvT1Rkc0R3NVZxb095ODN4eGIyREhjTUJTTDFvcmN0cV81OE5Md2k0WS1IVGRJWGdaT1BFaFJDUjdRSkU1ZXZqQTFFUXBQVmFpSndTNFVsb3BEMjN1MnJueW11QmZSWWpzZWhJVndMVk1qSlY1bzhlQQ?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPakxDaENfTFFVRjVLRjZQSWplRnJwcUFCQWRtNkUyaUh4T1RvT1Rkc0R3NVZxb095ODN4eGIyREhjTUJTTDFvcmN0cV81OE5Md2k0WS1IVGRJWGdaT1BFaFJDUjdRSkU1ZXZqQTFFUXBQVmFpSndTNFVsb3BEMjN1MnJueW11QmZSWWpzZWhJVndMVk1qSlY1bzhlQQ?oc=5\" target=\"_blank\"&gt;GPT-5 Launches: Harvey, Spellbook, Legora + TR Already Have It&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
       "published": "2025-08-07T07:00:00.000Z",
+      "source_id": "google-news-contract-ai",
+      "source_name": "Google News: contract AI",
+      "source_priority": "medium",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 8
+    },
+    {
+      "title": "Legal AI Startup Spellbook Raises $20M Series A Funding Round, Following 10x Revenue Growth - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbnBTNS0tVUpGeE12dVRvMTNfX0duU01sVXBleEdfcmlXNlNaemRxdVJOY0VFWUpXM29wS3lBWTk5bVpFN3QzRmwtOEpxdU03QTZMaTlmM1FkaHF1NEJ2b0JiYzlta2k4bGVaQ3BId2xTUEtka0VpT2hTNXl4cW9VSnFBWE9hbWJpVFd5QXQ5V3k5ZGdMQ29OdTlrQk1HRGktVXVpQlhGU0JLVXR4d2FmUFZObHhkN0FIYnF0ajUtWF9zOXdHWmd1NnVxV0xpYU42OWU2Y1NodHlKVkpmLWN3S2hicw?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbnBTNS0tVUpGeE12dVRvMTNfX0duU01sVXBleEdfcmlXNlNaemRxdVJOY0VFWUpXM29wS3lBWTk5bVpFN3QzRmwtOEpxdU03QTZMaTlmM1FkaHF1NEJ2b0JiYzlta2k4bGVaQ3BId2xTUEtka0VpT2hTNXl4cW9VSnFBWE9hbWJpVFd5QXQ5V3k5ZGdMQ29OdTlrQk1HRGktVXVpQlhGU0JLVXR4d2FmUFZObHhkN0FIYnF0ajUtWF9zOXdHWmd1NnVxV0xpYU42OWU2Y1NodHlKVkpmLWN3S2hicw?oc=5\" target=\"_blank\"&gt;Legal AI Startup Spellbook Raises $20M Series A Funding Round, Following 10x Revenue Growth&lt;/a&gt;&amp;nbsp;&amp",
+      "published": "2024-01-24T08:00:00.000Z",
       "source_id": "google-news-contract-ai",
       "source_name": "Google News: contract AI",
       "source_priority": "medium",
@@ -223,7 +247,7 @@
       "relevance_score": 6
     },
     {
-      "title": "Someone is Smoking Crack, or Harvey AI is Just a Proxy to Participate in an OpenAI $1 Trillion IPO? - Medium",
+      "title": "Someone is Smoking Crack, or Harvey AI is Just a Proxy to Participate in an OpenAI $1 Trillion IPO? - medium.com",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdTUxWl9Vcno3OFNsblRLb0YyVC1uS20xR256VDRpTnV0RFNWZ3gxREx5S3FGRk4zeV9LXzlOMDVubm1VWEJVMXdZQWluNklWaF9ObTRpaTJNbUtDUUduQ3RPV25xVGd0UXRkRjRNa1BzYzVqTXZua0FUYXpRZDNmN1FKNGpEbUN5YVh4V01HYkZITXpyVWtyYU91LTVnTWpyeFcxN2p3cTVkNWF0SzNUMzRDWDM1c29hU3JrWEE2VFRxay1Nc0R1WWlLb2hodkNSczVtTllnUHJ1a2x1?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdTUxWl9Vcno3OFNsblRLb0YyVC1uS20xR256VDRpTnV0RFNWZ3gxREx5S3FGRk4zeV9LXzlOMDVubm1VWEJVMXdZQWluNklWaF9ObTRpaTJNbUtDUUduQ3RPV25xVGd0UXRkRjRNa1BzYzVqTXZua0FUYXpRZDNmN1FKNGpEbUN5YVh4V01HYkZITXpyVWtyYU91LTVnTWpyeFcxN2p3cTVkNWF0SzNUMzRDWDM1c29hU3JrWEE2VFRxay1Nc0R1WWlLb2hodkNSczVtTllnUHJ1a2x1?oc=5\" target=\"_blank\"&gt;Someone is Smoking Crack, or Harvey AI is Just a Proxy to Participate in an OpenAI $1 Trillion IPO?&lt;/a&gt;&amp;nbsp;&amp;n",
       "published": "2025-10-31T07:00:00.000Z",
@@ -379,9 +403,9 @@
       "relevance_score": 5
     },
     {
-      "title": "Legal AI startup Harvey reportedly raising $500M at $15.5B valuation - SiliconANGLE",
+      "title": "Legal AI startup Harvey reportedly raising $500M at $15.5B valuation - siliconangle.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPemdSS3lCX0t1RTdsS2M2VjE1RTFhenNnZlVVVnVlUXFSaXpHbWdILUlpV2R2dXZxcDQteFIxUGxKa0QyMDRMb2NmU0NxSGdFYnU2VW4zUWU2QWRNNDVKcXdCTTJnMjdOU2hWb01JSzN1S2FRQlF4QXlwUFluSzhlZHBSc09GNFRKVUZ6dzhtM0NpTWoxSlJBTFNPeG9FNkVhNXc?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPemdSS3lCX0t1RTdsS2M2VjE1RTFhenNnZlVVVnVlUXFSaXpHbWdILUlpV2R2dXZxcDQteFIxUGxKa0QyMDRMb2NmU0NxSGdFYnU2VW4zUWU2QWRNNDVKcXdCTTJnMjdOU2hWb01JSzN1S2FRQlF4QXlwUFluSzhlZHBSc09GNFRKVUZ6dzhtM0NpTWoxSlJBTFNPeG9FNkVhNXc?oc=5\" target=\"_blank\"&gt;Legal AI startup Harvey reportedly raising $500M at $15.5B valuation&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;SiliconANGLE&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPemdSS3lCX0t1RTdsS2M2VjE1RTFhenNnZlVVVnVlUXFSaXpHbWdILUlpV2R2dXZxcDQteFIxUGxKa0QyMDRMb2NmU0NxSGdFYnU2VW4zUWU2QWRNNDVKcXdCTTJnMjdOU2hWb01JSzN1S2FRQlF4QXlwUFluSzhlZHBSc09GNFRKVUZ6dzhtM0NpTWoxSlJBTFNPeG9FNkVhNXc?oc=5\" target=\"_blank\"&gt;Legal AI startup Harvey reportedly raising $500M at $15.5B valuation&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;siliconangle.com&lt;/font&gt;",
       "published": "2026-08-07T23:15:50.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
@@ -455,30 +479,6 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUDVZYWQ2dy05eC1DNmZnQ09zb0xYcG9ZeFkwNkFzd3VHS2hBTEt6WTZpcVcxd2E2VjVPUzlXM1B0azl3VG9mLU1OQk1oMXVUN3RqRDlYVzF2MjZfSHdXa25NYl9JVzI2RzljWUhHd3BIYk52OEpXZUtjVDZ4OGRNal96UXAxWV9tMnc4aHd1UmNBREg2NlEwTGQwN1hXeWc?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPUDVZYWQ2dy05eC1DNmZnQ09zb0xYcG9ZeFkwNkFzd3VHS2hBTEt6WTZpcVcxd2E2VjVPUzlXM1B0azl3VG9mLU1OQk1oMXVUN3RqRDlYVzF2MjZfSHdXa25NYl9JVzI2RzljWUhHd3BIYk52OEpXZUtjVDZ4OGRNal96UXAxWV9tMnc4aHd1UmNBREg2NlEwTGQwN1hXeWc?oc=5\" target=\"_blank\"&gt;What Legal AI Benchmarks Reveal That Model Names Don’t&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
       "published": "2026-06-22T07:00:00.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 5
-    },
-    {
-      "title": "Legal Tech Roundup: NYAI, Harvey, Legora - Law360",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb0N4eVpRMWtnTExmcjA1QjFLeHUxUFgwOVhzb1lGaUl0T1MzSUpreDl4ZkJYTDF0aWFsTW93LXRaMWdaTXlaNWhESWN4ZHdXZGphOTV3MHpHbk5icTZZYlBOYndpbE8xZnpHbWt1U0h2b2pPbmpMaTFMUDNaeFBqQXZTRTI4elRGMnBJ0gFeQVVfeXFMTU15WUhaQmc3SGkyb1UzRUpCR2xMdFdKYmY3dHFuMDlrSnJNamxXRHR4bzBUZEt1Vm5KZkxld2gtR1UtVmxqdVJCdnJ4VXJwQXRGUkdNQkFuNHhSbE01UQ?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb0N4eVpRMWtnTExmcjA1QjFLeHUxUFgwOVhzb1lGaUl0T1MzSUpreDl4ZkJYTDF0aWFsTW93LXRaMWdaTXlaNWhESWN4ZHdXZGphOTV3MHpHbk5icTZZYlBOYndpbE8xZnpHbWt1U0h2b2pPbmpMaTFMUDNaeFBqQXZTRTI4elRGMnBJ0gFeQVVfeXFMTU15WUhaQmc3SGkyb1UzRUpCR2xMdFdKYmY3dHFuMDlrSnJNamxXRHR4bzBUZEt1Vm5KZkxld2gtR1UtVmxqdVJCdnJ4VXJwQXRGUkdNQkFuNHhSbE01UQ?oc=5\" target=\"_blank\"&gt;Legal Tech Roundup: NYAI, Harvey, Legora&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Law36",
-      "published": "2026-08-07T18:18:00.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 5
-    },
-    {
-      "title": "Harvey announces partnership with Swiss legal AI intelligence platform DeepJudge - The Global Legal Post",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQzJDM2Zxdks1eDYzTDNNZ1RuRXZ6Njh2SFFuVFFITmxhdF9lYzR3ZVRzZ1R6bEFnMHNNTHdodzJaVmxMNlZSWlp4S2xhY0VWdThHV3JQVktjNTlfUzE2QlhucDlTNFhhOTRCYUl2aDMyaHUzR3B4T2YtazktdnpmVFg4X0RJdkJqWFVQaVJNcDJsejF0YWpMelNkamhkbTQ4R0F0STdVTWpqRlBTMFBnUkF4R2s1U1d1NGVNYzFKcjFiTllL?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQQzJDM2Zxdks1eDYzTDNNZ1RuRXZ6Njh2SFFuVFFITmxhdF9lYzR3ZVRzZ1R6bEFnMHNNTHdodzJaVmxMNlZSWlp4S2xhY0VWdThHV3JQVktjNTlfUzE2QlhucDlTNFhhOTRCYUl2aDMyaHUzR3B4T2YtazktdnpmVFg4X0RJdkJqWFVQaVJNcDJsejF0YWpMelNkamhkbTQ4R0F0STdVTWpqRlBTMFBnUkF4R2s1U1d1NGVNYzFKcjFiTllL?oc=5\" target=\"_blank\"&gt;Harvey announces partnership with Swiss legal AI intelligence platform DeepJudge&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Global Legal Po",
-      "published": "2026-05-21T07:00:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
