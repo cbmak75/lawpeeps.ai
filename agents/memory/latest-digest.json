@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-11T19:53:13.277Z",
+  "generated": "2026-08-11T20:32:54.466Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 687,
+  "total_scanned": 688,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -170,6 +170,18 @@
       "source_id": "google-news-harvey-luminance",
       "source_name": "Google News: Harvey OR Luminance",
       "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 7
+    },
+    {
+      "title": "Echoes of Mystralia hits Early Access with a spellbook full of magic and oodles of potential - rogueliker.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5CS2o2UF9PVVRZeDhMUzdvQk5zNEFsbXlxenp1X2p0ZnNWN0VNS1Zzb01BOUt3ZFkzajdlZVQ2REdNRG5fWjdPYmFCZWNfQVBXYXpST3lweGo1VEJMcVRKa21HZDhxTm1reFJaZjN5R1RTUQ?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5CS2o2UF9PVVRZeDhMUzdvQk5zNEFsbXlxenp1X2p0ZnNWN0VNS1Zzb01BOUt3ZFkzajdlZVQ2REdNRG5fWjdPYmFCZWNfQVBXYXpST3lweGo1VEJMcVRKa21HZDhxTm1reFJaZjN5R1RTUQ?oc=5\" target=\"_blank\"&gt;Echoes of Mystralia hits Early Access with a spellbook full of magic and oodles of potential&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;rogueliker.com&lt;/font&gt;",
+      "published": "2026-08-11T20:08:43.000Z",
+      "source_id": "google-news-contract-ai",
+      "source_name": "Google News: contract AI",
+      "source_priority": "medium",
       "source_tier": "A",
       "source_category": "Aggregator",
       "relevance_score": 7
@@ -415,6 +427,18 @@
       "relevance_score": 6
     },
     {
+      "title": "Anthropic Hires ‘Head of Claude For Legal’ - artificiallawyer.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOFJQcGJEaHRyUlZTdWxGWWlqelBkZ0gwR3YyNmxxX1NRbU56YXBqVFl6MzNPNElOa0F5eEpDRXFGUThvQk9qbDNQeEZSMjE1ODF2blM3WkdTQnJTNnZhcTIzVFUwM1U4aE1hTjRKNVlKMEhuUTB2Y0Ztbkk1dG90bXd6ZnVPb0Z4ZHI0c253?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPOFJQcGJEaHRyUlZTdWxGWWlqelBkZ0gwR3YyNmxxX1NRbU56YXBqVFl6MzNPNElOa0F5eEpDRXFGUThvQk9qbDNQeEZSMjE1ODF2blM3WkdTQnJTNnZhcTIzVFUwM1U4aE1hTjRKNVlKMEhuUTB2Y0Ztbkk1dG90bXd6ZnVPb0Z4ZHI0c253?oc=5\" target=\"_blank\"&gt;Anthropic Hires ‘Head of Claude For Legal’&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;artificiallawyer.com&lt;/font&gt;",
+      "published": "2026-08-07T09:13:03.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 5
+    },
+    {
       "title": "Legal AI Is Rushing into Latin America to Solve a Problem It Cannot Touch - Law.com",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNV0lNT1diVEhaRVdVTFM3ZDJreFdsa3VOZmlsWVdvUVFCOHZTZHVIdDJCX3JKVFZkTGRncVc1MUo2aDVQdVpNOVlPdlRLSjFna1NqbU9jNmR2UTllMUNqTUp3emRITmZrbWNTOTF5SlhtNzVubGJGWU91WDVSakxwZUt0Vnp1ekl6SElXYmpEallrU1lsb18xS2ZuUnRvaGdRLWhfVi1DYWxfSS1PY1dsRjY4OW9aSTl0bmozRVFCbS1hYngwZVE?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNV0lNT1diVEhaRVdVTFM3ZDJreFdsa3VOZmlsWVdvUVFCOHZTZHVIdDJCX3JKVFZkTGRncVc1MUo2aDVQdVpNOVlPdlRLSjFna1NqbU9jNmR2UTllMUNqTUp3emRITmZrbWNTOTF5SlhtNzVubGJGWU91WDVSakxwZUt0Vnp1ekl6SElXYmpEallrU1lsb18xS2ZuUnRvaGdRLWhfVi1DYWxfSS1PY1dsRjY4OW9aSTl0bmozRVFCbS1hYngwZVE?oc=5\" target=\"_blank\"&gt;Legal AI Is Rushing into Latin America to Solve a Problem It Cannot Touch&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Law.com&lt;/font&gt;",
@@ -439,18 +463,6 @@
       "relevance_score": 5
     },
     {
-      "title": "Anthropic Hires ‘Head of Claude For Legal’ - artificiallawyer.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOFJQcGJEaHRyUlZTdWxGWWlqelBkZ0gwR3YyNmxxX1NRbU56YXBqVFl6MzNPNElOa0F5eEpDRXFGUThvQk9qbDNQeEZSMjE1ODF2blM3WkdTQnJTNnZhcTIzVFUwM1U4aE1hTjRKNVlKMEhuUTB2Y0Ztbkk1dG90bXd6ZnVPb0Z4ZHI0c253?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPOFJQcGJEaHRyUlZTdWxGWWlqelBkZ0gwR3YyNmxxX1NRbU56YXBqVFl6MzNPNElOa0F5eEpDRXFGUThvQk9qbDNQeEZSMjE1ODF2blM3WkdTQnJTNnZhcTIzVFUwM1U4aE1hTjRKNVlKMEhuUTB2Y0Ztbkk1dG90bXd6ZnVPb0Z4ZHI0c253?oc=5\" target=\"_blank\"&gt;Anthropic Hires ‘Head of Claude For Legal’&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;artificiallawyer.com&lt;/font&gt;",
-      "published": "2026-08-07T09:13:03.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 5
-    },
-    {
       "title": "Harvey is raising at $15.5bn, up 40% in five months - The Next Web",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbkpvX1A4MlVuYlJiX281REIyTmtRR2V0bTFTT3Y1U2RfU1UtSHFheGptZEYzT2FHRUxaZTFOeFJPMkNLZG1ubEJ2dGs0di1mdkstRW1RMkFSdjI5Ukd4UlhXc2xvLWEwU3drRUtPMGdUQmwyQ0JLYlNReEN5WkJQMmdjcnA2V1Y4Zjh3?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbkpvX1A4MlVuYlJiX281REIyTmtRR2V0bTFTT3Y1U2RfU1UtSHFheGptZEYzT2FHRUxaZTFOeFJPMkNLZG1ubEJ2dGs0di1mdkstRW1RMkFSdjI5Ukd4UlhXc2xvLWEwU3drRUtPMGdUQmwyQ0JLYlNReEN5WkJQMmdjcnA2V1Y4Zjh3?oc=5\" target=\"_blank\"&gt;Harvey is raising at $15.5bn, up 40% in five months&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Next Web&lt;/font&gt;",
@@ -467,18 +479,6 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPemdSS3lCX0t1RTdsS2M2VjE1RTFhenNnZlVVVnVlUXFSaXpHbWdILUlpV2R2dXZxcDQteFIxUGxKa0QyMDRMb2NmU0NxSGdFYnU2VW4zUWU2QWRNNDVKcXdCTTJnMjdOU2hWb01JSzN1S2FRQlF4QXlwUFluSzhlZHBSc09GNFRKVUZ6dzhtM0NpTWoxSlJBTFNPeG9FNkVhNXc?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPemdSS3lCX0t1RTdsS2M2VjE1RTFhenNnZlVVVnVlUXFSaXpHbWdILUlpV2R2dXZxcDQteFIxUGxKa0QyMDRMb2NmU0NxSGdFYnU2VW4zUWU2QWRNNDVKcXdCTTJnMjdOU2hWb01JSzN1S2FRQlF4QXlwUFluSzhlZHBSc09GNFRKVUZ6dzhtM0NpTWoxSlJBTFNPeG9FNkVhNXc?oc=5\" target=\"_blank\"&gt;Legal AI startup Harvey reportedly raising $500M at $15.5B valuation&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;SiliconANGLE&lt;/font&gt;",
       "published": "2026-08-07T23:15:50.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 5
-    },
-    {
-      "title": "Anthropic’s expansion of legal AI tools is good for lawyers, experts say - The Global Legal Post",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON29yWkx6TnprRmNac3lObVViVmxxRnMxYk00MjJFOFFLdDBJOWtDY1R6ckxWa0tFTWgxY0ZvVzJGR2x5T09rX0hOVE1xM1ZUbVdSMHBnUVpsSmI3X2JucUFIUUdoUlplaEFCbXdjTHhpblYyM09jNkZtNlh4SzZtamM2em5LX19SdElfWU1EMUxITUljZUdHLWRUbjRWVTd6U0JVWVItaG83N2VyYTdzWHJYb0N5QVRrSXc?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxON29yWkx6TnprRmNac3lObVViVmxxRnMxYk00MjJFOFFLdDBJOWtDY1R6ckxWa0tFTWgxY0ZvVzJGR2x5T09rX0hOVE1xM1ZUbVdSMHBnUVpsSmI3X2JucUFIUUdoUlplaEFCbXdjTHhpblYyM09jNkZtNlh4SzZtamM2em5LX19SdElfWU1EMUxITUljZUdHLWRUbjRWVTd6U0JVWVItaG83N2VyYTdzWHJYb0N5QVRrSXc?oc=5\" target=\"_blank\"&gt;Anthropic’s expansion of legal AI tools is good for lawyers, experts say&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Global Legal Post&lt;/font&gt;",
-      "published": "2026-05-26T07:00:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",

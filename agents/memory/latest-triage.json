@@ -1,15 +1,38 @@
 {
-  "generated": "2026-08-11T19:53:13.317Z",
+  "generated": "2026-08-11T20:32:55.496Z",
   "cycle_type": "triage",
-  "shortlist_size": 0,
-  "picks": [],
+  "tier_filter": "A",
+  "shortlist_size": 1,
   "prefilter": {
     "total": 40,
-    "accepted": 0,
+    "accepted": 1,
     "borderline": 0,
-    "rejected": 40,
-    "rejected_as_duplicate": 40,
-    "accept_rate": 0
+    "rejected": 39,
+    "rejected_as_duplicate": 39,
+    "accept_rate": 3
   },
-  "skipped_already_triaged": 0
+  "model": "gemini-flash-lite-latest",
+  "picks": [
+    {
+      "id": "google-news-contract-ai-0",
+      "score": 1,
+      "category": "Social",
+      "suggested_angle": "None",
+      "why_now": "False positive match on the keyword 'Spellbook', which refers here to a video game rather than the legal tech platform.",
+      "verdict": "drop",
+      "duplicate_of": null
+    }
+  ],
+  "summary": {
+    "enqueue_count": 0,
+    "watch_count": 0,
+    "drop_count": 1,
+    "notes": "Single item in shortlist is a keyword false positive for a video game."
+  },
+  "enqueued": 0,
+  "usage": {
+    "input_tokens": 2339,
+    "output_tokens": 174,
+    "total_tokens": 2513
+  }
 }
