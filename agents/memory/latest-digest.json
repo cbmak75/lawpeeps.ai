@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-11T08:01:30.376Z",
+  "generated": "2026-08-11T09:48:26.976Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 683,
+  "total_scanned": 684,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -43,7 +43,7 @@
       "relevance_score": 8
     },
     {
-      "title": "Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook partners with CBA; DeepIP raises $25m - legaltechnology.com",
+      "title": "Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook partners with CBA; DeepIP raises $25m - Legal IT Insider",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcXJGTU9ucEc1azNNOTZ3eWI1dldHblpjS0lIdG9jTy1YSE1SSEdlWXlqa041bzd4R052ckZLZG1TQnh6eUE1bFhEV0FyYlFndF84Z1hTczZXZ0IzOVRoMF9jWHhkMXp2X2tjenNUMktCZWM1eVlvM0tjZEpvX2ZoeUpaTUN5UTZUaDJEWWdvVDFJZWpGYTZiQV8ycEc1dEJRMTJCWktEV3IwX3FoX1F6cFk5dkJ1VUtHaURCWmlBTUpTcFRJQVk3cmYxODlsMEpjQnRMdHkwLWNoR1lzT01jRmJlSjJwdw?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcXJGTU9ucEc1azNNOTZ3eWI1dldHblpjS0lIdG9jTy1YSE1SSEdlWXlqa041bzd4R052ckZLZG1TQnh6eUE1bFhEV0FyYlFndF84Z1hTczZXZ0IzOVRoMF9jWHhkMXp2X2tjenNUMktCZWM1eVlvM0tjZEpvX2ZoeUpaTUN5UTZUaDJEWWdvVDFJZWpGYTZiQV8ycEc1dEJRMTJCWktEV3IwX3FoX1F6cFk5dkJ1VUtHaURCWmlBTUpTcFRJQVk3cmYxODlsMEpjQnRMdHkwLWNoR1lzT01jRmJlSjJwdw?oc=5\" target=\"_blank\"&gt;Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook partners with CBA; De",
       "published": "2026-03-04T08:00:00.000Z",
@@ -151,18 +151,6 @@
       "relevance_score": 7
     },
     {
-      "title": "Legal AI Is Rushing into Latin America to Solve a Problem It Cannot Touch - Law.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNV0lNT1diVEhaRVdVTFM3ZDJreFdsa3VOZmlsWVdvUVFCOHZTZHVIdDJCX3JKVFZkTGRncVc1MUo2aDVQdVpNOVlPdlRLSjFna1NqbU9jNmR2UTllMUNqTUp3emRITmZrbWNTOTF5SlhtNzVubGJGWU91WDVSakxwZUt0Vnp1ekl6SElXYmpEallrU1lsb18xS2ZuUnRvaGdRLWhfVi1DYWxfSS1PY1dsRjY4OW9aSTl0bmozRVFCbS1hYngwZVE?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNV0lNT1diVEhaRVdVTFM3ZDJreFdsa3VOZmlsWVdvUVFCOHZTZHVIdDJCX3JKVFZkTGRncVc1MUo2aDVQdVpNOVlPdlRLSjFna1NqbU9jNmR2UTllMUNqTUp3emRITmZrbWNTOTF5SlhtNzVubGJGWU91WDVSakxwZUt0Vnp1ekl6SElXYmpEallrU1lsb18xS2ZuUnRvaGdRLWhfVi1DYWxfSS1PY1dsRjY4OW9aSTl0bmozRVFCbS1hYngwZVE?oc=5\" target=\"_blank\"&gt;Legal AI Is Rushing into Latin America to Solve a Problem It Cannot Touch&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Law.com&lt;/font&gt;",
-      "published": "2026-08-10T21:00:00.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
-    },
-    {
       "title": "Harvey AI Number of Employees 2026 | Employee Count &amp; Headcount Data - Revelio Labs",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KTk5TLXY5ZGxUTTJxLXRkaUpoNTdwWk01Q3R1R1JaYVM4OVdLYTNhZjVkY3JTbUZDdGY3WDd1SUY2cWUtbkJEWjdubjNKYXN0czNqMVcyNHN0cUd3TFlQbjZvZTJlZ1BL?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KTk5TLXY5ZGxUTTJxLXRkaUpoNTdwWk01Q3R1R1JaYVM4OVdLYTNhZjVkY3JTbUZDdGY3WDd1SUY2cWUtbkJEWjdubjNKYXN0czNqMVcyNHN0cUd3TFlQbjZvZTJlZ1BL?oc=5\" target=\"_blank\"&gt;Harvey AI Number of Employees 2026 | Employee Count &amp; Headcount Data&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Revelio Labs&lt;/font&gt;",
@@ -211,9 +199,9 @@
       "relevance_score": 6
     },
     {
-      "title": "Eversheds Sutherland’s global co-CEO Keith Froud talks Harvey, AI adoption and ROI - legaltechnology.com",
+      "title": "Eversheds Sutherland’s global co-CEO Keith Froud talks Harvey, AI adoption and ROI - Legal IT Insider",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOUJDMnROZUthMW13YnFBdlRCb0YwZE50ZmlPQ2tOZTNzd0tpa1lUd24xZTRINTkyazN6VzBJZFNrSXQtUUkyRklNblNNVW9HeUFHMGpaRGE4WFZBb0hISk1yVVdTSzBEVk9UN2pTeWlsaUxndWozWUtIM29wZEJnWDhkRnZrTURfZy1la3VqeW52SnBQWGFpNGdLSG50ZzNWbzhVVmhybE44ZEpvMkE?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPOUJDMnROZUthMW13YnFBdlRCb0YwZE50ZmlPQ2tOZTNzd0tpa1lUd24xZTRINTkyazN6VzBJZFNrSXQtUUkyRklNblNNVW9HeUFHMGpaRGE4WFZBb0hISk1yVVdTSzBEVk9UN2pTeWlsaUxndWozWUtIM29wZEJnWDhkRnZrTURfZy1la3VqeW52SnBQWGFpNGdLSG50ZzNWbzhVVmhybE44ZEpvMkE?oc=5\" target=\"_blank\"&gt;Eversheds Sutherland’s global co-CEO Keith Froud talks Harvey, AI adoption and ROI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;legaltechnology.com&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPOUJDMnROZUthMW13YnFBdlRCb0YwZE50ZmlPQ2tOZTNzd0tpa1lUd24xZTRINTkyazN6VzBJZFNrSXQtUUkyRklNblNNVW9HeUFHMGpaRGE4WFZBb0hISk1yVVdTSzBEVk9UN2pTeWlsaUxndWozWUtIM29wZEJnWDhkRnZrTURfZy1la3VqeW52SnBQWGFpNGdLSG50ZzNWbzhVVmhybE44ZEpvMkE?oc=5\" target=\"_blank\"&gt;Eversheds Sutherland’s global co-CEO Keith Froud talks Harvey, AI adoption and ROI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Legal IT Insider&lt;/font&gt;",
       "published": "2026-02-11T08:00:00.000Z",
       "source_id": "google-news-harvey-luminance",
       "source_name": "Google News: Harvey OR Luminance",
@@ -283,10 +271,10 @@
       "relevance_score": 6
     },
     {
-      "title": "Spellbook Raises $50m + CEO, Scott Stevenson Interview - Artificial Lawyer",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNVRaTmNLME8ydnc5d1FmeWhSUjdhTDg2dmdqR28wQ2lwSzBJbTYtTU5XekVsTWdaLVE3N2hJQlU2bEVRWlNhVG1GRTlab0c4Zko3UmtZamxkRGw2WTNlRkU1X05LZEE3OEpkbEtkdldrNFRJVnlPcFZlVDRVbElnbExXVk9zenVfOFh3QWNORTdIQVQxQnBuUW84NA?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPNVRaTmNLME8ydnc5d1FmeWhSUjdhTDg2dmdqR28wQ2lwSzBJbTYtTU5XekVsTWdaLVE3N2hJQlU2bEVRWlNhVG1GRTlab0c4Zko3UmtZamxkRGw2WTNlRkU1X05LZEE3OEpkbEtkdldrNFRJVnlPcFZlVDRVbElnbExXVk9zenVfOFh3QWNORTdIQVQxQnBuUW84NA?oc=5\" target=\"_blank\"&gt;Spellbook Raises $50m + CEO, Scott Stevenson Interview&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
-      "published": "2025-10-09T07:00:00.000Z",
+      "title": "Legaltech Rundown: Spellbook Launches iManage Integration, Norm Law Announces New Big Law Hires, and More - Law.com",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONHBNemtNcXRjaFFudFBJRG0xV0M5QlJ2dlhGWm0xcFluNjVJSW1GNVpVU09MQktGZ3Rwcy1scXBVdGNxeFRuY3oyVkRMZVBEMnBwV2szTTAybTZHVkJmdy1mcl9RTDBjRGx0RFVEeU9Kd3loZ2hRT0trWW1mUGJTY3BQUlBzQ203dzB4ZEFULTJUbGxFZXV5WmNLYnhBaW9ubE91WjVZbUpWZE1MemZfUkV3dkl6YWFhanJCVlA3UFVTZ2pna1ItMkJEelM0dnRDelhoZjVRcmN2ZHBXdWJickpUYjJlY0dDUFE?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxONHBNemtNcXRjaFFudFBJRG0xV0M5QlJ2dlhGWm0xcFluNjVJSW1GNVpVU09MQktGZ3Rwcy1scXBVdGNxeFRuY3oyVkRMZVBEMnBwV2szTTAybTZHVkJmdy1mcl9RTDBjRGx0RFVEeU9Kd3loZ2hRT0trWW1mUGJTY3BQUlBzQ203dzB4ZEFULTJUbGxFZXV5WmNLYnhBaW9ubE91WjVZbUpWZE1MemZfUkV3dkl6YWFhanJCVlA3UFVTZ2pna1ItMkJEelM0dnRDelhoZjVRcmN2ZHBXdWJickpUYjJlY0dDUFE?oc=5\" target=\"_blank\"&gt;Legaltech Rundown: Spellbook Launches iManage Integration, Norm Law Announces New Big Law Hires, and More&",
+      "published": "2026-05-01T07:00:00.000Z",
       "source_id": "google-news-contract-ai",
       "source_name": "Google News: contract AI",
       "source_priority": "medium",
@@ -295,10 +283,10 @@
       "relevance_score": 6
     },
     {
-      "title": "Legaltech Rundown: Spellbook Launches iManage Integration, Norm Law Announces New Big Law Hires, and More - Law.com",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONHBNemtNcXRjaFFudFBJRG0xV0M5QlJ2dlhGWm0xcFluNjVJSW1GNVpVU09MQktGZ3Rwcy1scXBVdGNxeFRuY3oyVkRMZVBEMnBwV2szTTAybTZHVkJmdy1mcl9RTDBjRGx0RFVEeU9Kd3loZ2hRT0trWW1mUGJTY3BQUlBzQ203dzB4ZEFULTJUbGxFZXV5WmNLYnhBaW9ubE91WjVZbUpWZE1MemZfUkV3dkl6YWFhanJCVlA3UFVTZ2pna1ItMkJEelM0dnRDelhoZjVRcmN2ZHBXdWJickpUYjJlY0dDUFE?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxONHBNemtNcXRjaFFudFBJRG0xV0M5QlJ2dlhGWm0xcFluNjVJSW1GNVpVU09MQktGZ3Rwcy1scXBVdGNxeFRuY3oyVkRMZVBEMnBwV2szTTAybTZHVkJmdy1mcl9RTDBjRGx0RFVEeU9Kd3loZ2hRT0trWW1mUGJTY3BQUlBzQ203dzB4ZEFULTJUbGxFZXV5WmNLYnhBaW9ubE91WjVZbUpWZE1MemZfUkV3dkl6YWFhanJCVlA3UFVTZ2pna1ItMkJEelM0dnRDelhoZjVRcmN2ZHBXdWJickpUYjJlY0dDUFE?oc=5\" target=\"_blank\"&gt;Legaltech Rundown: Spellbook Launches iManage Integration, Norm Law Announces New Big Law Hires, and More&",
-      "published": "2026-05-01T07:00:00.000Z",
+      "title": "Spellbook Raises $50m + CEO, Scott Stevenson Interview - Artificial Lawyer",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNVRaTmNLME8ydnc5d1FmeWhSUjdhTDg2dmdqR28wQ2lwSzBJbTYtTU5XekVsTWdaLVE3N2hJQlU2bEVRWlNhVG1GRTlab0c4Zko3UmtZamxkRGw2WTNlRkU1X05LZEE3OEpkbEtkdldrNFRJVnlPcFZlVDRVbElnbExXVk9zenVfOFh3QWNORTdIQVQxQnBuUW84NA?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPNVRaTmNLME8ydnc5d1FmeWhSUjdhTDg2dmdqR28wQ2lwSzBJbTYtTU5XekVsTWdaLVE3N2hJQlU2bEVRWlNhVG1GRTlab0c4Zko3UmtZamxkRGw2WTNlRkU1X05LZEE3OEpkbEtkdldrNFRJVnlPcFZlVDRVbElnbExXVk9zenVfOFh3QWNORTdIQVQxQnBuUW84NA?oc=5\" target=\"_blank\"&gt;Spellbook Raises $50m + CEO, Scott Stevenson Interview&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
+      "published": "2025-10-09T07:00:00.000Z",
       "source_id": "google-news-contract-ai",
       "source_name": "Google News: contract AI",
       "source_priority": "medium",
@@ -347,6 +335,18 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOFJQcGJEaHRyUlZTdWxGWWlqelBkZ0gwR3YyNmxxX1NRbU56YXBqVFl6MzNPNElOa0F5eEpDRXFGUThvQk9qbDNQeEZSMjE1ODF2blM3WkdTQnJTNnZhcTIzVFUwM1U4aE1hTjRKNVlKMEhuUTB2Y0Ztbkk1dG90bXd6ZnVPb0Z4ZHI0c253?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPOFJQcGJEaHRyUlZTdWxGWWlqelBkZ0gwR3YyNmxxX1NRbU56YXBqVFl6MzNPNElOa0F5eEpDRXFGUThvQk9qbDNQeEZSMjE1ODF2blM3WkdTQnJTNnZhcTIzVFUwM1U4aE1hTjRKNVlKMEhuUTB2Y0Ztbkk1dG90bXd6ZnVPb0Z4ZHI0c253?oc=5\" target=\"_blank\"&gt;Anthropic Hires ‘Head of Claude For Legal’&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
       "published": "2026-08-07T09:13:03.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 5
+    },
+    {
+      "title": "Legal AI Is Rushing into Latin America to Solve a Problem It Cannot Touch - Law.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNV0lNT1diVEhaRVdVTFM3ZDJreFdsa3VOZmlsWVdvUVFCOHZTZHVIdDJCX3JKVFZkTGRncVc1MUo2aDVQdVpNOVlPdlRLSjFna1NqbU9jNmR2UTllMUNqTUp3emRITmZrbWNTOTF5SlhtNzVubGJGWU91WDVSakxwZUt0Vnp1ekl6SElXYmpEallrU1lsb18xS2ZuUnRvaGdRLWhfVi1DYWxfSS1PY1dsRjY4OW9aSTl0bmozRVFCbS1hYngwZVE?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNV0lNT1diVEhaRVdVTFM3ZDJreFdsa3VOZmlsWVdvUVFCOHZTZHVIdDJCX3JKVFZkTGRncVc1MUo2aDVQdVpNOVlPdlRLSjFna1NqbU9jNmR2UTllMUNqTUp3emRITmZrbWNTOTF5SlhtNzVubGJGWU91WDVSakxwZUt0Vnp1ekl6SElXYmpEallrU1lsb18xS2ZuUnRvaGdRLWhfVi1DYWxfSS1PY1dsRjY4OW9aSTl0bmozRVFCbS1hYngwZVE?oc=5\" target=\"_blank\"&gt;Legal AI Is Rushing into Latin America to Solve a Problem It Cannot Touch&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Law.com&lt;/font&gt;",
+      "published": "2026-08-10T21:00:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
