@@ -3047,7 +3047,102 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "Judge Rejects &#8216;ChatGPT Wrote My Confession&#8217; Defense",
+      "slug": "judge-rejects-8216-chatgpt-wrote-my-confession-8217-defense",
+      "score": 7,
+      "category": "Legal AI",
+      "story_type": "news",
+      "research_brief": "Company wrote that it fired employee for discussing pay and then tried to claim ChatGPT was responsible for admitting violation. The post Judge Rejects &#8216;ChatGPT Wrote My Confession&#8217; Defense appeared first on Above the Law .",
+      "primary_source": "https://abovethelaw.com/2026/08/judge-rejects-chatgpt-wrote-my-confession-defense/",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "A judge rejects an employer's defense blaming ChatGPT for an unlawful confession, highlighting limits of generative AI accountability.",
+      "why_now": "Great litigation example of courts pushing back on generative AI excuse-making.",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Above the Law (Legal Tech)",
+      "source_tier": "B",
+      "prefilter_score": 9,
+      "matched_terms": [
+        "GPT"
+      ],
+      "fingerprint": {
+        "entities": [],
+        "numerics": [
+          "8k"
+        ],
+        "keywords": [
+          "gpt"
+        ],
+        "title_tokens": [
+          "judge",
+          "rejects",
+          "chatgpt",
+          "wrote",
+          "confession",
+          "defense"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-08-12T01:23:40.553Z",
+      "queued_at": "2026-08-12T01:23:40.557Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
+    },
+    {
+      "title": "Mark Zuckerberg Thinks Everyone Should Have A Superintelligent AI Lawyer",
+      "slug": "mark-zuckerberg-thinks-everyone-should-have-a-superintelligent-ai-lawyer",
+      "score": 6,
+      "category": "Legal AI",
+      "story_type": "news",
+      "research_brief": "Because justice is apparently what happens when everyone brings a robot lawyer to court. The post Mark Zuckerberg Thinks Everyone Should Have A Superintelligent AI Lawyer appeared first on Above the Law .",
+      "primary_source": "https://abovethelaw.com/2026/08/mark-zuckerberg-thinks-everyone-should-have-a-superintelligent-ai-lawyer/",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "Mark Zuckerberg's vision for superintelligent AI lawyers highlights the growing clash between tech giants and traditional legal services.",
+      "why_now": "Direct commentary on consumer-facing legal AI futures from a major tech figure.",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Above the Law (Legal Tech)",
+      "source_tier": "B",
+      "prefilter_score": 11,
+      "matched_terms": [
+        "Eve"
+      ],
+      "fingerprint": {
+        "entities": [
+          "eve"
+        ],
+        "numerics": [],
+        "keywords": [],
+        "title_tokens": [
+          "mark",
+          "zuckerberg",
+          "thinks",
+          "everyone",
+          "superintelligent",
+          "ai",
+          "lawyer"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-08-12T01:23:40.558Z",
+      "queued_at": "2026-08-12T01:23:40.561Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-08-10T22:25:02.728Z"
+  "last_updated": "2026-08-12T01:23:40.561Z"
 }
