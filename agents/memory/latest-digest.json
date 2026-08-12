@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-12T05:22:22.702Z",
+  "generated": "2026-08-12T07:04:46.151Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 689,
+  "total_scanned": 691,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -79,9 +79,9 @@
       "relevance_score": 8
     },
     {
-      "title": "Why legal tech giant Harvey is raising cash like OpenAI - businessinsider.com",
+      "title": "Why legal tech giant Harvey is raising cash like OpenAI - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaDhOaTN1RzVmZmxWa1U2TTZyTW9ucXRjZjU2RHUzT0RoMTJQb1BvZ1hpbUgwTUFZS3U5UHV1R21abHdrRDR3cFlWTC1SY3J2WUN1YWlwSlY0Y0VpVjVYSXV2dk93YjhuU0NXYTE5QnBiVHF5bHVLRHdWbzMxdVB3MU0zMFh1TzF0U1JmOA?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQaDhOaTN1RzVmZmxWa1U2TTZyTW9ucXRjZjU2RHUzT0RoMTJQb1BvZ1hpbUgwTUFZS3U5UHV1R21abHdrRDR3cFlWTC1SY3J2WUN1YWlwSlY0Y0VpVjVYSXV2dk93YjhuU0NXYTE5QnBiVHF5bHVLRHdWbzMxdVB3MU0zMFh1TzF0U1JmOA?oc=5\" target=\"_blank\"&gt;Why legal tech giant Harvey is raising cash like OpenAI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;businessinsider.com&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQaDhOaTN1RzVmZmxWa1U2TTZyTW9ucXRjZjU2RHUzT0RoMTJQb1BvZ1hpbUgwTUFZS3U5UHV1R21abHdrRDR3cFlWTC1SY3J2WUN1YWlwSlY0Y0VpVjVYSXV2dk93YjhuU0NXYTE5QnBiVHF5bHVLRHdWbzMxdVB3MU0zMFh1TzF0U1JmOA?oc=5\" target=\"_blank\"&gt;Why legal tech giant Harvey is raising cash like OpenAI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Business Insider&lt;/font&gt;",
       "published": "2026-03-26T07:00:00.000Z",
       "source_id": "google-news-legal-tech-funding",
       "source_name": "Google News: legal tech funding",
@@ -127,18 +127,6 @@
       "relevance_score": 8
     },
     {
-      "title": "Harvey AI's 12x token surge reveals that legal AI has crossed from experiment to infrastructure - Startup Fortune",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd2E2WDlBRmduLTdnWkZfLV90MkJWaEZwZVZQeFl1OTN6NjBmTTZ5aTdTOUx2VFRmcHRYMjUtV2E4ZzFld0N5QTZJNU1zRDFfQ1NCSGhRMFdTLU5Uclc4ck1kcDQxX0dlM3NBaXI0V1FqSk45NTcyRUU5NHRfb3F5bFRXOEhLVmgwUmJzWkQ3WUdPYUtiSnpXcEd3QU5iWXpHR0MxYVdXejRiMlN6ZUJ5SGk5Ql9obXNSTUhVUnpubw?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOd2E2WDlBRmduLTdnWkZfLV90MkJWaEZwZVZQeFl1OTN6NjBmTTZ5aTdTOUx2VFRmcHRYMjUtV2E4ZzFld0N5QTZJNU1zRDFfQ1NCSGhRMFdTLU5Uclc4ck1kcDQxX0dlM3NBaXI0V1FqSk45NTcyRUU5NHRfb3F5bFRXOEhLVmgwUmJzWkQ3WUdPYUtiSnpXcEd3QU5iWXpHR0MxYVdXejRiMlN6ZUJ5SGk5Ql9obXNSTUhVUnpubw?oc=5\" target=\"_blank\"&gt;Harvey AI's 12x token surge reveals that legal AI has crossed from experiment to infrastructure&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Startup Fo",
-      "published": "2026-06-19T07:00:00.000Z",
-      "source_id": "google-news-harvey-luminance",
-      "source_name": "Google News: Harvey OR Luminance",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 8
-    },
-    {
       "title": "GPT-5 Launches: Harvey, Spellbook, Legora + TR Already Have It - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPakxDaENfTFFVRjVLRjZQSWplRnJwcUFCQWRtNkUyaUh4T1RvT1Rkc0R3NVZxb095ODN4eGIyREhjTUJTTDFvcmN0cV81OE5Md2k0WS1IVGRJWGdaT1BFaFJDUjdRSkU1ZXZqQTFFUXBQVmFpSndTNFVsb3BEMjN1MnJueW11QmZSWWpzZWhJVndMVk1qSlY1bzhlQQ?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPakxDaENfTFFVRjVLRjZQSWplRnJwcUFCQWRtNkUyaUh4T1RvT1Rkc0R3NVZxb095ODN4eGIyREhjTUJTTDFvcmN0cV81OE5Md2k0WS1IVGRJWGdaT1BFaFJDUjdRSkU1ZXZqQTFFUXBQVmFpSndTNFVsb3BEMjN1MnJueW11QmZSWWpzZWhJVndMVk1qSlY1bzhlQQ?oc=5\" target=\"_blank\"&gt;GPT-5 Launches: Harvey, Spellbook, Legora + TR Already Have It&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
@@ -175,6 +163,18 @@
       "relevance_score": 7
     },
     {
+      "title": "Massive Increase in Spellbook Variety! Karif Returns - Inven Global",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTkRRWWlxUnRGdGczWGJoa2tFdnpURUtVb2wzZzRfNnFJWExwVWNpblZLRUZsUFN3WUJuZ3E1U1NiNklha1plQmpjdEZqUkh6b2dWdkUzLVBsZm01NlMyOVd4a3ZkZlRtSzRkME1sTWtUQ0dVQXMwTDN0eVcteWdIb1FmTFNPcWdkSXdEWGg2T0Q5SFF3U3gyUDVB?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOTkRRWWlxUnRGdGczWGJoa2tFdnpURUtVb2wzZzRfNnFJWExwVWNpblZLRUZsUFN3WUJuZ3E1U1NiNklha1plQmpjdEZqUkh6b2dWdkUzLVBsZm01NlMyOVd4a3ZkZlRtSzRkME1sTWtUQ0dVQXMwTDN0eVcteWdIb1FmTFNPcWdkSXdEWGg2T0Q5SFF3U3gyUDVB?oc=5\" target=\"_blank\"&gt;Massive Increase in Spellbook Variety! Karif Returns&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Inven Global&lt;/font&gt;",
+      "published": "2026-08-12T04:35:34.000Z",
+      "source_id": "google-news-contract-ai",
+      "source_name": "Google News: contract AI",
+      "source_priority": "medium",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 7
+    },
+    {
       "title": "Juro Goes Direct to ChatGPT For Contract AI - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWTB4VVlWclpYMExWSFdxaWpHaXdNYXQ3UnQyWGJKemgtOGtoanNPVWZrVHRuVWdma00xUnhaTlF5TXl4SjQycDFLZjNwb0xMTHljWm9Lc3I4V0NvTnY2RXVFeGJfUHV3MzhTNnJPeGdEdmNqcUQza0ZpU3hmUFBHc3ZqUEF2dUNnVW8yN2NETHBMZw?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQWTB4VVlWclpYMExWSFdxaWpHaXdNYXQ3UnQyWGJKemgtOGtoanNPVWZrVHRuVWdma00xUnhaTlF5TXl4SjQycDFLZjNwb0xMTHljWm9Lc3I4V0NvTnY2RXVFeGJfUHV3MzhTNnJPeGdEdmNqcUQza0ZpU3hmUFBHc3ZqUEF2dUNnVW8yN2NETHBMZw?oc=5\" target=\"_blank\"&gt;Juro Goes Direct to ChatGPT For Contract AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
@@ -197,6 +197,18 @@
       "source_tier": "A",
       "source_category": "Aggregator",
       "relevance_score": 7
+    },
+    {
+      "title": "The L Suite: Inhouse Community + Legal AI - Artificial Lawyer",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQLUM5WEhzbzV1VnAxZTBpUzhFb2tLcmxtM3hCMkxYcno3MDBlamtwLVpXdlRmOHFSaU4wWkdNdVJHMy1KdjNpT2JlNFNtaW9pQmRxMDFYa2pmMmR0RXpibGMzbGlJYW9wdmRlb25uanNGSzloWjhYb3pZUGV5dmFySGM5c3Ytb0Z0eV9B?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQLUM5WEhzbzV1VnAxZTBpUzhFb2tLcmxtM3hCMkxYcno3MDBlamtwLVpXdlRmOHFSaU4wWkdNdVJHMy1KdjNpT2JlNFNtaW9pQmRxMDFYa2pmMmR0RXpibGMzbGlJYW9wdmRlb25uanNGSzloWjhYb3pZUGV5dmFySGM5c3Ytb0Z0eV9B?oc=5\" target=\"_blank\"&gt;The L Suite: Inhouse Community + Legal AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
+      "published": "2026-08-12T06:44:07.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
     },
     {
       "title": "Harvey AI Number of Employees 2026 | Employee Count &amp; Headcount Data - Revelio Labs",
@@ -467,18 +479,6 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQzJDM2Zxdks1eDYzTDNNZ1RuRXZ6Njh2SFFuVFFITmxhdF9lYzR3ZVRzZ1R6bEFnMHNNTHdodzJaVmxMNlZSWlp4S2xhY0VWdThHV3JQVktjNTlfUzE2QlhucDlTNFhhOTRCYUl2aDMyaHUzR3B4T2YtazktdnpmVFg4X0RJdkJqWFVQaVJNcDJsejF0YWpMelNkamhkbTQ4R0F0STdVTWpqRlBTMFBnUkF4R2s1U1d1NGVNYzFKcjFiTllL?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQQzJDM2Zxdks1eDYzTDNNZ1RuRXZ6Njh2SFFuVFFITmxhdF9lYzR3ZVRzZ1R6bEFnMHNNTHdodzJaVmxMNlZSWlp4S2xhY0VWdThHV3JQVktjNTlfUzE2QlhucDlTNFhhOTRCYUl2aDMyaHUzR3B4T2YtazktdnpmVFg4X0RJdkJqWFVQaVJNcDJsejF0YWpMelNkamhkbTQ4R0F0STdVTWpqRlBTMFBnUkF4R2s1U1d1NGVNYzFKcjFiTllL?oc=5\" target=\"_blank\"&gt;Harvey announces partnership with Swiss legal AI intelligence platform DeepJudge&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Global Legal Po",
       "published": "2026-05-21T07:00:00.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 5
-    },
-    {
-      "title": "Claude for Legal: What the industry needs to know - Legal IT Insider",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaTk1d0FIT01YOFFzWUlxSFh6cGZza21GcEx0VWY4VWNnd1FnNkx2eDE2ZFNPZmZadDRGVmZoSTBlSEJjR21fanp4MzNWTGF1QTR2SDlCdlNka25MU0kySG5oSUZQdnRnbDhPMHhyX3dlbFN0eFdFZkdEVEZ5OE5RSUJGNA?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOaTk1d0FIT01YOFFzWUlxSFh6cGZza21GcEx0VWY4VWNnd1FnNkx2eDE2ZFNPZmZadDRGVmZoSTBlSEJjR21fanp4MzNWTGF1QTR2SDlCdlNka25MU0kySG5oSUZQdnRnbDhPMHhyX3dlbFN0eFdFZkdEVEZ5OE5RSUJGNA?oc=5\" target=\"_blank\"&gt;Claude for Legal: What the industry needs to know&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Legal IT Insider&lt;/font&gt;",
-      "published": "2026-05-13T07:00:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
