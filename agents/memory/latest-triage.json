@@ -1,74 +1,15 @@
 {
-  "generated": "2026-08-12T01:23:40.562Z",
+  "generated": "2026-08-12T03:18:41.689Z",
   "cycle_type": "triage",
-  "tier_filter": "B",
-  "shortlist_size": 5,
+  "shortlist_size": 0,
+  "picks": [],
   "prefilter": {
     "total": 40,
-    "accepted": 14,
+    "accepted": 0,
     "borderline": 0,
-    "rejected": 26,
-    "rejected_as_duplicate": 26,
-    "accept_rate": 35
+    "rejected": 40,
+    "rejected_as_duplicate": 40,
+    "accept_rate": 0
   },
-  "model": "gemini-flash-lite-latest",
-  "picks": [
-    {
-      "id": "above-the-law-legaltech-0",
-      "score": 6,
-      "category": "Legal AI",
-      "suggested_angle": "Mark Zuckerberg's vision for superintelligent AI lawyers highlights the growing clash between tech giants and traditional legal services.",
-      "why_now": "Direct commentary on consumer-facing legal AI futures from a major tech figure.",
-      "verdict": "enqueue",
-      "duplicate_of": null
-    },
-    {
-      "id": "hacker-news-1",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "Medical AI video consultation preprint.",
-      "why_now": "Not related to legal tech or regulation.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "above-the-law-legaltech-2",
-      "score": 7,
-      "category": "Legal AI",
-      "suggested_angle": "A judge rejects an employer's defense blaming ChatGPT for an unlawful confession, highlighting limits of generative AI accountability.",
-      "why_now": "Great litigation example of courts pushing back on generative AI excuse-making.",
-      "verdict": "enqueue",
-      "duplicate_of": null
-    },
-    {
-      "id": "hacker-news-3",
-      "score": 1,
-      "category": "Social",
-      "suggested_angle": "Roku FAST channels and AI content.",
-      "why_now": "Entertainment/media story, irrelevant to legal tech.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "hacker-news-4",
-      "score": 1,
-      "category": "Social",
-      "suggested_angle": "Spotify AI personas.",
-      "why_now": "Music industry streaming policy, unrelated to law.",
-      "verdict": "drop",
-      "duplicate_of": null
-    }
-  ],
-  "summary": {
-    "enqueue_count": 2,
-    "watch_count": 0,
-    "drop_count": 3,
-    "notes": "Picked the two relevant legal tech / AI stories from Above the Law; dropped medical research and entertainment items."
-  },
-  "enqueued": 2,
-  "usage": {
-    "input_tokens": 2868,
-    "output_tokens": 551,
-    "total_tokens": 3419
-  }
+  "skipped_already_triaged": 0
 }
