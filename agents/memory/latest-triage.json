@@ -1,15 +1,47 @@
 {
-  "generated": "2026-08-12T18:44:53.077Z",
+  "generated": "2026-08-12T18:54:55.834Z",
   "cycle_type": "triage",
-  "shortlist_size": 0,
-  "picks": [],
+  "tier_filter": "B",
+  "shortlist_size": 2,
   "prefilter": {
     "total": 40,
-    "accepted": 1,
+    "accepted": 13,
     "borderline": 0,
-    "rejected": 39,
-    "rejected_as_duplicate": 39,
-    "accept_rate": 3
+    "rejected": 27,
+    "rejected_as_duplicate": 27,
+    "accept_rate": 33
   },
-  "skipped_already_triaged": 1
+  "model": "gemini-flash-lite-latest",
+  "picks": [
+    {
+      "id": "hacker-news-0",
+      "score": 2,
+      "category": "Social",
+      "suggested_angle": "General software engineering mindset does not fit legal tech deployment.",
+      "why_now": "Too generic to general software engineering, lacks a specific legal vertical hook.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "hacker-news-1",
+      "score": 2,
+      "category": "Social",
+      "suggested_angle": "Overcoming skepticism in software development using AI tools.",
+      "why_now": "Purely general software engineering commentary with no direct relevance to legal AI, regulation, or law firms.",
+      "verdict": "drop",
+      "duplicate_of": null
+    }
+  ],
+  "summary": {
+    "enqueue_count": 0,
+    "watch_count": 0,
+    "drop_count": 2,
+    "notes": "Both shortlist items are general software engineering discussions lacking a legal or regulatory hook."
+  },
+  "enqueued": 0,
+  "usage": {
+    "input_tokens": 2310,
+    "output_tokens": 270,
+    "total_tokens": 2580
+  }
 }
