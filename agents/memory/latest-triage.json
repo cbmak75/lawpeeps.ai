@@ -1,47 +1,15 @@
 {
-  "generated": "2026-08-12T12:56:23.706Z",
+  "generated": "2026-08-12T14:11:57.384Z",
   "cycle_type": "triage",
-  "tier_filter": "B",
-  "shortlist_size": 2,
+  "shortlist_size": 0,
+  "picks": [],
   "prefilter": {
     "total": 40,
-    "accepted": 20,
+    "accepted": 0,
     "borderline": 0,
-    "rejected": 20,
-    "rejected_as_duplicate": 20,
-    "accept_rate": 50
+    "rejected": 40,
+    "rejected_as_duplicate": 40,
+    "accept_rate": 0
   },
-  "model": "gemini-flash-lite-latest",
-  "picks": [
-    {
-      "id": "above-the-law-legaltech-0",
-      "score": 3,
-      "category": "Legal AI",
-      "suggested_angle": "Morning roundup snippet on elite firm AI spending fears.",
-      "why_now": "It's a daily aggregator newsletter rather than a standalone exclusive piece.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-1",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "Technical paper on self-distillation for LLMs.",
-      "why_now": "Pure computer science preprint with no direct application to legal practice or regulation.",
-      "verdict": "drop",
-      "duplicate_of": null
-    }
-  ],
-  "summary": {
-    "enqueue_count": 0,
-    "watch_count": 0,
-    "drop_count": 2,
-    "notes": "Both candidate items lack standalone editorial value or direct legal focus; dropping all."
-  },
-  "enqueued": 0,
-  "usage": {
-    "input_tokens": 2331,
-    "output_tokens": 270,
-    "total_tokens": 2601
-  }
+  "skipped_already_triaged": 0
 }
