@@ -1,24 +1,24 @@
 {
-  "generated": "2026-08-12T07:04:47.125Z",
+  "generated": "2026-08-12T07:16:12.657Z",
   "cycle_type": "triage",
-  "tier_filter": "A",
+  "tier_filter": "B",
   "shortlist_size": 1,
   "prefilter": {
     "total": 40,
-    "accepted": 1,
+    "accepted": 29,
     "borderline": 0,
-    "rejected": 39,
-    "rejected_as_duplicate": 39,
-    "accept_rate": 3
+    "rejected": 11,
+    "rejected_as_duplicate": 11,
+    "accept_rate": 73
   },
   "model": "gemini-flash-lite-latest",
   "picks": [
     {
-      "id": "google-news-contract-ai-0",
-      "score": 1,
-      "category": "Social",
-      "suggested_angle": "Irrelevant gaming/esports content misidentified via keyword matching",
-      "why_now": "It is an Inven Global gaming article about a video game card variety/character return, completely unrelated to legal tech or Spellbook.",
+      "id": "arxiv-cs-ai-0",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "Pure computer science OCR paper on historical Chinese documents, lacking any direct link to legal tech, immigration, or UK regulation.",
       "verdict": "drop",
       "duplicate_of": null
     }
@@ -27,12 +27,12 @@
     "enqueue_count": 0,
     "watch_count": 0,
     "drop_count": 1,
-    "notes": "Single candidate is a false positive gaming article, dropped immediately."
+    "notes": "Dropped irrelevant arXiv CS paper outside editorial focus."
   },
   "enqueued": 0,
   "usage": {
-    "input_tokens": 2363,
-    "output_tokens": 186,
-    "total_tokens": 2549
+    "input_tokens": 2155,
+    "output_tokens": 161,
+    "total_tokens": 2316
   }
 }
