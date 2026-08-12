@@ -1,23 +1,11 @@
 {
-  "generated": "2026-08-12T10:02:46.194Z",
+  "generated": "2026-08-12T11:38:02.481Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 690,
+  "total_scanned": 689,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
-    {
-      "title": "Bias is implicit in all AI, even legal AI - Daily Journal",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQd3o3TzRDU1pZVHVHX0Fyc2JQYWdEb000QjJMdkwwRWI2dktRd3dWM0RsT3dyVkQ2VmlaRHBuNkoxQ1RmR2s4enF3NVJ4Y19ZWmNoLUtDN3VuSUgtejBVVU9JZmlFYTNoc1pGczRMSFJpUG40d2FfSUpaTlhrbzVxLWdlemtWZkJHNjVVWg?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQd3o3TzRDU1pZVHVHX0Fyc2JQYWdEb000QjJMdkwwRWI2dktRd3dWM0RsT3dyVkQ2VmlaRHBuNkoxQ1RmR2s4enF3NVJ4Y19ZWmNoLUtDN3VuSUgtejBVVU9JZmlFYTNoc1pGczRMSFJpUG40d2FfSUpaTlhrbzVxLWdlemtWZkJHNjVVWg?oc=5\" target=\"_blank\"&gt;Bias is implicit in all AI, even legal AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Daily Journal&lt;/font&gt;",
-      "published": "2026-08-12T04:35:53.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 9
-    },
     {
       "title": "Harvey Forum + Shared Spaces, Clio, Spellbook, Legal Innovators - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWDZZRVZBVWx3ckRDeE96a1ZYWTJxVldZUHNwYWl2eHdrUDZKc2xXSmRYVHRheXlISnI5SVpKdmlYTHdOWVRwb3VneFBHMlZhcnlyOWNiZHJuUkNTLXhINlgwRnJzZlNCU0JYQ2k2R2RrUFN3dlRoT3k0ckM5NDRZRHZ2UjAzQWVfQXNRcm9lM2w2LVdmRUxvMmwyVXkzS2Y2XzlnTTNn?oc=5",
@@ -43,7 +31,7 @@
       "relevance_score": 9
     },
     {
-      "title": "Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook partners with CBA; DeepIP raises $25m - Legal IT Insider",
+      "title": "Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook partners with CBA; DeepIP raises $25m - legaltechnology.com",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcXJGTU9ucEc1azNNOTZ3eWI1dldHblpjS0lIdG9jTy1YSE1SSEdlWXlqa041bzd4R052ckZLZG1TQnh6eUE1bFhEV0FyYlFndF84Z1hTczZXZ0IzOVRoMF9jWHhkMXp2X2tjenNUMktCZWM1eVlvM0tjZEpvX2ZoeUpaTUN5UTZUaDJEWWdvVDFJZWpGYTZiQV8ycEc1dEJRMTJCWktEV3IwX3FoX1F6cFk5dkJ1VUtHaURCWmlBTUpTcFRJQVk3cmYxODlsMEpjQnRMdHkwLWNoR1lzT01jRmJlSjJwdw?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcXJGTU9ucEc1azNNOTZ3eWI1dldHblpjS0lIdG9jTy1YSE1SSEdlWXlqa041bzd4R052ckZLZG1TQnh6eUE1bFhEV0FyYlFndF84Z1hTczZXZ0IzOVRoMF9jWHhkMXp2X2tjenNUMktCZWM1eVlvM0tjZEpvX2ZoeUpaTUN5UTZUaDJEWWdvVDFJZWpGYTZiQV8ycEc1dEJRMTJCWktEV3IwX3FoX1F6cFk5dkJ1VUtHaURCWmlBTUpTcFRJQVk3cmYxODlsMEpjQnRMdHkwLWNoR1lzT01jRmJlSjJwdw?oc=5\" target=\"_blank\"&gt;Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook partners with CBA; De",
       "published": "2026-03-04T08:00:00.000Z",
@@ -91,9 +79,9 @@
       "relevance_score": 8
     },
     {
-      "title": "Anthropic Fable 5 Now Available - Harvey",
+      "title": "Anthropic Fable 5 Now Available - harvey.ai",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aSTM0YkZnWnpsXzJjTUN0NUhhREVOSzA5RDdmbGFONDhqcU9Nb2llMVRDbVp6MEpBejZ3TDl5dGx4TEFWRm9mRHZaZ0VOZWdYX0ZkRlR0LXFFb1M2RlNaV3RmU2lBSWg1S1E?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9aSTM0YkZnWnpsXzJjTUN0NUhhREVOSzA5RDdmbGFONDhqcU9Nb2llMVRDbVp6MEpBejZ3TDl5dGx4TEFWRm9mRHZaZ0VOZWdYX0ZkRlR0LXFFb1M2RlNaV3RmU2lBSWg1S1E?oc=5\" target=\"_blank\"&gt;Anthropic Fable 5 Now Available&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9aSTM0YkZnWnpsXzJjTUN0NUhhREVOSzA5RDdmbGFONDhqcU9Nb2llMVRDbVp6MEpBejZ3TDl5dGx4TEFWRm9mRHZaZ0VOZWdYX0ZkRlR0LXFFb1M2RlNaV3RmU2lBSWg1S1E?oc=5\" target=\"_blank\"&gt;Anthropic Fable 5 Now Available&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;harvey.ai&lt;/font&gt;",
       "published": "2026-06-09T07:00:00.000Z",
       "source_id": "google-news-harvey-luminance",
       "source_name": "Google News: Harvey OR Luminance",
@@ -103,9 +91,9 @@
       "relevance_score": 8
     },
     {
-      "title": ":Harvey: Academy: Shaping the Future of Legal AI Literacy - Harvey",
+      "title": ":Harvey: Academy: Shaping the Future of Legal AI Literacy - harvey.ai",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1heGRrSE96TWduUXpSV1VncFJMSEhVVjczY0pLZFNHNkpqRnhzWGp5YmNWUVRDRjN4aU8ydkpDdU14Z3dBbHdZd09janQ1YmRSVDBvbGx0SS1vbzZkNTBZVFNQdw?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1heGRrSE96TWduUXpSV1VncFJMSEhVVjczY0pLZFNHNkpqRnhzWGp5YmNWUVRDRjN4aU8ydkpDdU14Z3dBbHdZd09janQ1YmRSVDBvbGx0SS1vbzZkNTBZVFNQdw?oc=5\" target=\"_blank\"&gt;:Harvey: Academy: Shaping the Future of Legal AI Literacy&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1heGRrSE96TWduUXpSV1VncFJMSEhVVjczY0pLZFNHNkpqRnhzWGp5YmNWUVRDRjN4aU8ydkpDdU14Z3dBbHdZd09janQ1YmRSVDBvbGx0SS1vbzZkNTBZVFNQdw?oc=5\" target=\"_blank\"&gt;:Harvey: Academy: Shaping the Future of Legal AI Literacy&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;harvey.ai&lt;/font&gt;",
       "published": "2026-01-27T08:00:00.000Z",
       "source_id": "google-news-harvey-luminance",
       "source_name": "Google News: Harvey OR Luminance",
@@ -139,6 +127,18 @@
       "relevance_score": 7
     },
     {
+      "title": "Bias is implicit in all AI, even legal AI - Daily Journal",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQd3o3TzRDU1pZVHVHX0Fyc2JQYWdEb000QjJMdkwwRWI2dktRd3dWM0RsT3dyVkQ2VmlaRHBuNkoxQ1RmR2s4enF3NVJ4Y19ZWmNoLUtDN3VuSUgtejBVVU9JZmlFYTNoc1pGczRMSFJpUG40d2FfSUpaTlhrbzVxLWdlemtWZkJHNjVVWg?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQd3o3TzRDU1pZVHVHX0Fyc2JQYWdEb000QjJMdkwwRWI2dktRd3dWM0RsT3dyVkQ2VmlaRHBuNkoxQ1RmR2s4enF3NVJ4Y19ZWmNoLUtDN3VuSUgtejBVVU9JZmlFYTNoc1pGczRMSFJpUG40d2FfSUpaTlhrbzVxLWdlemtWZkJHNjVVWg?oc=5\" target=\"_blank\"&gt;Bias is implicit in all AI, even legal AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Daily Journal&lt;/font&gt;",
+      "published": "2026-08-12T04:35:53.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 7
+    },
+    {
       "title": "The Legal AI Scaffold Changes Everything – Claude Study - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQU4tdGFPSGFaaGo0NGRvdnhxMUhYQ3pSd18td3lld2ZRd2xiQkVwWUQ0Z1lhR3IwdGstdE5STUVBTzdqdkxvbnhWUTVwZ0Y5MDNqT1hHV0RDUGVldzI5R2JrdEtaZ2NfYWNDVERjN1o5QWFqeGFTTEp6VDB1S19id3VoOUZUbzQ0eDdwNzJHNzdvYzRNWUh5cFV6UnhXOE0?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNQU4tdGFPSGFaaGo0NGRvdnhxMUhYQ3pSd18td3lld2ZRd2xiQkVwWUQ0Z1lhR3IwdGstdE5STUVBTzdqdkxvbnhWUTVwZ0Y5MDNqT1hHV0RDUGVldzI5R2JrdEtaZ2NfYWNDVERjN1o5QWFqeGFTTEp6VDB1S19id3VoOUZUbzQ0eDdwNzJHNzdvYzRNWUh5cFV6UnhXOE0?oc=5\" target=\"_blank\"&gt;The Legal AI Scaffold Changes Everything – Claude Study&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
@@ -163,25 +163,13 @@
       "relevance_score": 7
     },
     {
-      "title": "Chicago Cubs and Harvey Announce Partnership, Naming Harvey the Official Legal AI Platform - Harvey",
+      "title": "Chicago Cubs and Harvey Announce Partnership, Naming Harvey the Official Legal AI Platform - harvey.ai",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZUU3Q0tMckdwcHpjczFCRTE1VTI2SW9sRmZOVWJOM1FtZE4zdWh0Q0dKMEZha09qYzZKYWl6VnRpdExBOVI4WmNwSm52LVBfaWhJM0tHZHQwV1p2Z1FtM2U5eGwtazFMS0JNcXpieW9rNExuQy15VHNjbTlVOEE2UWM3VllLMXRLUFdHdjQyOFFXUk1LQ2NkQkNOb1dkZ0poaF9udjJETzJPaWVOd3l5dW9PYno0OVU?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNZUU3Q0tMckdwcHpjczFCRTE1VTI2SW9sRmZOVWJOM1FtZE4zdWh0Q0dKMEZha09qYzZKYWl6VnRpdExBOVI4WmNwSm52LVBfaWhJM0tHZHQwV1p2Z1FtM2U5eGwtazFMS0JNcXpieW9rNExuQy15VHNjbTlVOEE2UWM3VllLMXRLUFdHdjQyOFFXUk1LQ2NkQkNOb1dkZ0poaF9udjJETzJPaWVOd3l5dW9PYno0OVU?oc=5\" target=\"_blank\"&gt;Chicago Cubs and Harvey Announce Partnership, Naming Harvey the Official Legal AI Platform&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNZUU3Q0tMckdwcHpjczFCRTE1VTI2SW9sRmZOVWJOM1FtZE4zdWh0Q0dKMEZha09qYzZKYWl6VnRpdExBOVI4WmNwSm52LVBfaWhJM0tHZHQwV1p2Z1FtM2U5eGwtazFMS0JNcXpieW9rNExuQy15VHNjbTlVOEE2UWM3VllLMXRLUFdHdjQyOFFXUk1LQ2NkQkNOb1dkZ0poaF9udjJETzJPaWVOd3l5dW9PYno0OVU?oc=5\" target=\"_blank\"&gt;Chicago Cubs and Harvey Announce Partnership, Naming Harvey the Official Legal AI Platform&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;harvey.ai&lt;/font&gt;",
       "published": "2026-03-26T07:00:00.000Z",
       "source_id": "google-news-harvey-luminance",
       "source_name": "Google News: Harvey OR Luminance",
       "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 7
-    },
-    {
-      "title": "Massive Increase in Spellbook Variety! Karif Returns - Inven Global",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTkRRWWlxUnRGdGczWGJoa2tFdnpURUtVb2wzZzRfNnFJWExwVWNpblZLRUZsUFN3WUJuZ3E1U1NiNklha1plQmpjdEZqUkh6b2dWdkUzLVBsZm01NlMyOVd4a3ZkZlRtSzRkME1sTWtUQ0dVQXMwTDN0eVcteWdIb1FmTFNPcWdkSXdEWGg2T0Q5SFF3U3gyUDVB?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOTkRRWWlxUnRGdGczWGJoa2tFdnpURUtVb2wzZzRfNnFJWExwVWNpblZLRUZsUFN3WUJuZ3E1U1NiNklha1plQmpjdEZqUkh6b2dWdkUzLVBsZm01NlMyOVd4a3ZkZlRtSzRkME1sTWtUQ0dVQXMwTDN0eVcteWdIb1FmTFNPcWdkSXdEWGg2T0Q5SFF3U3gyUDVB?oc=5\" target=\"_blank\"&gt;Massive Increase in Spellbook Variety! Karif Returns&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Inven Global&lt;/font&gt;",
-      "published": "2026-08-12T04:35:34.000Z",
-      "source_id": "google-news-contract-ai",
-      "source_name": "Google News: contract AI",
-      "source_priority": "medium",
       "source_tier": "A",
       "source_category": "Aggregator",
       "relevance_score": 7
@@ -247,9 +235,9 @@
       "relevance_score": 6
     },
     {
-      "title": ":Harvey:’s Top 5 Product Releases of 2025 - Harvey",
+      "title": ":Harvey:’s Top 5 Product Releases of 2025 - harvey.ai",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxbTlSWkxnMmFXTHJVZ1c4d1RndE9Kc25mYms2dkxyOUl6R09HQU5VN0VkZEVEYzVLb2djeXhJSkVXTWtSRUx4dlJTRUlkWTFKb3o3Ukg0MzRRTXFXNy14dVNNLUl6cUxN?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxbTlSWkxnMmFXTHJVZ1c4d1RndE9Kc25mYms2dkxyOUl6R09HQU5VN0VkZEVEYzVLb2djeXhJSkVXTWtSRUx4dlJTRUlkWTFKb3o3Ukg0MzRRTXFXNy14dVNNLUl6cUxN?oc=5\" target=\"_blank\"&gt;:Harvey:’s Top 5 Product Releases of 2025&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxbTlSWkxnMmFXTHJVZ1c4d1RndE9Kc25mYms2dkxyOUl6R09HQU5VN0VkZEVEYzVLb2djeXhJSkVXTWtSRUx4dlJTRUlkWTFKb3o3Ukg0MzRRTXFXNy14dVNNLUl6cUxN?oc=5\" target=\"_blank\"&gt;:Harvey:’s Top 5 Product Releases of 2025&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;harvey.ai&lt;/font&gt;",
       "published": "2025-12-30T08:00:00.000Z",
       "source_id": "google-news-harvey-luminance",
       "source_name": "Google News: Harvey OR Luminance",
@@ -259,9 +247,9 @@
       "relevance_score": 6
     },
     {
-      "title": "The Practical Guide to AI-Powered Due Diligence for M&amp;A Professionals - Harvey",
+      "title": "The Practical Guide to AI-Powered Due Diligence for M&amp;A Professionals - harvey.ai",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YUjFPU3d4QWRFOWQyb0twMDItZUdSakJzckgxMllQVUxLOWtVX1BpbE50QkQ2MzFKeXYxMk9yVW1SSFJreW9IVlBOWFdQWE4zYkg3YVZwWEJhaEJ5amxPN3hNSmN6dw?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YUjFPU3d4QWRFOWQyb0twMDItZUdSakJzckgxMllQVUxLOWtVX1BpbE50QkQ2MzFKeXYxMk9yVW1SSFJreW9IVlBOWFdQWE4zYkg3YVZwWEJhaEJ5amxPN3hNSmN6dw?oc=5\" target=\"_blank\"&gt;The Practical Guide to AI-Powered Due Diligence for M&amp;A Professionals&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YUjFPU3d4QWRFOWQyb0twMDItZUdSakJzckgxMllQVUxLOWtVX1BpbE50QkQ2MzFKeXYxMk9yVW1SSFJreW9IVlBOWFdQWE4zYkg3YVZwWEJhaEJ5amxPN3hNSmN6dw?oc=5\" target=\"_blank\"&gt;The Practical Guide to AI-Powered Due Diligence for M&amp;A Professionals&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;harvey.ai&lt;/font&gt;",
       "published": "2026-04-29T07:00:00.000Z",
       "source_id": "google-news-harvey-luminance",
       "source_name": "Google News: Harvey OR Luminance",
@@ -271,9 +259,9 @@
       "relevance_score": 6
     },
     {
-      "title": "Never Start From Scratch Again With Memory in :Harvey: - Harvey",
+      "title": "Never Start From Scratch Again With Memory in :Harvey: - harvey.ai",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUb0tYcVdQczRrTGVTYzZ3dG9Uc3NyaHZ6QTl6bm1HaDFjcHVKUGhqWk1ySGJiR2JQSlZyem1oSlpxejRBQXo1ZDZmck81ZTl3cmVRZU5R?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUb0tYcVdQczRrTGVTYzZ3dG9Uc3NyaHZ6QTl6bm1HaDFjcHVKUGhqWk1ySGJiR2JQSlZyem1oSlpxejRBQXo1ZDZmck81ZTl3cmVRZU5R?oc=5\" target=\"_blank\"&gt;Never Start From Scratch Again With Memory in :Harvey:&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUb0tYcVdQczRrTGVTYzZ3dG9Uc3NyaHZ6QTl6bm1HaDFjcHVKUGhqWk1ySGJiR2JQSlZyem1oSlpxejRBQXo1ZDZmck81ZTl3cmVRZU5R?oc=5\" target=\"_blank\"&gt;Never Start From Scratch Again With Memory in :Harvey:&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;harvey.ai&lt;/font&gt;",
       "published": "2026-01-08T08:00:00.000Z",
       "source_id": "google-news-harvey-luminance",
       "source_name": "Google News: Harvey OR Luminance",
@@ -283,9 +271,9 @@
       "relevance_score": 6
     },
     {
-      "title": "Eversheds Sutherland’s global co-CEO Keith Froud talks Harvey, AI adoption and ROI - Legal IT Insider",
+      "title": "Eversheds Sutherland’s global co-CEO Keith Froud talks Harvey, AI adoption and ROI - legaltechnology.com",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOUJDMnROZUthMW13YnFBdlRCb0YwZE50ZmlPQ2tOZTNzd0tpa1lUd24xZTRINTkyazN6VzBJZFNrSXQtUUkyRklNblNNVW9HeUFHMGpaRGE4WFZBb0hISk1yVVdTSzBEVk9UN2pTeWlsaUxndWozWUtIM29wZEJnWDhkRnZrTURfZy1la3VqeW52SnBQWGFpNGdLSG50ZzNWbzhVVmhybE44ZEpvMkE?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPOUJDMnROZUthMW13YnFBdlRCb0YwZE50ZmlPQ2tOZTNzd0tpa1lUd24xZTRINTkyazN6VzBJZFNrSXQtUUkyRklNblNNVW9HeUFHMGpaRGE4WFZBb0hISk1yVVdTSzBEVk9UN2pTeWlsaUxndWozWUtIM29wZEJnWDhkRnZrTURfZy1la3VqeW52SnBQWGFpNGdLSG50ZzNWbzhVVmhybE44ZEpvMkE?oc=5\" target=\"_blank\"&gt;Eversheds Sutherland’s global co-CEO Keith Froud talks Harvey, AI adoption and ROI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Legal IT Insider&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPOUJDMnROZUthMW13YnFBdlRCb0YwZE50ZmlPQ2tOZTNzd0tpa1lUd24xZTRINTkyazN6VzBJZFNrSXQtUUkyRklNblNNVW9HeUFHMGpaRGE4WFZBb0hISk1yVVdTSzBEVk9UN2pTeWlsaUxndWozWUtIM29wZEJnWDhkRnZrTURfZy1la3VqeW52SnBQWGFpNGdLSG50ZzNWbzhVVmhybE44ZEpvMkE?oc=5\" target=\"_blank\"&gt;Eversheds Sutherland’s global co-CEO Keith Froud talks Harvey, AI adoption and ROI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;legaltechnology.com&lt;/font&gt;",
       "published": "2026-02-11T08:00:00.000Z",
       "source_id": "google-news-harvey-luminance",
       "source_name": "Google News: Harvey OR Luminance",
@@ -295,9 +283,9 @@
       "relevance_score": 6
     },
     {
-      "title": ":Harvey: and ElevenLabs Partner to Give Lawyers a Global Voice - Harvey",
+      "title": ":Harvey: and ElevenLabs Partner to Give Lawyers a Global Voice - harvey.ai",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxON1U5aHpIdnkyQk5fWEN4WVZnU0E5eWVqR0I3RWI2RkdFMjlrZ2RETmhFNzdnLXhET2sydHkwdm5HYnFQTmxIT3RRbXI4WmxzTWhHbGdYbXoteFZ3OUlVdFh5REdUdE93M2paejNvVjcyaXIta2swSHJ1UWIxMXF2a0M2SEhsd0dnNmVlNUNfczE?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxON1U5aHpIdnkyQk5fWEN4WVZnU0E5eWVqR0I3RWI2RkdFMjlrZ2RETmhFNzdnLXhET2sydHkwdm5HYnFQTmxIT3RRbXI4WmxzTWhHbGdYbXoteFZ3OUlVdFh5REdUdE93M2paejNvVjcyaXIta2swSHJ1UWIxMXF2a0M2SEhsd0dnNmVlNUNfczE?oc=5\" target=\"_blank\"&gt;:Harvey: and ElevenLabs Partner to Give Lawyers a Global Voice&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxON1U5aHpIdnkyQk5fWEN4WVZnU0E5eWVqR0I3RWI2RkdFMjlrZ2RETmhFNzdnLXhET2sydHkwdm5HYnFQTmxIT3RRbXI4WmxzTWhHbGdYbXoteFZ3OUlVdFh5REdUdE93M2paejNvVjcyaXIta2swSHJ1UWIxMXF2a0M2SEhsd0dnNmVlNUNfczE?oc=5\" target=\"_blank\"&gt;:Harvey: and ElevenLabs Partner to Give Lawyers a Global Voice&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;harvey.ai&lt;/font&gt;",
       "published": "2025-11-12T08:00:00.000Z",
       "source_id": "google-news-harvey-luminance",
       "source_name": "Google News: Harvey OR Luminance",
@@ -319,9 +307,9 @@
       "relevance_score": 6
     },
     {
-      "title": "Preview: Access :Harvey:, Wherever You’re Working - Harvey",
+      "title": "Preview: Access :Harvey:, Wherever You’re Working - harvey.ai",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0djUyLXFEbzcwVDBaN3k4T0FOX0pBTzRyLXBka01pN2VhYlFqTEdaVkxsYUM1aUVsb0FMUm9pVElZUUNVdXE3SU1vd3Z5RlVURFhmR0RMVFlJQmtZMW5Oa0VB?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0djUyLXFEbzcwVDBaN3k4T0FOX0pBTzRyLXBka01pN2VhYlFqTEdaVkxsYUM1aUVsb0FMUm9pVElZUUNVdXE3SU1vd3Z5RlVURFhmR0RMVFlJQmtZMW5Oa0VB?oc=5\" target=\"_blank\"&gt;Preview: Access :Harvey:, Wherever You’re Working&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0djUyLXFEbzcwVDBaN3k4T0FOX0pBTzRyLXBka01pN2VhYlFqTEdaVkxsYUM1aUVsb0FMUm9pVElZUUNVdXE3SU1vd3Z5RlVURFhmR0RMVFlJQmtZMW5Oa0VB?oc=5\" target=\"_blank\"&gt;Preview: Access :Harvey:, Wherever You’re Working&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;harvey.ai&lt;/font&gt;",
       "published": "2025-09-10T07:00:00.000Z",
       "source_id": "google-news-harvey-luminance",
       "source_name": "Google News: Harvey OR Luminance",
@@ -439,9 +427,21 @@
       "relevance_score": 5
     },
     {
-      "title": ":Harvey: Expands Collaboration with Microsoft on Legal AI - Harvey",
+      "title": "Legal AI startup Harvey reportedly raising $500M at $15.5B valuation - SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPemdSS3lCX0t1RTdsS2M2VjE1RTFhenNnZlVVVnVlUXFSaXpHbWdILUlpV2R2dXZxcDQteFIxUGxKa0QyMDRMb2NmU0NxSGdFYnU2VW4zUWU2QWRNNDVKcXdCTTJnMjdOU2hWb01JSzN1S2FRQlF4QXlwUFluSzhlZHBSc09GNFRKVUZ6dzhtM0NpTWoxSlJBTFNPeG9FNkVhNXc?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPemdSS3lCX0t1RTdsS2M2VjE1RTFhenNnZlVVVnVlUXFSaXpHbWdILUlpV2R2dXZxcDQteFIxUGxKa0QyMDRMb2NmU0NxSGdFYnU2VW4zUWU2QWRNNDVKcXdCTTJnMjdOU2hWb01JSzN1S2FRQlF4QXlwUFluSzhlZHBSc09GNFRKVUZ6dzhtM0NpTWoxSlJBTFNPeG9FNkVhNXc?oc=5\" target=\"_blank\"&gt;Legal AI startup Harvey reportedly raising $500M at $15.5B valuation&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;SiliconANGLE&lt;/font&gt;",
+      "published": "2026-08-07T23:15:50.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 5
+    },
+    {
+      "title": ":Harvey: Expands Collaboration with Microsoft on Legal AI - harvey.ai",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMFFnQ1ZFcTlDWXkzWnJMb0lURklNa2hMRXVEMmZ6dW9wYzFmaWJhUEdDRjVjYnA1RTRWZDF5cXlTZ2xQTjZ1QUlCNnJHa2tkcmYyRFpCNmg3dHFTR1llLUFLZG5yZjF1LWVIU3p3R1YzQW5ReW10WElLeG9xQWlyX3h5RXViYlY3b0E?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNMFFnQ1ZFcTlDWXkzWnJMb0lURklNa2hMRXVEMmZ6dW9wYzFmaWJhUEdDRjVjYnA1RTRWZDF5cXlTZ2xQTjZ1QUlCNnJHa2tkcmYyRFpCNmg3dHFTR1llLUFLZG5yZjF1LWVIU3p3R1YzQW5ReW10WElLeG9xQWlyX3h5RXViYlY3b0E?oc=5\" target=\"_blank\"&gt;:Harvey: Expands Collaboration with Microsoft on Legal AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNMFFnQ1ZFcTlDWXkzWnJMb0lURklNa2hMRXVEMmZ6dW9wYzFmaWJhUEdDRjVjYnA1RTRWZDF5cXlTZ2xQTjZ1QUlCNnJHa2tkcmYyRFpCNmg3dHFTR1llLUFLZG5yZjF1LWVIU3p3R1YzQW5ReW10WElLeG9xQWlyX3h5RXViYlY3b0E?oc=5\" target=\"_blank\"&gt;:Harvey: Expands Collaboration with Microsoft on Legal AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;harvey.ai&lt;/font&gt;",
       "published": "2026-07-23T07:00:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
@@ -451,10 +451,10 @@
       "relevance_score": 5
     },
     {
-      "title": "Legal AI startup Harvey reportedly raising $500M at $15.5B valuation - SiliconANGLE",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPemdSS3lCX0t1RTdsS2M2VjE1RTFhenNnZlVVVnVlUXFSaXpHbWdILUlpV2R2dXZxcDQteFIxUGxKa0QyMDRMb2NmU0NxSGdFYnU2VW4zUWU2QWRNNDVKcXdCTTJnMjdOU2hWb01JSzN1S2FRQlF4QXlwUFluSzhlZHBSc09GNFRKVUZ6dzhtM0NpTWoxSlJBTFNPeG9FNkVhNXc?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPemdSS3lCX0t1RTdsS2M2VjE1RTFhenNnZlVVVnVlUXFSaXpHbWdILUlpV2R2dXZxcDQteFIxUGxKa0QyMDRMb2NmU0NxSGdFYnU2VW4zUWU2QWRNNDVKcXdCTTJnMjdOU2hWb01JSzN1S2FRQlF4QXlwUFluSzhlZHBSc09GNFRKVUZ6dzhtM0NpTWoxSlJBTFNPeG9FNkVhNXc?oc=5\" target=\"_blank\"&gt;Legal AI startup Harvey reportedly raising $500M at $15.5B valuation&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;SiliconANGLE&lt;/font&gt;",
-      "published": "2026-08-07T23:15:50.000Z",
+      "title": "Big AI v Big Law — Jude Law, Harvey Specter and why the legal AI arms race is only just beginning - Law Society of Scotland",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQT2dndHk0NjZaYkQwdjF5Sy1KN2doNzRSc3Q1anFiOVJRc3RxME81NURrOGt3WjNsbVVzNVlnQ1NaUmZBT0J4ajlYOS1CemoyRWJpY1p1RTJQODVHQ0xwZ09EUzZFYzVUUlhOckROTG1EOWVTR3MycFdXVXlkUXRyUUIxaFBseXEydlVkNkg2MHVMcVVvLURHS3U4Z0loZ2wwLWNfUlpOSlhuemNYVUcwelNDVkd6M08zUExNN2RkTWpObWJkZ0d0c0lmQUM5bGJMbWQ2Uzk3M3d6SWw0VUhxaF9ZdzZjZw?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQT2dndHk0NjZaYkQwdjF5Sy1KN2doNzRSc3Q1anFiOVJRc3RxME81NURrOGt3WjNsbVVzNVlnQ1NaUmZBT0J4ajlYOS1CemoyRWJpY1p1RTJQODVHQ0xwZ09EUzZFYzVUUlhOckROTG1EOWVTR3MycFdXVXlkUXRyUUIxaFBseXEydlVkNkg2MHVMcVVvLURHS3U4Z0loZ2wwLWNfUlpOSlhuemNYVUcwelNDVkd6M08zUExNN2RkTWpObWJkZ0d0c0lmQUM5bGJMbWQ2Uzk3M3d6SWw0VUhxaF9ZdzZjZw?oc=5\" target=\"_blank\"&gt;Big AI v Big Law — Jude Law, Harvey Specter and why the legal AI arms race is only just beginning&lt;/a&gt;&amp",
+      "published": "2026-07-09T12:56:28.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
@@ -475,10 +475,10 @@
       "relevance_score": 5
     },
     {
-      "title": "Big AI v Big Law — Jude Law, Harvey Specter and why the legal AI arms race is only just beginning - Law Society of Scotland",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQT2dndHk0NjZaYkQwdjF5Sy1KN2doNzRSc3Q1anFiOVJRc3RxME81NURrOGt3WjNsbVVzNVlnQ1NaUmZBT0J4ajlYOS1CemoyRWJpY1p1RTJQODVHQ0xwZ09EUzZFYzVUUlhOckROTG1EOWVTR3MycFdXVXlkUXRyUUIxaFBseXEydlVkNkg2MHVMcVVvLURHS3U4Z0loZ2wwLWNfUlpOSlhuemNYVUcwelNDVkd6M08zUExNN2RkTWpObWJkZ0d0c0lmQUM5bGJMbWQ2Uzk3M3d6SWw0VUhxaF9ZdzZjZw?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQT2dndHk0NjZaYkQwdjF5Sy1KN2doNzRSc3Q1anFiOVJRc3RxME81NURrOGt3WjNsbVVzNVlnQ1NaUmZBT0J4ajlYOS1CemoyRWJpY1p1RTJQODVHQ0xwZ09EUzZFYzVUUlhOckROTG1EOWVTR3MycFdXVXlkUXRyUUIxaFBseXEydlVkNkg2MHVMcVVvLURHS3U4Z0loZ2wwLWNfUlpOSlhuemNYVUcwelNDVkd6M08zUExNN2RkTWpObWJkZ0d0c0lmQUM5bGJMbWQ2Uzk3M3d6SWw0VUhxaF9ZdzZjZw?oc=5\" target=\"_blank\"&gt;Big AI v Big Law — Jude Law, Harvey Specter and why the legal AI arms race is only just beginning&lt;/a&gt;&amp",
-      "published": "2026-07-09T12:56:28.000Z",
+      "title": "What Legal AI Benchmarks Reveal That Model Names Don’t - Artificial Lawyer",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUDVZYWQ2dy05eC1DNmZnQ09zb0xYcG9ZeFkwNkFzd3VHS2hBTEt6WTZpcVcxd2E2VjVPUzlXM1B0azl3VG9mLU1OQk1oMXVUN3RqRDlYVzF2MjZfSHdXa25NYl9JVzI2RzljWUhHd3BIYk52OEpXZUtjVDZ4OGRNal96UXAxWV9tMnc4aHd1UmNBREg2NlEwTGQwN1hXeWc?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPUDVZYWQ2dy05eC1DNmZnQ09zb0xYcG9ZeFkwNkFzd3VHS2hBTEt6WTZpcVcxd2E2VjVPUzlXM1B0azl3VG9mLU1OQk1oMXVUN3RqRDlYVzF2MjZfSHdXa25NYl9JVzI2RzljWUhHd3BIYk52OEpXZUtjVDZ4OGRNal96UXAxWV9tMnc4aHd1UmNBREg2NlEwTGQwN1hXeWc?oc=5\" target=\"_blank\"&gt;What Legal AI Benchmarks Reveal That Model Names Don’t&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
+      "published": "2026-06-22T07:00:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
