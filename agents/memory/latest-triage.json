@@ -1,24 +1,24 @@
 {
-  "generated": "2026-08-13T01:25:28.597Z",
+  "generated": "2026-08-13T03:25:09.382Z",
   "cycle_type": "triage",
-  "tier_filter": "B",
+  "tier_filter": "A",
   "shortlist_size": 1,
   "prefilter": {
     "total": 40,
-    "accepted": 15,
+    "accepted": 1,
     "borderline": 0,
-    "rejected": 25,
-    "rejected_as_duplicate": 25,
-    "accept_rate": 38
+    "rejected": 39,
+    "rejected_as_duplicate": 39,
+    "accept_rate": 3
   },
   "model": "gemini-flash-lite-latest",
   "picks": [
     {
-      "id": "legal-futures-0",
+      "id": "google-news-contract-ai-0",
       "score": 3,
-      "category": "Social",
-      "suggested_angle": "Survey reveals ongoing public ignorance around whiplash reform rules and limitation periods.",
-      "why_now": "General legal consumer awareness survey with no direct connection to legal AI, regulation, or technology trends.",
+      "category": "Adoption",
+      "suggested_angle": "BHSN partners with Hancom Office to bring Allibee contract AI to Asian markets.",
+      "why_now": "Low-value foreign aggregation with little relevance to core UK/US legal tech readership.",
       "verdict": "drop",
       "duplicate_of": null
     }
@@ -27,12 +27,12 @@
     "enqueue_count": 0,
     "watch_count": 0,
     "drop_count": 1,
-    "notes": "Dropped non-AI legal consumer survey piece as it falls outside the core editorial focus on legal tech and AI."
+    "notes": "Dropped low-relevance international product supply story."
   },
   "enqueued": 0,
   "usage": {
-    "input_tokens": 2168,
-    "output_tokens": 186,
-    "total_tokens": 2354
+    "input_tokens": 2325,
+    "output_tokens": 176,
+    "total_tokens": 2501
   }
 }
