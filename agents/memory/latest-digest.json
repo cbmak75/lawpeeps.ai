@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-13T20:28:16.930Z",
+  "generated": "2026-08-13T21:33:22.133Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 687,
+  "total_scanned": 686,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -163,34 +163,10 @@
       "relevance_score": 7
     },
     {
-      "title": "Most Legal AI Pilots Fail. The Legal Teams That Succeed Share One Thing. - Law.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZmJ5Y0FEQUZVNW9IQzlITjFPcDYyQ3dBMTByX3JSX1dGT2o1SE15aEhDejczWkN6S1pPamljbDlKVXNuQWVORElKVHZLRjNuQjdZVUNzWW85dXVyanMzUk5qcE12R3htWUl0SVJoZ3ZpVnVuM3dhSkRBUkNpS253ZXhWVGhuODE1cEM2WTNVYjNxc0tVcHFKQlBxaE5tNklNWmg5RnVSRDA0OVdrVG4zM2RRX190Y2FpU1hzTnlabjJOUQ?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZmJ5Y0FEQUZVNW9IQzlITjFPcDYyQ3dBMTByX3JSX1dGT2o1SE15aEhDejczWkN6S1pPamljbDlKVXNuQWVORElKVHZLRjNuQjdZVUNzWW85dXVyanMzUk5qcE12R3htWUl0SVJoZ3ZpVnVuM3dhSkRBUkNpS253ZXhWVGhuODE1cEM2WTNVYjNxc0tVcHFKQlBxaE5tNklNWmg5RnVSRDA0OVdrVG4zM2RRX190Y2FpU1hzTnlabjJOUQ?oc=5\" target=\"_blank\"&gt;Most Legal AI Pilots Fail. The Legal Teams That Succeed Share One Thing.&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Law.com&lt;/font&gt;",
-      "published": "2026-08-13T14:39:00.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
-    },
-    {
       "title": "Relativity Develops claiR Conversational AI System - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTm9QTVFjV20wMjVWWmxKZWRvTXFkZzFZVVhyX01RN3FHcWtaZHg3NDM4czFYdDFYZkxZSnlISmQ0MjN1ekw4WlZLRGh2SmQtUk5ZZWhtSGpQWkpfTnQxeGtENXJqZ2cwV1lwV3ZhaHNDOGM1YXphSl9IZkpBQ1JOTGk3aTdnNGtXVlQ3cXh6YUg1WUNXOG9XSXdxZw?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOTm9QTVFjV20wMjVWWmxKZWRvTXFkZzFZVVhyX01RN3FHcWtaZHg3NDM4czFYdDFYZkxZSnlISmQ0MjN1ekw4WlZLRGh2SmQtUk5ZZWhtSGpQWkpfTnQxeGtENXJqZ2cwV1lwV3ZhaHNDOGM1YXphSl9IZkpBQ1JOTGk3aTdnNGtXVlQ3cXh6YUg1WUNXOG9XSXdxZw?oc=5\" target=\"_blank\"&gt;Relativity Develops claiR Conversational AI System&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
       "published": "2026-08-12T14:04:46.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
-    },
-    {
-      "title": "Bias is implicit in all AI, even legal AI - Daily Journal",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSThrZFpTUTF2YXMzdGNyNW1rYlFmcXlEZ0tkWG1QSHptcnlKVC1RTzF5em5JU3BGSVdSMlAzdXpDU0FxbUh0eEFqSXJNRUk4ZTJNRnVnQ3kySnNndjE2MVFmUGR3Qmh2R1NWUGVEcTZidmN2MjRMcUZLNmxoNWtMcEhJVU03b3V0VmpTNDRR?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPSThrZFpTUTF2YXMzdGNyNW1rYlFmcXlEZ0tkWG1QSHptcnlKVC1RTzF5em5JU3BGSVdSMlAzdXpDU0FxbUh0eEFqSXJNRUk4ZTJNRnVnQ3kySnNndjE2MVFmUGR3Qmh2R1NWUGVEcTZidmN2MjRMcUZLNmxoNWtMcEhJVU03b3V0VmpTNDRR?oc=5\" target=\"_blank\"&gt;Bias is implicit in all AI, even legal AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Daily Journal&lt;/font&gt;",
-      "published": "2026-08-12T21:15:49.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
@@ -367,9 +343,9 @@
       "relevance_score": 6
     },
     {
-      "title": "Spellbook on Track for US$100M ARR this Year - entrevestor.com",
+      "title": "Spellbook on Track for US$100M ARR this Year - Entrevestor",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41c1pKSUJCbkYtbXFsUmpLV1dfeGNxSlZtU1B0bEZ6U0tZOXlSVFp5U3V5LTR6RG01amxrNUp1bFhRT0FhVmhxeS1oNks4Q1pfcFpWYXFqcHdaM29XWUtGVjJCdzYydTR3dFNadWtpNEQ1YlRNX2tNOV9BU0U?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE41c1pKSUJCbkYtbXFsUmpLV1dfeGNxSlZtU1B0bEZ6U0tZOXlSVFp5U3V5LTR6RG01amxrNUp1bFhRT0FhVmhxeS1oNks4Q1pfcFpWYXFqcHdaM29XWUtGVjJCdzYydTR3dFNadWtpNEQ1YlRNX2tNOV9BU0U?oc=5\" target=\"_blank\"&gt;Spellbook on Track for US$100M ARR this Year&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;entrevestor.com&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE41c1pKSUJCbkYtbXFsUmpLV1dfeGNxSlZtU1B0bEZ6U0tZOXlSVFp5U3V5LTR6RG01amxrNUp1bFhRT0FhVmhxeS1oNks4Q1pfcFpWYXFqcHdaM29XWUtGVjJCdzYydTR3dFNadWtpNEQ1YlRNX2tNOV9BU0U?oc=5\" target=\"_blank\"&gt;Spellbook on Track for US$100M ARR this Year&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Entrevestor&lt;/font&gt;",
       "published": "2026-03-04T08:00:00.000Z",
       "source_id": "google-news-contract-ai",
       "source_name": "Google News: contract AI",
@@ -452,6 +428,18 @@
     },
     {
       "title": "Bias is implicit in all AI, even legal AI - Daily Journal",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSThrZFpTUTF2YXMzdGNyNW1rYlFmcXlEZ0tkWG1QSHptcnlKVC1RTzF5em5JU3BGSVdSMlAzdXpDU0FxbUh0eEFqSXJNRUk4ZTJNRnVnQ3kySnNndjE2MVFmUGR3Qmh2R1NWUGVEcTZidmN2MjRMcUZLNmxoNWtMcEhJVU03b3V0VmpTNDRR?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPSThrZFpTUTF2YXMzdGNyNW1rYlFmcXlEZ0tkWG1QSHptcnlKVC1RTzF5em5JU3BGSVdSMlAzdXpDU0FxbUh0eEFqSXJNRUk4ZTJNRnVnQ3kySnNndjE2MVFmUGR3Qmh2R1NWUGVEcTZidmN2MjRMcUZLNmxoNWtMcEhJVU03b3V0VmpTNDRR?oc=5\" target=\"_blank\"&gt;Bias is implicit in all AI, even legal AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Daily Journal&lt;/font&gt;",
+      "published": "2026-08-12T21:15:49.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 5
+    },
+    {
+      "title": "Bias is implicit in all AI, even legal AI - Daily Journal",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQd3o3TzRDU1pZVHVHX0Fyc2JQYWdEb000QjJMdkwwRWI2dktRd3dWM0RsT3dyVkQ2VmlaRHBuNkoxQ1RmR2s4enF3NVJ4Y19ZWmNoLUtDN3VuSUgtejBVVU9JZmlFYTNoc1pGczRMSFJpUG40d2FfSUpaTlhrbzVxLWdlemtWZkJHNjVVWg?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQd3o3TzRDU1pZVHVHX0Fyc2JQYWdEb000QjJMdkwwRWI2dktRd3dWM0RsT3dyVkQ2VmlaRHBuNkoxQ1RmR2s4enF3NVJ4Y19ZWmNoLUtDN3VuSUgtejBVVU9JZmlFYTNoc1pGczRMSFJpUG40d2FfSUpaTlhrbzVxLWdlemtWZkJHNjVVWg?oc=5\" target=\"_blank\"&gt;Bias is implicit in all AI, even legal AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Daily Journal&lt;/font&gt;",
       "published": "2026-08-12T04:35:53.000Z",
@@ -481,6 +469,18 @@
       "published": "2026-05-26T07:00:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 5
+    },
+    {
+      "title": "Legal AI adoption: How law firms and legal departments achieve time savings and revenue growth - Wolters Kluwer",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbDBxN0hGdEY2bi1IaUt3T0xiLUZ4S1hUdXI5UFRnVnBtRllfN2hJeUVmN3pibnhwOThmTGJoZUNIQWQxUlJjTHhKbkY1QXlGZUZ4R281NXlrTVE0TDJlLVFnSEpmV3ZiWUtudDROUGczTGtvVEZTRjdrMG9NZ2ppejc1Y2pwaWNnQU96ZkJsdGg5TXpjbm04aG1naDRtZw?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNbDBxN0hGdEY2bi1IaUt3T0xiLUZ4S1hUdXI5UFRnVnBtRllfN2hJeUVmN3pibnhwOThmTGJoZUNIQWQxUlJjTHhKbkY1QXlGZUZ4R281NXlrTVE0TDJlLVFnSEpmV3ZiWUtudDROUGczTGtvVEZTRjdrMG9NZ2ppejc1Y2pwaWNnQU96ZkJsdGg5TXpjbm04aG1naDRtZw?oc=5\" target=\"_blank\"&gt;Legal AI adoption: How law firms and legal departments achieve time savings and revenue growth&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Wolters Kluwer&lt;/font&gt;",
+      "published": "2026-03-10T15:53:49.000Z",
+      "source_id": "google-news-law-firm-ai",
+      "source_name": "Google News: law firm AI",
       "source_priority": "critical",
       "source_tier": "A",
       "source_category": "Aggregator",
