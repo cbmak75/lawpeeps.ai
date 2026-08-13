@@ -1,15 +1,209 @@
 {
-  "generated": "2026-08-13T07:09:03.974Z",
+  "generated": "2026-08-13T07:18:54.707Z",
   "cycle_type": "triage",
-  "shortlist_size": 0,
-  "picks": [],
+  "tier_filter": "B",
+  "shortlist_size": 20,
   "prefilter": {
     "total": 40,
-    "accepted": 0,
+    "accepted": 31,
     "borderline": 0,
-    "rejected": 40,
-    "rejected_as_duplicate": 40,
-    "accept_rate": 0
+    "rejected": 9,
+    "rejected_as_duplicate": 9,
+    "accept_rate": 78
   },
-  "skipped_already_triaged": 0
+  "model": "gemini-flash-lite-latest",
+  "picks": [
+    {
+      "id": "arxiv-cs-ai-0",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "Generic academic ML preprint on LLM self-correction with no direct legal or regulatory application.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-1",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "Purely technical prompt optimization paper without legal tech relevance.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-2",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "Text compression research paper, not relevant to legal AI.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-3",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "Medical differential diagnosis methodology using LLMs; out of scope for legal AI.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-4",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "Datacenter energy and reinforcement learning hardware power control paper.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-5",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "Low-level LLM serving and caching optimization paper.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-6",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "Academic paper on majority vote and self-consistency in small models.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-7",
+      "score": 5,
+      "category": "Research",
+      "suggested_angle": "New benchmark highlights persistent reliability gaps in enterprise RAG deployments.",
+      "why_now": "Relevant to legal tech firms deploying RAG, though still an early academic preprint.",
+      "verdict": "watch",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-8",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "Heterogeneous multi-agent LLM communication architecture research.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-9",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "Cyber-physical system anomaly detection paper using digital twins.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-10",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "General LLM safety alignment and trait-invariant tuning research.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-11",
+      "score": 4,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "Empirical study on skill-induced failures in LLM agents; tangential to legal workflow design.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-12",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "Rubric-based evaluation graphs for LLM judges, too generic for legal-specific focus.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-13",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "Academic paper on budget-dependent model evaluations.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-14",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "Backdoor vulnerability research in open-weight fine-tuned agents.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-15",
+      "score": 4,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "Benchmark for epistemic reliability in scientific reasoning by LLMs.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-16",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "Prompt framing effects in software engineering code generation.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-17",
+      "score": 4,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "Uncertainty quantification for multi-turn LLM agents.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-18",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "Time series forecasting framework using mixtures of experts.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-19",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "Continual pre-training method for domain adaptation.",
+      "verdict": "drop",
+      "duplicate_of": null
+    }
+  ],
+  "summary": {
+    "enqueue_count": 0,
+    "watch_count": 1,
+    "drop_count": 19,
+    "notes": "All shortlisted items are raw arXiv preprints without direct legal or regulatory news hooks; filtered down to one potential watch item on enterprise RAG reliability."
+  },
+  "enqueued": 0,
+  "usage": {
+    "input_tokens": 5345,
+    "output_tokens": 1786,
+    "total_tokens": 7131
+  }
 }
