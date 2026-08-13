@@ -1,60 +1,123 @@
 {
-  "generated": "2026-08-13T18:55:34.830Z",
+  "generated": "2026-08-13T19:50:54.195Z",
   "cycle_type": "triage",
-  "tier_filter": "B",
-  "shortlist_size": 5,
+  "tier_filter": "A",
+  "shortlist_size": 12,
   "prefilter": {
     "total": 40,
-    "accepted": 18,
-    "borderline": 0,
-    "rejected": 22,
-    "rejected_as_duplicate": 22,
-    "accept_rate": 45
+    "accepted": 3,
+    "borderline": 10,
+    "rejected": 27,
+    "rejected_as_duplicate": 13,
+    "accept_rate": 8
   },
   "model": "gemini-flash-lite-latest",
   "picks": [
     {
-      "id": "ars-technica-ai-0",
-      "score": 4,
-      "category": "Funding",
-      "suggested_angle": "Anthropic's massive valuation targets highlight the intense capitalisation driving AI development.",
-      "why_now": "General AI market speculation lacks a specific legal tech hook.",
+      "id": "judicial-office-0",
+      "score": 3,
+      "category": "Regulatory",
+      "suggested_angle": "Judicial College showcases training updates at Royal Courts of Justice",
+      "why_now": "Routine institutional event with no direct AI or legal tech newsworthiness.",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
-      "id": "legal-cheek-1",
-      "score": 3,
+      "id": "eu-ai-act-tracker-1",
+      "score": 2,
       "category": "Social",
-      "suggested_angle": "A-Level law numbers rise, pointing to shifting demographics in incoming legal talent.",
-      "why_now": "Routine statistical release without an AI or regulatory angle.",
+      "suggested_angle": "Careers at the EU AI Office",
+      "why_now": "Generic recruitment content published in 2024, completely outdated for current news cycle.",
       "verdict": "drop",
       "duplicate_of": null
     },
     {
-      "id": "above-the-law-legaltech-2",
-      "score": 3,
-      "category": "Legal AI",
-      "suggested_angle": "General legal news roundup featuring miscellaneous sports and DOJ items.",
-      "why_now": "Low-value aggregation with no dedicated legal AI focus.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "hacker-news-3",
-      "score": 3,
-      "category": "Research",
-      "suggested_angle": "Discussion on AI-generated text and reader trust in professional writing.",
-      "why_now": "General forum chatter rather than primary industry news.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-4",
+      "id": "eu-ai-act-tracker-2",
       "score": 4,
+      "category": "Policy",
+      "suggested_angle": "Practical guide to Article 50 transparency rules under the EU AI Act",
+      "why_now": "Older evergreen compliance guide recycled via RSS feed, lacks immediate breaking news hook.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "eu-ai-act-tracker-3",
+      "score": 3,
+      "category": "Policy",
+      "suggested_angle": "Enforcement of Chapter V under the EU AI Act",
+      "why_now": "Static tracker page update, not a fresh editorial piece or breaking regulatory announcement.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "eu-ai-act-tracker-4",
+      "score": 3,
+      "category": "Policy",
+      "suggested_angle": "What the EU AI Act means for staffing businesses using automated screening",
+      "why_now": "Sector-specific compliance breakdown from an ongoing tracker, low relevance to core legal AI publication scope.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "eu-ai-act-tracker-5",
+      "score": 3,
+      "category": "Policy",
+      "suggested_angle": "Modifying AI under the EU AI Act: classification and compliance lessons",
+      "why_now": "Aged guest commentary piece from late 2025.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "eu-ai-act-tracker-6",
+      "score": 3,
+      "category": "Policy",
+      "suggested_angle": "Whistleblowing and the EU AI Act",
+      "why_now": "Static overview resource page rather than fresh reporting or regulatory action.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "eu-ai-act-tracker-7",
+      "score": 3,
+      "category": "Policy",
+      "suggested_angle": "Overview of AI Act national implementation plans",
+      "why_now": "Old tracker overview page from late 2024.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "eu-ai-act-tracker-8",
+      "score": 3,
+      "category": "Policy",
+      "suggested_angle": "Responsibilities of the European Commission under the AI Act",
+      "why_now": "Dated informational page.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "eu-ai-act-tracker-9",
+      "score": 3,
+      "category": "Policy",
+      "suggested_angle": "Responsibilities of EU Member States under the AI Act",
+      "why_now": "Dated informational page.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "eu-ai-act-tracker-10",
+      "score": 3,
       "category": "Research",
-      "suggested_angle": "New pre-print explores active clarification for LLMs dealing with ambiguous queries.",
-      "why_now": "Academic pre-print without immediate commercial legal application.",
+      "suggested_angle": "Insights on robust governance from Novelli et al. (2024)",
+      "why_now": "Academic paper summary from 2024 without a new news hook.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "eu-ai-act-tracker-11",
+      "score": 3,
+      "category": "Policy",
+      "suggested_angle": "AI Act implementation timelines and next steps",
+      "why_now": "Stale timeline overview from early 2024.",
       "verdict": "drop",
       "duplicate_of": null
     }
@@ -62,13 +125,13 @@
   "summary": {
     "enqueue_count": 0,
     "watch_count": 0,
-    "drop_count": 5,
-    "notes": "None of the shortlisted items meet the high bar for lawpeeps.ai editorial focus; all dropped due to lack of direct legal AI, regulatory, or immigration angle."
+    "drop_count": 12,
+    "notes": "All shortlisted items are either routine institutional updates or stale evergreen tracker pages lacking a fresh news hook."
   },
   "enqueued": 0,
   "usage": {
-    "input_tokens": 2810,
-    "output_tokens": 570,
-    "total_tokens": 3380
+    "input_tokens": 4174,
+    "output_tokens": 1230,
+    "total_tokens": 5404
   }
 }
