@@ -1,38 +1,15 @@
 {
-  "generated": "2026-08-13T16:42:55.129Z",
+  "generated": "2026-08-13T17:48:04.309Z",
   "cycle_type": "triage",
-  "tier_filter": "A",
-  "shortlist_size": 1,
+  "shortlist_size": 0,
+  "picks": [],
   "prefilter": {
     "total": 40,
-    "accepted": 1,
+    "accepted": 0,
     "borderline": 0,
-    "rejected": 39,
-    "rejected_as_duplicate": 39,
-    "accept_rate": 3
+    "rejected": 40,
+    "rejected_as_duplicate": 40,
+    "accept_rate": 0
   },
-  "model": "gemini-flash-lite-latest",
-  "picks": [
-    {
-      "id": "google-news-legal-ai-0",
-      "score": 4,
-      "category": "Legal AI",
-      "suggested_angle": "Why most legal AI pilots fail and how successful teams avoid the trap",
-      "why_now": "General commentary piece on legal AI implementation pitfalls without a specific primary source, product announcement, or hard news hook.",
-      "verdict": "drop",
-      "duplicate_of": null
-    }
-  ],
-  "summary": {
-    "enqueue_count": 0,
-    "watch_count": 0,
-    "drop_count": 1,
-    "notes": "Dropped single generic commentary article due to lack of hard news hook."
-  },
-  "enqueued": 0,
-  "usage": {
-    "input_tokens": 2399,
-    "output_tokens": 184,
-    "total_tokens": 2583
-  }
+  "skipped_already_triaged": 0
 }
