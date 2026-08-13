@@ -3142,7 +3142,60 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "GC AI buys Jetify to strengthen infrastructure behind its legal AI tools - Dealroom",
+      "slug": "gc-ai-buys-jetify-to-strengthen-infrastructure-behind-its-legal-ai-tools-dealroo",
+      "score": 7,
+      "category": "Funding",
+      "story_type": "news",
+      "research_brief": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNck9JSlZHMFp6M2JyVmJMcFVEc0k2RW5zbE5iV2I5elpGNXUxQ3AtcE9IMFYyTXVoSG9oUVpaVWhuN2FsZ3NtaU1XNHdrTHZ2UXhrYU13M0ZZTWpRVGxJN01WbXVaRFY2dnBGVW1tcURIYV93YkNZWVZlT29YS3dtRFB0TldWSWF3SVlybWFFbWVJLVZRb1I2UXdERkhIdlBXQkpIVzVwMXlJZw?oc=5\" target=\"_blank\"&gt;GC AI buys Jetify to strengthen infrastructure behind its legal AI tools&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Dealroom&lt;/font&gt;",
+      "primary_source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNck9JSlZHMFp6M2JyVmJMcFVEc0k2RW5zbE5iV2I5elpGNXUxQ3AtcE9IMFYyTXVoSG9oUVpaVWhuN2FsZ3NtaU1XNHdrTHZ2UXhrYU13M0ZZTWpRVGxJN01WbXVaRFY2dnBGVW1tcURIYV93YkNZWVZlT29YS3dtRFB0TldWSWF3SVlybWFFbWVJLVZRb1I2UXdERkhIdlBXQkpIVzVwMXlJZw?oc=5",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "GC AI's acquisition of Jetify signals a push toward vertical infrastructure control in legal tech.",
+      "why_now": "M&A activity in the legal AI infrastructure layer highlights consolidation as startups move to secure core processing tech.",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Google News: legal AI",
+      "source_tier": "A",
+      "prefilter_score": 12,
+      "matched_terms": [
+        "legal AI"
+      ],
+      "fingerprint": {
+        "entities": [],
+        "numerics": [
+          "6m",
+          "0k",
+          "13m"
+        ],
+        "keywords": [
+          "legal ai"
+        ],
+        "title_tokens": [
+          "ai",
+          "buys",
+          "jetify",
+          "strengthen",
+          "infrastructure",
+          "behind",
+          "legal",
+          "tools",
+          "dealroom"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-08-13T12:41:37.037Z",
+      "queued_at": "2026-08-13T12:41:37.040Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-08-12T01:23:40.561Z"
+  "last_updated": "2026-08-13T12:41:37.041Z"
 }

@@ -1,15 +1,38 @@
 {
-  "generated": "2026-08-13T11:37:51.350Z",
+  "generated": "2026-08-13T12:41:37.041Z",
   "cycle_type": "triage",
-  "shortlist_size": 0,
-  "picks": [],
+  "tier_filter": "A",
+  "shortlist_size": 1,
   "prefilter": {
     "total": 40,
-    "accepted": 2,
+    "accepted": 3,
     "borderline": 0,
-    "rejected": 38,
-    "rejected_as_duplicate": 38,
-    "accept_rate": 5
+    "rejected": 37,
+    "rejected_as_duplicate": 37,
+    "accept_rate": 8
   },
-  "skipped_already_triaged": 2
+  "model": "gemini-flash-lite-latest",
+  "picks": [
+    {
+      "id": "google-news-legal-ai-0",
+      "score": 7,
+      "category": "Funding",
+      "suggested_angle": "GC AI's acquisition of Jetify signals a push toward vertical infrastructure control in legal tech.",
+      "why_now": "M&A activity in the legal AI infrastructure layer highlights consolidation as startups move to secure core processing tech.",
+      "verdict": "enqueue",
+      "duplicate_of": null
+    }
+  ],
+  "summary": {
+    "enqueue_count": 1,
+    "watch_count": 0,
+    "drop_count": 0,
+    "notes": "Processed single shortlist item regarding infrastructure M&A in legal AI."
+  },
+  "enqueued": 1,
+  "usage": {
+    "input_tokens": 2385,
+    "output_tokens": 187,
+    "total_tokens": 2572
+  }
 }
