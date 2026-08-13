@@ -1,15 +1,74 @@
 {
-  "generated": "2026-08-13T18:44:59.064Z",
+  "generated": "2026-08-13T18:55:34.830Z",
   "cycle_type": "triage",
-  "shortlist_size": 0,
-  "picks": [],
+  "tier_filter": "B",
+  "shortlist_size": 5,
   "prefilter": {
     "total": 40,
-    "accepted": 1,
+    "accepted": 18,
     "borderline": 0,
-    "rejected": 39,
-    "rejected_as_duplicate": 39,
-    "accept_rate": 3
+    "rejected": 22,
+    "rejected_as_duplicate": 22,
+    "accept_rate": 45
   },
-  "skipped_already_triaged": 1
+  "model": "gemini-flash-lite-latest",
+  "picks": [
+    {
+      "id": "ars-technica-ai-0",
+      "score": 4,
+      "category": "Funding",
+      "suggested_angle": "Anthropic's massive valuation targets highlight the intense capitalisation driving AI development.",
+      "why_now": "General AI market speculation lacks a specific legal tech hook.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "legal-cheek-1",
+      "score": 3,
+      "category": "Social",
+      "suggested_angle": "A-Level law numbers rise, pointing to shifting demographics in incoming legal talent.",
+      "why_now": "Routine statistical release without an AI or regulatory angle.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "above-the-law-legaltech-2",
+      "score": 3,
+      "category": "Legal AI",
+      "suggested_angle": "General legal news roundup featuring miscellaneous sports and DOJ items.",
+      "why_now": "Low-value aggregation with no dedicated legal AI focus.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "hacker-news-3",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "Discussion on AI-generated text and reader trust in professional writing.",
+      "why_now": "General forum chatter rather than primary industry news.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-4",
+      "score": 4,
+      "category": "Research",
+      "suggested_angle": "New pre-print explores active clarification for LLMs dealing with ambiguous queries.",
+      "why_now": "Academic pre-print without immediate commercial legal application.",
+      "verdict": "drop",
+      "duplicate_of": null
+    }
+  ],
+  "summary": {
+    "enqueue_count": 0,
+    "watch_count": 0,
+    "drop_count": 5,
+    "notes": "None of the shortlisted items meet the high bar for lawpeeps.ai editorial focus; all dropped due to lack of direct legal AI, regulatory, or immigration angle."
+  },
+  "enqueued": 0,
+  "usage": {
+    "input_tokens": 2810,
+    "output_tokens": 570,
+    "total_tokens": 3380
+  }
 }
