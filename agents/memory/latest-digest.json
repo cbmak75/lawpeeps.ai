@@ -1,15 +1,27 @@
 {
-  "generated": "2026-08-12T23:28:44.499Z",
+  "generated": "2026-08-13T00:58:19.032Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 690,
+  "total_scanned": 689,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
     {
-      "title": "Harvey Forum + Shared Spaces, Clio, Spellbook, Legal Innovators - artificiallawyer.com",
+      "title": "Bias is implicit in all AI, even legal AI - dailyjournal.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSThrZFpTUTF2YXMzdGNyNW1rYlFmcXlEZ0tkWG1QSHptcnlKVC1RTzF5em5JU3BGSVdSMlAzdXpDU0FxbUh0eEFqSXJNRUk4ZTJNRnVnQ3kySnNndjE2MVFmUGR3Qmh2R1NWUGVEcTZidmN2MjRMcUZLNmxoNWtMcEhJVU03b3V0VmpTNDRR?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPSThrZFpTUTF2YXMzdGNyNW1rYlFmcXlEZ0tkWG1QSHptcnlKVC1RTzF5em5JU3BGSVdSMlAzdXpDU0FxbUh0eEFqSXJNRUk4ZTJNRnVnQ3kySnNndjE2MVFmUGR3Qmh2R1NWUGVEcTZidmN2MjRMcUZLNmxoNWtMcEhJVU03b3V0VmpTNDRR?oc=5\" target=\"_blank\"&gt;Bias is implicit in all AI, even legal AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;dailyjournal.com&lt;/font&gt;",
+      "published": "2026-08-12T21:15:49.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 9
+    },
+    {
+      "title": "Harvey Forum + Shared Spaces, Clio, Spellbook, Legal Innovators - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWDZZRVZBVWx3ckRDeE96a1ZYWTJxVldZUHNwYWl2eHdrUDZKc2xXSmRYVHRheXlISnI5SVpKdmlYTHdOWVRwb3VneFBHMlZhcnlyOWNiZHJuUkNTLXhINlgwRnJzZlNCU0JYQ2k2R2RrUFN3dlRoT3k0ckM5NDRZRHZ2UjAzQWVfQXNRcm9lM2w2LVdmRUxvMmwyVXkzS2Y2XzlnTTNn?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNWDZZRVZBVWx3ckRDeE96a1ZYWTJxVldZUHNwYWl2eHdrUDZKc2xXSmRYVHRheXlISnI5SVpKdmlYTHdOWVRwb3VneFBHMlZhcnlyOWNiZHJuUkNTLXhINlgwRnJzZlNCU0JYQ2k2R2RrUFN3dlRoT3k0ckM5NDRZRHZ2UjAzQWVfQXNRcm9lM2w2LVdmRUxvMmwyVXkzS2Y2XzlnTTNn?oc=5\" target=\"_blank\"&gt;Harvey Forum + Shared Spaces, Clio, Spellbook, Legal Innovators&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;artificiallawyer.com&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNWDZZRVZBVWx3ckRDeE96a1ZYWTJxVldZUHNwYWl2eHdrUDZKc2xXSmRYVHRheXlISnI5SVpKdmlYTHdOWVRwb3VneFBHMlZhcnlyOWNiZHJuUkNTLXhINlgwRnJzZlNCU0JYQ2k2R2RrUFN3dlRoT3k0ckM5NDRZRHZ2UjAzQWVfQXNRcm9lM2w2LVdmRUxvMmwyVXkzS2Y2XzlnTTNn?oc=5\" target=\"_blank\"&gt;Harvey Forum + Shared Spaces, Clio, Spellbook, Legal Innovators&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
       "published": "2026-02-27T08:00:00.000Z",
       "source_id": "google-news-contract-ai",
       "source_name": "Google News: contract AI",
@@ -19,9 +31,9 @@
       "relevance_score": 9
     },
     {
-      "title": "Legal Innovators Breakfast, Spellbook Live, Harvey, LegalOn, Wordsmith + - artificiallawyer.com",
+      "title": "Legal Innovators Breakfast, Spellbook Live, Harvey, LegalOn, Wordsmith + - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQ0V4OXFrTjN3b1VqcDZJc1dIOEJ6RUIyS2VuWlh2blc0QkljNlV3MmcxQzRVdDZBQUxTN183UXFvV3RwYXFEb2pMVU5EdmdiWUwyTEQyZmE0d2poazZXMGhTeHR0WXE1YUZPaUJKNXVKMHBWYU1jRGstdjM2aXcweUs4MU1Tc1JqaWhmNFFfaVYzc3h6ZU1qbzhrTVlkQkk1WlcyRDRhNmNUQmNEdGNFSg?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPQ0V4OXFrTjN3b1VqcDZJc1dIOEJ6RUIyS2VuWlh2blc0QkljNlV3MmcxQzRVdDZBQUxTN183UXFvV3RwYXFEb2pMVU5EdmdiWUwyTEQyZmE0d2poazZXMGhTeHR0WXE1YUZPaUJKNXVKMHBWYU1jRGstdjM2aXcweUs4MU1Tc1JqaWhmNFFfaVYzc3h6ZU1qbzhrTVlkQkk1WlcyRDRhNmNUQmNEdGNFSg?oc=5\" target=\"_blank\"&gt;Legal Innovators Breakfast, Spellbook Live, Harvey, LegalOn, Wordsmith +&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;artificiallawyer.com&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPQ0V4OXFrTjN3b1VqcDZJc1dIOEJ6RUIyS2VuWlh2blc0QkljNlV3MmcxQzRVdDZBQUxTN183UXFvV3RwYXFEb2pMVU5EdmdiWUwyTEQyZmE0d2poazZXMGhTeHR0WXE1YUZPaUJKNXVKMHBWYU1jRGstdjM2aXcweUs4MU1Tc1JqaWhmNFFfaVYzc3h6ZU1qbzhrTVlkQkk1WlcyRDRhNmNUQmNEdGNFSg?oc=5\" target=\"_blank\"&gt;Legal Innovators Breakfast, Spellbook Live, Harvey, LegalOn, Wordsmith +&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
       "published": "2026-03-06T08:00:00.000Z",
       "source_id": "google-news-contract-ai",
       "source_name": "Google News: contract AI",
@@ -31,9 +43,9 @@
       "relevance_score": 9
     },
     {
-      "title": "Relativity Develops claiR Conversational AI System - artificiallawyer.com",
+      "title": "Relativity Develops claiR Conversational AI System - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTm9QTVFjV20wMjVWWmxKZWRvTXFkZzFZVVhyX01RN3FHcWtaZHg3NDM4czFYdDFYZkxZSnlISmQ0MjN1ekw4WlZLRGh2SmQtUk5ZZWhtSGpQWkpfTnQxeGtENXJqZ2cwV1lwV3ZhaHNDOGM1YXphSl9IZkpBQ1JOTGk3aTdnNGtXVlQ3cXh6YUg1WUNXOG9XSXdxZw?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOTm9QTVFjV20wMjVWWmxKZWRvTXFkZzFZVVhyX01RN3FHcWtaZHg3NDM4czFYdDFYZkxZSnlISmQ0MjN1ekw4WlZLRGh2SmQtUk5ZZWhtSGpQWkpfTnQxeGtENXJqZ2cwV1lwV3ZhaHNDOGM1YXphSl9IZkpBQ1JOTGk3aTdnNGtXVlQ3cXh6YUg1WUNXOG9XSXdxZw?oc=5\" target=\"_blank\"&gt;Relativity Develops claiR Conversational AI System&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;artificiallawyer.com&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOTm9QTVFjV20wMjVWWmxKZWRvTXFkZzFZVVhyX01RN3FHcWtaZHg3NDM4czFYdDFYZkxZSnlISmQ0MjN1ekw4WlZLRGh2SmQtUk5ZZWhtSGpQWkpfTnQxeGtENXJqZ2cwV1lwV3ZhaHNDOGM1YXphSl9IZkpBQ1JOTGk3aTdnNGtXVlQ3cXh6YUg1WUNXOG9XSXdxZw?oc=5\" target=\"_blank\"&gt;Relativity Develops claiR Conversational AI System&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
       "published": "2026-08-12T14:04:46.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
@@ -115,9 +127,9 @@
       "relevance_score": 8
     },
     {
-      "title": "GPT-5 Launches: Harvey, Spellbook, Legora + TR Already Have It - artificiallawyer.com",
+      "title": "GPT-5 Launches: Harvey, Spellbook, Legora + TR Already Have It - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPakxDaENfTFFVRjVLRjZQSWplRnJwcUFCQWRtNkUyaUh4T1RvT1Rkc0R3NVZxb095ODN4eGIyREhjTUJTTDFvcmN0cV81OE5Md2k0WS1IVGRJWGdaT1BFaFJDUjdRSkU1ZXZqQTFFUXBQVmFpSndTNFVsb3BEMjN1MnJueW11QmZSWWpzZWhJVndMVk1qSlY1bzhlQQ?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPakxDaENfTFFVRjVLRjZQSWplRnJwcUFCQWRtNkUyaUh4T1RvT1Rkc0R3NVZxb095ODN4eGIyREhjTUJTTDFvcmN0cV81OE5Md2k0WS1IVGRJWGdaT1BFaFJDUjdRSkU1ZXZqQTFFUXBQVmFpSndTNFVsb3BEMjN1MnJueW11QmZSWWpzZWhJVndMVk1qSlY1bzhlQQ?oc=5\" target=\"_blank\"&gt;GPT-5 Launches: Harvey, Spellbook, Legora + TR Already Have It&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;artificiallawyer.com&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPakxDaENfTFFVRjVLRjZQSWplRnJwcUFCQWRtNkUyaUh4T1RvT1Rkc0R3NVZxb095ODN4eGIyREhjTUJTTDFvcmN0cV81OE5Md2k0WS1IVGRJWGdaT1BFaFJDUjdRSkU1ZXZqQTFFUXBQVmFpSndTNFVsb3BEMjN1MnJueW11QmZSWWpzZWhJVndMVk1qSlY1bzhlQQ?oc=5\" target=\"_blank\"&gt;GPT-5 Launches: Harvey, Spellbook, Legora + TR Already Have It&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
       "published": "2025-08-07T07:00:00.000Z",
       "source_id": "google-news-contract-ai",
       "source_name": "Google News: contract AI",
@@ -127,21 +139,9 @@
       "relevance_score": 8
     },
     {
-      "title": "Big AI v Big Law — Jude Law, Harvey Specter and why the legal AI arms race is only just beginning - Law Society of Scotland",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQT2dndHk0NjZaYkQwdjF5Sy1KN2doNzRSc3Q1anFiOVJRc3RxME81NURrOGt3WjNsbVVzNVlnQ1NaUmZBT0J4ajlYOS1CemoyRWJpY1p1RTJQODVHQ0xwZ09EUzZFYzVUUlhOckROTG1EOWVTR3MycFdXVXlkUXRyUUIxaFBseXEydlVkNkg2MHVMcVVvLURHS3U4Z0loZ2wwLWNfUlpOSlhuemNYVUcwelNDVkd6M08zUExNN2RkTWpObWJkZ0d0c0lmQUM5bGJMbWQ2Uzk3M3d6SWw0VUhxaF9ZdzZjZw?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQT2dndHk0NjZaYkQwdjF5Sy1KN2doNzRSc3Q1anFiOVJRc3RxME81NURrOGt3WjNsbVVzNVlnQ1NaUmZBT0J4ajlYOS1CemoyRWJpY1p1RTJQODVHQ0xwZ09EUzZFYzVUUlhOckROTG1EOWVTR3MycFdXVXlkUXRyUUIxaFBseXEydlVkNkg2MHVMcVVvLURHS3U4Z0loZ2wwLWNfUlpOSlhuemNYVUcwelNDVkd6M08zUExNN2RkTWpObWJkZ0d0c0lmQUM5bGJMbWQ2Uzk3M3d6SWw0VUhxaF9ZdzZjZw?oc=5\" target=\"_blank\"&gt;Big AI v Big Law — Jude Law, Harvey Specter and why the legal AI arms race is only just beginning&lt;/a&gt;&amp",
-      "published": "2026-08-12T15:27:18.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 7
-    },
-    {
-      "title": "The Legal AI Scaffold Changes Everything – Claude Study - artificiallawyer.com",
+      "title": "The Legal AI Scaffold Changes Everything – Claude Study - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQU4tdGFPSGFaaGo0NGRvdnhxMUhYQ3pSd18td3lld2ZRd2xiQkVwWUQ0Z1lhR3IwdGstdE5STUVBTzdqdkxvbnhWUTVwZ0Y5MDNqT1hHV0RDUGVldzI5R2JrdEtaZ2NfYWNDVERjN1o5QWFqeGFTTEp6VDB1S19id3VoOUZUbzQ0eDdwNzJHNzdvYzRNWUh5cFV6UnhXOE0?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNQU4tdGFPSGFaaGo0NGRvdnhxMUhYQ3pSd18td3lld2ZRd2xiQkVwWUQ0Z1lhR3IwdGstdE5STUVBTzdqdkxvbnhWUTVwZ0Y5MDNqT1hHV0RDUGVldzI5R2JrdEtaZ2NfYWNDVERjN1o5QWFqeGFTTEp6VDB1S19id3VoOUZUbzQ0eDdwNzJHNzdvYzRNWUh5cFV6UnhXOE0?oc=5\" target=\"_blank\"&gt;The Legal AI Scaffold Changes Everything – Claude Study&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;artificiallawyer.com&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNQU4tdGFPSGFaaGo0NGRvdnhxMUhYQ3pSd18td3lld2ZRd2xiQkVwWUQ0Z1lhR3IwdGstdE5STUVBTzdqdkxvbnhWUTVwZ0Y5MDNqT1hHV0RDUGVldzI5R2JrdEtaZ2NfYWNDVERjN1o5QWFqeGFTTEp6VDB1S19id3VoOUZUbzQ0eDdwNzJHNzdvYzRNWUh5cFV6UnhXOE0?oc=5\" target=\"_blank\"&gt;The Legal AI Scaffold Changes Everything – Claude Study&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
       "published": "2026-06-22T07:00:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
@@ -175,9 +175,9 @@
       "relevance_score": 7
     },
     {
-      "title": "Juro Goes Direct to ChatGPT For Contract AI - artificiallawyer.com",
+      "title": "Juro Goes Direct to ChatGPT For Contract AI - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWTB4VVlWclpYMExWSFdxaWpHaXdNYXQ3UnQyWGJKemgtOGtoanNPVWZrVHRuVWdma00xUnhaTlF5TXl4SjQycDFLZjNwb0xMTHljWm9Lc3I4V0NvTnY2RXVFeGJfUHV3MzhTNnJPeGdEdmNqcUQza0ZpU3hmUFBHc3ZqUEF2dUNnVW8yN2NETHBMZw?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQWTB4VVlWclpYMExWSFdxaWpHaXdNYXQ3UnQyWGJKemgtOGtoanNPVWZrVHRuVWdma00xUnhaTlF5TXl4SjQycDFLZjNwb0xMTHljWm9Lc3I4V0NvTnY2RXVFeGJfUHV3MzhTNnJPeGdEdmNqcUQza0ZpU3hmUFBHc3ZqUEF2dUNnVW8yN2NETHBMZw?oc=5\" target=\"_blank\"&gt;Juro Goes Direct to ChatGPT For Contract AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;artificiallawyer.com&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQWTB4VVlWclpYMExWSFdxaWpHaXdNYXQ3UnQyWGJKemgtOGtoanNPVWZrVHRuVWdma00xUnhaTlF5TXl4SjQycDFLZjNwb0xMTHljWm9Lc3I4V0NvTnY2RXVFeGJfUHV3MzhTNnJPeGdEdmNqcUQza0ZpU3hmUFBHc3ZqUEF2dUNnVW8yN2NETHBMZw?oc=5\" target=\"_blank\"&gt;Juro Goes Direct to ChatGPT For Contract AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
       "published": "2025-10-21T07:00:00.000Z",
       "source_id": "google-news-contract-ai",
       "source_name": "Google News: contract AI",
@@ -187,9 +187,9 @@
       "relevance_score": 7
     },
     {
-      "title": "Meet Spellbook the GPT-3 Generative AI Word Add-In For Contracts - artificiallawyer.com",
+      "title": "Meet Spellbook the GPT-3 Generative AI Word Add-In For Contracts - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORGNXbjRyVWRDZ01OLXlaM21tTjY5eUdNYktBdmsyTEhyUmxWUFc2T0QyWUUyX0lEZFZFWk9LeS1seXRyOTdBMkhSYzZyeWEwTnhDcks2ZmVyQm9GYV9EQ2RGUDBaXzFDUkZFclFvMmV1YkJ3UlY3QU0yY1A3NXJHeTAzakxKSF82aTZoRWdSaEFaQ1duMEtRb2lQcTRqVTJhTklvdy1wR00wSlBacGc?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxORGNXbjRyVWRDZ01OLXlaM21tTjY5eUdNYktBdmsyTEhyUmxWUFc2T0QyWUUyX0lEZFZFWk9LeS1seXRyOTdBMkhSYzZyeWEwTnhDcks2ZmVyQm9GYV9EQ2RGUDBaXzFDUkZFclFvMmV1YkJ3UlY3QU0yY1A3NXJHeTAzakxKSF82aTZoRWdSaEFaQ1duMEtRb2lQcTRqVTJhTklvdy1wR00wSlBacGc?oc=5\" target=\"_blank\"&gt;Meet Spellbook the GPT-3 Generative AI Word Add-In For Contracts&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;artificiallawyer.com&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxORGNXbjRyVWRDZ01OLXlaM21tTjY5eUdNYktBdmsyTEhyUmxWUFc2T0QyWUUyX0lEZFZFWk9LeS1seXRyOTdBMkhSYzZyeWEwTnhDcks2ZmVyQm9GYV9EQ2RGUDBaXzFDUkZFclFvMmV1YkJ3UlY3QU0yY1A3NXJHeTAzakxKSF82aTZoRWdSaEFaQ1duMEtRb2lQcTRqVTJhTklvdy1wR00wSlBacGc?oc=5\" target=\"_blank\"&gt;Meet Spellbook the GPT-3 Generative AI Word Add-In For Contracts&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
       "published": "2022-11-09T08:00:00.000Z",
       "source_id": "google-news-contract-ai",
       "source_name": "Google News: contract AI",
@@ -199,9 +199,9 @@
       "relevance_score": 7
     },
     {
-      "title": "Bias is implicit in all AI, even legal AI - Daily Journal",
+      "title": "Bias is implicit in all AI, even legal AI - dailyjournal.com",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQd3o3TzRDU1pZVHVHX0Fyc2JQYWdEb000QjJMdkwwRWI2dktRd3dWM0RsT3dyVkQ2VmlaRHBuNkoxQ1RmR2s4enF3NVJ4Y19ZWmNoLUtDN3VuSUgtejBVVU9JZmlFYTNoc1pGczRMSFJpUG40d2FfSUpaTlhrbzVxLWdlemtWZkJHNjVVWg?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQd3o3TzRDU1pZVHVHX0Fyc2JQYWdEb000QjJMdkwwRWI2dktRd3dWM0RsT3dyVkQ2VmlaRHBuNkoxQ1RmR2s4enF3NVJ4Y19ZWmNoLUtDN3VuSUgtejBVVU9JZmlFYTNoc1pGczRMSFJpUG40d2FfSUpaTlhrbzVxLWdlemtWZkJHNjVVWg?oc=5\" target=\"_blank\"&gt;Bias is implicit in all AI, even legal AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Daily Journal&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQd3o3TzRDU1pZVHVHX0Fyc2JQYWdEb000QjJMdkwwRWI2dktRd3dWM0RsT3dyVkQ2VmlaRHBuNkoxQ1RmR2s4enF3NVJ4Y19ZWmNoLUtDN3VuSUgtejBVVU9JZmlFYTNoc1pGczRMSFJpUG40d2FfSUpaTlhrbzVxLWdlemtWZkJHNjVVWg?oc=5\" target=\"_blank\"&gt;Bias is implicit in all AI, even legal AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;dailyjournal.com&lt;/font&gt;",
       "published": "2026-08-12T04:35:53.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
@@ -319,9 +319,21 @@
       "relevance_score": 6
     },
     {
-      "title": "Scott Stevenson Interview: Spellbook ACM - artificiallawyer.com",
+      "title": "Harvey AI will speed up 'diligence' and transform the economy in different ways: Harvey AI CEO - Fox Business",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGZzVJbmVJeTVpQjU0TTFfNDY1eEdDdThXb2lyT25sYlpuajc5NDdTSzFzSVYwMEhxdnhMTUc4Sll5amFBb3JPN3VOaU5zYTZQS1JoRVJDcTVsSGM?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGZzVJbmVJeTVpQjU0TTFfNDY1eEdDdThXb2lyT25sYlpuajc5NDdTSzFzSVYwMEhxdnhMTUc4Sll5amFBb3JPN3VOaU5zYTZQS1JoRVJDcTVsSGM?oc=5\" target=\"_blank\"&gt;Harvey AI will speed up 'diligence' and transform the economy in different ways: Harvey AI CEO&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Fox Business&lt;/font&gt;",
+      "published": "2026-04-20T07:00:00.000Z",
+      "source_id": "google-news-harvey-luminance",
+      "source_name": "Google News: Harvey OR Luminance",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
+    },
+    {
+      "title": "Scott Stevenson Interview: Spellbook ACM - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTHNMbHhCN1MxT09wblM2TERCUU5kNWZvNkxtbHRMSGU5aUR5UUpucmdNRXh2QmtKVWZ3LUVYdC1vemF6Ym9ydzNiR3VPNXdMX3g1bDRKaXVkdkswUUpweEpkODFoSmxMVUlpV3FjSGh0MVF1YzM2TVpEYkFSNERlakozQjdzYkUxcFJ5TA?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOTHNMbHhCN1MxT09wblM2TERCUU5kNWZvNkxtbHRMSGU5aUR5UUpucmdNRXh2QmtKVWZ3LUVYdC1vemF6Ym9ydzNiR3VPNXdMX3g1bDRKaXVkdkswUUpweEpkODFoSmxMVUlpV3FjSGh0MVF1YzM2TVpEYkFSNERlakozQjdzYkUxcFJ5TA?oc=5\" target=\"_blank\"&gt;Scott Stevenson Interview: Spellbook ACM&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;artificiallawyer.com&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOTHNMbHhCN1MxT09wblM2TERCUU5kNWZvNkxtbHRMSGU5aUR5UUpucmdNRXh2QmtKVWZ3LUVYdC1vemF6Ym9ydzNiR3VPNXdMX3g1bDRKaXVkdkswUUpweEpkODFoSmxMVUlpV3FjSGh0MVF1YzM2TVpEYkFSNERlakozQjdzYkUxcFJ5TA?oc=5\" target=\"_blank\"&gt;Scott Stevenson Interview: Spellbook ACM&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
       "published": "2026-06-30T07:00:00.000Z",
       "source_id": "google-news-contract-ai",
       "source_name": "Google News: contract AI",
@@ -331,9 +343,9 @@
       "relevance_score": 6
     },
     {
-      "title": "Spellbook Raises $50m + CEO, Scott Stevenson Interview - artificiallawyer.com",
+      "title": "Spellbook Raises $50m + CEO, Scott Stevenson Interview - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNVRaTmNLME8ydnc5d1FmeWhSUjdhTDg2dmdqR28wQ2lwSzBJbTYtTU5XekVsTWdaLVE3N2hJQlU2bEVRWlNhVG1GRTlab0c4Zko3UmtZamxkRGw2WTNlRkU1X05LZEE3OEpkbEtkdldrNFRJVnlPcFZlVDRVbElnbExXVk9zenVfOFh3QWNORTdIQVQxQnBuUW84NA?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPNVRaTmNLME8ydnc5d1FmeWhSUjdhTDg2dmdqR28wQ2lwSzBJbTYtTU5XekVsTWdaLVE3N2hJQlU2bEVRWlNhVG1GRTlab0c4Zko3UmtZamxkRGw2WTNlRkU1X05LZEE3OEpkbEtkdldrNFRJVnlPcFZlVDRVbElnbExXVk9zenVfOFh3QWNORTdIQVQxQnBuUW84NA?oc=5\" target=\"_blank\"&gt;Spellbook Raises $50m + CEO, Scott Stevenson Interview&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;artificiallawyer.com&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPNVRaTmNLME8ydnc5d1FmeWhSUjdhTDg2dmdqR28wQ2lwSzBJbTYtTU5XekVsTWdaLVE3N2hJQlU2bEVRWlNhVG1GRTlab0c4Zko3UmtZamxkRGw2WTNlRkU1X05LZEE3OEpkbEtkdldrNFRJVnlPcFZlVDRVbElnbExXVk9zenVfOFh3QWNORTdIQVQxQnBuUW84NA?oc=5\" target=\"_blank\"&gt;Spellbook Raises $50m + CEO, Scott Stevenson Interview&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
       "published": "2025-10-09T07:00:00.000Z",
       "source_id": "google-news-contract-ai",
       "source_name": "Google News: contract AI",
@@ -379,9 +391,9 @@
       "relevance_score": 6
     },
     {
-      "title": "DraftWise Leverages Cohere, Will Keep Narrow Focus - artificiallawyer.com",
+      "title": "DraftWise Leverages Cohere, Will Keep Narrow Focus - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPc19yRHo2cFVHQ2NiYWhEc1ByYm1jYWdnVnVEVW1VMDRpdFNfNzFHaWpJRS1Rd1V2Y0ZVQVlvS0ZudnJGa2ZLZUFqY09nS2dkY0RYbV9aLVVObVVBaHNJanhKOWxWS05KOFZjaEtKZlUtaUd4bDBPWk9iaDFHQTNfamtyeTAya3NyRnkzbGhkVDNZYjlIa0NlN1l3?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPc19yRHo2cFVHQ2NiYWhEc1ByYm1jYWdnVnVEVW1VMDRpdFNfNzFHaWpJRS1Rd1V2Y0ZVQVlvS0ZudnJGa2ZLZUFqY09nS2dkY0RYbV9aLVVObVVBaHNJanhKOWxWS05KOFZjaEtKZlUtaUd4bDBPWk9iaDFHQTNfamtyeTAya3NyRnkzbGhkVDNZYjlIa0NlN1l3?oc=5\" target=\"_blank\"&gt;DraftWise Leverages Cohere, Will Keep Narrow Focus&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;artificiallawyer.com&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPc19yRHo2cFVHQ2NiYWhEc1ByYm1jYWdnVnVEVW1VMDRpdFNfNzFHaWpJRS1Rd1V2Y0ZVQVlvS0ZudnJGa2ZLZUFqY09nS2dkY0RYbV9aLVVObVVBaHNJanhKOWxWS05KOFZjaEtKZlUtaUd4bDBPWk9iaDFHQTNfamtyeTAya3NyRnkzbGhkVDNZYjlIa0NlN1l3?oc=5\" target=\"_blank\"&gt;DraftWise Leverages Cohere, Will Keep Narrow Focus&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
       "published": "2024-10-09T07:00:00.000Z",
       "source_id": "google-news-contract-ai",
       "source_name": "Google News: contract AI",
@@ -391,9 +403,9 @@
       "relevance_score": 6
     },
     {
-      "title": "How Spellbook Is Implementing OpenAI o1 Into Legal Workflows - artificiallawyer.com",
+      "title": "How Spellbook Is Implementing OpenAI o1 Into Legal Workflows - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZzQ2UUNXcTZ6QmlHdVppX2EyM3R3R0Q1dVNsc2dSMWRNQWx1SWpZbzdfSUppR2xKS0JfclhNWXFWam54ZVNLVnRieVFjZkYyWkRaZHZDdVQ3eUpRTFlsTjdRZnh4MDdyZDZjTm5aQTdiZXVuWFdPRHBoQXYwdmZaSzdIMkQtZWU4TERmZ0JYZzdYX2loT3JZVVFVVTZ4MEtXZ2VPc0hreTk?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZzQ2UUNXcTZ6QmlHdVppX2EyM3R3R0Q1dVNsc2dSMWRNQWx1SWpZbzdfSUppR2xKS0JfclhNWXFWam54ZVNLVnRieVFjZkYyWkRaZHZDdVQ3eUpRTFlsTjdRZnh4MDdyZDZjTm5aQTdiZXVuWFdPRHBoQXYwdmZaSzdIMkQtZWU4TERmZ0JYZzdYX2loT3JZVVFVVTZ4MEtXZ2VPc0hreTk?oc=5\" target=\"_blank\"&gt;How Spellbook Is Implementing OpenAI o1 Into Legal Workflows&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;artificiallawyer.com&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZzQ2UUNXcTZ6QmlHdVppX2EyM3R3R0Q1dVNsc2dSMWRNQWx1SWpZbzdfSUppR2xKS0JfclhNWXFWam54ZVNLVnRieVFjZkYyWkRaZHZDdVQ3eUpRTFlsTjdRZnh4MDdyZDZjTm5aQTdiZXVuWFdPRHBoQXYwdmZaSzdIMkQtZWU4TERmZ0JYZzdYX2loT3JZVVFVVTZ4MEtXZ2VPc0hreTk?oc=5\" target=\"_blank\"&gt;How Spellbook Is Implementing OpenAI o1 Into Legal Workflows&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
       "published": "2024-09-16T07:00:00.000Z",
       "source_id": "google-news-contract-ai",
       "source_name": "Google News: contract AI",
@@ -403,9 +415,9 @@
       "relevance_score": 6
     },
     {
-      "title": "Anthropic Hires ‘Head of Claude For Legal’ - artificiallawyer.com",
+      "title": "Anthropic Hires ‘Head of Claude For Legal’ - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOFJQcGJEaHRyUlZTdWxGWWlqelBkZ0gwR3YyNmxxX1NRbU56YXBqVFl6MzNPNElOa0F5eEpDRXFGUThvQk9qbDNQeEZSMjE1ODF2blM3WkdTQnJTNnZhcTIzVFUwM1U4aE1hTjRKNVlKMEhuUTB2Y0Ztbkk1dG90bXd6ZnVPb0Z4ZHI0c253?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPOFJQcGJEaHRyUlZTdWxGWWlqelBkZ0gwR3YyNmxxX1NRbU56YXBqVFl6MzNPNElOa0F5eEpDRXFGUThvQk9qbDNQeEZSMjE1ODF2blM3WkdTQnJTNnZhcTIzVFUwM1U4aE1hTjRKNVlKMEhuUTB2Y0Ztbkk1dG90bXd6ZnVPb0Z4ZHI0c253?oc=5\" target=\"_blank\"&gt;Anthropic Hires ‘Head of Claude For Legal’&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;artificiallawyer.com&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPOFJQcGJEaHRyUlZTdWxGWWlqelBkZ0gwR3YyNmxxX1NRbU56YXBqVFl6MzNPNElOa0F5eEpDRXFGUThvQk9qbDNQeEZSMjE1ODF2blM3WkdTQnJTNnZhcTIzVFUwM1U4aE1hTjRKNVlKMEhuUTB2Y0Ztbkk1dG90bXd6ZnVPb0Z4ZHI0c253?oc=5\" target=\"_blank\"&gt;Anthropic Hires ‘Head of Claude For Legal’&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
       "published": "2026-08-07T09:13:03.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
@@ -419,6 +431,18 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMFFnQ1ZFcTlDWXkzWnJMb0lURklNa2hMRXVEMmZ6dW9wYzFmaWJhUEdDRjVjYnA1RTRWZDF5cXlTZ2xQTjZ1QUlCNnJHa2tkcmYyRFpCNmg3dHFTR1llLUFLZG5yZjF1LWVIU3p3R1YzQW5ReW10WElLeG9xQWlyX3h5RXViYlY3b0E?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNMFFnQ1ZFcTlDWXkzWnJMb0lURklNa2hMRXVEMmZ6dW9wYzFmaWJhUEdDRjVjYnA1RTRWZDF5cXlTZ2xQTjZ1QUlCNnJHa2tkcmYyRFpCNmg3dHFTR1llLUFLZG5yZjF1LWVIU3p3R1YzQW5ReW10WElLeG9xQWlyX3h5RXViYlY3b0E?oc=5\" target=\"_blank\"&gt;:Harvey: Expands Collaboration with Microsoft on Legal AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
       "published": "2026-07-23T07:00:00.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 5
+    },
+    {
+      "title": "Big AI v Big Law — Jude Law, Harvey Specter and why the legal AI arms race is only just beginning - Law Society of Scotland",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQT2dndHk0NjZaYkQwdjF5Sy1KN2doNzRSc3Q1anFiOVJRc3RxME81NURrOGt3WjNsbVVzNVlnQ1NaUmZBT0J4ajlYOS1CemoyRWJpY1p1RTJQODVHQ0xwZ09EUzZFYzVUUlhOckROTG1EOWVTR3MycFdXVXlkUXRyUUIxaFBseXEydlVkNkg2MHVMcVVvLURHS3U4Z0loZ2wwLWNfUlpOSlhuemNYVUcwelNDVkd6M08zUExNN2RkTWpObWJkZ0d0c0lmQUM5bGJMbWQ2Uzk3M3d6SWw0VUhxaF9ZdzZjZw?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQT2dndHk0NjZaYkQwdjF5Sy1KN2doNzRSc3Q1anFiOVJRc3RxME81NURrOGt3WjNsbVVzNVlnQ1NaUmZBT0J4ajlYOS1CemoyRWJpY1p1RTJQODVHQ0xwZ09EUzZFYzVUUlhOckROTG1EOWVTR3MycFdXVXlkUXRyUUIxaFBseXEydlVkNkg2MHVMcVVvLURHS3U4Z0loZ2wwLWNfUlpOSlhuemNYVUcwelNDVkd6M08zUExNN2RkTWpObWJkZ0d0c0lmQUM5bGJMbWQ2Uzk3M3d6SWw0VUhxaF9ZdzZjZw?oc=5\" target=\"_blank\"&gt;Big AI v Big Law — Jude Law, Harvey Specter and why the legal AI arms race is only just beginning&lt;/a&gt;&amp",
+      "published": "2026-07-09T12:56:28.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
@@ -455,30 +479,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zZHJ6eEprZWRhRzhBWGZJWGcyRlJpeDFGXy1lajBZOERVR0VjSFotWjhVSF93TkV6cU84TDRUY2NESHFoZ0QteHZ6N2VFXzdaOUNNWW1naTZXTmU2T2ZMLQ?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zZHJ6eEprZWRhRzhBWGZJWGcyRlJpeDFGXy1lajBZOERVR0VjSFotWjhVSF93TkV6cU84TDRUY2NESHFoZ0QteHZ6N2VFXzdaOUNNWW1naTZXTmU2T2ZMLQ?oc=5\" target=\"_blank\"&gt;【6027.T FY2027 Q1 Earnings Call】LegalBrain Agent ARR Surges 3.8x in Four Months, Revenue Jumps 27% to Record High Profit&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;finance.biggo.com&lt;/font&gt;",
       "published": "2026-08-12T13:35:00.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 5
-    },
-    {
-      "title": "AI Co. Anthropic Hires Legal Lead For Claude Chatbot - Law360",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN3RwLU9UTnpKTlZoQ3R1MFAyUjZhOW5zMlVRNkROcnBnVzFMbGxvZjRfTm9DZm9uWmRNUTc3eXE0a2tNYlBEbTdMWWFSS0toQkxtRGhFMUpORU9pOTZSUnJHMEFFbC1rNWpNc0Vqbmlkd2V5amJIeGs1LXN4WkNmZmpVa3k5Sk50VC1PbTIzZEhiZnpjRVNhTGRVb2twUdIBXkFVX3lxTFByQXlobHp2RWctdXg5QTFDVExUb1pyMlpNUkp6VUxjUklwM3VmNlRpOTRSLWdwV1RIM1hSSnEwVUhGWVlYUVJUM3Qyb0ZzUDVMS1ppdWQzZUZQTmQyVmc?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNN3RwLU9UTnpKTlZoQ3R1MFAyUjZhOW5zMlVRNkROcnBnVzFMbGxvZjRfTm9DZm9uWmRNUTc3eXE0a2tNYlBEbTdMWWFSS0toQkxtRGhFMUpORU9pOTZSUnJHMEFFbC1rNWpNc0Vqbmlkd2V5amJIeGs1LXN4WkNmZmpVa3k5Sk50VC1PbTIzZEhiZnpjRVNhTGRVb2twUdIBXkFVX3lxTFByQXlobHp2RWctdXg5QTFDVExUb1pyMlpNUkp6VUxjUklwM3VmNlRpOTRSLWdwV1RIM1hSSnEwVUhGWVlYUVJUM3Qyb0ZzUDVMS1ppdWQzZUZQTmQyVmc?oc=5\" target=\"_blank\"&gt;AI Co. Anthropic Hires Legal Lead For Claude Chatbot&lt;/a&gt;&amp;nbsp;&amp;n",
-      "published": "2026-08-07T19:29:00.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 5
-    },
-    {
-      "title": "What Legal AI Benchmarks Reveal That Model Names Don’t - artificiallawyer.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUDVZYWQ2dy05eC1DNmZnQ09zb0xYcG9ZeFkwNkFzd3VHS2hBTEt6WTZpcVcxd2E2VjVPUzlXM1B0azl3VG9mLU1OQk1oMXVUN3RqRDlYVzF2MjZfSHdXa25NYl9JVzI2RzljWUhHd3BIYk52OEpXZUtjVDZ4OGRNal96UXAxWV9tMnc4aHd1UmNBREg2NlEwTGQwN1hXeWc?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPUDVZYWQ2dy05eC1DNmZnQ09zb0xYcG9ZeFkwNkFzd3VHS2hBTEt6WTZpcVcxd2E2VjVPUzlXM1B0azl3VG9mLU1OQk1oMXVUN3RqRDlYVzF2MjZfSHdXa25NYl9JVzI2RzljWUhHd3BIYk52OEpXZUtjVDZ4OGRNal96UXAxWV9tMnc4aHd1UmNBREg2NlEwTGQwN1hXeWc?oc=5\" target=\"_blank\"&gt;What Legal AI Benchmarks Reveal That Model Names Don’t&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;artificiallawyer.com&lt;/font&gt;",
-      "published": "2026-06-22T07:00:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
