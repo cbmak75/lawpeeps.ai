@@ -1,24 +1,24 @@
 {
-  "generated": "2026-08-13T09:00:25.111Z",
+  "generated": "2026-08-13T10:50:43.783Z",
   "cycle_type": "triage",
   "tier_filter": "A",
   "shortlist_size": 1,
   "prefilter": {
     "total": 40,
-    "accepted": 1,
+    "accepted": 2,
     "borderline": 0,
-    "rejected": 39,
-    "rejected_as_duplicate": 39,
-    "accept_rate": 3
+    "rejected": 38,
+    "rejected_as_duplicate": 38,
+    "accept_rate": 5
   },
   "model": "gemini-flash-lite-latest",
   "picks": [
     {
-      "id": "google-news-contract-ai-0",
+      "id": "google-news-legal-tech-funding-0",
       "score": 3,
-      "category": "Adoption",
-      "suggested_angle": "BHSN integrates contract AI 'Allibee' with Hancom Office for document drafting review.",
-      "why_now": "Low-value syndication piece with little relevance to core UK/US legal tech focus or our watchlist.",
+      "category": "Funding",
+      "suggested_angle": "Legora talks touch $10B valuation mark",
+      "why_now": "Reported funding rumor lacks primary source confirmation and has a dubious valuation scale.",
       "verdict": "drop",
       "duplicate_of": null
     }
@@ -27,12 +27,12 @@
     "enqueue_count": 0,
     "watch_count": 0,
     "drop_count": 1,
-    "notes": "Dropped low-value syndicated contract AI press release."
+    "notes": "Dropped unverified valuation rumor lacking primary source backing."
   },
   "enqueued": 0,
   "usage": {
-    "input_tokens": 2342,
-    "output_tokens": 186,
-    "total_tokens": 2528
+    "input_tokens": 2346,
+    "output_tokens": 172,
+    "total_tokens": 2518
   }
 }
