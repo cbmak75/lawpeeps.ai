@@ -1,15 +1,38 @@
 {
-  "generated": "2026-08-13T00:58:19.066Z",
+  "generated": "2026-08-13T01:25:28.597Z",
   "cycle_type": "triage",
-  "shortlist_size": 0,
-  "picks": [],
+  "tier_filter": "B",
+  "shortlist_size": 1,
   "prefilter": {
     "total": 40,
-    "accepted": 1,
+    "accepted": 15,
     "borderline": 0,
-    "rejected": 39,
-    "rejected_as_duplicate": 39,
-    "accept_rate": 3
+    "rejected": 25,
+    "rejected_as_duplicate": 25,
+    "accept_rate": 38
   },
-  "skipped_already_triaged": 1
+  "model": "gemini-flash-lite-latest",
+  "picks": [
+    {
+      "id": "legal-futures-0",
+      "score": 3,
+      "category": "Social",
+      "suggested_angle": "Survey reveals ongoing public ignorance around whiplash reform rules and limitation periods.",
+      "why_now": "General legal consumer awareness survey with no direct connection to legal AI, regulation, or technology trends.",
+      "verdict": "drop",
+      "duplicate_of": null
+    }
+  ],
+  "summary": {
+    "enqueue_count": 0,
+    "watch_count": 0,
+    "drop_count": 1,
+    "notes": "Dropped non-AI legal consumer survey piece as it falls outside the core editorial focus on legal tech and AI."
+  },
+  "enqueued": 0,
+  "usage": {
+    "input_tokens": 2168,
+    "output_tokens": 186,
+    "total_tokens": 2354
+  }
 }
