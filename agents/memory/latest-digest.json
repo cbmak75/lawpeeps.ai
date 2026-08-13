@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-13T17:48:04.269Z",
+  "generated": "2026-08-13T18:44:59.037Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 686,
+  "total_scanned": 687,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -17,6 +17,18 @@
       "source_tier": "A",
       "source_category": "Aggregator",
       "relevance_score": 13
+    },
+    {
+      "title": "Legal AI Arms Race: Legora Eyes $10B, Harvey Nears $15.5B in One Month - techtimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORVlBanZJWk1sM0g2N3NDVzNuRlpqRzZlR3lvNkdERVd2dnZ4YVpHS0RQdTVmQ0IySG84MFFZZzNqSlNDbDREZFBXdFV5NUJxRjVFUlkwU19sSGZFSDlRenF3RDRadFZvSzFtSDRCNjBoVlV3ejhBanR4dU5fWm5NX1NpQmJOYmtNWTUzU0VrcGRFMUZKYy0zbk1IODd5TzhIU19aam9fcy1OVVFCdVFISmFPMmVvR0dN?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxORVlBanZJWk1sM0g2N3NDVzNuRlpqRzZlR3lvNkdERVd2dnZ4YVpHS0RQdTVmQ0IySG84MFFZZzNqSlNDbDREZFBXdFV5NUJxRjVFUlkwU19sSGZFSDlRenF3RDRadFZvSzFtSDRCNjBoVlV3ejhBanR4dU5fWm5NX1NpQmJOYmtNWTUzU0VrcGRFMUZKYy0zbk1IODd5TzhIU19aam9fcy1OVVFCdVFISmFPMmVvR0dN?oc=5\" target=\"_blank\"&gt;Legal AI Arms Race: Legora Eyes $10B, Harvey Nears $15.5B in One Month&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;techtimes.com&lt;/font&gt;",
+      "published": "2026-08-13T18:08:44.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 9
     },
     {
       "title": "Harvey Forum + Shared Spaces, Clio, Spellbook, Legal Innovators - Artificial Lawyer",
@@ -115,6 +127,18 @@
       "relevance_score": 8
     },
     {
+      "title": "DeepJudge Releases an Open Protocol for Passing Users – and Their Context – Between AI Products, with Harvey and Thomson Reuters On Board - LawSites | by Robert Ambrogi",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOZERSVk1RNXZ3bEZqbU9TbHh3RENuOTFwZXhZeGw4azFFN3V4QXc3Y0FHd19Jc0pXYlZvRFhWZGFCa2N3dmFvV0liTXlzdzY4Z3VPbGRtcXNtUnkySF9VVkRWSFRWaFd4RW1pM3JEZktWalhnN3l6UGdscEJ1V0FOMGtDQzZpNXY2dWpkWldkUFFBbzFXbFU3TnFnMTY5cnZWRWxtYTdFV2VhM2plM3BWcEFKbnJPUlU5YUJvWk1SUl9YSmFfa3UzVmRJeUduQ083clVDT3Z6bjFQNEZYTVA2Y21RVDhTNGU2QmFibEVSc1YwS0ZMaTYzS2QxeEpwUQ?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxOZERSVk1RNXZ3bEZqbU9TbHh3RENuOTFwZXhZeGw4azFFN3V4QXc3Y0FHd19Jc0pXYlZvRFhWZGFCa2N3dmFvV0liTXlzdzY4Z3VPbGRtcXNtUnkySF9VVkRWSFRWaFd4RW1pM3JEZktWalhnN3l6UGdscEJ1V0FOMGtDQzZpNXY2dWpkWldkUFFBbzFXbFU3TnFnMTY5cnZWRWxtYTdFV2VhM2plM3BWcEFKbnJPUlU5YUJvWk1SUl9YSmFfa3UzVmRJeUduQ083clVDT3Z6bjFQNEZYTVA2Y21RVDhTNGU2QmFibEVSc1YwS0ZMaTYzS2QxeEpwUQ?oc=5\" target=\"_blank\"&gt;DeepJudge Releases an Open Protocol for Passing Users – and Their Context – Bet",
+      "published": "2026-08-13T13:00:21.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 7
+    },
+    {
       "title": "Agentic AI transforming how families access and bolster legal help - App Developer Magazine",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ3FuR280RkxhbURDR3ZMX2JDT0dkN2N3RGgxZGFYalZ3MXhlMXozYmxhZHRIX0V6NGFBWlVtSDBGT3Z1U0VzX1NnRDhhZzAzc2xSRnE0X3V6ODh5WEE5QlpRM3BpY2NTaVhGczRmVVJSdktEMW1zN2JwdVZsRmNXaElXcWIxRXhtRWRCU2lhNDdQTjFPZ2lvMF9aNlJfV0lDaUE?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ3FuR280RkxhbURDR3ZMX2JDT0dkN2N3RGgxZGFYalZ3MXhlMXozYmxhZHRIX0V6NGFBWlVtSDBGT3Z1U0VzX1NnRDhhZzAzc2xSRnE0X3V6ODh5WEE5QlpRM3BpY2NTaVhGczRmVVJSdktEMW1zN2JwdVZsRmNXaElXcWIxRXhtRWRCU2lhNDdQTjFPZ2lvMF9aNlJfV0lDaUE?oc=5\" target=\"_blank\"&gt;Agentic AI transforming how families access and bolster legal help&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;App Developer Magazine&lt;/font&gt;",
@@ -163,10 +187,10 @@
       "relevance_score": 7
     },
     {
-      "title": "GC AI buys Jetify to strengthen infrastructure behind its legal AI tools - Dealroom",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNck9JSlZHMFp6M2JyVmJMcFVEc0k2RW5zbE5iV2I5elpGNXUxQ3AtcE9IMFYyTXVoSG9oUVpaVWhuN2FsZ3NtaU1XNHdrTHZ2UXhrYU13M0ZZTWpRVGxJN01WbXVaRFY2dnBGVW1tcURIYV93YkNZWVZlT29YS3dtRFB0TldWSWF3SVlybWFFbWVJLVZRb1I2UXdERkhIdlBXQkpIVzVwMXlJZw?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNck9JSlZHMFp6M2JyVmJMcFVEc0k2RW5zbE5iV2I5elpGNXUxQ3AtcE9IMFYyTXVoSG9oUVpaVWhuN2FsZ3NtaU1XNHdrTHZ2UXhrYU13M0ZZTWpRVGxJN01WbXVaRFY2dnBGVW1tcURIYV93YkNZWVZlT29YS3dtRFB0TldWSWF3SVlybWFFbWVJLVZRb1I2UXdERkhIdlBXQkpIVzVwMXlJZw?oc=5\" target=\"_blank\"&gt;GC AI buys Jetify to strengthen infrastructure behind its legal AI tools&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Dealroom&lt;/font&gt;",
-      "published": "2026-08-13T12:36:35.000Z",
+      "title": "Most Legal AI Pilots Fail. The Legal Teams That Succeed Share One Thing. - Law.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZmJ5Y0FEQUZVNW9IQzlITjFPcDYyQ3dBMTByX3JSX1dGT2o1SE15aEhDejczWkN6S1pPamljbDlKVXNuQWVORElKVHZLRjNuQjdZVUNzWW85dXVyanMzUk5qcE12R3htWUl0SVJoZ3ZpVnVuM3dhSkRBUkNpS253ZXhWVGhuODE1cEM2WTNVYjNxc0tVcHFKQlBxaE5tNklNWmg5RnVSRDA0OVdrVG4zM2RRX190Y2FpU1hzTnlabjJOUQ?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZmJ5Y0FEQUZVNW9IQzlITjFPcDYyQ3dBMTByX3JSX1dGT2o1SE15aEhDejczWkN6S1pPamljbDlKVXNuQWVORElKVHZLRjNuQjdZVUNzWW85dXVyanMzUk5qcE12R3htWUl0SVJoZ3ZpVnVuM3dhSkRBUkNpS253ZXhWVGhuODE1cEM2WTNVYjNxc0tVcHFKQlBxaE5tNklNWmg5RnVSRDA0OVdrVG4zM2RRX190Y2FpU1hzTnlabjJOUQ?oc=5\" target=\"_blank\"&gt;Most Legal AI Pilots Fail. The Legal Teams That Succeed Share One Thing.&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Law.com&lt;/font&gt;",
+      "published": "2026-08-13T14:39:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
@@ -403,9 +427,9 @@
       "relevance_score": 5
     },
     {
-      "title": "Legal AI startup Harvey reportedly raising $500M at $15.5B valuation - SiliconANGLE",
+      "title": "Legal AI startup Harvey reportedly raising $500M at $15.5B valuation - siliconangle.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPemdSS3lCX0t1RTdsS2M2VjE1RTFhenNnZlVVVnVlUXFSaXpHbWdILUlpV2R2dXZxcDQteFIxUGxKa0QyMDRMb2NmU0NxSGdFYnU2VW4zUWU2QWRNNDVKcXdCTTJnMjdOU2hWb01JSzN1S2FRQlF4QXlwUFluSzhlZHBSc09GNFRKVUZ6dzhtM0NpTWoxSlJBTFNPeG9FNkVhNXc?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPemdSS3lCX0t1RTdsS2M2VjE1RTFhenNnZlVVVnVlUXFSaXpHbWdILUlpV2R2dXZxcDQteFIxUGxKa0QyMDRMb2NmU0NxSGdFYnU2VW4zUWU2QWRNNDVKcXdCTTJnMjdOU2hWb01JSzN1S2FRQlF4QXlwUFluSzhlZHBSc09GNFRKVUZ6dzhtM0NpTWoxSlJBTFNPeG9FNkVhNXc?oc=5\" target=\"_blank\"&gt;Legal AI startup Harvey reportedly raising $500M at $15.5B valuation&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;SiliconANGLE&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPemdSS3lCX0t1RTdsS2M2VjE1RTFhenNnZlVVVnVlUXFSaXpHbWdILUlpV2R2dXZxcDQteFIxUGxKa0QyMDRMb2NmU0NxSGdFYnU2VW4zUWU2QWRNNDVKcXdCTTJnMjdOU2hWb01JSzN1S2FRQlF4QXlwUFluSzhlZHBSc09GNFRKVUZ6dzhtM0NpTWoxSlJBTFNPeG9FNkVhNXc?oc=5\" target=\"_blank\"&gt;Legal AI startup Harvey reportedly raising $500M at $15.5B valuation&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;siliconangle.com&lt;/font&gt;",
       "published": "2026-08-07T23:15:50.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
@@ -457,30 +481,6 @@
       "published": "2026-03-10T15:53:49.000Z",
       "source_id": "google-news-law-firm-ai",
       "source_name": "Google News: law firm AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 5
-    },
-    {
-      "title": "Legal Tech Roundup: NYAI, Harvey, Legora - law360.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb0N4eVpRMWtnTExmcjA1QjFLeHUxUFgwOVhzb1lGaUl0T1MzSUpreDl4ZkJYTDF0aWFsTW93LXRaMWdaTXlaNWhESWN4ZHdXZGphOTV3MHpHbk5icTZZYlBOYndpbE8xZnpHbWt1U0h2b2pPbmpMaTFMUDNaeFBqQXZTRTI4elRGMnBJ0gFeQVVfeXFMTU15WUhaQmc3SGkyb1UzRUpCR2xMdFdKYmY3dHFuMDlrSnJNamxXRHR4bzBUZEt1Vm5KZkxld2gtR1UtVmxqdVJCdnJ4VXJwQXRGUkdNQkFuNHhSbE01UQ?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb0N4eVpRMWtnTExmcjA1QjFLeHUxUFgwOVhzb1lGaUl0T1MzSUpreDl4ZkJYTDF0aWFsTW93LXRaMWdaTXlaNWhESWN4ZHdXZGphOTV3MHpHbk5icTZZYlBOYndpbE8xZnpHbWt1U0h2b2pPbmpMaTFMUDNaeFBqQXZTRTI4elRGMnBJ0gFeQVVfeXFMTU15WUhaQmc3SGkyb1UzRUpCR2xMdFdKYmY3dHFuMDlrSnJNamxXRHR4bzBUZEt1Vm5KZkxld2gtR1UtVmxqdVJCdnJ4VXJwQXRGUkdNQkFuNHhSbE01UQ?oc=5\" target=\"_blank\"&gt;Legal Tech Roundup: NYAI, Harvey, Legora&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;law36",
-      "published": "2026-08-07T18:18:00.000Z",
-      "source_id": "google-news-legal-tech-funding",
-      "source_name": "Google News: legal tech funding",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 5
-    },
-    {
-      "title": "Legal Tech Wordsmith AI Raises $70 Million, Plans US Expansion - Bloomberg Law News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWjNuTklNNjlCMjlCMHNYUUVHUkI2d003eHdCdDFWRTdrWlJyZ1pYTEJhVGsxTHNMamoyaFRHMF9sa0NIa1JLQ1dCbXhEdDR0cEw4WEt6YVFLWlZZekt2Ul9rODQ4TDdmaEVIM1JlT1REUlVzc1o0STdsZXY3czYwWExXdXlCb05XcV9lQV9pb2o0T0s2Z3JZc1loNFNIQ18xYzRETm1oZTNqcXpLWHc?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPWjNuTklNNjlCMjlCMHNYUUVHUkI2d003eHdCdDFWRTdrWlJyZ1pYTEJhVGsxTHNMamoyaFRHMF9sa0NIa1JLQ1dCbXhEdDR0cEw4WEt6YVFLWlZZekt2Ul9rODQ4TDdmaEVIM1JlT1REUlVzc1o0STdsZXY3czYwWExXdXlCb05XcV9lQV9pb2o0T0s2Z3JZc1loNFNIQ18xYzRETm1oZTNqcXpLWHc?oc=5\" target=\"_blank\"&gt;Legal Tech Wordsmith AI Raises $70 Million, Plans US Expansion&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Bloomberg Law News&lt;/font&gt;",
-      "published": "2026-06-03T07:00:00.000Z",
-      "source_id": "google-news-legal-tech-funding",
-      "source_name": "Google News: legal tech funding",
       "source_priority": "critical",
       "source_tier": "A",
       "source_category": "Aggregator",
