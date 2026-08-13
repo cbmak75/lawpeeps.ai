@@ -1,38 +1,65 @@
 {
-  "generated": "2026-08-13T12:41:37.041Z",
+  "generated": "2026-08-13T12:57:32.540Z",
   "cycle_type": "triage",
-  "tier_filter": "A",
-  "shortlist_size": 1,
+  "tier_filter": "B",
+  "shortlist_size": 4,
   "prefilter": {
     "total": 40,
-    "accepted": 3,
+    "accepted": 22,
     "borderline": 0,
-    "rejected": 37,
-    "rejected_as_duplicate": 37,
-    "accept_rate": 8
+    "rejected": 18,
+    "rejected_as_duplicate": 18,
+    "accept_rate": 55
   },
   "model": "gemini-flash-lite-latest",
   "picks": [
     {
-      "id": "google-news-legal-ai-0",
-      "score": 7,
-      "category": "Funding",
-      "suggested_angle": "GC AI's acquisition of Jetify signals a push toward vertical infrastructure control in legal tech.",
-      "why_now": "M&A activity in the legal AI infrastructure layer highlights consolidation as startups move to secure core processing tech.",
-      "verdict": "enqueue",
+      "id": "ars-technica-ai-0",
+      "score": 5,
+      "category": "Legal AI",
+      "suggested_angle": "Anthropic's new invisible watermarks for Claude raise traceability questions for legal drafting and AI-assisted contract review.",
+      "why_now": "General AI model watermarking developments have direct compliance and provenance implications for lawyers using AI tools.",
+      "verdict": "watch",
+      "duplicate_of": null
+    },
+    {
+      "id": "law-society-gazette-1",
+      "score": 4,
+      "category": "Social",
+      "suggested_angle": "Law A-level popularity surges among female students, shifting the demographics of the future legal pipeline.",
+      "why_now": "Provides domestic demographic context on future law student pipelines in the UK.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-2",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "Too niche and irrelevant to core legal AI focus.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-3",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "General video anomaly detection paper with no direct legal or regulatory nexus.",
+      "verdict": "drop",
       "duplicate_of": null
     }
   ],
   "summary": {
-    "enqueue_count": 1,
-    "watch_count": 0,
-    "drop_count": 0,
-    "notes": "Processed single shortlist item regarding infrastructure M&A in legal AI."
+    "enqueue_count": 0,
+    "watch_count": 1,
+    "drop_count": 3,
+    "notes": "No items meet the strict threshold for immediate publication; one general AI story kept on watch."
   },
-  "enqueued": 1,
+  "enqueued": 0,
   "usage": {
-    "input_tokens": 2385,
-    "output_tokens": 187,
-    "total_tokens": 2572
+    "input_tokens": 2638,
+    "output_tokens": 461,
+    "total_tokens": 3099
   }
 }
