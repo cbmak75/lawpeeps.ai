@@ -1,38 +1,15 @@
 {
-  "generated": "2026-08-14T01:25:14.456Z",
+  "generated": "2026-08-14T03:21:44.284Z",
   "cycle_type": "triage",
-  "tier_filter": "B",
-  "shortlist_size": 1,
+  "shortlist_size": 0,
+  "picks": [],
   "prefilter": {
     "total": 40,
-    "accepted": 11,
-    "borderline": 1,
-    "rejected": 28,
-    "rejected_as_duplicate": 28,
-    "accept_rate": 28
+    "accepted": 0,
+    "borderline": 0,
+    "rejected": 40,
+    "rejected_as_duplicate": 40,
+    "accept_rate": 0
   },
-  "model": "gemini-flash-lite-latest",
-  "picks": [
-    {
-      "id": "hacker-news-0",
-      "score": 3,
-      "category": "Research",
-      "suggested_angle": "How AI text watermarking works technically",
-      "why_now": "Too general and lacks a specific legal, regulatory, or immigration angle to justify coverage on lawpeeps.ai.",
-      "verdict": "drop",
-      "duplicate_of": null
-    }
-  ],
-  "summary": {
-    "enqueue_count": 0,
-    "watch_count": 0,
-    "drop_count": 1,
-    "notes": "Dropped general tech article lacking a legal nexus."
-  },
-  "enqueued": 0,
-  "usage": {
-    "input_tokens": 2130,
-    "output_tokens": 171,
-    "total_tokens": 2301
-  }
+  "skipped_already_triaged": 0
 }
