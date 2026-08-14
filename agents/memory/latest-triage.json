@@ -1,38 +1,15 @@
 {
-  "generated": "2026-08-14T14:07:06.219Z",
+  "generated": "2026-08-14T15:40:16.939Z",
   "cycle_type": "triage",
-  "tier_filter": "A",
-  "shortlist_size": 1,
+  "shortlist_size": 0,
+  "picks": [],
   "prefilter": {
     "total": 40,
-    "accepted": 1,
+    "accepted": 0,
     "borderline": 0,
-    "rejected": 39,
-    "rejected_as_duplicate": 39,
-    "accept_rate": 3
+    "rejected": 40,
+    "rejected_as_duplicate": 40,
+    "accept_rate": 0
   },
-  "model": "gemini-flash-lite-latest",
-  "picks": [
-    {
-      "id": "google-news-contract-ai-0",
-      "score": 3,
-      "category": "Legal AI",
-      "suggested_angle": "BHSN integrates contract AI into Hancom Office 2024",
-      "why_now": "Localized office suite integration with niche regional software lacks direct relevance to our UK/US legal tech and regulation focus.",
-      "verdict": "drop",
-      "duplicate_of": null
-    }
-  ],
-  "summary": {
-    "enqueue_count": 0,
-    "watch_count": 0,
-    "drop_count": 1,
-    "notes": "Dropped regional office suite integration story due to lack of UK/US relevance and low editorial fit."
-  },
-  "enqueued": 0,
-  "usage": {
-    "input_tokens": 2319,
-    "output_tokens": 187,
-    "total_tokens": 2506
-  }
+  "skipped_already_triaged": 0
 }

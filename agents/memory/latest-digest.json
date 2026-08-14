@@ -1,15 +1,15 @@
 {
-  "generated": "2026-08-14T14:07:04.845Z",
+  "generated": "2026-08-14T15:40:16.907Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 689,
+  "total_scanned": 690,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
     {
-      "title": "Claude is getting a watermark. That could matter for every law firm using AI - Non-Billable",
+      "title": "Claude is getting a watermark. That could matter for every law firm using AI - nonbillable.co.uk",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUXZYMkxKWEcyM1RqT2oxdHpVaXBKc3VrYk83YVVTaEVaOVN0b0Z5SUhiN1pfRVcxUGY5alNEQ1hwVXBfWDBKSHdzMFNSZjlTMXpmaVZrX3dMT29QX245SGtJZ05ZOVBIZTNPZXA4YkdPLUQ2dHVsSFFfX0tQcVBJM1NsdC1rODJXWnlUNHItUllYdw?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNUXZYMkxKWEcyM1RqT2oxdHpVaXBKc3VrYk83YVVTaEVaOVN0b0Z5SUhiN1pfRVcxUGY5alNEQ1hwVXBfWDBKSHdzMFNSZjlTMXpmaVZrX3dMT29QX245SGtJZ05ZOVBIZTNPZXA4YkdPLUQ2dHVsSFFfX0tQcVBJM1NsdC1rODJXWnlUNHItUllYdw?oc=5\" target=\"_blank\"&gt;Claude is getting a watermark. That could matter for every law firm using AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Non-Billable&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNUXZYMkxKWEcyM1RqT2oxdHpVaXBKc3VrYk83YVVTaEVaOVN0b0Z5SUhiN1pfRVcxUGY5alNEQ1hwVXBfWDBKSHdzMFNSZjlTMXpmaVZrX3dMT29QX245SGtJZ05ZOVBIZTNPZXA4YkdPLUQ2dHVsSFFfX0tQcVBJM1NsdC1rODJXWnlUNHItUllYdw?oc=5\" target=\"_blank\"&gt;Claude is getting a watermark. That could matter for every law firm using AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;nonbillable.co.uk&lt;/font&gt;",
       "published": "2026-08-14T13:00:00.000Z",
       "source_id": "google-news-law-firm-ai",
       "source_name": "Google News: law firm AI",
@@ -139,10 +139,10 @@
       "relevance_score": 8
     },
     {
-      "title": "Legal Innovators New York, Spellbook, Vera + - Artificial Lawyer",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNY0hLNDlsYXEtcy1PeUxNU1B0THpQRVhZejhBc1pwejhYTkNyZm9WTDVfNEFoSjRnX29FbzgxZDRHb0szQmd0SDVUTjlEaDBWWExNQ2VqM2E2ZlVEUng4MzVnX2dIb0RvM2RaRUNBaTdUYUVkYmR1N2M0ejFpM2drUmRVekZuS2ZMVkRzWVJn?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNY0hLNDlsYXEtcy1PeUxNU1B0THpQRVhZejhBc1pwejhYTkNyZm9WTDVfNEFoSjRnX29FbzgxZDRHb0szQmd0SDVUTjlEaDBWWExNQ2VqM2E2ZlVEUng4MzVnX2dIb0RvM2RaRUNBaTdUYUVkYmR1N2M0ejFpM2drUmRVekZuS2ZMVkRzWVJn?oc=5\" target=\"_blank\"&gt;Legal Innovators New York, Spellbook, Vera +&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
-      "published": "2026-08-14T08:26:35.000Z",
+      "title": "DeepJudge, DISCO, Spellbook and Korbyt unveil new capabilities ahead of ILTACON - Legal IT Insider",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM3ZqcVc4VXJIdG96c2pFdnlUNUVYTnpQWU9zNlVSR1FCV1NXUnlmNWJ6MlItZTVQTjJVdHpUS25lUzlqQmFLWXV6a3FkTjNLQjVGaVlVcmlOR2VXMVdKalhzcnR1OGVLeFVINDFKZXVKakRSYWVmVE54YXREMS0zVFpLd2s5ZUFCUUhMbURMTTJGc0k4akNHVUhyZ1NpX09ldkQ5WUs4Qm9oQQ?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM3ZqcVc4VXJIdG96c2pFdnlUNUVYTnpQWU9zNlVSR1FCV1NXUnlmNWJ6MlItZTVQTjJVdHpUS25lUzlqQmFLWXV6a3FkTjNLQjVGaVlVcmlOR2VXMVdKalhzcnR1OGVLeFVINDFKZXVKakRSYWVmVE54YXREMS0zVFpLd2s5ZUFCUUhMbURMTTJGc0k4akNHVUhyZ1NpX09ldkQ5WUs4Qm9oQQ?oc=5\" target=\"_blank\"&gt;DeepJudge, DISCO, Spellbook and Korbyt unveil new capabilities ahead of ILTACON&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Legal IT Insider&lt;/font&gt;",
+      "published": "2026-08-14T15:05:52.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
@@ -187,34 +187,10 @@
       "relevance_score": 6
     },
     {
-      "title": "SmartVakheel.AI Wins Legal AI Innovation of the Year 2026 at Bespoke Legal Summit - indiagazette.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObFpra3Ewd2I0bUxKSWFWVnVyVXZ1SzRLQ1NXX3NGLWtlM0t4MlUyY2lBbGFUSUVpYmJISG4tV1cwWDNWbmI0a1FuSWR5VWkxV1BWQnY2QkVhWEJZY1AyeGplMGVPZ2VJR3VIR1JpY3VRd1dqNGZlNTNhZlE5bml0MGlsN1RDT1YtT0xlaEQwdFVBVHFIUGJKazJQRGxvX3R0bEJERk9veWo1Njl2YU9RaENXeENkS1c2OTY0VWJnWGkxdw?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxObFpra3Ewd2I0bUxKSWFWVnVyVXZ1SzRLQ1NXX3NGLWtlM0t4MlUyY2lBbGFUSUVpYmJISG4tV1cwWDNWbmI0a1FuSWR5VWkxV1BWQnY2QkVhWEJZY1AyeGplMGVPZ2VJR3VIR1JpY3VRd1dqNGZlNTNhZlE5bml0MGlsN1RDT1YtT0xlaEQwdFVBVHFIUGJKazJQRGxvX3R0bEJERk9veWo1Njl2YU9RaENXeENkS1c2OTY0VWJnWGkxdw?oc=5\" target=\"_blank\"&gt;SmartVakheel.AI Wins Legal AI Innovation of the Year 2026 at Bespoke Legal Summit&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;indiagazette.com&lt;",
-      "published": "2026-08-14T09:00:00.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
-    },
-    {
       "title": "Legal AI Arms Race: Legora Eyes $10B, Harvey Nears $15.5B in One Month - Tech Times",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORVlBanZJWk1sM0g2N3NDVzNuRlpqRzZlR3lvNkdERVd2dnZ4YVpHS0RQdTVmQ0IySG84MFFZZzNqSlNDbDREZFBXdFV5NUJxRjVFUlkwU19sSGZFSDlRenF3RDRadFZvSzFtSDRCNjBoVlV3ejhBanR4dU5fWm5NX1NpQmJOYmtNWTUzU0VrcGRFMUZKYy0zbk1IODd5TzhIU19aam9fcy1OVVFCdVFISmFPMmVvR0dN?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxORVlBanZJWk1sM0g2N3NDVzNuRlpqRzZlR3lvNkdERVd2dnZ4YVpHS0RQdTVmQ0IySG84MFFZZzNqSlNDbDREZFBXdFV5NUJxRjVFUlkwU19sSGZFSDlRenF3RDRadFZvSzFtSDRCNjBoVlV3ejhBanR4dU5fWm5NX1NpQmJOYmtNWTUzU0VrcGRFMUZKYy0zbk1IODd5TzhIU19aam9fcy1OVVFCdVFISmFPMmVvR0dN?oc=5\" target=\"_blank\"&gt;Legal AI Arms Race: Legora Eyes $10B, Harvey Nears $15.5B in One Month&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Tech Times&lt;/font&gt;",
       "published": "2026-08-13T18:08:44.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
-    },
-    {
-      "title": "SmartVakheel.AI Wins 'Legal AI Innovation of the Year 2026' - devdiscourse.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZDBtUEhaMTIwX0ZMX3FFV2lWZzl6SHNST21zbzhsVXlNVkZELXFQTFFBQWpaWWs5cGhFS2U2NThQX3ZfZVlzSXdfcWl3eFdIbi1nb19zN0czRXJra1J4RmpCN0tuT2lYX2t1ZjVSVFlDYmJDbzR1VUpWUTJtcm9XN0c3N2x3b3Iwb1lkcm1Sa19EMDRZNWlRWldzUEM4bXB1TkNsUUZTSHEzOGVLUENz0gG0AUFVX3lxTE9GNTVYNzFwMGVMOTN5YU9HTy1teDdBNmlUdmNHN2lYM05xNmtfSkV5bFh5dmt2Q0t6MGxNa1hPa1lVVHV6Qmt5cEFGemdFeUVFMTdlak5uaTMtVDlVMGVJVjg5aXlndFRYWVNadnliR3p3QzhpN0t6RHMtSWRUS2F5TkF6a1MwQkE3SjFXUVJfeFdBdHJCVDVMN3d4NENCT1dwUDlSUkRNMmp3MFhKc0Z6WVZodA?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNZDBtUEhaMTIwX0ZMX3FFV2lWZzl6SHNST21zbzhsVXlNVkZELXFQTFFBQWpaWWs5cGhFS2U2NThQX3ZfZVlzSXdfcWl3eFdIbi1nb19zN0czRXJra1J4RmpCN0tuT2lYX2t1ZjVSVFlDYmJDbzR1VUpWUTJtcm9XN0c3N2x3b3Iwb1lkcm1Sa19EMDRZNWlRWldzUEM4bXB1TkNsUUZTSHEzOGVLUENz0gG0AUFVX3lxTE9GNTVYNzFwMGVMOTN5YU9HTy1teDdBNmlUdmNHN2lYM05xNmtfSkV5bFh5dmt2Q0t6MGxNa1hPa1lVVHV6Qmt5cEFGemdFeUVFMTdlak5uaTMtVDlVMGVJVjg5aXlndFRYWVNadnliR3p3QzhpN0t6RHMtSWRUS2F5TkF6a1MwQkE3SjFXUVJfeFdBdHJCVDVMN3d",
-      "published": "2026-08-14T09:29:34.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
@@ -307,7 +283,7 @@
       "relevance_score": 6
     },
     {
-      "title": "Someone is Smoking Crack, or Harvey AI is Just a Proxy to Participate in an OpenAI $1 Trillion IPO? - Medium",
+      "title": "Someone is Smoking Crack, or Harvey AI is Just a Proxy to Participate in an OpenAI $1 Trillion IPO? - medium.com",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdTUxWl9Vcno3OFNsblRLb0YyVC1uS20xR256VDRpTnV0RFNWZ3gxREx5S3FGRk4zeV9LXzlOMDVubm1VWEJVMXdZQWluNklWaF9ObTRpaTJNbUtDUUduQ3RPV25xVGd0UXRkRjRNa1BzYzVqTXZua0FUYXpRZDNmN1FKNGpEbUN5YVh4V01HYkZITXpyVWtyYU91LTVnTWpyeFcxN2p3cTVkNWF0SzNUMzRDWDM1c29hU3JrWEE2VFRxay1Nc0R1WWlLb2hodkNSczVtTllnUHJ1a2x1?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdTUxWl9Vcno3OFNsblRLb0YyVC1uS20xR256VDRpTnV0RFNWZ3gxREx5S3FGRk4zeV9LXzlOMDVubm1VWEJVMXdZQWluNklWaF9ObTRpaTJNbUtDUUduQ3RPV25xVGd0UXRkRjRNa1BzYzVqTXZua0FUYXpRZDNmN1FKNGpEbUN5YVh4V01HYkZITXpyVWtyYU91LTVnTWpyeFcxN2p3cTVkNWF0SzNUMzRDWDM1c29hU3JrWEE2VFRxay1Nc0R1WWlLb2hodkNSczVtTllnUHJ1a2x1?oc=5\" target=\"_blank\"&gt;Someone is Smoking Crack, or Harvey AI is Just a Proxy to Participate in an OpenAI $1 Trillion IPO?&lt;/a&gt;&amp;nbsp;&amp;n",
       "published": "2025-10-31T07:00:00.000Z",
@@ -338,18 +314,6 @@
       "source_id": "google-news-harvey-luminance",
       "source_name": "Google News: Harvey OR Luminance",
       "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
-    },
-    {
-      "title": "BHSN Brings Contract AI to Hancom Office 2024 ‘Hangeul’ - thelec.net",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PbTkxa18xb1IzMjdwUFFsbmE0bjZ4MDR6VFFTMVJSbHRKTk5PakVsNXlUdjFKYlljZHk5cnJyRlpoaERsNExsLXV4emtJM1pZU0ZTaUdRM1VQY0hsUGlXSHhvdDlnUUU?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PbTkxa18xb1IzMjdwUFFsbmE0bjZ4MDR6VFFTMVJSbHRKTk5PakVsNXlUdjFKYlljZHk5cnJyRlpoaERsNExsLXV4emtJM1pZU0ZTaUdRM1VQY0hsUGlXSHhvdDlnUUU?oc=5\" target=\"_blank\"&gt;BHSN Brings Contract AI to Hancom Office 2024 ‘Hangeul’&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;thelec.net&lt;/font&gt;",
-      "published": "2026-08-14T09:21:26.000Z",
-      "source_id": "google-news-contract-ai",
-      "source_name": "Google News: contract AI",
-      "source_priority": "medium",
       "source_tier": "A",
       "source_category": "Aggregator",
       "relevance_score": 6
@@ -391,7 +355,7 @@
       "relevance_score": 6
     },
     {
-      "title": "This Open Source RP2040 Development Board Looks Like a Magic Spellbook - Hackster.io",
+      "title": "This Open Source RP2040 Development Board Looks Like a Magic Spellbook - hackster.io",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORnVSUlF6azgxa3lnMFFGVmU2dWdTeWRSOE1MV0JtdkViWVNhWkozazFKdy1Xb1FlS3RaTVRxeHExODhPdi1QY2I0UFVPMDdxX2hFdmpUUE5qeFpiX0xrNktLbUZ0Qm96ckY0UlI0enkyTmZVYmpQZmN2b3ByMV9zWnlGVFRnc3ZYLWdHQWdVU3U5WFJLb05YV2E0NlQzWHZCdUNXb2xnMmlsZnNtdzNhdnZ30gG3AUFVX3lxTE5FaHA3Szl0Z2N0ZWUySEJxOFVKUjdGeFdWcF96YUFqdXJpT2VJOG1pcUhwOXgtLWlHOWFXTGhxVVRJeTdZT21mLTJ3cmlydFJMT1hOX3ZhcDFkaUU5MWc5Z1FWV3Z1c2VFLU5pejVmai1Pa19hVUZ5ekc0YnFwWGlSWk9xbndOWVNTVm5FWUFkRE1DQjdoc0RiVnZFb0VjcU1PTS1QNkd4eHExV2ZwLUFVYVhHcHVqZw?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxORnVSUlF6azgxa3lnMFFGVmU2dWdTeWRSOE1MV0JtdkViWVNhWkozazFKdy1Xb1FlS3RaTVRxeHExODhPdi1QY2I0UFVPMDdxX2hFdmpUUE5qeFpiX0xrNktLbUZ0Qm96ckY0UlI0enkyTmZVYmpQZmN2b3ByMV9zWnlGVFRnc3ZYLWdHQWdVU3U5WFJLb05YV2E0NlQzWHZCdUNXb2xnMmlsZnNtdzNhdnZ30gG3AUFVX3lxTE5FaHA3Szl0Z2N0ZWUySEJxOFVKUjdGeFdWcF96YUFqdXJpT2VJOG1pcUhwOXgtLWlHOWFXTGhxVVRJeTdZT21mLTJ3cmlydFJMT1hOX3ZhcDFkaUU5MWc5Z1FWV3Z1c2VFLU5pejVmai1Pa19hVUZ5ekc0YnFwWGlSWk9xbndOWVNTVm5FWUFkRE1DQjdoc0R",
       "published": "2026-05-28T12:11:48.000Z",
@@ -403,9 +367,9 @@
       "relevance_score": 6
     },
     {
-      "title": "Spellbook on Track for US$100M ARR this Year - Entrevestor",
+      "title": "Spellbook on Track for US$100M ARR this Year - entrevestor.com",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41c1pKSUJCbkYtbXFsUmpLV1dfeGNxSlZtU1B0bEZ6U0tZOXlSVFp5U3V5LTR6RG01amxrNUp1bFhRT0FhVmhxeS1oNks4Q1pfcFpWYXFqcHdaM29XWUtGVjJCdzYydTR3dFNadWtpNEQ1YlRNX2tNOV9BU0U?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE41c1pKSUJCbkYtbXFsUmpLV1dfeGNxSlZtU1B0bEZ6U0tZOXlSVFp5U3V5LTR6RG01amxrNUp1bFhRT0FhVmhxeS1oNks4Q1pfcFpWYXFqcHdaM29XWUtGVjJCdzYydTR3dFNadWtpNEQ1YlRNX2tNOV9BU0U?oc=5\" target=\"_blank\"&gt;Spellbook on Track for US$100M ARR this Year&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Entrevestor&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE41c1pKSUJCbkYtbXFsUmpLV1dfeGNxSlZtU1B0bEZ6U0tZOXlSVFp5U3V5LTR6RG01amxrNUp1bFhRT0FhVmhxeS1oNks4Q1pfcFpWYXFqcHdaM29XWUtGVjJCdzYydTR3dFNadWtpNEQ1YlRNX2tNOV9BU0U?oc=5\" target=\"_blank\"&gt;Spellbook on Track for US$100M ARR this Year&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;entrevestor.com&lt;/font&gt;",
       "published": "2026-03-04T08:00:00.000Z",
       "source_id": "google-news-contract-ai",
       "source_name": "Google News: contract AI",
@@ -439,6 +403,18 @@
       "relevance_score": 5
     },
     {
+      "title": "Legal Innovators New York, Spellbook, Vera + - Artificial Lawyer",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNY0hLNDlsYXEtcy1PeUxNU1B0THpQRVhZejhBc1pwejhYTkNyZm9WTDVfNEFoSjRnX29FbzgxZDRHb0szQmd0SDVUTjlEaDBWWExNQ2VqM2E2ZlVEUng4MzVnX2dIb0RvM2RaRUNBaTdUYUVkYmR1N2M0ejFpM2drUmRVekZuS2ZMVkRzWVJn?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNY0hLNDlsYXEtcy1PeUxNU1B0THpQRVhZejhBc1pwejhYTkNyZm9WTDVfNEFoSjRnX29FbzgxZDRHb0szQmd0SDVUTjlEaDBWWExNQ2VqM2E2ZlVEUng4MzVnX2dIb0RvM2RaRUNBaTdUYUVkYmR1N2M0ejFpM2drUmRVekZuS2ZMVkRzWVJn?oc=5\" target=\"_blank\"&gt;Legal Innovators New York, Spellbook, Vera +&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
+      "published": "2026-08-14T08:26:35.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 5
+    },
+    {
       "title": ":Harvey: Expands Collaboration with Microsoft on Legal AI - Harvey",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMFFnQ1ZFcTlDWXkzWnJMb0lURklNa2hMRXVEMmZ6dW9wYzFmaWJhUEdDRjVjYnA1RTRWZDF5cXlTZ2xQTjZ1QUlCNnJHa2tkcmYyRFpCNmg3dHFTR1llLUFLZG5yZjF1LWVIU3p3R1YzQW5ReW10WElLeG9xQWlyX3h5RXViYlY3b0E?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNMFFnQ1ZFcTlDWXkzWnJMb0lURklNa2hMRXVEMmZ6dW9wYzFmaWJhUEdDRjVjYnA1RTRWZDF5cXlTZ2xQTjZ1QUlCNnJHa2tkcmYyRFpCNmg3dHFTR1llLUFLZG5yZjF1LWVIU3p3R1YzQW5ReW10WElLeG9xQWlyX3h5RXViYlY3b0E?oc=5\" target=\"_blank\"&gt;:Harvey: Expands Collaboration with Microsoft on Legal AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
@@ -463,10 +439,22 @@
       "relevance_score": 5
     },
     {
-      "title": "Legal AI startup Harvey reportedly raising $500M at $15.5B valuation - siliconangle.com",
+      "title": "Legal AI startup Harvey reportedly raising $500M at $15.5B valuation - SiliconANGLE",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPemdSS3lCX0t1RTdsS2M2VjE1RTFhenNnZlVVVnVlUXFSaXpHbWdILUlpV2R2dXZxcDQteFIxUGxKa0QyMDRMb2NmU0NxSGdFYnU2VW4zUWU2QWRNNDVKcXdCTTJnMjdOU2hWb01JSzN1S2FRQlF4QXlwUFluSzhlZHBSc09GNFRKVUZ6dzhtM0NpTWoxSlJBTFNPeG9FNkVhNXc?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPemdSS3lCX0t1RTdsS2M2VjE1RTFhenNnZlVVVnVlUXFSaXpHbWdILUlpV2R2dXZxcDQteFIxUGxKa0QyMDRMb2NmU0NxSGdFYnU2VW4zUWU2QWRNNDVKcXdCTTJnMjdOU2hWb01JSzN1S2FRQlF4QXlwUFluSzhlZHBSc09GNFRKVUZ6dzhtM0NpTWoxSlJBTFNPeG9FNkVhNXc?oc=5\" target=\"_blank\"&gt;Legal AI startup Harvey reportedly raising $500M at $15.5B valuation&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;siliconangle.com&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPemdSS3lCX0t1RTdsS2M2VjE1RTFhenNnZlVVVnVlUXFSaXpHbWdILUlpV2R2dXZxcDQteFIxUGxKa0QyMDRMb2NmU0NxSGdFYnU2VW4zUWU2QWRNNDVKcXdCTTJnMjdOU2hWb01JSzN1S2FRQlF4QXlwUFluSzhlZHBSc09GNFRKVUZ6dzhtM0NpTWoxSlJBTFNPeG9FNkVhNXc?oc=5\" target=\"_blank\"&gt;Legal AI startup Harvey reportedly raising $500M at $15.5B valuation&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;SiliconANGLE&lt;/font&gt;",
       "published": "2026-08-07T23:15:50.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 5
+    },
+    {
+      "title": "Bias is implicit in all AI, even legal AI - Daily Journal",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSThrZFpTUTF2YXMzdGNyNW1rYlFmcXlEZ0tkWG1QSHptcnlKVC1RTzF5em5JU3BGSVdSMlAzdXpDU0FxbUh0eEFqSXJNRUk4ZTJNRnVnQ3kySnNndjE2MVFmUGR3Qmh2R1NWUGVEcTZidmN2MjRMcUZLNmxoNWtMcEhJVU03b3V0VmpTNDRR?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPSThrZFpTUTF2YXMzdGNyNW1rYlFmcXlEZ0tkWG1QSHptcnlKVC1RTzF5em5JU3BGSVdSMlAzdXpDU0FxbUh0eEFqSXJNRUk4ZTJNRnVnQ3kySnNndjE2MVFmUGR3Qmh2R1NWUGVEcTZidmN2MjRMcUZLNmxoNWtMcEhJVU03b3V0VmpTNDRR?oc=5\" target=\"_blank\"&gt;Bias is implicit in all AI, even legal AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Daily Journal&lt;/font&gt;",
+      "published": "2026-08-12T21:15:49.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
@@ -479,6 +467,18 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQzJDM2Zxdks1eDYzTDNNZ1RuRXZ6Njh2SFFuVFFITmxhdF9lYzR3ZVRzZ1R6bEFnMHNNTHdodzJaVmxMNlZSWlp4S2xhY0VWdThHV3JQVktjNTlfUzE2QlhucDlTNFhhOTRCYUl2aDMyaHUzR3B4T2YtazktdnpmVFg4X0RJdkJqWFVQaVJNcDJsejF0YWpMelNkamhkbTQ4R0F0STdVTWpqRlBTMFBnUkF4R2s1U1d1NGVNYzFKcjFiTllL?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQQzJDM2Zxdks1eDYzTDNNZ1RuRXZ6Njh2SFFuVFFITmxhdF9lYzR3ZVRzZ1R6bEFnMHNNTHdodzJaVmxMNlZSWlp4S2xhY0VWdThHV3JQVktjNTlfUzE2QlhucDlTNFhhOTRCYUl2aDMyaHUzR3B4T2YtazktdnpmVFg4X0RJdkJqWFVQaVJNcDJsejF0YWpMelNkamhkbTQ4R0F0STdVTWpqRlBTMFBnUkF4R2s1U1d1NGVNYzFKcjFiTllL?oc=5\" target=\"_blank\"&gt;Harvey announces partnership with Swiss legal AI intelligence platform DeepJudge&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Global Legal Po",
       "published": "2026-05-21T07:00:00.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 5
+    },
+    {
+      "title": "Claude for Legal: What the industry needs to know - Legal IT Insider",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaTk1d0FIT01YOFFzWUlxSFh6cGZza21GcEx0VWY4VWNnd1FnNkx2eDE2ZFNPZmZadDRGVmZoSTBlSEJjR21fanp4MzNWTGF1QTR2SDlCdlNka25MU0kySG5oSUZQdnRnbDhPMHhyX3dlbFN0eFdFZkdEVEZ5OE5RSUJGNA?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOaTk1d0FIT01YOFFzWUlxSFh6cGZza21GcEx0VWY4VWNnd1FnNkx2eDE2ZFNPZmZadDRGVmZoSTBlSEJjR21fanp4MzNWTGF1QTR2SDlCdlNka25MU0kySG5oSUZQdnRnbDhPMHhyX3dlbFN0eFdFZkdEVEZ5OE5RSUJGNA?oc=5\" target=\"_blank\"&gt;Claude for Legal: What the industry needs to know&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Legal IT Insider&lt;/font&gt;",
+      "published": "2026-05-13T07:00:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
