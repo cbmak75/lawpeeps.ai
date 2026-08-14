@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-14T11:35:24.771Z",
+  "generated": "2026-08-14T12:37:22.672Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 691,
+  "total_scanned": 692,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -175,10 +175,10 @@
       "relevance_score": 6
     },
     {
-      "title": "Legal AI Arms Race: Legora Eyes $10B, Harvey Nears $15.5B in One Month - Tech Times",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORVlBanZJWk1sM0g2N3NDVzNuRlpqRzZlR3lvNkdERVd2dnZ4YVpHS0RQdTVmQ0IySG84MFFZZzNqSlNDbDREZFBXdFV5NUJxRjVFUlkwU19sSGZFSDlRenF3RDRadFZvSzFtSDRCNjBoVlV3ejhBanR4dU5fWm5NX1NpQmJOYmtNWTUzU0VrcGRFMUZKYy0zbk1IODd5TzhIU19aam9fcy1OVVFCdVFISmFPMmVvR0dN?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxORVlBanZJWk1sM0g2N3NDVzNuRlpqRzZlR3lvNkdERVd2dnZ4YVpHS0RQdTVmQ0IySG84MFFZZzNqSlNDbDREZFBXdFV5NUJxRjVFUlkwU19sSGZFSDlRenF3RDRadFZvSzFtSDRCNjBoVlV3ejhBanR4dU5fWm5NX1NpQmJOYmtNWTUzU0VrcGRFMUZKYy0zbk1IODd5TzhIU19aam9fcy1OVVFCdVFISmFPMmVvR0dN?oc=5\" target=\"_blank\"&gt;Legal AI Arms Race: Legora Eyes $10B, Harvey Nears $15.5B in One Month&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Tech Times&lt;/font&gt;",
-      "published": "2026-08-13T18:08:44.000Z",
+      "title": "SmartVakheel.AI Wins 'Legal AI Innovation of the Year 2026' - Devdiscourse",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZDBtUEhaMTIwX0ZMX3FFV2lWZzl6SHNST21zbzhsVXlNVkZELXFQTFFBQWpaWWs5cGhFS2U2NThQX3ZfZVlzSXdfcWl3eFdIbi1nb19zN0czRXJra1J4RmpCN0tuT2lYX2t1ZjVSVFlDYmJDbzR1VUpWUTJtcm9XN0c3N2x3b3Iwb1lkcm1Sa19EMDRZNWlRWldzUEM4bXB1TkNsUUZTSHEzOGVLUENz0gG0AUFVX3lxTE9GNTVYNzFwMGVMOTN5YU9HTy1teDdBNmlUdmNHN2lYM05xNmtfSkV5bFh5dmt2Q0t6MGxNa1hPa1lVVHV6Qmt5cEFGemdFeUVFMTdlak5uaTMtVDlVMGVJVjg5aXlndFRYWVNadnliR3p3QzhpN0t6RHMtSWRUS2F5TkF6a1MwQkE3SjFXUVJfeFdBdHJCVDVMN3d4NENCT1dwUDlSUkRNMmp3MFhKc0Z6WVZodA?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNZDBtUEhaMTIwX0ZMX3FFV2lWZzl6SHNST21zbzhsVXlNVkZELXFQTFFBQWpaWWs5cGhFS2U2NThQX3ZfZVlzSXdfcWl3eFdIbi1nb19zN0czRXJra1J4RmpCN0tuT2lYX2t1ZjVSVFlDYmJDbzR1VUpWUTJtcm9XN0c3N2x3b3Iwb1lkcm1Sa19EMDRZNWlRWldzUEM4bXB1TkNsUUZTSHEzOGVLUENz0gG0AUFVX3lxTE9GNTVYNzFwMGVMOTN5YU9HTy1teDdBNmlUdmNHN2lYM05xNmtfSkV5bFh5dmt2Q0t6MGxNa1hPa1lVVHV6Qmt5cEFGemdFeUVFMTdlak5uaTMtVDlVMGVJVjg5aXlndFRYWVNadnliR3p3QzhpN0t6RHMtSWRUS2F5TkF6a1MwQkE3SjFXUVJfeFdBdHJCVDVMN3d",
+      "published": "2026-08-14T09:29:34.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
@@ -187,10 +187,10 @@
       "relevance_score": 6
     },
     {
-      "title": "SmartVakheel.AI Wins 'Legal AI Innovation of the Year 2026' - Devdiscourse",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZDBtUEhaMTIwX0ZMX3FFV2lWZzl6SHNST21zbzhsVXlNVkZELXFQTFFBQWpaWWs5cGhFS2U2NThQX3ZfZVlzSXdfcWl3eFdIbi1nb19zN0czRXJra1J4RmpCN0tuT2lYX2t1ZjVSVFlDYmJDbzR1VUpWUTJtcm9XN0c3N2x3b3Iwb1lkcm1Sa19EMDRZNWlRWldzUEM4bXB1TkNsUUZTSHEzOGVLUENz0gG0AUFVX3lxTE9GNTVYNzFwMGVMOTN5YU9HTy1teDdBNmlUdmNHN2lYM05xNmtfSkV5bFh5dmt2Q0t6MGxNa1hPa1lVVHV6Qmt5cEFGemdFeUVFMTdlak5uaTMtVDlVMGVJVjg5aXlndFRYWVNadnliR3p3QzhpN0t6RHMtSWRUS2F5TkF6a1MwQkE3SjFXUVJfeFdBdHJCVDVMN3d4NENCT1dwUDlSUkRNMmp3MFhKc0Z6WVZodA?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNZDBtUEhaMTIwX0ZMX3FFV2lWZzl6SHNST21zbzhsVXlNVkZELXFQTFFBQWpaWWs5cGhFS2U2NThQX3ZfZVlzSXdfcWl3eFdIbi1nb19zN0czRXJra1J4RmpCN0tuT2lYX2t1ZjVSVFlDYmJDbzR1VUpWUTJtcm9XN0c3N2x3b3Iwb1lkcm1Sa19EMDRZNWlRWldzUEM4bXB1TkNsUUZTSHEzOGVLUENz0gG0AUFVX3lxTE9GNTVYNzFwMGVMOTN5YU9HTy1teDdBNmlUdmNHN2lYM05xNmtfSkV5bFh5dmt2Q0t6MGxNa1hPa1lVVHV6Qmt5cEFGemdFeUVFMTdlak5uaTMtVDlVMGVJVjg5aXlndFRYWVNadnliR3p3QzhpN0t6RHMtSWRUS2F5TkF6a1MwQkE3SjFXUVJfeFdBdHJCVDVMN3d",
-      "published": "2026-08-14T09:29:34.000Z",
+      "title": "Legal AI Arms Race: Legora Eyes $10B, Harvey Nears $15.5B in One Month - Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORVlBanZJWk1sM0g2N3NDVzNuRlpqRzZlR3lvNkdERVd2dnZ4YVpHS0RQdTVmQ0IySG84MFFZZzNqSlNDbDREZFBXdFV5NUJxRjVFUlkwU19sSGZFSDlRenF3RDRadFZvSzFtSDRCNjBoVlV3ejhBanR4dU5fWm5NX1NpQmJOYmtNWTUzU0VrcGRFMUZKYy0zbk1IODd5TzhIU19aam9fcy1OVVFCdVFISmFPMmVvR0dN?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxORVlBanZJWk1sM0g2N3NDVzNuRlpqRzZlR3lvNkdERVd2dnZ4YVpHS0RQdTVmQ0IySG84MFFZZzNqSlNDbDREZFBXdFV5NUJxRjVFUlkwU19sSGZFSDlRenF3RDRadFZvSzFtSDRCNjBoVlV3ejhBanR4dU5fWm5NX1NpQmJOYmtNWTUzU0VrcGRFMUZKYy0zbk1IODd5TzhIU19aam9fcy1OVVFCdVFISmFPMmVvR0dN?oc=5\" target=\"_blank\"&gt;Legal AI Arms Race: Legora Eyes $10B, Harvey Nears $15.5B in One Month&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Tech Times&lt;/font&gt;",
+      "published": "2026-08-13T18:08:44.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
@@ -415,10 +415,10 @@
       "relevance_score": 5
     },
     {
-      "title": "Legal AI startup Harvey reportedly raising $500M at $15.5B valuation - SiliconANGLE",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPemdSS3lCX0t1RTdsS2M2VjE1RTFhenNnZlVVVnVlUXFSaXpHbWdILUlpV2R2dXZxcDQteFIxUGxKa0QyMDRMb2NmU0NxSGdFYnU2VW4zUWU2QWRNNDVKcXdCTTJnMjdOU2hWb01JSzN1S2FRQlF4QXlwUFluSzhlZHBSc09GNFRKVUZ6dzhtM0NpTWoxSlJBTFNPeG9FNkVhNXc?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPemdSS3lCX0t1RTdsS2M2VjE1RTFhenNnZlVVVnVlUXFSaXpHbWdILUlpV2R2dXZxcDQteFIxUGxKa0QyMDRMb2NmU0NxSGdFYnU2VW4zUWU2QWRNNDVKcXdCTTJnMjdOU2hWb01JSzN1S2FRQlF4QXlwUFluSzhlZHBSc09GNFRKVUZ6dzhtM0NpTWoxSlJBTFNPeG9FNkVhNXc?oc=5\" target=\"_blank\"&gt;Legal AI startup Harvey reportedly raising $500M at $15.5B valuation&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;SiliconANGLE&lt;/font&gt;",
-      "published": "2026-08-07T23:15:50.000Z",
+      "title": "Anthropic’s expansion of legal AI tools is good for lawyers, experts say - The Global Legal Post",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON29yWkx6TnprRmNac3lObVViVmxxRnMxYk00MjJFOFFLdDBJOWtDY1R6ckxWa0tFTWgxY0ZvVzJGR2x5T09rX0hOVE1xM1ZUbVdSMHBnUVpsSmI3X2JucUFIUUdoUlplaEFCbXdjTHhpblYyM09jNkZtNlh4SzZtamM2em5LX19SdElfWU1EMUxITUljZUdHLWRUbjRWVTd6U0JVWVItaG83N2VyYTdzWHJYb0N5QVRrSXc?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxON29yWkx6TnprRmNac3lObVViVmxxRnMxYk00MjJFOFFLdDBJOWtDY1R6ckxWa0tFTWgxY0ZvVzJGR2x5T09rX0hOVE1xM1ZUbVdSMHBnUVpsSmI3X2JucUFIUUdoUlplaEFCbXdjTHhpblYyM09jNkZtNlh4SzZtamM2em5LX19SdElfWU1EMUxITUljZUdHLWRUbjRWVTd6U0JVWVItaG83N2VyYTdzWHJYb0N5QVRrSXc?oc=5\" target=\"_blank\"&gt;Anthropic’s expansion of legal AI tools is good for lawyers, experts say&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Global Legal Post&lt;/font&gt;",
+      "published": "2026-05-26T07:00:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
@@ -427,10 +427,10 @@
       "relevance_score": 5
     },
     {
-      "title": "Anthropic’s expansion of legal AI tools is good for lawyers, experts say - The Global Legal Post",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON29yWkx6TnprRmNac3lObVViVmxxRnMxYk00MjJFOFFLdDBJOWtDY1R6ckxWa0tFTWgxY0ZvVzJGR2x5T09rX0hOVE1xM1ZUbVdSMHBnUVpsSmI3X2JucUFIUUdoUlplaEFCbXdjTHhpblYyM09jNkZtNlh4SzZtamM2em5LX19SdElfWU1EMUxITUljZUdHLWRUbjRWVTd6U0JVWVItaG83N2VyYTdzWHJYb0N5QVRrSXc?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxON29yWkx6TnprRmNac3lObVViVmxxRnMxYk00MjJFOFFLdDBJOWtDY1R6ckxWa0tFTWgxY0ZvVzJGR2x5T09rX0hOVE1xM1ZUbVdSMHBnUVpsSmI3X2JucUFIUUdoUlplaEFCbXdjTHhpblYyM09jNkZtNlh4SzZtamM2em5LX19SdElfWU1EMUxITUljZUdHLWRUbjRWVTd6U0JVWVItaG83N2VyYTdzWHJYb0N5QVRrSXc?oc=5\" target=\"_blank\"&gt;Anthropic’s expansion of legal AI tools is good for lawyers, experts say&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Global Legal Post&lt;/font&gt;",
-      "published": "2026-05-26T07:00:00.000Z",
+      "title": "Legal AI startup Harvey reportedly raising $500M at $15.5B valuation - siliconangle.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPemdSS3lCX0t1RTdsS2M2VjE1RTFhenNnZlVVVnVlUXFSaXpHbWdILUlpV2R2dXZxcDQteFIxUGxKa0QyMDRMb2NmU0NxSGdFYnU2VW4zUWU2QWRNNDVKcXdCTTJnMjdOU2hWb01JSzN1S2FRQlF4QXlwUFluSzhlZHBSc09GNFRKVUZ6dzhtM0NpTWoxSlJBTFNPeG9FNkVhNXc?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPemdSS3lCX0t1RTdsS2M2VjE1RTFhenNnZlVVVnVlUXFSaXpHbWdILUlpV2R2dXZxcDQteFIxUGxKa0QyMDRMb2NmU0NxSGdFYnU2VW4zUWU2QWRNNDVKcXdCTTJnMjdOU2hWb01JSzN1S2FRQlF4QXlwUFluSzhlZHBSc09GNFRKVUZ6dzhtM0NpTWoxSlJBTFNPeG9FNkVhNXc?oc=5\" target=\"_blank\"&gt;Legal AI startup Harvey reportedly raising $500M at $15.5B valuation&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;siliconangle.com&lt;/font&gt;",
+      "published": "2026-08-07T23:15:50.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
