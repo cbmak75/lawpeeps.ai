@@ -1,38 +1,15 @@
 {
-  "generated": "2026-08-14T18:44:53.501Z",
+  "generated": "2026-08-14T19:41:00.941Z",
   "cycle_type": "triage",
-  "tier_filter": "B",
-  "shortlist_size": 1,
+  "shortlist_size": 0,
+  "picks": [],
   "prefilter": {
     "total": 40,
-    "accepted": 18,
+    "accepted": 1,
     "borderline": 0,
-    "rejected": 22,
-    "rejected_as_duplicate": 22,
-    "accept_rate": 45
+    "rejected": 39,
+    "rejected_as_duplicate": 39,
+    "accept_rate": 3
   },
-  "model": "gemini-flash-lite-latest",
-  "picks": [
-    {
-      "id": "hacker-news-0",
-      "score": 2,
-      "category": "Social",
-      "suggested_angle": "Consumer AI travel agent launch unrelated to legal tech.",
-      "why_now": "Consumer travel app irrelevant to lawpeeps.ai editorial focus.",
-      "verdict": "drop",
-      "duplicate_of": null
-    }
-  ],
-  "summary": {
-    "enqueue_count": 0,
-    "watch_count": 0,
-    "drop_count": 1,
-    "notes": "Dropped irrelevant consumer travel app from Hacker News."
-  },
-  "enqueued": 0,
-  "usage": {
-    "input_tokens": 2123,
-    "output_tokens": 158,
-    "total_tokens": 2281
-  }
+  "skipped_already_triaged": 1
 }
