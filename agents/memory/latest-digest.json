@@ -1,15 +1,15 @@
 {
-  "generated": "2026-08-14T16:38:48.817Z",
+  "generated": "2026-08-14T17:43:09.576Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 689,
+  "total_scanned": 688,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
     {
-      "title": "Claude is getting a watermark. That could matter for every law firm using AI - nonbillable.co.uk",
+      "title": "Claude is getting a watermark. That could matter for every law firm using AI - Non-Billable",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUXZYMkxKWEcyM1RqT2oxdHpVaXBKc3VrYk83YVVTaEVaOVN0b0Z5SUhiN1pfRVcxUGY5alNEQ1hwVXBfWDBKSHdzMFNSZjlTMXpmaVZrX3dMT29QX245SGtJZ05ZOVBIZTNPZXA4YkdPLUQ2dHVsSFFfX0tQcVBJM1NsdC1rODJXWnlUNHItUllYdw?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNUXZYMkxKWEcyM1RqT2oxdHpVaXBKc3VrYk83YVVTaEVaOVN0b0Z5SUhiN1pfRVcxUGY5alNEQ1hwVXBfWDBKSHdzMFNSZjlTMXpmaVZrX3dMT29QX245SGtJZ05ZOVBIZTNPZXA4YkdPLUQ2dHVsSFFfX0tQcVBJM1NsdC1rODJXWnlUNHItUllYdw?oc=5\" target=\"_blank\"&gt;Claude is getting a watermark. That could matter for every law firm using AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;nonbillable.co.uk&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNUXZYMkxKWEcyM1RqT2oxdHpVaXBKc3VrYk83YVVTaEVaOVN0b0Z5SUhiN1pfRVcxUGY5alNEQ1hwVXBfWDBKSHdzMFNSZjlTMXpmaVZrX3dMT29QX245SGtJZ05ZOVBIZTNPZXA4YkdPLUQ2dHVsSFFfX0tQcVBJM1NsdC1rODJXWnlUNHItUllYdw?oc=5\" target=\"_blank\"&gt;Claude is getting a watermark. That could matter for every law firm using AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Non-Billable&lt;/font&gt;",
       "published": "2026-08-14T13:00:00.000Z",
       "source_id": "google-news-law-firm-ai",
       "source_name": "Google News: law firm AI",
@@ -283,7 +283,7 @@
       "relevance_score": 6
     },
     {
-      "title": "Someone is Smoking Crack, or Harvey AI is Just a Proxy to Participate in an OpenAI $1 Trillion IPO? - medium.com",
+      "title": "Someone is Smoking Crack, or Harvey AI is Just a Proxy to Participate in an OpenAI $1 Trillion IPO? - Medium",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdTUxWl9Vcno3OFNsblRLb0YyVC1uS20xR256VDRpTnV0RFNWZ3gxREx5S3FGRk4zeV9LXzlOMDVubm1VWEJVMXdZQWluNklWaF9ObTRpaTJNbUtDUUduQ3RPV25xVGd0UXRkRjRNa1BzYzVqTXZua0FUYXpRZDNmN1FKNGpEbUN5YVh4V01HYkZITXpyVWtyYU91LTVnTWpyeFcxN2p3cTVkNWF0SzNUMzRDWDM1c29hU3JrWEE2VFRxay1Nc0R1WWlLb2hodkNSczVtTllnUHJ1a2x1?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdTUxWl9Vcno3OFNsblRLb0YyVC1uS20xR256VDRpTnV0RFNWZ3gxREx5S3FGRk4zeV9LXzlOMDVubm1VWEJVMXdZQWluNklWaF9ObTRpaTJNbUtDUUduQ3RPV25xVGd0UXRkRjRNa1BzYzVqTXZua0FUYXpRZDNmN1FKNGpEbUN5YVh4V01HYkZITXpyVWtyYU91LTVnTWpyeFcxN2p3cTVkNWF0SzNUMzRDWDM1c29hU3JrWEE2VFRxay1Nc0R1WWlLb2hodkNSczVtTllnUHJ1a2x1?oc=5\" target=\"_blank\"&gt;Someone is Smoking Crack, or Harvey AI is Just a Proxy to Participate in an OpenAI $1 Trillion IPO?&lt;/a&gt;&amp;nbsp;&amp;n",
       "published": "2025-10-31T07:00:00.000Z",
@@ -367,9 +367,9 @@
       "relevance_score": 6
     },
     {
-      "title": "Spellbook on Track for US$100M ARR this Year - entrevestor.com",
+      "title": "Spellbook on Track for US$100M ARR this Year - Entrevestor",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41c1pKSUJCbkYtbXFsUmpLV1dfeGNxSlZtU1B0bEZ6U0tZOXlSVFp5U3V5LTR6RG01amxrNUp1bFhRT0FhVmhxeS1oNks4Q1pfcFpWYXFqcHdaM29XWUtGVjJCdzYydTR3dFNadWtpNEQ1YlRNX2tNOV9BU0U?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE41c1pKSUJCbkYtbXFsUmpLV1dfeGNxSlZtU1B0bEZ6U0tZOXlSVFp5U3V5LTR6RG01amxrNUp1bFhRT0FhVmhxeS1oNks4Q1pfcFpWYXFqcHdaM29XWUtGVjJCdzYydTR3dFNadWtpNEQ1YlRNX2tNOV9BU0U?oc=5\" target=\"_blank\"&gt;Spellbook on Track for US$100M ARR this Year&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;entrevestor.com&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE41c1pKSUJCbkYtbXFsUmpLV1dfeGNxSlZtU1B0bEZ6U0tZOXlSVFp5U3V5LTR6RG01amxrNUp1bFhRT0FhVmhxeS1oNks4Q1pfcFpWYXFqcHdaM29XWUtGVjJCdzYydTR3dFNadWtpNEQ1YlRNX2tNOV9BU0U?oc=5\" target=\"_blank\"&gt;Spellbook on Track for US$100M ARR this Year&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Entrevestor&lt;/font&gt;",
       "published": "2026-03-04T08:00:00.000Z",
       "source_id": "google-news-contract-ai",
       "source_name": "Google News: contract AI",
@@ -439,10 +439,10 @@
       "relevance_score": 5
     },
     {
-      "title": "Legal AI startup Harvey reportedly raising $500M at $15.5B valuation - SiliconANGLE",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPemdSS3lCX0t1RTdsS2M2VjE1RTFhenNnZlVVVnVlUXFSaXpHbWdILUlpV2R2dXZxcDQteFIxUGxKa0QyMDRMb2NmU0NxSGdFYnU2VW4zUWU2QWRNNDVKcXdCTTJnMjdOU2hWb01JSzN1S2FRQlF4QXlwUFluSzhlZHBSc09GNFRKVUZ6dzhtM0NpTWoxSlJBTFNPeG9FNkVhNXc?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPemdSS3lCX0t1RTdsS2M2VjE1RTFhenNnZlVVVnVlUXFSaXpHbWdILUlpV2R2dXZxcDQteFIxUGxKa0QyMDRMb2NmU0NxSGdFYnU2VW4zUWU2QWRNNDVKcXdCTTJnMjdOU2hWb01JSzN1S2FRQlF4QXlwUFluSzhlZHBSc09GNFRKVUZ6dzhtM0NpTWoxSlJBTFNPeG9FNkVhNXc?oc=5\" target=\"_blank\"&gt;Legal AI startup Harvey reportedly raising $500M at $15.5B valuation&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;SiliconANGLE&lt;/font&gt;",
-      "published": "2026-08-07T23:15:50.000Z",
+      "title": "Bias is implicit in all AI, even legal AI - dailyjournal.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSThrZFpTUTF2YXMzdGNyNW1rYlFmcXlEZ0tkWG1QSHptcnlKVC1RTzF5em5JU3BGSVdSMlAzdXpDU0FxbUh0eEFqSXJNRUk4ZTJNRnVnQ3kySnNndjE2MVFmUGR3Qmh2R1NWUGVEcTZidmN2MjRMcUZLNmxoNWtMcEhJVU03b3V0VmpTNDRR?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPSThrZFpTUTF2YXMzdGNyNW1rYlFmcXlEZ0tkWG1QSHptcnlKVC1RTzF5em5JU3BGSVdSMlAzdXpDU0FxbUh0eEFqSXJNRUk4ZTJNRnVnQ3kySnNndjE2MVFmUGR3Qmh2R1NWUGVEcTZidmN2MjRMcUZLNmxoNWtMcEhJVU03b3V0VmpTNDRR?oc=5\" target=\"_blank\"&gt;Bias is implicit in all AI, even legal AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;dailyjournal.com&lt;/font&gt;",
+      "published": "2026-08-12T21:15:49.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
@@ -451,10 +451,10 @@
       "relevance_score": 5
     },
     {
-      "title": "Bias is implicit in all AI, even legal AI - Daily Journal",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSThrZFpTUTF2YXMzdGNyNW1rYlFmcXlEZ0tkWG1QSHptcnlKVC1RTzF5em5JU3BGSVdSMlAzdXpDU0FxbUh0eEFqSXJNRUk4ZTJNRnVnQ3kySnNndjE2MVFmUGR3Qmh2R1NWUGVEcTZidmN2MjRMcUZLNmxoNWtMcEhJVU03b3V0VmpTNDRR?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPSThrZFpTUTF2YXMzdGNyNW1rYlFmcXlEZ0tkWG1QSHptcnlKVC1RTzF5em5JU3BGSVdSMlAzdXpDU0FxbUh0eEFqSXJNRUk4ZTJNRnVnQ3kySnNndjE2MVFmUGR3Qmh2R1NWUGVEcTZidmN2MjRMcUZLNmxoNWtMcEhJVU03b3V0VmpTNDRR?oc=5\" target=\"_blank\"&gt;Bias is implicit in all AI, even legal AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Daily Journal&lt;/font&gt;",
-      "published": "2026-08-12T21:15:49.000Z",
+      "title": "Legal AI startup Harvey reportedly raising $500M at $15.5B valuation - SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPemdSS3lCX0t1RTdsS2M2VjE1RTFhenNnZlVVVnVlUXFSaXpHbWdILUlpV2R2dXZxcDQteFIxUGxKa0QyMDRMb2NmU0NxSGdFYnU2VW4zUWU2QWRNNDVKcXdCTTJnMjdOU2hWb01JSzN1S2FRQlF4QXlwUFluSzhlZHBSc09GNFRKVUZ6dzhtM0NpTWoxSlJBTFNPeG9FNkVhNXc?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPemdSS3lCX0t1RTdsS2M2VjE1RTFhenNnZlVVVnVlUXFSaXpHbWdILUlpV2R2dXZxcDQteFIxUGxKa0QyMDRMb2NmU0NxSGdFYnU2VW4zUWU2QWRNNDVKcXdCTTJnMjdOU2hWb01JSzN1S2FRQlF4QXlwUFluSzhlZHBSc09GNFRKVUZ6dzhtM0NpTWoxSlJBTFNPeG9FNkVhNXc?oc=5\" target=\"_blank\"&gt;Legal AI startup Harvey reportedly raising $500M at $15.5B valuation&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;SiliconANGLE&lt;/font&gt;",
+      "published": "2026-08-07T23:15:50.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
