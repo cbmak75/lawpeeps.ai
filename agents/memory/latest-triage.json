@@ -1,15 +1,47 @@
 {
-  "generated": "2026-08-14T12:37:22.704Z",
+  "generated": "2026-08-14T12:53:39.494Z",
   "cycle_type": "triage",
-  "shortlist_size": 0,
-  "picks": [],
+  "tier_filter": "B",
+  "shortlist_size": 2,
   "prefilter": {
     "total": 40,
-    "accepted": 0,
+    "accepted": 22,
     "borderline": 0,
-    "rejected": 40,
-    "rejected_as_duplicate": 40,
-    "accept_rate": 0
+    "rejected": 18,
+    "rejected_as_duplicate": 18,
+    "accept_rate": 55
   },
-  "skipped_already_triaged": 0
+  "model": "gemini-flash-lite-latest",
+  "picks": [
+    {
+      "id": "legal-futures-0",
+      "score": 3,
+      "category": "Adoption",
+      "suggested_angle": "Skip marketing-driven genealogy case studies without a strong technology hook.",
+      "why_now": "This is a vendor case study (Treethorpe) rather than a hard news story or major legal tech development.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "law-society-gazette-1",
+      "score": 4,
+      "category": "Social",
+      "suggested_angle": "Note general UK law firm market consolidation trends if relevant, but outside direct legal AI/regulatory scope.",
+      "why_now": "General legal market news about a failed firm merger, lacking any explicit AI or tech regulation angle.",
+      "verdict": "drop",
+      "duplicate_of": null
+    }
+  ],
+  "summary": {
+    "enqueue_count": 0,
+    "watch_count": 0,
+    "drop_count": 2,
+    "notes": "Both shortlist items lack a direct legal AI, legal tech, or regulatory focus and fall outside publication scope."
+  },
+  "enqueued": 0,
+  "usage": {
+    "input_tokens": 2283,
+    "output_tokens": 294,
+    "total_tokens": 2577
+  }
 }
