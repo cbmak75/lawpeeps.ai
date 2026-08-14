@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-14T19:41:00.909Z",
+  "generated": "2026-08-14T20:20:21.999Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 687,
+  "total_scanned": 686,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -307,18 +307,6 @@
       "relevance_score": 6
     },
     {
-      "title": "Harvey AI will speed up 'diligence' and transform the economy in different ways: Harvey AI CEO - foxbusiness.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGZzVJbmVJeTVpQjU0TTFfNDY1eEdDdThXb2lyT25sYlpuajc5NDdTSzFzSVYwMEhxdnhMTUc4Sll5amFBb3JPN3VOaU5zYTZQS1JoRVJDcTVsSGM?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGZzVJbmVJeTVpQjU0TTFfNDY1eEdDdThXb2lyT25sYlpuajc5NDdTSzFzSVYwMEhxdnhMTUc4Sll5amFBb3JPN3VOaU5zYTZQS1JoRVJDcTVsSGM?oc=5\" target=\"_blank\"&gt;Harvey AI will speed up 'diligence' and transform the economy in different ways: Harvey AI CEO&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;foxbusiness.com&lt;/font&gt;",
-      "published": "2026-04-20T07:00:00.000Z",
-      "source_id": "google-news-harvey-luminance",
-      "source_name": "Google News: Harvey OR Luminance",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
-    },
-    {
       "title": "Scott Stevenson Interview: Spellbook ACM - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTHNMbHhCN1MxT09wblM2TERCUU5kNWZvNkxtbHRMSGU5aUR5UUpucmdNRXh2QmtKVWZ3LUVYdC1vemF6Ym9ydzNiR3VPNXdMX3g1bDRKaXVkdkswUUpweEpkODFoSmxMVUlpV3FjSGh0MVF1YzM2TVpEYkFSNERlakozQjdzYkUxcFJ5TA?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOTHNMbHhCN1MxT09wblM2TERCUU5kNWZvNkxtbHRMSGU5aUR5UUpucmdNRXh2QmtKVWZ3LUVYdC1vemF6Ym9ydzNiR3VPNXdMX3g1bDRKaXVkdkswUUpweEpkODFoSmxMVUlpV3FjSGh0MVF1YzM2TVpEYkFSNERlakozQjdzYkUxcFJ5TA?oc=5\" target=\"_blank\"&gt;Scott Stevenson Interview: Spellbook ACM&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
@@ -479,6 +467,18 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaTk1d0FIT01YOFFzWUlxSFh6cGZza21GcEx0VWY4VWNnd1FnNkx2eDE2ZFNPZmZadDRGVmZoSTBlSEJjR21fanp4MzNWTGF1QTR2SDlCdlNka25MU0kySG5oSUZQdnRnbDhPMHhyX3dlbFN0eFdFZkdEVEZ5OE5RSUJGNA?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOaTk1d0FIT01YOFFzWUlxSFh6cGZza21GcEx0VWY4VWNnd1FnNkx2eDE2ZFNPZmZadDRGVmZoSTBlSEJjR21fanp4MzNWTGF1QTR2SDlCdlNka25MU0kySG5oSUZQdnRnbDhPMHhyX3dlbFN0eFdFZkdEVEZ5OE5RSUJGNA?oc=5\" target=\"_blank\"&gt;Claude for Legal: What the industry needs to know&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Legal IT Insider&lt;/font&gt;",
       "published": "2026-05-13T07:00:00.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 5
+    },
+    {
+      "title": "Legal AI Arms Race: Legora Eyes $10B, Harvey Nears $15.5B in One Month - Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORVlBanZJWk1sM0g2N3NDVzNuRlpqRzZlR3lvNkdERVd2dnZ4YVpHS0RQdTVmQ0IySG84MFFZZzNqSlNDbDREZFBXdFV5NUJxRjVFUlkwU19sSGZFSDlRenF3RDRadFZvSzFtSDRCNjBoVlV3ejhBanR4dU5fWm5NX1NpQmJOYmtNWTUzU0VrcGRFMUZKYy0zbk1IODd5TzhIU19aam9fcy1OVVFCdVFISmFPMmVvR0dN?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxORVlBanZJWk1sM0g2N3NDVzNuRlpqRzZlR3lvNkdERVd2dnZ4YVpHS0RQdTVmQ0IySG84MFFZZzNqSlNDbDREZFBXdFV5NUJxRjVFUlkwU19sSGZFSDlRenF3RDRadFZvSzFtSDRCNjBoVlV3ejhBanR4dU5fWm5NX1NpQmJOYmtNWTUzU0VrcGRFMUZKYy0zbk1IODd5TzhIU19aam9fcy1OVVFCdVFISmFPMmVvR0dN?oc=5\" target=\"_blank\"&gt;Legal AI Arms Race: Legora Eyes $10B, Harvey Nears $15.5B in One Month&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Tech Times&lt;/font&gt;",
+      "published": "2026-08-13T18:08:44.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
