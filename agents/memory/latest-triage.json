@@ -1,15 +1,38 @@
 {
-  "generated": "2026-08-14T17:43:09.612Z",
+  "generated": "2026-08-14T18:39:01.601Z",
   "cycle_type": "triage",
-  "shortlist_size": 0,
-  "picks": [],
+  "tier_filter": "A",
+  "shortlist_size": 1,
   "prefilter": {
     "total": 40,
-    "accepted": 0,
+    "accepted": 1,
     "borderline": 0,
-    "rejected": 40,
-    "rejected_as_duplicate": 40,
-    "accept_rate": 0
+    "rejected": 39,
+    "rejected_as_duplicate": 39,
+    "accept_rate": 3
   },
-  "skipped_already_triaged": 0
+  "model": "gemini-flash-lite-latest",
+  "picks": [
+    {
+      "id": "google-news-law-firm-ai-0",
+      "score": 1,
+      "category": "Social",
+      "suggested_angle": "n/a",
+      "why_now": "This is a classic securities class-action law firm press release disguised as news, with zero relevance to legal AI, regulation, or legal tech.",
+      "verdict": "drop",
+      "duplicate_of": null
+    }
+  ],
+  "summary": {
+    "enqueue_count": 0,
+    "watch_count": 0,
+    "drop_count": 1,
+    "notes": "Dropped irrelevant securities litigation PR release."
+  },
+  "enqueued": 0,
+  "usage": {
+    "input_tokens": 2514,
+    "output_tokens": 176,
+    "total_tokens": 2690
+  }
 }
