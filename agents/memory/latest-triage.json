@@ -1,15 +1,38 @@
 {
-  "generated": "2026-08-14T20:20:22.029Z",
+  "generated": "2026-08-14T21:14:30.032Z",
   "cycle_type": "triage",
-  "shortlist_size": 0,
-  "picks": [],
+  "tier_filter": "A",
+  "shortlist_size": 1,
   "prefilter": {
     "total": 40,
-    "accepted": 1,
+    "accepted": 2,
     "borderline": 0,
-    "rejected": 39,
-    "rejected_as_duplicate": 39,
-    "accept_rate": 3
+    "rejected": 38,
+    "rejected_as_duplicate": 38,
+    "accept_rate": 5
   },
-  "skipped_already_triaged": 1
+  "model": "gemini-flash-lite-latest",
+  "picks": [
+    {
+      "id": "google-news-legal-ai-0",
+      "score": 3,
+      "category": "Legal AI",
+      "suggested_angle": "Wolters Kluwer releases standard marketing ebook on legal tech strategy.",
+      "why_now": "Pure promotional content with no independent news hook or new data.",
+      "verdict": "drop",
+      "duplicate_of": null
+    }
+  ],
+  "summary": {
+    "enqueue_count": 0,
+    "watch_count": 0,
+    "drop_count": 1,
+    "notes": "Dropped sole candidate as marketing puff/lead magnet."
+  },
+  "enqueued": 0,
+  "usage": {
+    "input_tokens": 2384,
+    "output_tokens": 164,
+    "total_tokens": 2548
+  }
 }
