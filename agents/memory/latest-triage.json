@@ -1,33 +1,24 @@
 {
-  "generated": "2026-08-14T12:53:39.494Z",
+  "generated": "2026-08-14T14:07:06.219Z",
   "cycle_type": "triage",
-  "tier_filter": "B",
-  "shortlist_size": 2,
+  "tier_filter": "A",
+  "shortlist_size": 1,
   "prefilter": {
     "total": 40,
-    "accepted": 22,
+    "accepted": 1,
     "borderline": 0,
-    "rejected": 18,
-    "rejected_as_duplicate": 18,
-    "accept_rate": 55
+    "rejected": 39,
+    "rejected_as_duplicate": 39,
+    "accept_rate": 3
   },
   "model": "gemini-flash-lite-latest",
   "picks": [
     {
-      "id": "legal-futures-0",
+      "id": "google-news-contract-ai-0",
       "score": 3,
-      "category": "Adoption",
-      "suggested_angle": "Skip marketing-driven genealogy case studies without a strong technology hook.",
-      "why_now": "This is a vendor case study (Treethorpe) rather than a hard news story or major legal tech development.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "law-society-gazette-1",
-      "score": 4,
-      "category": "Social",
-      "suggested_angle": "Note general UK law firm market consolidation trends if relevant, but outside direct legal AI/regulatory scope.",
-      "why_now": "General legal market news about a failed firm merger, lacking any explicit AI or tech regulation angle.",
+      "category": "Legal AI",
+      "suggested_angle": "BHSN integrates contract AI into Hancom Office 2024",
+      "why_now": "Localized office suite integration with niche regional software lacks direct relevance to our UK/US legal tech and regulation focus.",
       "verdict": "drop",
       "duplicate_of": null
     }
@@ -35,13 +26,13 @@
   "summary": {
     "enqueue_count": 0,
     "watch_count": 0,
-    "drop_count": 2,
-    "notes": "Both shortlist items lack a direct legal AI, legal tech, or regulatory focus and fall outside publication scope."
+    "drop_count": 1,
+    "notes": "Dropped regional office suite integration story due to lack of UK/US relevance and low editorial fit."
   },
   "enqueued": 0,
   "usage": {
-    "input_tokens": 2283,
-    "output_tokens": 294,
-    "total_tokens": 2577
+    "input_tokens": 2319,
+    "output_tokens": 187,
+    "total_tokens": 2506
   }
 }
