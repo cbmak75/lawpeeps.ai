@@ -1,15 +1,56 @@
 {
-  "generated": "2026-08-15T12:14:28.428Z",
+  "generated": "2026-08-15T12:26:33.140Z",
   "cycle_type": "triage",
-  "shortlist_size": 0,
-  "picks": [],
+  "tier_filter": "B",
+  "shortlist_size": 3,
   "prefilter": {
     "total": 40,
-    "accepted": 0,
+    "accepted": 23,
     "borderline": 0,
-    "rejected": 40,
-    "rejected_as_duplicate": 40,
-    "accept_rate": 0
+    "rejected": 17,
+    "rejected_as_duplicate": 17,
+    "accept_rate": 57
   },
-  "skipped_already_triaged": 0
+  "model": "gemini-flash-lite-latest",
+  "picks": [
+    {
+      "id": "arxiv-cs-ai-0",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "General LLM edge inference paper lacks specific legal application.",
+      "why_now": "Pure computer science pre-print with no direct legal tech hook.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-1",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "Agent evolution techniques are too far removed from legal workflow deployment.",
+      "why_now": "Generic foundational machine learning research.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-2",
+      "score": 4,
+      "category": "Research",
+      "suggested_angle": "LLM numeracy limitations matter for legal drafting, but this is a standard academic paper.",
+      "why_now": "General arXiv paper without a direct legal domain evaluation.",
+      "verdict": "drop",
+      "duplicate_of": null
+    }
+  ],
+  "summary": {
+    "enqueue_count": 0,
+    "watch_count": 0,
+    "drop_count": 3,
+    "notes": "All candidate stories are general computer science pre-prints lacking a direct legal AI or regulatory connection."
+  },
+  "enqueued": 0,
+  "usage": {
+    "input_tokens": 2475,
+    "output_tokens": 360,
+    "total_tokens": 2835
+  }
 }
