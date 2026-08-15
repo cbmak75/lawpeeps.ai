@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-14T23:11:02.019Z",
+  "generated": "2026-08-15T00:33:33.991Z",
   "cycle_type": "monitoring",
   "item_count": 40,
   "total_scanned": 686,
@@ -55,9 +55,9 @@
       "relevance_score": 8
     },
     {
-      "title": "Irish co-founded legal AI startup Wordsmith raises $70m - Irish Legal News",
+      "title": "Irish co-founded legal AI startup Wordsmith raises $70m - irishlegal.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMEZUVFoxTWF1a01MYi05c0pZSVZRT0ZGTnNrcWw3SmYtMlNJbDEyMkxCYkJTclBpTzVQOWR5bEdQVEVEbGNiemh1UHdDbmtfQVVseV9ITkpnNW1lUXJ5VlNhWXhSV2dzdjg2bG0tSHZ5M2pPbWtQSXFETkk4MFpubVVqMlBWVXNCTjRCODdXckVYTElG?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNMEZUVFoxTWF1a01MYi05c0pZSVZRT0ZGTnNrcWw3SmYtMlNJbDEyMkxCYkJTclBpTzVQOWR5bEdQVEVEbGNiemh1UHdDbmtfQVVseV9ITkpnNW1lUXJ5VlNhWXhSV2dzdjg2bG0tSHZ5M2pPbWtQSXFETkk4MFpubVVqMlBWVXNCTjRCODdXckVYTElG?oc=5\" target=\"_blank\"&gt;Irish co-founded legal AI startup Wordsmith raises $70m&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Irish Legal News&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNMEZUVFoxTWF1a01MYi05c0pZSVZRT0ZGTnNrcWw3SmYtMlNJbDEyMkxCYkJTclBpTzVQOWR5bEdQVEVEbGNiemh1UHdDbmtfQVVseV9ITkpnNW1lUXJ5VlNhWXhSV2dzdjg2bG0tSHZ5M2pPbWtQSXFETkk4MFpubVVqMlBWVXNCTjRCODdXckVYTElG?oc=5\" target=\"_blank\"&gt;Irish co-founded legal AI startup Wordsmith raises $70m&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;irishlegal.com&lt;/font&gt;",
       "published": "2026-06-05T07:00:00.000Z",
       "source_id": "google-news-legal-tech-funding",
       "source_name": "Google News: legal tech funding",
@@ -169,18 +169,6 @@
       "published": "2026-08-14T20:38:15.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
-    },
-    {
-      "title": "ROSEN, RECOGNIZED INVESTOR COUNSEL, Encourages Datavault AI - GlobeNewswire",
-      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOMEZWdl9lWE9FTk9ycVZQY2VaYnl1NFd1TDQwNm1ZVXFpSEVRaDVpMXFTVTl2cnBTUzZuQzBDdWVKQkZ6V1NyWlQ0RElhM0lLMFVQbFJnT29YQnN1TndTdFZBYjdYdVVLQmhfandwVjBueTlJMkd4aUx5dEVuM1A0WUhzVDdya2FzSmNqT09CS1BOMUlzdWQzMW5sOXdlSlhvZHR1TzdfWlFHZDJmSkdUVFJyNy1sU0p0UWNQenJscERfS2RwSFVtNDIxdDkyMTVZandFdHI5RzRrVWE5UGJ6eXBBV2lOY2pmR2pBSmY0OGJwSDlEcTU4UWhOUkVnZGNmcTBEWjVHUXFMTVFXalZoVzhTRFNTN1NhZUZNZVBxb3VjUHpsSDROck5ldjF0amFyOU90a3pqMmd3RUoxTmVoXw?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAJBVV95cUxOMEZWdl9lWE9FTk9ycVZQY2VaYnl1NFd1TDQwNm1ZVXFpSEVRaDVpMXFTVTl2cnBTUzZuQzBDdWVKQkZ6V1NyWlQ0RElhM0lLMFVQbFJnT29YQnN1TndTdFZBYjdYdVVLQmhfandwVjBueTlJMkd4aUx5dEVuM1A0WUhzVDdya2FzSmNqT09CS1BOMUlzdWQzMW5sOXdlSlhvZHR1TzdfWlFHZDJmSkdUVFJyNy1sU0p0UWNQenJscERfS2RwSFVtNDIxdDkyMTVZandFdHI5RzRrVWE5UGJ6eXBBV2lOY2pmR2pBSmY0OGJwSDlEcTU4UWhOUkVnZGNmcTBEWjVHUXFMTVFXalZoVzhTRFNTN1NhZUZNZVBxb3VjUHpsSDROck5ldjF0amFyOU90a3pqMmd3RUoxTmVoXw?oc=5\" target=\"_b",
-      "published": "2026-08-14T18:28:13.000Z",
-      "source_id": "google-news-law-firm-ai",
-      "source_name": "Google News: law firm AI",
       "source_priority": "critical",
       "source_tier": "A",
       "source_category": "Aggregator",
@@ -307,7 +295,7 @@
       "relevance_score": 6
     },
     {
-      "title": "Legaltech Rundown: Spellbook Launches iManage Integration, Norm Law Announces New Big Law Hires, and More - Law.com",
+      "title": "Legaltech Rundown: Spellbook Launches iManage Integration, Norm Law Announces New Big Law Hires, and More - law.com",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONHBNemtNcXRjaFFudFBJRG0xV0M5QlJ2dlhGWm0xcFluNjVJSW1GNVpVU09MQktGZ3Rwcy1scXBVdGNxeFRuY3oyVkRMZVBEMnBwV2szTTAybTZHVkJmdy1mcl9RTDBjRGx0RFVEeU9Kd3loZ2hRT0trWW1mUGJTY3BQUlBzQ203dzB4ZEFULTJUbGxFZXV5WmNLYnhBaW9ubE91WjVZbUpWZE1MemZfUkV3dkl6YWFhanJCVlA3UFVTZ2pna1ItMkJEelM0dnRDelhoZjVRcmN2ZHBXdWJickpUYjJlY0dDUFE?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxONHBNemtNcXRjaFFudFBJRG0xV0M5QlJ2dlhGWm0xcFluNjVJSW1GNVpVU09MQktGZ3Rwcy1scXBVdGNxeFRuY3oyVkRMZVBEMnBwV2szTTAybTZHVkJmdy1mcl9RTDBjRGx0RFVEeU9Kd3loZ2hRT0trWW1mUGJTY3BQUlBzQ203dzB4ZEFULTJUbGxFZXV5WmNLYnhBaW9ubE91WjVZbUpWZE1MemZfUkV3dkl6YWFhanJCVlA3UFVTZ2pna1ItMkJEelM0dnRDelhoZjVRcmN2ZHBXdWJickpUYjJlY0dDUFE?oc=5\" target=\"_blank\"&gt;Legaltech Rundown: Spellbook Launches iManage Integration, Norm Law Announces New Big Law Hires, and More&",
       "published": "2026-05-01T07:00:00.000Z",
@@ -415,9 +403,9 @@
       "relevance_score": 5
     },
     {
-      "title": "Legal AI startup Harvey reportedly raising $500M at $15.5B valuation - siliconangle.com",
+      "title": "Legal AI startup Harvey reportedly raising $500M at $15.5B valuation - SiliconANGLE",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPemdSS3lCX0t1RTdsS2M2VjE1RTFhenNnZlVVVnVlUXFSaXpHbWdILUlpV2R2dXZxcDQteFIxUGxKa0QyMDRMb2NmU0NxSGdFYnU2VW4zUWU2QWRNNDVKcXdCTTJnMjdOU2hWb01JSzN1S2FRQlF4QXlwUFluSzhlZHBSc09GNFRKVUZ6dzhtM0NpTWoxSlJBTFNPeG9FNkVhNXc?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPemdSS3lCX0t1RTdsS2M2VjE1RTFhenNnZlVVVnVlUXFSaXpHbWdILUlpV2R2dXZxcDQteFIxUGxKa0QyMDRMb2NmU0NxSGdFYnU2VW4zUWU2QWRNNDVKcXdCTTJnMjdOU2hWb01JSzN1S2FRQlF4QXlwUFluSzhlZHBSc09GNFRKVUZ6dzhtM0NpTWoxSlJBTFNPeG9FNkVhNXc?oc=5\" target=\"_blank\"&gt;Legal AI startup Harvey reportedly raising $500M at $15.5B valuation&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;siliconangle.com&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPemdSS3lCX0t1RTdsS2M2VjE1RTFhenNnZlVVVnVlUXFSaXpHbWdILUlpV2R2dXZxcDQteFIxUGxKa0QyMDRMb2NmU0NxSGdFYnU2VW4zUWU2QWRNNDVKcXdCTTJnMjdOU2hWb01JSzN1S2FRQlF4QXlwUFluSzhlZHBSc09GNFRKVUZ6dzhtM0NpTWoxSlJBTFNPeG9FNkVhNXc?oc=5\" target=\"_blank\"&gt;Legal AI startup Harvey reportedly raising $500M at $15.5B valuation&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;SiliconANGLE&lt;/font&gt;",
       "published": "2026-08-07T23:15:50.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
@@ -439,10 +427,10 @@
       "relevance_score": 5
     },
     {
-      "title": "Legal AI Arms Race: Legora Eyes $10B, Harvey Nears $15.5B in One Month - Tech Times",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORVlBanZJWk1sM0g2N3NDVzNuRlpqRzZlR3lvNkdERVd2dnZ4YVpHS0RQdTVmQ0IySG84MFFZZzNqSlNDbDREZFBXdFV5NUJxRjVFUlkwU19sSGZFSDlRenF3RDRadFZvSzFtSDRCNjBoVlV3ejhBanR4dU5fWm5NX1NpQmJOYmtNWTUzU0VrcGRFMUZKYy0zbk1IODd5TzhIU19aam9fcy1OVVFCdVFISmFPMmVvR0dN?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxORVlBanZJWk1sM0g2N3NDVzNuRlpqRzZlR3lvNkdERVd2dnZ4YVpHS0RQdTVmQ0IySG84MFFZZzNqSlNDbDREZFBXdFV5NUJxRjVFUlkwU19sSGZFSDlRenF3RDRadFZvSzFtSDRCNjBoVlV3ejhBanR4dU5fWm5NX1NpQmJOYmtNWTUzU0VrcGRFMUZKYy0zbk1IODd5TzhIU19aam9fcy1OVVFCdVFISmFPMmVvR0dN?oc=5\" target=\"_blank\"&gt;Legal AI Arms Race: Legora Eyes $10B, Harvey Nears $15.5B in One Month&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Tech Times&lt;/font&gt;",
-      "published": "2026-08-13T18:08:44.000Z",
+      "title": "Claude for Legal: What the industry needs to know - Legal IT Insider",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaTk1d0FIT01YOFFzWUlxSFh6cGZza21GcEx0VWY4VWNnd1FnNkx2eDE2ZFNPZmZadDRGVmZoSTBlSEJjR21fanp4MzNWTGF1QTR2SDlCdlNka25MU0kySG5oSUZQdnRnbDhPMHhyX3dlbFN0eFdFZkdEVEZ5OE5RSUJGNA?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOaTk1d0FIT01YOFFzWUlxSFh6cGZza21GcEx0VWY4VWNnd1FnNkx2eDE2ZFNPZmZadDRGVmZoSTBlSEJjR21fanp4MzNWTGF1QTR2SDlCdlNka25MU0kySG5oSUZQdnRnbDhPMHhyX3dlbFN0eFdFZkdEVEZ5OE5RSUJGNA?oc=5\" target=\"_blank\"&gt;Claude for Legal: What the industry needs to know&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Legal IT Insider&lt;/font&gt;",
+      "published": "2026-05-13T07:00:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
@@ -451,10 +439,10 @@
       "relevance_score": 5
     },
     {
-      "title": "Claude for Legal: What the industry needs to know - Legal IT Insider",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaTk1d0FIT01YOFFzWUlxSFh6cGZza21GcEx0VWY4VWNnd1FnNkx2eDE2ZFNPZmZadDRGVmZoSTBlSEJjR21fanp4MzNWTGF1QTR2SDlCdlNka25MU0kySG5oSUZQdnRnbDhPMHhyX3dlbFN0eFdFZkdEVEZ5OE5RSUJGNA?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOaTk1d0FIT01YOFFzWUlxSFh6cGZza21GcEx0VWY4VWNnd1FnNkx2eDE2ZFNPZmZadDRGVmZoSTBlSEJjR21fanp4MzNWTGF1QTR2SDlCdlNka25MU0kySG5oSUZQdnRnbDhPMHhyX3dlbFN0eFdFZkdEVEZ5OE5RSUJGNA?oc=5\" target=\"_blank\"&gt;Claude for Legal: What the industry needs to know&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Legal IT Insider&lt;/font&gt;",
-      "published": "2026-05-13T07:00:00.000Z",
+      "title": "Legal AI Arms Race: Legora Eyes $10B, Harvey Nears $15.5B in One Month - Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORVlBanZJWk1sM0g2N3NDVzNuRlpqRzZlR3lvNkdERVd2dnZ4YVpHS0RQdTVmQ0IySG84MFFZZzNqSlNDbDREZFBXdFV5NUJxRjVFUlkwU19sSGZFSDlRenF3RDRadFZvSzFtSDRCNjBoVlV3ejhBanR4dU5fWm5NX1NpQmJOYmtNWTUzU0VrcGRFMUZKYy0zbk1IODd5TzhIU19aam9fcy1OVVFCdVFISmFPMmVvR0dN?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxORVlBanZJWk1sM0g2N3NDVzNuRlpqRzZlR3lvNkdERVd2dnZ4YVpHS0RQdTVmQ0IySG84MFFZZzNqSlNDbDREZFBXdFV5NUJxRjVFUlkwU19sSGZFSDlRenF3RDRadFZvSzFtSDRCNjBoVlV3ejhBanR4dU5fWm5NX1NpQmJOYmtNWTUzU0VrcGRFMUZKYy0zbk1IODd5TzhIU19aam9fcy1OVVFCdVFISmFPMmVvR0dN?oc=5\" target=\"_blank\"&gt;Legal AI Arms Race: Legora Eyes $10B, Harvey Nears $15.5B in One Month&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Tech Times&lt;/font&gt;",
+      "published": "2026-08-13T18:08:44.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
@@ -481,6 +469,18 @@
       "published": "2026-06-18T07:00:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 5
+    },
+    {
+      "title": "Legal AI adoption: How law firms and legal departments achieve time savings and revenue growth - Wolters Kluwer",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbDBxN0hGdEY2bi1IaUt3T0xiLUZ4S1hUdXI5UFRnVnBtRllfN2hJeUVmN3pibnhwOThmTGJoZUNIQWQxUlJjTHhKbkY1QXlGZUZ4R281NXlrTVE0TDJlLVFnSEpmV3ZiWUtudDROUGczTGtvVEZTRjdrMG9NZ2ppejc1Y2pwaWNnQU96ZkJsdGg5TXpjbm04aG1naDRtZw?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNbDBxN0hGdEY2bi1IaUt3T0xiLUZ4S1hUdXI5UFRnVnBtRllfN2hJeUVmN3pibnhwOThmTGJoZUNIQWQxUlJjTHhKbkY1QXlGZUZ4R281NXlrTVE0TDJlLVFnSEpmV3ZiWUtudDROUGczTGtvVEZTRjdrMG9NZ2ppejc1Y2pwaWNnQU96ZkJsdGg5TXpjbm04aG1naDRtZw?oc=5\" target=\"_blank\"&gt;Legal AI adoption: How law firms and legal departments achieve time savings and revenue growth&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Wolters Kluwer&lt;/font&gt;",
+      "published": "2026-03-10T15:53:49.000Z",
+      "source_id": "google-news-law-firm-ai",
+      "source_name": "Google News: law firm AI",
       "source_priority": "critical",
       "source_tier": "A",
       "source_category": "Aggregator",
