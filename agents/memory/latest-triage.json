@@ -1,15 +1,65 @@
 {
-  "generated": "2026-08-15T18:11:48.168Z",
+  "generated": "2026-08-15T18:20:33.982Z",
   "cycle_type": "triage",
-  "shortlist_size": 0,
-  "picks": [],
+  "tier_filter": "B",
+  "shortlist_size": 4,
   "prefilter": {
     "total": 40,
-    "accepted": 0,
+    "accepted": 16,
     "borderline": 0,
-    "rejected": 40,
-    "rejected_as_duplicate": 40,
-    "accept_rate": 0
+    "rejected": 24,
+    "rejected_as_duplicate": 24,
+    "accept_rate": 40
   },
-  "skipped_already_triaged": 0
+  "model": "gemini-flash-lite-latest",
+  "picks": [
+    {
+      "id": "hacker-news-0",
+      "score": 3,
+      "category": "Policy",
+      "suggested_angle": "Extinction-level AI warnings miss the immediate practical governance challenges facing the legal sector.",
+      "why_now": "General AI safety briefings lack specific application to legal AI regulation or professional practice.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "hacker-news-1",
+      "score": 4,
+      "category": "Legal AI",
+      "suggested_angle": "The proliferation of AI writing detectors increases false suspicion risks in academic and professional settings.",
+      "why_now": "The Verge column highlights ongoing trust deficits regarding AI-generated text, though not specific to legal drafting.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "hacker-news-2",
+      "score": 4,
+      "category": "Regulatory",
+      "suggested_angle": "Expired video patents remove legacy IP hurdles for open-source ecosystems.",
+      "why_now": "An interesting intellectual property milestone, but tangential to core legal tech and AI regulatory news.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "hacker-news-3",
+      "score": 3,
+      "category": "Social",
+      "suggested_angle": "Navigating software engineering career paths amidst rapid AI capability shifts.",
+      "why_now": "General developer career discussion rather than legal engineering or legal tech market analysis.",
+      "verdict": "drop",
+      "duplicate_of": null
+    }
+  ],
+  "summary": {
+    "enqueue_count": 0,
+    "watch_count": 0,
+    "drop_count": 4,
+    "notes": "All candidate stories are general interest or tech/safety items without a direct hook to legal AI, UK regulation, or immigration law."
+  },
+  "enqueued": 0,
+  "usage": {
+    "input_tokens": 2659,
+    "output_tokens": 489,
+    "total_tokens": 3148
+  }
 }
