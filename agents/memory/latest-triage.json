@@ -1,15 +1,209 @@
 {
-  "generated": "2026-08-15T06:18:14.355Z",
+  "generated": "2026-08-15T06:28:06.537Z",
   "cycle_type": "triage",
-  "shortlist_size": 0,
-  "picks": [],
+  "tier_filter": "B",
+  "shortlist_size": 20,
   "prefilter": {
     "total": 40,
-    "accepted": 0,
+    "accepted": 28,
     "borderline": 0,
-    "rejected": 40,
-    "rejected_as_duplicate": 40,
-    "accept_rate": 0
+    "rejected": 12,
+    "rejected_as_duplicate": 12,
+    "accept_rate": 70
   },
-  "skipped_already_triaged": 0
+  "model": "gemini-flash-lite-latest",
+  "picks": [
+    {
+      "id": "arxiv-cs-ai-0",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Memorization in code LLMs examined",
+      "why_now": "Pure arXiv preprint on code LLMs with no direct legal or regulatory hook.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-1",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Benchmarking LLM research ideas",
+      "why_now": "Academic paper on research idea generation, not relevant to legal AI workflows.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-2",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "AstraZeneca's agentic R&D assistant",
+      "why_now": "Enterprise LLM deployment case study, but in pharma/R&D rather than legal.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-3",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Stream processing semantics for LLMs",
+      "why_now": "Technical systems paper without legal or regulatory relevance.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-4",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Error-aware reverse auction routing for LLMs",
+      "why_now": "Infrastructure optimization paper for LLM API calls.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-5",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Evaluating research integrity in LLM co-scientists",
+      "why_now": "General AI ethics/safety paper lacking a specific legal or professional services angle.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-6",
+      "score": 4,
+      "category": "Research",
+      "suggested_angle": "Privacy-preserving RAG techniques",
+      "why_now": "Relevant to legal data privacy, but ultimately a standard academic preprint.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-7",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Improving LLM solution coverage via evolution strategies",
+      "why_now": "Mathematical and scientific discovery benchmark paper.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-8",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Generating theorem prover scripts for real-time systems",
+      "why_now": "Formal verification research for real-time systems.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-9",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Verifier-bounded credit assignment for multi-turn agents",
+      "why_now": "Reinforcement learning theory paper.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-10",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Probing search efficiency in LLM reasoning via Go",
+      "why_now": "Reasoning evaluation methodology using game theory.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-11",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Training-free hidden-state alignment for multi-agent systems",
+      "why_now": "Multi-agent communication protocol research.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-12",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "Energy consumption profiling for variable LLM tasks",
+      "why_now": "Environmental impact study of AI inference, lacking legal sector specifics.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-13",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Memory-enhanced agency in strategic reasoning LLMs",
+      "why_now": "Agentic memory and strategy paper without legal application.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-14",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "Temporal reasoning over clinical narratives using LLMs",
+      "why_now": "Healthcare-focused narrative processing preprint.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-15",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Communication topologies for multi-agent systems via causal inference",
+      "why_now": "Multi-agent architecture paper.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-16",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "Self-evolving defense mechanisms for LLM agents",
+      "why_now": "Cybersecurity and runtime defense paper for AI agents.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-17",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Demand transfer estimation via restricted logit modeling",
+      "why_now": "Retail inventory and assortment optimization paper.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-18",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Designing AI pipelines for IT service management intelligence",
+      "why_now": "IT service management ticket analysis framework.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-19",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Interpreting LLM classification via dynamic mode decomposition",
+      "why_now": "Model interpretability and linear dynamical systems research.",
+      "verdict": "drop",
+      "duplicate_of": null
+    }
+  ],
+  "summary": {
+    "enqueue_count": 0,
+    "watch_count": 0,
+    "drop_count": 20,
+    "notes": "All candidate items are generic arXiv preprints with no direct legal, regulatory, or immigration AI focus."
+  },
+  "enqueued": 0,
+  "usage": {
+    "input_tokens": 5302,
+    "output_tokens": 1884,
+    "total_tokens": 7186
+  }
 }
