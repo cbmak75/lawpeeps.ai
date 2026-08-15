@@ -1,15 +1,56 @@
 {
-  "generated": "2026-08-15T00:33:34.027Z",
+  "generated": "2026-08-15T00:55:21.028Z",
   "cycle_type": "triage",
-  "shortlist_size": 0,
-  "picks": [],
+  "tier_filter": "B",
+  "shortlist_size": 3,
   "prefilter": {
     "total": 40,
-    "accepted": 1,
+    "accepted": 19,
     "borderline": 0,
-    "rejected": 39,
-    "rejected_as_duplicate": 39,
-    "accept_rate": 3
+    "rejected": 21,
+    "rejected_as_duplicate": 21,
+    "accept_rate": 48
   },
-  "skipped_already_triaged": 1
+  "model": "gemini-flash-lite-latest",
+  "picks": [
+    {
+      "id": "above-the-law-legaltech-0",
+      "score": 3,
+      "category": "Social",
+      "suggested_angle": "Political news with no legal tech relevance",
+      "why_now": "Purely political piece not touching on legal AI, regulation, or tech.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "above-the-law-legaltech-1",
+      "score": 4,
+      "category": "Social",
+      "suggested_angle": "General digital marketing for law firms",
+      "why_now": "Standard marketing advice piece with no direct AI or legal tech product hook.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "above-the-law-legaltech-2",
+      "score": 4,
+      "category": "Regulatory",
+      "suggested_angle": "ABA financial restructuring and organizational overhaul",
+      "why_now": "General bar association news without an AI, tech, or UK regulatory angle.",
+      "verdict": "drop",
+      "duplicate_of": null
+    }
+  ],
+  "summary": {
+    "enqueue_count": 0,
+    "watch_count": 0,
+    "drop_count": 3,
+    "notes": "All shortlist items are outside the core legal AI, tech, or UK regulatory focus areas."
+  },
+  "enqueued": 0,
+  "usage": {
+    "input_tokens": 2511,
+    "output_tokens": 360,
+    "total_tokens": 2871
+  }
 }
