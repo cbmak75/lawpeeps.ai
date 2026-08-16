@@ -1,38 +1,15 @@
 {
-  "generated": "2026-08-16T19:12:22.191Z",
+  "generated": "2026-08-16T20:08:45.216Z",
   "cycle_type": "triage",
-  "tier_filter": "A",
-  "shortlist_size": 1,
+  "shortlist_size": 0,
+  "picks": [],
   "prefilter": {
     "total": 40,
-    "accepted": 1,
+    "accepted": 0,
     "borderline": 0,
-    "rejected": 39,
-    "rejected_as_duplicate": 39,
-    "accept_rate": 3
+    "rejected": 40,
+    "rejected_as_duplicate": 40,
+    "accept_rate": 0
   },
-  "model": "gemini-flash-lite-latest",
-  "picks": [
-    {
-      "id": "google-news-legal-ai-0",
-      "score": 4,
-      "category": "Adoption",
-      "suggested_angle": "Australian law firms transition AI from standalone tools to integrated workflows",
-      "why_now": "General roundup piece on Australian legal tech adoption with limited novel primary insights.",
-      "verdict": "drop",
-      "duplicate_of": null
-    }
-  ],
-  "summary": {
-    "enqueue_count": 0,
-    "watch_count": 0,
-    "drop_count": 1,
-    "notes": "Dropped single item due to low primary value and generic aggregation nature."
-  },
-  "enqueued": 0,
-  "usage": {
-    "input_tokens": 2416,
-    "output_tokens": 169,
-    "total_tokens": 2585
-  }
+  "skipped_already_triaged": 0
 }
