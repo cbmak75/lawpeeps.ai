@@ -1,24 +1,24 @@
 {
-  "generated": "2026-08-16T00:34:16.343Z",
+  "generated": "2026-08-16T00:58:39.078Z",
   "cycle_type": "triage",
-  "tier_filter": "A",
+  "tier_filter": "B",
   "shortlist_size": 1,
   "prefilter": {
     "total": 40,
-    "accepted": 1,
+    "accepted": 18,
     "borderline": 0,
-    "rejected": 39,
-    "rejected_as_duplicate": 39,
-    "accept_rate": 3
+    "rejected": 22,
+    "rejected_as_duplicate": 22,
+    "accept_rate": 45
   },
   "model": "gemini-flash-lite-latest",
   "picks": [
     {
-      "id": "google-news-legal-ai-0",
-      "score": 4,
-      "category": "Legal AI",
-      "suggested_angle": "Examining billable hour resilience in the face of autonomous drafting.",
-      "why_now": "Standard philosophical piece on AI replacement without a hard news hook or primary source data.",
+      "id": "arxiv-cs-ai-0",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": "Creative writing research paper irrelevant to legal tech.",
+      "why_now": "Purely academic paper on story premise generation with no nexus to legal AI, regulation, or practice.",
       "verdict": "drop",
       "duplicate_of": null
     }
@@ -27,12 +27,12 @@
     "enqueue_count": 0,
     "watch_count": 0,
     "drop_count": 1,
-    "notes": "Dropped LawFuel opinion piece as low-value commentary lacking an immediate news hook."
+    "notes": "Dropped irrelevant arXiv paper on creative writing."
   },
   "enqueued": 0,
   "usage": {
-    "input_tokens": 2367,
-    "output_tokens": 180,
-    "total_tokens": 2547
+    "input_tokens": 2153,
+    "output_tokens": 169,
+    "total_tokens": 2322
   }
 }
