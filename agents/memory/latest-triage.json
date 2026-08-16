@@ -1,33 +1,24 @@
 {
-  "generated": "2026-08-16T18:20:24.397Z",
+  "generated": "2026-08-16T19:12:22.191Z",
   "cycle_type": "triage",
-  "tier_filter": "B",
-  "shortlist_size": 2,
+  "tier_filter": "A",
+  "shortlist_size": 1,
   "prefilter": {
     "total": 40,
-    "accepted": 3,
+    "accepted": 1,
     "borderline": 0,
-    "rejected": 37,
-    "rejected_as_duplicate": 37,
-    "accept_rate": 8
+    "rejected": 39,
+    "rejected_as_duplicate": 39,
+    "accept_rate": 3
   },
   "model": "gemini-flash-lite-latest",
   "picks": [
     {
-      "id": "hacker-news-0",
-      "score": 2,
-      "category": "Social",
-      "suggested_angle": "General developer discussion on AI code review tools",
-      "why_now": "Irrelevant to legal AI editorial focus; general software engineering topic.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "hacker-news-1",
-      "score": 1,
-      "category": "Social",
-      "suggested_angle": "Indie game development using AI tools",
-      "why_now": "Zero relevance to legal tech, legal AI, or regulation.",
+      "id": "google-news-legal-ai-0",
+      "score": 4,
+      "category": "Adoption",
+      "suggested_angle": "Australian law firms transition AI from standalone tools to integrated workflows",
+      "why_now": "General roundup piece on Australian legal tech adoption with limited novel primary insights.",
       "verdict": "drop",
       "duplicate_of": null
     }
@@ -35,13 +26,13 @@
   "summary": {
     "enqueue_count": 0,
     "watch_count": 0,
-    "drop_count": 2,
-    "notes": "Both candidate stories are general developer discussion threads on Hacker News with no relevance to legal AI, legal tech, or regulation."
+    "drop_count": 1,
+    "notes": "Dropped single item due to low primary value and generic aggregation nature."
   },
   "enqueued": 0,
   "usage": {
-    "input_tokens": 2313,
-    "output_tokens": 266,
-    "total_tokens": 2579
+    "input_tokens": 2416,
+    "output_tokens": 169,
+    "total_tokens": 2585
   }
 }
