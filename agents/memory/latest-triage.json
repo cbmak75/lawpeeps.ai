@@ -1,38 +1,15 @@
 {
-  "generated": "2026-08-16T06:30:33.755Z",
+  "generated": "2026-08-16T07:22:05.111Z",
   "cycle_type": "triage",
-  "tier_filter": "B",
-  "shortlist_size": 1,
+  "shortlist_size": 0,
+  "picks": [],
   "prefilter": {
     "total": 40,
-    "accepted": 2,
+    "accepted": 0,
     "borderline": 0,
-    "rejected": 38,
-    "rejected_as_duplicate": 38,
-    "accept_rate": 5
+    "rejected": 40,
+    "rejected_as_duplicate": 40,
+    "accept_rate": 0
   },
-  "model": "gemini-flash-lite-latest",
-  "picks": [
-    {
-      "id": "hacker-news-0",
-      "score": 3,
-      "category": "Research",
-      "suggested_angle": "Why AI hallucinations remain the core liability blocker for legal deployment",
-      "why_now": "General discussion thread on Hacker News with no specific primary legal source, regulatory update, or unique legal tech angle.",
-      "verdict": "drop",
-      "duplicate_of": null
-    }
-  ],
-  "summary": {
-    "enqueue_count": 0,
-    "watch_count": 0,
-    "drop_count": 1,
-    "notes": "Dropped low-value general forum discussion with no legal industry tie-in."
-  },
-  "enqueued": 0,
-  "usage": {
-    "input_tokens": 2145,
-    "output_tokens": 180,
-    "total_tokens": 2325
-  }
+  "skipped_already_triaged": 0
 }
