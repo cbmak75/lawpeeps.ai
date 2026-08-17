@@ -1,15 +1,209 @@
 {
-  "generated": "2026-08-17T06:30:44.694Z",
+  "generated": "2026-08-17T06:42:34.804Z",
   "cycle_type": "triage",
-  "shortlist_size": 0,
-  "picks": [],
+  "tier_filter": "B",
+  "shortlist_size": 20,
   "prefilter": {
     "total": 40,
-    "accepted": 2,
-    "borderline": 10,
-    "rejected": 28,
-    "rejected_as_duplicate": 13,
-    "accept_rate": 5
+    "accepted": 29,
+    "borderline": 0,
+    "rejected": 11,
+    "rejected_as_duplicate": 11,
+    "accept_rate": 73
   },
-  "skipped_already_triaged": 12
+  "model": "gemini-flash-lite-latest",
+  "picks": [
+    {
+      "id": "arxiv-cs-ai-0",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "Irrelevant medical literature paper picked up by keyword prefilter.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-1",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "General LLM regression preprint with no direct legal tech or regulatory application.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-2",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "Personalized glucose regulation preprint, irrelevant to legal AI.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-3",
+      "score": 5,
+      "category": "Research",
+      "suggested_angle": "Can EU AI Act Technical Documentation Survive Mechanistic Interpretability Limits?",
+      "why_now": "Examines whether mechanistic interpretability evidence meets EU AI Act documentation requirements for high-risk systems, though heavily academic.",
+      "verdict": "watch",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-4",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "Mobile GUI agent benchmark, no legal industry relevance.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-5",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "General AI reasoning limits preprint.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-6",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "Software engineering test-driven development code generation preprint.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-7",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "LLM infrastructure and serving workload analysis, too general.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-8",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "Analog IC layout design preprint.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-9",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "LLM pretraining scaling paper.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-10",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "Graph-based RL for autonomous agent drift recovery; too academic for core legal news.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-11",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "Cognitive bias benchmarking in LLMs.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-12",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "Recoverable execution for long-horizon LLM agents; tangential to legal workflow automation.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-13",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "Philosophical and technical exploration of abductive reasoning in LLMs.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-14",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "Statistical evaluation methodology preprint.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-15",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "Diffusion LLM parallel decoding optimization.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-16",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "Automated software bug repair research.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-17",
+      "score": 4,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "Privacy-preserving skill distillation for cloud-local inference, relevant to legal data privacy but purely academic.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-18",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "Code completion confidence analysis.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-19",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "Radiology incidental findings management using LLMs/VLMs.",
+      "verdict": "drop",
+      "duplicate_of": null
+    }
+  ],
+  "summary": {
+    "enqueue_count": 0,
+    "watch_count": 1,
+    "drop_count": 19,
+    "notes": "All shortlist items are arXiv preprints without direct commercial legal tech, regulatory, or funding relevance today; dropped all except one EU AI Act interpretability paper kept on watch."
+  },
+  "enqueued": 0,
+  "usage": {
+    "input_tokens": 5308,
+    "output_tokens": 1762,
+    "total_tokens": 7070
+  }
 }
