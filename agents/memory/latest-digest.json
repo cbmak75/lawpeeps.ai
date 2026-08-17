@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-17T22:11:57.437Z",
+  "generated": "2026-08-17T23:12:07.122Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 685,
+  "total_scanned": 684,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -163,10 +163,22 @@
       "relevance_score": 7
     },
     {
+      "title": "SRA warns profession over AI misuse amidst investigations - Legal Futures",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVDdvejhqbWVlQm1zd2lRTTBxQ1JzMHR5bEpjNkFoVURvMmZYNF84Nl9YbUV5NXk3c092MTVIMHlyWTRvam9EWHNpenN3OTJLUFVoQjhuTjUyQkxaLXFHQ1lRVkhUcmk4MGdFdHRlNWpxQmRVdkFEN2RiVzJRaEMyTUxMWlZvallJdFVOazJzZWktV08zakVWdk1RMDB5ME5WeEE?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPVDdvejhqbWVlQm1zd2lRTTBxQ1JzMHR5bEpjNkFoVURvMmZYNF84Nl9YbUV5NXk3c092MTVIMHlyWTRvam9EWHNpenN3OTJLUFVoQjhuTjUyQkxaLXFHQ1lRVkhUcmk4MGdFdHRlNWpxQmRVdkFEN2RiVzJRaEMyTUxMWlZvallJdFVOazJzZWktV08zakVWdk1RMDB5ME5WeEE?oc=5\" target=\"_blank\"&gt;SRA warns profession over AI misuse amidst investigations&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Legal Futures&lt;/font&gt;",
+      "published": "2026-08-17T23:07:28.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
+    },
+    {
       "title": "Seedless Targets Legal AI Data Challenges with Synthetic Datasets - HPCwire",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaG44b1dSU3RGOGhRR2Vjc3ZfenpjQWNta3ZKdlc0MXpjRG5zNE1zOVlaWVVFUWJpbzE3R0VBdWg5UTdnY3JMTVE4aENyd2VFb0Vpa1FNLTBPcjdfNUh2TmFiYmpZbWYxcmE3NUVWZVBXb3E2OWwwRk9yYXNGQVNiT21lRVBrZGVrM2RjaGtoa2dPbnRBa0ZrXzBxcHFrLW4zR0duejFfREpORVlXNTlxUzZQb0Vxdw?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPaG44b1dSU3RGOGhRR2Vjc3ZfenpjQWNta3ZKdlc0MXpjRG5zNE1zOVlaWVVFUWJpbzE3R0VBdWg5UTdnY3JMTVE4aENyd2VFb0Vpa1FNLTBPcjdfNUh2TmFiYmpZbWYxcmE3NUVWZVBXb3E2OWwwRk9yYXNGQVNiT21lRVBrZGVrM2RjaGtoa2dPbnRBa0ZrXzBxcHFrLW4zR0duejFfREpORVlXNTlxUzZQb0Vxdw?oc=5\" target=\"_blank\"&gt;Seedless Targets Legal AI Data Challenges with Synthetic Datasets&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;HPCwire&lt;/font&gt;",
-      "published": "2026-08-17T18:25:45.000Z",
+      "published": "2026-08-17T18:26:35.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
@@ -463,22 +475,10 @@
       "relevance_score": 5
     },
     {
-      "title": "Legal Tech Roundup: NYAI, Harvey, Legora - law360.com",
+      "title": "Legal Tech Roundup: NYAI, Harvey, Legora - Law360",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb0N4eVpRMWtnTExmcjA1QjFLeHUxUFgwOVhzb1lGaUl0T1MzSUpreDl4ZkJYTDF0aWFsTW93LXRaMWdaTXlaNWhESWN4ZHdXZGphOTV3MHpHbk5icTZZYlBOYndpbE8xZnpHbWt1U0h2b2pPbmpMaTFMUDNaeFBqQXZTRTI4elRGMnBJ0gFeQVVfeXFMTU15WUhaQmc3SGkyb1UzRUpCR2xMdFdKYmY3dHFuMDlrSnJNamxXRHR4bzBUZEt1Vm5KZkxld2gtR1UtVmxqdVJCdnJ4VXJwQXRGUkdNQkFuNHhSbE01UQ?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb0N4eVpRMWtnTExmcjA1QjFLeHUxUFgwOVhzb1lGaUl0T1MzSUpreDl4ZkJYTDF0aWFsTW93LXRaMWdaTXlaNWhESWN4ZHdXZGphOTV3MHpHbk5icTZZYlBOYndpbE8xZnpHbWt1U0h2b2pPbmpMaTFMUDNaeFBqQXZTRTI4elRGMnBJ0gFeQVVfeXFMTU15WUhaQmc3SGkyb1UzRUpCR2xMdFdKYmY3dHFuMDlrSnJNamxXRHR4bzBUZEt1Vm5KZkxld2gtR1UtVmxqdVJCdnJ4VXJwQXRGUkdNQkFuNHhSbE01UQ?oc=5\" target=\"_blank\"&gt;Legal Tech Roundup: NYAI, Harvey, Legora&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;law36",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb0N4eVpRMWtnTExmcjA1QjFLeHUxUFgwOVhzb1lGaUl0T1MzSUpreDl4ZkJYTDF0aWFsTW93LXRaMWdaTXlaNWhESWN4ZHdXZGphOTV3MHpHbk5icTZZYlBOYndpbE8xZnpHbWt1U0h2b2pPbmpMaTFMUDNaeFBqQXZTRTI4elRGMnBJ0gFeQVVfeXFMTU15WUhaQmc3SGkyb1UzRUpCR2xMdFdKYmY3dHFuMDlrSnJNamxXRHR4bzBUZEt1Vm5KZkxld2gtR1UtVmxqdVJCdnJ4VXJwQXRGUkdNQkFuNHhSbE01UQ?oc=5\" target=\"_blank\"&gt;Legal Tech Roundup: NYAI, Harvey, Legora&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Law36",
       "published": "2026-08-07T18:18:00.000Z",
-      "source_id": "google-news-legal-tech-funding",
-      "source_name": "Google News: legal tech funding",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 5
-    },
-    {
-      "title": "Relativity Invests in 2 Legal Tech Startups Via New Funding Arm Rel Labs - Law.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTFNwZHh6OXE4NExITjJnRTRLTkpRTE9oVmNIVndtV21PdUlIOUNsOWtjTFNBb24ycUROU2dqTG4zZlFhbV9jeHYwdFRVNmgzdGNtQ2xjUUNnZTQ3SjI5TzZGV1VaNUlNbjVVUV9XeWhLTkxYTnRuWnpiNDlPVTkxSFMtR0h0b0dwcTUzdlpmRm1qTTY2MUZGSU1EazNaUzhjUzVJZS1kX29nQWd4RjNpUEo1SE14NGlMQVE0?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTFNwZHh6OXE4NExITjJnRTRLTkpRTE9oVmNIVndtV21PdUlIOUNsOWtjTFNBb24ycUROU2dqTG4zZlFhbV9jeHYwdFRVNmgzdGNtQ2xjUUNnZTQ3SjI5TzZGV1VaNUlNbjVVUV9XeWhLTkxYTnRuWnpiNDlPVTkxSFMtR0h0b0dwcTUzdlpmRm1qTTY2MUZGSU1EazNaUzhjUzVJZS1kX29nQWd4RjNpUEo1SE14NGlMQVE0?oc=5\" target=\"_blank\"&gt;Relativity Invests in 2 Legal Tech Startups Via New Funding Arm Rel Labs&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Law.com&lt;/font&gt;",
-      "published": "2026-02-09T08:00:00.000Z",
       "source_id": "google-news-legal-tech-funding",
       "source_name": "Google News: legal tech funding",
       "source_priority": "critical",
