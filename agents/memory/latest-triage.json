@@ -1,60 +1,24 @@
 {
-  "generated": "2026-08-17T12:32:47.998Z",
+  "generated": "2026-08-17T13:31:20.138Z",
   "cycle_type": "triage",
-  "tier_filter": "B",
-  "shortlist_size": 5,
+  "tier_filter": "A",
+  "shortlist_size": 1,
   "prefilter": {
     "total": 40,
-    "accepted": 18,
+    "accepted": 2,
     "borderline": 0,
-    "rejected": 22,
-    "rejected_as_duplicate": 22,
-    "accept_rate": 45
+    "rejected": 38,
+    "rejected_as_duplicate": 38,
+    "accept_rate": 5
   },
   "model": "gemini-flash-lite-latest",
   "picks": [
     {
-      "id": "arxiv-cs-ai-0",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": null,
-      "why_now": "Pure computer science paper on chip design with no direct legal or regulatory nexus.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-1",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": null,
-      "why_now": "General LLM inference-time architecture paper without specific legal domain application.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-2",
+      "id": "google-news-legal-ai-0",
       "score": 3,
-      "category": "Research",
-      "suggested_angle": null,
-      "why_now": "Interesting safety neuron research, but lacks direct relevance to legal AI applications or regulation.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-3",
-      "score": 3,
-      "category": "Research",
-      "suggested_angle": null,
-      "why_now": "New Arabic-centric language model family, but too distant from core UK/US legal tech focus without a legal benchmarking angle.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-4",
-      "score": 4,
-      "category": "Research",
-      "suggested_angle": null,
-      "why_now": "Broad overview of 8 years of LLM progress, but purely academic and lacks specific application to legal practice or regulation.",
+      "category": "Legal AI",
+      "suggested_angle": "Focus on the foundational cybersecurity and admin setup before deploying AI.",
+      "why_now": "It is low-value regional commentary/opinion piece without primary news value or a distinct hook.",
       "verdict": "drop",
       "duplicate_of": null
     }
@@ -62,13 +26,13 @@
   "summary": {
     "enqueue_count": 0,
     "watch_count": 0,
-    "drop_count": 5,
-    "notes": "All candidate items are pure arXiv CS papers lacking direct legal, regulatory, or immigration tech angles."
+    "drop_count": 1,
+    "notes": "Dropped low-value opinion piece on account setup."
   },
   "enqueued": 0,
   "usage": {
-    "input_tokens": 2836,
-    "output_tokens": 525,
-    "total_tokens": 3361
+    "input_tokens": 2368,
+    "output_tokens": 176,
+    "total_tokens": 2544
   }
 }
