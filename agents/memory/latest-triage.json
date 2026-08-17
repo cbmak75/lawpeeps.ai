@@ -1,38 +1,74 @@
 {
-  "generated": "2026-08-17T12:18:43.192Z",
+  "generated": "2026-08-17T12:32:47.998Z",
   "cycle_type": "triage",
-  "tier_filter": "A",
-  "shortlist_size": 1,
+  "tier_filter": "B",
+  "shortlist_size": 5,
   "prefilter": {
     "total": 40,
-    "accepted": 2,
+    "accepted": 18,
     "borderline": 0,
-    "rejected": 38,
-    "rejected_as_duplicate": 38,
-    "accept_rate": 5
+    "rejected": 22,
+    "rejected_as_duplicate": 22,
+    "accept_rate": 45
   },
   "model": "gemini-flash-lite-latest",
   "picks": [
     {
-      "id": "google-news-legal-ai-0",
-      "score": 7,
-      "category": "Legal AI",
-      "suggested_angle": "Filevine makes its LOIS legal AI platform free, lowering the barrier to entry for legal AI tools.",
-      "why_now": "Product tier changes by major legal tech vendors directly impact market accessibility and competitive dynamics.",
-      "verdict": "enqueue",
+      "id": "arxiv-cs-ai-0",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "Pure computer science paper on chip design with no direct legal or regulatory nexus.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-1",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "General LLM inference-time architecture paper without specific legal domain application.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-2",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "Interesting safety neuron research, but lacks direct relevance to legal AI applications or regulation.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-3",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "New Arabic-centric language model family, but too distant from core UK/US legal tech focus without a legal benchmarking angle.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-4",
+      "score": 4,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "Broad overview of 8 years of LLM progress, but purely academic and lacks specific application to legal practice or regulation.",
+      "verdict": "drop",
       "duplicate_of": null
     }
   ],
   "summary": {
-    "enqueue_count": 1,
+    "enqueue_count": 0,
     "watch_count": 0,
-    "drop_count": 0,
-    "notes": "Processed Filevine LOIS free tier launch story for enqueue."
+    "drop_count": 5,
+    "notes": "All candidate items are pure arXiv CS papers lacking direct legal, regulatory, or immigration tech angles."
   },
-  "enqueued": 1,
+  "enqueued": 0,
   "usage": {
-    "input_tokens": 2357,
-    "output_tokens": 179,
-    "total_tokens": 2536
+    "input_tokens": 2836,
+    "output_tokens": 525,
+    "total_tokens": 3361
   }
 }
