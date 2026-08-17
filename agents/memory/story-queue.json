@@ -3349,7 +3349,68 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "Having Already Launched A Claude Connector, Trellis Extends AI Access to Its Court Data with ChatGPT Plugin and Its Own Chat Tool",
+      "slug": "having-already-launched-a-claude-connector-trellis-extends-ai-access-to-its-cour",
+      "score": 7,
+      "category": "Legal AI",
+      "story_type": "news",
+      "research_brief": "Trellis, a legal research company that provides state trial court data and insights, has expanded agentic AI access to its data with a new plugin for OpenAI&#8217;s ChatGPT and a native assistant called Trellis Chat, both of which are in addition to the Trellis MCP connector for Claude that the company launched in May. Trellis [&#8230;]",
+      "primary_source": "https://www.lawnext.com/2026/08/having-already-launched-a-claude-connector-trellis-extends-ai-access-to-its-court-data-with-chatgpt-plugin-and-its-own-chat-tool.html",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "Trellis expands court data reach via OpenAI plugin and native chat tool.",
+      "why_now": "Demonstrates the ongoing shift of legal data providers moving directly into conversational AI interfaces.",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "LawSites (Bob Ambrogi)",
+      "source_tier": "B",
+      "prefilter_score": 17,
+      "matched_terms": [
+        "GPT",
+        "Claude",
+        "OpenAI"
+      ],
+      "fingerprint": {
+        "entities": [
+          "openai"
+        ],
+        "numerics": [
+          "8k"
+        ],
+        "keywords": [
+          "gpt",
+          "claude"
+        ],
+        "title_tokens": [
+          "having",
+          "already",
+          "claude",
+          "connector",
+          "trellis",
+          "extends",
+          "ai",
+          "access",
+          "court",
+          "data",
+          "chatgpt",
+          "plugin",
+          "chat",
+          "tool"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-08-17T18:31:04.836Z",
+      "queued_at": "2026-08-17T18:31:04.841Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-08-17T16:13:38.456Z"
+  "last_updated": "2026-08-17T18:31:04.841Z"
 }

@@ -1,15 +1,65 @@
 {
-  "generated": "2026-08-17T18:21:04.505Z",
+  "generated": "2026-08-17T18:31:04.842Z",
   "cycle_type": "triage",
-  "shortlist_size": 0,
-  "picks": [],
+  "tier_filter": "B",
+  "shortlist_size": 4,
   "prefilter": {
     "total": 40,
-    "accepted": 0,
-    "borderline": 0,
-    "rejected": 40,
-    "rejected_as_duplicate": 40,
-    "accept_rate": 0
+    "accepted": 13,
+    "borderline": 1,
+    "rejected": 26,
+    "rejected_as_duplicate": 26,
+    "accept_rate": 33
   },
-  "skipped_already_triaged": 0
+  "model": "gemini-flash-lite-latest",
+  "picks": [
+    {
+      "id": "lawsites-0",
+      "score": 7,
+      "category": "Legal AI",
+      "suggested_angle": "Trellis expands court data reach via OpenAI plugin and native chat tool.",
+      "why_now": "Demonstrates the ongoing shift of legal data providers moving directly into conversational AI interfaces.",
+      "verdict": "enqueue",
+      "duplicate_of": null
+    },
+    {
+      "id": "ars-technica-ai-1",
+      "score": 4,
+      "category": "Research",
+      "suggested_angle": "Investigation reveals books destroyed for AI training data.",
+      "why_now": "General tech policy story rather than core legal AI or regulation focus.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "above-the-law-legaltech-2",
+      "score": 3,
+      "category": "Social",
+      "suggested_angle": "General morning legal industry news roundup.",
+      "why_now": "Low-value aggregation with no single primary focus for our legal AI editorial mandate.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "above-the-law-legaltech-3",
+      "score": 4,
+      "category": "Legal AI",
+      "suggested_angle": "Preview of upcoming ILTACON conference expectations.",
+      "why_now": "Pre-event roundup lacking specific hard news or primary announcements.",
+      "verdict": "drop",
+      "duplicate_of": null
+    }
+  ],
+  "summary": {
+    "enqueue_count": 1,
+    "watch_count": 0,
+    "drop_count": 3,
+    "notes": "Processed 4 candidate stories; keeping the LawSites product expansion piece and dropping general roundups and non-legal tech news."
+  },
+  "enqueued": 1,
+  "usage": {
+    "input_tokens": 2686,
+    "output_tokens": 465,
+    "total_tokens": 3151
+  }
 }
