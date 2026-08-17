@@ -3247,7 +3247,56 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "SRA issues AI warning on ‘hallucinations’ after Pinsents’ blunder - The Lawyer",
+      "slug": "sra-issues-ai-warning-on-hallucinations-after-pinsents-blunder-the-lawyer",
+      "score": 9,
+      "category": "Regulatory",
+      "story_type": "news",
+      "research_brief": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPLTc5SlRzR1NzYUtodUtDV0VHX2ZMZUxrZWQ2ckJFdmpGZHFDSEJSMmt6cUc2NktiU2NVYTZacDNyaURDcExtSlZseWtyWkFuUm5vMVhSMmFPQjdzTTZCNjNFVkZUbVVsRFdwVFNLbmNEblNKaTRnLVlqaU9heEllenM2S2c0X2tvUXVLU2g3WkQzWFU?oc=5\" target=\"_blank\"&gt;SRA issues AI warning on ‘hallucinations’ after Pinsents’ blunder&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Lawyer&lt;/font&gt;",
+      "primary_source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLTc5SlRzR1NzYUtodUtDV0VHX2ZMZUxrZWQ2ckJFdmpGZHFDSEJSMmt6cUc2NktiU2NVYTZacDNyaURDcExtSlZseWtyWkFuUm5vMVhSMmFPQjdzTTZCNjNFVkZUbVVsRFdwVFNLbmNEblNKaTRnLVlqaU9heEllenM2S2c0X2tvUXVLU2g3WkQzWFU?oc=5",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "SRA steps up regulatory pressure on AI hallucinations following high-profile law firm blunders.",
+      "why_now": "A direct regulatory statement and warning on AI hallucinations from the SRA scores high automatically based on our editorial principles.",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Google News: SRA AI",
+      "source_tier": "A",
+      "prefilter_score": 11,
+      "matched_terms": [
+        "SRA"
+      ],
+      "fingerprint": {
+        "entities": [
+          "solicitors regulation authority"
+        ],
+        "numerics": [],
+        "keywords": [
+          "sra"
+        ],
+        "title_tokens": [
+          "issues",
+          "ai",
+          "warning",
+          "hallucinations",
+          "pinsents",
+          "blunder",
+          "lawyer"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-08-17T15:14:52.013Z",
+      "queued_at": "2026-08-17T15:14:52.017Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-08-17T12:18:43.191Z"
+  "last_updated": "2026-08-17T15:14:52.017Z"
 }

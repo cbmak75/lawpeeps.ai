@@ -1,15 +1,38 @@
 {
-  "generated": "2026-08-17T14:16:17.766Z",
+  "generated": "2026-08-17T15:14:52.018Z",
   "cycle_type": "triage",
-  "shortlist_size": 0,
-  "picks": [],
+  "tier_filter": "A",
+  "shortlist_size": 1,
   "prefilter": {
     "total": 40,
-    "accepted": 1,
+    "accepted": 2,
     "borderline": 0,
-    "rejected": 39,
-    "rejected_as_duplicate": 39,
-    "accept_rate": 3
+    "rejected": 38,
+    "rejected_as_duplicate": 38,
+    "accept_rate": 5
   },
-  "skipped_already_triaged": 1
+  "model": "gemini-flash-lite-latest",
+  "picks": [
+    {
+      "id": "google-news-sra-ai-0",
+      "score": 9,
+      "category": "Regulatory",
+      "suggested_angle": "SRA steps up regulatory pressure on AI hallucinations following high-profile law firm blunders.",
+      "why_now": "A direct regulatory statement and warning on AI hallucinations from the SRA scores high automatically based on our editorial principles.",
+      "verdict": "enqueue",
+      "duplicate_of": null
+    }
+  ],
+  "summary": {
+    "enqueue_count": 1,
+    "watch_count": 0,
+    "drop_count": 0,
+    "notes": "SRA AI warning story is a top-tier regulatory update fitting our exact editorial criteria."
+  },
+  "enqueued": 1,
+  "usage": {
+    "input_tokens": 2349,
+    "output_tokens": 188,
+    "total_tokens": 2537
+  }
 }
