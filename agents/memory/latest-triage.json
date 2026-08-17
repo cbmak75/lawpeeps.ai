@@ -1,38 +1,38 @@
 {
-  "generated": "2026-08-17T11:15:09.607Z",
+  "generated": "2026-08-17T12:18:43.192Z",
   "cycle_type": "triage",
   "tier_filter": "A",
   "shortlist_size": 1,
   "prefilter": {
     "total": 40,
-    "accepted": 1,
+    "accepted": 2,
     "borderline": 0,
-    "rejected": 39,
-    "rejected_as_duplicate": 39,
-    "accept_rate": 3
+    "rejected": 38,
+    "rejected_as_duplicate": 38,
+    "accept_rate": 5
   },
   "model": "gemini-flash-lite-latest",
   "picks": [
     {
-      "id": "crunchbase-news-0",
-      "score": 2,
-      "category": "Funding",
-      "suggested_angle": null,
-      "why_now": "General tech venture roundup on semiconductor investments with no direct or specific legal vertical angle.",
-      "verdict": "drop",
+      "id": "google-news-legal-ai-0",
+      "score": 7,
+      "category": "Legal AI",
+      "suggested_angle": "Filevine makes its LOIS legal AI platform free, lowering the barrier to entry for legal AI tools.",
+      "why_now": "Product tier changes by major legal tech vendors directly impact market accessibility and competitive dynamics.",
+      "verdict": "enqueue",
       "duplicate_of": null
     }
   ],
   "summary": {
-    "enqueue_count": 0,
+    "enqueue_count": 1,
     "watch_count": 0,
-    "drop_count": 1,
-    "notes": "Dropped general semiconductor funding article as it lacks a legal vertical connection."
+    "drop_count": 0,
+    "notes": "Processed Filevine LOIS free tier launch story for enqueue."
   },
-  "enqueued": 0,
+  "enqueued": 1,
   "usage": {
-    "input_tokens": 2141,
-    "output_tokens": 161,
-    "total_tokens": 2302
+    "input_tokens": 2357,
+    "output_tokens": 179,
+    "total_tokens": 2536
   }
 }

@@ -3195,7 +3195,59 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "Filevine launches free version of LOIS legal AI platform - Massachusetts Lawyers Weekly",
+      "slug": "filevine-launches-free-version-of-lois-legal-ai-platform-massachusetts-lawyers-w",
+      "score": 7,
+      "category": "Legal AI",
+      "story_type": "news",
+      "research_brief": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOV0RyUDYwbHFYczkyX29sa0Q2VS1lUnFRMmJxeVFPSVpUd3BrUUlMaWx0YU1jX3o0OEp1RkJ1a0htc3dORy1XY3BhejVTMklQVnliNlBpbUVoNDhGVnNvTHJzUzNfRjdJVTZqRnNuOGZnVVZIUThpVEVsM013dkY5RHozME9FbUVlQ0hQT19nSDM?oc=5\" target=\"_blank\"&gt;Filevine launches free version of LOIS legal AI platform&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Massachusetts Lawyers Weekly&lt;/font&gt;",
+      "primary_source": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOV0RyUDYwbHFYczkyX29sa0Q2VS1lUnFRMmJxeVFPSVpUd3BrUUlMaWx0YU1jX3o0OEp1RkJ1a0htc3dORy1XY3BhejVTMklQVnliNlBpbUVoNDhGVnNvTHJzUzNfRjdJVTZqRnNuOGZnVVZIUThpVEVsM013dkY5RHozME9FbUVlQ0hQT19nSDM?oc=5",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "Filevine makes its LOIS legal AI platform free, lowering the barrier to entry for legal AI tools.",
+      "why_now": "Product tier changes by major legal tech vendors directly impact market accessibility and competitive dynamics.",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Google News: legal AI",
+      "source_tier": "A",
+      "prefilter_score": 12,
+      "matched_terms": [
+        "legal AI"
+      ],
+      "fingerprint": {
+        "entities": [],
+        "numerics": [
+          "3bn"
+        ],
+        "keywords": [
+          "legal ai"
+        ],
+        "title_tokens": [
+          "filevine",
+          "free",
+          "version",
+          "lois",
+          "legal",
+          "ai",
+          "platform",
+          "massachusetts",
+          "lawyers",
+          "weekly"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-08-17T12:18:43.188Z",
+      "queued_at": "2026-08-17T12:18:43.191Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-08-13T12:41:37.041Z"
+  "last_updated": "2026-08-17T12:18:43.191Z"
 }
