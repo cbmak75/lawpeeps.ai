@@ -3296,7 +3296,60 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "SRA looking into dozens of reports of AI misuse - lawgazette.co.uk",
+      "slug": "sra-looking-into-dozens-of-reports-of-ai-misuse-lawgazette-co-uk",
+      "score": 9,
+      "category": "Regulatory",
+      "story_type": "news",
+      "research_brief": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPRGR0c2RObUkzR3lUa2tQYS1GVmRVaktSR0FRQXNUVmxIdGQzYV9DNzBPVUp3ZHlpUmhodjV5c2tBRkdRYmJHdnZLU24wRjY4NUF1M09Ka2tYQTVQa3AxMWZYV0J2WmFIc1V6UUdMQnFORFJwWTl5WXV4M2dzTUVWSEc2ZXlpOGR1ZkVkNGQ4RTdUdEJ5UUQ0YzRnZ21mZw?oc=5\" target=\"_blank\"&gt;SRA looking into dozens of reports of AI misuse&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;lawgazette.co.uk&lt;/font&gt;",
+      "primary_source": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRGR0c2RObUkzR3lUa2tQYS1GVmRVaktSR0FRQXNUVmxIdGQzYV9DNzBPVUp3ZHlpUmhodjV5c2tBRkdRYmJHdnZLU24wRjY4NUF1M09Ka2tYQTVQa3AxMWZYV0J2WmFIc1V6UUdMQnFORFJwWTl5WXV4M2dzTUVWSEc2ZXlpOGR1ZkVkNGQ4RTdUdEJ5UUQ0YzRnZ21mZw?oc=5",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "SRA investigates dozens of reports regarding legal AI misuse.",
+      "why_now": "Direct regulatory enforcement and investigation update from the SRA on AI misuse hits our core UK regulatory and compliance focus.",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Google News: legal AI",
+      "source_tier": "A",
+      "prefilter_score": 12,
+      "matched_terms": [
+        "SRA"
+      ],
+      "fingerprint": {
+        "entities": [
+          "solicitors regulation authority"
+        ],
+        "numerics": [
+          "1m",
+          "09k",
+          "4m",
+          "21m"
+        ],
+        "keywords": [
+          "sra"
+        ],
+        "title_tokens": [
+          "looking",
+          "dozens",
+          "ai",
+          "misuse",
+          "lawgazette",
+          "uk"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-08-17T16:13:38.452Z",
+      "queued_at": "2026-08-17T16:13:38.456Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-08-17T15:14:52.017Z"
+  "last_updated": "2026-08-17T16:13:38.456Z"
 }
