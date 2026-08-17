@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-17T19:19:33.067Z",
+  "generated": "2026-08-17T20:13:35.863Z",
   "cycle_type": "triage",
-  "tier_filter": "A",
-  "shortlist_size": 1,
+  "shortlist_size": 0,
+  "picks": [],
   "prefilter": {
     "total": 40,
     "accepted": 1,
@@ -11,28 +11,5 @@
     "rejected_as_duplicate": 39,
     "accept_rate": 3
   },
-  "model": "gemini-flash-lite-latest",
-  "picks": [
-    {
-      "id": "google-news-legal-ai-0",
-      "score": 6,
-      "category": "Legal AI",
-      "suggested_angle": "How synthetic data generation is tackling privacy and scarcity bottlenecks for legal LLMs",
-      "why_now": "Addresses the fundamental data constraint limiting domain-specific legal foundation models.",
-      "verdict": "watch",
-      "duplicate_of": null
-    }
-  ],
-  "summary": {
-    "enqueue_count": 0,
-    "watch_count": 1,
-    "drop_count": 0,
-    "notes": "Single technical piece on synthetic datasets held for watch pending further primary validation."
-  },
-  "enqueued": 0,
-  "usage": {
-    "input_tokens": 2387,
-    "output_tokens": 177,
-    "total_tokens": 2564
-  }
+  "skipped_already_triaged": 1
 }
