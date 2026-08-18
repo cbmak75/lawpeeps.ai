@@ -1,47 +1,47 @@
 {
-  "generated": "2026-08-18T16:17:50.334Z",
+  "generated": "2026-08-18T17:17:39.255Z",
   "cycle_type": "triage",
   "tier_filter": "A",
   "shortlist_size": 2,
   "prefilter": {
     "total": 40,
-    "accepted": 3,
-    "borderline": 0,
-    "rejected": 37,
-    "rejected_as_duplicate": 37,
-    "accept_rate": 8
+    "accepted": 5,
+    "borderline": 10,
+    "rejected": 25,
+    "rejected_as_duplicate": 12,
+    "accept_rate": 13
   },
   "model": "gemini-flash-lite-latest",
   "picks": [
     {
-      "id": "google-news-legal-ai-0",
-      "score": 7,
-      "category": "Legal AI",
-      "suggested_angle": "NetDocuments introduces benchmark to measure context engineering in legal AI workflows",
-      "why_now": "Provides critical insight into how legal tech incumbents are attempting to measure and standardise AI context accuracy.",
-      "verdict": "enqueue",
+      "id": "mac-reports-0",
+      "score": 3,
+      "category": "Immigration AI",
+      "suggested_angle": "Migration Advisory Committee stakeholder engagement on worker visas",
+      "why_now": "Routine government stakeholder notice with no legal AI or substantive policy shift angle.",
+      "verdict": "drop",
       "duplicate_of": null
     },
     {
-      "id": "google-news-legal-ai-1",
-      "score": 9,
-      "category": "Legal AI",
-      "suggested_angle": "Harvey launches memory-centric 'Harvey II' update, marking a shift toward persistent contextual awareness in legal AI",
-      "why_now": "Major product evolution from a key market-leading watch-list company.",
-      "verdict": "enqueue",
+      "id": "home-office-immigration-1",
+      "score": 3,
+      "category": "Immigration AI",
+      "suggested_angle": "Windrush Compensation Scheme community outreach events",
+      "why_now": "Standard public awareness notice without any direct legal tech or regulatory news hook.",
+      "verdict": "drop",
       "duplicate_of": null
     }
   ],
   "summary": {
-    "enqueue_count": 2,
+    "enqueue_count": 0,
     "watch_count": 0,
-    "drop_count": 0,
-    "notes": "Both stories cover major legal AI developments (NetDocuments benchmark and Harvey's new release) worthy of primary coverage."
+    "drop_count": 2,
+    "notes": "Both shortlist items are standard government community and stakeholder engagement notices lacking any legal AI, regulatory, or tech angles."
   },
-  "enqueued": 2,
+  "enqueued": 0,
   "usage": {
-    "input_tokens": 2740,
-    "output_tokens": 299,
-    "total_tokens": 3039
+    "input_tokens": 2262,
+    "output_tokens": 271,
+    "total_tokens": 2533
   }
 }
