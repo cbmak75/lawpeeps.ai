@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-18T07:28:17.604Z",
+  "generated": "2026-08-18T08:21:20.730Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 685,
+  "total_scanned": 683,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -55,9 +55,9 @@
       "relevance_score": 8
     },
     {
-      "title": "Irish co-founded legal AI startup Wordsmith raises $70m - irishlegal.com",
+      "title": "Irish co-founded legal AI startup Wordsmith raises $70m - Irish Legal News",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMEZUVFoxTWF1a01MYi05c0pZSVZRT0ZGTnNrcWw3SmYtMlNJbDEyMkxCYkJTclBpTzVQOWR5bEdQVEVEbGNiemh1UHdDbmtfQVVseV9ITkpnNW1lUXJ5VlNhWXhSV2dzdjg2bG0tSHZ5M2pPbWtQSXFETkk4MFpubVVqMlBWVXNCTjRCODdXckVYTElG?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNMEZUVFoxTWF1a01MYi05c0pZSVZRT0ZGTnNrcWw3SmYtMlNJbDEyMkxCYkJTclBpTzVQOWR5bEdQVEVEbGNiemh1UHdDbmtfQVVseV9ITkpnNW1lUXJ5VlNhWXhSV2dzdjg2bG0tSHZ5M2pPbWtQSXFETkk4MFpubVVqMlBWVXNCTjRCODdXckVYTElG?oc=5\" target=\"_blank\"&gt;Irish co-founded legal AI startup Wordsmith raises $70m&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;irishlegal.com&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNMEZUVFoxTWF1a01MYi05c0pZSVZRT0ZGTnNrcWw3SmYtMlNJbDEyMkxCYkJTclBpTzVQOWR5bEdQVEVEbGNiemh1UHdDbmtfQVVseV9ITkpnNW1lUXJ5VlNhWXhSV2dzdjg2bG0tSHZ5M2pPbWtQSXFETkk4MFpubVVqMlBWVXNCTjRCODdXckVYTElG?oc=5\" target=\"_blank\"&gt;Irish co-founded legal AI startup Wordsmith raises $70m&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Irish Legal News&lt;/font&gt;",
       "published": "2026-06-05T07:00:00.000Z",
       "source_id": "google-news-legal-tech-funding",
       "source_name": "Google News: legal tech funding",
@@ -151,6 +151,18 @@
       "relevance_score": 7
     },
     {
+      "title": "SRA warns over AI misuse following rise in blunders - Legal Cheek",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQl93ZmtKVzBCdlFZS2luNVk5cjk0WnpzdEFUY2pFRF9oVE96UXFCSFppVUpwSVBVRTlHQUhfdG5UenFXUElEcmtvNUlOZWVCZk1MSTMtTWZCUDJaY0xTS0ZabXcyaU00RHhtOWt5LUg2OTZrcm1TbU5GVjU0V0tkZGs5alp2VVdFaVhTN3NGNFA?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNQl93ZmtKVzBCdlFZS2luNVk5cjk0WnpzdEFUY2pFRF9oVE96UXFCSFppVUpwSVBVRTlHQUhfdG5UenFXUElEcmtvNUlOZWVCZk1MSTMtTWZCUDJaY0xTS0ZabXcyaU00RHhtOWt5LUg2OTZrcm1TbU5GVjU0V0tkZGs5alp2VVdFaVhTN3NGNFA?oc=5\" target=\"_blank\"&gt;SRA warns over AI misuse following rise in blunders&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Legal Cheek&lt;/font&gt;",
+      "published": "2026-08-18T08:01:18.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
+    },
+    {
       "title": "Speed Without Structure: What Legal AI Is Really Exposing - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYXQ0UjktX3Z4SENsWnBlY2NUc0dCTW5adFN5enI0M0VNbjVzMU94TjhvV0VBT3dHMm5xTjBEcFpyeWc0NVFjOGhzRXVzSDRHalFjVkFFNG1URFBIR3F6YThRQ3JVNzlBTnV3MXpmNFBkYWlMbUx5czM2NEYzVFlYam9KWENPOVBYTUl6VTJnQktiTVlCVFhMQmxVQXlEMnJKVW5v?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNYXQ0UjktX3Z4SENsWnBlY2NUc0dCTW5adFN5enI0M0VNbjVzMU94TjhvV0VBT3dHMm5xTjBEcFpyeWc0NVFjOGhzRXVzSDRHalFjVkFFNG1URFBIR3F6YThRQ3JVNzlBTnV3MXpmNFBkYWlMbUx5czM2NEYzVFlYam9KWENPOVBYTUl6VTJnQktiTVlCVFhMQmxVQXlEMnJKVW5v?oc=5\" target=\"_blank\"&gt;Speed Without Structure: What Legal AI Is Really Exposing&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
@@ -163,9 +175,9 @@
       "relevance_score": 6
     },
     {
-      "title": "SRA cites hallucinations and client confidentiality concerns in AI warning note - Today's Family Lawyer",
+      "title": "SRA cites hallucinations and client confidentiality concerns in AI warning note - todaysfamilylawyer.co.uk",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdUhOTmdwRVZOZWh5OE51VjBLQUdDY0dfRW5XSWdNVTQ5bjNaTmM4aXk3bTdLZ3ZZZlQwQ2ZqVG5yLWlPZTNIZFk2T0UwRW9qZDVKUWNKRkhWbFpkaGU1a20xRklkU2pTMlBYanR6dDRodDhQb2lBY2Y5am1ULTF2MlotajY3TFNZRlNiMHE2MVRmZVBUZG9HSWtTZHBSWDNPNmxCZWR5b2QwYlVIdURXVHV5aw?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQdUhOTmdwRVZOZWh5OE51VjBLQUdDY0dfRW5XSWdNVTQ5bjNaTmM4aXk3bTdLZ3ZZZlQwQ2ZqVG5yLWlPZTNIZFk2T0UwRW9qZDVKUWNKRkhWbFpkaGU1a20xRklkU2pTMlBYanR6dDRodDhQb2lBY2Y5am1ULTF2MlotajY3TFNZRlNiMHE2MVRmZVBUZG9HSWtTZHBSWDNPNmxCZWR5b2QwYlVIdURXVHV5aw?oc=5\" target=\"_blank\"&gt;SRA cites hallucinations and client confidentiality concerns in AI warning note&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Today's Family Lawyer&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQdUhOTmdwRVZOZWh5OE51VjBLQUdDY0dfRW5XSWdNVTQ5bjNaTmM4aXk3bTdLZ3ZZZlQwQ2ZqVG5yLWlPZTNIZFk2T0UwRW9qZDVKUWNKRkhWbFpkaGU1a20xRklkU2pTMlBYanR6dDRodDhQb2lBY2Y5am1ULTF2MlotajY3TFNZRlNiMHE2MVRmZVBUZG9HSWtTZHBSWDNPNmxCZWR5b2QwYlVIdURXVHV5aw?oc=5\" target=\"_blank\"&gt;SRA cites hallucinations and client confidentiality concerns in AI warning note&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;todaysfamilylawyer.co.uk&lt;/font&gt;",
       "published": "2026-08-18T04:17:40.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
@@ -211,10 +223,10 @@
       "relevance_score": 6
     },
     {
-      "title": "Eversheds Sutherland’s global co-CEO Keith Froud talks Harvey, AI adoption and ROI - Legal IT Insider",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOUJDMnROZUthMW13YnFBdlRCb0YwZE50ZmlPQ2tOZTNzd0tpa1lUd24xZTRINTkyazN6VzBJZFNrSXQtUUkyRklNblNNVW9HeUFHMGpaRGE4WFZBb0hISk1yVVdTSzBEVk9UN2pTeWlsaUxndWozWUtIM29wZEJnWDhkRnZrTURfZy1la3VqeW52SnBQWGFpNGdLSG50ZzNWbzhVVmhybE44ZEpvMkE?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPOUJDMnROZUthMW13YnFBdlRCb0YwZE50ZmlPQ2tOZTNzd0tpa1lUd24xZTRINTkyazN6VzBJZFNrSXQtUUkyRklNblNNVW9HeUFHMGpaRGE4WFZBb0hISk1yVVdTSzBEVk9UN2pTeWlsaUxndWozWUtIM29wZEJnWDhkRnZrTURfZy1la3VqeW52SnBQWGFpNGdLSG50ZzNWbzhVVmhybE44ZEpvMkE?oc=5\" target=\"_blank\"&gt;Eversheds Sutherland’s global co-CEO Keith Froud talks Harvey, AI adoption and ROI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Legal IT Insider&lt;/font&gt;",
-      "published": "2026-02-11T08:00:00.000Z",
+      "title": ":Harvey: and ElevenLabs Partner to Give Lawyers a Global Voice - Harvey",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxON1U5aHpIdnkyQk5fWEN4WVZnU0E5eWVqR0I3RWI2RkdFMjlrZ2RETmhFNzdnLXhET2sydHkwdm5HYnFQTmxIT3RRbXI4WmxzTWhHbGdYbXoteFZ3OUlVdFh5REdUdE93M2paejNvVjcyaXIta2swSHJ1UWIxMXF2a0M2SEhsd0dnNmVlNUNfczE?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxON1U5aHpIdnkyQk5fWEN4WVZnU0E5eWVqR0I3RWI2RkdFMjlrZ2RETmhFNzdnLXhET2sydHkwdm5HYnFQTmxIT3RRbXI4WmxzTWhHbGdYbXoteFZ3OUlVdFh5REdUdE93M2paejNvVjcyaXIta2swSHJ1UWIxMXF2a0M2SEhsd0dnNmVlNUNfczE?oc=5\" target=\"_blank\"&gt;:Harvey: and ElevenLabs Partner to Give Lawyers a Global Voice&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
+      "published": "2025-11-12T08:00:00.000Z",
       "source_id": "google-news-harvey-luminance",
       "source_name": "Google News: Harvey OR Luminance",
       "source_priority": "critical",
@@ -223,10 +235,10 @@
       "relevance_score": 6
     },
     {
-      "title": ":Harvey: and ElevenLabs Partner to Give Lawyers a Global Voice - Harvey",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxON1U5aHpIdnkyQk5fWEN4WVZnU0E5eWVqR0I3RWI2RkdFMjlrZ2RETmhFNzdnLXhET2sydHkwdm5HYnFQTmxIT3RRbXI4WmxzTWhHbGdYbXoteFZ3OUlVdFh5REdUdE93M2paejNvVjcyaXIta2swSHJ1UWIxMXF2a0M2SEhsd0dnNmVlNUNfczE?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxON1U5aHpIdnkyQk5fWEN4WVZnU0E5eWVqR0I3RWI2RkdFMjlrZ2RETmhFNzdnLXhET2sydHkwdm5HYnFQTmxIT3RRbXI4WmxzTWhHbGdYbXoteFZ3OUlVdFh5REdUdE93M2paejNvVjcyaXIta2swSHJ1UWIxMXF2a0M2SEhsd0dnNmVlNUNfczE?oc=5\" target=\"_blank\"&gt;:Harvey: and ElevenLabs Partner to Give Lawyers a Global Voice&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
-      "published": "2025-11-12T08:00:00.000Z",
+      "title": "Eversheds Sutherland’s global co-CEO Keith Froud talks Harvey, AI adoption and ROI - Legal IT Insider",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOUJDMnROZUthMW13YnFBdlRCb0YwZE50ZmlPQ2tOZTNzd0tpa1lUd24xZTRINTkyazN6VzBJZFNrSXQtUUkyRklNblNNVW9HeUFHMGpaRGE4WFZBb0hISk1yVVdTSzBEVk9UN2pTeWlsaUxndWozWUtIM29wZEJnWDhkRnZrTURfZy1la3VqeW52SnBQWGFpNGdLSG50ZzNWbzhVVmhybE44ZEpvMkE?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPOUJDMnROZUthMW13YnFBdlRCb0YwZE50ZmlPQ2tOZTNzd0tpa1lUd24xZTRINTkyazN6VzBJZFNrSXQtUUkyRklNblNNVW9HeUFHMGpaRGE4WFZBb0hISk1yVVdTSzBEVk9UN2pTeWlsaUxndWozWUtIM29wZEJnWDhkRnZrTURfZy1la3VqeW52SnBQWGFpNGdLSG50ZzNWbzhVVmhybE44ZEpvMkE?oc=5\" target=\"_blank\"&gt;Eversheds Sutherland’s global co-CEO Keith Froud talks Harvey, AI adoption and ROI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Legal IT Insider&lt;/font&gt;",
+      "published": "2026-02-11T08:00:00.000Z",
       "source_id": "google-news-harvey-luminance",
       "source_name": "Google News: Harvey OR Luminance",
       "source_priority": "critical",
@@ -266,18 +278,6 @@
       "source_id": "google-news-harvey-luminance",
       "source_name": "Google News: Harvey OR Luminance",
       "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
-    },
-    {
-      "title": "SRA cites hallucinations and client confidentiality concerns in AI warning note - Today's Conveyancer",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVDRQejFDTlhlT2dMc3ZqTGtmYkViSHJNRzZNaXhYc2F1b3JrV3BhZl9VWDU2SVJQT0Z4VVlQRU0yOHlkODR4VGhjX0M4RDh0Tm5GZEM3ZmluMG9FbUNQaDlSNVllVThUcFNSOXctVVgtUE91UWFPdm9vTlI3V21ObGRuQVdZYi1Dc05CVGduT0Y5NzB4SFFNTlRFM0gxQUl2TTNEVjNUeXg3am5EaFpBWElR?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNVDRQejFDTlhlT2dMc3ZqTGtmYkViSHJNRzZNaXhYc2F1b3JrV3BhZl9VWDU2SVJQT0Z4VVlQRU0yOHlkODR4VGhjX0M4RDh0Tm5GZEM3ZmluMG9FbUNQaDlSNVllVThUcFNSOXctVVgtUE91UWFPdm9vTlI3V21ObGRuQVdZYi1Dc05CVGduT0Y5NzB4SFFNTlRFM0gxQUl2TTNEVjNUeXg3am5EaFpBWElR?oc=5\" target=\"_blank\"&gt;SRA cites hallucinations and client confidentiality concerns in AI warning note&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Today's Conveyancer&lt;/font&gt;",
-      "published": "2026-08-18T03:45:50.000Z",
-      "source_id": "google-news-sra-ai",
-      "source_name": "Google News: SRA AI",
-      "source_priority": "high",
       "source_tier": "A",
       "source_category": "Aggregator",
       "relevance_score": 6
