@@ -1,38 +1,15 @@
 {
-  "generated": "2026-08-18T19:20:00.986Z",
+  "generated": "2026-08-18T20:10:24.297Z",
   "cycle_type": "triage",
-  "tier_filter": "A",
-  "shortlist_size": 1,
+  "shortlist_size": 0,
+  "picks": [],
   "prefilter": {
     "total": 40,
-    "accepted": 1,
+    "accepted": 0,
     "borderline": 0,
-    "rejected": 39,
-    "rejected_as_duplicate": 39,
-    "accept_rate": 3
+    "rejected": 40,
+    "rejected_as_duplicate": 40,
+    "accept_rate": 0
   },
-  "model": "gemini-flash-lite-latest",
-  "picks": [
-    {
-      "id": "google-news-legal-ai-0",
-      "score": 7,
-      "category": "Legal AI",
-      "suggested_angle": "Litera bridges draft and negotiation workflows in latest AI push",
-      "why_now": "Major legal tech incumbent product expansion covering core transactional workflows, aligning with LawSites coverage profile.",
-      "verdict": "enqueue",
-      "duplicate_of": null
-    }
-  ],
-  "summary": {
-    "enqueue_count": 1,
-    "watch_count": 0,
-    "drop_count": 0,
-    "notes": "Single relevant legal tech product update from Litera suitable for enqueuing."
-  },
-  "enqueued": 1,
-  "usage": {
-    "input_tokens": 2405,
-    "output_tokens": 180,
-    "total_tokens": 2585
-  }
+  "skipped_already_triaged": 0
 }
