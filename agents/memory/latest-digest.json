@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-18T21:12:43.135Z",
+  "generated": "2026-08-18T22:10:25.200Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 757,
+  "total_scanned": 758,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -319,10 +319,22 @@
       "relevance_score": 6
     },
     {
+      "title": "DraftWise Leverages Cohere, Will Keep Narrow Focus - Artificial Lawyer",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPc19yRHo2cFVHQ2NiYWhEc1ByYm1jYWdnVnVEVW1VMDRpdFNfNzFHaWpJRS1Rd1V2Y0ZVQVlvS0ZudnJGa2ZLZUFqY09nS2dkY0RYbV9aLVVObVVBaHNJanhKOWxWS05KOFZjaEtKZlUtaUd4bDBPWk9iaDFHQTNfamtyeTAya3NyRnkzbGhkVDNZYjlIa0NlN1l3?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPc19yRHo2cFVHQ2NiYWhEc1ByYm1jYWdnVnVEVW1VMDRpdFNfNzFHaWpJRS1Rd1V2Y0ZVQVlvS0ZudnJGa2ZLZUFqY09nS2dkY0RYbV9aLVVObVVBaHNJanhKOWxWS05KOFZjaEtKZlUtaUd4bDBPWk9iaDFHQTNfamtyeTAya3NyRnkzbGhkVDNZYjlIa0NlN1l3?oc=5\" target=\"_blank\"&gt;DraftWise Leverages Cohere, Will Keep Narrow Focus&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
+      "published": "2024-10-09T07:00:00.000Z",
+      "source_id": "google-news-contract-ai",
+      "source_name": "Google News: contract AI",
+      "source_priority": "medium",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
+    },
+    {
       "title": "Cardium Law selects iManage to strengthen document management and support future AI innovation - Legal Futures",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQczhVVUFFZncxdFNySkUzWU1mZ1RWbU84Y2JqbXRfN0dhTkVoV1lCSHhFYVpsT1N0NnkzcDNqelBEY01qTjhMdmdXM09iVlp0NGJhNUdJdjV6TTR4M0hPSVJsS0tQOHRCUTdPZ1Y1Y1ZJRFFUVnJkWE5ubFB1dHJEVHJkWXdIMEtDQXpobTd5RzBUQkVsWHVnWHdOeHBVazRKOWQxVWtKX05SakRLQXdSbThPUF9PcW9vTDNBdDA1dVQ5UzlKX3BqNmE4dDRyWVpWNFM2T0Z3aw?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQczhVVUFFZncxdFNySkUzWU1mZ1RWbU84Y2JqbXRfN0dhTkVoV1lCSHhFYVpsT1N0NnkzcDNqelBEY01qTjhMdmdXM09iVlp0NGJhNUdJdjV6TTR4M0hPSVJsS0tQOHRCUTdPZ1Y1Y1ZJRFFUVnJkWE5ubFB1dHJEVHJkWXdIMEtDQXpobTd5RzBUQkVsWHVnWHdOeHBVazRKOWQxVWtKX05SakRLQXdSbThPUF9PcW9vTDNBdDA1dVQ5UzlKX3BqNmE4dDRyWVpWNFM2T0Z3aw?oc=5\" target=\"_blank\"&gt;Cardium Law selects iManage to strengthen document management and support future AI innovation&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;fon",
-      "published": "2026-08-18T15:11:15.000Z",
+      "published": "2026-08-18T15:15:42.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
@@ -463,24 +475,12 @@
       "relevance_score": 5
     },
     {
-      "title": "Legal AI adoption: How law firms and legal departments achieve time savings and revenue growth - Wolters Kluwer",
+      "title": "Legal AI adoption: How law firms and legal departments achieve time savings and revenue growth - wolterskluwer.com",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbDBxN0hGdEY2bi1IaUt3T0xiLUZ4S1hUdXI5UFRnVnBtRllfN2hJeUVmN3pibnhwOThmTGJoZUNIQWQxUlJjTHhKbkY1QXlGZUZ4R281NXlrTVE0TDJlLVFnSEpmV3ZiWUtudDROUGczTGtvVEZTRjdrMG9NZ2ppejc1Y2pwaWNnQU96ZkJsdGg5TXpjbm04aG1naDRtZw?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNbDBxN0hGdEY2bi1IaUt3T0xiLUZ4S1hUdXI5UFRnVnBtRllfN2hJeUVmN3pibnhwOThmTGJoZUNIQWQxUlJjTHhKbkY1QXlGZUZ4R281NXlrTVE0TDJlLVFnSEpmV3ZiWUtudDROUGczTGtvVEZTRjdrMG9NZ2ppejc1Y2pwaWNnQU96ZkJsdGg5TXpjbm04aG1naDRtZw?oc=5\" target=\"_blank\"&gt;Legal AI adoption: How law firms and legal departments achieve time savings and revenue growth&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Wolters Kluwer&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNbDBxN0hGdEY2bi1IaUt3T0xiLUZ4S1hUdXI5UFRnVnBtRllfN2hJeUVmN3pibnhwOThmTGJoZUNIQWQxUlJjTHhKbkY1QXlGZUZ4R281NXlrTVE0TDJlLVFnSEpmV3ZiWUtudDROUGczTGtvVEZTRjdrMG9NZ2ppejc1Y2pwaWNnQU96ZkJsdGg5TXpjbm04aG1naDRtZw?oc=5\" target=\"_blank\"&gt;Legal AI adoption: How law firms and legal departments achieve time savings and revenue growth&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;wolterskluwer.com&lt;/font&gt;",
       "published": "2026-03-10T15:53:49.000Z",
       "source_id": "google-news-law-firm-ai",
       "source_name": "Google News: law firm AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 5
-    },
-    {
-      "title": "Legal Tech Roundup: NYAI, Harvey, Legora - Law360",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb0N4eVpRMWtnTExmcjA1QjFLeHUxUFgwOVhzb1lGaUl0T1MzSUpreDl4ZkJYTDF0aWFsTW93LXRaMWdaTXlaNWhESWN4ZHdXZGphOTV3MHpHbk5icTZZYlBOYndpbE8xZnpHbWt1U0h2b2pPbmpMaTFMUDNaeFBqQXZTRTI4elRGMnBJ0gFeQVVfeXFMTU15WUhaQmc3SGkyb1UzRUpCR2xMdFdKYmY3dHFuMDlrSnJNamxXRHR4bzBUZEt1Vm5KZkxld2gtR1UtVmxqdVJCdnJ4VXJwQXRGUkdNQkFuNHhSbE01UQ?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb0N4eVpRMWtnTExmcjA1QjFLeHUxUFgwOVhzb1lGaUl0T1MzSUpreDl4ZkJYTDF0aWFsTW93LXRaMWdaTXlaNWhESWN4ZHdXZGphOTV3MHpHbk5icTZZYlBOYndpbE8xZnpHbWt1U0h2b2pPbmpMaTFMUDNaeFBqQXZTRTI4elRGMnBJ0gFeQVVfeXFMTU15WUhaQmc3SGkyb1UzRUpCR2xMdFdKYmY3dHFuMDlrSnJNamxXRHR4bzBUZEt1Vm5KZkxld2gtR1UtVmxqdVJCdnJ4VXJwQXRGUkdNQkFuNHhSbE01UQ?oc=5\" target=\"_blank\"&gt;Legal Tech Roundup: NYAI, Harvey, Legora&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Law36",
-      "published": "2026-08-07T18:18:00.000Z",
-      "source_id": "google-news-legal-tech-funding",
-      "source_name": "Google News: legal tech funding",
       "source_priority": "critical",
       "source_tier": "A",
       "source_category": "Aggregator",
