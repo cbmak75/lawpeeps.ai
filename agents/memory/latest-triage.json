@@ -1,15 +1,38 @@
 {
-  "generated": "2026-08-18T11:14:27.985Z",
+  "generated": "2026-08-18T12:20:48.035Z",
   "cycle_type": "triage",
-  "shortlist_size": 0,
-  "picks": [],
+  "tier_filter": "A",
+  "shortlist_size": 1,
   "prefilter": {
     "total": 40,
-    "accepted": 0,
+    "accepted": 1,
     "borderline": 0,
-    "rejected": 40,
-    "rejected_as_duplicate": 40,
-    "accept_rate": 0
+    "rejected": 39,
+    "rejected_as_duplicate": 39,
+    "accept_rate": 3
   },
-  "skipped_already_triaged": 0
+  "model": "gemini-flash-lite-latest",
+  "picks": [
+    {
+      "id": "google-news-legal-tech-funding-0",
+      "score": 9,
+      "category": "Funding",
+      "suggested_angle": "Irish co-founded legal AI start-up Wordsmith secures $70m funding round",
+      "why_now": "A major $70m funding round for a legal AI company is a significant market event that meets our automated scoring criteria for watch-list/named funding rounds.",
+      "verdict": "enqueue",
+      "duplicate_of": null
+    }
+  ],
+  "summary": {
+    "enqueue_count": 1,
+    "watch_count": 0,
+    "drop_count": 0,
+    "notes": "Processed 1 shortlist item: major legal AI funding round queued for publication."
+  },
+  "enqueued": 1,
+  "usage": {
+    "input_tokens": 2366,
+    "output_tokens": 198,
+    "total_tokens": 2564
+  }
 }

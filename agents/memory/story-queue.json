@@ -3513,7 +3513,62 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "Irish co-founded legal AI start-up Wordsmith raises $70m - Think Business",
+      "slug": "irish-co-founded-legal-ai-start-up-wordsmith-raises-70m-think-business",
+      "score": 9,
+      "category": "Funding",
+      "story_type": "news",
+      "research_brief": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPVFhNQWNaVThZLWFnSHNZc3ljcGdhZXdGWk5wdDRsZ1NKSWJZQ0lmcTJrbGtwM3hlZnpMNGlSVzBWM3pPYk5oQVlrUy0wMFRlMWpBb0Q2S3pmSWlpbE5meWstanBjVG0yQlBxTEpIMmwxTjAxSEVwMzVYWmdvZ0ZRamtaR3EzMGJqR2dxajhlTVAtcVpwVzNoSg?oc=5\" target=\"_blank\"&gt;Irish co-founded legal AI start-up Wordsmith raises $70m&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Think Business&lt;/font&gt;",
+      "primary_source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVFhNQWNaVThZLWFnSHNZc3ljcGdhZXdGWk5wdDRsZ1NKSWJZQ0lmcTJrbGtwM3hlZnpMNGlSVzBWM3pPYk5oQVlrUy0wMFRlMWpBb0Q2S3pmSWlpbE5meWstanBjVG0yQlBxTEpIMmwxTjAxSEVwMzVYWmdvZ0ZRamtaR3EzMGJqR2dxajhlTVAtcVpwVzNoSg?oc=5",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "Irish co-founded legal AI start-up Wordsmith secures $70m funding round",
+      "why_now": "A major $70m funding round for a legal AI company is a significant market event that meets our automated scoring criteria for watch-list/named funding rounds.",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Google News: legal tech funding",
+      "source_tier": "A",
+      "prefilter_score": 12,
+      "matched_terms": [
+        "legal AI",
+        "Wordsmith"
+      ],
+      "fingerprint": {
+        "entities": [
+          "wordsmith"
+        ],
+        "numerics": [
+          "70m",
+          "5m"
+        ],
+        "keywords": [
+          "legal ai"
+        ],
+        "title_tokens": [
+          "irish",
+          "founded",
+          "legal",
+          "ai",
+          "start",
+          "wordsmith",
+          "raises",
+          "think",
+          "business"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-08-18T12:20:48.031Z",
+      "queued_at": "2026-08-18T12:20:48.034Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-08-18T09:20:28.865Z"
+  "last_updated": "2026-08-18T12:20:48.034Z"
 }
