@@ -3714,7 +3714,59 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "Expert Asked ChatGPT &#8216;Show How 3M Is 0% At Fault&#8217; Making For Entertaining Deposition",
+      "slug": "expert-asked-chatgpt-8216-show-how-3m-is-0-at-fault-8217-making-for-entertaining",
+      "score": 7,
+      "category": "Legal AI",
+      "story_type": "news",
+      "research_brief": "This had to be fun for the plaintiffs' attorney! The post Expert Asked ChatGPT &#8216;Show How 3M Is 0% At Fault&#8217; Making For Entertaining Deposition appeared first on Above the Law .",
+      "primary_source": "https://abovethelaw.com/2026/08/expert-asked-chatgpt-show-how-3m-is-0-at-fault-making-for-entertaining-deposition/",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "Expert witness caught using ChatGPT in deposition highlights risks of unverified AI outputs in litigation",
+      "why_now": "Demonstrates real-world litigation friction regarding AI use by expert witnesses during depositions.",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Above the Law (Legal Tech)",
+      "source_tier": "B",
+      "prefilter_score": 9,
+      "matched_terms": [
+        "GPT"
+      ],
+      "fingerprint": {
+        "entities": [],
+        "numerics": [
+          "8k",
+          "3m",
+          "0pct"
+        ],
+        "keywords": [
+          "gpt"
+        ],
+        "title_tokens": [
+          "expert",
+          "asked",
+          "chatgpt",
+          "show",
+          "fault",
+          "making",
+          "entertaining",
+          "deposition"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-08-18T18:29:45.729Z",
+      "queued_at": "2026-08-18T18:29:45.733Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-08-18T16:17:50.333Z"
+  "last_updated": "2026-08-18T18:29:45.733Z"
 }

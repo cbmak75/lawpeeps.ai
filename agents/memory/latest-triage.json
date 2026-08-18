@@ -1,15 +1,47 @@
 {
-  "generated": "2026-08-18T18:19:38.352Z",
+  "generated": "2026-08-18T18:29:45.734Z",
   "cycle_type": "triage",
-  "shortlist_size": 0,
-  "picks": [],
+  "tier_filter": "B",
+  "shortlist_size": 2,
   "prefilter": {
     "total": 40,
-    "accepted": 1,
+    "accepted": 9,
     "borderline": 0,
-    "rejected": 39,
-    "rejected_as_duplicate": 39,
-    "accept_rate": 3
+    "rejected": 31,
+    "rejected_as_duplicate": 31,
+    "accept_rate": 23
   },
-  "skipped_already_triaged": 1
+  "model": "gemini-flash-lite-latest",
+  "picks": [
+    {
+      "id": "ars-technica-ai-0",
+      "score": 5,
+      "category": "Legal AI",
+      "suggested_angle": "Microsoft Copilot vulnerability exposes security risks for enterprise legal deployments",
+      "why_now": "General cybersecurity news rather than a direct legal tech focus, though relevant to enterprise risk.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "above-the-law-legaltech-1",
+      "score": 7,
+      "category": "Legal AI",
+      "suggested_angle": "Expert witness caught using ChatGPT in deposition highlights risks of unverified AI outputs in litigation",
+      "why_now": "Demonstrates real-world litigation friction regarding AI use by expert witnesses during depositions.",
+      "verdict": "enqueue",
+      "duplicate_of": null
+    }
+  ],
+  "summary": {
+    "enqueue_count": 1,
+    "watch_count": 0,
+    "drop_count": 1,
+    "notes": "Picked the Above the Law litigation/expert witness AI story for direct legal relevance; dropped the general Copilot security piece."
+  },
+  "enqueued": 1,
+  "usage": {
+    "input_tokens": 2348,
+    "output_tokens": 294,
+    "total_tokens": 2642
+  }
 }
