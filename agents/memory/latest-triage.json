@@ -1,38 +1,15 @@
 {
-  "generated": "2026-08-18T00:54:33.349Z",
+  "generated": "2026-08-18T02:08:30.843Z",
   "cycle_type": "triage",
-  "tier_filter": "B",
-  "shortlist_size": 1,
+  "shortlist_size": 0,
+  "picks": [],
   "prefilter": {
     "total": 40,
-    "accepted": 15,
+    "accepted": 0,
     "borderline": 0,
-    "rejected": 25,
-    "rejected_as_duplicate": 25,
-    "accept_rate": 38
+    "rejected": 40,
+    "rejected_as_duplicate": 40,
+    "accept_rate": 0
   },
-  "model": "gemini-flash-lite-latest",
-  "picks": [
-    {
-      "id": "legal-futures-0",
-      "score": 4,
-      "category": "Regulatory",
-      "suggested_angle": "Rising legal aid deserts highlight the widening justice gap in the UK.",
-      "why_now": "Important domestic legal sector news, but outside our core focus on legal AI, regulation of AI, and major legal tech movements.",
-      "verdict": "drop",
-      "duplicate_of": null
-    }
-  ],
-  "summary": {
-    "enqueue_count": 0,
-    "watch_count": 0,
-    "drop_count": 1,
-    "notes": "Dropped legal aid desert story as it falls outside core legal AI and tech focus."
-  },
-  "enqueued": 0,
-  "usage": {
-    "input_tokens": 2151,
-    "output_tokens": 184,
-    "total_tokens": 2335
-  }
+  "skipped_already_triaged": 0
 }
