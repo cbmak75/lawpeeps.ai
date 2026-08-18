@@ -1,38 +1,65 @@
 {
-  "generated": "2026-08-18T12:20:48.035Z",
+  "generated": "2026-08-18T12:34:21.779Z",
   "cycle_type": "triage",
-  "tier_filter": "A",
-  "shortlist_size": 1,
+  "tier_filter": "B",
+  "shortlist_size": 4,
   "prefilter": {
     "total": 40,
-    "accepted": 1,
+    "accepted": 19,
     "borderline": 0,
-    "rejected": 39,
-    "rejected_as_duplicate": 39,
-    "accept_rate": 3
+    "rejected": 21,
+    "rejected_as_duplicate": 21,
+    "accept_rate": 48
   },
   "model": "gemini-flash-lite-latest",
   "picks": [
     {
-      "id": "google-news-legal-tech-funding-0",
-      "score": 9,
-      "category": "Funding",
-      "suggested_angle": "Irish co-founded legal AI start-up Wordsmith secures $70m funding round",
-      "why_now": "A major $70m funding round for a legal AI company is a significant market event that meets our automated scoring criteria for watch-list/named funding rounds.",
+      "id": "legal-futures-0",
+      "score": 7,
+      "category": "Regulatory",
+      "suggested_angle": "Partners face personal liability under the UK's failure to prevent fraud offence.",
+      "why_now": "Directly impacts UK law firm risk management and partner accountability.",
       "verdict": "enqueue",
+      "duplicate_of": null
+    },
+    {
+      "id": "hacker-news-1",
+      "score": 3,
+      "category": "Social",
+      "suggested_angle": "Generic resume tool launch on Hacker News.",
+      "why_now": "No legal or regulatory nexus; standard promotional post.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "arxiv-cs-ai-2": "arxiv-cs-ai-2",
+      "score": 4,
+      "category": "Research",
+      "suggested_angle": "Agentic data cleaning without reference data.",
+      "why_now": "Too academic without an immediate legal tech application hook.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-3",
+      "score": 4,
+      "category": "Research",
+      "suggested_angle": "Multi-aspect page annotation for long-document multimodal VQA.",
+      "why_now": "General computer science research paper without a specific legal document workflow focus.",
+      "verdict": "drop",
       "duplicate_of": null
     }
   ],
   "summary": {
     "enqueue_count": 1,
     "watch_count": 0,
-    "drop_count": 0,
-    "notes": "Processed 1 shortlist item: major legal AI funding round queued for publication."
+    "drop_count": 3,
+    "notes": "Kept the UK partner liability piece for its regulatory relevance; dropped generic tech and academic papers lacking a direct legal hook."
   },
   "enqueued": 1,
   "usage": {
-    "input_tokens": 2366,
-    "output_tokens": 198,
-    "total_tokens": 2564
+    "input_tokens": 2633,
+    "output_tokens": 458,
+    "total_tokens": 3091
   }
 }

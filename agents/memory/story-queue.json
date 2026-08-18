@@ -3568,7 +3568,58 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "The new fraud offence that makes partners personally liable for client money",
+      "slug": "the-new-fraud-offence-that-makes-partners-personally-liable-for-client-money",
+      "score": 7,
+      "category": "Regulatory",
+      "story_type": "news",
+      "research_brief": "The 'failure to prevent fraud' offence under the Economic Crime and Corporate Transparency Act 2023 has been in force since 1 September 2025, creating personal and corporate liability for firms that can't show 'reasonable procedures' to prevent fraud, including misappropriation of client money. The post The new fraud offence that makes partners personally liable for client money appeared first on Legal Futures .",
+      "primary_source": "https://www.legalfutures.co.uk/associate-news/the-new-fraud-offence-that-makes-partners-personally-liable-for-client-money",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "Partners face personal liability under the UK's failure to prevent fraud offence.",
+      "why_now": "Directly impacts UK law firm risk management and partner accountability.",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Legal Futures",
+      "source_tier": "B",
+      "prefilter_score": 8,
+      "matched_terms": [
+        "Eve"
+      ],
+      "fingerprint": {
+        "entities": [
+          "eve"
+        ],
+        "numerics": [
+          "2023y",
+          "2025y"
+        ],
+        "keywords": [],
+        "title_tokens": [
+          "fraud",
+          "offence",
+          "makes",
+          "partners",
+          "personally",
+          "liable",
+          "client",
+          "money"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-08-18T12:34:21.775Z",
+      "queued_at": "2026-08-18T12:34:21.778Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-08-18T12:20:48.034Z"
+  "last_updated": "2026-08-18T12:34:21.778Z"
 }
