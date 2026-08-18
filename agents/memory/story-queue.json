@@ -3766,7 +3766,64 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "Litera Connects Contract Drafting and Negotiation in One Trusted Legal AI Workflow - LawSites",
+      "slug": "litera-connects-contract-drafting-and-negotiation-in-one-trusted-legal-ai-workfl",
+      "score": 7,
+      "category": "Legal AI",
+      "story_type": "news",
+      "research_brief": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZE1nMUVKc2NuMjZBdFFEUTZ5U2FoUkZXYW1Ma1R5NlFNQ0xFd0lVUDE2WmJTbVNWVUxWNjd3RFIwZV9zd2xXZHVhT2JpYkRlMTlFZHdBb29MUXB5RHlsbE9WV0RrLWJtWmtHSlkzbUc4Mlk2WEhOenVVQk11NnZfUklCLTNWbXB3T2xhNGUwdGVEckZVemJ5dEpOR2pyNWYtVnlwU3JYUWJ4V2hwRkN6RTVTSXJRY2hrM1A4?oc=5\" target=\"_blank\"&gt;Litera Connects Contract Drafting and Negotiation in One Trusted Legal AI Workflow&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;LawSites&lt;/font&gt;",
+      "primary_source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZE1nMUVKc2NuMjZBdFFEUTZ5U2FoUkZXYW1Ma1R5NlFNQ0xFd0lVUDE2WmJTbVNWVUxWNjd3RFIwZV9zd2xXZHVhT2JpYkRlMTlFZHdBb29MUXB5RHlsbE9WV0RrLWJtWmtHSlkzbUc4Mlk2WEhOenVVQk11NnZfUklCLTNWbXB3T2xhNGUwdGVEckZVemJ5dEpOR2pyNWYtVnlwU3JYUWJ4V2hwRkN6RTVTSXJRY2hrM1A4?oc=5",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "Litera bridges draft and negotiation workflows in latest AI push",
+      "why_now": "Major legal tech incumbent product expansion covering core transactional workflows, aligning with LawSites coverage profile.",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Google News: legal AI",
+      "source_tier": "A",
+      "prefilter_score": 18,
+      "matched_terms": [
+        "legal AI",
+        "Litera"
+      ],
+      "fingerprint": {
+        "entities": [
+          "litera"
+        ],
+        "numerics": [
+          "1m",
+          "29m",
+          "4m"
+        ],
+        "keywords": [
+          "legal ai"
+        ],
+        "title_tokens": [
+          "litera",
+          "connects",
+          "contract",
+          "drafting",
+          "negotiation",
+          "trusted",
+          "legal",
+          "ai",
+          "workflow",
+          "lawsites"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-08-18T19:20:00.981Z",
+      "queued_at": "2026-08-18T19:20:00.985Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-08-18T18:29:45.733Z"
+  "last_updated": "2026-08-18T19:20:00.985Z"
 }

@@ -1,33 +1,24 @@
 {
-  "generated": "2026-08-18T18:29:45.734Z",
+  "generated": "2026-08-18T19:20:00.986Z",
   "cycle_type": "triage",
-  "tier_filter": "B",
-  "shortlist_size": 2,
+  "tier_filter": "A",
+  "shortlist_size": 1,
   "prefilter": {
     "total": 40,
-    "accepted": 9,
+    "accepted": 1,
     "borderline": 0,
-    "rejected": 31,
-    "rejected_as_duplicate": 31,
-    "accept_rate": 23
+    "rejected": 39,
+    "rejected_as_duplicate": 39,
+    "accept_rate": 3
   },
   "model": "gemini-flash-lite-latest",
   "picks": [
     {
-      "id": "ars-technica-ai-0",
-      "score": 5,
-      "category": "Legal AI",
-      "suggested_angle": "Microsoft Copilot vulnerability exposes security risks for enterprise legal deployments",
-      "why_now": "General cybersecurity news rather than a direct legal tech focus, though relevant to enterprise risk.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "above-the-law-legaltech-1",
+      "id": "google-news-legal-ai-0",
       "score": 7,
       "category": "Legal AI",
-      "suggested_angle": "Expert witness caught using ChatGPT in deposition highlights risks of unverified AI outputs in litigation",
-      "why_now": "Demonstrates real-world litigation friction regarding AI use by expert witnesses during depositions.",
+      "suggested_angle": "Litera bridges draft and negotiation workflows in latest AI push",
+      "why_now": "Major legal tech incumbent product expansion covering core transactional workflows, aligning with LawSites coverage profile.",
       "verdict": "enqueue",
       "duplicate_of": null
     }
@@ -35,13 +26,13 @@
   "summary": {
     "enqueue_count": 1,
     "watch_count": 0,
-    "drop_count": 1,
-    "notes": "Picked the Above the Law litigation/expert witness AI story for direct legal relevance; dropped the general Copilot security piece."
+    "drop_count": 0,
+    "notes": "Single relevant legal tech product update from Litera suitable for enqueuing."
   },
   "enqueued": 1,
   "usage": {
-    "input_tokens": 2348,
-    "output_tokens": 294,
-    "total_tokens": 2642
+    "input_tokens": 2405,
+    "output_tokens": 180,
+    "total_tokens": 2585
   }
 }
