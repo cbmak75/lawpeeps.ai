@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-18T22:10:25.200Z",
+  "generated": "2026-08-18T23:11:34.447Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 758,
+  "total_scanned": 757,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -43,6 +43,18 @@
       "relevance_score": 9
     },
     {
+      "title": "Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook partners with CBA; DeepIP raises $25m - Legal IT Insider",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcXJGTU9ucEc1azNNOTZ3eWI1dldHblpjS0lIdG9jTy1YSE1SSEdlWXlqa041bzd4R052ckZLZG1TQnh6eUE1bFhEV0FyYlFndF84Z1hTczZXZ0IzOVRoMF9jWHhkMXp2X2tjenNUMktCZWM1eVlvM0tjZEpvX2ZoeUpaTUN5UTZUaDJEWWdvVDFJZWpGYTZiQV8ycEc1dEJRMTJCWktEV3IwX3FoX1F6cFk5dkJ1VUtHaURCWmlBTUpTcFRJQVk3cmYxODlsMEpjQnRMdHkwLWNoR1lzT01jRmJlSjJwdw?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcXJGTU9ucEc1azNNOTZ3eWI1dldHblpjS0lIdG9jTy1YSE1SSEdlWXlqa041bzd4R052ckZLZG1TQnh6eUE1bFhEV0FyYlFndF84Z1hTczZXZ0IzOVRoMF9jWHhkMXp2X2tjenNUMktCZWM1eVlvM0tjZEpvX2ZoeUpaTUN5UTZUaDJEWWdvVDFJZWpGYTZiQV8ycEc1dEJRMTJCWktEV3IwX3FoX1F6cFk5dkJ1VUtHaURCWmlBTUpTcFRJQVk3cmYxODlsMEpjQnRMdHkwLWNoR1lzT01jRmJlSjJwdw?oc=5\" target=\"_blank\"&gt;Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook partners with CBA; De",
+      "published": "2026-03-04T08:00:00.000Z",
+      "source_id": "google-news-legal-tech-funding",
+      "source_name": "Google News: legal tech funding",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 8
+    },
+    {
       "title": "Top Legal AI Startups Funded in 2026 (Harvey, Legora, Ironclad) - AI Funding Tracker",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10MGJkNVo1c0RqNmhuZWpialozbzBsejY0eWFVUkxsdHM0SG44M1BYM3VtZm92MVlmWGdIaGl0bF9VZkpacEs3R01yT3hBajlpMmxNUmlxV25NWWY3UW1ReA?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE10MGJkNVo1c0RqNmhuZWpialozbzBsejY0eWFVUkxsdHM0SG44M1BYM3VtZm92MVlmWGdIaGl0bF9VZkpacEs3R01yT3hBajlpMmxNUmlxV25NWWY3UW1ReA?oc=5\" target=\"_blank\"&gt;Top Legal AI Startups Funded in 2026 (Harvey, Legora, Ironclad)&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;AI Funding Tracker&lt;/font&gt;",
@@ -67,10 +79,10 @@
       "relevance_score": 8
     },
     {
-      "title": "Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook partners with CBA; DeepIP raises $25m - Legal IT Insider",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcXJGTU9ucEc1azNNOTZ3eWI1dldHblpjS0lIdG9jTy1YSE1SSEdlWXlqa041bzd4R052ckZLZG1TQnh6eUE1bFhEV0FyYlFndF84Z1hTczZXZ0IzOVRoMF9jWHhkMXp2X2tjenNUMktCZWM1eVlvM0tjZEpvX2ZoeUpaTUN5UTZUaDJEWWdvVDFJZWpGYTZiQV8ycEc1dEJRMTJCWktEV3IwX3FoX1F6cFk5dkJ1VUtHaURCWmlBTUpTcFRJQVk3cmYxODlsMEpjQnRMdHkwLWNoR1lzT01jRmJlSjJwdw?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcXJGTU9ucEc1azNNOTZ3eWI1dldHblpjS0lIdG9jTy1YSE1SSEdlWXlqa041bzd4R052ckZLZG1TQnh6eUE1bFhEV0FyYlFndF84Z1hTczZXZ0IzOVRoMF9jWHhkMXp2X2tjenNUMktCZWM1eVlvM0tjZEpvX2ZoeUpaTUN5UTZUaDJEWWdvVDFJZWpGYTZiQV8ycEc1dEJRMTJCWktEV3IwX3FoX1F6cFk5dkJ1VUtHaURCWmlBTUpTcFRJQVk3cmYxODlsMEpjQnRMdHkwLWNoR1lzT01jRmJlSjJwdw?oc=5\" target=\"_blank\"&gt;Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook partners with CBA; De",
-      "published": "2026-03-04T08:00:00.000Z",
+      "title": "Why legal tech giant Harvey is raising cash like OpenAI - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaDhOaTN1RzVmZmxWa1U2TTZyTW9ucXRjZjU2RHUzT0RoMTJQb1BvZ1hpbUgwTUFZS3U5UHV1R21abHdrRDR3cFlWTC1SY3J2WUN1YWlwSlY0Y0VpVjVYSXV2dk93YjhuU0NXYTE5QnBiVHF5bHVLRHdWbzMxdVB3MU0zMFh1TzF0U1JmOA?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQaDhOaTN1RzVmZmxWa1U2TTZyTW9ucXRjZjU2RHUzT0RoMTJQb1BvZ1hpbUgwTUFZS3U5UHV1R21abHdrRDR3cFlWTC1SY3J2WUN1YWlwSlY0Y0VpVjVYSXV2dk93YjhuU0NXYTE5QnBiVHF5bHVLRHdWbzMxdVB3MU0zMFh1TzF0U1JmOA?oc=5\" target=\"_blank\"&gt;Why legal tech giant Harvey is raising cash like OpenAI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Business Insider&lt;/font&gt;",
+      "published": "2026-03-26T07:00:00.000Z",
       "source_id": "google-news-legal-tech-funding",
       "source_name": "Google News: legal tech funding",
       "source_priority": "critical",
@@ -79,10 +91,22 @@
       "relevance_score": 8
     },
     {
-      "title": "Why legal tech giant Harvey is raising cash like OpenAI - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaDhOaTN1RzVmZmxWa1U2TTZyTW9ucXRjZjU2RHUzT0RoMTJQb1BvZ1hpbUgwTUFZS3U5UHV1R21abHdrRDR3cFlWTC1SY3J2WUN1YWlwSlY0Y0VpVjVYSXV2dk93YjhuU0NXYTE5QnBiVHF5bHVLRHdWbzMxdVB3MU0zMFh1TzF0U1JmOA?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQaDhOaTN1RzVmZmxWa1U2TTZyTW9ucXRjZjU2RHUzT0RoMTJQb1BvZ1hpbUgwTUFZS3U5UHV1R21abHdrRDR3cFlWTC1SY3J2WUN1YWlwSlY0Y0VpVjVYSXV2dk93YjhuU0NXYTE5QnBiVHF5bHVLRHdWbzMxdVB3MU0zMFh1TzF0U1JmOA?oc=5\" target=\"_blank\"&gt;Why legal tech giant Harvey is raising cash like OpenAI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Business Insider&lt;/font&gt;",
-      "published": "2026-03-26T07:00:00.000Z",
+      "title": "Vancouver, B.C.-based legal tech company Clio hits $5B valuation after acquiring vLex - geekwire.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZDZQTjk5RERxN0wzYzNka1d4bXhBTzR5RWdfai1qRjBlaEpzVVhSaUdPRkZVeld4ai1mOXpwcTZnZFZ2eVp2ajd0RXBjMGUwcGlVaEhtR01fTU1KUF82cFQ1Z3VrQWV2N1dzWTViTHNPTFB6N08xZjNJbkhkbXBUMkZlWlNwQ3ZpOGFEakJ0cFhON0NDZ1c0dGI0RndUdTBtaFh0b1hNWk1mQWg2SVV1aVdrcw?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOZDZQTjk5RERxN0wzYzNka1d4bXhBTzR5RWdfai1qRjBlaEpzVVhSaUdPRkZVeld4ai1mOXpwcTZnZFZ2eVp2ajd0RXBjMGUwcGlVaEhtR01fTU1KUF82cFQ1Z3VrQWV2N1dzWTViTHNPTFB6N08xZjNJbkhkbXBUMkZlWlNwQ3ZpOGFEakJ0cFhON0NDZ1c0dGI0RndUdTBtaFh0b1hNWk1mQWg2SVV1aVdrcw?oc=5\" target=\"_blank\"&gt;Vancouver, B.C.-based legal tech company Clio hits $5B valuation after acquiring vLex&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;geekwire.com&lt;/font&gt;",
+      "published": "2025-11-10T08:00:00.000Z",
+      "source_id": "google-news-legal-tech-funding",
+      "source_name": "Google News: legal tech funding",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 8
+    },
+    {
+      "title": "EvenUp, AI Software For Personal Injury Law, Doubles Valuation To $2B As Legal Tech Funding Hits Record High - Crunchbase News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY2p6WWxfeE1ZZDJxQXJPOWtrR2VZdkxlSkFtck03QWJtOU1YcGtHUFBlZllXMXkxeXRlcHhfZU9vR0VMU1JUS0FYMGNUSXZ0UnVRSU5YRVZuWERkU29MVFYzYjNtdHN6OUZGU3JlNWpLcDI3eTRwam5fVkhUSzU2WFdtX0daQUNseG50YzRpTQ?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQY2p6WWxfeE1ZZDJxQXJPOWtrR2VZdkxlSkFtck03QWJtOU1YcGtHUFBlZllXMXkxeXRlcHhfZU9vR0VMU1JUS0FYMGNUSXZ0UnVRSU5YRVZuWERkU29MVFYzYjNtdHN6OUZGU3JlNWpLcDI3eTRwam5fVkhUSzU2WFdtX0daQUNseG50YzRpTQ?oc=5\" target=\"_blank\"&gt;EvenUp, AI Software For Personal Injury Law, Doubles Valuation To $2B As Legal Tech Funding Hits Record High&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Crunchbase News&lt;/font&gt;",
+      "published": "2025-10-07T07:00:00.000Z",
       "source_id": "google-news-legal-tech-funding",
       "source_name": "Google News: legal tech funding",
       "source_priority": "critical",
@@ -125,18 +149,6 @@
       "source_tier": "A",
       "source_category": "Aggregator",
       "relevance_score": 8
-    },
-    {
-      "title": "Legaltech giant Harvey launches next-generation AI platform - The Global Legal Post",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPekF1MUlZMUp0LUdkbkQ0QVBsUWV0TzRmMWs1bVlYRTNyRnlkbU0yRUItSmlIenhBd2dvZl8xUTNmYkdwUkFrSVpiUmo0WHJDNmVKbk5IaWZNQktFd1drbTZIWGowanNZb0U1elV6MkNWajlqZVFTVjhTUTB2NkMwcUxnTkd3YjdnNWN3NDZhNTZPRnlJbkw0NXNLRVlKbWEzLVVfczdkZTk3TWs?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPekF1MUlZMUp0LUdkbkQ0QVBsUWV0TzRmMWs1bVlYRTNyRnlkbU0yRUItSmlIenhBd2dvZl8xUTNmYkdwUkFrSVpiUmo0WHJDNmVKbk5IaWZNQktFd1drbTZIWGowanNZb0U1elV6MkNWajlqZVFTVjhTUTB2NkMwcUxnTkd3YjdnNWN3NDZhNTZPRnlJbkw0NXNLRVlKbWEzLVVfczdkZTk3TWs?oc=5\" target=\"_blank\"&gt;Legaltech giant Harvey launches next-generation AI platform&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Global Legal Post&lt;/font&gt;",
-      "published": "2026-08-18T16:28:00.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 7
     },
     {
       "title": "ANI v OpenAI ruling: Reading the tea leaves - Law.asia",
@@ -331,6 +343,18 @@
       "relevance_score": 6
     },
     {
+      "title": "Legaltech giant Harvey launches next-generation AI platform - The Global Legal Post",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPekF1MUlZMUp0LUdkbkQ0QVBsUWV0TzRmMWs1bVlYRTNyRnlkbU0yRUItSmlIenhBd2dvZl8xUTNmYkdwUkFrSVpiUmo0WHJDNmVKbk5IaWZNQktFd1drbTZIWGowanNZb0U1elV6MkNWajlqZVFTVjhTUTB2NkMwcUxnTkd3YjdnNWN3NDZhNTZPRnlJbkw0NXNLRVlKbWEzLVVfczdkZTk3TWs?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPekF1MUlZMUp0LUdkbkQ0QVBsUWV0TzRmMWs1bVlYRTNyRnlkbU0yRUItSmlIenhBd2dvZl8xUTNmYkdwUkFrSVpiUmo0WHJDNmVKbk5IaWZNQktFd1drbTZIWGowanNZb0U1elV6MkNWajlqZVFTVjhTUTB2NkMwcUxnTkd3YjdnNWN3NDZhNTZPRnlJbkw0NXNLRVlKbWEzLVVfczdkZTk3TWs?oc=5\" target=\"_blank\"&gt;Legaltech giant Harvey launches next-generation AI platform&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Global Legal Post&lt;/font&gt;",
+      "published": "2026-08-18T16:28:00.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 5
+    },
+    {
       "title": "Cardium Law selects iManage to strengthen document management and support future AI innovation - Legal Futures",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQczhVVUFFZncxdFNySkUzWU1mZ1RWbU84Y2JqbXRfN0dhTkVoV1lCSHhFYVpsT1N0NnkzcDNqelBEY01qTjhMdmdXM09iVlp0NGJhNUdJdjV6TTR4M0hPSVJsS0tQOHRCUTdPZ1Y1Y1ZJRFFUVnJkWE5ubFB1dHJEVHJkWXdIMEtDQXpobTd5RzBUQkVsWHVnWHdOeHBVazRKOWQxVWtKX05SakRLQXdSbThPUF9PcW9vTDNBdDA1dVQ5UzlKX3BqNmE4dDRyWVpWNFM2T0Z3aw?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQczhVVUFFZncxdFNySkUzWU1mZ1RWbU84Y2JqbXRfN0dhTkVoV1lCSHhFYVpsT1N0NnkzcDNqelBEY01qTjhMdmdXM09iVlp0NGJhNUdJdjV6TTR4M0hPSVJsS0tQOHRCUTdPZ1Y1Y1ZJRFFUVnJkWE5ubFB1dHJEVHJkWXdIMEtDQXpobTd5RzBUQkVsWHVnWHdOeHBVazRKOWQxVWtKX05SakRLQXdSbThPUF9PcW9vTDNBdDA1dVQ5UzlKX3BqNmE4dDRyWVpWNFM2T0Z3aw?oc=5\" target=\"_blank\"&gt;Cardium Law selects iManage to strengthen document management and support future AI innovation&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;fon",
@@ -451,34 +475,10 @@
       "relevance_score": 5
     },
     {
-      "title": "Claude is getting a watermark. That could matter for every law firm using AI - Non-Billable",
+      "title": "Claude is getting a watermark. That could matter for every law firm using AI - nonbillable.co.uk",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUXZYMkxKWEcyM1RqT2oxdHpVaXBKc3VrYk83YVVTaEVaOVN0b0Z5SUhiN1pfRVcxUGY5alNEQ1hwVXBfWDBKSHdzMFNSZjlTMXpmaVZrX3dMT29QX245SGtJZ05ZOVBIZTNPZXA4YkdPLUQ2dHVsSFFfX0tQcVBJM1NsdC1rODJXWnlUNHItUllYdw?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNUXZYMkxKWEcyM1RqT2oxdHpVaXBKc3VrYk83YVVTaEVaOVN0b0Z5SUhiN1pfRVcxUGY5alNEQ1hwVXBfWDBKSHdzMFNSZjlTMXpmaVZrX3dMT29QX245SGtJZ05ZOVBIZTNPZXA4YkdPLUQ2dHVsSFFfX0tQcVBJM1NsdC1rODJXWnlUNHItUllYdw?oc=5\" target=\"_blank\"&gt;Claude is getting a watermark. That could matter for every law firm using AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Non-Billable&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNUXZYMkxKWEcyM1RqT2oxdHpVaXBKc3VrYk83YVVTaEVaOVN0b0Z5SUhiN1pfRVcxUGY5alNEQ1hwVXBfWDBKSHdzMFNSZjlTMXpmaVZrX3dMT29QX245SGtJZ05ZOVBIZTNPZXA4YkdPLUQ2dHVsSFFfX0tQcVBJM1NsdC1rODJXWnlUNHItUllYdw?oc=5\" target=\"_blank\"&gt;Claude is getting a watermark. That could matter for every law firm using AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;nonbillable.co.uk&lt;/font&gt;",
       "published": "2026-08-14T13:00:00.000Z",
-      "source_id": "google-news-law-firm-ai",
-      "source_name": "Google News: law firm AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 5
-    },
-    {
-      "title": "Q2 2026 LFFI analysis: Law firm leverage just broke a 17-year record — and this time, it's not because of layoffs - Thomson Reuters",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTlBxcUhIMzRwQWJxYjA0SzRIYlZXN2l1Y3YzMjNUQmVUbmQxS3BJR1JUZjFZWXBiT3ZydXZNb0E4OVJ3X2tIVGNFQVpaVXZ1NDRIYlJwbzUxZGF2SXFsZmZZXzRUczlma0Q3cjRKdXBrQXpwT2RIMjN5RTlXdXpHYVBUT05aXzZWekV2T1BlcnJ3cm55THl3?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNTlBxcUhIMzRwQWJxYjA0SzRIYlZXN2l1Y3YzMjNUQmVUbmQxS3BJR1JUZjFZWXBiT3ZydXZNb0E4OVJ3X2tIVGNFQVpaVXZ1NDRIYlJwbzUxZGF2SXFsZmZZXzRUczlma0Q3cjRKdXBrQXpwT2RIMjN5RTlXdXpHYVBUT05aXzZWekV2T1BlcnJ3cm55THl3?oc=5\" target=\"_blank\"&gt;Q2 2026 LFFI analysis: Law firm leverage just broke a 17-year record — and this time, it's not because of layoffs&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Thomson Reuters&lt;/font&gt;",
-      "published": "2026-08-18T13:05:15.000Z",
-      "source_id": "google-news-law-firm-ai",
-      "source_name": "Google News: law firm AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 5
-    },
-    {
-      "title": "Legal AI adoption: How law firms and legal departments achieve time savings and revenue growth - wolterskluwer.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbDBxN0hGdEY2bi1IaUt3T0xiLUZ4S1hUdXI5UFRnVnBtRllfN2hJeUVmN3pibnhwOThmTGJoZUNIQWQxUlJjTHhKbkY1QXlGZUZ4R281NXlrTVE0TDJlLVFnSEpmV3ZiWUtudDROUGczTGtvVEZTRjdrMG9NZ2ppejc1Y2pwaWNnQU96ZkJsdGg5TXpjbm04aG1naDRtZw?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNbDBxN0hGdEY2bi1IaUt3T0xiLUZ4S1hUdXI5UFRnVnBtRllfN2hJeUVmN3pibnhwOThmTGJoZUNIQWQxUlJjTHhKbkY1QXlGZUZ4R281NXlrTVE0TDJlLVFnSEpmV3ZiWUtudDROUGczTGtvVEZTRjdrMG9NZ2ppejc1Y2pwaWNnQU96ZkJsdGg5TXpjbm04aG1naDRtZw?oc=5\" target=\"_blank\"&gt;Legal AI adoption: How law firms and legal departments achieve time savings and revenue growth&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;wolterskluwer.com&lt;/font&gt;",
-      "published": "2026-03-10T15:53:49.000Z",
       "source_id": "google-news-law-firm-ai",
       "source_name": "Google News: law firm AI",
       "source_priority": "critical",
