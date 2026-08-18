@@ -3410,7 +3410,58 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "When Do LLMs Apply the Wrong Law? Diagnosing LLM Failures in Temporal Legal Reasoning",
+      "slug": "when-do-llms-apply-the-wrong-law-diagnosing-llm-failures-in-temporal-legal-reaso",
+      "score": 7,
+      "category": "Research",
+      "story_type": "news",
+      "research_brief": "arXiv:2608.14610v1 Announce Type: new Abstract: Legal reasoning tasks such as legal judgment prediction (LJP) require identifying the temporally correct version of the law governing a case -- a capability we term temporal applicable-law determination. However, whether large language models (LLMs) can reliably perform this task remains unexplored. In this paper, we construct a benchmark to evaluate LLMs on temporal applicable-law determination, and systematically investigate why they fail at temp",
+      "primary_source": "https://arxiv.org/abs/2608.14610",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "Diagnosing LLM failures in temporal legal reasoning",
+      "why_now": "Directly addresses legal judgment prediction and temporal law application errors—highly relevant to legal AI accuracy discussions.",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "arXiv cs.AI (keyword-filtered)",
+      "source_tier": "B",
+      "prefilter_score": 11,
+      "matched_terms": [
+        "LLM",
+        "Eve"
+      ],
+      "fingerprint": {
+        "entities": [
+          "eve"
+        ],
+        "numerics": [],
+        "keywords": [
+          "llm"
+        ],
+        "title_tokens": [
+          "llms",
+          "apply",
+          "wrong",
+          "diagnosing",
+          "failures",
+          "temporal",
+          "legal",
+          "reasoning"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-08-18T06:33:41.070Z",
+      "queued_at": "2026-08-18T06:33:41.074Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-08-17T18:31:04.841Z"
+  "last_updated": "2026-08-18T06:33:41.074Z"
 }
