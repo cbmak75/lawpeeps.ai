@@ -3461,7 +3461,59 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "Speed Without Structure: What Legal AI Is Really Exposing - artificiallawyer.com",
+      "slug": "speed-without-structure-what-legal-ai-is-really-exposing-artificiallawyer-com",
+      "score": 8,
+      "category": "Legal AI",
+      "story_type": "news",
+      "research_brief": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNYXQ0UjktX3Z4SENsWnBlY2NUc0dCTW5adFN5enI0M0VNbjVzMU94TjhvV0VBT3dHMm5xTjBEcFpyeWc0NVFjOGhzRXVzSDRHalFjVkFFNG1URFBIR3F6YThRQ3JVNzlBTnV3MXpmNFBkYWlMbUx5czM2NEYzVFlYam9KWENPOVBYTUl6VTJnQktiTVlCVFhMQmxVQXlEMnJKVW5v?oc=5\" target=\"_blank\"&gt;Speed Without Structure: What Legal AI Is Really Exposing&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;artificiallawyer.com&lt;/font&gt;",
+      "primary_source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYXQ0UjktX3Z4SENsWnBlY2NUc0dCTW5adFN5enI0M0VNbjVzMU94TjhvV0VBT3dHMm5xTjBEcFpyeWc0NVFjOGhzRXVzSDRHalFjVkFFNG1URFBIR3F6YThRQ3JVNzlBTnV3MXpmNFBkYWlMbUx5czM2NEYzVFlYam9KWENPOVBYTUl6VTJnQktiTVlCVFhMQmxVQXlEMnJKVW5v?oc=5",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "Artificial Lawyer piece explores how legal AI adoption exposes underlying structural and process inefficiencies within law firms.",
+      "why_now": "Artificial Lawyer commentary on core legal tech deployment realities is a must-cover industry pulse check.",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Google News: legal AI",
+      "source_tier": "A",
+      "prefilter_score": 12,
+      "matched_terms": [
+        "legal AI"
+      ],
+      "fingerprint": {
+        "entities": [],
+        "numerics": [
+          "0m",
+          "3m",
+          "9k"
+        ],
+        "keywords": [
+          "legal ai"
+        ],
+        "title_tokens": [
+          "speed",
+          "without",
+          "structure",
+          "legal",
+          "ai",
+          "really",
+          "exposing",
+          "artificiallawyer"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-08-18T09:20:28.862Z",
+      "queued_at": "2026-08-18T09:20:28.865Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-08-18T06:33:41.074Z"
+  "last_updated": "2026-08-18T09:20:28.865Z"
 }

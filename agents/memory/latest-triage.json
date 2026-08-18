@@ -1,15 +1,38 @@
 {
-  "generated": "2026-08-18T08:21:20.764Z",
+  "generated": "2026-08-18T09:20:28.866Z",
   "cycle_type": "triage",
-  "shortlist_size": 0,
-  "picks": [],
+  "tier_filter": "A",
+  "shortlist_size": 1,
   "prefilter": {
     "total": 40,
-    "accepted": 0,
+    "accepted": 1,
     "borderline": 0,
-    "rejected": 40,
-    "rejected_as_duplicate": 40,
-    "accept_rate": 0
+    "rejected": 39,
+    "rejected_as_duplicate": 39,
+    "accept_rate": 3
   },
-  "skipped_already_triaged": 0
+  "model": "gemini-flash-lite-latest",
+  "picks": [
+    {
+      "id": "google-news-legal-ai-0",
+      "score": 8,
+      "category": "Legal AI",
+      "suggested_angle": "Artificial Lawyer piece explores how legal AI adoption exposes underlying structural and process inefficiencies within law firms.",
+      "why_now": "Artificial Lawyer commentary on core legal tech deployment realities is a must-cover industry pulse check.",
+      "verdict": "enqueue",
+      "duplicate_of": null
+    }
+  ],
+  "summary": {
+    "enqueue_count": 1,
+    "watch_count": 0,
+    "drop_count": 0,
+    "notes": "Processed Artificial Lawyer editorial piece on legal AI process exposure."
+  },
+  "enqueued": 1,
+  "usage": {
+    "input_tokens": 2379,
+    "output_tokens": 177,
+    "total_tokens": 2556
+  }
 }
