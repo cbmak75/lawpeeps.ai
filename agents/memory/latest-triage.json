@@ -1,47 +1,15 @@
 {
-  "generated": "2026-08-18T17:17:39.255Z",
+  "generated": "2026-08-18T18:19:38.352Z",
   "cycle_type": "triage",
-  "tier_filter": "A",
-  "shortlist_size": 2,
+  "shortlist_size": 0,
+  "picks": [],
   "prefilter": {
     "total": 40,
-    "accepted": 5,
-    "borderline": 10,
-    "rejected": 25,
-    "rejected_as_duplicate": 12,
-    "accept_rate": 13
+    "accepted": 1,
+    "borderline": 0,
+    "rejected": 39,
+    "rejected_as_duplicate": 39,
+    "accept_rate": 3
   },
-  "model": "gemini-flash-lite-latest",
-  "picks": [
-    {
-      "id": "mac-reports-0",
-      "score": 3,
-      "category": "Immigration AI",
-      "suggested_angle": "Migration Advisory Committee stakeholder engagement on worker visas",
-      "why_now": "Routine government stakeholder notice with no legal AI or substantive policy shift angle.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "home-office-immigration-1",
-      "score": 3,
-      "category": "Immigration AI",
-      "suggested_angle": "Windrush Compensation Scheme community outreach events",
-      "why_now": "Standard public awareness notice without any direct legal tech or regulatory news hook.",
-      "verdict": "drop",
-      "duplicate_of": null
-    }
-  ],
-  "summary": {
-    "enqueue_count": 0,
-    "watch_count": 0,
-    "drop_count": 2,
-    "notes": "Both shortlist items are standard government community and stakeholder engagement notices lacking any legal AI, regulatory, or tech angles."
-  },
-  "enqueued": 0,
-  "usage": {
-    "input_tokens": 2262,
-    "output_tokens": 271,
-    "total_tokens": 2533
-  }
+  "skipped_already_triaged": 1
 }
