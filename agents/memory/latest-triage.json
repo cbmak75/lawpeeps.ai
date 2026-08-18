@@ -1,65 +1,38 @@
 {
-  "generated": "2026-08-18T12:34:21.779Z",
+  "generated": "2026-08-18T13:34:07.836Z",
   "cycle_type": "triage",
-  "tier_filter": "B",
-  "shortlist_size": 4,
+  "tier_filter": "A",
+  "shortlist_size": 1,
   "prefilter": {
     "total": 40,
-    "accepted": 19,
+    "accepted": 1,
     "borderline": 0,
-    "rejected": 21,
-    "rejected_as_duplicate": 21,
-    "accept_rate": 48
+    "rejected": 39,
+    "rejected_as_duplicate": 39,
+    "accept_rate": 3
   },
   "model": "gemini-flash-lite-latest",
   "picks": [
     {
-      "id": "legal-futures-0",
-      "score": 7,
-      "category": "Regulatory",
-      "suggested_angle": "Partners face personal liability under the UK's failure to prevent fraud offence.",
-      "why_now": "Directly impacts UK law firm risk management and partner accountability.",
-      "verdict": "enqueue",
-      "duplicate_of": null
-    },
-    {
-      "id": "hacker-news-1",
-      "score": 3,
-      "category": "Social",
-      "suggested_angle": "Generic resume tool launch on Hacker News.",
-      "why_now": "No legal or regulatory nexus; standard promotional post.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "arxiv-cs-ai-2": "arxiv-cs-ai-2",
+      "id": "google-news-legal-ai-0",
       "score": 4,
-      "category": "Research",
-      "suggested_angle": "Agentic data cleaning without reference data.",
-      "why_now": "Too academic without an immediate legal tech application hook.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-3",
-      "score": 4,
-      "category": "Research",
-      "suggested_angle": "Multi-aspect page annotation for long-document multimodal VQA.",
-      "why_now": "General computer science research paper without a specific legal document workflow focus.",
+      "category": "Adoption",
+      "suggested_angle": "Litera integrates drafting and negotiation into a single AI workflow",
+      "why_now": "Standard vendor press release syndication on Yahoo Finance with little independent reporting value.",
       "verdict": "drop",
       "duplicate_of": null
     }
   ],
   "summary": {
-    "enqueue_count": 1,
+    "enqueue_count": 0,
     "watch_count": 0,
-    "drop_count": 3,
-    "notes": "Kept the UK partner liability piece for its regulatory relevance; dropped generic tech and academic papers lacking a direct legal hook."
+    "drop_count": 1,
+    "notes": "Processed single vendor syndication piece; dropped as low-value marketing content."
   },
-  "enqueued": 1,
+  "enqueued": 0,
   "usage": {
-    "input_tokens": 2633,
-    "output_tokens": 458,
-    "total_tokens": 3091
+    "input_tokens": 2386,
+    "output_tokens": 177,
+    "total_tokens": 2563
   }
 }
