@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-18T03:34:37.181Z",
+  "generated": "2026-08-18T04:23:48.725Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 683,
+  "total_scanned": 684,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -55,9 +55,9 @@
       "relevance_score": 8
     },
     {
-      "title": "Irish co-founded legal AI startup Wordsmith raises $70m - irishlegal.com",
+      "title": "Irish co-founded legal AI startup Wordsmith raises $70m - Irish Legal News",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMEZUVFoxTWF1a01MYi05c0pZSVZRT0ZGTnNrcWw3SmYtMlNJbDEyMkxCYkJTclBpTzVQOWR5bEdQVEVEbGNiemh1UHdDbmtfQVVseV9ITkpnNW1lUXJ5VlNhWXhSV2dzdjg2bG0tSHZ5M2pPbWtQSXFETkk4MFpubVVqMlBWVXNCTjRCODdXckVYTElG?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNMEZUVFoxTWF1a01MYi05c0pZSVZRT0ZGTnNrcWw3SmYtMlNJbDEyMkxCYkJTclBpTzVQOWR5bEdQVEVEbGNiemh1UHdDbmtfQVVseV9ITkpnNW1lUXJ5VlNhWXhSV2dzdjg2bG0tSHZ5M2pPbWtQSXFETkk4MFpubVVqMlBWVXNCTjRCODdXckVYTElG?oc=5\" target=\"_blank\"&gt;Irish co-founded legal AI startup Wordsmith raises $70m&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;irishlegal.com&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNMEZUVFoxTWF1a01MYi05c0pZSVZRT0ZGTnNrcWw3SmYtMlNJbDEyMkxCYkJTclBpTzVQOWR5bEdQVEVEbGNiemh1UHdDbmtfQVVseV9ITkpnNW1lUXJ5VlNhWXhSV2dzdjg2bG0tSHZ5M2pPbWtQSXFETkk4MFpubVVqMlBWVXNCTjRCODdXckVYTElG?oc=5\" target=\"_blank\"&gt;Irish co-founded legal AI startup Wordsmith raises $70m&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Irish Legal News&lt;/font&gt;",
       "published": "2026-06-05T07:00:00.000Z",
       "source_id": "google-news-legal-tech-funding",
       "source_name": "Google News: legal tech funding",
@@ -91,9 +91,9 @@
       "relevance_score": 8
     },
     {
-      "title": "EvenUp, AI Software For Personal Injury Law, Doubles Valuation To $2B As Legal Tech Funding Hits Record High - Crunchbase News",
+      "title": "EvenUp, AI Software For Personal Injury Law, Doubles Valuation To $2B As Legal Tech Funding Hits Record High - news.crunchbase.com",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY2p6WWxfeE1ZZDJxQXJPOWtrR2VZdkxlSkFtck03QWJtOU1YcGtHUFBlZllXMXkxeXRlcHhfZU9vR0VMU1JUS0FYMGNUSXZ0UnVRSU5YRVZuWERkU29MVFYzYjNtdHN6OUZGU3JlNWpLcDI3eTRwam5fVkhUSzU2WFdtX0daQUNseG50YzRpTQ?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQY2p6WWxfeE1ZZDJxQXJPOWtrR2VZdkxlSkFtck03QWJtOU1YcGtHUFBlZllXMXkxeXRlcHhfZU9vR0VMU1JUS0FYMGNUSXZ0UnVRSU5YRVZuWERkU29MVFYzYjNtdHN6OUZGU3JlNWpLcDI3eTRwam5fVkhUSzU2WFdtX0daQUNseG50YzRpTQ?oc=5\" target=\"_blank\"&gt;EvenUp, AI Software For Personal Injury Law, Doubles Valuation To $2B As Legal Tech Funding Hits Record High&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Crunchbase News&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQY2p6WWxfeE1ZZDJxQXJPOWtrR2VZdkxlSkFtck03QWJtOU1YcGtHUFBlZllXMXkxeXRlcHhfZU9vR0VMU1JUS0FYMGNUSXZ0UnVRSU5YRVZuWERkU29MVFYzYjNtdHN6OUZGU3JlNWpLcDI3eTRwam5fVkhUSzU2WFdtX0daQUNseG50YzRpTQ?oc=5\" target=\"_blank\"&gt;EvenUp, AI Software For Personal Injury Law, Doubles Valuation To $2B As Legal Tech Funding Hits Record High&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;news.crunchbase.com&lt;/font&gt;",
       "published": "2025-10-07T07:00:00.000Z",
       "source_id": "google-news-legal-tech-funding",
       "source_name": "Google News: legal tech funding",
@@ -151,9 +151,9 @@
       "relevance_score": 7
     },
     {
-      "title": "SRA warns profession over AI misuse amidst investigations - Legal Futures",
+      "title": "SRA warns profession over AI misuse amidst investigations - legalfutures.co.uk",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVDdvejhqbWVlQm1zd2lRTTBxQ1JzMHR5bEpjNkFoVURvMmZYNF84Nl9YbUV5NXk3c092MTVIMHlyWTRvam9EWHNpenN3OTJLUFVoQjhuTjUyQkxaLXFHQ1lRVkhUcmk4MGdFdHRlNWpxQmRVdkFEN2RiVzJRaEMyTUxMWlZvallJdFVOazJzZWktV08zakVWdk1RMDB5ME5WeEE?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPVDdvejhqbWVlQm1zd2lRTTBxQ1JzMHR5bEpjNkFoVURvMmZYNF84Nl9YbUV5NXk3c092MTVIMHlyWTRvam9EWHNpenN3OTJLUFVoQjhuTjUyQkxaLXFHQ1lRVkhUcmk4MGdFdHRlNWpxQmRVdkFEN2RiVzJRaEMyTUxMWlZvallJdFVOazJzZWktV08zakVWdk1RMDB5ME5WeEE?oc=5\" target=\"_blank\"&gt;SRA warns profession over AI misuse amidst investigations&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Legal Futures&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPVDdvejhqbWVlQm1zd2lRTTBxQ1JzMHR5bEpjNkFoVURvMmZYNF84Nl9YbUV5NXk3c092MTVIMHlyWTRvam9EWHNpenN3OTJLUFVoQjhuTjUyQkxaLXFHQ1lRVkhUcmk4MGdFdHRlNWpxQmRVdkFEN2RiVzJRaEMyTUxMWlZvallJdFVOazJzZWktV08zakVWdk1RMDB5ME5WeEE?oc=5\" target=\"_blank\"&gt;SRA warns profession over AI misuse amidst investigations&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;legalfutures.co.uk&lt;/font&gt;",
       "published": "2026-08-17T23:07:28.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
@@ -163,9 +163,21 @@
       "relevance_score": 6
     },
     {
-      "title": "Legora Targets $10bn Valuation as Legal AI Rival Harvey Eyes $15bn - Lawyer Monthly",
+      "title": "SRA cites hallucinations and client confidentiality concerns in AI warning note - todaysfamilylawyer.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdUhOTmdwRVZOZWh5OE51VjBLQUdDY0dfRW5XSWdNVTQ5bjNaTmM4aXk3bTdLZ3ZZZlQwQ2ZqVG5yLWlPZTNIZFk2T0UwRW9qZDVKUWNKRkhWbFpkaGU1a20xRklkU2pTMlBYanR6dDRodDhQb2lBY2Y5am1ULTF2MlotajY3TFNZRlNiMHE2MVRmZVBUZG9HSWtTZHBSWDNPNmxCZWR5b2QwYlVIdURXVHV5aw?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQdUhOTmdwRVZOZWh5OE51VjBLQUdDY0dfRW5XSWdNVTQ5bjNaTmM4aXk3bTdLZ3ZZZlQwQ2ZqVG5yLWlPZTNIZFk2T0UwRW9qZDVKUWNKRkhWbFpkaGU1a20xRklkU2pTMlBYanR6dDRodDhQb2lBY2Y5am1ULTF2MlotajY3TFNZRlNiMHE2MVRmZVBUZG9HSWtTZHBSWDNPNmxCZWR5b2QwYlVIdURXVHV5aw?oc=5\" target=\"_blank\"&gt;SRA cites hallucinations and client confidentiality concerns in AI warning note&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;todaysfamilylawyer.co.uk&lt;/font&gt;",
+      "published": "2026-08-18T04:17:40.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
+    },
+    {
+      "title": "Legora Targets $10bn Valuation as Legal AI Rival Harvey Eyes $15bn - lawyer-monthly.com",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbVpzeDhicG1yYWlOSWdJVldYbXB5ZGEwb3hURE5GSzBUZzB2b1JYdGhfb1cycWl3OVh5dlFjR3JBVVc3WVIzYXBiUmc3M0VhVkJvTGVieC0zdFJDNEIzME02enNtVnJ6cE9BM1doRi0xOGhCalpLNU00MkNxUDBzU3daVjhabFFTSTBmNg?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNbVpzeDhicG1yYWlOSWdJVldYbXB5ZGEwb3hURE5GSzBUZzB2b1JYdGhfb1cycWl3OVh5dlFjR3JBVVc3WVIzYXBiUmc3M0VhVkJvTGVieC0zdFJDNEIzME02enNtVnJ6cE9BM1doRi0xOGhCalpLNU00MkNxUDBzU3daVjhabFFTSTBmNg?oc=5\" target=\"_blank\"&gt;Legora Targets $10bn Valuation as Legal AI Rival Harvey Eyes $15bn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Lawyer Monthly&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNbVpzeDhicG1yYWlOSWdJVldYbXB5ZGEwb3hURE5GSzBUZzB2b1JYdGhfb1cycWl3OVh5dlFjR3JBVVc3WVIzYXBiUmc3M0VhVkJvTGVieC0zdFJDNEIzME02enNtVnJ6cE9BM1doRi0xOGhCalpLNU00MkNxUDBzU3daVjhabFFTSTBmNg?oc=5\" target=\"_blank\"&gt;Legora Targets $10bn Valuation as Legal AI Rival Harvey Eyes $15bn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;lawyer-monthly.com&lt;/font&gt;",
       "published": "2026-08-17T06:22:07.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
@@ -391,9 +403,9 @@
       "relevance_score": 5
     },
     {
-      "title": "Anthropic’s expansion of legal AI tools is good for lawyers, experts say - The Global Legal Post",
+      "title": "Anthropic’s expansion of legal AI tools is good for lawyers, experts say - globallegalpost.com",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON29yWkx6TnprRmNac3lObVViVmxxRnMxYk00MjJFOFFLdDBJOWtDY1R6ckxWa0tFTWgxY0ZvVzJGR2x5T09rX0hOVE1xM1ZUbVdSMHBnUVpsSmI3X2JucUFIUUdoUlplaEFCbXdjTHhpblYyM09jNkZtNlh4SzZtamM2em5LX19SdElfWU1EMUxITUljZUdHLWRUbjRWVTd6U0JVWVItaG83N2VyYTdzWHJYb0N5QVRrSXc?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxON29yWkx6TnprRmNac3lObVViVmxxRnMxYk00MjJFOFFLdDBJOWtDY1R6ckxWa0tFTWgxY0ZvVzJGR2x5T09rX0hOVE1xM1ZUbVdSMHBnUVpsSmI3X2JucUFIUUdoUlplaEFCbXdjTHhpblYyM09jNkZtNlh4SzZtamM2em5LX19SdElfWU1EMUxITUljZUdHLWRUbjRWVTd6U0JVWVItaG83N2VyYTdzWHJYb0N5QVRrSXc?oc=5\" target=\"_blank\"&gt;Anthropic’s expansion of legal AI tools is good for lawyers, experts say&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Global Legal Post&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxON29yWkx6TnprRmNac3lObVViVmxxRnMxYk00MjJFOFFLdDBJOWtDY1R6ckxWa0tFTWgxY0ZvVzJGR2x5T09rX0hOVE1xM1ZUbVdSMHBnUVpsSmI3X2JucUFIUUdoUlplaEFCbXdjTHhpblYyM09jNkZtNlh4SzZtamM2em5LX19SdElfWU1EMUxITUljZUdHLWRUbjRWVTd6U0JVWVItaG83N2VyYTdzWHJYb0N5QVRrSXc?oc=5\" target=\"_blank\"&gt;Anthropic’s expansion of legal AI tools is good for lawyers, experts say&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;globallegalpost.com&lt;/font&gt;",
       "published": "2026-05-26T07:00:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
@@ -427,9 +439,9 @@
       "relevance_score": 5
     },
     {
-      "title": "Claude is getting a watermark. That could matter for every law firm using AI - nonbillable.co.uk",
+      "title": "Claude is getting a watermark. That could matter for every law firm using AI - Non-Billable",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUXZYMkxKWEcyM1RqT2oxdHpVaXBKc3VrYk83YVVTaEVaOVN0b0Z5SUhiN1pfRVcxUGY5alNEQ1hwVXBfWDBKSHdzMFNSZjlTMXpmaVZrX3dMT29QX245SGtJZ05ZOVBIZTNPZXA4YkdPLUQ2dHVsSFFfX0tQcVBJM1NsdC1rODJXWnlUNHItUllYdw?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNUXZYMkxKWEcyM1RqT2oxdHpVaXBKc3VrYk83YVVTaEVaOVN0b0Z5SUhiN1pfRVcxUGY5alNEQ1hwVXBfWDBKSHdzMFNSZjlTMXpmaVZrX3dMT29QX245SGtJZ05ZOVBIZTNPZXA4YkdPLUQ2dHVsSFFfX0tQcVBJM1NsdC1rODJXWnlUNHItUllYdw?oc=5\" target=\"_blank\"&gt;Claude is getting a watermark. That could matter for every law firm using AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;nonbillable.co.uk&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNUXZYMkxKWEcyM1RqT2oxdHpVaXBKc3VrYk83YVVTaEVaOVN0b0Z5SUhiN1pfRVcxUGY5alNEQ1hwVXBfWDBKSHdzMFNSZjlTMXpmaVZrX3dMT29QX245SGtJZ05ZOVBIZTNPZXA4YkdPLUQ2dHVsSFFfX0tQcVBJM1NsdC1rODJXWnlUNHItUllYdw?oc=5\" target=\"_blank\"&gt;Claude is getting a watermark. That could matter for every law firm using AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Non-Billable&lt;/font&gt;",
       "published": "2026-08-14T13:00:00.000Z",
       "source_id": "google-news-law-firm-ai",
       "source_name": "Google News: law firm AI",
@@ -467,18 +479,6 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTFNwZHh6OXE4NExITjJnRTRLTkpRTE9oVmNIVndtV21PdUlIOUNsOWtjTFNBb24ycUROU2dqTG4zZlFhbV9jeHYwdFRVNmgzdGNtQ2xjUUNnZTQ3SjI5TzZGV1VaNUlNbjVVUV9XeWhLTkxYTnRuWnpiNDlPVTkxSFMtR0h0b0dwcTUzdlpmRm1qTTY2MUZGSU1EazNaUzhjUzVJZS1kX29nQWd4RjNpUEo1SE14NGlMQVE0?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTFNwZHh6OXE4NExITjJnRTRLTkpRTE9oVmNIVndtV21PdUlIOUNsOWtjTFNBb24ycUROU2dqTG4zZlFhbV9jeHYwdFRVNmgzdGNtQ2xjUUNnZTQ3SjI5TzZGV1VaNUlNbjVVUV9XeWhLTkxYTnRuWnpiNDlPVTkxSFMtR0h0b0dwcTUzdlpmRm1qTTY2MUZGSU1EazNaUzhjUzVJZS1kX29nQWd4RjNpUEo1SE14NGlMQVE0?oc=5\" target=\"_blank\"&gt;Relativity Invests in 2 Legal Tech Startups Via New Funding Arm Rel Labs&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Law.com&lt;/font&gt;",
       "published": "2026-02-09T08:00:00.000Z",
-      "source_id": "google-news-legal-tech-funding",
-      "source_name": "Google News: legal tech funding",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 5
-    },
-    {
-      "title": "Singapore’s GIC and US venture capital firm Sequoia lead US$200 million funding round for legal tech firm Harvey AI - Asia Asset Management",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQUzVTbFVSV2JpeWx1S1JORFVTTENiMUN2YXJDcHA2bldjNTA0bWthNm81QmZlaWNEb3pBUzlVZk4zelJMUjRsa2w0ZlZxNDFmMFFxdkZOUUhWMGI5azlIdkpnUTliMUlTS01BdlhldjJfX0xBc1VSdnFvS09SRkdBZ0JwTWZnNURITXlxbFJPNV91OUN4NEUyRDVLTXJyWExvMXNiVkRoTkNVS3dvelhEYmprQUw1UEc3ZDcyZEFtTlF2M3NHcERDdnFWM0swakxNZHF2MkN1Vnc5bkxOQUlUSkVwMlEwSzlvYUZNdnd2WER3dTJKdVE?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxQUzVTbFVSV2JpeWx1S1JORFVTTENiMUN2YXJDcHA2bldjNTA0bWthNm81QmZlaWNEb3pBUzlVZk4zelJMUjRsa2w0ZlZxNDFmMFFxdkZOUUhWMGI5azlIdkpnUTliMUlTS01BdlhldjJfX0xBc1VSdnFvS09SRkdBZ0JwTWZnNURITXlxbFJPNV91OUN4NEUyRDVLTXJyWExvMXNiVkRoTkNVS3dvelhEYmprQUw1UEc3ZDcyZEFtTlF2M3NHcERDdnFWM0swakxNZHF2MkN1Vnc5bkxOQUlUSkVwMlEwSzlvYUZNdnd2WER3dTJKdVE?oc=5\" target=\"_blank\"&gt;Singapore’s GIC and US venture capital firm Sequoia lead US$200 million funding round for ",
-      "published": "2026-03-30T07:00:00.000Z",
       "source_id": "google-news-legal-tech-funding",
       "source_name": "Google News: legal tech funding",
       "source_priority": "critical",
