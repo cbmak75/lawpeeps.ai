@@ -1,15 +1,47 @@
 {
-  "generated": "2026-08-18T15:20:23.937Z",
+  "generated": "2026-08-18T16:17:50.334Z",
   "cycle_type": "triage",
-  "shortlist_size": 0,
-  "picks": [],
+  "tier_filter": "A",
+  "shortlist_size": 2,
   "prefilter": {
     "total": 40,
-    "accepted": 1,
+    "accepted": 3,
     "borderline": 0,
-    "rejected": 39,
-    "rejected_as_duplicate": 39,
-    "accept_rate": 3
+    "rejected": 37,
+    "rejected_as_duplicate": 37,
+    "accept_rate": 8
   },
-  "skipped_already_triaged": 1
+  "model": "gemini-flash-lite-latest",
+  "picks": [
+    {
+      "id": "google-news-legal-ai-0",
+      "score": 7,
+      "category": "Legal AI",
+      "suggested_angle": "NetDocuments introduces benchmark to measure context engineering in legal AI workflows",
+      "why_now": "Provides critical insight into how legal tech incumbents are attempting to measure and standardise AI context accuracy.",
+      "verdict": "enqueue",
+      "duplicate_of": null
+    },
+    {
+      "id": "google-news-legal-ai-1",
+      "score": 9,
+      "category": "Legal AI",
+      "suggested_angle": "Harvey launches memory-centric 'Harvey II' update, marking a shift toward persistent contextual awareness in legal AI",
+      "why_now": "Major product evolution from a key market-leading watch-list company.",
+      "verdict": "enqueue",
+      "duplicate_of": null
+    }
+  ],
+  "summary": {
+    "enqueue_count": 2,
+    "watch_count": 0,
+    "drop_count": 0,
+    "notes": "Both stories cover major legal AI developments (NetDocuments benchmark and Harvey's new release) worthy of primary coverage."
+  },
+  "enqueued": 2,
+  "usage": {
+    "input_tokens": 2740,
+    "output_tokens": 299,
+    "total_tokens": 3039
+  }
 }

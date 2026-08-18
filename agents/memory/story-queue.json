@@ -3619,7 +3619,102 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "Next Gen ‘Harvey II’ Launches with Memory at Its Core - Artificial Lawyer",
+      "slug": "next-gen-harvey-ii-launches-with-memory-at-its-core-artificial-lawyer",
+      "score": 9,
+      "category": "Legal AI",
+      "story_type": "news",
+      "research_brief": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOMUlkTEJvZzkyb3BqUW11WWtpQ1lWeDBYWmYxcXl0VGJkdXlkcHZFRUpOWV95RHpPQkt1OHBhTW52c3daZW9faGZ4RzVGVHN3Rm11cVRYNjBUYVk5NGdmaGkyNDhhVGJBNzFUZHJtNTF1d0ZQMmJwLXBfYjlnQ3o2UTBUYTdOdTR2NDJSbFAxTVpYa3FzRm9LZTBuM0s?oc=5\" target=\"_blank\"&gt;Next Gen ‘Harvey II’ Launches with Memory at Its Core&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
+      "primary_source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMUlkTEJvZzkyb3BqUW11WWtpQ1lWeDBYWmYxcXl0VGJkdXlkcHZFRUpOWV95RHpPQkt1OHBhTW52c3daZW9faGZ4RzVGVHN3Rm11cVRYNjBUYVk5NGdmaGkyNDhhVGJBNzFUZHJtNTF1d0ZQMmJwLXBfYjlnQ3o2UTBUYTdOdTR2NDJSbFAxTVpYa3FzRm9LZTBuM0s?oc=5",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "Harvey launches memory-centric 'Harvey II' update, marking a shift toward persistent contextual awareness in legal AI",
+      "why_now": "Major product evolution from a key market-leading watch-list company.",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Google News: legal AI",
+      "source_tier": "A",
+      "prefilter_score": 14,
+      "matched_terms": [
+        "Harvey"
+      ],
+      "fingerprint": {
+        "entities": [
+          "harvey"
+        ],
+        "numerics": [
+          "3bn"
+        ],
+        "keywords": [],
+        "title_tokens": [
+          "next",
+          "harvey",
+          "memory",
+          "core",
+          "artificial",
+          "lawyer"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-08-18T16:17:50.324Z",
+      "queued_at": "2026-08-18T16:17:50.328Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
+    },
+    {
+      "title": "NetDocuments publishes Legal Context Engineering Benchmark report - Legal IT Insider",
+      "slug": "netdocuments-publishes-legal-context-engineering-benchmark-report-legal-it-insid",
+      "score": 7,
+      "category": "Legal AI",
+      "story_type": "news",
+      "research_brief": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ21qS1RkcGkzZ1ZLQndRZmFYOFNWbU9COEJ2ZzZqUGZZaERiQ3l2YTlJX3pnVmVFc2ZfVklwdnI0NHhQSVFyb01QRTNmY3Q0OS1xOXVXaFRFbm91ekx1N0xxSTBieHk2aFNTNGxFbW1xeVd1azB0dThVUVJvQ2ZzRi1nTG5fOW9PTXpIWTViZV9HYTVZX0gyb2FB?oc=5\" target=\"_blank\"&gt;NetDocuments publishes Legal Context Engineering Benchmark report&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Legal IT Insider&lt;/font&gt;",
+      "primary_source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ21qS1RkcGkzZ1ZLQndRZmFYOFNWbU9COEJ2ZzZqUGZZaERiQ3l2YTlJX3pnVmVFc2ZfVklwdnI0NHhQSVFyb01QRTNmY3Q0OS1xOXVXaFRFbm91ekx1N0xxSTBieHk2aFNTNGxFbW1xeVd1azB0dThVUVJvQ2ZzRi1nTG5fOW9PTXpIWTViZV9HYTVZX0gyb2FB?oc=5",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "NetDocuments introduces benchmark to measure context engineering in legal AI workflows",
+      "why_now": "Provides critical insight into how legal tech incumbents are attempting to measure and standardise AI context accuracy.",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Google News: legal AI",
+      "source_tier": "A",
+      "prefilter_score": 14,
+      "matched_terms": [
+        "NetDocuments"
+      ],
+      "fingerprint": {
+        "entities": [
+          "netdocuments"
+        ],
+        "numerics": [],
+        "keywords": [],
+        "title_tokens": [
+          "netdocuments",
+          "publishes",
+          "legal",
+          "context",
+          "engineering",
+          "benchmark",
+          "insider"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-08-18T16:17:50.329Z",
+      "queued_at": "2026-08-18T16:17:50.333Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-08-18T12:34:21.778Z"
+  "last_updated": "2026-08-18T16:17:50.333Z"
 }

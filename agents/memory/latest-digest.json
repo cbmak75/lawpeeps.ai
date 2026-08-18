@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-18T15:20:23.899Z",
+  "generated": "2026-08-18T16:17:48.838Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 759,
+  "total_scanned": 757,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -115,10 +115,34 @@
       "relevance_score": 8
     },
     {
-      "title": "Cardium Law selects iManage to strengthen document management and support future AI innovation - Legal Futures",
+      "title": "Cardium Law selects iManage to strengthen document management and support future AI innovation - legalfutures.co.uk",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQczhVVUFFZncxdFNySkUzWU1mZ1RWbU84Y2JqbXRfN0dhTkVoV1lCSHhFYVpsT1N0NnkzcDNqelBEY01qTjhMdmdXM09iVlp0NGJhNUdJdjV6TTR4M0hPSVJsS0tQOHRCUTdPZ1Y1Y1ZJRFFUVnJkWE5ubFB1dHJEVHJkWXdIMEtDQXpobTd5RzBUQkVsWHVnWHdOeHBVazRKOWQxVWtKX05SakRLQXdSbThPUF9PcW9vTDNBdDA1dVQ5UzlKX3BqNmE4dDRyWVpWNFM2T0Z3aw?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQczhVVUFFZncxdFNySkUzWU1mZ1RWbU84Y2JqbXRfN0dhTkVoV1lCSHhFYVpsT1N0NnkzcDNqelBEY01qTjhMdmdXM09iVlp0NGJhNUdJdjV6TTR4M0hPSVJsS0tQOHRCUTdPZ1Y1Y1ZJRFFUVnJkWE5ubFB1dHJEVHJkWXdIMEtDQXpobTd5RzBUQkVsWHVnWHdOeHBVazRKOWQxVWtKX05SakRLQXdSbThPUF9PcW9vTDNBdDA1dVQ5UzlKX3BqNmE4dDRyWVpWNFM2T0Z3aw?oc=5\" target=\"_blank\"&gt;Cardium Law selects iManage to strengthen document management and support future AI innovation&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;fon",
       "published": "2026-08-18T15:11:15.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 7
+    },
+    {
+      "title": "NetDocuments publishes Legal Context Engineering Benchmark report - Legal IT Insider",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ21qS1RkcGkzZ1ZLQndRZmFYOFNWbU9COEJ2ZzZqUGZZaERiQ3l2YTlJX3pnVmVFc2ZfVklwdnI0NHhQSVFyb01QRTNmY3Q0OS1xOXVXaFRFbm91ekx1N0xxSTBieHk2aFNTNGxFbW1xeVd1azB0dThVUVJvQ2ZzRi1nTG5fOW9PTXpIWTViZV9HYTVZX0gyb2FB?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ21qS1RkcGkzZ1ZLQndRZmFYOFNWbU9COEJ2ZzZqUGZZaERiQ3l2YTlJX3pnVmVFc2ZfVklwdnI0NHhQSVFyb01QRTNmY3Q0OS1xOXVXaFRFbm91ekx1N0xxSTBieHk2aFNTNGxFbW1xeVd1azB0dThVUVJvQ2ZzRi1nTG5fOW9PTXpIWTViZV9HYTVZX0gyb2FB?oc=5\" target=\"_blank\"&gt;NetDocuments publishes Legal Context Engineering Benchmark report&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Legal IT Insider&lt;/font&gt;",
+      "published": "2026-08-18T14:58:57.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 7
+    },
+    {
+      "title": "Next Gen ‘Harvey II’ Launches with Memory at Its Core - Artificial Lawyer",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMUlkTEJvZzkyb3BqUW11WWtpQ1lWeDBYWmYxcXl0VGJkdXlkcHZFRUpOWV95RHpPQkt1OHBhTW52c3daZW9faGZ4RzVGVHN3Rm11cVRYNjBUYVk5NGdmaGkyNDhhVGJBNzFUZHJtNTF1d0ZQMmJwLXBfYjlnQ3o2UTBUYTdOdTR2NDJSbFAxTVpYa3FzRm9LZTBuM0s?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOMUlkTEJvZzkyb3BqUW11WWtpQ1lWeDBYWmYxcXl0VGJkdXlkcHZFRUpOWV95RHpPQkt1OHBhTW52c3daZW9faGZ4RzVGVHN3Rm11cVRYNjBUYVk5NGdmaGkyNDhhVGJBNzFUZHJtNTF1d0ZQMmJwLXBfYjlnQ3o2UTBUYTdOdTR2NDJSbFAxTVpYa3FzRm9LZTBuM0s?oc=5\" target=\"_blank\"&gt;Next Gen ‘Harvey II’ Launches with Memory at Its Core&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
+      "published": "2026-08-18T14:31:43.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
@@ -371,30 +395,6 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUFpJQjBKRjQ5V1l2YzVaMDJuelJ3U3hJN0V6M2R5eVczRE00VXU2Z2sybTZDUHdkY3VJYmtjQzYxdjY5Um80bUJSenlfRjhyS1NGeTdGRjc3anBFWE00OXJlQVJtd09iZklHM0E5SkQwUHYtdm9rWERZN0RLQ2NxLUFCMzlnb0JJQmRYeEZfcDhXRGlKdWdZbTBSSGpvcG5fRjJKYjhqMnBnMjhheDNtNkx6SXFsOElsUkthYXNDMVVGLXo4LUd6WVhJZk8?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPUFpJQjBKRjQ5V1l2YzVaMDJuelJ3U3hJN0V6M2R5eVczRE00VXU2Z2sybTZDUHdkY3VJYmtjQzYxdjY5Um80bUJSenlfRjhyS1NGeTdGRjc3anBFWE00OXJlQVJtd09iZklHM0E5SkQwUHYtdm9rWERZN0RLQ2NxLUFCMzlnb0JJQmRYeEZfcDhXRGlKdWdZbTBSSGpvcG5fRjJKYjhqMnBnMjhheDNtNkx6SXFsOElsUkthYXNDMVVGLXo4LUd6WVhJZk8?oc=5\" target=\"_blank\"&gt;Beyond chatbots: how technical literacy defines the next era of legal AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;IFLR&lt;/font&gt",
       "published": "2026-07-10T13:51:07.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 5
-    },
-    {
-      "title": "Harvey announces partnership with Swiss legal AI intelligence platform DeepJudge - The Global Legal Post",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQzJDM2Zxdks1eDYzTDNNZ1RuRXZ6Njh2SFFuVFFITmxhdF9lYzR3ZVRzZ1R6bEFnMHNNTHdodzJaVmxMNlZSWlp4S2xhY0VWdThHV3JQVktjNTlfUzE2QlhucDlTNFhhOTRCYUl2aDMyaHUzR3B4T2YtazktdnpmVFg4X0RJdkJqWFVQaVJNcDJsejF0YWpMelNkamhkbTQ4R0F0STdVTWpqRlBTMFBnUkF4R2s1U1d1NGVNYzFKcjFiTllL?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQQzJDM2Zxdks1eDYzTDNNZ1RuRXZ6Njh2SFFuVFFITmxhdF9lYzR3ZVRzZ1R6bEFnMHNNTHdodzJaVmxMNlZSWlp4S2xhY0VWdThHV3JQVktjNTlfUzE2QlhucDlTNFhhOTRCYUl2aDMyaHUzR3B4T2YtazktdnpmVFg4X0RJdkJqWFVQaVJNcDJsejF0YWpMelNkamhkbTQ4R0F0STdVTWpqRlBTMFBnUkF4R2s1U1d1NGVNYzFKcjFiTllL?oc=5\" target=\"_blank\"&gt;Harvey announces partnership with Swiss legal AI intelligence platform DeepJudge&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Global Legal Po",
-      "published": "2026-05-21T07:00:00.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 5
-    },
-    {
-      "title": "Claude for Legal: What the industry needs to know - Legal IT Insider",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaTk1d0FIT01YOFFzWUlxSFh6cGZza21GcEx0VWY4VWNnd1FnNkx2eDE2ZFNPZmZadDRGVmZoSTBlSEJjR21fanp4MzNWTGF1QTR2SDlCdlNka25MU0kySG5oSUZQdnRnbDhPMHhyX3dlbFN0eFdFZkdEVEZ5OE5RSUJGNA?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOaTk1d0FIT01YOFFzWUlxSFh6cGZza21GcEx0VWY4VWNnd1FnNkx2eDE2ZFNPZmZadDRGVmZoSTBlSEJjR21fanp4MzNWTGF1QTR2SDlCdlNka25MU0kySG5oSUZQdnRnbDhPMHhyX3dlbFN0eFdFZkdEVEZ5OE5RSUJGNA?oc=5\" target=\"_blank\"&gt;Claude for Legal: What the industry needs to know&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Legal IT Insider&lt;/font&gt;",
-      "published": "2026-05-13T07:00:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
