@@ -1,11 +1,23 @@
 {
-  "generated": "2026-08-19T20:13:34.095Z",
+  "generated": "2026-08-19T21:15:02.395Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 753,
+  "total_scanned": 754,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
+    {
+      "title": "Legal Tech AI Firms Shift Away From Anthropic, OpenAI Reliance - Bloomberg Law News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWHBFVU5mZzN4aU16NHdqQXg3WmVpakxCUXk2R0xqSF9IZWFyMzlFSkFTbG02MmFfQ1RISElKSU5WeUV1MjNSaGk3R2ktdGd0c3pWUlczNDNNbkhUcGhVYUs4QTVvSWZTbzIxbTR2cnNlU0k4Q3Z1R2NrcHBZMGhEZlp5am1QMk13RDBHTU1mMVh3SHU2TnNrWktBblpCNzkyRzZJWU5ORDFjWS1zV1Nz?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQWHBFVU5mZzN4aU16NHdqQXg3WmVpakxCUXk2R0xqSF9IZWFyMzlFSkFTbG02MmFfQ1RISElKSU5WeUV1MjNSaGk3R2ktdGd0c3pWUlczNDNNbkhUcGhVYUs4QTVvSWZTbzIxbTR2cnNlU0k4Q3Z1R2NrcHBZMGhEZlp5am1QMk13RDBHTU1mMVh3SHU2TnNrWktBblpCNzkyRzZJWU5ORDFjWS1zV1Nz?oc=5\" target=\"_blank\"&gt;Legal Tech AI Firms Shift Away From Anthropic, OpenAI Reliance&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Bloomberg Law News&lt;/font&gt;",
+      "published": "2026-08-19T20:40:00.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 12
+    },
     {
       "title": "Harvey Forum + Shared Spaces, Clio, Spellbook, Legal Innovators - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWDZZRVZBVWx3ckRDeE96a1ZYWTJxVldZUHNwYWl2eHdrUDZKc2xXSmRYVHRheXlISnI5SVpKdmlYTHdOWVRwb3VneFBHMlZhcnlyOWNiZHJuUkNTLXhINlgwRnJzZlNCU0JYQ2k2R2RrUFN3dlRoT3k0ckM5NDRZRHZ2UjAzQWVfQXNRcm9lM2w2LVdmRUxvMmwyVXkzS2Y2XzlnTTNn?oc=5",
@@ -127,6 +139,18 @@
       "relevance_score": 8
     },
     {
+      "title": "Harvey AI's 12x token surge reveals that legal AI has crossed from experiment to infrastructure - Startup Fortune",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd2E2WDlBRmduLTdnWkZfLV90MkJWaEZwZVZQeFl1OTN6NjBmTTZ5aTdTOUx2VFRmcHRYMjUtV2E4ZzFld0N5QTZJNU1zRDFfQ1NCSGhRMFdTLU5Uclc4ck1kcDQxX0dlM3NBaXI0V1FqSk45NTcyRUU5NHRfb3F5bFRXOEhLVmgwUmJzWkQ3WUdPYUtiSnpXcEd3QU5iWXpHR0MxYVdXejRiMlN6ZUJ5SGk5Ql9obXNSTUhVUnpubw?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOd2E2WDlBRmduLTdnWkZfLV90MkJWaEZwZVZQeFl1OTN6NjBmTTZ5aTdTOUx2VFRmcHRYMjUtV2E4ZzFld0N5QTZJNU1zRDFfQ1NCSGhRMFdTLU5Uclc4ck1kcDQxX0dlM3NBaXI0V1FqSk45NTcyRUU5NHRfb3F5bFRXOEhLVmgwUmJzWkQ3WUdPYUtiSnpXcEd3QU5iWXpHR0MxYVdXejRiMlN6ZUJ5SGk5Ql9obXNSTUhVUnpubw?oc=5\" target=\"_blank\"&gt;Harvey AI's 12x token surge reveals that legal AI has crossed from experiment to infrastructure&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Startup Fo",
+      "published": "2026-06-19T07:00:00.000Z",
+      "source_id": "google-news-harvey-luminance",
+      "source_name": "Google News: Harvey OR Luminance",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 8
+    },
+    {
       "title": "GPT-5 Launches: Harvey, Spellbook, Legora + TR Already Have It - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPakxDaENfTFFVRjVLRjZQSWplRnJwcUFCQWRtNkUyaUh4T1RvT1Rkc0R3NVZxb095ODN4eGIyREhjTUJTTDFvcmN0cV81OE5Md2k0WS1IVGRJWGdaT1BFaFJDUjdRSkU1ZXZqQTFFUXBQVmFpSndTNFVsb3BEMjN1MnJueW11QmZSWWpzZWhJVndMVk1qSlY1bzhlQQ?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPakxDaENfTFFVRjVLRjZQSWplRnJwcUFCQWRtNkUyaUh4T1RvT1Rkc0R3NVZxb095ODN4eGIyREhjTUJTTDFvcmN0cV81OE5Md2k0WS1IVGRJWGdaT1BFaFJDUjdRSkU1ZXZqQTFFUXBQVmFpSndTNFVsb3BEMjN1MnJueW11QmZSWWpzZWhJVndMVk1qSlY1bzhlQQ?oc=5\" target=\"_blank\"&gt;GPT-5 Launches: Harvey, Spellbook, Legora + TR Already Have It&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
@@ -187,18 +211,6 @@
       "relevance_score": 6
     },
     {
-      "title": "Fulham FC Partners with :Harvey: as Official Legal AI Partner - Harvey",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcjRRNnVlNjhSeWFIa251RXY0ZFZ3NWVOOUV5WEhHa1hMM19zVGs0c3pmN3lLWS0yVGRZNDRuMWR3X1FqUi1WYldHTjd6clh0R0RNc05RRkhuWmVoQWtVY1hFcFJyamxoYXZ6NlljYzlERlNMZ1JiMXg4ZUZIZFV4TFVRUFdRRlRaQnlVV0FBRFZzYlZNWlVF?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNcjRRNnVlNjhSeWFIa251RXY0ZFZ3NWVOOUV5WEhHa1hMM19zVGs0c3pmN3lLWS0yVGRZNDRuMWR3X1FqUi1WYldHTjd6clh0R0RNc05RRkhuWmVoQWtVY1hFcFJyamxoYXZ6NlljYzlERlNMZ1JiMXg4ZUZIZFV4TFVRUFdRRlRaQnlVV0FBRFZzYlZNWlVF?oc=5\" target=\"_blank\"&gt;Fulham FC Partners with :Harvey: as Official Legal AI Partner&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
-      "published": "2026-08-18T20:32:47.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
-    },
-    {
       "title": "Is Legal AI Cutting Jobs? It’s Not That Simple… - Legal Reader",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBjSGhqRlNnNlA1MFJNQUk2TmhMa05wdGYwYlNFYnNzckxBZUhDOE1uZDRjMWRLaTM2T3RzbVlmWGFSdlktVllETVNjYWgwWVlxQ1NEOUcweWZHdXg4YUQzMkxRNkpsbkIwamFCWE1TUVNObDNqcDFubks3djBSZw?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBjSGhqRlNnNlA1MFJNQUk2TmhMa05wdGYwYlNFYnNzckxBZUhDOE1uZDRjMWRLaTM2T3RzbVlmWGFSdlktVllETVNjYWgwWVlxQ1NEOUcweWZHdXg4YUQzMkxRNkpsbkIwamFCWE1TUVNObDNqcDFubks3djBSZw?oc=5\" target=\"_blank\"&gt;Is Legal AI Cutting Jobs? It’s Not That Simple…&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Legal Reader&lt;/font&gt;",
@@ -211,9 +223,9 @@
       "relevance_score": 6
     },
     {
-      "title": "Harvey II adds memory &amp; matter-based legal AI tools - itbrief.com.au",
+      "title": "Harvey II adds memory &amp; matter-based legal AI tools - IT Brief Australia",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLWVCSTd2cGVvQ2Q3djBwVXlQWXpwNy1LYV9LU21rN24yXzlmSmVJWkxaWDFlX3liOVBHN3pNeVVsLTRVSHY3RURwMXZvMTlBN2ZGajhxQWhRMThBYWZtVzh6NWlPa1dwTElnZUtfTDAwN3M1blBYSzhBU1NSa1Bqd1NCZl8?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPLWVCSTd2cGVvQ2Q3djBwVXlQWXpwNy1LYV9LU21rN24yXzlmSmVJWkxaWDFlX3liOVBHN3pNeVVsLTRVSHY3RURwMXZvMTlBN2ZGajhxQWhRMThBYWZtVzh6NWlPa1dwTElnZUtfTDAwN3M1blBYSzhBU1NSa1Bqd1NCZl8?oc=5\" target=\"_blank\"&gt;Harvey II adds memory &amp; matter-based legal AI tools&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;itbrief.com.au&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPLWVCSTd2cGVvQ2Q3djBwVXlQWXpwNy1LYV9LU21rN24yXzlmSmVJWkxaWDFlX3liOVBHN3pNeVVsLTRVSHY3RURwMXZvMTlBN2ZGajhxQWhRMThBYWZtVzh6NWlPa1dwTElnZUtfTDAwN3M1blBYSzhBU1NSa1Bqd1NCZl8?oc=5\" target=\"_blank\"&gt;Harvey II adds memory &amp; matter-based legal AI tools&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;IT Brief Australia&lt;/font&gt;",
       "published": "2026-08-19T03:59:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
@@ -295,9 +307,9 @@
       "relevance_score": 6
     },
     {
-      "title": "Harvey AI will speed up 'diligence' and transform the economy in different ways: Harvey AI CEO - foxbusiness.com",
+      "title": "Harvey AI will speed up 'diligence' and transform the economy in different ways: Harvey AI CEO - Fox Business",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGZzVJbmVJeTVpQjU0TTFfNDY1eEdDdThXb2lyT25sYlpuajc5NDdTSzFzSVYwMEhxdnhMTUc4Sll5amFBb3JPN3VOaU5zYTZQS1JoRVJDcTVsSGM?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGZzVJbmVJeTVpQjU0TTFfNDY1eEdDdThXb2lyT25sYlpuajc5NDdTSzFzSVYwMEhxdnhMTUc4Sll5amFBb3JPN3VOaU5zYTZQS1JoRVJDcTVsSGM?oc=5\" target=\"_blank\"&gt;Harvey AI will speed up 'diligence' and transform the economy in different ways: Harvey AI CEO&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;foxbusiness.com&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGZzVJbmVJeTVpQjU0TTFfNDY1eEdDdThXb2lyT25sYlpuajc5NDdTSzFzSVYwMEhxdnhMTUc4Sll5amFBb3JPN3VOaU5zYTZQS1JoRVJDcTVsSGM?oc=5\" target=\"_blank\"&gt;Harvey AI will speed up 'diligence' and transform the economy in different ways: Harvey AI CEO&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Fox Business&lt;/font&gt;",
       "published": "2026-04-20T07:00:00.000Z",
       "source_id": "google-news-harvey-luminance",
       "source_name": "Google News: Harvey OR Luminance",
@@ -403,6 +415,18 @@
       "relevance_score": 5
     },
     {
+      "title": "Fulham FC Partners with :Harvey: as Official Legal AI Partner - Harvey",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcjRRNnVlNjhSeWFIa251RXY0ZFZ3NWVOOUV5WEhHa1hMM19zVGs0c3pmN3lLWS0yVGRZNDRuMWR3X1FqUi1WYldHTjd6clh0R0RNc05RRkhuWmVoQWtVY1hFcFJyamxoYXZ6NlljYzlERlNMZ1JiMXg4ZUZIZFV4TFVRUFdRRlRaQnlVV0FBRFZzYlZNWlVF?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNcjRRNnVlNjhSeWFIa251RXY0ZFZ3NWVOOUV5WEhHa1hMM19zVGs0c3pmN3lLWS0yVGRZNDRuMWR3X1FqUi1WYldHTjd6clh0R0RNc05RRkhuWmVoQWtVY1hFcFJyamxoYXZ6NlljYzlERlNMZ1JiMXg4ZUZIZFV4TFVRUFdRRlRaQnlVV0FBRFZzYlZNWlVF?oc=5\" target=\"_blank\"&gt;Fulham FC Partners with :Harvey: as Official Legal AI Partner&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
+      "published": "2026-08-18T20:32:47.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 5
+    },
+    {
       "title": "Harvey Picks DeepL For Legal Translation - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbVBMZlRwWU5nWjVZN1diV1lQUUl2NmhKY2Z5Yl9OczV6N2ZkRHh2T1Buc1pVX1I3bHhJbFdDWnNyNUpnWkRFSXhVc1o4TGRZZ3ZPc3c3bU1iRHF5WEZmRGo5YUp3anZHalJpdVNvQktUbFloY1RDWE5XRjUzQXIwa2R0V2l2UXp2WGJfOVBB?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNbVBMZlRwWU5nWjVZN1diV1lQUUl2NmhKY2Z5Yl9OczV6N2ZkRHh2T1Buc1pVX1I3bHhJbFdDWnNyNUpnWkRFSXhVc1o4TGRZZ3ZPc3c3bU1iRHF5WEZmRGo5YUp3anZHalJpdVNvQktUbFloY1RDWE5XRjUzQXIwa2R0V2l2UXp2WGJfOVBB?oc=5\" target=\"_blank\"&gt;Harvey Picks DeepL For Legal Translation&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
@@ -455,30 +479,6 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMFFnQ1ZFcTlDWXkzWnJMb0lURklNa2hMRXVEMmZ6dW9wYzFmaWJhUEdDRjVjYnA1RTRWZDF5cXlTZ2xQTjZ1QUlCNnJHa2tkcmYyRFpCNmg3dHFTR1llLUFLZG5yZjF1LWVIU3p3R1YzQW5ReW10WElLeG9xQWlyX3h5RXViYlY3b0E?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNMFFnQ1ZFcTlDWXkzWnJMb0lURklNa2hMRXVEMmZ6dW9wYzFmaWJhUEdDRjVjYnA1RTRWZDF5cXlTZ2xQTjZ1QUlCNnJHa2tkcmYyRFpCNmg3dHFTR1llLUFLZG5yZjF1LWVIU3p3R1YzQW5ReW10WElLeG9xQWlyX3h5RXViYlY3b0E?oc=5\" target=\"_blank\"&gt;:Harvey: Expands Collaboration with Microsoft on Legal AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
       "published": "2026-07-23T07:00:00.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 5
-    },
-    {
-      "title": "Anthropic’s expansion of legal AI tools is good for lawyers, experts say - The Global Legal Post",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON29yWkx6TnprRmNac3lObVViVmxxRnMxYk00MjJFOFFLdDBJOWtDY1R6ckxWa0tFTWgxY0ZvVzJGR2x5T09rX0hOVE1xM1ZUbVdSMHBnUVpsSmI3X2JucUFIUUdoUlplaEFCbXdjTHhpblYyM09jNkZtNlh4SzZtamM2em5LX19SdElfWU1EMUxITUljZUdHLWRUbjRWVTd6U0JVWVItaG83N2VyYTdzWHJYb0N5QVRrSXc?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxON29yWkx6TnprRmNac3lObVViVmxxRnMxYk00MjJFOFFLdDBJOWtDY1R6ckxWa0tFTWgxY0ZvVzJGR2x5T09rX0hOVE1xM1ZUbVdSMHBnUVpsSmI3X2JucUFIUUdoUlplaEFCbXdjTHhpblYyM09jNkZtNlh4SzZtamM2em5LX19SdElfWU1EMUxITUljZUdHLWRUbjRWVTd6U0JVWVItaG83N2VyYTdzWHJYb0N5QVRrSXc?oc=5\" target=\"_blank\"&gt;Anthropic’s expansion of legal AI tools is good for lawyers, experts say&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Global Legal Post&lt;/font&gt;",
-      "published": "2026-05-26T07:00:00.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 5
-    },
-    {
-      "title": "Beyond chatbots: how technical literacy defines the next era of legal AI - IFLR",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUFpJQjBKRjQ5V1l2YzVaMDJuelJ3U3hJN0V6M2R5eVczRE00VXU2Z2sybTZDUHdkY3VJYmtjQzYxdjY5Um80bUJSenlfRjhyS1NGeTdGRjc3anBFWE00OXJlQVJtd09iZklHM0E5SkQwUHYtdm9rWERZN0RLQ2NxLUFCMzlnb0JJQmRYeEZfcDhXRGlKdWdZbTBSSGpvcG5fRjJKYjhqMnBnMjhheDNtNkx6SXFsOElsUkthYXNDMVVGLXo4LUd6WVhJZk8?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPUFpJQjBKRjQ5V1l2YzVaMDJuelJ3U3hJN0V6M2R5eVczRE00VXU2Z2sybTZDUHdkY3VJYmtjQzYxdjY5Um80bUJSenlfRjhyS1NGeTdGRjc3anBFWE00OXJlQVJtd09iZklHM0E5SkQwUHYtdm9rWERZN0RLQ2NxLUFCMzlnb0JJQmRYeEZfcDhXRGlKdWdZbTBSSGpvcG5fRjJKYjhqMnBnMjhheDNtNkx6SXFsOElsUkthYXNDMVVGLXo4LUd6WVhJZk8?oc=5\" target=\"_blank\"&gt;Beyond chatbots: how technical literacy defines the next era of legal AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;IFLR&lt;/font&gt",
-      "published": "2026-07-10T13:51:07.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
