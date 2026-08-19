@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-19T19:17:03.384Z",
+  "generated": "2026-08-19T20:13:34.131Z",
   "cycle_type": "triage",
-  "tier_filter": "A",
-  "shortlist_size": 1,
+  "shortlist_size": 0,
+  "picks": [],
   "prefilter": {
     "total": 40,
     "accepted": 1,
@@ -11,28 +11,5 @@
     "rejected_as_duplicate": 39,
     "accept_rate": 3
   },
-  "model": "gemini-flash-lite-latest",
-  "picks": [
-    {
-      "id": "google-news-legal-ai-0",
-      "score": 4,
-      "category": "Legal AI",
-      "suggested_angle": "Examining whether legal AI is genuinely displacing junior headcount or merely shifting billable hours.",
-      "why_now": "General commentary piece lacking a fresh primary source, empirical data hook, or specific firm announcement.",
-      "verdict": "drop",
-      "duplicate_of": null
-    }
-  ],
-  "summary": {
-    "enqueue_count": 0,
-    "watch_count": 0,
-    "drop_count": 1,
-    "notes": "Dropped single generic commentary piece due to lack of primary source or news hook."
-  },
-  "enqueued": 0,
-  "usage": {
-    "input_tokens": 2325,
-    "output_tokens": 185,
-    "total_tokens": 2510
-  }
+  "skipped_already_triaged": 1
 }
