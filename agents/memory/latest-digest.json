@@ -1,11 +1,23 @@
 {
-  "generated": "2026-08-19T03:36:48.480Z",
+  "generated": "2026-08-19T04:25:19.495Z",
   "cycle_type": "monitoring",
   "item_count": 40,
   "total_scanned": 754,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
+    {
+      "title": "Harvey II adds memory &amp; matter-based legal AI tools - IT Brief Australia",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLWVCSTd2cGVvQ2Q3djBwVXlQWXpwNy1LYV9LU21rN24yXzlmSmVJWkxaWDFlX3liOVBHN3pNeVVsLTRVSHY3RURwMXZvMTlBN2ZGajhxQWhRMThBYWZtVzh6NWlPa1dwTElnZUtfTDAwN3M1blBYSzhBU1NSa1Bqd1NCZl8?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPLWVCSTd2cGVvQ2Q3djBwVXlQWXpwNy1LYV9LU21rN24yXzlmSmVJWkxaWDFlX3liOVBHN3pNeVVsLTRVSHY3RURwMXZvMTlBN2ZGajhxQWhRMThBYWZtVzh6NWlPa1dwTElnZUtfTDAwN3M1blBYSzhBU1NSa1Bqd1NCZl8?oc=5\" target=\"_blank\"&gt;Harvey II adds memory &amp; matter-based legal AI tools&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;IT Brief Australia&lt;/font&gt;",
+      "published": "2026-08-19T03:59:00.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 9
+    },
     {
       "title": "Harvey Forum + Shared Spaces, Clio, Spellbook, Legal Innovators - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWDZZRVZBVWx3ckRDeE96a1ZYWTJxVldZUHNwYWl2eHdrUDZKc2xXSmRYVHRheXlISnI5SVpKdmlYTHdOWVRwb3VneFBHMlZhcnlyOWNiZHJuUkNTLXhINlgwRnJzZlNCU0JYQ2k2R2RrUFN3dlRoT3k0ckM5NDRZRHZ2UjAzQWVfQXNRcm9lM2w2LVdmRUxvMmwyVXkzS2Y2XzlnTTNn?oc=5",
@@ -55,9 +67,9 @@
       "relevance_score": 8
     },
     {
-      "title": "Irish co-founded legal AI startup Wordsmith raises $70m - Irish Legal News",
+      "title": "Irish co-founded legal AI startup Wordsmith raises $70m - irishlegal.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMEZUVFoxTWF1a01MYi05c0pZSVZRT0ZGTnNrcWw3SmYtMlNJbDEyMkxCYkJTclBpTzVQOWR5bEdQVEVEbGNiemh1UHdDbmtfQVVseV9ITkpnNW1lUXJ5VlNhWXhSV2dzdjg2bG0tSHZ5M2pPbWtQSXFETkk4MFpubVVqMlBWVXNCTjRCODdXckVYTElG?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNMEZUVFoxTWF1a01MYi05c0pZSVZRT0ZGTnNrcWw3SmYtMlNJbDEyMkxCYkJTclBpTzVQOWR5bEdQVEVEbGNiemh1UHdDbmtfQVVseV9ITkpnNW1lUXJ5VlNhWXhSV2dzdjg2bG0tSHZ5M2pPbWtQSXFETkk4MFpubVVqMlBWVXNCTjRCODdXckVYTElG?oc=5\" target=\"_blank\"&gt;Irish co-founded legal AI startup Wordsmith raises $70m&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Irish Legal News&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNMEZUVFoxTWF1a01MYi05c0pZSVZRT0ZGTnNrcWw3SmYtMlNJbDEyMkxCYkJTclBpTzVQOWR5bEdQVEVEbGNiemh1UHdDbmtfQVVseV9ITkpnNW1lUXJ5VlNhWXhSV2dzdjg2bG0tSHZ5M2pPbWtQSXFETkk4MFpubVVqMlBWVXNCTjRCODdXckVYTElG?oc=5\" target=\"_blank\"&gt;Irish co-founded legal AI startup Wordsmith raises $70m&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;irishlegal.com&lt;/font&gt;",
       "published": "2026-06-05T07:00:00.000Z",
       "source_id": "google-news-legal-tech-funding",
       "source_name": "Google News: legal tech funding",
@@ -295,18 +307,6 @@
       "relevance_score": 6
     },
     {
-      "title": "Spellbook CEO Scott Stevenson exposes inflated ARR practices among AI startups - Crypto Briefing",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBnT3VzYkcxWXNlV1ZHclJyTzJLMEVIUjVUdGt3ZzJOY3JHNmNHNTlKMVc3RkpmbzdZaHlQWFJydXdrOHY0QnZ1VzhMQldYUkhQTmZuXy1Ya2ZRcnVFM0VzVDJZSHNoVG1Ud0dDWVBxc19WejRl?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBnT3VzYkcxWXNlV1ZHclJyTzJLMEVIUjVUdGt3ZzJOY3JHNmNHNTlKMVc3RkpmbzdZaHlQWFJydXdrOHY0QnZ1VzhMQldYUkhQTmZuXy1Ya2ZRcnVFM0VzVDJZSHNoVG1Ud0dDWVBxc19WejRl?oc=5\" target=\"_blank\"&gt;Spellbook CEO Scott Stevenson exposes inflated ARR practices among AI startups&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Crypto Briefing&lt;/font&gt;",
-      "published": "2026-05-22T07:00:00.000Z",
-      "source_id": "google-news-contract-ai",
-      "source_name": "Google News: contract AI",
-      "source_priority": "medium",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
-    },
-    {
       "title": "This Open Source RP2040 Development Board Looks Like a Magic Spellbook - Hackster.io",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORnVSUlF6azgxa3lnMFFGVmU2dWdTeWRSOE1MV0JtdkViWVNhWkozazFKdy1Xb1FlS3RaTVRxeHExODhPdi1QY2I0UFVPMDdxX2hFdmpUUE5qeFpiX0xrNktLbUZ0Qm96ckY0UlI0enkyTmZVYmpQZmN2b3ByMV9zWnlGVFRnc3ZYLWdHQWdVU3U5WFJLb05YV2E0NlQzWHZCdUNXb2xnMmlsZnNtdzNhdnZ30gG3AUFVX3lxTE5FaHA3Szl0Z2N0ZWUySEJxOFVKUjdGeFdWcF96YUFqdXJpT2VJOG1pcUhwOXgtLWlHOWFXTGhxVVRJeTdZT21mLTJ3cmlydFJMT1hOX3ZhcDFkaUU5MWc5Z1FWV3Z1c2VFLU5pejVmai1Pa19hVUZ5ekc0YnFwWGlSWk9xbndOWVNTVm5FWUFkRE1DQjdoc0RiVnZFb0VjcU1PTS1QNkd4eHExV2ZwLUFVYVhHcHVqZw?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxORnVSUlF6azgxa3lnMFFGVmU2dWdTeWRSOE1MV0JtdkViWVNhWkozazFKdy1Xb1FlS3RaTVRxeHExODhPdi1QY2I0UFVPMDdxX2hFdmpUUE5qeFpiX0xrNktLbUZ0Qm96ckY0UlI0enkyTmZVYmpQZmN2b3ByMV9zWnlGVFRnc3ZYLWdHQWdVU3U5WFJLb05YV2E0NlQzWHZCdUNXb2xnMmlsZnNtdzNhdnZ30gG3AUFVX3lxTE5FaHA3Szl0Z2N0ZWUySEJxOFVKUjdGeFdWcF96YUFqdXJpT2VJOG1pcUhwOXgtLWlHOWFXTGhxVVRJeTdZT21mLTJ3cmlydFJMT1hOX3ZhcDFkaUU5MWc5Z1FWV3Z1c2VFLU5pejVmai1Pa19hVUZ5ekc0YnFwWGlSWk9xbndOWVNTVm5FWUFkRE1DQjdoc0R",
@@ -403,10 +403,22 @@
       "relevance_score": 5
     },
     {
-      "title": "AI for court transcripts and ‘digital twins’: seven legal tech stories that you might have missed - The Law Society",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMUJRcWhsRXZ6bHZ3bWtXaUYyMFlIbFdoTFRTSm9fQlRjYXNPUEVvZ0R0WDRJQ2hLRlJMeDJ6VmhvX3ZrQnJuNktFYWpCS2QwTW1xSV9BN3ROMUFPT3AtYVpxR0Fwd0pfTlZ3S3gxaHRHQWNZQ2dNSU1uM3pqWEdyb0VWWEs5ZzUzUldDTjRXTDJ0T2pPY29aWWFBclpqenplYUJhcnhBX2xLLUxXT2dHM1hTaVZxcTAzZnpIeGtEd29DaWlNRVNRTGkzMXFPNFUzU1FTN3VxUmdKZWZXRXJZ?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMUJRcWhsRXZ6bHZ3bWtXaUYyMFlIbFdoTFRTSm9fQlRjYXNPUEVvZ0R0WDRJQ2hLRlJMeDJ6VmhvX3ZrQnJuNktFYWpCS2QwTW1xSV9BN3ROMUFPT3AtYVpxR0Fwd0pfTlZ3S3gxaHRHQWNZQ2dNSU1uM3pqWEdyb0VWWEs5ZzUzUldDTjRXTDJ0T2pPY29aWWFBclpqenplYUJhcnhBX2xLLUxXT2dHM1hTaVZxcTAzZnpIeGtEd29DaWlNRVNRTGkzMXFPNFUzU1FTN3VxUmdKZWZXRXJZ?oc=5\" target=\"_blank\"&gt;AI for court transcripts and ‘digital twins’: seven legal tech stories that you might have missed&lt;/a&gt;&amp;nbsp;&amp",
-      "published": "2026-05-06T07:00:00.000Z",
+      "title": "Beyond chatbots: how technical literacy defines the next era of legal AI - IFLR",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUFpJQjBKRjQ5V1l2YzVaMDJuelJ3U3hJN0V6M2R5eVczRE00VXU2Z2sybTZDUHdkY3VJYmtjQzYxdjY5Um80bUJSenlfRjhyS1NGeTdGRjc3anBFWE00OXJlQVJtd09iZklHM0E5SkQwUHYtdm9rWERZN0RLQ2NxLUFCMzlnb0JJQmRYeEZfcDhXRGlKdWdZbTBSSGpvcG5fRjJKYjhqMnBnMjhheDNtNkx6SXFsOElsUkthYXNDMVVGLXo4LUd6WVhJZk8?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPUFpJQjBKRjQ5V1l2YzVaMDJuelJ3U3hJN0V6M2R5eVczRE00VXU2Z2sybTZDUHdkY3VJYmtjQzYxdjY5Um80bUJSenlfRjhyS1NGeTdGRjc3anBFWE00OXJlQVJtd09iZklHM0E5SkQwUHYtdm9rWERZN0RLQ2NxLUFCMzlnb0JJQmRYeEZfcDhXRGlKdWdZbTBSSGpvcG5fRjJKYjhqMnBnMjhheDNtNkx6SXFsOElsUkthYXNDMVVGLXo4LUd6WVhJZk8?oc=5\" target=\"_blank\"&gt;Beyond chatbots: how technical literacy defines the next era of legal AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;IFLR&lt;/font&gt",
+      "published": "2026-07-10T13:51:07.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 5
+    },
+    {
+      "title": "Harvey announces partnership with Swiss legal AI intelligence platform DeepJudge - The Global Legal Post",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQzJDM2Zxdks1eDYzTDNNZ1RuRXZ6Njh2SFFuVFFITmxhdF9lYzR3ZVRzZ1R6bEFnMHNNTHdodzJaVmxMNlZSWlp4S2xhY0VWdThHV3JQVktjNTlfUzE2QlhucDlTNFhhOTRCYUl2aDMyaHUzR3B4T2YtazktdnpmVFg4X0RJdkJqWFVQaVJNcDJsejF0YWpMelNkamhkbTQ4R0F0STdVTWpqRlBTMFBnUkF4R2s1U1d1NGVNYzFKcjFiTllL?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQQzJDM2Zxdks1eDYzTDNNZ1RuRXZ6Njh2SFFuVFFITmxhdF9lYzR3ZVRzZ1R6bEFnMHNNTHdodzJaVmxMNlZSWlp4S2xhY0VWdThHV3JQVktjNTlfUzE2QlhucDlTNFhhOTRCYUl2aDMyaHUzR3B4T2YtazktdnpmVFg4X0RJdkJqWFVQaVJNcDJsejF0YWpMelNkamhkbTQ4R0F0STdVTWpqRlBTMFBnUkF4R2s1U1d1NGVNYzFKcjFiTllL?oc=5\" target=\"_blank\"&gt;Harvey announces partnership with Swiss legal AI intelligence platform DeepJudge&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Global Legal Po",
+      "published": "2026-05-21T07:00:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
@@ -419,18 +431,6 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaTk1d0FIT01YOFFzWUlxSFh6cGZza21GcEx0VWY4VWNnd1FnNkx2eDE2ZFNPZmZadDRGVmZoSTBlSEJjR21fanp4MzNWTGF1QTR2SDlCdlNka25MU0kySG5oSUZQdnRnbDhPMHhyX3dlbFN0eFdFZkdEVEZ5OE5RSUJGNA?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOaTk1d0FIT01YOFFzWUlxSFh6cGZza21GcEx0VWY4VWNnd1FnNkx2eDE2ZFNPZmZadDRGVmZoSTBlSEJjR21fanp4MzNWTGF1QTR2SDlCdlNka25MU0kySG5oSUZQdnRnbDhPMHhyX3dlbFN0eFdFZkdEVEZ5OE5RSUJGNA?oc=5\" target=\"_blank\"&gt;Claude for Legal: What the industry needs to know&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Legal IT Insider&lt;/font&gt;",
       "published": "2026-05-13T07:00:00.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 5
-    },
-    {
-      "title": "Beyond chatbots: how technical literacy defines the next era of legal AI - IFLR",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUFpJQjBKRjQ5V1l2YzVaMDJuelJ3U3hJN0V6M2R5eVczRE00VXU2Z2sybTZDUHdkY3VJYmtjQzYxdjY5Um80bUJSenlfRjhyS1NGeTdGRjc3anBFWE00OXJlQVJtd09iZklHM0E5SkQwUHYtdm9rWERZN0RLQ2NxLUFCMzlnb0JJQmRYeEZfcDhXRGlKdWdZbTBSSGpvcG5fRjJKYjhqMnBnMjhheDNtNkx6SXFsOElsUkthYXNDMVVGLXo4LUd6WVhJZk8?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPUFpJQjBKRjQ5V1l2YzVaMDJuelJ3U3hJN0V6M2R5eVczRE00VXU2Z2sybTZDUHdkY3VJYmtjQzYxdjY5Um80bUJSenlfRjhyS1NGeTdGRjc3anBFWE00OXJlQVJtd09iZklHM0E5SkQwUHYtdm9rWERZN0RLQ2NxLUFCMzlnb0JJQmRYeEZfcDhXRGlKdWdZbTBSSGpvcG5fRjJKYjhqMnBnMjhheDNtNkx6SXFsOElsUkthYXNDMVVGLXo4LUd6WVhJZk8?oc=5\" target=\"_blank\"&gt;Beyond chatbots: how technical literacy defines the next era of legal AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;IFLR&lt;/font&gt",
-      "published": "2026-07-10T13:51:07.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
