@@ -1,83 +1,15 @@
 {
-  "generated": "2026-08-19T12:35:09.875Z",
+  "generated": "2026-08-19T13:35:34.903Z",
   "cycle_type": "triage",
-  "tier_filter": "B",
-  "shortlist_size": 6,
+  "shortlist_size": 0,
+  "picks": [],
   "prefilter": {
     "total": 40,
-    "accepted": 21,
+    "accepted": 0,
     "borderline": 0,
-    "rejected": 19,
-    "rejected_as_duplicate": 19,
-    "accept_rate": 53
+    "rejected": 40,
+    "rejected_as_duplicate": 40,
+    "accept_rate": 0
   },
-  "model": "gemini-flash-lite-latest",
-  "picks": [
-    {
-      "id": "law-society-gazette-0",
-      "score": 3,
-      "category": "Social",
-      "suggested_angle": "Woodville founders' fundraising probed.",
-      "why_now": "Not related to legal AI or regulation.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "legal-cheek-1",
-      "score": 2,
-      "category": "Social",
-      "suggested_angle": "Apprenticeships vs university for aspiring solicitors.",
-      "why_now": "Standard careers advice piece, no legal tech or AI hook.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "hacker-news-2",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "General tech tinkering.",
-      "why_now": "No legal or regulatory angle.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-3",
-      "score": 4,
-      "category": "Research",
-      "suggested_angle": "Signal reasoning in small LLMs.",
-      "why_now": "Pure technical machine learning research without a specific legal application hook.",
-      "verdict": "watch",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-4",
-      "score": 4,
-      "category": "Research",
-      "suggested_angle": "Knowledge graph reasoning in LLMs.",
-      "why_now": "General AI architecture paper; low immediate value for lawpeeps without a legal reasoning evaluation.",
-      "verdict": "watch",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-5",
-      "score": 5,
-      "category": "Research",
-      "suggested_angle": "Mixture-of-experts blocks for hallucination detection.",
-      "why_now": "Hallucination reduction is critical for legal AI reliability, but this is early-stage arXiv research.",
-      "verdict": "watch",
-      "duplicate_of": null
-    }
-  ],
-  "summary": {
-    "enqueue_count": 0,
-    "watch_count": 3,
-    "drop_count": 3,
-    "notes": "No immediate high-priority legal AI or regulatory news in this batch; minor arXiv papers set to watch."
-  },
-  "enqueued": 0,
-  "usage": {
-    "input_tokens": 3007,
-    "output_tokens": 623,
-    "total_tokens": 3630
-  }
+  "skipped_already_triaged": 0
 }
