@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-19T08:22:23.015Z",
+  "generated": "2026-08-19T09:21:59.527Z",
   "cycle_type": "monitoring",
   "item_count": 40,
   "total_scanned": 754,
@@ -23,18 +23,6 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLWVCSTd2cGVvQ2Q3djBwVXlQWXpwNy1LYV9LU21rN24yXzlmSmVJWkxaWDFlX3liOVBHN3pNeVVsLTRVSHY3RURwMXZvMTlBN2ZGajhxQWhRMThBYWZtVzh6NWlPa1dwTElnZUtfTDAwN3M1blBYSzhBU1NSa1Bqd1NCZl8?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPLWVCSTd2cGVvQ2Q3djBwVXlQWXpwNy1LYV9LU21rN24yXzlmSmVJWkxaWDFlX3liOVBHN3pNeVVsLTRVSHY3RURwMXZvMTlBN2ZGajhxQWhRMThBYWZtVzh6NWlPa1dwTElnZUtfTDAwN3M1blBYSzhBU1NSa1Bqd1NCZl8?oc=5\" target=\"_blank\"&gt;Harvey II adds memory &amp; matter-based legal AI tools&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;IT Brief Australia&lt;/font&gt;",
       "published": "2026-08-19T03:59:00.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 9
-    },
-    {
-      "title": "Harvey unveils Tenet, its first in-house legal AI model - 디지털투데이",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYWVhZFFGRlRPT1ZBSzVyTGZKd0V0TXFHZEdZSl9PNDFTTnFTWFM4ZTAtbUJZSXNIYkZTYkhtTVlrRWxpdUdaOTBCV0Q4MmlWTGJfaTJuYTl2QW1OdDdzd09KWmRqZ25ocUlLblFMU1AyWG1xV2dIUXB5cEtWWkZzVUZrWWJPYmh1M0JkOEVjMDRLaWc?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPYWVhZFFGRlRPT1ZBSzVyTGZKd0V0TXFHZEdZSl9PNDFTTnFTWFM4ZTAtbUJZSXNIYkZTYkhtTVlrRWxpdUdaOTBCV0Q4MmlWTGJfaTJuYTl2QW1OdDdzd09KWmRqZ25ocUlLblFMU1AyWG1xV2dIUXB5cEtWWkZzVUZrWWJPYmh1M0JkOEVjMDRLaWc?oc=5\" target=\"_blank\"&gt;Harvey unveils Tenet, its first in-house legal AI model&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;디지털투데이&lt;/font&gt;",
-      "published": "2026-08-19T05:54:55.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
@@ -163,18 +151,6 @@
       "relevance_score": 8
     },
     {
-      "title": "GPT-5 Launches: Harvey, Spellbook, Legora + TR Already Have It - Artificial Lawyer",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPakxDaENfTFFVRjVLRjZQSWplRnJwcUFCQWRtNkUyaUh4T1RvT1Rkc0R3NVZxb095ODN4eGIyREhjTUJTTDFvcmN0cV81OE5Md2k0WS1IVGRJWGdaT1BFaFJDUjdRSkU1ZXZqQTFFUXBQVmFpSndTNFVsb3BEMjN1MnJueW11QmZSWWpzZWhJVndMVk1qSlY1bzhlQQ?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPakxDaENfTFFVRjVLRjZQSWplRnJwcUFCQWRtNkUyaUh4T1RvT1Rkc0R3NVZxb095ODN4eGIyREhjTUJTTDFvcmN0cV81OE5Md2k0WS1IVGRJWGdaT1BFaFJDUjdRSkU1ZXZqQTFFUXBQVmFpSndTNFVsb3BEMjN1MnJueW11QmZSWWpzZWhJVndMVk1qSlY1bzhlQQ?oc=5\" target=\"_blank\"&gt;GPT-5 Launches: Harvey, Spellbook, Legora + TR Already Have It&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
-      "published": "2025-08-07T07:00:00.000Z",
-      "source_id": "google-news-contract-ai",
-      "source_name": "Google News: contract AI",
-      "source_priority": "medium",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 8
-    },
-    {
       "title": "The Legal AI Scaffold Changes Everything – Claude Study - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQU4tdGFPSGFaaGo0NGRvdnhxMUhYQ3pSd18td3lld2ZRd2xiQkVwWUQ0Z1lhR3IwdGstdE5STUVBTzdqdkxvbnhWUTVwZ0Y5MDNqT1hHV0RDUGVldzI5R2JrdEtaZ2NfYWNDVERjN1o5QWFqeGFTTEp6VDB1S19id3VoOUZUbzQ0eDdwNzJHNzdvYzRNWUh5cFV6UnhXOE0?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNQU4tdGFPSGFaaGo0NGRvdnhxMUhYQ3pSd18td3lld2ZRd2xiQkVwWUQ0Z1lhR3IwdGstdE5STUVBTzdqdkxvbnhWUTVwZ0Y5MDNqT1hHV0RDUGVldzI5R2JrdEtaZ2NfYWNDVERjN1o5QWFqeGFTTEp6VDB1S19id3VoOUZUbzQ0eDdwNzJHNzdvYzRNWUh5cFV6UnhXOE0?oc=5\" target=\"_blank\"&gt;The Legal AI Scaffold Changes Everything – Claude Study&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
@@ -209,18 +185,6 @@
       "source_tier": "A",
       "source_category": "Immigration law",
       "relevance_score": 7
-    },
-    {
-      "title": "Legal AI has officially Entered Silly Money Territory - LawFuel.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSHJMem5zVnZxdlpieG9tWEF0WnFiWmU4Um1NMlNTelBNcVhDLVBSS1I0OFRlVjlIQkpmMWFUN3czX3BTZW8tdU9SUENGTUVFQ09Td0FKMG5PMjN2VktYNF8wZlRIekRYWUR3c19mWEtTT2J5enJOQ3d3Zl95RkxyUjVleDk?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQSHJMem5zVnZxdlpieG9tWEF0WnFiWmU4Um1NMlNTelBNcVhDLVBSS1I0OFRlVjlIQkpmMWFUN3czX3BTZW8tdU9SUENGTUVFQ09Td0FKMG5PMjN2VktYNF8wZlRIekRYWUR3c19mWEtTT2J5enJOQ3d3Zl95RkxyUjVleDk?oc=5\" target=\"_blank\"&gt;Legal AI has officially Entered Silly Money Territory&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;LawFuel.com&lt;/font&gt;",
-      "published": "2026-08-19T03:21:31.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
     },
     {
       "title": "Litera Connects Contract Drafting and Negotiation in One Trusted Legal AI Workflow - LawSites",
@@ -307,9 +271,9 @@
       "relevance_score": 6
     },
     {
-      "title": "Harvey AI will speed up 'diligence' and transform the economy in different ways: Harvey AI CEO - Fox Business",
+      "title": "Harvey AI will speed up 'diligence' and transform the economy in different ways: Harvey AI CEO - foxbusiness.com",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGZzVJbmVJeTVpQjU0TTFfNDY1eEdDdThXb2lyT25sYlpuajc5NDdTSzFzSVYwMEhxdnhMTUc4Sll5amFBb3JPN3VOaU5zYTZQS1JoRVJDcTVsSGM?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGZzVJbmVJeTVpQjU0TTFfNDY1eEdDdThXb2lyT25sYlpuajc5NDdTSzFzSVYwMEhxdnhMTUc4Sll5amFBb3JPN3VOaU5zYTZQS1JoRVJDcTVsSGM?oc=5\" target=\"_blank\"&gt;Harvey AI will speed up 'diligence' and transform the economy in different ways: Harvey AI CEO&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Fox Business&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGZzVJbmVJeTVpQjU0TTFfNDY1eEdDdThXb2lyT25sYlpuajc5NDdTSzFzSVYwMEhxdnhMTUc4Sll5amFBb3JPN3VOaU5zYTZQS1JoRVJDcTVsSGM?oc=5\" target=\"_blank\"&gt;Harvey AI will speed up 'diligence' and transform the economy in different ways: Harvey AI CEO&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;foxbusiness.com&lt;/font&gt;",
       "published": "2026-04-20T07:00:00.000Z",
       "source_id": "google-news-harvey-luminance",
       "source_name": "Google News: Harvey OR Luminance",
@@ -379,10 +343,10 @@
       "relevance_score": 6
     },
     {
-      "title": "DraftWise Leverages Cohere, Will Keep Narrow Focus - Artificial Lawyer",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPc19yRHo2cFVHQ2NiYWhEc1ByYm1jYWdnVnVEVW1VMDRpdFNfNzFHaWpJRS1Rd1V2Y0ZVQVlvS0ZudnJGa2ZLZUFqY09nS2dkY0RYbV9aLVVObVVBaHNJanhKOWxWS05KOFZjaEtKZlUtaUd4bDBPWk9iaDFHQTNfamtyeTAya3NyRnkzbGhkVDNZYjlIa0NlN1l3?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPc19yRHo2cFVHQ2NiYWhEc1ByYm1jYWdnVnVEVW1VMDRpdFNfNzFHaWpJRS1Rd1V2Y0ZVQVlvS0ZudnJGa2ZLZUFqY09nS2dkY0RYbV9aLVVObVVBaHNJanhKOWxWS05KOFZjaEtKZlUtaUd4bDBPWk9iaDFHQTNfamtyeTAya3NyRnkzbGhkVDNZYjlIa0NlN1l3?oc=5\" target=\"_blank\"&gt;DraftWise Leverages Cohere, Will Keep Narrow Focus&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
-      "published": "2024-10-09T07:00:00.000Z",
+      "title": "How Spellbook Is Implementing OpenAI o1 Into Legal Workflows - Artificial Lawyer",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZzQ2UUNXcTZ6QmlHdVppX2EyM3R3R0Q1dVNsc2dSMWRNQWx1SWpZbzdfSUppR2xKS0JfclhNWXFWam54ZVNLVnRieVFjZkYyWkRaZHZDdVQ3eUpRTFlsTjdRZnh4MDdyZDZjTm5aQTdiZXVuWFdPRHBoQXYwdmZaSzdIMkQtZWU4TERmZ0JYZzdYX2loT3JZVVFVVTZ4MEtXZ2VPc0hreTk?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZzQ2UUNXcTZ6QmlHdVppX2EyM3R3R0Q1dVNsc2dSMWRNQWx1SWpZbzdfSUppR2xKS0JfclhNWXFWam54ZVNLVnRieVFjZkYyWkRaZHZDdVQ3eUpRTFlsTjdRZnh4MDdyZDZjTm5aQTdiZXVuWFdPRHBoQXYwdmZaSzdIMkQtZWU4TERmZ0JYZzdYX2loT3JZVVFVVTZ4MEtXZ2VPc0hreTk?oc=5\" target=\"_blank\"&gt;How Spellbook Is Implementing OpenAI o1 Into Legal Workflows&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
+      "published": "2024-09-16T07:00:00.000Z",
       "source_id": "google-news-contract-ai",
       "source_name": "Google News: contract AI",
       "source_priority": "medium",
@@ -463,9 +427,9 @@
       "relevance_score": 5
     },
     {
-      "title": "Legal AI adoption: How law firms and legal departments achieve time savings and revenue growth - wolterskluwer.com",
+      "title": "Legal AI adoption: How law firms and legal departments achieve time savings and revenue growth - Wolters Kluwer",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbDBxN0hGdEY2bi1IaUt3T0xiLUZ4S1hUdXI5UFRnVnBtRllfN2hJeUVmN3pibnhwOThmTGJoZUNIQWQxUlJjTHhKbkY1QXlGZUZ4R281NXlrTVE0TDJlLVFnSEpmV3ZiWUtudDROUGczTGtvVEZTRjdrMG9NZ2ppejc1Y2pwaWNnQU96ZkJsdGg5TXpjbm04aG1naDRtZw?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNbDBxN0hGdEY2bi1IaUt3T0xiLUZ4S1hUdXI5UFRnVnBtRllfN2hJeUVmN3pibnhwOThmTGJoZUNIQWQxUlJjTHhKbkY1QXlGZUZ4R281NXlrTVE0TDJlLVFnSEpmV3ZiWUtudDROUGczTGtvVEZTRjdrMG9NZ2ppejc1Y2pwaWNnQU96ZkJsdGg5TXpjbm04aG1naDRtZw?oc=5\" target=\"_blank\"&gt;Legal AI adoption: How law firms and legal departments achieve time savings and revenue growth&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;wolterskluwer.com&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNbDBxN0hGdEY2bi1IaUt3T0xiLUZ4S1hUdXI5UFRnVnBtRllfN2hJeUVmN3pibnhwOThmTGJoZUNIQWQxUlJjTHhKbkY1QXlGZUZ4R281NXlrTVE0TDJlLVFnSEpmV3ZiWUtudDROUGczTGtvVEZTRjdrMG9NZ2ppejc1Y2pwaWNnQU96ZkJsdGg5TXpjbm04aG1naDRtZw?oc=5\" target=\"_blank\"&gt;Legal AI adoption: How law firms and legal departments achieve time savings and revenue growth&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Wolters Kluwer&lt;/font&gt;",
       "published": "2026-03-10T15:53:49.000Z",
       "source_id": "google-news-law-firm-ai",
       "source_name": "Google News: law firm AI",
@@ -479,6 +443,42 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb0N4eVpRMWtnTExmcjA1QjFLeHUxUFgwOVhzb1lGaUl0T1MzSUpreDl4ZkJYTDF0aWFsTW93LXRaMWdaTXlaNWhESWN4ZHdXZGphOTV3MHpHbk5icTZZYlBOYndpbE8xZnpHbWt1U0h2b2pPbmpMaTFMUDNaeFBqQXZTRTI4elRGMnBJ0gFeQVVfeXFMTU15WUhaQmc3SGkyb1UzRUpCR2xMdFdKYmY3dHFuMDlrSnJNamxXRHR4bzBUZEt1Vm5KZkxld2gtR1UtVmxqdVJCdnJ4VXJwQXRGUkdNQkFuNHhSbE01UQ?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb0N4eVpRMWtnTExmcjA1QjFLeHUxUFgwOVhzb1lGaUl0T1MzSUpreDl4ZkJYTDF0aWFsTW93LXRaMWdaTXlaNWhESWN4ZHdXZGphOTV3MHpHbk5icTZZYlBOYndpbE8xZnpHbWt1U0h2b2pPbmpMaTFMUDNaeFBqQXZTRTI4elRGMnBJ0gFeQVVfeXFMTU15WUhaQmc3SGkyb1UzRUpCR2xMdFdKYmY3dHFuMDlrSnJNamxXRHR4bzBUZEt1Vm5KZkxld2gtR1UtVmxqdVJCdnJ4VXJwQXRGUkdNQkFuNHhSbE01UQ?oc=5\" target=\"_blank\"&gt;Legal Tech Roundup: NYAI, Harvey, Legora&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Law36",
       "published": "2026-08-07T18:18:00.000Z",
+      "source_id": "google-news-legal-tech-funding",
+      "source_name": "Google News: legal tech funding",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 5
+    },
+    {
+      "title": "Relativity Invests in 2 Legal Tech Startups Via New Funding Arm Rel Labs - Law.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTFNwZHh6OXE4NExITjJnRTRLTkpRTE9oVmNIVndtV21PdUlIOUNsOWtjTFNBb24ycUROU2dqTG4zZlFhbV9jeHYwdFRVNmgzdGNtQ2xjUUNnZTQ3SjI5TzZGV1VaNUlNbjVVUV9XeWhLTkxYTnRuWnpiNDlPVTkxSFMtR0h0b0dwcTUzdlpmRm1qTTY2MUZGSU1EazNaUzhjUzVJZS1kX29nQWd4RjNpUEo1SE14NGlMQVE0?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTFNwZHh6OXE4NExITjJnRTRLTkpRTE9oVmNIVndtV21PdUlIOUNsOWtjTFNBb24ycUROU2dqTG4zZlFhbV9jeHYwdFRVNmgzdGNtQ2xjUUNnZTQ3SjI5TzZGV1VaNUlNbjVVUV9XeWhLTkxYTnRuWnpiNDlPVTkxSFMtR0h0b0dwcTUzdlpmRm1qTTY2MUZGSU1EazNaUzhjUzVJZS1kX29nQWd4RjNpUEo1SE14NGlMQVE0?oc=5\" target=\"_blank\"&gt;Relativity Invests in 2 Legal Tech Startups Via New Funding Arm Rel Labs&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Law.com&lt;/font&gt;",
+      "published": "2026-02-09T08:00:00.000Z",
+      "source_id": "google-news-legal-tech-funding",
+      "source_name": "Google News: legal tech funding",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 5
+    },
+    {
+      "title": "Singapore’s GIC and US venture capital firm Sequoia lead US$200 million funding round for legal tech firm Harvey AI - Asia Asset Management",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQUzVTbFVSV2JpeWx1S1JORFVTTENiMUN2YXJDcHA2bldjNTA0bWthNm81QmZlaWNEb3pBUzlVZk4zelJMUjRsa2w0ZlZxNDFmMFFxdkZOUUhWMGI5azlIdkpnUTliMUlTS01BdlhldjJfX0xBc1VSdnFvS09SRkdBZ0JwTWZnNURITXlxbFJPNV91OUN4NEUyRDVLTXJyWExvMXNiVkRoTkNVS3dvelhEYmprQUw1UEc3ZDcyZEFtTlF2M3NHcERDdnFWM0swakxNZHF2MkN1Vnc5bkxOQUlUSkVwMlEwSzlvYUZNdnd2WER3dTJKdVE?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxQUzVTbFVSV2JpeWx1S1JORFVTTENiMUN2YXJDcHA2bldjNTA0bWthNm81QmZlaWNEb3pBUzlVZk4zelJMUjRsa2w0ZlZxNDFmMFFxdkZOUUhWMGI5azlIdkpnUTliMUlTS01BdlhldjJfX0xBc1VSdnFvS09SRkdBZ0JwTWZnNURITXlxbFJPNV91OUN4NEUyRDVLTXJyWExvMXNiVkRoTkNVS3dvelhEYmprQUw1UEc3ZDcyZEFtTlF2M3NHcERDdnFWM0swakxNZHF2MkN1Vnc5bkxOQUlUSkVwMlEwSzlvYUZNdnd2WER3dTJKdVE?oc=5\" target=\"_blank\"&gt;Singapore’s GIC and US venture capital firm Sequoia lead US$200 million funding round for ",
+      "published": "2026-03-30T07:00:00.000Z",
+      "source_id": "google-news-legal-tech-funding",
+      "source_name": "Google News: legal tech funding",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 5
+    },
+    {
+      "title": "Legal Tech Wordsmith AI Raises $70 Million, Plans US Expansion - Bloomberg Law News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWjNuTklNNjlCMjlCMHNYUUVHUkI2d003eHdCdDFWRTdrWlJyZ1pYTEJhVGsxTHNMamoyaFRHMF9sa0NIa1JLQ1dCbXhEdDR0cEw4WEt6YVFLWlZZekt2Ul9rODQ4TDdmaEVIM1JlT1REUlVzc1o0STdsZXY3czYwWExXdXlCb05XcV9lQV9pb2o0T0s2Z3JZc1loNFNIQ18xYzRETm1oZTNqcXpLWHc?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPWjNuTklNNjlCMjlCMHNYUUVHUkI2d003eHdCdDFWRTdrWlJyZ1pYTEJhVGsxTHNMamoyaFRHMF9sa0NIa1JLQ1dCbXhEdDR0cEw4WEt6YVFLWlZZekt2Ul9rODQ4TDdmaEVIM1JlT1REUlVzc1o0STdsZXY3czYwWExXdXlCb05XcV9lQV9pb2o0T0s2Z3JZc1loNFNIQ18xYzRETm1oZTNqcXpLWHc?oc=5\" target=\"_blank\"&gt;Legal Tech Wordsmith AI Raises $70 Million, Plans US Expansion&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Bloomberg Law News&lt;/font&gt;",
+      "published": "2026-06-03T07:00:00.000Z",
       "source_id": "google-news-legal-tech-funding",
       "source_name": "Google News: legal tech funding",
       "source_priority": "critical",
