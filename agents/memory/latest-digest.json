@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-19T04:25:19.495Z",
+  "generated": "2026-08-19T05:19:08.626Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 754,
+  "total_scanned": 755,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -67,9 +67,9 @@
       "relevance_score": 8
     },
     {
-      "title": "Irish co-founded legal AI startup Wordsmith raises $70m - irishlegal.com",
+      "title": "Irish co-founded legal AI startup Wordsmith raises $70m - Irish Legal News",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMEZUVFoxTWF1a01MYi05c0pZSVZRT0ZGTnNrcWw3SmYtMlNJbDEyMkxCYkJTclBpTzVQOWR5bEdQVEVEbGNiemh1UHdDbmtfQVVseV9ITkpnNW1lUXJ5VlNhWXhSV2dzdjg2bG0tSHZ5M2pPbWtQSXFETkk4MFpubVVqMlBWVXNCTjRCODdXckVYTElG?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNMEZUVFoxTWF1a01MYi05c0pZSVZRT0ZGTnNrcWw3SmYtMlNJbDEyMkxCYkJTclBpTzVQOWR5bEdQVEVEbGNiemh1UHdDbmtfQVVseV9ITkpnNW1lUXJ5VlNhWXhSV2dzdjg2bG0tSHZ5M2pPbWtQSXFETkk4MFpubVVqMlBWVXNCTjRCODdXckVYTElG?oc=5\" target=\"_blank\"&gt;Irish co-founded legal AI startup Wordsmith raises $70m&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;irishlegal.com&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNMEZUVFoxTWF1a01MYi05c0pZSVZRT0ZGTnNrcWw3SmYtMlNJbDEyMkxCYkJTclBpTzVQOWR5bEdQVEVEbGNiemh1UHdDbmtfQVVseV9ITkpnNW1lUXJ5VlNhWXhSV2dzdjg2bG0tSHZ5M2pPbWtQSXFETkk4MFpubVVqMlBWVXNCTjRCODdXckVYTElG?oc=5\" target=\"_blank\"&gt;Irish co-founded legal AI startup Wordsmith raises $70m&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Irish Legal News&lt;/font&gt;",
       "published": "2026-06-05T07:00:00.000Z",
       "source_id": "google-news-legal-tech-funding",
       "source_name": "Google News: legal tech funding",
@@ -139,9 +139,21 @@
       "relevance_score": 8
     },
     {
-      "title": "Litera Connects Contract Drafting and Negotiation in One Trusted Legal AI Workflow - lawnext.com",
+      "title": "GPT-5 Launches: Harvey, Spellbook, Legora + TR Already Have It - Artificial Lawyer",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPakxDaENfTFFVRjVLRjZQSWplRnJwcUFCQWRtNkUyaUh4T1RvT1Rkc0R3NVZxb095ODN4eGIyREhjTUJTTDFvcmN0cV81OE5Md2k0WS1IVGRJWGdaT1BFaFJDUjdRSkU1ZXZqQTFFUXBQVmFpSndTNFVsb3BEMjN1MnJueW11QmZSWWpzZWhJVndMVk1qSlY1bzhlQQ?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPakxDaENfTFFVRjVLRjZQSWplRnJwcUFCQWRtNkUyaUh4T1RvT1Rkc0R3NVZxb095ODN4eGIyREhjTUJTTDFvcmN0cV81OE5Md2k0WS1IVGRJWGdaT1BFaFJDUjdRSkU1ZXZqQTFFUXBQVmFpSndTNFVsb3BEMjN1MnJueW11QmZSWWpzZWhJVndMVk1qSlY1bzhlQQ?oc=5\" target=\"_blank\"&gt;GPT-5 Launches: Harvey, Spellbook, Legora + TR Already Have It&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
+      "published": "2025-08-07T07:00:00.000Z",
+      "source_id": "google-news-contract-ai",
+      "source_name": "Google News: contract AI",
+      "source_priority": "medium",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 8
+    },
+    {
+      "title": "Litera Connects Contract Drafting and Negotiation in One Trusted Legal AI Workflow - LawSites",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZE1nMUVKc2NuMjZBdFFEUTZ5U2FoUkZXYW1Ma1R5NlFNQ0xFd0lVUDE2WmJTbVNWVUxWNjd3RFIwZV9zd2xXZHVhT2JpYkRlMTlFZHdBb29MUXB5RHlsbE9WV0RrLWJtWmtHSlkzbUc4Mlk2WEhOenVVQk11NnZfUklCLTNWbXB3T2xhNGUwdGVEckZVemJ5dEpOR2pyNWYtVnlwU3JYUWJ4V2hwRkN6RTVTSXJRY2hrM1A4?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZE1nMUVKc2NuMjZBdFFEUTZ5U2FoUkZXYW1Ma1R5NlFNQ0xFd0lVUDE2WmJTbVNWVUxWNjd3RFIwZV9zd2xXZHVhT2JpYkRlMTlFZHdBb29MUXB5RHlsbE9WV0RrLWJtWmtHSlkzbUc4Mlk2WEhOenVVQk11NnZfUklCLTNWbXB3T2xhNGUwdGVEckZVemJ5dEpOR2pyNWYtVnlwU3JYUWJ4V2hwRkN6RTVTSXJRY2hrM1A4?oc=5\" target=\"_blank\"&gt;Litera Connects Contract Drafting and Negotiation in One Trusted Legal AI Workflow&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;lawnext.com&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZE1nMUVKc2NuMjZBdFFEUTZ5U2FoUkZXYW1Ma1R5NlFNQ0xFd0lVUDE2WmJTbVNWVUxWNjd3RFIwZV9zd2xXZHVhT2JpYkRlMTlFZHdBb29MUXB5RHlsbE9WV0RrLWJtWmtHSlkzbUc4Mlk2WEhOenVVQk11NnZfUklCLTNWbXB3T2xhNGUwdGVEckZVemJ5dEpOR2pyNWYtVnlwU3JYUWJ4V2hwRkN6RTVTSXJRY2hrM1A4?oc=5\" target=\"_blank\"&gt;Litera Connects Contract Drafting and Negotiation in One Trusted Legal AI Workflow&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;LawSites&lt;/font&gt;",
       "published": "2026-08-18T17:33:24.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
@@ -331,16 +343,16 @@
       "relevance_score": 6
     },
     {
-      "title": "Legaltech giant Harvey launches next-generation AI platform - The Global Legal Post",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPekF1MUlZMUp0LUdkbkQ0QVBsUWV0TzRmMWs1bVlYRTNyRnlkbU0yRUItSmlIenhBd2dvZl8xUTNmYkdwUkFrSVpiUmo0WHJDNmVKbk5IaWZNQktFd1drbTZIWGowanNZb0U1elV6MkNWajlqZVFTVjhTUTB2NkMwcUxnTkd3YjdnNWN3NDZhNTZPRnlJbkw0NXNLRVlKbWEzLVVfczdkZTk3TWs?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPekF1MUlZMUp0LUdkbkQ0QVBsUWV0TzRmMWs1bVlYRTNyRnlkbU0yRUItSmlIenhBd2dvZl8xUTNmYkdwUkFrSVpiUmo0WHJDNmVKbk5IaWZNQktFd1drbTZIWGowanNZb0U1elV6MkNWajlqZVFTVjhTUTB2NkMwcUxnTkd3YjdnNWN3NDZhNTZPRnlJbkw0NXNLRVlKbWEzLVVfczdkZTk3TWs?oc=5\" target=\"_blank\"&gt;Legaltech giant Harvey launches next-generation AI platform&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Global Legal Post&lt;/font&gt;",
-      "published": "2026-08-18T16:28:00.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
+      "title": "DraftWise Leverages Cohere, Will Keep Narrow Focus - Artificial Lawyer",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPc19yRHo2cFVHQ2NiYWhEc1ByYm1jYWdnVnVEVW1VMDRpdFNfNzFHaWpJRS1Rd1V2Y0ZVQVlvS0ZudnJGa2ZLZUFqY09nS2dkY0RYbV9aLVVObVVBaHNJanhKOWxWS05KOFZjaEtKZlUtaUd4bDBPWk9iaDFHQTNfamtyeTAya3NyRnkzbGhkVDNZYjlIa0NlN1l3?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPc19yRHo2cFVHQ2NiYWhEc1ByYm1jYWdnVnVEVW1VMDRpdFNfNzFHaWpJRS1Rd1V2Y0ZVQVlvS0ZudnJGa2ZLZUFqY09nS2dkY0RYbV9aLVVObVVBaHNJanhKOWxWS05KOFZjaEtKZlUtaUd4bDBPWk9iaDFHQTNfamtyeTAya3NyRnkzbGhkVDNZYjlIa0NlN1l3?oc=5\" target=\"_blank\"&gt;DraftWise Leverages Cohere, Will Keep Narrow Focus&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
+      "published": "2024-10-09T07:00:00.000Z",
+      "source_id": "google-news-contract-ai",
+      "source_name": "Google News: contract AI",
+      "source_priority": "medium",
       "source_tier": "A",
       "source_category": "Aggregator",
-      "relevance_score": 5
+      "relevance_score": 6
     },
     {
       "title": "ANI v OpenAI ruling: Reading the tea leaves - Law.asia",
@@ -427,21 +439,9 @@
       "relevance_score": 5
     },
     {
-      "title": "Claude for Legal: What the industry needs to know - Legal IT Insider",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaTk1d0FIT01YOFFzWUlxSFh6cGZza21GcEx0VWY4VWNnd1FnNkx2eDE2ZFNPZmZadDRGVmZoSTBlSEJjR21fanp4MzNWTGF1QTR2SDlCdlNka25MU0kySG5oSUZQdnRnbDhPMHhyX3dlbFN0eFdFZkdEVEZ5OE5RSUJGNA?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOaTk1d0FIT01YOFFzWUlxSFh6cGZza21GcEx0VWY4VWNnd1FnNkx2eDE2ZFNPZmZadDRGVmZoSTBlSEJjR21fanp4MzNWTGF1QTR2SDlCdlNka25MU0kySG5oSUZQdnRnbDhPMHhyX3dlbFN0eFdFZkdEVEZ5OE5RSUJGNA?oc=5\" target=\"_blank\"&gt;Claude for Legal: What the industry needs to know&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Legal IT Insider&lt;/font&gt;",
-      "published": "2026-05-13T07:00:00.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 5
-    },
-    {
-      "title": "Claude is getting a watermark. That could matter for every law firm using AI - Non-Billable",
+      "title": "Claude is getting a watermark. That could matter for every law firm using AI - nonbillable.co.uk",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUXZYMkxKWEcyM1RqT2oxdHpVaXBKc3VrYk83YVVTaEVaOVN0b0Z5SUhiN1pfRVcxUGY5alNEQ1hwVXBfWDBKSHdzMFNSZjlTMXpmaVZrX3dMT29QX245SGtJZ05ZOVBIZTNPZXA4YkdPLUQ2dHVsSFFfX0tQcVBJM1NsdC1rODJXWnlUNHItUllYdw?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNUXZYMkxKWEcyM1RqT2oxdHpVaXBKc3VrYk83YVVTaEVaOVN0b0Z5SUhiN1pfRVcxUGY5alNEQ1hwVXBfWDBKSHdzMFNSZjlTMXpmaVZrX3dMT29QX245SGtJZ05ZOVBIZTNPZXA4YkdPLUQ2dHVsSFFfX0tQcVBJM1NsdC1rODJXWnlUNHItUllYdw?oc=5\" target=\"_blank\"&gt;Claude is getting a watermark. That could matter for every law firm using AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Non-Billable&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNUXZYMkxKWEcyM1RqT2oxdHpVaXBKc3VrYk83YVVTaEVaOVN0b0Z5SUhiN1pfRVcxUGY5alNEQ1hwVXBfWDBKSHdzMFNSZjlTMXpmaVZrX3dMT29QX245SGtJZ05ZOVBIZTNPZXA4YkdPLUQ2dHVsSFFfX0tQcVBJM1NsdC1rODJXWnlUNHItUllYdw?oc=5\" target=\"_blank\"&gt;Claude is getting a watermark. That could matter for every law firm using AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;nonbillable.co.uk&lt;/font&gt;",
       "published": "2026-08-14T13:00:00.000Z",
       "source_id": "google-news-law-firm-ai",
       "source_name": "Google News: law firm AI",
