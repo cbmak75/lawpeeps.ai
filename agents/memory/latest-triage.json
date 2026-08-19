@@ -1,15 +1,92 @@
 {
-  "generated": "2026-08-19T00:33:30.928Z",
+  "generated": "2026-08-19T00:55:35.138Z",
   "cycle_type": "triage",
-  "shortlist_size": 0,
-  "picks": [],
+  "tier_filter": "B",
+  "shortlist_size": 7,
   "prefilter": {
     "total": 40,
-    "accepted": 0,
+    "accepted": 13,
     "borderline": 0,
-    "rejected": 40,
-    "rejected_as_duplicate": 40,
-    "accept_rate": 0
+    "rejected": 27,
+    "rejected_as_duplicate": 27,
+    "accept_rate": 33
   },
-  "skipped_already_triaged": 0
+  "model": "gemini-flash-lite-latest",
+  "picks": [
+    {
+      "id": "above-the-law-legaltech-0",
+      "score": 7,
+      "category": "Regulatory",
+      "suggested_angle": "Examining judicial immunity limits when AI tools are integrated into judicial decision-making.",
+      "why_now": "Touches on accountability and liability when AI intersects directly with judicial acts.",
+      "verdict": "enqueue",
+      "duplicate_of": null
+    },
+    {
+      "id": "above-the-law-legaltech-1",
+      "score": 4,
+      "category": "Adoption",
+      "suggested_angle": "BigLaw revenue growth trends amidst broad tech adoption.",
+      "why_now": "General financial market update lacking a specific legal AI angle.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "legal-futures-2",
+      "score": 3,
+      "category": "Adoption",
+      "suggested_angle": "UX improvements for law firm websites.",
+      "why_now": "Standard marketing advice piece with no direct AI or regulatory hook.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "hacker-news-3",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": "AWS agent SDK utilization.",
+      "why_now": "General developer discussion without a specific legal vertical focus.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "hacker-news-4",
+      "score": 3,
+      "category": "Funding",
+      "suggested_angle": "Pricing strategies for AI infrastructure platforms.",
+      "why_now": "Generic dev discussion not specific to legal tech.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "hacker-news-5",
+      "score": 3,
+      "category": "Legal AI",
+      "suggested_angle": "Low-cost isolated AI agent infrastructure.",
+      "why_now": "General tech infrastructure showcase with no legal application highlighted.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "hacker-news-6",
+      "score": 2,
+      "category": "Legal AI",
+      "suggested_angle": "Mac OS dynamic island utility for tracking AI spend.",
+      "why_now": "Consumer/developer utility tool, irrelevant to legal practice.",
+      "verdict": "drop",
+      "duplicate_of": null
+    }
+  ],
+  "summary": {
+    "enqueue_count": 1,
+    "watch_count": 0,
+    "drop_count": 6,
+    "notes": "Picked up the judicial immunity / AI decision-making story as it touches on legal liability and courts; dropped all general tech/marketing fluff."
+  },
+  "enqueued": 1,
+  "usage": {
+    "input_tokens": 3078,
+    "output_tokens": 723,
+    "total_tokens": 3801
+  }
 }

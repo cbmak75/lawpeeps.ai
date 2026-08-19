@@ -3868,7 +3868,55 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "Judicial Immunity Still Applies Even If The Judge Let AI Decide The Case",
+      "slug": "judicial-immunity-still-applies-even-if-the-judge-let-ai-decide-the-case",
+      "score": 7,
+      "category": "Regulatory",
+      "story_type": "news",
+      "research_brief": "Asking AI to resolve your cases would still be a judicial act. The post Judicial Immunity Still Applies Even If The Judge Let AI Decide The Case appeared first on Above the Law .",
+      "primary_source": "https://abovethelaw.com/2026/08/judicial-immunity-still-applies-even-if-the-judge-let-ai-decide-the-case/",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "Examining judicial immunity limits when AI tools are integrated into judicial decision-making.",
+      "why_now": "Touches on accountability and liability when AI intersects directly with judicial acts.",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Above the Law (Legal Tech)",
+      "source_tier": "B",
+      "prefilter_score": 11,
+      "matched_terms": [
+        "Eve"
+      ],
+      "fingerprint": {
+        "entities": [
+          "eve"
+        ],
+        "numerics": [],
+        "keywords": [],
+        "title_tokens": [
+          "judicial",
+          "immunity",
+          "applies",
+          "even",
+          "judge",
+          "ai",
+          "decide",
+          "case"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-08-19T00:55:35.133Z",
+      "queued_at": "2026-08-19T00:55:35.136Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-08-18T21:12:44.300Z"
+  "last_updated": "2026-08-19T00:55:35.136Z"
 }
