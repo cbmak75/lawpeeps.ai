@@ -1,15 +1,200 @@
 {
-  "generated": "2026-08-20T06:24:28.619Z",
+  "generated": "2026-08-20T06:36:39.728Z",
   "cycle_type": "triage",
-  "shortlist_size": 0,
-  "picks": [],
+  "tier_filter": "B",
+  "shortlist_size": 19,
   "prefilter": {
     "total": 40,
-    "accepted": 0,
+    "accepted": 30,
     "borderline": 0,
-    "rejected": 40,
-    "rejected_as_duplicate": 40,
-    "accept_rate": 0
+    "rejected": 10,
+    "rejected_as_duplicate": 10,
+    "accept_rate": 75
   },
-  "skipped_already_triaged": 0
+  "model": "gemini-flash-lite-latest",
+  "picks": [
+    {
+      "id": "arxiv-cs-ai-0",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "Generic Python ML/API framework paper with no direct legal or regulatory focus.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-1",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "Hardware trojans and RTL design paper unrelated to legal AI.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-2",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "Scientific literature data extraction via LLMs; tangential to document review but low priority arXiv paper.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-3",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "General technical study on LLM self-consistency and majority voting.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-4",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "Olympiad geometry benchmark for foundation models.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-5",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "Art-historical narrative construction multi-agent system.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-6",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "Privacy-focused LLM wrapper concept, but lacks specific legal or compliance deployment angle.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-7",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "General study on LLM-as-a-judge frameworks.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-8",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "Examines self-preference bias in LLM judges; relevant to AI evaluation but too academic.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-9",
+      "score": 4,
+      "category": "Research",
+      "suggested_angle": "Trace graphs offer new audit trails for autonomous agent workflows.",
+      "why_now": "Claim-to-evidence trace graphs touch upon auditability and compliance for long-horizon agents.",
+      "verdict": "watch",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-10",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "Prompt sensitivity evaluation framework for LLMs.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-11",
+      "score": 4,
+      "category": "Research",
+      "suggested_angle": "Benchmarking human augmentation versus full automation in real-world workflows.",
+      "why_now": "Directly addresses the tension between augmenting and automating professional work tasks.",
+      "verdict": "watch",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-12",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "Spreadsheet automation benchmark for finance; outside core legal scope.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-13",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "Analogies between AI reliability in medicine vs other fields.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-14",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "Medical scoping review on brain-computer interfaces.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-15",
+      "score": 3,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "Multi-agent code review systems.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-16",
+      "score": 5,
+      "category": "Research",
+      "suggested_angle": "Public sector evaluations test open-weight models against high-risk document processing.",
+      "why_now": "Evaluates structured information extraction in high-risk public sector applications, relevant to legal/regulatory document parsing.",
+      "verdict": "watch",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-17",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "Universal multimodal retrieval embedding model.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "arxiv-cs-ai-18",
+      "score": 2,
+      "category": "Research",
+      "suggested_angle": null,
+      "why_now": "Dense-caption retrieval optimization paper.",
+      "verdict": "drop",
+      "duplicate_of": null
+    }
+  ],
+  "summary": {
+    "enqueue_count": 0,
+    "watch_count": 3,
+    "drop_count": 16,
+    "notes": "Filtered out purely academic or non-legal preprint items; flagged three papers touching agent auditability, human-AI work allocation, and public sector document extraction for potential follow-up."
+  },
+  "enqueued": 0,
+  "usage": {
+    "input_tokens": 5192,
+    "output_tokens": 1732,
+    "total_tokens": 6924
+  }
 }
