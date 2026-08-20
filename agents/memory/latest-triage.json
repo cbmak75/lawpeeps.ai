@@ -1,83 +1,15 @@
 {
-  "generated": "2026-08-20T18:31:11.395Z",
+  "generated": "2026-08-20T19:22:18.164Z",
   "cycle_type": "triage",
-  "tier_filter": "B",
-  "shortlist_size": 6,
+  "shortlist_size": 0,
+  "picks": [],
   "prefilter": {
     "total": 40,
-    "accepted": 13,
-    "borderline": 3,
-    "rejected": 24,
-    "rejected_as_duplicate": 24,
-    "accept_rate": 33
+    "accepted": 0,
+    "borderline": 0,
+    "rejected": 40,
+    "rejected_as_duplicate": 40,
+    "accept_rate": 0
   },
-  "model": "gemini-flash-lite-latest",
-  "picks": [
-    {
-      "id": "artificial-lawyer-0",
-      "score": 8,
-      "category": "Funding",
-      "suggested_angle": "Ex-Eigen team secures $20m seed to build digital twins for lawyers via Twin1.",
-      "why_now": "Major seed funding round for a prominent legal tech founding team coming out of stealth.",
-      "verdict": "enqueue",
-      "duplicate_of": null
-    },
-    {
-      "id": "above-the-law-legaltech-1",
-      "score": 3,
-      "category": "Social",
-      "suggested_angle": "Morning docket roundup of general legal industry news.",
-      "why_now": "Low-value aggregation with no unique primary legal AI focus.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "artificial-lawyer-2",
-      "score": 7,
-      "category": "Legal AI",
-      "suggested_angle": "Inside Twin1's $20m launch: CEO Lewis Liu on building digital twins for legal workflows.",
-      "why_now": "Provides essential primary interview context alongside the funding announcement.",
-      "verdict": "enqueue",
-      "duplicate_of": null
-    },
-    {
-      "id": "above-the-law-legaltech-3",
-      "score": 2,
-      "category": "Adoption",
-      "suggested_angle": "Sponsored ILTACON promotional post.",
-      "why_now": "Pure marketing puff and sponsored content with no independent news hook.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "legal-futures-4",
-      "score": 8,
-      "category": "Regulatory",
-      "suggested_angle": "SRA refers former SSB Group boss Jeremy Brooke to the Solicitors Disciplinary Tribunal.",
-      "why_now": "Major UK regulatory enforcement action following a high-profile firm collapse.",
-      "verdict": "enqueue",
-      "duplicate_of": null
-    },
-    {
-      "id": "law-society-gazette-5",
-      "score": 7,
-      "category": "Regulatory",
-      "suggested_angle": "Former SSB Law chief faces SRA misconduct charges over fabricated claim values.",
-      "why_now": "Covers the same major SRA tribunal referral with additional detail on specific allegations.",
-      "verdict": "drop",
-      "duplicate_of": "legal-futures-4"
-    }
-  ],
-  "summary": {
-    "enqueue_count": 3,
-    "watch_count": 0,
-    "drop_count": 3,
-    "notes": "Enqueued Twin1 funding/interview and the SRA tribunal referral for the former SSB boss, dropping duplicates and marketing puff."
-  },
-  "enqueued": 2,
-  "usage": {
-    "input_tokens": 2960,
-    "output_tokens": 680,
-    "total_tokens": 3640
-  }
+  "skipped_already_triaged": 0
 }
