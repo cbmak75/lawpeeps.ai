@@ -1,47 +1,15 @@
 {
-  "generated": "2026-08-20T12:36:30.135Z",
+  "generated": "2026-08-20T13:37:43.607Z",
   "cycle_type": "triage",
-  "tier_filter": "B",
-  "shortlist_size": 2,
+  "shortlist_size": 0,
+  "picks": [],
   "prefilter": {
     "total": 40,
-    "accepted": 23,
+    "accepted": 1,
     "borderline": 0,
-    "rejected": 17,
-    "rejected_as_duplicate": 17,
-    "accept_rate": 57
+    "rejected": 39,
+    "rejected_as_duplicate": 39,
+    "accept_rate": 3
   },
-  "model": "gemini-flash-lite-latest",
-  "picks": [
-    {
-      "id": "artificial-lawyer-0",
-      "score": 8,
-      "category": "Legal AI",
-      "suggested_angle": "NetDocuments sheds 'just a DMS' tag to target M&A due diligence with AI",
-      "why_now": "Major document management incumbents expanding directly into specialized transactional AI workflows signals increasing pressure on standalone legal tech tools.",
-      "verdict": "enqueue",
-      "duplicate_of": null
-    },
-    {
-      "id": "arxiv-cs-ai-1",
-      "score": 2,
-      "category": "Research",
-      "suggested_angle": "General LLM reasoning improvements",
-      "why_now": "Too generic and academic without a direct legal domain application.",
-      "verdict": "drop",
-      "duplicate_of": null
-    }
-  ],
-  "summary": {
-    "enqueue_count": 1,
-    "watch_count": 0,
-    "drop_count": 1,
-    "notes": "Picked the NetDocuments product expansion story; dropped the generic arXiv computer science preprint."
-  },
-  "enqueued": 1,
-  "usage": {
-    "input_tokens": 2318,
-    "output_tokens": 274,
-    "total_tokens": 2592
-  }
+  "skipped_already_triaged": 1
 }
