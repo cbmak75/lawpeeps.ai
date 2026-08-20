@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-20T21:17:09.383Z",
+  "generated": "2026-08-20T22:15:08.045Z",
   "cycle_type": "monitoring",
   "item_count": 40,
   "total_scanned": 755,
@@ -199,30 +199,6 @@
       "relevance_score": 8
     },
     {
-      "title": "Harvey enters into partnership with AI legal drafting platform Avvoka - The Global Legal Post",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcXNPNzZCYmUwVm5GMzVpSzZrVG9XRUVxcHA0cXo1TC1LcWJOVmREbVZYaWt5dlpNTHVnNWR3MDQ5c1dIb2wzaHQzYU1HZWgzT00zNmJDYWNwbWsyS3lhVUpweDQwMzNLM0h4QXJzYlFiVGhyS0hqbWQxTXFDa3g5RFhfMEZqR1dKTzl3R05fXzBUTUYxck5NUnc3bDhMX1J2VHhOYXMtdkVtOWxLcTBLU3owS3pfcW1X?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcXNPNzZCYmUwVm5GMzVpSzZrVG9XRUVxcHA0cXo1TC1LcWJOVmREbVZYaWt5dlpNTHVnNWR3MDQ5c1dIb2wzaHQzYU1HZWgzT00zNmJDYWNwbWsyS3lhVUpweDQwMzNLM0h4QXJzYlFiVGhyS0hqbWQxTXFDa3g5RFhfMEZqR1dKTzl3R05fXzBUTUYxck5NUnc3bDhMX1J2VHhOYXMtdkVtOWxLcTBLU3owS3pfcW1X?oc=5\" target=\"_blank\"&gt;Harvey enters into partnership with AI legal drafting platform Avvoka&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Global Legal Post&lt;/font&gt;",
-      "published": "2026-08-20T15:46:00.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 7
-    },
-    {
-      "title": "iManage and Thomson Reuters announce strategic partnership to deliver governed AI-powered legal workflows - Legal Futures",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTFJuMTJmdTM1RjF0cjY4OUZKbUtBekVhb2lRckxka29QWVQ5SmV0MmRGYXlDLXZBZTdKdXF2OHQ3YjdwdkplQzE1cHZ3MmFkQWNSeUUxdm5vRXVGZTBsRHJsb28yZnJ4R0J3RDNsaktTZkhhMzhieS1yUC0wb0xMNHlJMFdCdGRVM0VMNWNRM1dWQjNGbjcxOXdTcXVhcFk0dU14S0tLbEk5WHJZQnZqVE1pZ3ZCMi1ITGpIUEYyaC1KY040U05yYVpqVElJYnJhZV9aMDlZazFKelpFSmxYZW9XajFQdw?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTFJuMTJmdTM1RjF0cjY4OUZKbUtBekVhb2lRckxka29QWVQ5SmV0MmRGYXlDLXZBZTdKdXF2OHQ3YjdwdkplQzE1cHZ3MmFkQWNSeUUxdm5vRXVGZTBsRHJsb28yZnJ4R0J3RDNsaktTZkhhMzhieS1yUC0wb0xMNHlJMFdCdGRVM0VMNWNRM1dWQjNGbjcxOXdTcXVhcFk0dU14S0tLbEk5WHJZQnZqVE1pZ3ZCMi1ITGpIUEYyaC1KY040U05yYVpqVElJYnJhZV9aMDlZazFKelpFSmxYZW9XajFQdw?oc=5\" target=\"_blank\"&gt;iManage and Thomson Reuters announce strategic partnership to deliver governed AI-powered legal workflows&lt;/a",
-      "published": "2026-08-20T16:14:37.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 7
-    },
-    {
       "title": "The Legal AI Scaffold Changes Everything – Claude Study - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQU4tdGFPSGFaaGo0NGRvdnhxMUhYQ3pSd18td3lld2ZRd2xiQkVwWUQ0Z1lhR3IwdGstdE5STUVBTzdqdkxvbnhWUTVwZ0Y5MDNqT1hHV0RDUGVldzI5R2JrdEtaZ2NfYWNDVERjN1o5QWFqeGFTTEp6VDB1S19id3VoOUZUbzQ0eDdwNzJHNzdvYzRNWUh5cFV6UnhXOE0?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNQU4tdGFPSGFaaGo0NGRvdnhxMUhYQ3pSd18td3lld2ZRd2xiQkVwWUQ0Z1lhR3IwdGstdE5STUVBTzdqdkxvbnhWUTVwZ0Y5MDNqT1hHV0RDUGVldzI5R2JrdEtaZ2NfYWNDVERjN1o5QWFqeGFTTEp6VDB1S19id3VoOUZUbzQ0eDdwNzJHNzdvYzRNWUh5cFV6UnhXOE0?oc=5\" target=\"_blank\"&gt;The Legal AI Scaffold Changes Everything – Claude Study&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
@@ -247,9 +223,9 @@
       "relevance_score": 7
     },
     {
-      "title": "Harvey Legal AI Announce Firmwide Use of Software By Davis Wright Tremaine - LawFuel",
+      "title": "Harvey Legal AI Announce Firmwide Use of Software By Davis Wright Tremaine - LawFuel.com",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbEd4QWFna2dvcG5GRGZyMXI4NlE0Vk9ZbjctcGRZT0pxS1Uza1d1X214eEVQVDdWSnhEQ0RNLW5WelRhZC1LT3YySVNDZEMzekdKa1Ayb29tVmRENjZIWFlYWlVvek9XM3BCSHFzQ0ljYzFfc3UyeF9PVm1iRVpXNEpLV3ItUUhPcTdwMkl2SWJDOUlHLWd2cnFpa2NjVGV3?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPbEd4QWFna2dvcG5GRGZyMXI4NlE0Vk9ZbjctcGRZT0pxS1Uza1d1X214eEVQVDdWSnhEQ0RNLW5WelRhZC1LT3YySVNDZEMzekdKa1Ayb29tVmRENjZIWFlYWlVvek9XM3BCSHFzQ0ljYzFfc3UyeF9PVm1iRVpXNEpLV3ItUUhPcTdwMkl2SWJDOUlHLWd2cnFpa2NjVGV3?oc=5\" target=\"_blank\"&gt;Harvey Legal AI Announce Firmwide Use of Software By Davis Wright Tremaine&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;LawFuel&lt;/font&gt;",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPbEd4QWFna2dvcG5GRGZyMXI4NlE0Vk9ZbjctcGRZT0pxS1Uza1d1X214eEVQVDdWSnhEQ0RNLW5WelRhZC1LT3YySVNDZEMzekdKa1Ayb29tVmRENjZIWFlYWlVvek9XM3BCSHFzQ0ljYzFfc3UyeF9PVm1iRVpXNEpLV3ItUUhPcTdwMkl2SWJDOUlHLWd2cnFpa2NjVGV3?oc=5\" target=\"_blank\"&gt;Harvey Legal AI Announce Firmwide Use of Software By Davis Wright Tremaine&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;LawFuel.com&lt;/font&gt;",
       "published": "2026-08-20T00:37:29.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
@@ -403,6 +379,30 @@
       "relevance_score": 5
     },
     {
+      "title": "Harvey enters into partnership with AI legal drafting platform Avvoka - The Global Legal Post",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcXNPNzZCYmUwVm5GMzVpSzZrVG9XRUVxcHA0cXo1TC1LcWJOVmREbVZYaWt5dlpNTHVnNWR3MDQ5c1dIb2wzaHQzYU1HZWgzT00zNmJDYWNwbWsyS3lhVUpweDQwMzNLM0h4QXJzYlFiVGhyS0hqbWQxTXFDa3g5RFhfMEZqR1dKTzl3R05fXzBUTUYxck5NUnc3bDhMX1J2VHhOYXMtdkVtOWxLcTBLU3owS3pfcW1X?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcXNPNzZCYmUwVm5GMzVpSzZrVG9XRUVxcHA0cXo1TC1LcWJOVmREbVZYaWt5dlpNTHVnNWR3MDQ5c1dIb2wzaHQzYU1HZWgzT00zNmJDYWNwbWsyS3lhVUpweDQwMzNLM0h4QXJzYlFiVGhyS0hqbWQxTXFDa3g5RFhfMEZqR1dKTzl3R05fXzBUTUYxck5NUnc3bDhMX1J2VHhOYXMtdkVtOWxLcTBLU3owS3pfcW1X?oc=5\" target=\"_blank\"&gt;Harvey enters into partnership with AI legal drafting platform Avvoka&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Global Legal Post&lt;/font&gt;",
+      "published": "2026-08-20T15:46:00.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 5
+    },
+    {
+      "title": "iManage and Thomson Reuters announce strategic partnership to deliver governed AI-powered legal workflows - Legal Futures",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTFJuMTJmdTM1RjF0cjY4OUZKbUtBekVhb2lRckxka29QWVQ5SmV0MmRGYXlDLXZBZTdKdXF2OHQ3YjdwdkplQzE1cHZ3MmFkQWNSeUUxdm5vRXVGZTBsRHJsb28yZnJ4R0J3RDNsaktTZkhhMzhieS1yUC0wb0xMNHlJMFdCdGRVM0VMNWNRM1dWQjNGbjcxOXdTcXVhcFk0dU14S0tLbEk5WHJZQnZqVE1pZ3ZCMi1ITGpIUEYyaC1KY040U05yYVpqVElJYnJhZV9aMDlZazFKelpFSmxYZW9XajFQdw?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTFJuMTJmdTM1RjF0cjY4OUZKbUtBekVhb2lRckxka29QWVQ5SmV0MmRGYXlDLXZBZTdKdXF2OHQ3YjdwdkplQzE1cHZ3MmFkQWNSeUUxdm5vRXVGZTBsRHJsb28yZnJ4R0J3RDNsaktTZkhhMzhieS1yUC0wb0xMNHlJMFdCdGRVM0VMNWNRM1dWQjNGbjcxOXdTcXVhcFk0dU14S0tLbEk5WHJZQnZqVE1pZ3ZCMi1ITGpIUEYyaC1KY040U05yYVpqVElJYnJhZV9aMDlZazFKelpFSmxYZW9XajFQdw?oc=5\" target=\"_blank\"&gt;iManage and Thomson Reuters announce strategic partnership to deliver governed AI-powered legal workflows&lt;/a",
+      "published": "2026-08-20T16:14:37.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 5
+    },
+    {
       "title": "Harvey launches new generation of legal AI - Iberian Lawyer",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOU3BjVnp2eGRqSXo2VEFnMkFJd29FdXlTd1o3VWZyMXhrODNpekRTWXNnZTJIeUtGQnBtYm9nT2NiSE5zb0Y0cTBLbGlLLUdRWTBiWXVMUjFLQ3NXNHA3cjNQZ2tiS2dVTlNyTVRROVZYVkJ2MHJ4bjlOdVljM0ttZW1NMA?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOU3BjVnp2eGRqSXo2VEFnMkFJd29FdXlTd1o3VWZyMXhrODNpekRTWXNnZTJIeUtGQnBtYm9nT2NiSE5zb0Y0cTBLbGlLLUdRWTBiWXVMUjFLQ3NXNHA3cjNQZ2tiS2dVTlNyTVRROVZYVkJ2MHJ4bjlOdVljM0ttZW1NMA?oc=5\" target=\"_blank\"&gt;Harvey launches new generation of legal AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Iberian Lawyer&lt;/font&gt;",
@@ -427,10 +427,10 @@
       "relevance_score": 5
     },
     {
-      "title": "Thomson Reuters Launches Next Generation of CoCounsel Legal, the AI Ecosystem Built for Legal Professionals - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWnE4NGtzNVhkeHBlcXNBZnk0dVE2c3RXSFVEbnpQbFBSRnRqZ3R2LTJKcHdEanU4N05OWGVmYU1raTJtcFhqYXlUc2tiYXhONWV0LW5oaVNmZTFfMDJJSUVnX2hVek9yVmdjbURsUUZ1SXJpbGlSbGlyYi1nOHhnMzJTYURyV3lud1c3VUVkaVRiRktGYzV1bmZ6RVd3TGZaSzV2UU55SW9QZW9hbUFzcTJpR08td2NzRnNoaUJuN3RMUjNqclNXNU9LWk9sUngwZldZNXlUMnF3Nmp2WVItMG40eFh6MFJELTJZbE8yc0JmdG5P?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWnE4NGtzNVhkeHBlcXNBZnk0dVE2c3RXSFVEbnpQbFBSRnRqZ3R2LTJKcHdEanU4N05OWGVmYU1raTJtcFhqYXlUc2tiYXhONWV0LW5oaVNmZTFfMDJJSUVnX2hVek9yVmdjbURsUUZ1SXJpbGlSbGlyYi1nOHhnMzJTYURyV3lud1c3VUVkaVRiRktGYzV1bmZ6RVd3TGZaSzV2UU55SW9QZW9hbUFzcTJpR08td2NzRnNoaUJuN3RMUjNqclNXNU9LWk9sUngwZldZNXlUMnF3Nmp2WVItMG40eFh6MFJELTJZbE8yc0JmdG5P?oc=5\" target=\"_blank\"&gt;Thomson Reuters Launches Next Generation of CoCounsel Legal, the AI Ecosystem Built for Legal",
-      "published": "2026-08-20T13:00:00.000Z",
+      "title": "Fulham FC Partners with :Harvey: as Official Legal AI Partner - Harvey",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcjRRNnVlNjhSeWFIa251RXY0ZFZ3NWVOOUV5WEhHa1hMM19zVGs0c3pmN3lLWS0yVGRZNDRuMWR3X1FqUi1WYldHTjd6clh0R0RNc05RRkhuWmVoQWtVY1hFcFJyamxoYXZ6NlljYzlERlNMZ1JiMXg4ZUZIZFV4TFVRUFdRRlRaQnlVV0FBRFZzYlZNWlVF?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNcjRRNnVlNjhSeWFIa251RXY0ZFZ3NWVOOUV5WEhHa1hMM19zVGs0c3pmN3lLWS0yVGRZNDRuMWR3X1FqUi1WYldHTjd6clh0R0RNc05RRkhuWmVoQWtVY1hFcFJyamxoYXZ6NlljYzlERlNMZ1JiMXg4ZUZIZFV4TFVRUFdRRlRaQnlVV0FBRFZzYlZNWlVF?oc=5\" target=\"_blank\"&gt;Fulham FC Partners with :Harvey: as Official Legal AI Partner&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
+      "published": "2026-08-18T20:32:47.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
@@ -439,10 +439,10 @@
       "relevance_score": 5
     },
     {
-      "title": "Fulham FC Partners with :Harvey: as Official Legal AI Partner - Harvey",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcjRRNnVlNjhSeWFIa251RXY0ZFZ3NWVOOUV5WEhHa1hMM19zVGs0c3pmN3lLWS0yVGRZNDRuMWR3X1FqUi1WYldHTjd6clh0R0RNc05RRkhuWmVoQWtVY1hFcFJyamxoYXZ6NlljYzlERlNMZ1JiMXg4ZUZIZFV4TFVRUFdRRlRaQnlVV0FBRFZzYlZNWlVF?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNcjRRNnVlNjhSeWFIa251RXY0ZFZ3NWVOOUV5WEhHa1hMM19zVGs0c3pmN3lLWS0yVGRZNDRuMWR3X1FqUi1WYldHTjd6clh0R0RNc05RRkhuWmVoQWtVY1hFcFJyamxoYXZ6NlljYzlERlNMZ1JiMXg4ZUZIZFV4TFVRUFdRRlRaQnlVV0FBRFZzYlZNWlVF?oc=5\" target=\"_blank\"&gt;Fulham FC Partners with :Harvey: as Official Legal AI Partner&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
-      "published": "2026-08-18T20:32:47.000Z",
+      "title": "Thomson Reuters Launches Next Generation of CoCounsel Legal, the AI Ecosystem Built for Legal Professionals - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWnE4NGtzNVhkeHBlcXNBZnk0dVE2c3RXSFVEbnpQbFBSRnRqZ3R2LTJKcHdEanU4N05OWGVmYU1raTJtcFhqYXlUc2tiYXhONWV0LW5oaVNmZTFfMDJJSUVnX2hVek9yVmdjbURsUUZ1SXJpbGlSbGlyYi1nOHhnMzJTYURyV3lud1c3VUVkaVRiRktGYzV1bmZ6RVd3TGZaSzV2UU55SW9QZW9hbUFzcTJpR08td2NzRnNoaUJuN3RMUjNqclNXNU9LWk9sUngwZldZNXlUMnF3Nmp2WVItMG40eFh6MFJELTJZbE8yc0JmdG5P?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWnE4NGtzNVhkeHBlcXNBZnk0dVE2c3RXSFVEbnpQbFBSRnRqZ3R2LTJKcHdEanU4N05OWGVmYU1raTJtcFhqYXlUc2tiYXhONWV0LW5oaVNmZTFfMDJJSUVnX2hVek9yVmdjbURsUUZ1SXJpbGlSbGlyYi1nOHhnMzJTYURyV3lud1c3VUVkaVRiRktGYzV1bmZ6RVd3TGZaSzV2UU55SW9QZW9hbUFzcTJpR08td2NzRnNoaUJuN3RMUjNqclNXNU9LWk9sUngwZldZNXlUMnF3Nmp2WVItMG40eFh6MFJELTJZbE8yc0JmdG5P?oc=5\" target=\"_blank\"&gt;Thomson Reuters Launches Next Generation of CoCounsel Legal, the AI Ecosystem Built for Legal",
+      "published": "2026-08-20T13:00:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
