@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-20T16:20:36.330Z",
+  "generated": "2026-08-20T17:18:26.061Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 752,
+  "total_scanned": 753,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -185,6 +185,18 @@
       "source_tier": "A",
       "source_category": "Aggregator",
       "relevance_score": 8
+    },
+    {
+      "title": "Harvey enters into partnership with AI legal drafting platform Avvoka - The Global Legal Post",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcXNPNzZCYmUwVm5GMzVpSzZrVG9XRUVxcHA0cXo1TC1LcWJOVmREbVZYaWt5dlpNTHVnNWR3MDQ5c1dIb2wzaHQzYU1HZWgzT00zNmJDYWNwbWsyS3lhVUpweDQwMzNLM0h4QXJzYlFiVGhyS0hqbWQxTXFDa3g5RFhfMEZqR1dKTzl3R05fXzBUTUYxck5NUnc3bDhMX1J2VHhOYXMtdkVtOWxLcTBLU3owS3pfcW1X?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcXNPNzZCYmUwVm5GMzVpSzZrVG9XRUVxcHA0cXo1TC1LcWJOVmREbVZYaWt5dlpNTHVnNWR3MDQ5c1dIb2wzaHQzYU1HZWgzT00zNmJDYWNwbWsyS3lhVUpweDQwMzNLM0h4QXJzYlFiVGhyS0hqbWQxTXFDa3g5RFhfMEZqR1dKTzl3R05fXzBUTUYxck5NUnc3bDhMX1J2VHhOYXMtdkVtOWxLcTBLU3owS3pfcW1X?oc=5\" target=\"_blank\"&gt;Harvey enters into partnership with AI legal drafting platform Avvoka&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Global Legal Post&lt;/font&gt;",
+      "published": "2026-08-20T15:46:00.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 7
     },
     {
       "title": "iManage and Thomson Reuters announce strategic partnership to deliver governed AI-powered legal workflows - Legal Futures",
@@ -467,18 +479,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0MDNmd3hrc3ZLVUV5VWJPWFVWZWNWZl9JUGZpLTJwZFpIc04yaWFIRnQweEYzanBSQW5weDJQT0YyS0k1UGZua0NLTTk1Y19TWlhBeGdFQnQ0MjhubWhiZg?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0MDNmd3hrc3ZLVUV5VWJPWFVWZWNWZl9JUGZpLTJwZFpIc04yaWFIRnQweEYzanBSQW5weDJQT0YyS0k1UGZua0NLTTk1Y19TWlhBeGdFQnQ0MjhubWhiZg?oc=5\" target=\"_blank\"&gt;Why Attorney Oversight Builds Trust for Legal AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
       "published": "2026-08-16T02:51:32.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 5
-    },
-    {
-      "title": ":Harvey: Named Official Legal AI Partner of the New York Liberty - Harvey",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSFFhOTdvTGRDb3pkZGdnTUJwS0VFSGczX0lnNkFWM0RGaksydTBXdWFITHFBU1ZYTzRyWDFlMy1jNEwwTGZLNUNFTG9VRXZqYXE5ZHo2MHZ0ZjN1ekRzWXlRX2RzTzE4bVpLR1dLV3AzR0lTbXNpcllpS3Fyc2ljUTNQenI1MEVsSUF1cTVXR3JQdHdYLThQNXlZbw?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPSFFhOTdvTGRDb3pkZGdnTUJwS0VFSGczX0lnNkFWM0RGaksydTBXdWFITHFBU1ZYTzRyWDFlMy1jNEwwTGZLNUNFTG9VRXZqYXE5ZHo2MHZ0ZjN1ekRzWXlRX2RzTzE4bVpLR1dLV3AzR0lTbXNpcllpS3Fyc2ljUTNQenI1MEVsSUF1cTVXR3JQdHdYLThQNXlZbw?oc=5\" target=\"_blank\"&gt;:Harvey: Named Official Legal AI Partner of the New York Liberty&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
-      "published": "2026-08-18T20:06:52.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
