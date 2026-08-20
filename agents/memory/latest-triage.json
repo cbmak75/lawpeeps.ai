@@ -1,38 +1,15 @@
 {
-  "generated": "2026-08-20T00:55:11.744Z",
+  "generated": "2026-08-20T02:09:47.435Z",
   "cycle_type": "triage",
-  "tier_filter": "B",
-  "shortlist_size": 1,
+  "shortlist_size": 0,
+  "picks": [],
   "prefilter": {
     "total": 40,
-    "accepted": 15,
+    "accepted": 0,
     "borderline": 0,
-    "rejected": 25,
-    "rejected_as_duplicate": 25,
-    "accept_rate": 38
+    "rejected": 40,
+    "rejected_as_duplicate": 40,
+    "accept_rate": 0
   },
-  "model": "gemini-flash-lite-latest",
-  "picks": [
-    {
-      "id": "legal-futures-0",
-      "score": 6,
-      "category": "Regulatory",
-      "suggested_angle": "Advisers push back against SRA's early merger disclosure proposals",
-      "why_now": "Provides fresh industry pushback on SRA regulatory burden regarding M&A activity.",
-      "verdict": "enqueue",
-      "duplicate_of": null
-    }
-  ],
-  "summary": {
-    "enqueue_count": 1,
-    "watch_count": 0,
-    "drop_count": 0,
-    "notes": "Processed single SRA regulatory commentary piece."
-  },
-  "enqueued": 1,
-  "usage": {
-    "input_tokens": 2159,
-    "output_tokens": 169,
-    "total_tokens": 2328
-  }
+  "skipped_already_triaged": 0
 }
