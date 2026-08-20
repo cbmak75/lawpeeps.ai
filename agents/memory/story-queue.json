@@ -3964,7 +3964,52 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "NetDocuments Goes After M&#038;A Due Diligence",
+      "slug": "netdocuments-goes-after-m-038-a-due-diligence",
+      "score": 8,
+      "category": "Legal AI",
+      "story_type": "news",
+      "research_brief": "NetDocuments is now making it clear to the market that it absolutely isn’t ‘just a DMS’ any longer. Its latest foray into the wider world ...",
+      "primary_source": "https://www.artificiallawyer.com/2026/08/20/netdocuments-goes-after-ma-due-diligence/",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "NetDocuments sheds 'just a DMS' tag to target M&A due diligence with AI",
+      "why_now": "Major document management incumbents expanding directly into specialized transactional AI workflows signals increasing pressure on standalone legal tech tools.",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Artificial Lawyer",
+      "source_tier": "B",
+      "prefilter_score": 18,
+      "matched_terms": [
+        "Diligen",
+        "NetDocuments"
+      ],
+      "fingerprint": {
+        "entities": [
+          "diligen",
+          "netdocuments"
+        ],
+        "numerics": [],
+        "keywords": [],
+        "title_tokens": [
+          "netdocuments",
+          "goes",
+          "diligence"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-08-20T12:36:30.130Z",
+      "queued_at": "2026-08-20T12:36:30.134Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-08-20T00:55:11.742Z"
+  "last_updated": "2026-08-20T12:36:30.134Z"
 }
