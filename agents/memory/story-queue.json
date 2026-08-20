@@ -3916,7 +3916,55 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "Heads of terms stage “too early” to tell SRA about mergers",
+      "slug": "heads-of-terms-stage-too-early-to-tell-sra-about-mergers",
+      "score": 6,
+      "category": "Regulatory",
+      "story_type": "news",
+      "research_brief": "Law firms should not have to tell the Solicitors Regulation Authority (SRA) about upcoming M&#038;A activity as early as the heads of terms stage, advisers have argued. The post Heads of terms stage “too early” to tell SRA about mergers appeared first on Legal Futures .",
+      "primary_source": "https://www.legalfutures.co.uk/latest-news/heads-of-terms-stage-too-early-to-tell-sra-about-mergers",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "Advisers push back against SRA's early merger disclosure proposals",
+      "why_now": "Provides fresh industry pushback on SRA regulatory burden regarding M&A activity.",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Legal Futures",
+      "source_tier": "B",
+      "prefilter_score": 9,
+      "matched_terms": [
+        "SRA"
+      ],
+      "fingerprint": {
+        "entities": [
+          "solicitors regulation authority"
+        ],
+        "numerics": [],
+        "keywords": [
+          "sra"
+        ],
+        "title_tokens": [
+          "heads",
+          "terms",
+          "stage",
+          "early",
+          "tell",
+          "mergers"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-08-20T00:55:11.739Z",
+      "queued_at": "2026-08-20T00:55:11.742Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-08-19T00:55:35.136Z"
+  "last_updated": "2026-08-20T00:55:11.742Z"
 }
