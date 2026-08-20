@@ -1,16 +1,16 @@
 {
-  "generated": "2026-08-20T17:18:26.061Z",
+  "generated": "2026-08-20T18:20:48.831Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 753,
+  "total_scanned": 754,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
     {
-      "title": "NetDocuments Goes After M&amp;A Due Diligence - Artificial Lawyer",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZjVoZlF5NWtQZ1NaM21NWV9TOS1HdERrZTNnSXk0ckFLNTZOVlYwS0d1WkdGU2Z5UlBMWWgwLVhvT3hSMWR3UzRTV3lFbzdBdVdvcm0wRzlkWXhITUlnVUw1MmtXa1I1alczUUFjeVVSd3QwWVhrSUFiVXBTTW5wdHUwNUZON3EweHZSOG9R?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPZjVoZlF5NWtQZ1NaM21NWV9TOS1HdERrZTNnSXk0ckFLNTZOVlYwS0d1WkdGU2Z5UlBMWWgwLVhvT3hSMWR3UzRTV3lFbzdBdVdvcm0wRzlkWXhITUlnVUw1MmtXa1I1alczUUFjeVVSd3QwWVhrSUFiVXBTTW5wdHUwNUZON3EweHZSOG9R?oc=5\" target=\"_blank\"&gt;NetDocuments Goes After M&amp;A Due Diligence&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
-      "published": "2026-08-20T12:26:19.000Z",
+      "title": "Thomson Reuters Launches Next Generation of CoCounsel Legal, the AI Ecosystem Built for Legal Professionals - Thomson Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOMHQzX1h5Nk9KbTNIeEYySlUyRWhzVHJQNmhPVnNLVEdidTEtVHJPQ2dsbUI3bmlmc3NNZWllR09YWFYyREtZUkJ6R3pSRkNvWWU0dmt4YmdkSkttNmNSbU1xUkNpdHlNZjJGQzQwbXBYeTZrVy1rMExGQXY1V1REd0VLaE1Pc080UVVQZlQwMG9KVC1WaXZUOW4tUi1RTGRUNkZyMkpDVTNra0dabm5tRTY5ZjFBalVVNndZdFozcDQxd3dBWjdwMHJiRnc1cGFLVE5wbl9aTGJaRlAwNEVEdFhXSE5pVW5ucVRGTGZOcW1TVGdyYTdjYmJCcw?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxOMHQzX1h5Nk9KbTNIeEYySlUyRWhzVHJQNmhPVnNLVEdidTEtVHJPQ2dsbUI3bmlmc3NNZWllR09YWFYyREtZUkJ6R3pSRkNvWWU0dmt4YmdkSkttNmNSbU1xUkNpdHlNZjJGQzQwbXBYeTZrVy1rMExGQXY1V1REd0VLaE1Pc080UVVQZlQwMG9KVC1WaXZUOW4tUi1RTGRUNkZyMkpDVTNra0dabm5tRTY5ZjFBalVVNndZdFozcDQxd3dBWjdwMHJiRnc1cGFLVE5wbl9aTGJaRlAwNEVEdFhXSE5pVW5ucVRGTGZOcW1TVGdyYTdjYmJCcw?oc=5\" target=\"_blank\"&gt;Thomson Reuters Launches Next Generation of CoCounsel Legal, the AI Ecosystem Built",
+      "published": "2026-08-20T14:37:34.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
@@ -19,10 +19,10 @@
       "relevance_score": 10
     },
     {
-      "title": "Hotshot Collaborates with Litera on Legal Training as Firms Rethink Talent Development in the Age of AI - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOWDhuUmNqQzVsZC1QZUxUc2JnTjBpbmVCaFQzVjJDYlJQaDQyYUU5elBNTVlnc1ZZeEFWaTJ4TFA0UDFHaUNPZm1CdjVuaXVqN3NSWFk2U1k3eEdreklqdzVSeVAzLWF2SFhISEdGcFJOUERUSGdfTDAtWFgtRDUxZTltTDhPVjJPZTg4emZIUnZ5M1hJQkdlQVFFTDYxLVp3bm1QYnhidVZXN2g1a3dBYS1iQ2J4ZmdQRHVCSkhJdThYMzJNVHZoZ1puX0tGbGM3anVLWEZsMmEweEJ5djlPQVZ6djBKMFV0MkJuMElUajVmdw?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxOWDhuUmNqQzVsZC1QZUxUc2JnTjBpbmVCaFQzVjJDYlJQaDQyYUU5elBNTVlnc1ZZeEFWaTJ4TFA0UDFHaUNPZm1CdjVuaXVqN3NSWFk2U1k3eEdreklqdzVSeVAzLWF2SFhISEdGcFJOUERUSGdfTDAtWFgtRDUxZTltTDhPVjJPZTg4emZIUnZ5M1hJQkdlQVFFTDYxLVp3bm1QYnhidVZXN2g1a3dBYS1iQ2J4ZmdQRHVCSkhJdThYMzJNVHZoZ1puX0tGbGM3anVLWEZsMmEweEJ5djlPQVZ6djBKMFV0MkJuMElUajVmdw?oc=5\" target=\"_blank\"&gt;Hotshot Collaborates with Litera on Legal Training as Firms Rethink Talent Development in the A",
-      "published": "2026-08-20T12:00:00.000Z",
+      "title": "NetDocuments Goes After M&amp;A Due Diligence - Artificial Lawyer",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZjVoZlF5NWtQZ1NaM21NWV9TOS1HdERrZTNnSXk0ckFLNTZOVlYwS0d1WkdGU2Z5UlBMWWgwLVhvT3hSMWR3UzRTV3lFbzdBdVdvcm0wRzlkWXhITUlnVUw1MmtXa1I1alczUUFjeVVSd3QwWVhrSUFiVXBTTW5wdHUwNUZON3EweHZSOG9R?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPZjVoZlF5NWtQZ1NaM21NWV9TOS1HdERrZTNnSXk0ckFLNTZOVlYwS0d1WkdGU2Z5UlBMWWgwLVhvT3hSMWR3UzRTV3lFbzdBdVdvcm0wRzlkWXhITUlnVUw1MmtXa1I1alczUUFjeVVSd3QwWVhrSUFiVXBTTW5wdHUwNUZON3EweHZSOG9R?oc=5\" target=\"_blank\"&gt;NetDocuments Goes After M&amp;A Due Diligence&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
+      "published": "2026-08-20T12:26:19.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
@@ -65,6 +65,18 @@
       "source_tier": "A",
       "source_category": "Aggregator",
       "relevance_score": 9
+    },
+    {
+      "title": "Hotshot Collaborates with Litera on Legal Training as Firms Rethink Talent Development in the Age of AI - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOWDhuUmNqQzVsZC1QZUxUc2JnTjBpbmVCaFQzVjJDYlJQaDQyYUU5elBNTVlnc1ZZeEFWaTJ4TFA0UDFHaUNPZm1CdjVuaXVqN3NSWFk2U1k3eEdreklqdzVSeVAzLWF2SFhISEdGcFJOUERUSGdfTDAtWFgtRDUxZTltTDhPVjJPZTg4emZIUnZ5M1hJQkdlQVFFTDYxLVp3bm1QYnhidVZXN2g1a3dBYS1iQ2J4ZmdQRHVCSkhJdThYMzJNVHZoZ1puX0tGbGM3anVLWEZsMmEweEJ5djlPQVZ6djBKMFV0MkJuMElUajVmdw?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxOWDhuUmNqQzVsZC1QZUxUc2JnTjBpbmVCaFQzVjJDYlJQaDQyYUU5elBNTVlnc1ZZeEFWaTJ4TFA0UDFHaUNPZm1CdjVuaXVqN3NSWFk2U1k3eEdreklqdzVSeVAzLWF2SFhISEdGcFJOUERUSGdfTDAtWFgtRDUxZTltTDhPVjJPZTg4emZIUnZ5M1hJQkdlQVFFTDYxLVp3bm1QYnhidVZXN2g1a3dBYS1iQ2J4ZmdQRHVCSkhJdThYMzJNVHZoZ1puX0tGbGM3anVLWEZsMmEweEJ5djlPQVZ6djBKMFV0MkJuMElUajVmdw?oc=5\" target=\"_blank\"&gt;Hotshot Collaborates with Litera on Legal Training as Firms Rethink Talent Development in the A",
+      "published": "2026-08-20T12:00:00.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 8
     },
     {
       "title": "Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook partners with CBA; DeepIP raises $25m - Legal IT Insider",
@@ -215,18 +227,6 @@
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWnE4NGtzNVhkeHBlcXNBZnk0dVE2c3RXSFVEbnpQbFBSRnRqZ3R2LTJKcHdEanU4N05OWGVmYU1raTJtcFhqYXlUc2tiYXhONWV0LW5oaVNmZTFfMDJJSUVnX2hVek9yVmdjbURsUUZ1SXJpbGlSbGlyYi1nOHhnMzJTYURyV3lud1c3VUVkaVRiRktGYzV1bmZ6RVd3TGZaSzV2UU55SW9QZW9hbUFzcTJpR08td2NzRnNoaUJuN3RMUjNqclNXNU9LWk9sUngwZldZNXlUMnF3Nmp2WVItMG40eFh6MFJELTJZbE8yc0JmdG5P?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWnE4NGtzNVhkeHBlcXNBZnk0dVE2c3RXSFVEbnpQbFBSRnRqZ3R2LTJKcHdEanU4N05OWGVmYU1raTJtcFhqYXlUc2tiYXhONWV0LW5oaVNmZTFfMDJJSUVnX2hVek9yVmdjbURsUUZ1SXJpbGlSbGlyYi1nOHhnMzJTYURyV3lud1c3VUVkaVRiRktGYzV1bmZ6RVd3TGZaSzV2UU55SW9QZW9hbUFzcTJpR08td2NzRnNoaUJuN3RMUjNqclNXNU9LWk9sUngwZldZNXlUMnF3Nmp2WVItMG40eFh6MFJELTJZbE8yc0JmdG5P?oc=5\" target=\"_blank\"&gt;Thomson Reuters Launches Next Generation of CoCounsel Legal, the AI Ecosystem Built for Legal",
       "published": "2026-08-20T13:00:00.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 7
-    },
-    {
-      "title": "NetDocuments Launches New AI to Enable Tabular Review and Find Legal Authorities - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVE5BdXRTS19JOE9vZFdvaTdFMHhnbUZNUXg0R1hJM192T3BQbEFCdUJVOHBTRzA4dWRrcDF6cWdHWXJ5MzI4TWJlN0tlVW10cVJ5ZnN3YTRKdkRJRHU3dE9UX2hUeHM1aHdJM2RHNV81RFU2R3JuNTlkcXkzS1hqWjdCQmRfV3VnSkp2aVAwVl9mdXJQSXFoQ2lrWF9FN2Z4djF4d3NFQ3pUWXQ5akl5Skg1ckNGRE1qb2hwWFZ3UkhLMmFrelNaSTdqNjJfVFMxcXhN?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVE5BdXRTS19JOE9vZFdvaTdFMHhnbUZNUXg0R1hJM192T3BQbEFCdUJVOHBTRzA4dWRrcDF6cWdHWXJ5MzI4TWJlN0tlVW10cVJ5ZnN3YTRKdkRJRHU3dE9UX2hUeHM1aHdJM2RHNV81RFU2R3JuNTlkcXkzS1hqWjdCQmRfV3VnSkp2aVAwVl9mdXJQSXFoQ2lrWF9FN2Z4djF4d3NFQ3pUWXQ5akl5Skg1ckNGRE1qb2hwWFZ3UkhLMmFrelNaSTdqNjJfVFMxcXhN?oc=5\" target=\"_blank\"&gt;NetDocuments Launches New AI to Enable Tabular Review and Find Legal Authorities&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt",
-      "published": "2026-08-20T12:00:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
@@ -463,10 +463,10 @@
       "relevance_score": 5
     },
     {
-      "title": "Avvoka Partners With Harvey, Launches Curate For Templates - Artificial Lawyer",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcTlLbnJjZmVQWkNLcU9neEhwNG1ZLTN6VmdXXzJSQ3hyWFkteTVJWXJSMHE1ejdBWGJXTXdEUThGNERYRFVGMHV5TEdrREEySDNiNnoxT1NLWU1Ed1RZbm5vcXR1WDVVMk1kRzFjaGVOSjZQVDhFRkptbnRJLWhaN0J0Q0RGUHpnbjcwVE96UERySDN6YkpONVVkdkdIY3JDSEl2NQ?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPcTlLbnJjZmVQWkNLcU9neEhwNG1ZLTN6VmdXXzJSQ3hyWFkteTVJWXJSMHE1ejdBWGJXTXdEUThGNERYRFVGMHV5TEdrREEySDNiNnoxT1NLWU1Ed1RZbm5vcXR1WDVVMk1kRzFjaGVOSjZQVDhFRkptbnRJLWhaN0J0Q0RGUHpnbjcwVE96UERySDN6YkpONVVkdkdIY3JDSEl2NQ?oc=5\" target=\"_blank\"&gt;Avvoka Partners With Harvey, Launches Curate For Templates&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
-      "published": "2026-08-20T09:06:18.000Z",
+      "title": "NetDocuments Launches New AI to Enable Tabular Review and Find Legal Authorities - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVE5BdXRTS19JOE9vZFdvaTdFMHhnbUZNUXg0R1hJM192T3BQbEFCdUJVOHBTRzA4dWRrcDF6cWdHWXJ5MzI4TWJlN0tlVW10cVJ5ZnN3YTRKdkRJRHU3dE9UX2hUeHM1aHdJM2RHNV81RFU2R3JuNTlkcXkzS1hqWjdCQmRfV3VnSkp2aVAwVl9mdXJQSXFoQ2lrWF9FN2Z4djF4d3NFQ3pUWXQ5akl5Skg1ckNGRE1qb2hwWFZ3UkhLMmFrelNaSTdqNjJfVFMxcXhN?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVE5BdXRTS19JOE9vZFdvaTdFMHhnbUZNUXg0R1hJM192T3BQbEFCdUJVOHBTRzA4dWRrcDF6cWdHWXJ5MzI4TWJlN0tlVW10cVJ5ZnN3YTRKdkRJRHU3dE9UX2hUeHM1aHdJM2RHNV81RFU2R3JuNTlkcXkzS1hqWjdCQmRfV3VnSkp2aVAwVl9mdXJQSXFoQ2lrWF9FN2Z4djF4d3NFQ3pUWXQ5akl5Skg1ckNGRE1qb2hwWFZ3UkhLMmFrelNaSTdqNjJfVFMxcXhN?oc=5\" target=\"_blank\"&gt;NetDocuments Launches New AI to Enable Tabular Review and Find Legal Authorities&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt",
+      "published": "2026-08-20T12:00:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
@@ -475,10 +475,10 @@
       "relevance_score": 5
     },
     {
-      "title": "Why Attorney Oversight Builds Trust for Legal AI - Harvey",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0MDNmd3hrc3ZLVUV5VWJPWFVWZWNWZl9JUGZpLTJwZFpIc04yaWFIRnQweEYzanBSQW5weDJQT0YyS0k1UGZua0NLTTk1Y19TWlhBeGdFQnQ0MjhubWhiZg?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0MDNmd3hrc3ZLVUV5VWJPWFVWZWNWZl9JUGZpLTJwZFpIc04yaWFIRnQweEYzanBSQW5weDJQT0YyS0k1UGZua0NLTTk1Y19TWlhBeGdFQnQ0MjhubWhiZg?oc=5\" target=\"_blank\"&gt;Why Attorney Oversight Builds Trust for Legal AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
-      "published": "2026-08-16T02:51:32.000Z",
+      "title": "Avvoka Partners With Harvey, Launches Curate For Templates - Artificial Lawyer",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcTlLbnJjZmVQWkNLcU9neEhwNG1ZLTN6VmdXXzJSQ3hyWFkteTVJWXJSMHE1ejdBWGJXTXdEUThGNERYRFVGMHV5TEdrREEySDNiNnoxT1NLWU1Ed1RZbm5vcXR1WDVVMk1kRzFjaGVOSjZQVDhFRkptbnRJLWhaN0J0Q0RGUHpnbjcwVE96UERySDN6YkpONVVkdkdIY3JDSEl2NQ?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPcTlLbnJjZmVQWkNLcU9neEhwNG1ZLTN6VmdXXzJSQ3hyWFkteTVJWXJSMHE1ejdBWGJXTXdEUThGNERYRFVGMHV5TEdrREEySDNiNnoxT1NLWU1Ed1RZbm5vcXR1WDVVMk1kRzFjaGVOSjZQVDhFRkptbnRJLWhaN0J0Q0RGUHpnbjcwVE96UERySDN6YkpONVVkdkdIY3JDSEl2NQ?oc=5\" target=\"_blank\"&gt;Avvoka Partners With Harvey, Launches Curate For Templates&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
+      "published": "2026-08-20T09:06:18.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
