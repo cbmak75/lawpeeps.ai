@@ -4009,7 +4009,105 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "Ex-Eigen Team Raises $20m Seed For Twin1",
+      "slug": "ex-eigen-team-raises-20m-seed-for-twin1",
+      "score": 8,
+      "category": "Funding",
+      "story_type": "news",
+      "research_brief": "Twin1 has come out of stealth with a $20m Seed round co-led by Bessemer Venture Partners, among others, to develop digital twins for lawyers. It’s ...",
+      "primary_source": "https://www.artificiallawyer.com/2026/08/20/ex-eigen-team-raises-20m-seed-for-twin1/",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "Ex-Eigen team secures $20m seed to build digital twins for lawyers via Twin1.",
+      "why_now": "Major seed funding round for a prominent legal tech founding team coming out of stealth.",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Artificial Lawyer",
+      "source_tier": "B",
+      "prefilter_score": 15,
+      "matched_terms": [
+        "Eigen",
+        "Eve"
+      ],
+      "fingerprint": {
+        "entities": [
+          "eigen",
+          "eve"
+        ],
+        "numerics": [
+          "20m"
+        ],
+        "keywords": [],
+        "title_tokens": [
+          "eigen",
+          "team",
+          "raises",
+          "seed",
+          "twin1"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-08-20T18:31:11.219Z",
+      "queued_at": "2026-08-20T18:31:11.223Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
+    },
+    {
+      "title": "SSB boss to face Solicitors Disciplinary Tribunal",
+      "slug": "ssb-boss-to-face-solicitors-disciplinary-tribunal",
+      "score": 8,
+      "category": "Regulatory",
+      "story_type": "news",
+      "research_brief": "The SRA has referred SSB Group co-founder Jeremy Brooke to the Solicitors Disciplinary Tribunal, some 18 months after completing its investigation into the firm’s collapse. The post SSB boss to face Solicitors Disciplinary Tribunal appeared first on Legal Futures .",
+      "primary_source": "https://www.legalfutures.co.uk/latest-news/ssb-boss-to-face-solicitors-disciplinary-tribunal",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "SRA refers former SSB Group boss Jeremy Brooke to the Solicitors Disciplinary Tribunal.",
+      "why_now": "Major UK regulatory enforcement action following a high-profile firm collapse.",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Legal Futures",
+      "source_tier": "B",
+      "prefilter_score": 7,
+      "matched_terms": [
+        "SRA"
+      ],
+      "fingerprint": {
+        "entities": [
+          "solicitors regulation authority"
+        ],
+        "numerics": [
+          "18m"
+        ],
+        "keywords": [
+          "sra"
+        ],
+        "title_tokens": [
+          "boss",
+          "face",
+          "solicitors",
+          "disciplinary",
+          "tribunal"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-08-20T18:31:11.337Z",
+      "queued_at": "2026-08-20T18:31:11.341Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-08-20T12:36:30.134Z"
+  "last_updated": "2026-08-20T18:31:11.341Z"
 }
