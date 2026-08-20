@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-20T14:24:02.026Z",
+  "generated": "2026-08-20T15:22:45.666Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 753,
+  "total_scanned": 751,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -199,18 +199,6 @@
       "relevance_score": 7
     },
     {
-      "title": "NetDocuments Adds Tabular Review and Automatic Extraction of Legal Authorities to Its Platform - LawSites",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdnkyLTd6X3hVak1zbWsxR3k4YVl1N0MyZ3VrOW8yTGk0dWNvY2hNMjhsOTB0NXlGOHNCdms2bXhjcGRZX1JZVGpYTEUtYm9LcUZBWlJNb1JMMWZvM1d5M2d5T0llZkN6UEFDVzNEbWhKMnM1Q1BZTjdCWHJ3T3lTejBIc3g5aGJVdThMRUsxZmVvb25RMlJhUDVSWDgxYkh1SkNhLUtudXFaQjJXWmVIVklRXzAtTkRFdm9leGJjV1VVanZsYWNnalozQQ?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOdnkyLTd6X3hVak1zbWsxR3k4YVl1N0MyZ3VrOW8yTGk0dWNvY2hNMjhsOTB0NXlGOHNCdms2bXhjcGRZX1JZVGpYTEUtYm9LcUZBWlJNb1JMMWZvM1d5M2d5T0llZkN6UEFDVzNEbWhKMnM1Q1BZTjdCWHJ3T3lTejBIc3g5aGJVdThMRUsxZmVvb25RMlJhUDVSWDgxYkh1SkNhLUtudXFaQjJXWmVIVklRXzAtTkRFdm9leGJjV1VVanZsYWNnalozQQ?oc=5\" target=\"_blank\"&gt;NetDocuments Adds Tabular Review and Automatic Extraction of Legal Authorities to Its Platform&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f",
-      "published": "2026-08-20T13:00:42.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 7
-    },
-    {
       "title": "NetDocuments Launches New AI to Enable Tabular Review and Find Legal Authorities - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVE5BdXRTS19JOE9vZFdvaTdFMHhnbUZNUXg0R1hJM192T3BQbEFCdUJVOHBTRzA4dWRrcDF6cWdHWXJ5MzI4TWJlN0tlVW10cVJ5ZnN3YTRKdkRJRHU3dE9UX2hUeHM1aHdJM2RHNV81RFU2R3JuNTlkcXkzS1hqWjdCQmRfV3VnSkp2aVAwVl9mdXJQSXFoQ2lrWF9FN2Z4djF4d3NFQ3pUWXQ5akl5Skg1ckNGRE1qb2hwWFZ3UkhLMmFrelNaSTdqNjJfVFMxcXhN?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVE5BdXRTS19JOE9vZFdvaTdFMHhnbUZNUXg0R1hJM192T3BQbEFCdUJVOHBTRzA4dWRrcDF6cWdHWXJ5MzI4TWJlN0tlVW10cVJ5ZnN3YTRKdkRJRHU3dE9UX2hUeHM1aHdJM2RHNV81RFU2R3JuNTlkcXkzS1hqWjdCQmRfV3VnSkp2aVAwVl9mdXJQSXFoQ2lrWF9FN2Z4djF4d3NFQ3pUWXQ5akl5Skg1ckNGRE1qb2hwWFZ3UkhLMmFrelNaSTdqNjJfVFMxcXhN?oc=5\" target=\"_blank\"&gt;NetDocuments Launches New AI to Enable Tabular Review and Find Legal Authorities&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt",
@@ -223,10 +211,10 @@
       "relevance_score": 7
     },
     {
-      "title": "Avvoka Partners With Harvey, Launches Curate For Templates - Artificial Lawyer",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcTlLbnJjZmVQWkNLcU9neEhwNG1ZLTN6VmdXXzJSQ3hyWFkteTVJWXJSMHE1ejdBWGJXTXdEUThGNERYRFVGMHV5TEdrREEySDNiNnoxT1NLWU1Ed1RZbm5vcXR1WDVVMk1kRzFjaGVOSjZQVDhFRkptbnRJLWhaN0J0Q0RGUHpnbjcwVE96UERySDN6YkpONVVkdkdIY3JDSEl2NQ?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPcTlLbnJjZmVQWkNLcU9neEhwNG1ZLTN6VmdXXzJSQ3hyWFkteTVJWXJSMHE1ejdBWGJXTXdEUThGNERYRFVGMHV5TEdrREEySDNiNnoxT1NLWU1Ed1RZbm5vcXR1WDVVMk1kRzFjaGVOSjZQVDhFRkptbnRJLWhaN0J0Q0RGUHpnbjcwVE96UERySDN6YkpONVVkdkdIY3JDSEl2NQ?oc=5\" target=\"_blank\"&gt;Avvoka Partners With Harvey, Launches Curate For Templates&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
-      "published": "2026-08-20T09:06:18.000Z",
+      "title": "NetDocuments Adds Tabular Review and Automatic Extraction of Legal Authorities to Its Platform - LawSites",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdnkyLTd6X3hVak1zbWsxR3k4YVl1N0MyZ3VrOW8yTGk0dWNvY2hNMjhsOTB0NXlGOHNCdms2bXhjcGRZX1JZVGpYTEUtYm9LcUZBWlJNb1JMMWZvM1d5M2d5T0llZkN6UEFDVzNEbWhKMnM1Q1BZTjdCWHJ3T3lTejBIc3g5aGJVdThMRUsxZmVvb25RMlJhUDVSWDgxYkh1SkNhLUtudXFaQjJXWmVIVklRXzAtTkRFdm9leGJjV1VVanZsYWNnalozQQ?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOdnkyLTd6X3hVak1zbWsxR3k4YVl1N0MyZ3VrOW8yTGk0dWNvY2hNMjhsOTB0NXlGOHNCdms2bXhjcGRZX1JZVGpYTEUtYm9LcUZBWlJNb1JMMWZvM1d5M2d5T0llZkN6UEFDVzNEbWhKMnM1Q1BZTjdCWHJ3T3lTejBIc3g5aGJVdThMRUsxZmVvb25RMlJhUDVSWDgxYkh1SkNhLUtudXFaQjJXWmVIVklRXzAtTkRFdm9leGJjV1VVanZsYWNnalozQQ?oc=5\" target=\"_blank\"&gt;NetDocuments Adds Tabular Review and Automatic Extraction of Legal Authorities to Its Platform&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f",
+      "published": "2026-08-20T13:00:42.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
@@ -235,10 +223,10 @@
       "relevance_score": 7
     },
     {
-      "title": "iManage and Thomson Reuters Announce Strategic Partnership to Deliver Governed AI-powered Legal Workflows - The National Tribune",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVU55VjEzeWo3b0Uya2E3X0VFek1sMWM4OEtfcUJ1MXF5enJ2Wm1PdUxMUXpjOGRMX0xFWnA1UFU4aFRPNVRDR0lCRmlWSkFGM2h3UFpvbmVYb0NJa24tUE1Pc0tsbzY3NEZQYk1Sdmk2QVJ2SlRPWG9aWE9JQ3h2SURtSHhTSjloRHJHOWpOalJzYVM3NXBTbmd6Z25lSjUtdDJxUElocU9FMmhzZmhyYm5OdE9ueFFRc1hVakRYcGFaNHFwR2NPcWptRmNZMk9nRXc1RWhDQkw?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVU55VjEzeWo3b0Uya2E3X0VFek1sMWM4OEtfcUJ1MXF5enJ2Wm1PdUxMUXpjOGRMX0xFWnA1UFU4aFRPNVRDR0lCRmlWSkFGM2h3UFpvbmVYb0NJa24tUE1Pc0tsbzY3NEZQYk1Sdmk2QVJ2SlRPWG9aWE9JQ3h2SURtSHhTSjloRHJHOWpOalJzYVM3NXBTbmd6Z25lSjUtdDJxUElocU9FMmhzZmhyYm5OdE9ueFFRc1hVakRYcGFaNHFwR2NPcWptRmNZMk9nRXc1RWhDQkw?oc=5\" target=\"_blank\"&gt;iManage and Thomson Reuters Announce Strategic Partnership to Deliver Governed AI-powered Legal Workflows&lt;/a&gt;&amp;nbsp;&amp;",
-      "published": "2026-08-20T14:10:31.000Z",
+      "title": "iManage and Thomson Reuters Announce Strategic Partnership to Deliver Governed AI-powered Legal Workflows - The Manila Times",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQWUdKeXZTdm0ybzF6UXZhcmlKdXRoVzhUVy11cm1JQlV2UlBPQmNOZmRsQ2FvTk1QV0FIODVTdUdNanV3aU9oSndUdUpncVRkWUl3RUF3ZFFxTDV0aGVqNHI2YV9EeWZOQ2E0WUZVTDk5aVJHZFZ3STVYZFNibUZ3LU81NHFLZnN3c2djWkFuZmgxazExY2dXVDlOVC0tSFdabGJPYXN1Njd1TzlvWExWMkEwT094em9CdzgxUHJuakFWbHBiM1FBWGRKTElMVmxkdjlrdVhybFJCc1d6cWhuOWN6ZzBJVERDMmw4czV5V3ZhTXFpR3JQbDN6aUVtc0I5bWl2bE04NEFVRjjSAZACQVVfeXFMUEF4VFR5NjBfbC1mTHhTWmEtTTg5ZllCcTg3VVhiZTloSWRoWW5md0dhVjhwSjVXV3BCZ1VhckdqeENCRlBfa0pzcEFqdm5wMGpkZjR6RnUzZGt3SUh3a1VVeVFybm5iVi1xQUs5ME1BdldPLVdtOXFrMlpiZDBYWDBzRTBIM3plZlN0bWZTay1HRFM3cDhhS0lLaVVxdENPVlUtaTI3cmMwWXQzZzdvQTJXNUVZQ1lJUW9aUHcyMm45S2JWcjZPUVp5bUtvT2pHWDh0bGNHTU0tX0dkY1VLSTF4VVNHcGdCMEFCT0FiR3k2b1BjejVBMXY2RjdlTGpiN1dlekNDcjBabnJYeGJaV2s?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxQWUdKeXZTdm0ybzF6UXZhcmlKdXRoVzhUVy11cm1JQlV2UlBPQmNOZmRsQ2FvTk1QV0FIODVTdUdNanV3aU9oSndUdUpncVRkWUl3RUF3ZFFxTDV0aGVqNHI2YV9EeWZOQ2E0WUZVTDk5aVJHZFZ3STVYZFNibUZ3LU81NHFLZnN3c2djWkFuZmgxazExY2dXVDlOVC0tSFdabGJPYXN1Njd1TzlvWExWMkEwT094em9CdzgxUHJuakFWbHBiM1FBWGRKTElMVmxkdjlrdVhybFJCc1d6cWhuOWN6ZzBJVERDMmw4czV5V3ZhTXFpR3JQbDN6aUVtc0I5bWl2bE04NEFVRjjSAZACQVVfeXFMUEF4VFR5NjBfbC1mTHhTWmEtTTg5ZllCcTg3VVhiZTloSWRoWW5md0dhVjhwSjVXV3BCZ1Vhckd",
+      "published": "2026-08-20T14:17:04.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
@@ -289,18 +277,6 @@
       "published": "2026-08-20T00:37:29.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
-    },
-    {
-      "title": "Harvey AI Number of Employees 2026 | Employee Count &amp; Headcount Data - Revelio Labs",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KTk5TLXY5ZGxUTTJxLXRkaUpoNTdwWk01Q3R1R1JaYVM4OVdLYTNhZjVkY3JTbUZDdGY3WDd1SUY2cWUtbkJEWjdubjNKYXN0czNqMVcyNHN0cUd3TFlQbjZvZTJlZ1BL?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KTk5TLXY5ZGxUTTJxLXRkaUpoNTdwWk01Q3R1R1JaYVM4OVdLYTNhZjVkY3JTbUZDdGY3WDd1SUY2cWUtbkJEWjdubjNKYXN0czNqMVcyNHN0cUd3TFlQbjZvZTJlZ1BL?oc=5\" target=\"_blank\"&gt;Harvey AI Number of Employees 2026 | Employee Count &amp; Headcount Data&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Revelio Labs&lt;/font&gt;",
-      "published": "2026-07-29T15:17:02.000Z",
-      "source_id": "google-news-harvey-luminance",
-      "source_name": "Google News: Harvey OR Luminance",
       "source_priority": "critical",
       "source_tier": "A",
       "source_category": "Aggregator",
@@ -479,6 +455,30 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcjRRNnVlNjhSeWFIa251RXY0ZFZ3NWVOOUV5WEhHa1hMM19zVGs0c3pmN3lLWS0yVGRZNDRuMWR3X1FqUi1WYldHTjd6clh0R0RNc05RRkhuWmVoQWtVY1hFcFJyamxoYXZ6NlljYzlERlNMZ1JiMXg4ZUZIZFV4TFVRUFdRRlRaQnlVV0FBRFZzYlZNWlVF?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNcjRRNnVlNjhSeWFIa251RXY0ZFZ3NWVOOUV5WEhHa1hMM19zVGs0c3pmN3lLWS0yVGRZNDRuMWR3X1FqUi1WYldHTjd6clh0R0RNc05RRkhuWmVoQWtVY1hFcFJyamxoYXZ6NlljYzlERlNMZ1JiMXg4ZUZIZFV4TFVRUFdRRlRaQnlVV0FBRFZzYlZNWlVF?oc=5\" target=\"_blank\"&gt;Fulham FC Partners with :Harvey: as Official Legal AI Partner&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
       "published": "2026-08-18T20:32:47.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 5
+    },
+    {
+      "title": "Avvoka Partners With Harvey, Launches Curate For Templates - Artificial Lawyer",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcTlLbnJjZmVQWkNLcU9neEhwNG1ZLTN6VmdXXzJSQ3hyWFkteTVJWXJSMHE1ejdBWGJXTXdEUThGNERYRFVGMHV5TEdrREEySDNiNnoxT1NLWU1Ed1RZbm5vcXR1WDVVMk1kRzFjaGVOSjZQVDhFRkptbnRJLWhaN0J0Q0RGUHpnbjcwVE96UERySDN6YkpONVVkdkdIY3JDSEl2NQ?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPcTlLbnJjZmVQWkNLcU9neEhwNG1ZLTN6VmdXXzJSQ3hyWFkteTVJWXJSMHE1ejdBWGJXTXdEUThGNERYRFVGMHV5TEdrREEySDNiNnoxT1NLWU1Ed1RZbm5vcXR1WDVVMk1kRzFjaGVOSjZQVDhFRkptbnRJLWhaN0J0Q0RGUHpnbjcwVE96UERySDN6YkpONVVkdkdIY3JDSEl2NQ?oc=5\" target=\"_blank\"&gt;Avvoka Partners With Harvey, Launches Curate For Templates&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
+      "published": "2026-08-20T09:06:18.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 5
+    },
+    {
+      "title": "Why Attorney Oversight Builds Trust for Legal AI - Harvey",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0MDNmd3hrc3ZLVUV5VWJPWFVWZWNWZl9JUGZpLTJwZFpIc04yaWFIRnQweEYzanBSQW5weDJQT0YyS0k1UGZua0NLTTk1Y19TWlhBeGdFQnQ0MjhubWhiZg?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0MDNmd3hrc3ZLVUV5VWJPWFVWZWNWZl9JUGZpLTJwZFpIc04yaWFIRnQweEYzanBSQW5weDJQT0YyS0k1UGZua0NLTTk1Y19TWlhBeGdFQnQ0MjhubWhiZg?oc=5\" target=\"_blank\"&gt;Why Attorney Oversight Builds Trust for Legal AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
+      "published": "2026-08-16T02:51:32.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
