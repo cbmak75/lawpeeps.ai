@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-20T15:22:45.666Z",
+  "generated": "2026-08-20T16:20:36.330Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 751,
+  "total_scanned": 752,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -187,6 +187,18 @@
       "relevance_score": 8
     },
     {
+      "title": "iManage and Thomson Reuters announce strategic partnership to deliver governed AI-powered legal workflows - Legal Futures",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTFJuMTJmdTM1RjF0cjY4OUZKbUtBekVhb2lRckxka29QWVQ5SmV0MmRGYXlDLXZBZTdKdXF2OHQ3YjdwdkplQzE1cHZ3MmFkQWNSeUUxdm5vRXVGZTBsRHJsb28yZnJ4R0J3RDNsaktTZkhhMzhieS1yUC0wb0xMNHlJMFdCdGRVM0VMNWNRM1dWQjNGbjcxOXdTcXVhcFk0dU14S0tLbEk5WHJZQnZqVE1pZ3ZCMi1ITGpIUEYyaC1KY040U05yYVpqVElJYnJhZV9aMDlZazFKelpFSmxYZW9XajFQdw?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTFJuMTJmdTM1RjF0cjY4OUZKbUtBekVhb2lRckxka29QWVQ5SmV0MmRGYXlDLXZBZTdKdXF2OHQ3YjdwdkplQzE1cHZ3MmFkQWNSeUUxdm5vRXVGZTBsRHJsb28yZnJ4R0J3RDNsaktTZkhhMzhieS1yUC0wb0xMNHlJMFdCdGRVM0VMNWNRM1dWQjNGbjcxOXdTcXVhcFk0dU14S0tLbEk5WHJZQnZqVE1pZ3ZCMi1ITGpIUEYyaC1KY040U05yYVpqVElJYnJhZV9aMDlZazFKelpFSmxYZW9XajFQdw?oc=5\" target=\"_blank\"&gt;iManage and Thomson Reuters announce strategic partnership to deliver governed AI-powered legal workflows&lt;/a",
+      "published": "2026-08-20T16:14:37.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 7
+    },
+    {
       "title": "Thomson Reuters Launches Next Generation of CoCounsel Legal, the AI Ecosystem Built for Legal Professionals - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWnE4NGtzNVhkeHBlcXNBZnk0dVE2c3RXSFVEbnpQbFBSRnRqZ3R2LTJKcHdEanU4N05OWGVmYU1raTJtcFhqYXlUc2tiYXhONWV0LW5oaVNmZTFfMDJJSUVnX2hVek9yVmdjbURsUUZ1SXJpbGlSbGlyYi1nOHhnMzJTYURyV3lud1c3VUVkaVRiRktGYzV1bmZ6RVd3TGZaSzV2UU55SW9QZW9hbUFzcTJpR08td2NzRnNoaUJuN3RMUjNqclNXNU9LWk9sUngwZldZNXlUMnF3Nmp2WVItMG40eFh6MFJELTJZbE8yc0JmdG5P?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWnE4NGtzNVhkeHBlcXNBZnk0dVE2c3RXSFVEbnpQbFBSRnRqZ3R2LTJKcHdEanU4N05OWGVmYU1raTJtcFhqYXlUc2tiYXhONWV0LW5oaVNmZTFfMDJJSUVnX2hVek9yVmdjbURsUUZ1SXJpbGlSbGlyYi1nOHhnMzJTYURyV3lud1c3VUVkaVRiRktGYzV1bmZ6RVd3TGZaSzV2UU55SW9QZW9hbUFzcTJpR08td2NzRnNoaUJuN3RMUjNqclNXNU9LWk9sUngwZldZNXlUMnF3Nmp2WVItMG40eFh6MFJELTJZbE8yc0JmdG5P?oc=5\" target=\"_blank\"&gt;Thomson Reuters Launches Next Generation of CoCounsel Legal, the AI Ecosystem Built for Legal",
@@ -223,18 +235,6 @@
       "relevance_score": 7
     },
     {
-      "title": "iManage and Thomson Reuters Announce Strategic Partnership to Deliver Governed AI-powered Legal Workflows - The Manila Times",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQWUdKeXZTdm0ybzF6UXZhcmlKdXRoVzhUVy11cm1JQlV2UlBPQmNOZmRsQ2FvTk1QV0FIODVTdUdNanV3aU9oSndUdUpncVRkWUl3RUF3ZFFxTDV0aGVqNHI2YV9EeWZOQ2E0WUZVTDk5aVJHZFZ3STVYZFNibUZ3LU81NHFLZnN3c2djWkFuZmgxazExY2dXVDlOVC0tSFdabGJPYXN1Njd1TzlvWExWMkEwT094em9CdzgxUHJuakFWbHBiM1FBWGRKTElMVmxkdjlrdVhybFJCc1d6cWhuOWN6ZzBJVERDMmw4czV5V3ZhTXFpR3JQbDN6aUVtc0I5bWl2bE04NEFVRjjSAZACQVVfeXFMUEF4VFR5NjBfbC1mTHhTWmEtTTg5ZllCcTg3VVhiZTloSWRoWW5md0dhVjhwSjVXV3BCZ1VhckdqeENCRlBfa0pzcEFqdm5wMGpkZjR6RnUzZGt3SUh3a1VVeVFybm5iVi1xQUs5ME1BdldPLVdtOXFrMlpiZDBYWDBzRTBIM3plZlN0bWZTay1HRFM3cDhhS0lLaVVxdENPVlUtaTI3cmMwWXQzZzdvQTJXNUVZQ1lJUW9aUHcyMm45S2JWcjZPUVp5bUtvT2pHWDh0bGNHTU0tX0dkY1VLSTF4VVNHcGdCMEFCT0FiR3k2b1BjejVBMXY2RjdlTGpiN1dlekNDcjBabnJYeGJaV2s?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxQWUdKeXZTdm0ybzF6UXZhcmlKdXRoVzhUVy11cm1JQlV2UlBPQmNOZmRsQ2FvTk1QV0FIODVTdUdNanV3aU9oSndUdUpncVRkWUl3RUF3ZFFxTDV0aGVqNHI2YV9EeWZOQ2E0WUZVTDk5aVJHZFZ3STVYZFNibUZ3LU81NHFLZnN3c2djWkFuZmgxazExY2dXVDlOVC0tSFdabGJPYXN1Njd1TzlvWExWMkEwT094em9CdzgxUHJuakFWbHBiM1FBWGRKTElMVmxkdjlrdVhybFJCc1d6cWhuOWN6ZzBJVERDMmw4czV5V3ZhTXFpR3JQbDN6aUVtc0I5bWl2bE04NEFVRjjSAZACQVVfeXFMUEF4VFR5NjBfbC1mTHhTWmEtTTg5ZllCcTg3VVhiZTloSWRoWW5md0dhVjhwSjVXV3BCZ1Vhckd",
-      "published": "2026-08-20T14:17:04.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 7
-    },
-    {
       "title": "The Legal AI Scaffold Changes Everything – Claude Study - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQU4tdGFPSGFaaGo0NGRvdnhxMUhYQ3pSd18td3lld2ZRd2xiQkVwWUQ0Z1lhR3IwdGstdE5STUVBTzdqdkxvbnhWUTVwZ0Y5MDNqT1hHV0RDUGVldzI5R2JrdEtaZ2NfYWNDVERjN1o5QWFqeGFTTEp6VDB1S19id3VoOUZUbzQ0eDdwNzJHNzdvYzRNWUh5cFV6UnhXOE0?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNQU4tdGFPSGFaaGo0NGRvdnhxMUhYQ3pSd18td3lld2ZRd2xiQkVwWUQ0Z1lhR3IwdGstdE5STUVBTzdqdkxvbnhWUTVwZ0Y5MDNqT1hHV0RDUGVldzI5R2JrdEtaZ2NfYWNDVERjN1o5QWFqeGFTTEp6VDB1S19id3VoOUZUbzQ0eDdwNzJHNzdvYzRNWUh5cFV6UnhXOE0?oc=5\" target=\"_blank\"&gt;The Legal AI Scaffold Changes Everything – Claude Study&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
@@ -257,18 +257,6 @@
       "source_tier": "A",
       "source_category": "Aggregator",
       "relevance_score": 7
-    },
-    {
-      "title": "ChatGPT Is a Huge Snitch - New York Magazine",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4tVFZIR1F5YndiM3FESlZtLUJqSzFyMVowZVZ4NmFZUXZHZmZINGZqQWlfbGtNYkVMcTFmNXJZVVpDcUNDZElOanctYmtFX2lwckVXSEp6NWZIZ1JGTjJwOEFITjVTelFCVFhQZE93MndDaEtpb1lGSDN3QmtUQQ?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE4tVFZIR1F5YndiM3FESlZtLUJqSzFyMVowZVZ4NmFZUXZHZmZINGZqQWlfbGtNYkVMcTFmNXJZVVpDcUNDZElOanctYmtFX2lwckVXSEp6NWZIZ1JGTjJwOEFITjVTelFCVFhQZE93MndDaEtpb1lGSDN3QmtUQQ?oc=5\" target=\"_blank\"&gt;ChatGPT Is a Huge Snitch&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;New York Magazine&lt;/font&gt;",
-      "published": "2026-08-20T10:00:21.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
     },
     {
       "title": "Harvey Legal AI Announce Firmwide Use of Software By Davis Wright Tremaine - LawFuel",
@@ -479,6 +467,18 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0MDNmd3hrc3ZLVUV5VWJPWFVWZWNWZl9JUGZpLTJwZFpIc04yaWFIRnQweEYzanBSQW5weDJQT0YyS0k1UGZua0NLTTk1Y19TWlhBeGdFQnQ0MjhubWhiZg?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0MDNmd3hrc3ZLVUV5VWJPWFVWZWNWZl9JUGZpLTJwZFpIc04yaWFIRnQweEYzanBSQW5weDJQT0YyS0k1UGZua0NLTTk1Y19TWlhBeGdFQnQ0MjhubWhiZg?oc=5\" target=\"_blank\"&gt;Why Attorney Oversight Builds Trust for Legal AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
       "published": "2026-08-16T02:51:32.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 5
+    },
+    {
+      "title": ":Harvey: Named Official Legal AI Partner of the New York Liberty - Harvey",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSFFhOTdvTGRDb3pkZGdnTUJwS0VFSGczX0lnNkFWM0RGaksydTBXdWFITHFBU1ZYTzRyWDFlMy1jNEwwTGZLNUNFTG9VRXZqYXE5ZHo2MHZ0ZjN1ekRzWXlRX2RzTzE4bVpLR1dLV3AzR0lTbXNpcllpS3Fyc2ljUTNQenI1MEVsSUF1cTVXR3JQdHdYLThQNXlZbw?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPSFFhOTdvTGRDb3pkZGdnTUJwS0VFSGczX0lnNkFWM0RGaksydTBXdWFITHFBU1ZYTzRyWDFlMy1jNEwwTGZLNUNFTG9VRXZqYXE5ZHo2MHZ0ZjN1ekRzWXlRX2RzTzE4bVpLR1dLV3AzR0lTbXNpcllpS3Fyc2ljUTNQenI1MEVsSUF1cTVXR3JQdHdYLThQNXlZbw?oc=5\" target=\"_blank\"&gt;:Harvey: Named Official Legal AI Partner of the New York Liberty&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
+      "published": "2026-08-18T20:06:52.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
