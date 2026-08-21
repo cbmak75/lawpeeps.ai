@@ -1,23 +1,11 @@
 {
-  "generated": "2026-08-21T08:25:01.080Z",
+  "generated": "2026-08-21T09:24:07.421Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 761,
+  "total_scanned": 759,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
-    {
-      "title": "Legal AI News – Hotshot Collaborates with Litera on Legal Training - LawFuel",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcWpKVnVfUDJQamp5a18ybjc0eU5pc2huVi02d3p0LXZ6blNYY1dmOVhJOXZiTnZCZ21uS3hwMzhJM3RDSDF3RHlWZXJVQ0Z5V3RvaE9nVHNaVHAza2RYdVZHbTd4S290dWsteEdHZ1FfZlVEMGJsallJcU9CdXJGNmFxa05BX3FlUDZqaVc2d3hrVkE?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPcWpKVnVfUDJQamp5a18ybjc0eU5pc2huVi02d3p0LXZ6blNYY1dmOVhJOXZiTnZCZ21uS3hwMzhJM3RDSDF3RHlWZXJVQ0Z5V3RvaE9nVHNaVHAza2RYdVZHbTd4S290dWsteEdHZ1FfZlVEMGJsallJcU9CdXJGNmFxa05BX3FlUDZqaVc2d3hrVkE?oc=5\" target=\"_blank\"&gt;Legal AI News – Hotshot Collaborates with Litera on Legal Training&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;LawFuel&lt;/font&gt;",
-      "published": "2026-08-21T02:58:38.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 9
-    },
     {
       "title": "CMC OpenAI showcases legal AI capabilities at ASEAN Law Forum - Báo VietNamNet",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON0dmSlhtSU5QUUJVTjA3NnI4WXhuYncxektVQm1Pd3JkcWVnd2doYzc4Y0U1RGFDaURkWXBTNEdYbzVHLUx6di15LWtTSE9jMjZ0WklsWTQ1bldfSGZ0d3c5U0o5RGl0Y2lnSFJiMG5JVmJGQVpLT3pRdkxnb3loUWkzV05Ra1ZlMTNYcUJnT0FhUkc4QWVOSmpzeERHV1dQ?oc=5",
@@ -67,10 +55,10 @@
       "relevance_score": 8
     },
     {
-      "title": "Top Legal AI Startups Funded in 2026 (Harvey, Legora, Ironclad) - AI Funding Tracker",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10MGJkNVo1c0RqNmhuZWpialozbzBsejY0eWFVUkxsdHM0SG44M1BYM3VtZm92MVlmWGdIaGl0bF9VZkpacEs3R01yT3hBajlpMmxNUmlxV25NWWY3UW1ReA?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE10MGJkNVo1c0RqNmhuZWpialozbzBsejY0eWFVUkxsdHM0SG44M1BYM3VtZm92MVlmWGdIaGl0bF9VZkpacEs3R01yT3hBajlpMmxNUmlxV25NWWY3UW1ReA?oc=5\" target=\"_blank\"&gt;Top Legal AI Startups Funded in 2026 (Harvey, Legora, Ironclad)&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;AI Funding Tracker&lt;/font&gt;",
-      "published": "2026-05-21T07:00:00.000Z",
+      "title": "Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook partners with CBA; DeepIP raises $25m - Legal IT Insider",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcXJGTU9ucEc1azNNOTZ3eWI1dldHblpjS0lIdG9jTy1YSE1SSEdlWXlqa041bzd4R052ckZLZG1TQnh6eUE1bFhEV0FyYlFndF84Z1hTczZXZ0IzOVRoMF9jWHhkMXp2X2tjenNUMktCZWM1eVlvM0tjZEpvX2ZoeUpaTUN5UTZUaDJEWWdvVDFJZWpGYTZiQV8ycEc1dEJRMTJCWktEV3IwX3FoX1F6cFk5dkJ1VUtHaURCWmlBTUpTcFRJQVk3cmYxODlsMEpjQnRMdHkwLWNoR1lzT01jRmJlSjJwdw?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcXJGTU9ucEc1azNNOTZ3eWI1dldHblpjS0lIdG9jTy1YSE1SSEdlWXlqa041bzd4R052ckZLZG1TQnh6eUE1bFhEV0FyYlFndF84Z1hTczZXZ0IzOVRoMF9jWHhkMXp2X2tjenNUMktCZWM1eVlvM0tjZEpvX2ZoeUpaTUN5UTZUaDJEWWdvVDFJZWpGYTZiQV8ycEc1dEJRMTJCWktEV3IwX3FoX1F6cFk5dkJ1VUtHaURCWmlBTUpTcFRJQVk3cmYxODlsMEpjQnRMdHkwLWNoR1lzT01jRmJlSjJwdw?oc=5\" target=\"_blank\"&gt;Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook partners with CBA; De",
+      "published": "2026-03-04T08:00:00.000Z",
       "source_id": "google-news-legal-tech-funding",
       "source_name": "Google News: legal tech funding",
       "source_priority": "critical",
@@ -79,10 +67,10 @@
       "relevance_score": 8
     },
     {
-      "title": "Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook partners with CBA; DeepIP raises $25m - Legal IT Insider",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcXJGTU9ucEc1azNNOTZ3eWI1dldHblpjS0lIdG9jTy1YSE1SSEdlWXlqa041bzd4R052ckZLZG1TQnh6eUE1bFhEV0FyYlFndF84Z1hTczZXZ0IzOVRoMF9jWHhkMXp2X2tjenNUMktCZWM1eVlvM0tjZEpvX2ZoeUpaTUN5UTZUaDJEWWdvVDFJZWpGYTZiQV8ycEc1dEJRMTJCWktEV3IwX3FoX1F6cFk5dkJ1VUtHaURCWmlBTUpTcFRJQVk3cmYxODlsMEpjQnRMdHkwLWNoR1lzT01jRmJlSjJwdw?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcXJGTU9ucEc1azNNOTZ3eWI1dldHblpjS0lIdG9jTy1YSE1SSEdlWXlqa041bzd4R052ckZLZG1TQnh6eUE1bFhEV0FyYlFndF84Z1hTczZXZ0IzOVRoMF9jWHhkMXp2X2tjenNUMktCZWM1eVlvM0tjZEpvX2ZoeUpaTUN5UTZUaDJEWWdvVDFJZWpGYTZiQV8ycEc1dEJRMTJCWktEV3IwX3FoX1F6cFk5dkJ1VUtHaURCWmlBTUpTcFRJQVk3cmYxODlsMEpjQnRMdHkwLWNoR1lzT01jRmJlSjJwdw?oc=5\" target=\"_blank\"&gt;Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook partners with CBA; De",
-      "published": "2026-03-04T08:00:00.000Z",
+      "title": "Top Legal AI Startups Funded in 2026 (Harvey, Legora, Ironclad) - AI Funding Tracker",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10MGJkNVo1c0RqNmhuZWpialozbzBsejY0eWFVUkxsdHM0SG44M1BYM3VtZm92MVlmWGdIaGl0bF9VZkpacEs3R01yT3hBajlpMmxNUmlxV25NWWY3UW1ReA?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE10MGJkNVo1c0RqNmhuZWpialozbzBsejY0eWFVUkxsdHM0SG44M1BYM3VtZm92MVlmWGdIaGl0bF9VZkpacEs3R01yT3hBajlpMmxNUmlxV25NWWY3UW1ReA?oc=5\" target=\"_blank\"&gt;Top Legal AI Startups Funded in 2026 (Harvey, Legora, Ironclad)&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;AI Funding Tracker&lt;/font&gt;",
+      "published": "2026-05-21T07:00:00.000Z",
       "source_id": "google-news-legal-tech-funding",
       "source_name": "Google News: legal tech funding",
       "source_priority": "critical",
@@ -211,6 +199,18 @@
       "relevance_score": 7
     },
     {
+      "title": "Legal AI News – Hotshot Collaborates with Litera on Legal Training - LawFuel.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcWpKVnVfUDJQamp5a18ybjc0eU5pc2huVi02d3p0LXZ6blNYY1dmOVhJOXZiTnZCZ21uS3hwMzhJM3RDSDF3RHlWZXJVQ0Z5V3RvaE9nVHNaVHAza2RYdVZHbTd4S290dWsteEdHZ1FfZlVEMGJsallJcU9CdXJGNmFxa05BX3FlUDZqaVc2d3hrVkE?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPcWpKVnVfUDJQamp5a18ybjc0eU5pc2huVi02d3p0LXZ6blNYY1dmOVhJOXZiTnZCZ21uS3hwMzhJM3RDSDF3RHlWZXJVQ0Z5V3RvaE9nVHNaVHAza2RYdVZHbTd4S290dWsteEdHZ1FfZlVEMGJsallJcU9CdXJGNmFxa05BX3FlUDZqaVc2d3hrVkE?oc=5\" target=\"_blank\"&gt;Legal AI News – Hotshot Collaborates with Litera on Legal Training&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;LawFuel.com&lt;/font&gt;",
+      "published": "2026-08-21T02:58:38.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 7
+    },
+    {
       "title": "NetDocuments Goes After M&amp;A Due Diligence - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZjVoZlF5NWtQZ1NaM21NWV9TOS1HdERrZTNnSXk0ckFLNTZOVlYwS0d1WkdGU2Z5UlBMWWgwLVhvT3hSMWR3UzRTV3lFbzdBdVdvcm0wRzlkWXhITUlnVUw1MmtXa1I1alczUUFjeVVSd3QwWVhrSUFiVXBTTW5wdHUwNUZON3EweHZSOG9R?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPZjVoZlF5NWtQZ1NaM21NWV9TOS1HdERrZTNnSXk0ckFLNTZOVlYwS0d1WkdGU2Z5UlBMWWgwLVhvT3hSMWR3UzRTV3lFbzdBdVdvcm0wRzlkWXhITUlnVUw1MmtXa1I1alczUUFjeVVSd3QwWVhrSUFiVXBTTW5wdHUwNUZON3EweHZSOG9R?oc=5\" target=\"_blank\"&gt;NetDocuments Goes After M&amp;A Due Diligence&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
@@ -227,6 +227,18 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1nNEpLYlV3RmgxY1N3dVJCekVUM2NNbWJRWlFQSGVkdnNvdWZIUmN2RmliMlYwWDZGelRvYi1HVS10NkJGQ0VLdm1LVU9lVFgtTWpuTWlQVUcwRDk4eEpSUWFlRDVoM3FiMEF3N1hmc3ptNmh0aEE?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1nNEpLYlV3RmgxY1N3dVJCekVUM2NNbWJRWlFQSGVkdnNvdWZIUmN2RmliMlYwWDZGelRvYi1HVS10NkJGQ0VLdm1LVU9lVFgtTWpuTWlQVUcwRDk4eEpSUWFlRDVoM3FiMEF3N1hmc3ptNmh0aEE?oc=5\" target=\"_blank\"&gt;DeepL Selected as Translation Engine for Legal AI Platform Harvey, Used by Over 200,000 Lawyers&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;finance.biggo.com&lt;/font&gt;",
       "published": "2026-08-21T00:06:00.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 7
+    },
+    {
+      "title": "The Legal AI Scaffold Changes Everything – Claude Study - Artificial Lawyer",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQU4tdGFPSGFaaGo0NGRvdnhxMUhYQ3pSd18td3lld2ZRd2xiQkVwWUQ0Z1lhR3IwdGstdE5STUVBTzdqdkxvbnhWUTVwZ0Y5MDNqT1hHV0RDUGVldzI5R2JrdEtaZ2NfYWNDVERjN1o5QWFqeGFTTEp6VDB1S19id3VoOUZUbzQ0eDdwNzJHNzdvYzRNWUh5cFV6UnhXOE0?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNQU4tdGFPSGFaaGo0NGRvdnhxMUhYQ3pSd18td3lld2ZRd2xiQkVwWUQ0Z1lhR3IwdGstdE5STUVBTzdqdkxvbnhWUTVwZ0Y5MDNqT1hHV0RDUGVldzI5R2JrdEtaZ2NfYWNDVERjN1o5QWFqeGFTTEp6VDB1S19id3VoOUZUbzQ0eDdwNzJHNzdvYzRNWUh5cFV6UnhXOE0?oc=5\" target=\"_blank\"&gt;The Legal AI Scaffold Changes Everything – Claude Study&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
+      "published": "2026-06-22T07:00:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
@@ -379,10 +391,10 @@
       "relevance_score": 6
     },
     {
-      "title": "Harvey launches new generation of legal AI - Iberian Lawyer",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOU3BjVnp2eGRqSXo2VEFnMkFJd29FdXlTd1o3VWZyMXhrODNpekRTWXNnZTJIeUtGQnBtYm9nT2NiSE5zb0Y0cTBLbGlLLUdRWTBiWXVMUjFLQ3NXNHA3cjNQZ2tiS2dVTlNyTVRROVZYVkJ2MHJ4bjlOdVljM0ttZW1NMA?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOU3BjVnp2eGRqSXo2VEFnMkFJd29FdXlTd1o3VWZyMXhrODNpekRTWXNnZTJIeUtGQnBtYm9nT2NiSE5zb0Y0cTBLbGlLLUdRWTBiWXVMUjFLQ3NXNHA3cjNQZ2tiS2dVTlNyTVRROVZYVkJ2MHJ4bjlOdVljM0ttZW1NMA?oc=5\" target=\"_blank\"&gt;Harvey launches new generation of legal AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Iberian Lawyer&lt;/font&gt;",
-      "published": "2026-08-19T06:19:38.000Z",
+      "title": "Big AI v Big Law — Jude Law, Harvey Specter and why the legal AI arms race is only just beginning - Law Society of Scotland",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQT2dndHk0NjZaYkQwdjF5Sy1KN2doNzRSc3Q1anFiOVJRc3RxME81NURrOGt3WjNsbVVzNVlnQ1NaUmZBT0J4ajlYOS1CemoyRWJpY1p1RTJQODVHQ0xwZ09EUzZFYzVUUlhOckROTG1EOWVTR3MycFdXVXlkUXRyUUIxaFBseXEydlVkNkg2MHVMcVVvLURHS3U4Z0loZ2wwLWNfUlpOSlhuemNYVUcwelNDVkd6M08zUExNN2RkTWpObWJkZ0d0c0lmQUM5bGJMbWQ2Uzk3M3d6SWw0VUhxaF9ZdzZjZw?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQT2dndHk0NjZaYkQwdjF5Sy1KN2doNzRSc3Q1anFiOVJRc3RxME81NURrOGt3WjNsbVVzNVlnQ1NaUmZBT0J4ajlYOS1CemoyRWJpY1p1RTJQODVHQ0xwZ09EUzZFYzVUUlhOckROTG1EOWVTR3MycFdXVXlkUXRyUUIxaFBseXEydlVkNkg2MHVMcVVvLURHS3U4Z0loZ2wwLWNfUlpOSlhuemNYVUcwelNDVkd6M08zUExNN2RkTWpObWJkZ0d0c0lmQUM5bGJMbWQ2Uzk3M3d6SWw0VUhxaF9ZdzZjZw?oc=5\" target=\"_blank\"&gt;Big AI v Big Law — Jude Law, Harvey Specter and why the legal AI arms race is only just beginning&lt;/a&gt;&amp",
+      "published": "2026-08-12T15:27:18.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
@@ -391,10 +403,10 @@
       "relevance_score": 5
     },
     {
-      "title": "Big AI v Big Law — Jude Law, Harvey Specter and why the legal AI arms race is only just beginning - Law Society of Scotland",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQT2dndHk0NjZaYkQwdjF5Sy1KN2doNzRSc3Q1anFiOVJRc3RxME81NURrOGt3WjNsbVVzNVlnQ1NaUmZBT0J4ajlYOS1CemoyRWJpY1p1RTJQODVHQ0xwZ09EUzZFYzVUUlhOckROTG1EOWVTR3MycFdXVXlkUXRyUUIxaFBseXEydlVkNkg2MHVMcVVvLURHS3U4Z0loZ2wwLWNfUlpOSlhuemNYVUcwelNDVkd6M08zUExNN2RkTWpObWJkZ0d0c0lmQUM5bGJMbWQ2Uzk3M3d6SWw0VUhxaF9ZdzZjZw?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQT2dndHk0NjZaYkQwdjF5Sy1KN2doNzRSc3Q1anFiOVJRc3RxME81NURrOGt3WjNsbVVzNVlnQ1NaUmZBT0J4ajlYOS1CemoyRWJpY1p1RTJQODVHQ0xwZ09EUzZFYzVUUlhOckROTG1EOWVTR3MycFdXVXlkUXRyUUIxaFBseXEydlVkNkg2MHVMcVVvLURHS3U4Z0loZ2wwLWNfUlpOSlhuemNYVUcwelNDVkd6M08zUExNN2RkTWpObWJkZ0d0c0lmQUM5bGJMbWQ2Uzk3M3d6SWw0VUhxaF9ZdzZjZw?oc=5\" target=\"_blank\"&gt;Big AI v Big Law — Jude Law, Harvey Specter and why the legal AI arms race is only just beginning&lt;/a&gt;&amp",
-      "published": "2026-08-12T15:27:18.000Z",
+      "title": "Harvey launches new generation of legal AI - Iberian Lawyer",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOU3BjVnp2eGRqSXo2VEFnMkFJd29FdXlTd1o3VWZyMXhrODNpekRTWXNnZTJIeUtGQnBtYm9nT2NiSE5zb0Y0cTBLbGlLLUdRWTBiWXVMUjFLQ3NXNHA3cjNQZ2tiS2dVTlNyTVRROVZYVkJ2MHJ4bjlOdVljM0ttZW1NMA?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOU3BjVnp2eGRqSXo2VEFnMkFJd29FdXlTd1o3VWZyMXhrODNpekRTWXNnZTJIeUtGQnBtYm9nT2NiSE5zb0Y0cTBLbGlLLUdRWTBiWXVMUjFLQ3NXNHA3cjNQZ2tiS2dVTlNyTVRROVZYVkJ2MHJ4bjlOdVljM0ttZW1NMA?oc=5\" target=\"_blank\"&gt;Harvey launches new generation of legal AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Iberian Lawyer&lt;/font&gt;",
+      "published": "2026-08-19T06:19:38.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
@@ -455,18 +467,6 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLWVCSTd2cGVvQ2Q3djBwVXlQWXpwNy1LYV9LU21rN24yXzlmSmVJWkxaWDFlX3liOVBHN3pNeVVsLTRVSHY3RURwMXZvMTlBN2ZGajhxQWhRMThBYWZtVzh6NWlPa1dwTElnZUtfTDAwN3M1blBYSzhBU1NSa1Bqd1NCZl8?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPLWVCSTd2cGVvQ2Q3djBwVXlQWXpwNy1LYV9LU21rN24yXzlmSmVJWkxaWDFlX3liOVBHN3pNeVVsLTRVSHY3RURwMXZvMTlBN2ZGajhxQWhRMThBYWZtVzh6NWlPa1dwTElnZUtfTDAwN3M1blBYSzhBU1NSa1Bqd1NCZl8?oc=5\" target=\"_blank\"&gt;Harvey II adds memory &amp; matter-based legal AI tools&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;IT Brief Australia&lt;/font&gt;",
       "published": "2026-08-19T03:59:00.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 5
-    },
-    {
-      "title": "Legal AI group Wordsmith extends Series B with £10m boost - UKTN - UKTN",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOXF3ZGRDcllVTm9fU2hIU1NfeGRSNGU5WUJVZDdILXU4ODhhQ3RuNXFFVEVfN3VLRElCYXJXZlBES0d2YjBQRW9TRi1xOEpPNk4zZHZMczNfbXZENjFQZThRYXhUVFh2YWs4aTZQTTlEeHpkUXpIcVNqSHg3QXplbG4yRldCdWtMRHlaa1hfVXdXSHQzOTVLUE5xOA?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNOXF3ZGRDcllVTm9fU2hIU1NfeGRSNGU5WUJVZDdILXU4ODhhQ3RuNXFFVEVfN3VLRElCYXJXZlBES0d2YjBQRW9TRi1xOEpPNk4zZHZMczNfbXZENjFQZThRYXhUVFh2YWs4aTZQTTlEeHpkUXpIcVNqSHg3QXplbG4yRldCdWtMRHlaa1hfVXdXSHQzOTVLUE5xOA?oc=5\" target=\"_blank\"&gt;Legal AI group Wordsmith extends Series B with £10m boost - UKTN&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;UKTN&lt;/font&gt;",
-      "published": "2026-08-06T07:00:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
