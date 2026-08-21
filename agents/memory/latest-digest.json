@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-21T05:22:06.484Z",
+  "generated": "2026-08-21T06:24:30.902Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 760,
+  "total_scanned": 761,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -10,19 +10,7 @@
       "title": "Legal AI News – Hotshot Collaborates with Litera on Legal Training - LawFuel.com",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcWpKVnVfUDJQamp5a18ybjc0eU5pc2huVi02d3p0LXZ6blNYY1dmOVhJOXZiTnZCZ21uS3hwMzhJM3RDSDF3RHlWZXJVQ0Z5V3RvaE9nVHNaVHAza2RYdVZHbTd4S290dWsteEdHZ1FfZlVEMGJsallJcU9CdXJGNmFxa05BX3FlUDZqaVc2d3hrVkE?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPcWpKVnVfUDJQamp5a18ybjc0eU5pc2huVi02d3p0LXZ6blNYY1dmOVhJOXZiTnZCZ21uS3hwMzhJM3RDSDF3RHlWZXJVQ0Z5V3RvaE9nVHNaVHAza2RYdVZHbTd4S290dWsteEdHZ1FfZlVEMGJsallJcU9CdXJGNmFxa05BX3FlUDZqaVc2d3hrVkE?oc=5\" target=\"_blank\"&gt;Legal AI News – Hotshot Collaborates with Litera on Legal Training&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;LawFuel.com&lt;/font&gt;",
-      "published": "2026-08-20T23:58:42.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 9
-    },
-    {
-      "title": "DeepL Selected as Translation Engine for Legal AI Platform Harvey, Used by Over 200,000 Lawyers - finance.biggo.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1nNEpLYlV3RmgxY1N3dVJCekVUM2NNbWJRWlFQSGVkdnNvdWZIUmN2RmliMlYwWDZGelRvYi1HVS10NkJGQ0VLdm1LVU9lVFgtTWpuTWlQVUcwRDk4eEpSUWFlRDVoM3FiMEF3N1hmc3ptNmh0aEE?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1nNEpLYlV3RmgxY1N3dVJCekVUM2NNbWJRWlFQSGVkdnNvdWZIUmN2RmliMlYwWDZGelRvYi1HVS10NkJGQ0VLdm1LVU9lVFgtTWpuTWlQVUcwRDk4eEpSUWFlRDVoM3FiMEF3N1hmc3ptNmh0aEE?oc=5\" target=\"_blank\"&gt;DeepL Selected as Translation Engine for Legal AI Platform Harvey, Used by Over 200,000 Lawyers&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;finance.biggo.com&lt;/font&gt;",
-      "published": "2026-08-21T00:06:00.000Z",
+      "published": "2026-08-21T02:58:38.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
@@ -211,10 +199,10 @@
       "relevance_score": 7
     },
     {
-      "title": "The Legal AI Scaffold Changes Everything – Claude Study - Artificial Lawyer",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQU4tdGFPSGFaaGo0NGRvdnhxMUhYQ3pSd18td3lld2ZRd2xiQkVwWUQ0Z1lhR3IwdGstdE5STUVBTzdqdkxvbnhWUTVwZ0Y5MDNqT1hHV0RDUGVldzI5R2JrdEtaZ2NfYWNDVERjN1o5QWFqeGFTTEp6VDB1S19id3VoOUZUbzQ0eDdwNzJHNzdvYzRNWUh5cFV6UnhXOE0?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNQU4tdGFPSGFaaGo0NGRvdnhxMUhYQ3pSd18td3lld2ZRd2xiQkVwWUQ0Z1lhR3IwdGstdE5STUVBTzdqdkxvbnhWUTVwZ0Y5MDNqT1hHV0RDUGVldzI5R2JrdEtaZ2NfYWNDVERjN1o5QWFqeGFTTEp6VDB1S19id3VoOUZUbzQ0eDdwNzJHNzdvYzRNWUh5cFV6UnhXOE0?oc=5\" target=\"_blank\"&gt;The Legal AI Scaffold Changes Everything – Claude Study&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
-      "published": "2026-06-22T07:00:00.000Z",
+      "title": "DeepL Selected as Translation Engine for Legal AI Platform Harvey, Used by Over 200,000 Lawyers - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1nNEpLYlV3RmgxY1N3dVJCekVUM2NNbWJRWlFQSGVkdnNvdWZIUmN2RmliMlYwWDZGelRvYi1HVS10NkJGQ0VLdm1LVU9lVFgtTWpuTWlQVUcwRDk4eEpSUWFlRDVoM3FiMEF3N1hmc3ptNmh0aEE?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1nNEpLYlV3RmgxY1N3dVJCekVUM2NNbWJRWlFQSGVkdnNvdWZIUmN2RmliMlYwWDZGelRvYi1HVS10NkJGQ0VLdm1LVU9lVFgtTWpuTWlQVUcwRDk4eEpSUWFlRDVoM3FiMEF3N1hmc3ptNmh0aEE?oc=5\" target=\"_blank\"&gt;DeepL Selected as Translation Engine for Legal AI Platform Harvey, Used by Over 200,000 Lawyers&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;finance.biggo.com&lt;/font&gt;",
+      "published": "2026-08-21T00:06:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
@@ -451,6 +439,18 @@
       "relevance_score": 5
     },
     {
+      "title": "Legal AI group Wordsmith extends Series B with £10m boost - UKTN - UKTN",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOXF3ZGRDcllVTm9fU2hIU1NfeGRSNGU5WUJVZDdILXU4ODhhQ3RuNXFFVEVfN3VLRElCYXJXZlBES0d2YjBQRW9TRi1xOEpPNk4zZHZMczNfbXZENjFQZThRYXhUVFh2YWs4aTZQTTlEeHpkUXpIcVNqSHg3QXplbG4yRldCdWtMRHlaa1hfVXdXSHQzOTVLUE5xOA?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNOXF3ZGRDcllVTm9fU2hIU1NfeGRSNGU5WUJVZDdILXU4ODhhQ3RuNXFFVEVfN3VLRElCYXJXZlBES0d2YjBQRW9TRi1xOEpPNk4zZHZMczNfbXZENjFQZThRYXhUVFh2YWs4aTZQTTlEeHpkUXpIcVNqSHg3QXplbG4yRldCdWtMRHlaa1hfVXdXSHQzOTVLUE5xOA?oc=5\" target=\"_blank\"&gt;Legal AI group Wordsmith extends Series B with £10m boost - UKTN&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;UKTN&lt;/font&gt;",
+      "published": "2026-08-06T07:00:00.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 5
+    },
+    {
       "title": ":Harvey: Expands Collaboration with Microsoft on Legal AI - Harvey",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMFFnQ1ZFcTlDWXkzWnJMb0lURklNa2hMRXVEMmZ6dW9wYzFmaWJhUEdDRjVjYnA1RTRWZDF5cXlTZ2xQTjZ1QUlCNnJHa2tkcmYyRFpCNmg3dHFTR1llLUFLZG5yZjF1LWVIU3p3R1YzQW5ReW10WElLeG9xQWlyX3h5RXViYlY3b0E?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNMFFnQ1ZFcTlDWXkzWnJMb0lURklNa2hMRXVEMmZ6dW9wYzFmaWJhUEdDRjVjYnA1RTRWZDF5cXlTZ2xQTjZ1QUlCNnJHa2tkcmYyRFpCNmg3dHFTR1llLUFLZG5yZjF1LWVIU3p3R1YzQW5ReW10WElLeG9xQWlyX3h5RXViYlY3b0E?oc=5\" target=\"_blank\"&gt;:Harvey: Expands Collaboration with Microsoft on Legal AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
@@ -463,10 +463,10 @@
       "relevance_score": 5
     },
     {
-      "title": "Anthropic’s expansion of legal AI tools is good for lawyers, experts say - The Global Legal Post",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON29yWkx6TnprRmNac3lObVViVmxxRnMxYk00MjJFOFFLdDBJOWtDY1R6ckxWa0tFTWgxY0ZvVzJGR2x5T09rX0hOVE1xM1ZUbVdSMHBnUVpsSmI3X2JucUFIUUdoUlplaEFCbXdjTHhpblYyM09jNkZtNlh4SzZtamM2em5LX19SdElfWU1EMUxITUljZUdHLWRUbjRWVTd6U0JVWVItaG83N2VyYTdzWHJYb0N5QVRrSXc?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxON29yWkx6TnprRmNac3lObVViVmxxRnMxYk00MjJFOFFLdDBJOWtDY1R6ckxWa0tFTWgxY0ZvVzJGR2x5T09rX0hOVE1xM1ZUbVdSMHBnUVpsSmI3X2JucUFIUUdoUlplaEFCbXdjTHhpblYyM09jNkZtNlh4SzZtamM2em5LX19SdElfWU1EMUxITUljZUdHLWRUbjRWVTd6U0JVWVItaG83N2VyYTdzWHJYb0N5QVRrSXc?oc=5\" target=\"_blank\"&gt;Anthropic’s expansion of legal AI tools is good for lawyers, experts say&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Global Legal Post&lt;/font&gt;",
-      "published": "2026-05-26T07:00:00.000Z",
+      "title": "Harvey Legal AI Announce Firmwide Use of Software By Davis Wright Tremaine - LawFuel.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbEd4QWFna2dvcG5GRGZyMXI4NlE0Vk9ZbjctcGRZT0pxS1Uza1d1X214eEVQVDdWSnhEQ0RNLW5WelRhZC1LT3YySVNDZEMzekdKa1Ayb29tVmRENjZIWFlYWlVvek9XM3BCSHFzQ0ljYzFfc3UyeF9PVm1iRVpXNEpLV3ItUUhPcTdwMkl2SWJDOUlHLWd2cnFpa2NjVGV3?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPbEd4QWFna2dvcG5GRGZyMXI4NlE0Vk9ZbjctcGRZT0pxS1Uza1d1X214eEVQVDdWSnhEQ0RNLW5WelRhZC1LT3YySVNDZEMzekdKa1Ayb29tVmRENjZIWFlYWlVvek9XM3BCSHFzQ0ljYzFfc3UyeF9PVm1iRVpXNEpLV3ItUUhPcTdwMkl2SWJDOUlHLWd2cnFpa2NjVGV3?oc=5\" target=\"_blank\"&gt;Harvey Legal AI Announce Firmwide Use of Software By Davis Wright Tremaine&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;LawFuel.com&lt;/font&gt;",
+      "published": "2026-08-20T00:37:29.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
@@ -475,10 +475,10 @@
       "relevance_score": 5
     },
     {
-      "title": "Legal AI group Wordsmith extends Series B with £10m boost - UKTN - UKTN",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOXF3ZGRDcllVTm9fU2hIU1NfeGRSNGU5WUJVZDdILXU4ODhhQ3RuNXFFVEVfN3VLRElCYXJXZlBES0d2YjBQRW9TRi1xOEpPNk4zZHZMczNfbXZENjFQZThRYXhUVFh2YWs4aTZQTTlEeHpkUXpIcVNqSHg3QXplbG4yRldCdWtMRHlaa1hfVXdXSHQzOTVLUE5xOA?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNOXF3ZGRDcllVTm9fU2hIU1NfeGRSNGU5WUJVZDdILXU4ODhhQ3RuNXFFVEVfN3VLRElCYXJXZlBES0d2YjBQRW9TRi1xOEpPNk4zZHZMczNfbXZENjFQZThRYXhUVFh2YWs4aTZQTTlEeHpkUXpIcVNqSHg3QXplbG4yRldCdWtMRHlaa1hfVXdXSHQzOTVLUE5xOA?oc=5\" target=\"_blank\"&gt;Legal AI group Wordsmith extends Series B with £10m boost - UKTN&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;UKTN&lt;/font&gt;",
-      "published": "2026-08-06T07:00:00.000Z",
+      "title": "Litera Connects Contract Drafting and Negotiation in One Trusted Legal AI Workflow - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ0xMOVp6bGVRU3NVSUlkQmY1ZDVIS3g3U1c0N1J3TXpfUnZPYnFyaGRWOXd6d0E4bGFTNlFKN0FlMTRiREpsQ05fVm9UVzdmMHlSSmZfdFEydDZEblBaZkZGdElhWVptaG5IY2k5aGJ2RjQydnROZlpRREQxTDVSRDZTakNQMndUY3pHcGhjNzhacW9EOVhwaDc5ZDlOQkdwVkJ6c25kV09BcVM1UGc?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ0xMOVp6bGVRU3NVSUlkQmY1ZDVIS3g3U1c0N1J3TXpfUnZPYnFyaGRWOXd6d0E4bGFTNlFKN0FlMTRiREpsQ05fVm9UVzdmMHlSSmZfdFEydDZEblBaZkZGdElhWVptaG5IY2k5aGJ2RjQydnROZlpRREQxTDVSRDZTakNQMndUY3pHcGhjNzhacW9EOVhwaDc5ZDlOQkdwVkJ6c25kV09BcVM1UGc?oc=5\" target=\"_blank\"&gt;Litera Connects Contract Drafting and Negotiation in One Trusted Legal AI Workflow&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Yahoo Finance&lt;/font&gt;",
+      "published": "2026-08-18T12:01:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
