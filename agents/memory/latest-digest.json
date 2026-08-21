@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-21T22:11:28.392Z",
+  "generated": "2026-08-21T23:13:02.419Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 762,
+  "total_scanned": 761,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -103,18 +103,6 @@
       "relevance_score": 8
     },
     {
-      "title": "Vancouver, B.C.-based legal tech company Clio hits $5B valuation after acquiring vLex - GeekWire",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZDZQTjk5RERxN0wzYzNka1d4bXhBTzR5RWdfai1qRjBlaEpzVVhSaUdPRkZVeld4ai1mOXpwcTZnZFZ2eVp2ajd0RXBjMGUwcGlVaEhtR01fTU1KUF82cFQ1Z3VrQWV2N1dzWTViTHNPTFB6N08xZjNJbkhkbXBUMkZlWlNwQ3ZpOGFEakJ0cFhON0NDZ1c0dGI0RndUdTBtaFh0b1hNWk1mQWg2SVV1aVdrcw?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOZDZQTjk5RERxN0wzYzNka1d4bXhBTzR5RWdfai1qRjBlaEpzVVhSaUdPRkZVeld4ai1mOXpwcTZnZFZ2eVp2ajd0RXBjMGUwcGlVaEhtR01fTU1KUF82cFQ1Z3VrQWV2N1dzWTViTHNPTFB6N08xZjNJbkhkbXBUMkZlWlNwQ3ZpOGFEakJ0cFhON0NDZ1c0dGI0RndUdTBtaFh0b1hNWk1mQWg2SVV1aVdrcw?oc=5\" target=\"_blank\"&gt;Vancouver, B.C.-based legal tech company Clio hits $5B valuation after acquiring vLex&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;GeekWire&lt;/font&gt;",
-      "published": "2025-11-10T08:00:00.000Z",
-      "source_id": "google-news-legal-tech-funding",
-      "source_name": "Google News: legal tech funding",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 8
-    },
-    {
       "title": "EvenUp, AI Software For Personal Injury Law, Doubles Valuation To $2B As Legal Tech Funding Hits Record High - Crunchbase News",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY2p6WWxfeE1ZZDJxQXJPOWtrR2VZdkxlSkFtck03QWJtOU1YcGtHUFBlZllXMXkxeXRlcHhfZU9vR0VMU1JUS0FYMGNUSXZ0UnVRSU5YRVZuWERkU29MVFYzYjNtdHN6OUZGU3JlNWpLcDI3eTRwam5fVkhUSzU2WFdtX0daQUNseG50YzRpTQ?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQY2p6WWxfeE1ZZDJxQXJPOWtrR2VZdkxlSkFtck03QWJtOU1YcGtHUFBlZllXMXkxeXRlcHhfZU9vR0VMU1JUS0FYMGNUSXZ0UnVRSU5YRVZuWERkU29MVFYzYjNtdHN6OUZGU3JlNWpLcDI3eTRwam5fVkhUSzU2WFdtX0daQUNseG50YzRpTQ?oc=5\" target=\"_blank\"&gt;EvenUp, AI Software For Personal Injury Law, Doubles Valuation To $2B As Legal Tech Funding Hits Record High&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Crunchbase News&lt;/font&gt;",
@@ -175,6 +163,18 @@
       "relevance_score": 8
     },
     {
+      "title": "Pre-ILTACON Legaltech Rundown: NetDocuments Announces New AI Tools, DISCO Launches Agentic E-Discovery Tool, and More - Law.com",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQaHBlRnRndWtmcWJjR0o0TlBHaGd6WU42dXRibFZiWnJiQm5neU5CUlhzeFpSLWxhMmJ0RFVOVnZIZWNoQ0ZVLTNGSjVaMkFvZFV4MEh6VFlLSHZjeU5UcTEwX3Y5WDV1YVFZNmZaMkFzc0NyWjk2NVlQNlMtVEZmaWFpRlVpSnk3dm45VHJ0a3pFQkpfY3VJMEFodWpMb3o0OUlnNGRmMDhkXzFxNVBNdlBpRGo4VVR3bV8xeXBiSzBYb09yWEJWY2l1MkVURGVlTlRQN2Qzbk5NMVNWZmZPNWJCRldPWGRUN0RrWGRpSjU5RWs?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxQaHBlRnRndWtmcWJjR0o0TlBHaGd6WU42dXRibFZiWnJiQm5neU5CUlhzeFpSLWxhMmJ0RFVOVnZIZWNoQ0ZVLTNGSjVaMkFvZFV4MEh6VFlLSHZjeU5UcTEwX3Y5WDV1YVFZNmZaMkFzc0NyWjk2NVlQNlMtVEZmaWFpRlVpSnk3dm45VHJ0a3pFQkpfY3VJMEFodWpMb3o0OUlnNGRmMDhkXzFxNVBNdlBpRGo4VVR3bV8xeXBiSzBYb09yWEJWY2l1MkVURGVlTlRQN2Qzbk5NMVNWZmZPNWJCRldPWGRUN0RrWGRpSjU5RWs?oc=5\" target=\"_blank\"&gt;Pre-ILTACON Legaltech Rundown: NetDocuments Announces New AI Tools, DISCO Launches Agentic E-D",
+      "published": "2026-08-21T16:30:53.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 7
+    },
+    {
       "title": "The Legal AI Scaffold Changes Everything – Claude Study - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQU4tdGFPSGFaaGo0NGRvdnhxMUhYQ3pSd18td3lld2ZRd2xiQkVwWUQ0Z1lhR3IwdGstdE5STUVBTzdqdkxvbnhWUTVwZ0Y5MDNqT1hHV0RDUGVldzI5R2JrdEtaZ2NfYWNDVERjN1o5QWFqeGFTTEp6VDB1S19id3VoOUZUbzQ0eDdwNzJHNzdvYzRNWUh5cFV6UnhXOE0?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNQU4tdGFPSGFaaGo0NGRvdnhxMUhYQ3pSd18td3lld2ZRd2xiQkVwWUQ0Z1lhR3IwdGstdE5STUVBTzdqdkxvbnhWUTVwZ0Y5MDNqT1hHV0RDUGVldzI5R2JrdEtaZ2NfYWNDVERjN1o5QWFqeGFTTEp6VDB1S19id3VoOUZUbzQ0eDdwNzJHNzdvYzRNWUh5cFV6UnhXOE0?oc=5\" target=\"_blank\"&gt;The Legal AI Scaffold Changes Everything – Claude Study&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
@@ -196,18 +196,6 @@
       "source_priority": "medium",
       "source_tier": "A",
       "source_category": "Aggregator",
-      "relevance_score": 7
-    },
-    {
-      "title": "5 Interesting Startup Deals You May Have Missed: AI For Everything From Recycling To Breathing To Winning Construction Bids",
-      "url": "https://news.crunchbase.com/ai/interesting-startup-deals-ai-recycling-robotics-healthcare-data/",
-      "summary": "This month’s installment of this column is all AI, though applications for the technology range widely, from two startups that apply AI to trash or recycling, to another that promises to help people breathe and sleep better, to a company that says its AI can help architects and builders spot commercial projects before they’re even announced.",
-      "published": "2026-08-21T11:00:42.000Z",
-      "source_id": "crunchbase-news",
-      "source_name": "Crunchbase News",
-      "source_priority": "high",
-      "source_tier": "A",
-      "source_category": "Funding / M&A",
       "relevance_score": 7
     },
     {
@@ -235,6 +223,18 @@
       "relevance_score": 6
     },
     {
+      "title": "LexisNexis Opens Customer Innovation Lab, Rebuilding How Legal AI Gets Shipped - Legal Reader",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMDc3TWkwRlIyUUJJblgxcVZuS0lpX3NzNkFTNk1YWGhXaWFNR3RJd0Z5X3FaSE5hSWNHSWNtbDU0OGtZTk54UE9vc3dPSEpPcmpjN2xPczh3RDRxTW1BNndVcGlPbGxwVmVQaTRHbTZtWVp2NnF2NzBMWWZRVHl3UDJjNHpJN282X3VFTWFJOU5EOEh0LXB1YVU2YWNGQWsteGNYVFNvczdYUQ?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMDc3TWkwRlIyUUJJblgxcVZuS0lpX3NzNkFTNk1YWGhXaWFNR3RJd0Z5X3FaSE5hSWNHSWNtbDU0OGtZTk54UE9vc3dPSEpPcmpjN2xPczh3RDRxTW1BNndVcGlPbGxwVmVQaTRHbTZtWVp2NnF2NzBMWWZRVHl3UDJjNHpJN282X3VFTWFJOU5EOEh0LXB1YVU2YWNGQWsteGNYVFNvczdYUQ?oc=5\" target=\"_blank\"&gt;LexisNexis Opens Customer Innovation Lab, Rebuilding How Legal AI Gets Shipped&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Legal Reader&lt;/font&gt;",
+      "published": "2026-08-21T20:48:45.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
+    },
+    {
       "title": "DeepL Selected as Translation Engine for Legal AI Platform Harvey, Used by Over 200,000 Lawyers - finance.biggo.com",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1nNEpLYlV3RmgxY1N3dVJCekVUM2NNbWJRWlFQSGVkdnNvdWZIUmN2RmliMlYwWDZGelRvYi1HVS10NkJGQ0VLdm1LVU9lVFgtTWpuTWlQVUcwRDk4eEpSUWFlRDVoM3FiMEF3N1hmc3ptNmh0aEE?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1nNEpLYlV3RmgxY1N3dVJCekVUM2NNbWJRWlFQSGVkdnNvdWZIUmN2RmliMlYwWDZGelRvYi1HVS10NkJGQ0VLdm1LVU9lVFgtTWpuTWlQVUcwRDk4eEpSUWFlRDVoM3FiMEF3N1hmc3ptNmh0aEE?oc=5\" target=\"_blank\"&gt;DeepL Selected as Translation Engine for Legal AI Platform Harvey, Used by Over 200,000 Lawyers&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;finance.biggo.com&lt;/font&gt;",
@@ -247,10 +247,10 @@
       "relevance_score": 6
     },
     {
-      "title": "LexisNexis Opens Customer Innovation Lab, Rebuilding How Legal AI Gets Shipped - Legal Reader",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMDc3TWkwRlIyUUJJblgxcVZuS0lpX3NzNkFTNk1YWGhXaWFNR3RJd0Z5X3FaSE5hSWNHSWNtbDU0OGtZTk54UE9vc3dPSEpPcmpjN2xPczh3RDRxTW1BNndVcGlPbGxwVmVQaTRHbTZtWVp2NnF2NzBMWWZRVHl3UDJjNHpJN282X3VFTWFJOU5EOEh0LXB1YVU2YWNGQWsteGNYVFNvczdYUQ?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMDc3TWkwRlIyUUJJblgxcVZuS0lpX3NzNkFTNk1YWGhXaWFNR3RJd0Z5X3FaSE5hSWNHSWNtbDU0OGtZTk54UE9vc3dPSEpPcmpjN2xPczh3RDRxTW1BNndVcGlPbGxwVmVQaTRHbTZtWVp2NnF2NzBMWWZRVHl3UDJjNHpJN282X3VFTWFJOU5EOEh0LXB1YVU2YWNGQWsteGNYVFNvczdYUQ?oc=5\" target=\"_blank\"&gt;LexisNexis Opens Customer Innovation Lab, Rebuilding How Legal AI Gets Shipped&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Legal Reader&lt;/font&gt;",
-      "published": "2026-08-21T20:48:45.000Z",
+      "title": "CMC OpenAI showcases legal AI capabilities at ASEAN Law Forum - Báo VietNamNet",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON0dmSlhtSU5QUUJVTjA3NnI4WXhuYncxektVQm1Pd3JkcWVnd2doYzc4Y0U1RGFDaURkWXBTNEdYbzVHLUx6di15LWtTSE9jMjZ0WklsWTQ1bldfSGZ0d3c5U0o5RGl0Y2lnSFJiMG5JVmJGQVpLT3pRdkxnb3loUWkzV05Ra1ZlMTNYcUJnT0FhUkc4QWVOSmpzeERHV1dQ?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxON0dmSlhtSU5QUUJVTjA3NnI4WXhuYncxektVQm1Pd3JkcWVnd2doYzc4Y0U1RGFDaURkWXBTNEdYbzVHLUx6di15LWtTSE9jMjZ0WklsWTQ1bldfSGZ0d3c5U0o5RGl0Y2lnSFJiMG5JVmJGQVpLT3pRdkxnb3loUWkzV05Ra1ZlMTNYcUJnT0FhUkc4QWVOSmpzeERHV1dQ?oc=5\" target=\"_blank\"&gt;CMC OpenAI showcases legal AI capabilities at ASEAN Law Forum&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Báo VietNamNet&lt;/font&gt;",
+      "published": "2026-08-21T07:00:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
@@ -391,6 +391,42 @@
       "relevance_score": 6
     },
     {
+      "title": "Scott Stevenson, CEO Of Spellbook, On Building Cursor For Contracts - Smartkarma",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDN2xaaUlQdTZrbnJoX1hxUHdVenp3N1o3eTRId2ZnRkM2THV4N1VKdjZ3S2xWU3BrVmpqSXM0b09VMS1HWk5fVkpIaXgzSUdUdTBzMw?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDN2xaaUlQdTZrbnJoX1hxUHdVenp3N1o3eTRId2ZnRkM2THV4N1VKdjZ3S2xWU3BrVmpqSXM0b09VMS1HWk5fVkpIaXgzSUdUdTBzMw?oc=5\" target=\"_blank\"&gt;Scott Stevenson, CEO Of Spellbook, On Building Cursor For Contracts&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Smartkarma&lt;/font&gt;",
+      "published": "2026-03-26T07:00:00.000Z",
+      "source_id": "google-news-contract-ai",
+      "source_name": "Google News: contract AI",
+      "source_priority": "medium",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
+    },
+    {
+      "title": "DraftWise Leverages Cohere, Will Keep Narrow Focus - Artificial Lawyer",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPc19yRHo2cFVHQ2NiYWhEc1ByYm1jYWdnVnVEVW1VMDRpdFNfNzFHaWpJRS1Rd1V2Y0ZVQVlvS0ZudnJGa2ZLZUFqY09nS2dkY0RYbV9aLVVObVVBaHNJanhKOWxWS05KOFZjaEtKZlUtaUd4bDBPWk9iaDFHQTNfamtyeTAya3NyRnkzbGhkVDNZYjlIa0NlN1l3?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPc19yRHo2cFVHQ2NiYWhEc1ByYm1jYWdnVnVEVW1VMDRpdFNfNzFHaWpJRS1Rd1V2Y0ZVQVlvS0ZudnJGa2ZLZUFqY09nS2dkY0RYbV9aLVVObVVBaHNJanhKOWxWS05KOFZjaEtKZlUtaUd4bDBPWk9iaDFHQTNfamtyeTAya3NyRnkzbGhkVDNZYjlIa0NlN1l3?oc=5\" target=\"_blank\"&gt;DraftWise Leverages Cohere, Will Keep Narrow Focus&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
+      "published": "2024-10-09T07:00:00.000Z",
+      "source_id": "google-news-contract-ai",
+      "source_name": "Google News: contract AI",
+      "source_priority": "medium",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
+    },
+    {
+      "title": "5 Interesting Startup Deals You May Have Missed: AI For Everything From Recycling To Breathing To Winning Construction Bids",
+      "url": "https://news.crunchbase.com/ai/interesting-startup-deals-ai-recycling-robotics-healthcare-data/",
+      "summary": "This month’s installment of this column is all AI, though applications for the technology range widely, from two startups that apply AI to trash or recycling, to another that promises to help people breathe and sleep better, to a company that says its AI can help architects and builders spot commercial projects before they’re even announced.",
+      "published": "2026-08-21T11:00:42.000Z",
+      "source_id": "crunchbase-news",
+      "source_name": "Crunchbase News",
+      "source_priority": "high",
+      "source_tier": "A",
+      "source_category": "Funding / M&A",
+      "relevance_score": 6
+    },
+    {
       "title": "Big AI v Big Law — Jude Law, Harvey Specter and why the legal AI arms race is only just beginning - Law Society of Scotland",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQT2dndHk0NjZaYkQwdjF5Sy1KN2doNzRSc3Q1anFiOVJRc3RxME81NURrOGt3WjNsbVVzNVlnQ1NaUmZBT0J4ajlYOS1CemoyRWJpY1p1RTJQODVHQ0xwZ09EUzZFYzVUUlhOckROTG1EOWVTR3MycFdXVXlkUXRyUUIxaFBseXEydlVkNkg2MHVMcVVvLURHS3U4Z0loZ2wwLWNfUlpOSlhuemNYVUcwelNDVkd6M08zUExNN2RkTWpObWJkZ0d0c0lmQUM5bGJMbWQ2Uzk3M3d6SWw0VUhxaF9ZdzZjZw?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQT2dndHk0NjZaYkQwdjF5Sy1KN2doNzRSc3Q1anFiOVJRc3RxME81NURrOGt3WjNsbVVzNVlnQ1NaUmZBT0J4ajlYOS1CemoyRWJpY1p1RTJQODVHQ0xwZ09EUzZFYzVUUlhOckROTG1EOWVTR3MycFdXVXlkUXRyUUIxaFBseXEydlVkNkg2MHVMcVVvLURHS3U4Z0loZ2wwLWNfUlpOSlhuemNYVUcwelNDVkd6M08zUExNN2RkTWpObWJkZ0d0c0lmQUM5bGJMbWQ2Uzk3M3d6SWw0VUhxaF9ZdzZjZw?oc=5\" target=\"_blank\"&gt;Big AI v Big Law — Jude Law, Harvey Specter and why the legal AI arms race is only just beginning&lt;/a&gt;&amp",
@@ -443,42 +479,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0MDNmd3hrc3ZLVUV5VWJPWFVWZWNWZl9JUGZpLTJwZFpIc04yaWFIRnQweEYzanBSQW5weDJQT0YyS0k1UGZua0NLTTk1Y19TWlhBeGdFQnQ0MjhubWhiZg?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0MDNmd3hrc3ZLVUV5VWJPWFVWZWNWZl9JUGZpLTJwZFpIc04yaWFIRnQweEYzanBSQW5weDJQT0YyS0k1UGZua0NLTTk1Y19TWlhBeGdFQnQ0MjhubWhiZg?oc=5\" target=\"_blank\"&gt;Why Attorney Oversight Builds Trust for Legal AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
       "published": "2026-08-16T02:51:32.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 5
-    },
-    {
-      "title": ":Harvey: Named Official Legal AI Partner of the New York Liberty - Harvey",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSFFhOTdvTGRDb3pkZGdnTUJwS0VFSGczX0lnNkFWM0RGaksydTBXdWFITHFBU1ZYTzRyWDFlMy1jNEwwTGZLNUNFTG9VRXZqYXE5ZHo2MHZ0ZjN1ekRzWXlRX2RzTzE4bVpLR1dLV3AzR0lTbXNpcllpS3Fyc2ljUTNQenI1MEVsSUF1cTVXR3JQdHdYLThQNXlZbw?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPSFFhOTdvTGRDb3pkZGdnTUJwS0VFSGczX0lnNkFWM0RGaksydTBXdWFITHFBU1ZYTzRyWDFlMy1jNEwwTGZLNUNFTG9VRXZqYXE5ZHo2MHZ0ZjN1ekRzWXlRX2RzTzE4bVpLR1dLV3AzR0lTbXNpcllpS3Fyc2ljUTNQenI1MEVsSUF1cTVXR3JQdHdYLThQNXlZbw?oc=5\" target=\"_blank\"&gt;:Harvey: Named Official Legal AI Partner of the New York Liberty&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
-      "published": "2026-08-18T20:06:52.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 5
-    },
-    {
-      "title": ":Harvey: Expands Collaboration with Microsoft on Legal AI - Harvey",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMFFnQ1ZFcTlDWXkzWnJMb0lURklNa2hMRXVEMmZ6dW9wYzFmaWJhUEdDRjVjYnA1RTRWZDF5cXlTZ2xQTjZ1QUlCNnJHa2tkcmYyRFpCNmg3dHFTR1llLUFLZG5yZjF1LWVIU3p3R1YzQW5ReW10WElLeG9xQWlyX3h5RXViYlY3b0E?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNMFFnQ1ZFcTlDWXkzWnJMb0lURklNa2hMRXVEMmZ6dW9wYzFmaWJhUEdDRjVjYnA1RTRWZDF5cXlTZ2xQTjZ1QUlCNnJHa2tkcmYyRFpCNmg3dHFTR1llLUFLZG5yZjF1LWVIU3p3R1YzQW5ReW10WElLeG9xQWlyX3h5RXViYlY3b0E?oc=5\" target=\"_blank\"&gt;:Harvey: Expands Collaboration with Microsoft on Legal AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
-      "published": "2026-07-23T07:00:00.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 5
-    },
-    {
-      "title": "Anthropic’s expansion of legal AI tools is good for lawyers, experts say - The Global Legal Post",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON29yWkx6TnprRmNac3lObVViVmxxRnMxYk00MjJFOFFLdDBJOWtDY1R6ckxWa0tFTWgxY0ZvVzJGR2x5T09rX0hOVE1xM1ZUbVdSMHBnUVpsSmI3X2JucUFIUUdoUlplaEFCbXdjTHhpblYyM09jNkZtNlh4SzZtamM2em5LX19SdElfWU1EMUxITUljZUdHLWRUbjRWVTd6U0JVWVItaG83N2VyYTdzWHJYb0N5QVRrSXc?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxON29yWkx6TnprRmNac3lObVViVmxxRnMxYk00MjJFOFFLdDBJOWtDY1R6ckxWa0tFTWgxY0ZvVzJGR2x5T09rX0hOVE1xM1ZUbVdSMHBnUVpsSmI3X2JucUFIUUdoUlplaEFCbXdjTHhpblYyM09jNkZtNlh4SzZtamM2em5LX19SdElfWU1EMUxITUljZUdHLWRUbjRWVTd6U0JVWVItaG83N2VyYTdzWHJYb0N5QVRrSXc?oc=5\" target=\"_blank\"&gt;Anthropic’s expansion of legal AI tools is good for lawyers, experts say&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Global Legal Post&lt;/font&gt;",
-      "published": "2026-05-26T07:00:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
