@@ -4107,7 +4107,56 @@
       "status": "pending",
       "claimed_by": null,
       "claimed_at": null
+    },
+    {
+      "title": "Revealed: MoJ’s ‘stealth’ plan to seize client account interest",
+      "slug": "revealed-moj-s-stealth-plan-to-seize-client-account-interest",
+      "score": 9,
+      "category": "Regulatory",
+      "story_type": "news",
+      "research_brief": "Law Society ’disappointed to see the MoJ advertising a role that appears to indicate the ILCA scheme is moving ahead despite near-universal opposition’.",
+      "primary_source": "https://www.lawgazette.co.uk/news/revealed-mojs-stealth-plan-to-seize-client-account-interest/5127734.article",
+      "primary_source_verified": false,
+      "additional_sources": [],
+      "key_facts": [],
+      "suggested_angle": "MoJ moves ahead with controversial client account interest scheme despite profession's opposition",
+      "why_now": "Direct reporting from the Law Society Gazette on a major, contested MoJ policy shift affecting UK solicitor client accounts.",
+      "existing_coverage": "Triage could not check existing coverage. Editor should scan recent coverage list.",
+      "verification_notes": "Triage did not verify claims. Verifier must confirm all factual assertions before staging.",
+      "serves_50_percent_rule": null,
+      "fifty_percent_note": "",
+      "estimated_staging": "amber",
+      "source_name": "Law Society Gazette",
+      "source_tier": "B",
+      "prefilter_score": 10,
+      "matched_terms": [
+        "Eve"
+      ],
+      "fingerprint": {
+        "entities": [
+          "eve",
+          "law society",
+          "ministry of justice"
+        ],
+        "numerics": [],
+        "keywords": [],
+        "title_tokens": [
+          "revealed",
+          "stealth",
+          "plan",
+          "seize",
+          "client",
+          "account",
+          "interest"
+        ]
+      },
+      "triage_verdict": "enqueue",
+      "triage_run": "2026-08-21T18:28:49.173Z",
+      "queued_at": "2026-08-21T18:28:49.177Z",
+      "status": "pending",
+      "claimed_by": null,
+      "claimed_at": null
     }
   ],
-  "last_updated": "2026-08-20T18:31:11.341Z"
+  "last_updated": "2026-08-21T18:28:49.177Z"
 }
