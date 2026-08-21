@@ -1,15 +1,56 @@
 {
-  "generated": "2026-08-21T00:35:24.743Z",
+  "generated": "2026-08-21T00:58:39.634Z",
   "cycle_type": "triage",
-  "shortlist_size": 0,
-  "picks": [],
+  "tier_filter": "B",
+  "shortlist_size": 3,
   "prefilter": {
     "total": 40,
-    "accepted": 0,
-    "borderline": 0,
-    "rejected": 40,
-    "rejected_as_duplicate": 40,
-    "accept_rate": 0
+    "accepted": 15,
+    "borderline": 1,
+    "rejected": 24,
+    "rejected_as_duplicate": 24,
+    "accept_rate": 38
   },
-  "skipped_already_triaged": 0
+  "model": "gemini-flash-lite-latest",
+  "picks": [
+    {
+      "id": "legal-futures-0",
+      "score": 3,
+      "category": "Regulatory",
+      "suggested_angle": "Board member departure at Legal Aid Agency amid whistleblower controversy.",
+      "why_now": "General legal administration news with no connection to legal AI or tech regulation.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "above-the-law-legaltech-1",
+      "score": 2,
+      "category": "Social",
+      "suggested_angle": "Publishing guide for legal professionals.",
+      "why_now": "Generic career/writing advice with no legal tech or AI relevance despite prefilter keyword match.",
+      "verdict": "drop",
+      "duplicate_of": null
+    },
+    {
+      "id": "legal-futures-2",
+      "score": 4,
+      "category": "Regulatory",
+      "suggested_angle": "SRA strikes off firm owner over £450k Compensation Fund payout.",
+      "why_now": "Standard SRA disciplinary action, lacks any AI, legal tech, or broader regulatory policy angle for our publication.",
+      "verdict": "drop",
+      "duplicate_of": null
+    }
+  ],
+  "summary": {
+    "enqueue_count": 0,
+    "watch_count": 0,
+    "drop_count": 3,
+    "notes": "None of the shortlisted items meet our legal AI, tech, or targeted regulatory focus; all dropped."
+  },
+  "enqueued": 0,
+  "usage": {
+    "input_tokens": 2478,
+    "output_tokens": 374,
+    "total_tokens": 2852
+  }
 }
