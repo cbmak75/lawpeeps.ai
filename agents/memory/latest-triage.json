@@ -1,47 +1,15 @@
 {
-  "generated": "2026-08-22T00:55:10.659Z",
+  "generated": "2026-08-22T02:07:43.422Z",
   "cycle_type": "triage",
-  "tier_filter": "B",
-  "shortlist_size": 2,
+  "shortlist_size": 0,
+  "picks": [],
   "prefilter": {
     "total": 40,
-    "accepted": 17,
+    "accepted": 0,
     "borderline": 0,
-    "rejected": 23,
-    "rejected_as_duplicate": 23,
-    "accept_rate": 43
+    "rejected": 40,
+    "rejected_as_duplicate": 40,
+    "accept_rate": 0
   },
-  "model": "gemini-flash-lite-latest",
-  "picks": [
-    {
-      "id": "hacker-news-0",
-      "score": 2,
-      "category": "Social",
-      "suggested_angle": "N/A",
-      "why_now": "Too general to software engineering and developer tooling, lacks a specific legal or professional services angle.",
-      "verdict": "drop",
-      "duplicate_of": null
-    },
-    {
-      "id": "hacker-news-1",
-      "score": 5,
-      "category": "Research",
-      "suggested_angle": "SSRN paper explores broader wage and labor market impacts of generative AI.",
-      "why_now": "Academic working paper on generative AI labor market effects, but lacks direct focus on the legal sector or legal tech economics.",
-      "verdict": "watch",
-      "duplicate_of": null
-    }
-  ],
-  "summary": {
-    "enqueue_count": 0,
-    "watch_count": 1,
-    "drop_count": 1,
-    "notes": "Neither item meets the strict legal AI editorial threshold for immediate enqueuing; one general academic paper kept on watch."
-  },
-  "enqueued": 0,
-  "usage": {
-    "input_tokens": 2353,
-    "output_tokens": 277,
-    "total_tokens": 2630
-  }
+  "skipped_already_triaged": 0
 }
