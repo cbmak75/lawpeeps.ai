@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-22T21:11:03.229Z",
+  "generated": "2026-08-22T22:09:54.684Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 762,
+  "total_scanned": 763,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -334,7 +334,7 @@
       "title": "Scott Stevenson, CEO Of Spellbook, On Building Cursor For Contracts - Smartkarma",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDN2xaaUlQdTZrbnJoX1hxUHdVenp3N1o3eTRId2ZnRkM2THV4N1VKdjZ3S2xWU3BrVmpqSXM0b09VMS1HWk5fVkpIaXgzSUdUdTBzMw?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDN2xaaUlQdTZrbnJoX1hxUHdVenp3N1o3eTRId2ZnRkM2THV4N1VKdjZ3S2xWU3BrVmpqSXM0b09VMS1HWk5fVkpIaXgzSUdUdTBzMw?oc=5\" target=\"_blank\"&gt;Scott Stevenson, CEO Of Spellbook, On Building Cursor For Contracts&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Smartkarma&lt;/font&gt;",
-      "published": "2026-03-26T07:00:00.000Z",
+      "published": "2026-03-27T07:00:00.000Z",
       "source_id": "google-news-contract-ai",
       "source_name": "Google News: contract AI",
       "source_priority": "medium",
