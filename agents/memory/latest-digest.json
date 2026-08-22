@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-22T22:09:54.684Z",
+  "generated": "2026-08-22T23:09:34.371Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 763,
+  "total_scanned": 764,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -55,18 +55,6 @@
       "relevance_score": 8
     },
     {
-      "title": "Irish co-founded legal AI startup Wordsmith raises $70m - Irish Legal News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMEZUVFoxTWF1a01MYi05c0pZSVZRT0ZGTnNrcWw3SmYtMlNJbDEyMkxCYkJTclBpTzVQOWR5bEdQVEVEbGNiemh1UHdDbmtfQVVseV9ITkpnNW1lUXJ5VlNhWXhSV2dzdjg2bG0tSHZ5M2pPbWtQSXFETkk4MFpubVVqMlBWVXNCTjRCODdXckVYTElG?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNMEZUVFoxTWF1a01MYi05c0pZSVZRT0ZGTnNrcWw3SmYtMlNJbDEyMkxCYkJTclBpTzVQOWR5bEdQVEVEbGNiemh1UHdDbmtfQVVseV9ITkpnNW1lUXJ5VlNhWXhSV2dzdjg2bG0tSHZ5M2pPbWtQSXFETkk4MFpubVVqMlBWVXNCTjRCODdXckVYTElG?oc=5\" target=\"_blank\"&gt;Irish co-founded legal AI startup Wordsmith raises $70m&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Irish Legal News&lt;/font&gt;",
-      "published": "2026-06-05T07:00:00.000Z",
-      "source_id": "google-news-legal-tech-funding",
-      "source_name": "Google News: legal tech funding",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 8
-    },
-    {
       "title": "Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook partners with CBA; DeepIP raises $25m - Legal IT Insider",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcXJGTU9ucEc1azNNOTZ3eWI1dldHblpjS0lIdG9jTy1YSE1SSEdlWXlqa041bzd4R052ckZLZG1TQnh6eUE1bFhEV0FyYlFndF84Z1hTczZXZ0IzOVRoMF9jWHhkMXp2X2tjenNUMktCZWM1eVlvM0tjZEpvX2ZoeUpaTUN5UTZUaDJEWWdvVDFJZWpGYTZiQV8ycEc1dEJRMTJCWktEV3IwX3FoX1F6cFk5dkJ1VUtHaURCWmlBTUpTcFRJQVk3cmYxODlsMEpjQnRMdHkwLWNoR1lzT01jRmJlSjJwdw?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcXJGTU9ucEc1azNNOTZ3eWI1dldHblpjS0lIdG9jTy1YSE1SSEdlWXlqa041bzd4R052ckZLZG1TQnh6eUE1bFhEV0FyYlFndF84Z1hTczZXZ0IzOVRoMF9jWHhkMXp2X2tjenNUMktCZWM1eVlvM0tjZEpvX2ZoeUpaTUN5UTZUaDJEWWdvVDFJZWpGYTZiQV8ycEc1dEJRMTJCWktEV3IwX3FoX1F6cFk5dkJ1VUtHaURCWmlBTUpTcFRJQVk3cmYxODlsMEpjQnRMdHkwLWNoR1lzT01jRmJlSjJwdw?oc=5\" target=\"_blank\"&gt;Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook partners with CBA; De",
@@ -79,10 +67,46 @@
       "relevance_score": 8
     },
     {
+      "title": "Irish co-founded legal AI startup Wordsmith raises $70m - Irish Legal News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMEZUVFoxTWF1a01MYi05c0pZSVZRT0ZGTnNrcWw3SmYtMlNJbDEyMkxCYkJTclBpTzVQOWR5bEdQVEVEbGNiemh1UHdDbmtfQVVseV9ITkpnNW1lUXJ5VlNhWXhSV2dzdjg2bG0tSHZ5M2pPbWtQSXFETkk4MFpubVVqMlBWVXNCTjRCODdXckVYTElG?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNMEZUVFoxTWF1a01MYi05c0pZSVZRT0ZGTnNrcWw3SmYtMlNJbDEyMkxCYkJTclBpTzVQOWR5bEdQVEVEbGNiemh1UHdDbmtfQVVseV9ITkpnNW1lUXJ5VlNhWXhSV2dzdjg2bG0tSHZ5M2pPbWtQSXFETkk4MFpubVVqMlBWVXNCTjRCODdXckVYTElG?oc=5\" target=\"_blank\"&gt;Irish co-founded legal AI startup Wordsmith raises $70m&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Irish Legal News&lt;/font&gt;",
+      "published": "2026-06-05T07:00:00.000Z",
+      "source_id": "google-news-legal-tech-funding",
+      "source_name": "Google News: legal tech funding",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 8
+    },
+    {
       "title": "Why legal tech giant Harvey is raising cash like OpenAI - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaDhOaTN1RzVmZmxWa1U2TTZyTW9ucXRjZjU2RHUzT0RoMTJQb1BvZ1hpbUgwTUFZS3U5UHV1R21abHdrRDR3cFlWTC1SY3J2WUN1YWlwSlY0Y0VpVjVYSXV2dk93YjhuU0NXYTE5QnBiVHF5bHVLRHdWbzMxdVB3MU0zMFh1TzF0U1JmOA?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQaDhOaTN1RzVmZmxWa1U2TTZyTW9ucXRjZjU2RHUzT0RoMTJQb1BvZ1hpbUgwTUFZS3U5UHV1R21abHdrRDR3cFlWTC1SY3J2WUN1YWlwSlY0Y0VpVjVYSXV2dk93YjhuU0NXYTE5QnBiVHF5bHVLRHdWbzMxdVB3MU0zMFh1TzF0U1JmOA?oc=5\" target=\"_blank\"&gt;Why legal tech giant Harvey is raising cash like OpenAI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Business Insider&lt;/font&gt;",
       "published": "2026-03-26T07:00:00.000Z",
+      "source_id": "google-news-legal-tech-funding",
+      "source_name": "Google News: legal tech funding",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 8
+    },
+    {
+      "title": "Vancouver, B.C.-based legal tech company Clio hits $5B valuation after acquiring vLex - GeekWire",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZDZQTjk5RERxN0wzYzNka1d4bXhBTzR5RWdfai1qRjBlaEpzVVhSaUdPRkZVeld4ai1mOXpwcTZnZFZ2eVp2ajd0RXBjMGUwcGlVaEhtR01fTU1KUF82cFQ1Z3VrQWV2N1dzWTViTHNPTFB6N08xZjNJbkhkbXBUMkZlWlNwQ3ZpOGFEakJ0cFhON0NDZ1c0dGI0RndUdTBtaFh0b1hNWk1mQWg2SVV1aVdrcw?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOZDZQTjk5RERxN0wzYzNka1d4bXhBTzR5RWdfai1qRjBlaEpzVVhSaUdPRkZVeld4ai1mOXpwcTZnZFZ2eVp2ajd0RXBjMGUwcGlVaEhtR01fTU1KUF82cFQ1Z3VrQWV2N1dzWTViTHNPTFB6N08xZjNJbkhkbXBUMkZlWlNwQ3ZpOGFEakJ0cFhON0NDZ1c0dGI0RndUdTBtaFh0b1hNWk1mQWg2SVV1aVdrcw?oc=5\" target=\"_blank\"&gt;Vancouver, B.C.-based legal tech company Clio hits $5B valuation after acquiring vLex&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;GeekWire&lt;/font&gt;",
+      "published": "2025-11-10T08:00:00.000Z",
+      "source_id": "google-news-legal-tech-funding",
+      "source_name": "Google News: legal tech funding",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 8
+    },
+    {
+      "title": "EvenUp, AI Software For Personal Injury Law, Doubles Valuation To $2B As Legal Tech Funding Hits Record High - Crunchbase News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY2p6WWxfeE1ZZDJxQXJPOWtrR2VZdkxlSkFtck03QWJtOU1YcGtHUFBlZllXMXkxeXRlcHhfZU9vR0VMU1JUS0FYMGNUSXZ0UnVRSU5YRVZuWERkU29MVFYzYjNtdHN6OUZGU3JlNWpLcDI3eTRwam5fVkhUSzU2WFdtX0daQUNseG50YzRpTQ?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQY2p6WWxfeE1ZZDJxQXJPOWtrR2VZdkxlSkFtck03QWJtOU1YcGtHUFBlZllXMXkxeXRlcHhfZU9vR0VMU1JUS0FYMGNUSXZ0UnVRSU5YRVZuWERkU29MVFYzYjNtdHN6OUZGU3JlNWpLcDI3eTRwam5fVkhUSzU2WFdtX0daQUNseG50YzRpTQ?oc=5\" target=\"_blank\"&gt;EvenUp, AI Software For Personal Injury Law, Doubles Valuation To $2B As Legal Tech Funding Hits Record High&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Crunchbase News&lt;/font&gt;",
+      "published": "2025-10-07T07:00:00.000Z",
       "source_id": "google-news-legal-tech-funding",
       "source_name": "Google News: legal tech funding",
       "source_priority": "critical",
@@ -149,18 +173,6 @@
       "source_tier": "A",
       "source_category": "Aggregator",
       "relevance_score": 7
-    },
-    {
-      "title": "NetDocuments Goes After M&amp;A Due Diligence - Artificial Lawyer",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZjVoZlF5NWtQZ1NaM21NWV9TOS1HdERrZTNnSXk0ckFLNTZOVlYwS0d1WkdGU2Z5UlBMWWgwLVhvT3hSMWR3UzRTV3lFbzdBdVdvcm0wRzlkWXhITUlnVUw1MmtXa1I1alczUUFjeVVSd3QwWVhrSUFiVXBTTW5wdHUwNUZON3EweHZSOG9R?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPZjVoZlF5NWtQZ1NaM21NWV9TOS1HdERrZTNnSXk0ckFLNTZOVlYwS0d1WkdGU2Z5UlBMWWgwLVhvT3hSMWR3UzRTV3lFbzdBdVdvcm0wRzlkWXhITUlnVUw1MmtXa1I1alczUUFjeVVSd3QwWVhrSUFiVXBTTW5wdHUwNUZON3EweHZSOG9R?oc=5\" target=\"_blank\"&gt;NetDocuments Goes After M&amp;A Due Diligence&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
-      "published": "2026-08-20T12:26:19.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
     },
     {
       "title": "Hotshot Collaborates with Litera on Legal Training as Firms Rethink Talent Development in the Age of AI - LawSites",
@@ -439,18 +451,6 @@
       "relevance_score": 5
     },
     {
-      "title": "Why Attorney Oversight Builds Trust for Legal AI - Harvey",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0MDNmd3hrc3ZLVUV5VWJPWFVWZWNWZl9JUGZpLTJwZFpIc04yaWFIRnQweEYzanBSQW5weDJQT0YyS0k1UGZua0NLTTk1Y19TWlhBeGdFQnQ0MjhubWhiZg?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0MDNmd3hrc3ZLVUV5VWJPWFVWZWNWZl9JUGZpLTJwZFpIc04yaWFIRnQweEYzanBSQW5weDJQT0YyS0k1UGZua0NLTTk1Y19TWlhBeGdFQnQ0MjhubWhiZg?oc=5\" target=\"_blank\"&gt;Why Attorney Oversight Builds Trust for Legal AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
-      "published": "2026-08-16T02:51:32.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 5
-    },
-    {
       "title": "Anthropic’s expansion of legal AI tools is good for lawyers, experts say - The Global Legal Post",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON29yWkx6TnprRmNac3lObVViVmxxRnMxYk00MjJFOFFLdDBJOWtDY1R6ckxWa0tFTWgxY0ZvVzJGR2x5T09rX0hOVE1xM1ZUbVdSMHBnUVpsSmI3X2JucUFIUUdoUlplaEFCbXdjTHhpblYyM09jNkZtNlh4SzZtamM2em5LX19SdElfWU1EMUxITUljZUdHLWRUbjRWVTd6U0JVWVItaG83N2VyYTdzWHJYb0N5QVRrSXc?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxON29yWkx6TnprRmNac3lObVViVmxxRnMxYk00MjJFOFFLdDBJOWtDY1R6ckxWa0tFTWgxY0ZvVzJGR2x5T09rX0hOVE1xM1ZUbVdSMHBnUVpsSmI3X2JucUFIUUdoUlplaEFCbXdjTHhpblYyM09jNkZtNlh4SzZtamM2em5LX19SdElfWU1EMUxITUljZUdHLWRUbjRWVTd6U0JVWVItaG83N2VyYTdzWHJYb0N5QVRrSXc?oc=5\" target=\"_blank\"&gt;Anthropic’s expansion of legal AI tools is good for lawyers, experts say&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Global Legal Post&lt;/font&gt;",
@@ -463,10 +463,10 @@
       "relevance_score": 5
     },
     {
-      "title": "Beyond chatbots: how technical literacy defines the next era of legal AI - IFLR",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUFpJQjBKRjQ5V1l2YzVaMDJuelJ3U3hJN0V6M2R5eVczRE00VXU2Z2sybTZDUHdkY3VJYmtjQzYxdjY5Um80bUJSenlfRjhyS1NGeTdGRjc3anBFWE00OXJlQVJtd09iZklHM0E5SkQwUHYtdm9rWERZN0RLQ2NxLUFCMzlnb0JJQmRYeEZfcDhXRGlKdWdZbTBSSGpvcG5fRjJKYjhqMnBnMjhheDNtNkx6SXFsOElsUkthYXNDMVVGLXo4LUd6WVhJZk8?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPUFpJQjBKRjQ5V1l2YzVaMDJuelJ3U3hJN0V6M2R5eVczRE00VXU2Z2sybTZDUHdkY3VJYmtjQzYxdjY5Um80bUJSenlfRjhyS1NGeTdGRjc3anBFWE00OXJlQVJtd09iZklHM0E5SkQwUHYtdm9rWERZN0RLQ2NxLUFCMzlnb0JJQmRYeEZfcDhXRGlKdWdZbTBSSGpvcG5fRjJKYjhqMnBnMjhheDNtNkx6SXFsOElsUkthYXNDMVVGLXo4LUd6WVhJZk8?oc=5\" target=\"_blank\"&gt;Beyond chatbots: how technical literacy defines the next era of legal AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;IFLR&lt;/font&gt",
-      "published": "2026-07-10T07:00:00.000Z",
+      "title": "Why Attorney Oversight Builds Trust for Legal AI - Harvey",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0MDNmd3hrc3ZLVUV5VWJPWFVWZWNWZl9JUGZpLTJwZFpIc04yaWFIRnQweEYzanBSQW5weDJQT0YyS0k1UGZua0NLTTk1Y19TWlhBeGdFQnQ0MjhubWhiZg?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0MDNmd3hrc3ZLVUV5VWJPWFVWZWNWZl9JUGZpLTJwZFpIc04yaWFIRnQweEYzanBSQW5weDJQT0YyS0k1UGZua0NLTTk1Y19TWlhBeGdFQnQ0MjhubWhiZg?oc=5\" target=\"_blank\"&gt;Why Attorney Oversight Builds Trust for Legal AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
+      "published": "2026-08-16T02:51:32.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
@@ -475,10 +475,10 @@
       "relevance_score": 5
     },
     {
-      "title": "Anthropic Hires ‘Head of Claude For Legal’ - Artificial Lawyer",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOFJQcGJEaHRyUlZTdWxGWWlqelBkZ0gwR3YyNmxxX1NRbU56YXBqVFl6MzNPNElOa0F5eEpDRXFGUThvQk9qbDNQeEZSMjE1ODF2blM3WkdTQnJTNnZhcTIzVFUwM1U4aE1hTjRKNVlKMEhuUTB2Y0Ztbkk1dG90bXd6ZnVPb0Z4ZHI0c253?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPOFJQcGJEaHRyUlZTdWxGWWlqelBkZ0gwR3YyNmxxX1NRbU56YXBqVFl6MzNPNElOa0F5eEpDRXFGUThvQk9qbDNQeEZSMjE1ODF2blM3WkdTQnJTNnZhcTIzVFUwM1U4aE1hTjRKNVlKMEhuUTB2Y0Ztbkk1dG90bXd6ZnVPb0Z4ZHI0c253?oc=5\" target=\"_blank\"&gt;Anthropic Hires ‘Head of Claude For Legal’&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
-      "published": "2026-08-07T07:00:00.000Z",
+      "title": "Beyond chatbots: how technical literacy defines the next era of legal AI - IFLR",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUFpJQjBKRjQ5V1l2YzVaMDJuelJ3U3hJN0V6M2R5eVczRE00VXU2Z2sybTZDUHdkY3VJYmtjQzYxdjY5Um80bUJSenlfRjhyS1NGeTdGRjc3anBFWE00OXJlQVJtd09iZklHM0E5SkQwUHYtdm9rWERZN0RLQ2NxLUFCMzlnb0JJQmRYeEZfcDhXRGlKdWdZbTBSSGpvcG5fRjJKYjhqMnBnMjhheDNtNkx6SXFsOElsUkthYXNDMVVGLXo4LUd6WVhJZk8?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPUFpJQjBKRjQ5V1l2YzVaMDJuelJ3U3hJN0V6M2R5eVczRE00VXU2Z2sybTZDUHdkY3VJYmtjQzYxdjY5Um80bUJSenlfRjhyS1NGeTdGRjc3anBFWE00OXJlQVJtd09iZklHM0E5SkQwUHYtdm9rWERZN0RLQ2NxLUFCMzlnb0JJQmRYeEZfcDhXRGlKdWdZbTBSSGpvcG5fRjJKYjhqMnBnMjhheDNtNkx6SXFsOElsUkthYXNDMVVGLXo4LUd6WVhJZk8?oc=5\" target=\"_blank\"&gt;Beyond chatbots: how technical literacy defines the next era of legal AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;IFLR&lt;/font&gt",
+      "published": "2026-07-10T07:00:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
