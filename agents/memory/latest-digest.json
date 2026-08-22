@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-22T20:09:56.303Z",
+  "generated": "2026-08-22T21:11:03.229Z",
   "cycle_type": "monitoring",
   "item_count": 40,
   "total_scanned": 762,
@@ -149,18 +149,6 @@
       "source_tier": "A",
       "source_category": "Aggregator",
       "relevance_score": 7
-    },
-    {
-      "title": "Legal AI vendors are building their own models to cut inference bills and reduce platform dependence - MarketScale",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOT3hZdUtJNk1FZmV2RFFKNTZHS2Q0N19qLUtCcnNXTHkxejJNbU40VWpuQjB1T1BkNGNhakVaS3dYOXRqd1dSd2V6TWpPR3N3VWNsMW1INDFTeDdpX2FMV3dtNkxXeW84MnZsMWxncEROX2h2R296NzZrTHkydFNlUnN5VTBRemtySDJMMnlKeXlETzBOaC1jdnhKT2pqaFBRaHJSWUVQdVhFcVM5QXpmSm5UMlNUQXVRWnJjZWVlWVc1QkJUcWg1TjMwMEhtdFVZcGZUZlU2enY2VnFXTkREdlRETlBIOVRRcFRVNlR3?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxOT3hZdUtJNk1FZmV2RFFKNTZHS2Q0N19qLUtCcnNXTHkxejJNbU40VWpuQjB1T1BkNGNhakVaS3dYOXRqd1dSd2V6TWpPR3N3VWNsMW1INDFTeDdpX2FMV3dtNkxXeW84MnZsMWxncEROX2h2R296NzZrTHkydFNlUnN5VTBRemtySDJMMnlKeXlETzBOaC1jdnhKT2pqaFBRaHJSWUVQdVhFcVM5QXpmSm5UMlNUQXVRWnJjZWVlWVc1QkJUcWg1TjMwMEhtdFVZcGZUZlU2enY2VnFXTkREdlRETlBIOVRRcFRVNlR3?oc=5\" target=\"_blank\"&gt;Legal AI vendors are building their own models to cut inference bills and reduce platform dependence&",
-      "published": "2026-08-22T14:51:34.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
     },
     {
       "title": "NetDocuments Goes After M&amp;A Due Diligence - Artificial Lawyer",
@@ -391,6 +379,18 @@
       "relevance_score": 5
     },
     {
+      "title": "Fulham FC Partners with :Harvey: as Official Legal AI Partner - Harvey",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcjRRNnVlNjhSeWFIa251RXY0ZFZ3NWVOOUV5WEhHa1hMM19zVGs0c3pmN3lLWS0yVGRZNDRuMWR3X1FqUi1WYldHTjd6clh0R0RNc05RRkhuWmVoQWtVY1hFcFJyamxoYXZ6NlljYzlERlNMZ1JiMXg4ZUZIZFV4TFVRUFdRRlRaQnlVV0FBRFZzYlZNWlVF?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNcjRRNnVlNjhSeWFIa251RXY0ZFZ3NWVOOUV5WEhHa1hMM19zVGs0c3pmN3lLWS0yVGRZNDRuMWR3X1FqUi1WYldHTjd6clh0R0RNc05RRkhuWmVoQWtVY1hFcFJyamxoYXZ6NlljYzlERlNMZ1JiMXg4ZUZIZFV4TFVRUFdRRlRaQnlVV0FBRFZzYlZNWlVF?oc=5\" target=\"_blank\"&gt;Fulham FC Partners with :Harvey: as Official Legal AI Partner&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
+      "published": "2026-08-18T20:32:47.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 5
+    },
+    {
       "title": "DeepL strikes deal with US legal AI startup Harvey - Tech.eu",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOTBMQnJfdGNHaVNtRjRENndfcVRYdlhQZ3ZfZWNRQ21RNTMtWVlqQ2t6TVpKdF9KbkttSktRMjR2Q3RiSUhLMmc3SjZMNjFhemprTHBJY082cVdsMTBDNFJFUC11eEJNb09ta05GSmNXREJGN2VmT3ltUlZsTkRINlBfVEI?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQOTBMQnJfdGNHaVNtRjRENndfcVRYdlhQZ3ZfZWNRQ21RNTMtWVlqQ2t6TVpKdF9KbkttSktRMjR2Q3RiSUhLMmc3SjZMNjFhemprTHBJY082cVdsMTBDNFJFUC11eEJNb09ta05GSmNXREJGN2VmT3ltUlZsTkRINlBfVEI?oc=5\" target=\"_blank\"&gt;DeepL strikes deal with US legal AI startup Harvey&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Tech.eu&lt;/font&gt;",
@@ -427,10 +427,10 @@
       "relevance_score": 5
     },
     {
-      "title": "Why Attorney Oversight Builds Trust for Legal AI - Harvey",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0MDNmd3hrc3ZLVUV5VWJPWFVWZWNWZl9JUGZpLTJwZFpIc04yaWFIRnQweEYzanBSQW5weDJQT0YyS0k1UGZua0NLTTk1Y19TWlhBeGdFQnQ0MjhubWhiZg?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0MDNmd3hrc3ZLVUV5VWJPWFVWZWNWZl9JUGZpLTJwZFpIc04yaWFIRnQweEYzanBSQW5weDJQT0YyS0k1UGZua0NLTTk1Y19TWlhBeGdFQnQ0MjhubWhiZg?oc=5\" target=\"_blank\"&gt;Why Attorney Oversight Builds Trust for Legal AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
-      "published": "2026-08-16T02:51:32.000Z",
+      "title": "Harvey II adds memory &amp; matter-based legal AI tools - IT Brief Australia",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLWVCSTd2cGVvQ2Q3djBwVXlQWXpwNy1LYV9LU21rN24yXzlmSmVJWkxaWDFlX3liOVBHN3pNeVVsLTRVSHY3RURwMXZvMTlBN2ZGajhxQWhRMThBYWZtVzh6NWlPa1dwTElnZUtfTDAwN3M1blBYSzhBU1NSa1Bqd1NCZl8?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPLWVCSTd2cGVvQ2Q3djBwVXlQWXpwNy1LYV9LU21rN24yXzlmSmVJWkxaWDFlX3liOVBHN3pNeVVsLTRVSHY3RURwMXZvMTlBN2ZGajhxQWhRMThBYWZtVzh6NWlPa1dwTElnZUtfTDAwN3M1blBYSzhBU1NSa1Bqd1NCZl8?oc=5\" target=\"_blank\"&gt;Harvey II adds memory &amp; matter-based legal AI tools&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;IT Brief Australia&lt;/font&gt;",
+      "published": "2026-08-19T03:59:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
@@ -439,10 +439,10 @@
       "relevance_score": 5
     },
     {
-      "title": "Harvey II adds memory &amp; matter-based legal AI tools - IT Brief Australia",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLWVCSTd2cGVvQ2Q3djBwVXlQWXpwNy1LYV9LU21rN24yXzlmSmVJWkxaWDFlX3liOVBHN3pNeVVsLTRVSHY3RURwMXZvMTlBN2ZGajhxQWhRMThBYWZtVzh6NWlPa1dwTElnZUtfTDAwN3M1blBYSzhBU1NSa1Bqd1NCZl8?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPLWVCSTd2cGVvQ2Q3djBwVXlQWXpwNy1LYV9LU21rN24yXzlmSmVJWkxaWDFlX3liOVBHN3pNeVVsLTRVSHY3RURwMXZvMTlBN2ZGajhxQWhRMThBYWZtVzh6NWlPa1dwTElnZUtfTDAwN3M1blBYSzhBU1NSa1Bqd1NCZl8?oc=5\" target=\"_blank\"&gt;Harvey II adds memory &amp; matter-based legal AI tools&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;IT Brief Australia&lt;/font&gt;",
-      "published": "2026-08-19T03:59:00.000Z",
+      "title": "Why Attorney Oversight Builds Trust for Legal AI - Harvey",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0MDNmd3hrc3ZLVUV5VWJPWFVWZWNWZl9JUGZpLTJwZFpIc04yaWFIRnQweEYzanBSQW5weDJQT0YyS0k1UGZua0NLTTk1Y19TWlhBeGdFQnQ0MjhubWhiZg?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0MDNmd3hrc3ZLVUV5VWJPWFVWZWNWZl9JUGZpLTJwZFpIc04yaWFIRnQweEYzanBSQW5weDJQT0YyS0k1UGZua0NLTTk1Y19TWlhBeGdFQnQ0MjhubWhiZg?oc=5\" target=\"_blank\"&gt;Why Attorney Oversight Builds Trust for Legal AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
+      "published": "2026-08-16T02:51:32.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
