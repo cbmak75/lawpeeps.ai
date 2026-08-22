@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-22T04:20:44.807Z",
+  "generated": "2026-08-22T05:16:33.041Z",
   "cycle_type": "monitoring",
   "item_count": 40,
   "total_scanned": 765,
@@ -139,18 +139,6 @@
       "relevance_score": 7
     },
     {
-      "title": "Pre-ILTACON Legaltech Rundown: NetDocuments Announces New AI Tools, DISCO Launches Agentic E-Discovery Tool, and More - Law.com",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQaHBlRnRndWtmcWJjR0o0TlBHaGd6WU42dXRibFZiWnJiQm5neU5CUlhzeFpSLWxhMmJ0RFVOVnZIZWNoQ0ZVLTNGSjVaMkFvZFV4MEh6VFlLSHZjeU5UcTEwX3Y5WDV1YVFZNmZaMkFzc0NyWjk2NVlQNlMtVEZmaWFpRlVpSnk3dm45VHJ0a3pFQkpfY3VJMEFodWpMb3o0OUlnNGRmMDhkXzFxNVBNdlBpRGo4VVR3bV8xeXBiSzBYb09yWEJWY2l1MkVURGVlTlRQN2Qzbk5NMVNWZmZPNWJCRldPWGRUN0RrWGRpSjU5RWs?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxQaHBlRnRndWtmcWJjR0o0TlBHaGd6WU42dXRibFZiWnJiQm5neU5CUlhzeFpSLWxhMmJ0RFVOVnZIZWNoQ0ZVLTNGSjVaMkFvZFV4MEh6VFlLSHZjeU5UcTEwX3Y5WDV1YVFZNmZaMkFzc0NyWjk2NVlQNlMtVEZmaWFpRlVpSnk3dm45VHJ0a3pFQkpfY3VJMEFodWpMb3o0OUlnNGRmMDhkXzFxNVBNdlBpRGo4VVR3bV8xeXBiSzBYb09yWEJWY2l1MkVURGVlTlRQN2Qzbk5NMVNWZmZPNWJCRldPWGRUN0RrWGRpSjU5RWs?oc=5\" target=\"_blank\"&gt;Pre-ILTACON Legaltech Rundown: NetDocuments Announces New AI Tools, DISCO Launches Agentic E-D",
-      "published": "2026-08-21T16:30:53.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 7
-    },
-    {
       "title": "The Legal AI Scaffold Changes Everything – Claude Study - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQU4tdGFPSGFaaGo0NGRvdnhxMUhYQ3pSd18td3lld2ZRd2xiQkVwWUQ0Z1lhR3IwdGstdE5STUVBTzdqdkxvbnhWUTVwZ0Y5MDNqT1hHV0RDUGVldzI5R2JrdEtaZ2NfYWNDVERjN1o5QWFqeGFTTEp6VDB1S19id3VoOUZUbzQ0eDdwNzJHNzdvYzRNWUh5cFV6UnhXOE0?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNQU4tdGFPSGFaaGo0NGRvdnhxMUhYQ3pSd18td3lld2ZRd2xiQkVwWUQ0Z1lhR3IwdGstdE5STUVBTzdqdkxvbnhWUTVwZ0Y5MDNqT1hHV0RDUGVldzI5R2JrdEtaZ2NfYWNDVERjN1o5QWFqeGFTTEp6VDB1S19id3VoOUZUbzQ0eDdwNzJHNzdvYzRNWUh5cFV6UnhXOE0?oc=5\" target=\"_blank\"&gt;The Legal AI Scaffold Changes Everything – Claude Study&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
@@ -193,6 +181,30 @@
       "published": "2026-08-20T12:26:19.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
+    },
+    {
+      "title": "Pre-ILTACON Legaltech Rundown: NetDocuments Announces New AI Tools, DISCO Launches Agentic E-Discovery Tool, and More - Law.com",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQaHBlRnRndWtmcWJjR0o0TlBHaGd6WU42dXRibFZiWnJiQm5neU5CUlhzeFpSLWxhMmJ0RFVOVnZIZWNoQ0ZVLTNGSjVaMkFvZFV4MEh6VFlLSHZjeU5UcTEwX3Y5WDV1YVFZNmZaMkFzc0NyWjk2NVlQNlMtVEZmaWFpRlVpSnk3dm45VHJ0a3pFQkpfY3VJMEFodWpMb3o0OUlnNGRmMDhkXzFxNVBNdlBpRGo4VVR3bV8xeXBiSzBYb09yWEJWY2l1MkVURGVlTlRQN2Qzbk5NMVNWZmZPNWJCRldPWGRUN0RrWGRpSjU5RWs?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxQaHBlRnRndWtmcWJjR0o0TlBHaGd6WU42dXRibFZiWnJiQm5neU5CUlhzeFpSLWxhMmJ0RFVOVnZIZWNoQ0ZVLTNGSjVaMkFvZFV4MEh6VFlLSHZjeU5UcTEwX3Y5WDV1YVFZNmZaMkFzc0NyWjk2NVlQNlMtVEZmaWFpRlVpSnk3dm45VHJ0a3pFQkpfY3VJMEFodWpMb3o0OUlnNGRmMDhkXzFxNVBNdlBpRGo4VVR3bV8xeXBiSzBYb09yWEJWY2l1MkVURGVlTlRQN2Qzbk5NMVNWZmZPNWJCRldPWGRUN0RrWGRpSjU5RWs?oc=5\" target=\"_blank\"&gt;Pre-ILTACON Legaltech Rundown: NetDocuments Announces New AI Tools, DISCO Launches Agentic E-D",
+      "published": "2026-08-21T16:30:53.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
+    },
+    {
+      "title": "Harvey AI Number of Employees 2026 | Employee Count &amp; Headcount Data - Revelio Labs",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KTk5TLXY5ZGxUTTJxLXRkaUpoNTdwWk01Q3R1R1JaYVM4OVdLYTNhZjVkY3JTbUZDdGY3WDd1SUY2cWUtbkJEWjdubjNKYXN0czNqMVcyNHN0cUd3TFlQbjZvZTJlZ1BL?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KTk5TLXY5ZGxUTTJxLXRkaUpoNTdwWk01Q3R1R1JaYVM4OVdLYTNhZjVkY3JTbUZDdGY3WDd1SUY2cWUtbkJEWjdubjNKYXN0czNqMVcyNHN0cUd3TFlQbjZvZTJlZ1BL?oc=5\" target=\"_blank\"&gt;Harvey AI Number of Employees 2026 | Employee Count &amp; Headcount Data&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Revelio Labs&lt;/font&gt;",
+      "published": "2026-07-29T15:17:02.000Z",
+      "source_id": "google-news-harvey-luminance",
+      "source_name": "Google News: Harvey OR Luminance",
       "source_priority": "critical",
       "source_tier": "A",
       "source_category": "Aggregator",
@@ -331,6 +343,18 @@
       "relevance_score": 6
     },
     {
+      "title": "Scott Stevenson, CEO Of Spellbook, On Building Cursor For Contracts - Smartkarma",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDN2xaaUlQdTZrbnJoX1hxUHdVenp3N1o3eTRId2ZnRkM2THV4N1VKdjZ3S2xWU3BrVmpqSXM0b09VMS1HWk5fVkpIaXgzSUdUdTBzMw?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDN2xaaUlQdTZrbnJoX1hxUHdVenp3N1o3eTRId2ZnRkM2THV4N1VKdjZ3S2xWU3BrVmpqSXM0b09VMS1HWk5fVkpIaXgzSUdUdTBzMw?oc=5\" target=\"_blank\"&gt;Scott Stevenson, CEO Of Spellbook, On Building Cursor For Contracts&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Smartkarma&lt;/font&gt;",
+      "published": "2026-03-26T07:00:00.000Z",
+      "source_id": "google-news-contract-ai",
+      "source_name": "Google News: contract AI",
+      "source_priority": "medium",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
+    },
+    {
       "title": "DraftWise Leverages Cohere, Will Keep Narrow Focus - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPc19yRHo2cFVHQ2NiYWhEc1ByYm1jYWdnVnVEVW1VMDRpdFNfNzFHaWpJRS1Rd1V2Y0ZVQVlvS0ZudnJGa2ZLZUFqY09nS2dkY0RYbV9aLVVObVVBaHNJanhKOWxWS05KOFZjaEtKZlUtaUd4bDBPWk9iaDFHQTNfamtyeTAya3NyRnkzbGhkVDNZYjlIa0NlN1l3?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPc19yRHo2cFVHQ2NiYWhEc1ByYm1jYWdnVnVEVW1VMDRpdFNfNzFHaWpJRS1Rd1V2Y0ZVQVlvS0ZudnJGa2ZLZUFqY09nS2dkY0RYbV9aLVVObVVBaHNJanhKOWxWS05KOFZjaEtKZlUtaUd4bDBPWk9iaDFHQTNfamtyeTAya3NyRnkzbGhkVDNZYjlIa0NlN1l3?oc=5\" target=\"_blank\"&gt;DraftWise Leverages Cohere, Will Keep Narrow Focus&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
@@ -455,30 +479,6 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON29yWkx6TnprRmNac3lObVViVmxxRnMxYk00MjJFOFFLdDBJOWtDY1R6ckxWa0tFTWgxY0ZvVzJGR2x5T09rX0hOVE1xM1ZUbVdSMHBnUVpsSmI3X2JucUFIUUdoUlplaEFCbXdjTHhpblYyM09jNkZtNlh4SzZtamM2em5LX19SdElfWU1EMUxITUljZUdHLWRUbjRWVTd6U0JVWVItaG83N2VyYTdzWHJYb0N5QVRrSXc?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxON29yWkx6TnprRmNac3lObVViVmxxRnMxYk00MjJFOFFLdDBJOWtDY1R6ckxWa0tFTWgxY0ZvVzJGR2x5T09rX0hOVE1xM1ZUbVdSMHBnUVpsSmI3X2JucUFIUUdoUlplaEFCbXdjTHhpblYyM09jNkZtNlh4SzZtamM2em5LX19SdElfWU1EMUxITUljZUdHLWRUbjRWVTd6U0JVWVItaG83N2VyYTdzWHJYb0N5QVRrSXc?oc=5\" target=\"_blank\"&gt;Anthropic’s expansion of legal AI tools is good for lawyers, experts say&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Global Legal Post&lt;/font&gt;",
       "published": "2026-05-26T07:00:00.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 5
-    },
-    {
-      "title": "Beyond chatbots: how technical literacy defines the next era of legal AI - IFLR",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUFpJQjBKRjQ5V1l2YzVaMDJuelJ3U3hJN0V6M2R5eVczRE00VXU2Z2sybTZDUHdkY3VJYmtjQzYxdjY5Um80bUJSenlfRjhyS1NGeTdGRjc3anBFWE00OXJlQVJtd09iZklHM0E5SkQwUHYtdm9rWERZN0RLQ2NxLUFCMzlnb0JJQmRYeEZfcDhXRGlKdWdZbTBSSGpvcG5fRjJKYjhqMnBnMjhheDNtNkx6SXFsOElsUkthYXNDMVVGLXo4LUd6WVhJZk8?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPUFpJQjBKRjQ5V1l2YzVaMDJuelJ3U3hJN0V6M2R5eVczRE00VXU2Z2sybTZDUHdkY3VJYmtjQzYxdjY5Um80bUJSenlfRjhyS1NGeTdGRjc3anBFWE00OXJlQVJtd09iZklHM0E5SkQwUHYtdm9rWERZN0RLQ2NxLUFCMzlnb0JJQmRYeEZfcDhXRGlKdWdZbTBSSGpvcG5fRjJKYjhqMnBnMjhheDNtNkx6SXFsOElsUkthYXNDMVVGLXo4LUd6WVhJZk8?oc=5\" target=\"_blank\"&gt;Beyond chatbots: how technical literacy defines the next era of legal AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;IFLR&lt;/font&gt",
-      "published": "2026-07-10T07:00:00.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 5
-    },
-    {
-      "title": "Anthropic Hires ‘Head of Claude For Legal’ - Artificial Lawyer",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOFJQcGJEaHRyUlZTdWxGWWlqelBkZ0gwR3YyNmxxX1NRbU56YXBqVFl6MzNPNElOa0F5eEpDRXFGUThvQk9qbDNQeEZSMjE1ODF2blM3WkdTQnJTNnZhcTIzVFUwM1U4aE1hTjRKNVlKMEhuUTB2Y0Ztbkk1dG90bXd6ZnVPb0Z4ZHI0c253?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPOFJQcGJEaHRyUlZTdWxGWWlqelBkZ0gwR3YyNmxxX1NRbU56YXBqVFl6MzNPNElOa0F5eEpDRXFGUThvQk9qbDNQeEZSMjE1ODF2blM3WkdTQnJTNnZhcTIzVFUwM1U4aE1hTjRKNVlKMEhuUTB2Y0Ztbkk1dG90bXd6ZnVPb0Z4ZHI0c253?oc=5\" target=\"_blank\"&gt;Anthropic Hires ‘Head of Claude For Legal’&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Artificial Lawyer&lt;/font&gt;",
-      "published": "2026-08-07T07:00:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
