@@ -1,11 +1,23 @@
 {
-  "generated": "2026-08-21T23:13:02.419Z",
+  "generated": "2026-08-22T00:32:52.718Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 761,
+  "total_scanned": 763,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
+    {
+      "title": "Harvey Built Its Own Legal AI Model Instead of Renting One From OpenAI - Startup Fortune",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTVdzT1k2R004UEptVE9fdzdiSzFLY290R0RNT1hMWUNpTVhKSGJpZk9HUG5XS1hiMFRVUGJGXzBIUUFRRWw1eU5GZFNkZjdxZnk5WVE4NlA1VmpZWXdCWW1sR29fRjFRUURPc3YwamdqWE1GWWI3R1l6bFdleHZkVDRyZGVWZnowX0ZiZ0oyUGZOTkhOZHJIWmhZblpZMmc?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPTVdzT1k2R004UEptVE9fdzdiSzFLY290R0RNT1hMWUNpTVhKSGJpZk9HUG5XS1hiMFRVUGJGXzBIUUFRRWw1eU5GZFNkZjdxZnk5WVE4NlA1VmpZWXdCWW1sR29fRjFRUURPc3YwamdqWE1GWWI3R1l6bFdleHZkVDRyZGVWZnowX0ZiZ0oyUGZOTkhOZHJIWmhZblpZMmc?oc=5\" target=\"_blank\"&gt;Harvey Built Its Own Legal AI Model Instead of Renting One From OpenAI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Startup Fortune&lt;/font&gt;",
+      "published": "2026-08-21T02:36:39.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 9
+    },
     {
       "title": "Harvey Forum + Shared Spaces, Clio, Spellbook, Legal Innovators - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWDZZRVZBVWx3ckRDeE96a1ZYWTJxVldZUHNwYWl2eHdrUDZKc2xXSmRYVHRheXlISnI5SVpKdmlYTHdOWVRwb3VneFBHMlZhcnlyOWNiZHJuUkNTLXhINlgwRnJzZlNCU0JYQ2k2R2RrUFN3dlRoT3k0ckM5NDRZRHZ2UjAzQWVfQXNRcm9lM2w2LVdmRUxvMmwyVXkzS2Y2XzlnTTNn?oc=5",
@@ -67,18 +79,6 @@
       "relevance_score": 8
     },
     {
-      "title": "Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook partners with CBA; DeepIP raises $25m - Legal IT Insider",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcXJGTU9ucEc1azNNOTZ3eWI1dldHblpjS0lIdG9jTy1YSE1SSEdlWXlqa041bzd4R052ckZLZG1TQnh6eUE1bFhEV0FyYlFndF84Z1hTczZXZ0IzOVRoMF9jWHhkMXp2X2tjenNUMktCZWM1eVlvM0tjZEpvX2ZoeUpaTUN5UTZUaDJEWWdvVDFJZWpGYTZiQV8ycEc1dEJRMTJCWktEV3IwX3FoX1F6cFk5dkJ1VUtHaURCWmlBTUpTcFRJQVk3cmYxODlsMEpjQnRMdHkwLWNoR1lzT01jRmJlSjJwdw?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcXJGTU9ucEc1azNNOTZ3eWI1dldHblpjS0lIdG9jTy1YSE1SSEdlWXlqa041bzd4R052ckZLZG1TQnh6eUE1bFhEV0FyYlFndF84Z1hTczZXZ0IzOVRoMF9jWHhkMXp2X2tjenNUMktCZWM1eVlvM0tjZEpvX2ZoeUpaTUN5UTZUaDJEWWdvVDFJZWpGYTZiQV8ycEc1dEJRMTJCWktEV3IwX3FoX1F6cFk5dkJ1VUtHaURCWmlBTUpTcFRJQVk3cmYxODlsMEpjQnRMdHkwLWNoR1lzT01jRmJlSjJwdw?oc=5\" target=\"_blank\"&gt;Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook partners with CBA; De",
-      "published": "2026-03-04T08:00:00.000Z",
-      "source_id": "google-news-legal-tech-funding",
-      "source_name": "Google News: legal tech funding",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 8
-    },
-    {
       "title": "Irish co-founded legal AI startup Wordsmith raises $70m - Irish Legal News",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMEZUVFoxTWF1a01MYi05c0pZSVZRT0ZGTnNrcWw3SmYtMlNJbDEyMkxCYkJTclBpTzVQOWR5bEdQVEVEbGNiemh1UHdDbmtfQVVseV9ITkpnNW1lUXJ5VlNhWXhSV2dzdjg2bG0tSHZ5M2pPbWtQSXFETkk4MFpubVVqMlBWVXNCTjRCODdXckVYTElG?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNMEZUVFoxTWF1a01MYi05c0pZSVZRT0ZGTnNrcWw3SmYtMlNJbDEyMkxCYkJTclBpTzVQOWR5bEdQVEVEbGNiemh1UHdDbmtfQVVseV9ITkpnNW1lUXJ5VlNhWXhSV2dzdjg2bG0tSHZ5M2pPbWtQSXFETkk4MFpubVVqMlBWVXNCTjRCODdXckVYTElG?oc=5\" target=\"_blank\"&gt;Irish co-founded legal AI startup Wordsmith raises $70m&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Irish Legal News&lt;/font&gt;",
@@ -91,10 +91,10 @@
       "relevance_score": 8
     },
     {
-      "title": "Why legal tech giant Harvey is raising cash like OpenAI - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaDhOaTN1RzVmZmxWa1U2TTZyTW9ucXRjZjU2RHUzT0RoMTJQb1BvZ1hpbUgwTUFZS3U5UHV1R21abHdrRDR3cFlWTC1SY3J2WUN1YWlwSlY0Y0VpVjVYSXV2dk93YjhuU0NXYTE5QnBiVHF5bHVLRHdWbzMxdVB3MU0zMFh1TzF0U1JmOA?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQaDhOaTN1RzVmZmxWa1U2TTZyTW9ucXRjZjU2RHUzT0RoMTJQb1BvZ1hpbUgwTUFZS3U5UHV1R21abHdrRDR3cFlWTC1SY3J2WUN1YWlwSlY0Y0VpVjVYSXV2dk93YjhuU0NXYTE5QnBiVHF5bHVLRHdWbzMxdVB3MU0zMFh1TzF0U1JmOA?oc=5\" target=\"_blank\"&gt;Why legal tech giant Harvey is raising cash like OpenAI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Business Insider&lt;/font&gt;",
-      "published": "2026-03-26T07:00:00.000Z",
+      "title": "Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook partners with CBA; DeepIP raises $25m - Legal IT Insider",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcXJGTU9ucEc1azNNOTZ3eWI1dldHblpjS0lIdG9jTy1YSE1SSEdlWXlqa041bzd4R052ckZLZG1TQnh6eUE1bFhEV0FyYlFndF84Z1hTczZXZ0IzOVRoMF9jWHhkMXp2X2tjenNUMktCZWM1eVlvM0tjZEpvX2ZoeUpaTUN5UTZUaDJEWWdvVDFJZWpGYTZiQV8ycEc1dEJRMTJCWktEV3IwX3FoX1F6cFk5dkJ1VUtHaURCWmlBTUpTcFRJQVk3cmYxODlsMEpjQnRMdHkwLWNoR1lzT01jRmJlSjJwdw?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcXJGTU9ucEc1azNNOTZ3eWI1dldHblpjS0lIdG9jTy1YSE1SSEdlWXlqa041bzd4R052ckZLZG1TQnh6eUE1bFhEV0FyYlFndF84Z1hTczZXZ0IzOVRoMF9jWHhkMXp2X2tjenNUMktCZWM1eVlvM0tjZEpvX2ZoeUpaTUN5UTZUaDJEWWdvVDFJZWpGYTZiQV8ycEc1dEJRMTJCWktEV3IwX3FoX1F6cFk5dkJ1VUtHaURCWmlBTUpTcFRJQVk3cmYxODlsMEpjQnRMdHkwLWNoR1lzT01jRmJlSjJwdw?oc=5\" target=\"_blank\"&gt;Legal tech latest: Husch Blackwell rolls out Legora; Big name hires for Harvey; Spellbook partners with CBA; De",
+      "published": "2026-03-04T08:00:00.000Z",
       "source_id": "google-news-legal-tech-funding",
       "source_name": "Google News: legal tech funding",
       "source_priority": "critical",
@@ -103,10 +103,10 @@
       "relevance_score": 8
     },
     {
-      "title": "EvenUp, AI Software For Personal Injury Law, Doubles Valuation To $2B As Legal Tech Funding Hits Record High - Crunchbase News",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY2p6WWxfeE1ZZDJxQXJPOWtrR2VZdkxlSkFtck03QWJtOU1YcGtHUFBlZllXMXkxeXRlcHhfZU9vR0VMU1JUS0FYMGNUSXZ0UnVRSU5YRVZuWERkU29MVFYzYjNtdHN6OUZGU3JlNWpLcDI3eTRwam5fVkhUSzU2WFdtX0daQUNseG50YzRpTQ?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQY2p6WWxfeE1ZZDJxQXJPOWtrR2VZdkxlSkFtck03QWJtOU1YcGtHUFBlZllXMXkxeXRlcHhfZU9vR0VMU1JUS0FYMGNUSXZ0UnVRSU5YRVZuWERkU29MVFYzYjNtdHN6OUZGU3JlNWpLcDI3eTRwam5fVkhUSzU2WFdtX0daQUNseG50YzRpTQ?oc=5\" target=\"_blank\"&gt;EvenUp, AI Software For Personal Injury Law, Doubles Valuation To $2B As Legal Tech Funding Hits Record High&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Crunchbase News&lt;/font&gt;",
-      "published": "2025-10-07T07:00:00.000Z",
+      "title": "Why legal tech giant Harvey is raising cash like OpenAI - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaDhOaTN1RzVmZmxWa1U2TTZyTW9ucXRjZjU2RHUzT0RoMTJQb1BvZ1hpbUgwTUFZS3U5UHV1R21abHdrRDR3cFlWTC1SY3J2WUN1YWlwSlY0Y0VpVjVYSXV2dk93YjhuU0NXYTE5QnBiVHF5bHVLRHdWbzMxdVB3MU0zMFh1TzF0U1JmOA?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQaDhOaTN1RzVmZmxWa1U2TTZyTW9ucXRjZjU2RHUzT0RoMTJQb1BvZ1hpbUgwTUFZS3U5UHV1R21abHdrRDR3cFlWTC1SY3J2WUN1YWlwSlY0Y0VpVjVYSXV2dk93YjhuU0NXYTE5QnBiVHF5bHVLRHdWbzMxdVB3MU0zMFh1TzF0U1JmOA?oc=5\" target=\"_blank\"&gt;Why legal tech giant Harvey is raising cash like OpenAI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Business Insider&lt;/font&gt;",
+      "published": "2026-03-26T07:00:00.000Z",
       "source_id": "google-news-legal-tech-funding",
       "source_name": "Google News: legal tech funding",
       "source_priority": "critical",
@@ -227,30 +227,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMDc3TWkwRlIyUUJJblgxcVZuS0lpX3NzNkFTNk1YWGhXaWFNR3RJd0Z5X3FaSE5hSWNHSWNtbDU0OGtZTk54UE9vc3dPSEpPcmpjN2xPczh3RDRxTW1BNndVcGlPbGxwVmVQaTRHbTZtWVp2NnF2NzBMWWZRVHl3UDJjNHpJN282X3VFTWFJOU5EOEh0LXB1YVU2YWNGQWsteGNYVFNvczdYUQ?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMDc3TWkwRlIyUUJJblgxcVZuS0lpX3NzNkFTNk1YWGhXaWFNR3RJd0Z5X3FaSE5hSWNHSWNtbDU0OGtZTk54UE9vc3dPSEpPcmpjN2xPczh3RDRxTW1BNndVcGlPbGxwVmVQaTRHbTZtWVp2NnF2NzBMWWZRVHl3UDJjNHpJN282X3VFTWFJOU5EOEh0LXB1YVU2YWNGQWsteGNYVFNvczdYUQ?oc=5\" target=\"_blank\"&gt;LexisNexis Opens Customer Innovation Lab, Rebuilding How Legal AI Gets Shipped&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Legal Reader&lt;/font&gt;",
       "published": "2026-08-21T20:48:45.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
-    },
-    {
-      "title": "DeepL Selected as Translation Engine for Legal AI Platform Harvey, Used by Over 200,000 Lawyers - finance.biggo.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1nNEpLYlV3RmgxY1N3dVJCekVUM2NNbWJRWlFQSGVkdnNvdWZIUmN2RmliMlYwWDZGelRvYi1HVS10NkJGQ0VLdm1LVU9lVFgtTWpuTWlQVUcwRDk4eEpSUWFlRDVoM3FiMEF3N1hmc3ptNmh0aEE?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1nNEpLYlV3RmgxY1N3dVJCekVUM2NNbWJRWlFQSGVkdnNvdWZIUmN2RmliMlYwWDZGelRvYi1HVS10NkJGQ0VLdm1LVU9lVFgtTWpuTWlQVUcwRDk4eEpSUWFlRDVoM3FiMEF3N1hmc3ptNmh0aEE?oc=5\" target=\"_blank\"&gt;DeepL Selected as Translation Engine for Legal AI Platform Harvey, Used by Over 200,000 Lawyers&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;finance.biggo.com&lt;/font&gt;",
-      "published": "2026-08-21T00:06:00.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 6
-    },
-    {
-      "title": "CMC OpenAI showcases legal AI capabilities at ASEAN Law Forum - Báo VietNamNet",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON0dmSlhtSU5QUUJVTjA3NnI4WXhuYncxektVQm1Pd3JkcWVnd2doYzc4Y0U1RGFDaURkWXBTNEdYbzVHLUx6di15LWtTSE9jMjZ0WklsWTQ1bldfSGZ0d3c5U0o5RGl0Y2lnSFJiMG5JVmJGQVpLT3pRdkxnb3loUWkzV05Ra1ZlMTNYcUJnT0FhUkc4QWVOSmpzeERHV1dQ?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxON0dmSlhtSU5QUUJVTjA3NnI4WXhuYncxektVQm1Pd3JkcWVnd2doYzc4Y0U1RGFDaURkWXBTNEdYbzVHLUx6di15LWtTSE9jMjZ0WklsWTQ1bldfSGZ0d3c5U0o5RGl0Y2lnSFJiMG5JVmJGQVpLT3pRdkxnb3loUWkzV05Ra1ZlMTNYcUJnT0FhUkc4QWVOSmpzeERHV1dQ?oc=5\" target=\"_blank\"&gt;CMC OpenAI showcases legal AI capabilities at ASEAN Law Forum&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Báo VietNamNet&lt;/font&gt;",
-      "published": "2026-08-21T07:00:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
@@ -479,6 +455,30 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0MDNmd3hrc3ZLVUV5VWJPWFVWZWNWZl9JUGZpLTJwZFpIc04yaWFIRnQweEYzanBSQW5weDJQT0YyS0k1UGZua0NLTTk1Y19TWlhBeGdFQnQ0MjhubWhiZg?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0MDNmd3hrc3ZLVUV5VWJPWFVWZWNWZl9JUGZpLTJwZFpIc04yaWFIRnQweEYzanBSQW5weDJQT0YyS0k1UGZua0NLTTk1Y19TWlhBeGdFQnQ0MjhubWhiZg?oc=5\" target=\"_blank\"&gt;Why Attorney Oversight Builds Trust for Legal AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
       "published": "2026-08-16T02:51:32.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 5
+    },
+    {
+      "title": ":Harvey: Named Official Legal AI Partner of the New York Liberty - Harvey",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSFFhOTdvTGRDb3pkZGdnTUJwS0VFSGczX0lnNkFWM0RGaksydTBXdWFITHFBU1ZYTzRyWDFlMy1jNEwwTGZLNUNFTG9VRXZqYXE5ZHo2MHZ0ZjN1ekRzWXlRX2RzTzE4bVpLR1dLV3AzR0lTbXNpcllpS3Fyc2ljUTNQenI1MEVsSUF1cTVXR3JQdHdYLThQNXlZbw?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPSFFhOTdvTGRDb3pkZGdnTUJwS0VFSGczX0lnNkFWM0RGaksydTBXdWFITHFBU1ZYTzRyWDFlMy1jNEwwTGZLNUNFTG9VRXZqYXE5ZHo2MHZ0ZjN1ekRzWXlRX2RzTzE4bVpLR1dLV3AzR0lTbXNpcllpS3Fyc2ljUTNQenI1MEVsSUF1cTVXR3JQdHdYLThQNXlZbw?oc=5\" target=\"_blank\"&gt;:Harvey: Named Official Legal AI Partner of the New York Liberty&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Harvey&lt;/font&gt;",
+      "published": "2026-08-18T20:06:52.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 5
+    },
+    {
+      "title": "Harvey II adds memory &amp; matter-based legal AI tools - IT Brief Australia",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLWVCSTd2cGVvQ2Q3djBwVXlQWXpwNy1LYV9LU21rN24yXzlmSmVJWkxaWDFlX3liOVBHN3pNeVVsLTRVSHY3RURwMXZvMTlBN2ZGajhxQWhRMThBYWZtVzh6NWlPa1dwTElnZUtfTDAwN3M1blBYSzhBU1NSa1Bqd1NCZl8?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPLWVCSTd2cGVvQ2Q3djBwVXlQWXpwNy1LYV9LU21rN24yXzlmSmVJWkxaWDFlX3liOVBHN3pNeVVsLTRVSHY3RURwMXZvMTlBN2ZGajhxQWhRMThBYWZtVzh6NWlPa1dwTElnZUtfTDAwN3M1blBYSzhBU1NSa1Bqd1NCZl8?oc=5\" target=\"_blank\"&gt;Harvey II adds memory &amp; matter-based legal AI tools&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;IT Brief Australia&lt;/font&gt;",
+      "published": "2026-08-19T03:59:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
