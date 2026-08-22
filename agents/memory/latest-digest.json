@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-22T03:32:30.590Z",
+  "generated": "2026-08-22T04:20:44.807Z",
   "cycle_type": "monitoring",
   "item_count": 40,
-  "total_scanned": 761,
+  "total_scanned": 765,
   "sources_checked": 38,
   "sources_skipped": 21,
   "items": [
@@ -29,18 +29,6 @@
       "source_tier": "A",
       "source_category": "Aggregator",
       "relevance_score": 9
-    },
-    {
-      "title": "Hotshot Collaborates with Litera on Legal Training as Firms Rethink Talent Development in the Age of AI - LawSites",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTOXh4RWpHQTR3N2xNWkJkOTRBMW1EZHoxQm4zOWpuZ2UwcWlnUUNiNUtLLXhXUDZoR0JRZDZiZEstU1g2UVN6dE9Fcl9fZXVZS1hnRw?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTOXh4RWpHQTR3N2xNWkJkOTRBMW1EZHoxQm4zOWpuZ2UwcWlnUUNiNUtLLXhXUDZoR0JRZDZiZEstU1g2UVN6dE9Fcl9fZXVZS1hnRw?oc=5\" target=\"_blank\"&gt;Hotshot Collaborates with Litera on Legal Training as Firms Rethink Talent Development in the Age of AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;LawSites&lt;/font&gt;",
-      "published": "2026-08-21T15:59:29.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 8
     },
     {
       "title": "Legal Tech AI Firms Shift Away From Anthropic, OpenAI Reliance - Bloomberg Law News",
@@ -137,6 +125,18 @@
       "source_tier": "A",
       "source_category": "Aggregator",
       "relevance_score": 8
+    },
+    {
+      "title": "Hotshot Collaborates with Litera on Legal Training as Firms Rethink Talent Development in the Age of AI - LawSites",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTOXh4RWpHQTR3N2xNWkJkOTRBMW1EZHoxQm4zOWpuZ2UwcWlnUUNiNUtLLXhXUDZoR0JRZDZiZEstU1g2UVN6dE9Fcl9fZXVZS1hnRw?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTOXh4RWpHQTR3N2xNWkJkOTRBMW1EZHoxQm4zOWpuZ2UwcWlnUUNiNUtLLXhXUDZoR0JRZDZiZEstU1g2UVN6dE9Fcl9fZXVZS1hnRw?oc=5\" target=\"_blank\"&gt;Hotshot Collaborates with Litera on Legal Training as Firms Rethink Talent Development in the Age of AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;LawSites&lt;/font&gt;",
+      "published": "2026-08-21T15:59:29.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 7
     },
     {
       "title": "Pre-ILTACON Legaltech Rundown: NetDocuments Announces New AI Tools, DISCO Launches Agentic E-Discovery Tool, and More - Law.com",
