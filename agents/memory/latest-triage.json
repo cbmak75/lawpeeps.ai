@@ -1,15 +1,38 @@
 {
-  "generated": "2026-08-23T00:35:33.889Z",
+  "generated": "2026-08-23T01:03:42.649Z",
   "cycle_type": "triage",
-  "shortlist_size": 0,
-  "picks": [],
+  "tier_filter": "B",
+  "shortlist_size": 1,
   "prefilter": {
     "total": 40,
-    "accepted": 0,
+    "accepted": 2,
     "borderline": 0,
-    "rejected": 40,
-    "rejected_as_duplicate": 40,
-    "accept_rate": 0
+    "rejected": 38,
+    "rejected_as_duplicate": 38,
+    "accept_rate": 5
   },
-  "skipped_already_triaged": 0
+  "model": "gemini-flash-lite-latest",
+  "picks": [
+    {
+      "id": "hacker-news-0",
+      "score": 2,
+      "category": "Social",
+      "suggested_angle": "Linux kernel developers overwhelmed by AI-generated noise",
+      "why_now": "General open-source software development news rather than legal tech or regulation.",
+      "verdict": "drop",
+      "duplicate_of": null
+    }
+  ],
+  "summary": {
+    "enqueue_count": 0,
+    "watch_count": 0,
+    "drop_count": 1,
+    "notes": "Dropped general tech/Linux story as it falls outside the legal AI and regulation focus."
+  },
+  "enqueued": 0,
+  "usage": {
+    "input_tokens": 2154,
+    "output_tokens": 172,
+    "total_tokens": 2326
+  }
 }
