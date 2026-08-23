@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-23T03:40:22.150Z",
+  "generated": "2026-08-23T04:26:01.139Z",
   "cycle_type": "monitoring",
   "item_count": 40,
   "total_scanned": 761,
@@ -185,6 +185,18 @@
       "source_tier": "A",
       "source_category": "Aggregator",
       "relevance_score": 7
+    },
+    {
+      "title": "Legal tech start-ups put AI disruption in a risky new wrapper - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSjNwNzBheXBqNDlrQWlnVXZoejNoRE9YQW1od000QlJ0alRNSFFLWnlCRVNFblpreENVbWEwU05iaW51WHpINHN4Z2ozeTZieVRSOGVvdnJYaVJHcWhacVFadk1yT2pGYTRQQTRwOHNlSFJ6czk2SzRMelZMVXJrdlFCdng?oc=5",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOSjNwNzBheXBqNDlrQWlnVXZoejNoRE9YQW1od000QlJ0alRNSFFLWnlCRVNFblpreENVbWEwU05iaW51WHpINHN4Z2ozeTZieVRSOGVvdnJYaVJHcWhacVFadk1yT2pGYTRQQTRwOHNlSFJ6czk2SzRMelZMVXJrdlFCdng?oc=5\" target=\"_blank\"&gt;Legal tech start-ups put AI disruption in a risky new wrapper&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Financial Times&lt;/font&gt;",
+      "published": "2026-08-23T04:00:08.000Z",
+      "source_id": "google-news-legal-ai",
+      "source_name": "Google News: legal AI",
+      "source_priority": "critical",
+      "source_tier": "A",
+      "source_category": "Aggregator",
+      "relevance_score": 6
     },
     {
       "title": "Hotshot Collaborates with Litera on Legal Training as Firms Rethink Talent Development in the Age of AI - LawSites",
@@ -467,18 +479,6 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLWVCSTd2cGVvQ2Q3djBwVXlQWXpwNy1LYV9LU21rN24yXzlmSmVJWkxaWDFlX3liOVBHN3pNeVVsLTRVSHY3RURwMXZvMTlBN2ZGajhxQWhRMThBYWZtVzh6NWlPa1dwTElnZUtfTDAwN3M1blBYSzhBU1NSa1Bqd1NCZl8?oc=5",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPLWVCSTd2cGVvQ2Q3djBwVXlQWXpwNy1LYV9LU21rN24yXzlmSmVJWkxaWDFlX3liOVBHN3pNeVVsLTRVSHY3RURwMXZvMTlBN2ZGajhxQWhRMThBYWZtVzh6NWlPa1dwTElnZUtfTDAwN3M1blBYSzhBU1NSa1Bqd1NCZl8?oc=5\" target=\"_blank\"&gt;Harvey II adds memory &amp; matter-based legal AI tools&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;IT Brief Australia&lt;/font&gt;",
       "published": "2026-08-19T03:59:00.000Z",
-      "source_id": "google-news-legal-ai",
-      "source_name": "Google News: legal AI",
-      "source_priority": "critical",
-      "source_tier": "A",
-      "source_category": "Aggregator",
-      "relevance_score": 5
-    },
-    {
-      "title": "Beyond chatbots: how technical literacy defines the next era of legal AI - IFLR",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUFpJQjBKRjQ5V1l2YzVaMDJuelJ3U3hJN0V6M2R5eVczRE00VXU2Z2sybTZDUHdkY3VJYmtjQzYxdjY5Um80bUJSenlfRjhyS1NGeTdGRjc3anBFWE00OXJlQVJtd09iZklHM0E5SkQwUHYtdm9rWERZN0RLQ2NxLUFCMzlnb0JJQmRYeEZfcDhXRGlKdWdZbTBSSGpvcG5fRjJKYjhqMnBnMjhheDNtNkx6SXFsOElsUkthYXNDMVVGLXo4LUd6WVhJZk8?oc=5",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPUFpJQjBKRjQ5V1l2YzVaMDJuelJ3U3hJN0V6M2R5eVczRE00VXU2Z2sybTZDUHdkY3VJYmtjQzYxdjY5Um80bUJSenlfRjhyS1NGeTdGRjc3anBFWE00OXJlQVJtd09iZklHM0E5SkQwUHYtdm9rWERZN0RLQ2NxLUFCMzlnb0JJQmRYeEZfcDhXRGlKdWdZbTBSSGpvcG5fRjJKYjhqMnBnMjhheDNtNkx6SXFsOElsUkthYXNDMVVGLXo4LUd6WVhJZk8?oc=5\" target=\"_blank\"&gt;Beyond chatbots: how technical literacy defines the next era of legal AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;IFLR&lt;/font&gt",
-      "published": "2026-07-10T07:00:00.000Z",
       "source_id": "google-news-legal-ai",
       "source_name": "Google News: legal AI",
       "source_priority": "critical",
